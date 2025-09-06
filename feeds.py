@@ -24,51 +24,61 @@ EXCLUDE_TOKENS = [
     "Ramsgate", "Ramadan",
 ]
 
-# -------- Feeds (populate Sources dropdown) --------
+# Mark Rams-specific feeds as trusted so they bypass strict filtering.
+# (Same approach we used on ND.)
 FEEDS = [
     {"name": "\"Los Angeles Rams\" — Google News",
-     "url": "https://news.google.com/rss/search?q=%22Los+Angeles+Rams%22&hl=en-US&gl=US&ceid=US:en"},
+     "url": "https://news.google.com/rss/search?q=%22Los+Angeles+Rams%22&hl=en-US&gl=US&ceid=US:en",
+     "trusted": False},
 
     {"name": "Bing News — Los Angeles Rams",
-     "url": "https://www.bing.com/news/search?q=Los+Angeles+Rams&format=rss"},
+     "url": "https://www.bing.com/news/search?q=Los+Angeles+Rams&format=rss",
+     "trusted": False},
 
     {"name": "therams.com",
-     "url": "https://www.therams.com/rss"},
+     "url": "https://www.therams.com/rss",
+     "trusted": True},
 
     {"name": "NFL.com — Los Angeles Rams",
-     "url": "https://www.nfl.com/rss/team/ram"},
+     "url": "https://www.nfl.com/rss/team/ram",
+     "trusted": True},
 
     {"name": "Rams Wire (USA Today)",
-     "url": "https://theramswire.usatoday.com/feed/"},
+     "url": "https://theramswire.usatoday.com/feed/",
+     "trusted": True},
 
     {"name": "ESPN — Los Angeles Rams Blog",
-     "url": "https://www.espn.com/blog/los-angeles-rams/rss"},
+     "url": "https://www.espn.com/blog/los-angeles-rams/rss",
+     "trusted": True},
 
     {"name": "NBC Sports — Los Angeles Rams",
-     "url": "https://www.nbcsports.com/rss/team/los-angeles-rams"},
+     "url": "https://www.nbcsports.com/rss/team/los-angeles-rams",
+     "trusted": True},
 
     {"name": "Bleacher Report — Los Angeles Rams",
-     "url": "https://bleacherreport.com/articles/feed?tag_id=2607"},
+     "url": "https://bleacherreport.com/articles/feed?tag_id=2607",
+     "trusted": True},
 
     {"name": "Yahoo Sports — Los Angeles Rams",
-     "url": "https://sports.yahoo.com/nfl/teams/lar/rss/"},
+     "url": "https://sports.yahoo.com/nfl/teams/lar/rss/",
+     "trusted": True},
 
     {"name": "Reddit — r/LosAngelesRams",
-     "url": "https://www.reddit.com/r/LosAngelesRams/.rss"},
+     "url": "https://www.reddit.com/r/LosAngelesRams/.rss",
+     "trusted": True},
 ]
 
-# -------- Quick Links (buttons at the top) --------
+# Buttons row
 STATIC_LINKS = [
     {"label": "Schedule", "url": "https://www.therams.com/schedule/"},
     {"label": "Roster", "url": "https://www.therams.com/team/players-roster/"},
-    {"label": "Depth Chart", "url": "https://www.ourlads.com/nfldepthcharts/depthchart/LA"},
-    {"label": "Standings", "url": "https://www.nfl.com/standings/league/2025/REG"},
+    {"label": "Reddit", "url": "https://www.reddit.com/r/LosAngelesRams/"},
 
-    # Requested buttons
-    {"label": "Reddit Rams", "url": "https://www.reddit.com/r/LosAngelesRams/"},
     {"label": "Fan Zone", "url": "https://www.therams.com/fans"},
     {"label": "Bleacher Report", "url": "https://bleacherreport.com/los-angeles-rams"},
     {"label": "NFL Power Rankings", "url": "https://www.nfl.com/news/power-rankings"},
     {"label": "Stats", "url": "https://www.espn.com/nfl/team/stats/_/name/lar/los-angeles-rams"},
+    {"label": "Depth Chart", "url": "https://www.ourlads.com/nfldepthcharts/depthchart/LA"},
+    {"label": "Standings", "url": "https://www.nfl.com/standings/league/2025/REG"},
     {"label": "ESPN Team", "url": "https://www.espn.com/nfl/team/_/name/lar/los-angeles-rams"},
 ]
