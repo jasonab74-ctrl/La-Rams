@@ -4,9 +4,19 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Los Angeles Rams — News</title>
-  <link rel="icon" href="static/favicon.ico" />
+
+  <!-- Icons / PWA -->
   <link rel="apple-touch-icon" href="static/apple-touch-icon.png" />
-  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="static/favicon.ico" />
+  <link rel="icon" type="image/png" sizes="32x32" href="static/favicon-32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="static/favicon-16.png" />
+  <link rel="manifest" href="static/manifest.webmanifest" />
+  <meta name="theme-color" content="#003594" />
+
+  <!-- iOS (standalone title bar coloring and web app mode) -->
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+
   <link rel="stylesheet" href="static/style.css" />
 </head>
 <body>
@@ -34,6 +44,7 @@
 
   <script>
     const state = { data: null, lastCount: 0 };
+
     async function loadData() {
       const res = await fetch("items.json", { cache: "no-store" });
       const data = await res.json();
@@ -41,30 +52,43 @@
       state.lastCount = (data.items || []).length;
       render();
     }
+
     function render() {
-      const data = state.data; if (!data) return;
-      const ql = document.getElementById("quick-links"); ql.innerHTML = "";
+      const data = state.data;
+      if (!data) return;
+
+      // Buttons
+      const ql = document.getElementById("quick-links");
+      ql.innerHTML = "";
       (data.static_links || []).forEach(l => {
         const a = document.createElement("a");
         a.href = l.url; a.target = "_blank"; a.rel = "noopener";
         a.textContent = l.label; a.className = "pill";
         ql.appendChild(a);
       });
-      const dd = document.getElementById("sourceFilter"); const chosen = dd.value;
+
+      // Sources dropdown
+      const dd = document.getElementById("sourceFilter");
+      const chosen = dd.value;
       dd.innerHTML = '<option value="">All sources</option>';
       (data.sources || []).forEach(s => {
         const opt = document.createElement("option");
         opt.value = s; opt.textContent = s; dd.appendChild(opt);
       });
       if (chosen) dd.value = chosen;
+
+      // Updated
       const ts = new Date(data.updated_at || Date.now());
       document.getElementById("updated").textContent = "Updated: " + ts.toLocaleString();
-      const grid = document.getElementById("grid"); grid.innerHTML = "";
+
+      // Cards
+      const grid = document.getElementById("grid");
+      grid.innerHTML = "";
       let items = data.items || [];
       if (dd.value) items = items.filter(i => i.source === dd.value);
       for (const it of items) {
         const card = document.createElement("article"); card.className = "card";
-        const a = document.createElement("a"); a.className = "title"; a.href = it.url; a.target = "_blank"; a.rel = "noopener";
+        const a = document.createElement("a"); a.className = "title"; a.href = it.url; a.target = "_blank"; a.rel="noopener";
         a.textContent = it.title;
         const meta = document.createElement("div"); meta.className = "meta";
         const d = new Date(it.published || Date.now());
@@ -72,6 +96,8 @@
         card.appendChild(a); card.appendChild(meta); grid.appendChild(card);
       }
     }
+
+    // Poll every 5 minutes
     async function poll() {
       try {
         const res = await fetch("items.json", { cache: "no-store" });
@@ -86,8 +112,11 @@
         }
       } catch(e){}
     }
+
     document.getElementById("sourceFilter").addEventListener("change", render);
-    loadData(); setInterval(poll, 5 * 60 * 1000);
+
+    loadData();
+    setInterval(poll, 5 * 60 * 1000);
   </script>
 </body>
 </html>
