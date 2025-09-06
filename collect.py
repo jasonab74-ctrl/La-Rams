@@ -1,6 +1,5 @@
 """
 collect.py — fetch feeds, filter, dedupe, and write items.json for a static site.
-Run on GitHub Actions (every 30 minutes) or locally.
 """
 import re, json, time, html, sys
 from datetime import datetime, timezone
@@ -11,7 +10,7 @@ import feeds  # team-specific config
 
 USER_AGENT = "SportsNewsTemplate/1.0 (+https://github.com/your/repo)"
 TIMEOUT = 12
-MAX_ITEMS = 60  # write up to N items
+MAX_ITEMS = 60
 
 def http_head_then_get(url: str) -> str:
     try:
@@ -32,7 +31,7 @@ def canonicalize(u: str) -> str:
 
 def normalize_title(t: str) -> str:
     t = html.unescape(t or "").strip()
-    t = re.sub(r"\s+[–—-]\s+[^|]+$", "", t)   # strip " — Outlet" suffix
+    t = re.sub(r"\s+[–—-]\s+[^|]+$", "", t)
     return re.sub(r"\s+", " ", t)
 
 def extract_source(entry, feed_name: str) -> str:
@@ -55,18 +54,15 @@ def ts_from_entry(entry) -> float:
     return time.time()
 
 def allow_item(item) -> bool:
-    """Trusted feeds bypass strict filtering (like ND)."""
+    # Trusted feeds bypass strict filtering (prevents empty lists)
     if item.get("trusted"):
         return True
     title = item.get("title", "")
     summary = item.get("summary", "")
     blob = f"{title} {summary}".lower()
-    if not any(k.lower() in blob for k in feeds.TEAM_KEYWORDS):
-        return False
-    if not any(s.lower() in blob for s in feeds.SPORT_TOKENS):
-        return False
-    if any(bad.lower() in blob for bad in feeds.EXCLUDE_TOKENS):
-        return False
+    if not any(k.lower() in blob for k in feeds.TEAM_KEYWORDS): return False
+    if not any(s.lower() in blob for s in feeds.SPORT_TOKENS): return False
+    if any(bad.lower() in blob for bad in feeds.EXCLUDE_TOKENS): return False
     return True
 
 def fetch_feed(feed_def):
@@ -96,10 +92,8 @@ def dedupe(items):
     out = []
     for it in items:
         k = (it["title"].lower(), it["url"])
-        if k in seen:
-            continue
-        seen.add(k)
-        out.append(it)
+        if k in seen: continue
+        seen.add(k); out.append(it)
     return out
 
 def main():
@@ -110,19 +104,10 @@ def main():
         except Exception as e:
             print(f"[WARN] feed error {f['name']}: {e}", file=sys.stderr)
 
-    # filter
     filtered = [it for it in all_items if allow_item(it)]
-
-    # dedupe
     filtered = dedupe(filtered)
-
-    # sort newest first
     filtered.sort(key=lambda x: x.get("published", ""), reverse=True)
-
-    # cap
     filtered = filtered[:MAX_ITEMS]
-
-    # collect sources for dropdown
     sources = sorted({it["source"] for it in filtered})
 
     payload = {
@@ -133,7 +118,6 @@ def main():
         "items": filtered,
         "sources": sources,
     }
-
     with open("items.json", "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
 
