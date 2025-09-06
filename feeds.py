@@ -6,7 +6,7 @@ TEAM_SLUG = "los-angeles-rams"
 TEAM_COLORS = {
     "primary": "#003594",
     "secondary": "#FFD100",
-    "text": "#111111"
+    "text": "#111111",
 }
 
 TEAM_KEYWORDS = [
@@ -21,10 +21,10 @@ SPORT_TOKENS = ["NFL", "football", "National Football League", "Rams"]
 EXCLUDE_TOKENS = [
     "women", "basketball", "baseball", "softball", "soccer",
     "hockey", "volleyball", "college", "NCAA",
-    "Ramsgate", "Ramadan"
+    "Ramsgate", "Ramadan",
 ]
 
-# ----------------- Feeds (for dropdown sources) -----------------
+# -------- Feeds (populate Sources dropdown) --------
 FEEDS = [
     {"name": "\"Los Angeles Rams\" — Google News",
      "url": "https://news.google.com/rss/search?q=%22Los+Angeles+Rams%22&hl=en-US&gl=US&ceid=US:en"},
@@ -57,14 +57,14 @@ FEEDS = [
      "url": "https://www.reddit.com/r/LosAngelesRams/.rss"},
 ]
 
-# ----------------- Quick Links (buttons at top) -----------------
+# -------- Quick Links (buttons at the top) --------
 STATIC_LINKS = [
     {"label": "Schedule", "url": "https://www.therams.com/schedule/"},
     {"label": "Roster", "url": "https://www.therams.com/team/players-roster/"},
     {"label": "Depth Chart", "url": "https://www.ourlads.com/nfldepthcharts/depthchart/LA"},
     {"label": "Standings", "url": "https://www.nfl.com/standings/league/2025/REG"},
 
-    # Requested additions
+    # Requested buttons
     {"label": "Reddit Rams", "url": "https://www.reddit.com/r/LosAngelesRams/"},
     {"label": "Fan Zone", "url": "https://www.therams.com/fans"},
     {"label": "Bleacher Report", "url": "https://bleacherreport.com/los-angeles-rams"},
