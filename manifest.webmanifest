@@ -1,0 +1,15 @@
+{
+  "name": "Los Angeles Rams \u2014 News",
+  "short_name": "Rams News",
+  "icons": [
+    {
+      "src": "static/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#003594",
+  "background_color": "#ffffff"
+}
