@@ -1,11 +1,556 @@
 {
-  "team": {"name": "Los Angeles Rams Football", "slug": "los-angeles-rams"},
-  "updated_at": "2025-09-06T00:00:00Z",
+  "team": {
+    "name": "Los Angeles Rams Football",
+    "slug": "los-angeles-rams"
+  },
+  "updated_at": "2025-09-06T22:37:50.667342+00:00",
   "static_links": [
-    {"label": "Schedule", "url": "https://www.therams.com/schedule/"},
-    {"label": "Roster", "url": "https://www.therams.com/team/players-roster/"},
-    {"label": "Reddit", "url": "https://www.reddit.com/r/LosAngelesRams/"}
+    {
+      "label": "Schedule",
+      "url": "https://www.therams.com/schedule/"
+    },
+    {
+      "label": "Roster",
+      "url": "https://www.therams.com/team/players-roster/"
+    },
+    {
+      "label": "Reddit",
+      "url": "https://www.reddit.com/r/LosAngelesRams/"
+    },
+    {
+      "label": "Fan Zone",
+      "url": "https://www.therams.com/fans"
+    },
+    {
+      "label": "Bleacher Report",
+      "url": "https://bleacherreport.com/los-angeles-rams"
+    },
+    {
+      "label": "NFL Power Rankings",
+      "url": "https://www.nfl.com/news/power-rankings"
+    },
+    {
+      "label": "Stats",
+      "url": "https://www.espn.com/nfl/team/stats/_/name/lar/los-angeles-rams"
+    },
+    {
+      "label": "Depth Chart",
+      "url": "https://www.ourlads.com/nfldepthcharts/depthchart/LA"
+    },
+    {
+      "label": "Standings",
+      "url": "https://www.nfl.com/standings/league/2025/REG"
+    },
+    {
+      "label": "ESPN Team",
+      "url": "https://www.espn.com/nfl/team/_/name/lar/los-angeles-rams"
+    }
   ],
-  "items": [],
-  "sources": []
+  "items": [
+    {
+      "title": "Better Parking Location: PS1 or Blue Lot?",
+      "url": "https://www.reddit.com/r/LosAngelesRams/comments/1nacvc3/better_parking_location_ps1_or_blue_lot",
+      "source": "Reddit — r/LosAngelesRams",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Where would you park if you had the choice between the blue lot or PS1? I am thinking it would be easier to get out the blue lot. </p> </div><!-- SC_ON -->   submitted by   <a href=\"https://www.reddit.com/user/yutaka731\"> /u/yutaka731 </a> <br /> <span><a href=\"https://www.reddit.com/r/LosAngelesRams/comments/1nacvc3/better_parking_location_ps1_or_blue_lot/\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/LosAngelesRams/comments/1nacvc3/better_parking_location_ps1_or_blue_lot/\">[comments]</a></span>",
+      "published": "2025-09-06T22:34:50+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Where to watch Rams-Texans: TV channel, streaming, kickoff times, odds, prediction, pick",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRUkzREFuejltU2JmTVpVbEw3VGtnbFNmeWNNS010Y1p5Y1RrakxIald2dzF1Z2hHYlZpUWh5LXhFQXlSZGVBZWhBTkdTRUlfZEkyQy0wTzhpVV91UFFhaEpWekRGSXh1eXRiWGRNRWlFLUQybzBVbU5IRWNZWXpHNEQ5NUNwUkVkckdCeWdUZVFIYlhCYjc5aFp6M2s3bXlvQWsxMFpoUzU",
+      "source": "CBS Sports",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRUkzREFuejltU2JmTVpVbEw3VGtnbFNmeWNNS010Y1p5Y1RrakxIald2dzF1Z2hHYlZpUWh5LXhFQXlSZGVBZWhBTkdTRUlfZEkyQy0wTzhpVV91UFFhaEpWekRGSXh1eXRiWGRNRWlFLUQybzBVbU5IRWNZWXpHNEQ5NUNwUkVkckdCeWdUZVFIYlhCYjc5aFp6M2s3bXlvQWsxMFpoUzU?oc=5\" target=\"_blank\">Where to watch Rams-Texans: TV channel, streaming, kickoff times, odds, prediction, pick</a>  <font color=\"#6f6f6f\">CBS Sports</font>",
+      "published": "2025-09-06T22:30:55+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Rams’ Alaric Jackson and Matthew Stafford return just in time for opener",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVIxUUt6V2pwV1BCbXBOZ0ZiRGUwWFp5Mzl4TE8wX25wNVFDMmZpQ3RnYUpaOTViVENnSjh5emlHcURDdlB0YUZTdlRBYkFHMDgyN1VEOENRZUlyUi1VcXM0OEQ0aXozaGhGVFp6SWx4emFqdVJQTXNURTNQQ2dpLWM1cHhtVk83eHhicWtlaDFpMVJLZDRFVXg5a1ZJX094Qi1QRkt4aHZFUS1MNjNj0gG0AUFVX3lxTE9hUnpZSWFvZnROMVZ3YW5qVFM2bjVJODZpWFV4RmxTQXNYSlB0cjVsV1ZPdG94Ym5fN3ZSbjZ5bkppbjVsTllLT2daTGhTaFRmbW1zT044c2xSUXcyWk5oaW1hd3JFcGU2b1VVN1k2Yl9pRGhBcnNZcnFmdjYxdXhPT09iS3BuZFdfaXlsV0FhU2tfVWUwMnVQYWtnNTBna3A4Tkdkc2JjTU9pRkZWTEJfanlLMg",
+      "source": "Orange County Register",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVIxUUt6V2pwV1BCbXBOZ0ZiRGUwWFp5Mzl4TE8wX25wNVFDMmZpQ3RnYUpaOTViVENnSjh5emlHcURDdlB0YUZTdlRBYkFHMDgyN1VEOENRZUlyUi1VcXM0OEQ0aXozaGhGVFp6SWx4emFqdVJQTXNURTNQQ2dpLWM1cHhtVk83eHhicWtlaDFpMVJLZDRFVXg5a1ZJX094Qi1QRkt4aHZFUS1MNjNj0gG0AUFVX3lxTE9hUnpZSWFvZnROMVZ3YW5qVFM2bjVJODZpWFV4RmxTQXNYSlB0cjVsV1ZPdG94Ym5fN3ZSbjZ5bkppbjVsTllLT2daTGhTaFRmbW1zT044c2xSUXcyWk5oaW1hd3JFcGU2b1VVN1k2Yl9pRGhBcnNZcnFmdjYxdXhPT09iS3BuZFdfaXlsV0FhU2tfVWUwMnVQYWtnNTBna3A4Tkdkc2JjTU9pRkZWTEJfanlLMg?oc=5\" target=\"_blank\">Rams’ Alaric Jackson and Matthew Stafford return just in time for opener</a>  <font color=\"#6f6f6f\">Orange County Register</font>",
+      "published": "2025-09-06T22:13:56+00:00",
+      "trusted": false
+    },
+    {
+      "title": "LIVE: USC Trojans vs Georgia Southern Eagles",
+      "url": "https://www.on3.com/teams/usc-trojans/news/live-usc-trojans-vs-georgia-southern-eagles",
+      "source": "Yahoo Sports — Los Angeles Rams",
+      "summary": "Live updates from WeAreSC as the USC Trojans take on the Georgia Southern Eagles at the Los Angeles Memorial Coliseum.",
+      "published": "2025-09-06T22:04:15+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Rams fans very confident in team before Week 1",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSHVUWEpVNjVqMnpUOTdnVWVkU1h6OGhqaEJ2VFZDSDZmNkl0QkZ3aTJsbXNSYXlIVGlvVjVfZ3dxR1dNYnpELWVQZjdRQzd6TVhYNTQzNmpNV3lEYkJUVG8tc2w4UkxCNGJIYjNUekVWb1pPVEhFTW9pNkd0YktpUVdGajEzbWlWODlUQTktVnUwVmtLdnMteFlhNmdzYm5sMDAwdm9MZjFOZmlmRWc",
+      "source": "Turf Show Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQSHVUWEpVNjVqMnpUOTdnVWVkU1h6OGhqaEJ2VFZDSDZmNkl0QkZ3aTJsbXNSYXlIVGlvVjVfZ3dxR1dNYnpELWVQZjdRQzd6TVhYNTQzNmpNV3lEYkJUVG8tc2w4UkxCNGJIYjNUekVWb1pPVEhFTW9pNkd0YktpUVdGajEzbWlWODlUQTktVnUwVmtLdnMteFlhNmdzYm5sMDAwdm9MZjFOZmlmRWc?oc=5\" target=\"_blank\">Rams fans very confident in team before Week 1</a>  <font color=\"#6f6f6f\">Turf Show Times</font>",
+      "published": "2025-09-06T21:59:01+00:00",
+      "trusted": false
+    },
+    {
+      "title": "UK Visitors to Rams vs Texans",
+      "url": "https://www.reddit.com/r/LosAngelesRams/comments/1nabvsg/uk_visitors_to_rams_vs_texans",
+      "source": "Reddit — r/LosAngelesRams",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi Rams</p> <p>We are in LA for a few days from the UK and got tickets to the game tomorrow and don’t know what to expect. </p> <p>We are Derby County fans (Uk Soccer team) whose nicknames are “The Rams” so it feels like fate that we got tickets. </p> <p>I checked the sub reddit info but couldn’t find much info on what to expect so I am looking for advice from the experts. </p> <p>Are there things to do around the stadium (bars, events etc.)? What time should we get there? </p> <p>Any advice would be greatly welcome. </p> <p>Thanks!</p> </div><!-- SC_ON -->   submitted by   <a href=\"https://www.reddit.com/user/OkBuilder905\"> /u/OkBuilder905 </a> <br /> <span><a href=\"https://www.reddit.com/r/LosAngelesRams/comments/1nabvsg/uk_visitors_to_rams_vs_texans/\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/LosAngelesRams/comments/1nabvsg/uk_visitors_to_rams_vs_texans/\">[comments]</a></span>",
+      "published": "2025-09-06T21:52:03+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Los Angeles Rams vs. Houston Texans injury report | Week 1 2025",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNem56VFRxTmVGNlBBV2s1bWpuSWpPbXczUTlRSEI2VXJFNE1zWldneUZqWnhvNkszbjJsQ2ZzTlB1eHVxd2F5eVYwUngxY0cxV1hHaXRmUWp3eUpMS0lvZmM5dHlEZGZiUnlWWm9CYnc1TDlpZlhHYVdQWWE5UkVPR3RIWWwzVk5SYUxPNUJ1dGVWcV9RQm5rajhtX0VsRGpWdE5wa0x0VDFzRkpzMjlYeERGVC1oSng1cndaSi1sVWpGU3RsRVE",
+      "source": "Rams Wire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNem56VFRxTmVGNlBBV2s1bWpuSWpPbXczUTlRSEI2VXJFNE1zWldneUZqWnhvNkszbjJsQ2ZzTlB1eHVxd2F5eVYwUngxY0cxV1hHaXRmUWp3eUpMS0lvZmM5dHlEZGZiUnlWWm9CYnc1TDlpZlhHYVdQWWE5UkVPR3RIWWwzVk5SYUxPNUJ1dGVWcV9RQm5rajhtX0VsRGpWdE5wa0x0VDFzRkpzMjlYeERGVC1oSng1cndaSi1sVWpGU3RsRVE?oc=5\" target=\"_blank\">Los Angeles Rams vs. Houston Texans injury report | Week 1 2025</a>  <font color=\"#6f6f6f\">Rams Wire</font>",
+      "published": "2025-09-06T21:33:06+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Texans vs. Rams odds, predictions: Proven model gives free 2025 NFL Week 1 picks for Sunday",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ1NSQURJTDB2MmE0c3VmWFgyaGZEMVZ3ZHRtRGVNMm1obEUzNjc0WG5Cbkx1dUd4OVVpcDlvYTdTTF94Q3JCOTVzOHBraFJQODhjTkRHTC1RcVpnYm9oWDZ6RXIzOWlESXdReXhFYVd0STI5RFZHQ1ZYYS0yY0REYzhURG9YdjlrdHZZZU9ObHhhOVNKWjdLOFF1b3V6bGhBMmNzYWlIaUV1RUI5M1J5U1dSUUt4LXBKSk5JdEN3ejlFdw",
+      "source": "CBS Sports",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ1NSQURJTDB2MmE0c3VmWFgyaGZEMVZ3ZHRtRGVNMm1obEUzNjc0WG5Cbkx1dUd4OVVpcDlvYTdTTF94Q3JCOTVzOHBraFJQODhjTkRHTC1RcVpnYm9oWDZ6RXIzOWlESXdReXhFYVd0STI5RFZHQ1ZYYS0yY0REYzhURG9YdjlrdHZZZU9ObHhhOVNKWjdLOFF1b3V6bGhBMmNzYWlIaUV1RUI5M1J5U1dSUUt4LXBKSk5JdEN3ejlFdw?oc=5\" target=\"_blank\">Texans vs. Rams odds, predictions: Proven model gives free 2025 NFL Week 1 picks for Sunday</a>  <font color=\"#6f6f6f\">CBS Sports</font>",
+      "published": "2025-09-06T21:22:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Watch Parties",
+      "url": "https://www.reddit.com/r/LosAngelesRams/comments/1nab37j/watch_parties",
+      "source": "Reddit — r/LosAngelesRams",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Are there any watch parties happening during tomorrow’s game? I’m looking for someplace, preferably in the IE, to go out and watch the game.</p> </div><!-- SC_ON -->   submitted by   <a href=\"https://www.reddit.com/user/Brian_Chaos\"> /u/Brian_Chaos </a> <br /> <span><a href=\"https://www.reddit.com/r/LosAngelesRams/comments/1nab37j/watch_parties/\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/LosAngelesRams/comments/1nab37j/watch_parties/\">[comments]</a></span>",
+      "published": "2025-09-06T21:17:26+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Where to watch today's Los Angeles Rams vs Houston Texans NFL Game: Livestream, TV channels and start time",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSXpvU240Qnprb0JpajUwT2x4X3hSakphaU5uNnFMdzdlYUJDWE5xRkJQNzl4bk1VSTB5NllVNlpLSk5iSldyT0RBSDBENS12am1zN21SUUEyVUNWeC05WmR3cTVIVnQ4Ym0zd3FjUE1IbXBpMXR2U19CajNFYkpKa0dWYzZMbGQ0LVlTcW5R",
+      "source": "Goal.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNSXpvU240Qnprb0JpajUwT2x4X3hSakphaU5uNnFMdzdlYUJDWE5xRkJQNzl4bk1VSTB5NllVNlpLSk5iSldyT0RBSDBENS12am1zN21SUUEyVUNWeC05WmR3cTVIVnQ4Ym0zd3FjUE1IbXBpMXR2U19CajNFYkpKa0dWYzZMbGQ0LVlTcW5R?oc=5\" target=\"_blank\">Where to watch today's Los Angeles Rams vs Houston Texans NFL Game: Livestream, TV channels and start time</a>  <font color=\"#6f6f6f\">Goal.com</font>",
+      "published": "2025-09-06T21:13:23+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Rams’ long-running injury nightmare just gave way to a shocking Week 1 twist",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONjlodzVtbl9NSVdOVVVLQ1A5MEx3Ty10TFgyZ2NWSjlQa1pFZnJfQ29HcWtxbDRJUzdzY2lCRzhRQmJIWW5BSXhVQ2V1ZWhlNFdLMU5TQjVoSjFSc2psU1NZN3NkcEpONWEzOEtWaUNkRjlvcE9uekRlTzhDMllaWkI2VzBnZ3QyX2o1cENNVk1UTUpZRzlucnlSakxhcGF0bUo1YkVPSGg5VEtD",
+      "source": "Ramblin' Fan",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxONjlodzVtbl9NSVdOVVVLQ1A5MEx3Ty10TFgyZ2NWSjlQa1pFZnJfQ29HcWtxbDRJUzdzY2lCRzhRQmJIWW5BSXhVQ2V1ZWhlNFdLMU5TQjVoSjFSc2psU1NZN3NkcEpONWEzOEtWaUNkRjlvcE9uekRlTzhDMllaWkI2VzBnZ3QyX2o1cENNVk1UTUpZRzlucnlSakxhcGF0bUo1YkVPSGg5VEtD?oc=5\" target=\"_blank\">Rams’ long-running injury nightmare just gave way to a shocking Week 1 twist</a>  <font color=\"#6f6f6f\">Ramblin' Fan</font>",
+      "published": "2025-09-06T21:00:01+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Swanson: Can Matthew Stafford be the Rams’ Clayton Kershaw?",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMnhtYzhUeG9WLVhQYU9GSnVqcm01aThtU01rb0JLTFdPV0RxNUVGZTQxYm96MTUtM2plM2RQN1dpcXRha09aanVDcFhaQ3JwMnhLdHRWbDYyOVBZWDNrSy1wc18zZXl0VEJoMjlfZGdkQ3FsQXFxeGJFYldMWWVmM214Q1lta1I3RURiN3lrRTRsRzFSSEdnWG1rTdIBoAFBVV95cUxPUFpITlItNEhWSVIyMFBRVkVDOFBYOVpZYjJUWDBtRUhRWWFGT0ZLQUZxeHY5cGpSQ0xWazhITmRGUTBVQXhidGNSblVKUDZrM1JUMVFMMjFmR3NaZ0VMVkFqRU9oMld2OXZvMWRvRTRZS1BqS29Pa0tvcjM0QUVmd2Q5dEdCU3doYXlmVDdjdVlxbEpxQWU5UGhEUnU3dGlJ",
+      "source": "Orange County Register",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQMnhtYzhUeG9WLVhQYU9GSnVqcm01aThtU01rb0JLTFdPV0RxNUVGZTQxYm96MTUtM2plM2RQN1dpcXRha09aanVDcFhaQ3JwMnhLdHRWbDYyOVBZWDNrSy1wc18zZXl0VEJoMjlfZGdkQ3FsQXFxeGJFYldMWWVmM214Q1lta1I3RURiN3lrRTRsRzFSSEdnWG1rTdIBoAFBVV95cUxPUFpITlItNEhWSVIyMFBRVkVDOFBYOVpZYjJUWDBtRUhRWWFGT0ZLQUZxeHY5cGpSQ0xWazhITmRGUTBVQXhidGNSblVKUDZrM1JUMVFMMjFmR3NaZ0VMVkFqRU9oMld2OXZvMWRvRTRZS1BqS29Pa0tvcjM0QUVmd2Q5dEdCU3doYXlmVDdjdVlxbEpxQWU5UGhEUnU3dGlJ?oc=5\" target=\"_blank\">Swanson: Can Matthew Stafford be the Rams’ Clayton Kershaw?</a>  <font color=\"#6f6f6f\">Orange County Register</font>",
+      "published": "2025-09-06T20:57:47+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Los Angeles Rams vs. Houston Texans 2025 odds, tips and betting trends | Week 1",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVENoZUFIN05XdXNKUzJmMzk0VXZsQTMwalFpbkhtUWFWLTVkdDB3dzJoYU04YkpCTktMaDBnaVA1WFpFa1h0QXVuQnBJZTlqcUNZMFl4aTVpZmtDWVJhc2NJTjZ3ZTFnbUlGME8zRV83VjdHUHVCaFAyOEFRaDJENERrcXVKanVTTGJCS3lSb1lFelV4U0lqdTdWbXlCT0NTQ3k1dlJUV0ZrY1NxMVpRRkZhUFZzd0R0R25lYkRGeFBNbU50cUlMVHpGWFdxdUlZYW01Ug",
+      "source": "Rams Wire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVENoZUFIN05XdXNKUzJmMzk0VXZsQTMwalFpbkhtUWFWLTVkdDB3dzJoYU04YkpCTktMaDBnaVA1WFpFa1h0QXVuQnBJZTlqcUNZMFl4aTVpZmtDWVJhc2NJTjZ3ZTFnbUlGME8zRV83VjdHUHVCaFAyOEFRaDJENERrcXVKanVTTGJCS3lSb1lFelV4U0lqdTdWbXlCT0NTQ3k1dlJUV0ZrY1NxMVpRRkZhUFZzd0R0R25lYkRGeFBNbU50cUlMVHpGWFdxdUlZYW01Ug?oc=5\" target=\"_blank\">Los Angeles Rams vs. Houston Texans 2025 odds, tips and betting trends | Week 1</a>  <font color=\"#6f6f6f\">Rams Wire</font>",
+      "published": "2025-09-06T20:51:22+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Rams vs. Texans Sept. 7 Viewing Options: TV, Live Stream",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbUhJMU9wX1c5RVY3R2l5cVJEZmlVQVF1eTFPMmFPcTVCaDJvWFhQdjlDWDlLay1NZzM4Wno0Sk45Y0xUSkxfUjc4cjluTHBRN1l6RGdGN0pwNmE1VjVHMHFoWHk4ZDhaSExKckNhMVZJNFJQVXZpVlp4VjFEU2xKMHZLakFZTXZqWldJWFliNHk1cmE4M25ZZlhCaGNHb2xGMmlqZVdCRHJObnZmV3ZVa0VzMEFDVllwbGVNMTI3eFBMQUNpX1VMMVozTmFkYl9iUDVVWEk2Wk53NkE",
+      "source": "Fox Sports 990",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbUhJMU9wX1c5RVY3R2l5cVJEZmlVQVF1eTFPMmFPcTVCaDJvWFhQdjlDWDlLay1NZzM4Wno0Sk45Y0xUSkxfUjc4cjluTHBRN1l6RGdGN0pwNmE1VjVHMHFoWHk4ZDhaSExKckNhMVZJNFJQVXZpVlp4VjFEU2xKMHZLakFZTXZqWldJWFliNHk1cmE4M25ZZlhCaGNHb2xGMmlqZVdCRHJObnZmV3ZVa0VzMEFDVllwbGVNMTI3eFBMQUNpX1VMMVozTmFkYl9iUDVVWEk2Wk53NkE?oc=5\" target=\"_blank\">Rams vs. Texans Sept. 7 Viewing Options: TV, Live Stream</a>  <font color=\"#6f6f6f\">Fox Sports 990</font>",
+      "published": "2025-09-06T20:51:01+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Houston Texans at Rams: Who has the edge?",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVnpZNnVvNkxhbWtNNndkdThyamVXTVFOMHNQSGZqQzBObUFGVWNvT2pacEhXWDZTZlhJUk5Nd28wWEZZMnpFS1JtektqeGhzVUpDWXZKMzR4cGpjSXBXVmNIdXlwS05femF5aHBPWDJhVlBfeXN4MnB3U3lISTBXRTlsdUfSAYoBQVVfeXFMTm1LMjltR2JTUDhQMW1tVXlnU3MyWF83R3VvOEhORmVWNmZQS2Rya2NDdVM3ZGhQeVhaYXgtRXlkSUFmUnNXZlpNRGFaeGVVMkdJbW9qdmxRZ0tFalI2NW1HWXZOX3gyU1lCRDNqZlFsS24tTXp0RmhNZExpVDJNaFYyT2w1Z0JhSGx3",
+      "source": "Orange County Register",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPVnpZNnVvNkxhbWtNNndkdThyamVXTVFOMHNQSGZqQzBObUFGVWNvT2pacEhXWDZTZlhJUk5Nd28wWEZZMnpFS1JtektqeGhzVUpDWXZKMzR4cGpjSXBXVmNIdXlwS05femF5aHBPWDJhVlBfeXN4MnB3U3lISTBXRTlsdUfSAYoBQVVfeXFMTm1LMjltR2JTUDhQMW1tVXlnU3MyWF83R3VvOEhORmVWNmZQS2Rya2NDdVM3ZGhQeVhaYXgtRXlkSUFmUnNXZlpNRGFaeGVVMkdJbW9qdmxRZ0tFalI2NW1HWXZOX3gyU1lCRDNqZlFsS24tTXp0RmhNZExpVDJNaFYyT2w1Z0JhSGx3?oc=5\" target=\"_blank\">Houston Texans at Rams: Who has the edge?</a>  <font color=\"#6f6f6f\">Orange County Register</font>",
+      "published": "2025-09-06T20:04:34+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Texans’ Defense Faces Defining Test Against Rams",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOE4xeWJSMHdFalN3aExEX29wV3ZFMXNHOEdYRTBrU2Q1RlBEdXFDWDJVREVSUXNqWjNTUW81ZndqOGNENl9YdllCOFA1RGdNYk5qUml4OFlmQjhUS3RFYUhMeFZtcGw0R0xIRXNaSTI1ZU5LWDQtZ1ZZWTdtNEszbGNuOA",
+      "source": "Heavy Sports",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPOE4xeWJSMHdFalN3aExEX29wV3ZFMXNHOEdYRTBrU2Q1RlBEdXFDWDJVREVSUXNqWjNTUW81ZndqOGNENl9YdllCOFA1RGdNYk5qUml4OFlmQjhUS3RFYUhMeFZtcGw0R0xIRXNaSTI1ZU5LWDQtZ1ZZWTdtNEszbGNuOA?oc=5\" target=\"_blank\">Texans’ Defense Faces Defining Test Against Rams</a>  <font color=\"#6f6f6f\">Heavy Sports</font>",
+      "published": "2025-09-06T20:01:43+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Las Vegas Rams fans",
+      "url": "https://www.reddit.com/r/LosAngelesRams/comments/1na8opu/las_vegas_rams_fans",
+      "source": "Reddit — r/LosAngelesRams",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LosAngelesRams/comments/1na8opu/las_vegas_rams_fans/\"> <img alt=\"Las Vegas Rams fans\" src=\"https://preview.redd.it/0mttgytkklnf1.jpeg?width=640&crop=smart&auto=webp&s=36043f3df281b34f23978538c4fd9dc89449bf6e\" title=\"Las Vegas Rams fans\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Calling All Rams fans in Las Vegas come join the 702 Rams Club at Twin Peaks to watch all of the Rams games 🤘🏽</p> </div><!-- SC_ON -->   submitted by   <a href=\"https://www.reddit.com/user/roqqer\"> /u/roqqer </a> <br /> <span><a href=\"https://i.redd.it/0mttgytkklnf1.jpeg\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/LosAngelesRams/comments/1na8opu/las_vegas_rams_fans/\">[comments]</a></span> </td></tr></table>",
+      "published": "2025-09-06T19:38:11+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Week 1 Mood",
+      "url": "https://www.reddit.com/r/LosAngelesRams/comments/1na8dzz/week_1_mood",
+      "source": "Reddit — r/LosAngelesRams",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LosAngelesRams/comments/1na8dzz/week_1_mood/\"> <img alt=\"Week 1 Mood\" src=\"https://preview.redd.it/y7db6e6filnf1.gif?width=320&crop=smart&s=25af5b935ff5dd2da4268806d7d11778721c79b3\" title=\"Week 1 Mood\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Horns up baby</p> </div><!-- SC_ON -->   submitted by   <a href=\"https://www.reddit.com/user/StaffordToNacua\"> /u/StaffordToNacua </a> <br /> <span><a href=\"https://i.redd.it/y7db6e6filnf1.gif\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/LosAngelesRams/comments/1na8dzz/week_1_mood/\">[comments]</a></span> </td></tr></table>",
+      "published": "2025-09-06T19:26:06+00:00",
+      "trusted": true
+    },
+    {
+      "title": "[OC] 5 Things I’m Watching For During the Rams opener",
+      "url": "https://www.reddit.com/r/LosAngelesRams/comments/1na869n/oc_5_things_im_watching_for_during_the_rams_opener",
+      "source": "Reddit — r/LosAngelesRams",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LosAngelesRams/comments/1na869n/oc_5_things_im_watching_for_during_the_rams_opener/\"> <img alt=\"[OC] 5 Things I’m Watching For During the Rams opener\" src=\"https://external-preview.redd.it/q5P8io7Dyinc7R00_hET2s1JQfzgDQ_0CgRVPie5ti0.jpeg?width=640&crop=smart&auto=webp&s=08d7500f89b968f154d420eb458084a6bf0087bc\" title=\"[OC] 5 Things I’m Watching For During the Rams opener\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>TLDR: Davante, Run defense, Pass peotection, 12-personnel usage and explosive runs. </p> </div><!-- SC_ON -->   submitted by   <a href=\"https://www.reddit.com/user/Tunatron_Prime\"> /u/Tunatron_Prime </a> <br /> <span><a href=\"https://open.substack.com/pub/1standtuna/p/rams-gameday-watch-guide-kickoff?r=605mkz&utm_medium=ios/\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/LosAngelesRams/comments/1na869n/oc_5_things_im_watching_for_during_the_rams_opener/\">[comments]</a></span> </td></tr></table>",
+      "published": "2025-09-06T19:17:39+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Play a special Los Angeles Rams version of Connections: Sports Edition",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMF96VnA3TWJfTDFsT1lJLXVTSG9RaUE2a1ROVlRpbG52SWVMT0poMVZDRTY4Q0ZNTS04WHFocmV5X3hSUHlmRnhlc1FRR09VQmY1QnBZSHFuWXY4OXBUamlvOVc0SEctMElzOHJ0NE5pOEpZUDRZS2otaFF6ZjZNSG9YcnVfVENDQUZIMm9qNkVwbFV6dHBKcg",
+      "source": "The New York Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOMF96VnA3TWJfTDFsT1lJLXVTSG9RaUE2a1ROVlRpbG52SWVMT0poMVZDRTY4Q0ZNTS04WHFocmV5X3hSUHlmRnhlc1FRR09VQmY1QnBZSHFuWXY4OXBUamlvOVc0SEctMElzOHJ0NE5pOEpZUDRZS2otaFF6ZjZNSG9YcnVfVENDQUZIMm9qNkVwbFV6dHBKcg?oc=5\" target=\"_blank\">Play a special Los Angeles Rams version of Connections: Sports Edition - The Athletic</a>  <font color=\"#6f6f6f\">The New York Times</font>",
+      "published": "2025-09-06T19:00:28+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Texans elevate FB Jakob Johnson from practice squad for Week 1 vs. Los Angeles Rams",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORXV1UXhvc3Zjc2hYYndxUXd6SVRUMk1HMVlFTWw4V1pjRjVTLTJHZWpmNmU5ZGhzN0g2azMtcGxZSVZaZzB3NWREWEZUc0lDUGQtTkEyMlZwS0hoWXRieXJVX2xwb3JianhGNm02OF9xQ19TbHNMZzBidHd5eWVwQnVFRzExUHdJWGZySEJwNFZkS0lPdWJWWEZPX3FpOGhUT1R6bGtZcnFzV3FSTmhzdWdLY3Zwd291ZnluOEtxTmFNdw",
+      "source": "Texans Wire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxORXV1UXhvc3Zjc2hYYndxUXd6SVRUMk1HMVlFTWw4V1pjRjVTLTJHZWpmNmU5ZGhzN0g2azMtcGxZSVZaZzB3NWREWEZUc0lDUGQtTkEyMlZwS0hoWXRieXJVX2xwb3JianhGNm02OF9xQ19TbHNMZzBidHd5eWVwQnVFRzExUHdJWGZySEJwNFZkS0lPdWJWWEZPX3FpOGhUT1R6bGtZcnFzV3FSTmhzdWdLY3Zwd291ZnluOEtxTmFNdw?oc=5\" target=\"_blank\">Texans elevate FB Jakob Johnson from practice squad for Week 1 vs. Los Angeles Rams</a>  <font color=\"#6f6f6f\">Texans Wire</font>",
+      "published": "2025-09-06T18:59:04+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Warner Super Bowl 99/00 Jersey",
+      "url": "https://www.reddit.com/r/LosAngelesRams/comments/1na7h93/warner_super_bowl_9900_jersey",
+      "source": "Reddit — r/LosAngelesRams",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Anyone know where I could get a legit Warner (white) Super Bowl Jersey? 99/2000.</p> </div><!-- SC_ON -->   submitted by   <a href=\"https://www.reddit.com/user/Thisisntreal115\"> /u/Thisisntreal115 </a> <br /> <span><a href=\"https://www.reddit.com/r/LosAngelesRams/comments/1na7h93/warner_super_bowl_9900_jersey/\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/LosAngelesRams/comments/1na7h93/warner_super_bowl_9900_jersey/\">[comments]</a></span>",
+      "published": "2025-09-06T18:49:52+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Five Lessons the Rams Learned From Eagles Season Opener",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxZ1R0TkR0Yy13S1FUaUVPZGg2b210SnJ0X1JJeW5vTW1lQWZpRHdSeVZnTlRkNDR3cFJxNmxEVVRVM1hmdUk3blpKMkc4SjJnamJocVZHeXVEaEh2bHhla2g0R18zR1hnU2RMVV81ang5djNQa3Z0WktNMXE",
+      "source": "Sports Illustrated",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFAxZ1R0TkR0Yy13S1FUaUVPZGg2b210SnJ0X1JJeW5vTW1lQWZpRHdSeVZnTlRkNDR3cFJxNmxEVVRVM1hmdUk3blpKMkc4SjJnamJocVZHeXVEaEh2bHhla2g0R18zR1hnU2RMVV81ang5djNQa3Z0WktNMXE?oc=5\" target=\"_blank\">Five Lessons the Rams Learned From Eagles Season Opener</a>  <font color=\"#6f6f6f\">Sports Illustrated</font>",
+      "published": "2025-09-06T18:47:49+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Five Lessons the Rams Learned From Eagles Season Opener",
+      "url": "https://www.si.com/nfl/rams/flos-angeles-jalen-hurts-eagles-jalen-carter",
+      "source": "Yahoo Sports — Los Angeles Rams",
+      "summary": "The Los Angeles Rams got a sneak peek at their week three opponent on Thursday and while the team remains focused only on the opponent at hand, once they turn their attention to the Eagles, here are five lessons they'll take with them into the game. Carter was ejected from the game before the first play from scrimmage of the entire 2025 NFL season because he spat on Cowboys quarterback Dak Prescott. While some may argue that Prescott spat at the ground in a gesture towards Carter, the fact is that instead of having the foresight to see the opportunity of taking on a rookie guard in Tyler Booker, giving him a clean repeated shot at Prescott, he let his emotions take control and gave the Cowboys offense a clean pocket virtually all night.",
+      "published": "2025-09-06T18:47:49+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Rams announce one practice squad elevation for Week 1 vs. Texans",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTm1LbDJLRTFnT0xoVV9EZkNUcE1pajBxYzZ2N2lwQVNMNlZ3a0RDQVVhWl83VV80NlNwakFvaDkxbVo3Vlp3UWRjTGtxcjRGdWphTWRUa05lWDhUWW1zdXhSTE9FRllhcGFPcy14VVotM2NQZ2NCZHA2Nnctd25HWDViZXFGRTZ4SFlPb3k3U3ZZM0x3czJwZXd4cXFxcEFyNU1KN3c2dnlkWXNsUTBXVGVYMW1jT1FVbGJaLWNEZw",
+      "source": "Rams Wire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNTm1LbDJLRTFnT0xoVV9EZkNUcE1pajBxYzZ2N2lwQVNMNlZ3a0RDQVVhWl83VV80NlNwakFvaDkxbVo3Vlp3UWRjTGtxcjRGdWphTWRUa05lWDhUWW1zdXhSTE9FRllhcGFPcy14VVotM2NQZ2NCZHA2Nnctd25HWDViZXFGRTZ4SFlPb3k3U3ZZM0x3czJwZXd4cXFxcEFyNU1KN3c2dnlkWXNsUTBXVGVYMW1jT1FVbGJaLWNEZw?oc=5\" target=\"_blank\">Rams announce one practice squad elevation for Week 1 vs. Texans</a>  <font color=\"#6f6f6f\">Rams Wire</font>",
+      "published": "2025-09-06T18:29:34+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Colorado Buffaloes football legend Shedeur Sanders receives depressing message on Kaidon Salter, Julian Lewis",
+      "url": "https://sports.yahoo.com/article/colorado-buffaloes-football-legend-shedeur-182614864.html",
+      "source": "Yahoo Sports — Los Angeles Rams",
+      "summary": "Colorado Buffaloes football legend Shedeur Sanders hasn't been properly replaced by his father in Boulder.",
+      "published": "2025-09-06T18:26:14+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Rams announce one practice squad elevation for Week 1 vs. Texans",
+      "url": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/06/la-rams-practice-squad-week-1-cody-schrader/86016210007",
+      "source": "Yahoo Sports — Los Angeles Rams",
+      "summary": "The Los Angeles Rams haven't made any changes to their 53-man roster or practice squad since setting them last week, a clear indication that they like they guys they have. Teams are allowed to promote two players from the practice squad each week but the Rams decided to elevate just one.",
+      "published": "2025-09-06T18:25:55+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Rams Make Last Minute Week One Roster Move",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85T2hXYnpzOFRZWEpTVW4xQ3BpWTdUeWNxSGt5YXB6aVpvWE1XdG5Pc001R19Eejd2T2tmbUdnS3JKemctWkMzaWdueFVFZVdQOURxVFlmajFrVXIwWUxlbXRMb1FqRFk5OEdLQmc3SW5lbHJwWVQ1dm90SQ",
+      "source": "Sports Illustrated",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE85T2hXYnpzOFRZWEpTVW4xQ3BpWTdUeWNxSGt5YXB6aVpvWE1XdG5Pc001R19Eejd2T2tmbUdnS3JKemctWkMzaWdueFVFZVdQOURxVFlmajFrVXIwWUxlbXRMb1FqRFk5OEdLQmc3SW5lbHJwWVQ1dm90SQ?oc=5\" target=\"_blank\">Rams Make Last Minute Week One Roster Move</a>  <font color=\"#6f6f6f\">Sports Illustrated</font>",
+      "published": "2025-09-06T18:23:16+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Los Angeles Rams Release 2025 Uniform Schedule, How Does It Compare To 2024?",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOER4RVdOTUtXaW8tT3hVakdScXdSNXBsOWRUOFYzNmYwaXc3YmY1M2FJazdhVUozU1hOZ2xndXFDenhVX3ZBem1JbzdpbW44bmd6SzlGU09xMDFVa2tFWkNzSG12ZGhtZW9NbGlCZEVTR09yMGJhbmZaUzNNQVh1V2R0Nm40b3VNV0JWSFdtVmo1MUFiSzNJ",
+      "source": "LAFB Network",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNOER4RVdOTUtXaW8tT3hVakdScXdSNXBsOWRUOFYzNmYwaXc3YmY1M2FJazdhVUozU1hOZ2xndXFDenhVX3ZBem1JbzdpbW44bmd6SzlGU09xMDFVa2tFWkNzSG12ZGhtZW9NbGlCZEVTR09yMGJhbmZaUzNNQVh1V2R0Nm40b3VNV0JWSFdtVmo1MUFiSzNJ?oc=5\" target=\"_blank\">Los Angeles Rams Release 2025 Uniform Schedule, How Does It Compare To 2024?</a>  <font color=\"#6f6f6f\">LAFB Network</font>",
+      "published": "2025-09-06T18:13:58+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Houston Texans vs. Los Angeles Rams: live game updates, stats, play-by-play",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwcUVfbTQxZ2JrVS1MN212RU1NRFZSazUxMFU2WUs2RzVMN3kwcmNWWlg3Z0l3NnFfWndRdGRnQVlyd2JVb3dMcU9aM3BkWFNpVlZHREtsQmxYLW1EcHF2TklFZWVzMEtqWHloeFRvTlhXYkZXU1VUaDAwZjM2QQ",
+      "source": "Yahoo Sports",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFAwcUVfbTQxZ2JrVS1MN212RU1NRFZSazUxMFU2WUs2RzVMN3kwcmNWWlg3Z0l3NnFfWndRdGRnQVlyd2JVb3dMcU9aM3BkWFNpVlZHREtsQmxYLW1EcHF2TklFZWVzMEtqWHloeFRvTlhXYkZXU1VUaDAwZjM2QQ?oc=5\" target=\"_blank\">Houston Texans vs. Los Angeles Rams: live game updates, stats, play-by-play</a>  <font color=\"#6f6f6f\">Yahoo Sports</font>",
+      "published": "2025-09-06T17:43:19+00:00",
+      "trusted": false
+    },
+    {
+      "title": "All I want for Christmas is a hard hitting safety",
+      "url": "https://www.reddit.com/r/LosAngelesRams/comments/1na5a9r/all_i_want_for_christmas_is_a_hard_hitting_safety",
+      "source": "Reddit — r/LosAngelesRams",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Man I miss Ramsey lined at the slot but imagine if the Rams had someone even half the player that Sean Taylor was </p> </div><!-- SC_ON -->   submitted by   <a href=\"https://www.reddit.com/user/Logical-Breakfast225\"> /u/Logical-Breakfast225 </a> <br /> <span><a href=\"https://www.reddit.com/r/LosAngelesRams/comments/1na5a9r/all_i_want_for_christmas_is_a_hard_hitting_safety/\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/LosAngelesRams/comments/1na5a9r/all_i_want_for_christmas_is_a_hard_hitting_safety/\">[comments]</a></span>",
+      "published": "2025-09-06T17:23:49+00:00",
+      "trusted": true
+    },
+    {
+      "title": "3 Keys to Winning for the Rams against the Texans in Week 1",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNmtXcTJ2LWpsWVlxS25XRktRMEV1MjhfM3NtbERQd1B0djFkUGp5V19DNUJ6OFZvcU92ZTJvTmxjcUFEdk5QbVY3eGhhLVlic3N3eTB2MERrdkFBUXRkS1lCcFcxdmx3SWY4M2lHVXhfYWVRc0V6T1BIUU9ib01BUTFtRTkyN2x6Rm40RFNVUWFRdw",
+      "source": "Rams",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNNmtXcTJ2LWpsWVlxS25XRktRMEV1MjhfM3NtbERQd1B0djFkUGp5V19DNUJ6OFZvcU92ZTJvTmxjcUFEdk5QbVY3eGhhLVlic3N3eTB2MERrdkFBUXRkS1lCcFcxdmx3SWY4M2lHVXhfYWVRc0V6T1BIUU9ib01BUTFtRTkyN2x6Rm40RFNVUWFRdw?oc=5\" target=\"_blank\">3 Keys to Winning for the Rams against the Texans in Week 1</a>  <font color=\"#6f6f6f\">Rams</font>",
+      "published": "2025-09-06T17:03:46+00:00",
+      "trusted": false
+    },
+    {
+      "title": "NFC West Primer: Are 49ers still a threat?",
+      "url": "http://www.thenashvillenews.net/news/278556826/nfc-west-primer-are-49ers-still-a-threat",
+      "source": "Yahoo Sports — Los Angeles Rams",
+      "summary": "(Photo credit: Matt Kartozian-Imagn Images) The San Francisco 49ers were ravaged by injuries last season and went 6-11 just one year after reaching the Super Bowl. It's not hard to forecast that a healthy Christian McCaffrey is the big ingredient needed for a turnaround. But the 49ers did shake up the roster a bit and that also can reignite the fire of veteran holdovers. There is very little chance of San Francisco winning just 35 percent of its games for consecutive seasons after owning the division for multiple seasons. But it will be tough sledding for Brock Purdy and company as the NFC West is shaping up to be one of the most competitive divisions in the NFL. The Los Angeles Rams and Seattle",
+      "published": "2025-09-06T17:01:59+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Poona Ford hopes to add ‘seasoning’ to Rams’ talented defensive front",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWTM1cVFHSlJQM1hlS2x5MUZqdlMzUjdERlNDUktFbnhwd082OGRDQ05lTU5QTkhTTzgyZ1BHV29tTzA3YWtNV3NNel9LWWdvVzBGUzByRlNRLXNndWVVTko4c2Z6U25RdUVBcmdUaS1FRkJjc3RYb3g5V0hSRmdUMWd1Z0pnRFN6VDB6VkFRX2d3SzB6Z25zOW1fazBCUE0zQTk2TXEzZUJNZUhNWHExTXd4dw",
+      "source": "The Sporting Tribune",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPWTM1cVFHSlJQM1hlS2x5MUZqdlMzUjdERlNDUktFbnhwd082OGRDQ05lTU5QTkhTTzgyZ1BHV29tTzA3YWtNV3NNel9LWWdvVzBGUzByRlNRLXNndWVVTko4c2Z6U25RdUVBcmdUaS1FRkJjc3RYb3g5V0hSRmdUMWd1Z0pnRFN6VDB6VkFRX2d3SzB6Z25zOW1fazBCUE0zQTk2TXEzZUJNZUhNWHExTXd4dw?oc=5\" target=\"_blank\">Poona Ford hopes to add ‘seasoning’ to Rams’ talented defensive front</a>  <font color=\"#6f6f6f\">The Sporting Tribune</font>",
+      "published": "2025-09-06T17:01:07+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Rams Looking to Move Up Record Board on Sunday",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdnJ3b0N1WmlhMXMzOHcxeGJ3RGpBNW1VQWxTZWxPT3BpaGY0ZmtULU5MZm84enNRb2hwdFJoOXJPUTJPMDRuU0dHcnZPalhuNGZsYTdSN3h4ZUZpemo5X25MYU5HYzE0M0d6MGJGLTNQM2p2TG91TzdGb2hzMFZ0TDY4eG1nQjYxUWNmcVB4VmIxM2JrYVdQajZNVmc",
+      "source": "Sports Illustrated",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPdnJ3b0N1WmlhMXMzOHcxeGJ3RGpBNW1VQWxTZWxPT3BpaGY0ZmtULU5MZm84enNRb2hwdFJoOXJPUTJPMDRuU0dHcnZPalhuNGZsYTdSN3h4ZUZpemo5X25MYU5HYzE0M0d6MGJGLTNQM2p2TG91TzdGb2hzMFZ0TDY4eG1nQjYxUWNmcVB4VmIxM2JrYVdQajZNVmc?oc=5\" target=\"_blank\">Rams Looking to Move Up Record Board on Sunday</a>  <font color=\"#6f6f6f\">Sports Illustrated</font>",
+      "published": "2025-09-06T17:00:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Fantasy Football: Why you should start Rams RB Kyren Williams in fantasy in Week 1",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNFN1Sm50ZFJPMDBpZE9qV3h0U0NIODNPdWNpMW9rNHVIMGVnUk9xd3M0ZmZTa3dwbWM2dzc4aDU1bUFPTkNYQjNXNFRKYVB3Wnl0V1hDUnRyb1JWWTA4S2ctSjdYZjdsVWZYMm1yRkowNE1iVFpOT2xLVG9reUlNOVc3WUJza1RIUktQRXFHSWVxVlU5WEJSajBmM3FQUzE1SF9TVENfS2VaUHVDX0ZDZGFEenVwNURTU3FTTDBpeUNhOU51MkVJUA",
+      "source": "Rams Wire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNFN1Sm50ZFJPMDBpZE9qV3h0U0NIODNPdWNpMW9rNHVIMGVnUk9xd3M0ZmZTa3dwbWM2dzc4aDU1bUFPTkNYQjNXNFRKYVB3Wnl0V1hDUnRyb1JWWTA4S2ctSjdYZjdsVWZYMm1yRkowNE1iVFpOT2xLVG9reUlNOVc3WUJza1RIUktQRXFHSWVxVlU5WEJSajBmM3FQUzE1SF9TVENfS2VaUHVDX0ZDZGFEenVwNURTU3FTTDBpeUNhOU51MkVJUA?oc=5\" target=\"_blank\">Fantasy Football: Why you should start Rams RB Kyren Williams in fantasy in Week 1</a>  <font color=\"#6f6f6f\">Rams Wire</font>",
+      "published": "2025-09-06T16:19:07+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Rams vs. Texans: Fantasy start/sit recommendations for Los Angeles",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd3FGbk9HcDcwNHhQeWVSVGZfQjluRndqV25scm1kaVZGblRldnNGVlRucldvQ1REWTl4eVhqdlFrVVNITjJBTFh5RFNSeHBaSFU4WHpWWlBGcFplNXp0eVREOExNbVdGV2JMZDZFYVA1SGFwYlRzWFQ0Rjh2VkRRQmZWRHU1cVVOVnJPbUpVUjlPNWZjSEs0d09uTjA4NEt3SnBFaHdqVGRwM3pJSzV6YlZ5aUZOYlhZUl9WWDRfNG9RUF9vc3FEcQ",
+      "source": "Rams Wire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd3FGbk9HcDcwNHhQeWVSVGZfQjluRndqV25scm1kaVZGblRldnNGVlRucldvQ1REWTl4eVhqdlFrVVNITjJBTFh5RFNSeHBaSFU4WHpWWlBGcFplNXp0eVREOExNbVdGV2JMZDZFYVA1SGFwYlRzWFQ0Rjh2VkRRQmZWRHU1cVVOVnJPbUpVUjlPNWZjSEs0d09uTjA4NEt3SnBFaHdqVGRwM3pJSzV6YlZ5aUZOYlhZUl9WWDRfNG9RUF9vc3FEcQ?oc=5\" target=\"_blank\">Rams vs. Texans: Fantasy start/sit recommendations for Los Angeles</a>  <font color=\"#6f6f6f\">Rams Wire</font>",
+      "published": "2025-09-06T16:19:03+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Fantasy Football: Why you should start Rams RB Kyren Williams in fantasy in Week 1",
+      "url": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/06/rams-kyren-williams-fantasy-football-week-1-texans/86014047007",
+      "source": "Yahoo Sports — Los Angeles Rams",
+      "summary": "The Los Angeles Rams open up their 2025 campaign with a home game against the Houston Texans at SoFi Stadium on Sunday, as Sean McVay's team hopes to make it back to the playoffs and advance further than the divisional round for the first time since they won the Super Bowl in 2021. Los Angeles will be a team on everyone's radar throughout the year because they have the talent to win the division and make a postseason push, but they also have a few players who will be gamechangers for fantasy owners in 2025 as well. In Week 1 against the Texans, fantasy owners have a few Rams to consider starting, but they should definitely lock running back Kyren Williams in their starting lineup for this week.",
+      "published": "2025-09-06T16:17:59+00:00",
+      "trusted": true
+    },
+    {
+      "title": "How to watch Texans at Rams: TV channel and streaming options for September 7",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZTh5UTRwNWo4MjE3RHJLVkZiOERzcGJ6a3RKX1RLcjRuRkduN3dWclR1UVdnS2dXODQyNVhtcTA5UUZZbUw2V0lfcDdiLUtabHZhNi1ORGVnLWRiMXZ4ZFJrdTR1ZHFvYVBST25rWTZoMTlsc2hmU1ktazAyS3N3c1poM0dTWGhOeWpiQUd3MmhSZ2E2X2FXdHV3",
+      "source": "The New York Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOZTh5UTRwNWo4MjE3RHJLVkZiOERzcGJ6a3RKX1RLcjRuRkduN3dWclR1UVdnS2dXODQyNVhtcTA5UUZZbUw2V0lfcDdiLUtabHZhNi1ORGVnLWRiMXZ4ZFJrdTR1ZHFvYVBST25rWTZoMTlsc2hmU1ktazAyS3N3c1poM0dTWGhOeWpiQUd3MmhSZ2E2X2FXdHV3?oc=5\" target=\"_blank\">How to watch Texans at Rams: TV channel and streaming options for September 7 - The Athletic</a>  <font color=\"#6f6f6f\">The New York Times</font>",
+      "published": "2025-09-06T16:13:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Top Rams News: Previews and predictions for Rams vs. Texans in Week 1",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM2FzZWlRLTltUXZwUENBXzRZb2RWMUV0QzFnY1ZjNnk5TXVRc2JXMzJzR0ZhelhIYmJqdnlaVkFlU2Z6LVpFNlo2a001TmVBakotX1RLY0wxWnpIYXgzZ0V5MGN6WkVRSHBBQUJWV3c1cnUtSE16cXpMTjFPY2gzTTg3cldzeUtza3FKSU9NNDhROTVWM1hPRGRFb25EYV9QZVFz",
+      "source": "Rams",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNM2FzZWlRLTltUXZwUENBXzRZb2RWMUV0QzFnY1ZjNnk5TXVRc2JXMzJzR0ZhelhIYmJqdnlaVkFlU2Z6LVpFNlo2a001TmVBakotX1RLY0wxWnpIYXgzZ0V5MGN6WkVRSHBBQUJWV3c1cnUtSE16cXpMTjFPY2gzTTg3cldzeUtza3FKSU9NNDhROTVWM1hPRGRFb25EYV9QZVFz?oc=5\" target=\"_blank\">Top Rams News: Previews and predictions for Rams vs. Texans in Week 1</a>  <font color=\"#6f6f6f\">Rams</font>",
+      "published": "2025-09-06T16:03:56+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Rams Morning Report: Team Holds Slight Edge Over Opening Opponent",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYlJhMmE1VjEzWFB0a2JndW1GaHQ0ZWlpcG9FbmpiZ0dyR2ZBaVZ5ZVNaRkZ2S3RMZEFPRThKY1dKQV9lVUNYVXZfTTNyLTRHQXhST1EtekFTdGhYUGRhS2pDTUIyMi1VdWlzOWlmWEZXUW04VHd0QXVvZXRwdUNQNVhfRWxfSWc",
+      "source": "Sports Illustrated",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOYlJhMmE1VjEzWFB0a2JndW1GaHQ0ZWlpcG9FbmpiZ0dyR2ZBaVZ5ZVNaRkZ2S3RMZEFPRThKY1dKQV9lVUNYVXZfTTNyLTRHQXhST1EtekFTdGhYUGRhS2pDTUIyMi1VdWlzOWlmWEZXUW04VHd0QXVvZXRwdUNQNVhfRWxfSWc?oc=5\" target=\"_blank\">Rams Morning Report: Team Holds Slight Edge Over Opening Opponent</a>  <font color=\"#6f6f6f\">Sports Illustrated</font>",
+      "published": "2025-09-06T16:00:51+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Rams Morning Report: Team Holds Slight Edge Over Opening Opponent",
+      "url": "https://www.si.com/nfl/rams/los-angeles-alaric-jackson-houston-texans-sean-mcvay",
+      "source": "Yahoo Sports — Los Angeles Rams",
+      "summary": "The Los Angeles Rams wrapped up final preparations for their game against the Houston Texans on Friday, and after, the Rams received good news while the Texans suffered a few losses. Despite having three names on the injury report, the Rams expect Alaric Jackson, Ahkello Witherspoon, and Rob Havenstein to play on Sunday. “As far as the injuries are concerned, [Offensive Lineman] Alaric [Jackson] will end up being listed on here as illness,\" stated Sean McVay.",
+      "published": "2025-09-06T16:00:51+00:00",
+      "trusted": true
+    },
+    {
+      "title": "One Star Passer Is Not Answer For Post-Stafford Rams",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcl9haFQtVk45RGlnY0xNaDFpQ0l5cERRQzJoTHRYOXhaUDI0bzVpVjlCTG9YeG1KUmxaX282eWJuaDltZWF1QV9wQjF3VXJULVl5NEc2ekx2b2RnbnY5Tk5YankxcElWMDZMaWRrOFc4X2lFZ1Q5YjU1QmI0OWkwQUdDREZqNlJOWlAwZVFKVVpPb0hnSTh4YTl6UQ",
+      "source": "Sports Illustrated",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOcl9haFQtVk45RGlnY0xNaDFpQ0l5cERRQzJoTHRYOXhaUDI0bzVpVjlCTG9YeG1KUmxaX282eWJuaDltZWF1QV9wQjF3VXJULVl5NEc2ekx2b2RnbnY5Tk5YankxcElWMDZMaWRrOFc4X2lFZ1Q5YjU1QmI0OWkwQUdDREZqNlJOWlAwZVFKVVpPb0hnSTh4YTl6UQ?oc=5\" target=\"_blank\">One Star Passer Is Not Answer For Post-Stafford Rams</a>  <font color=\"#6f6f6f\">Sports Illustrated</font>",
+      "published": "2025-09-06T16:00:03+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Rams QB Matthew Stafford Hit With Brutal Reality Check",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQejJxV2Z4UGd6RXdPeTBGckNsT04zTkY0Ujh5RHowYW5SdXNwenZKVURuMW9DeWpTVTBUeGJ6OUtuOHZla2NwN1RYNTFrSVdSRlJJczlPUTFsWWNBRnNzYU5jWHdjTWkxQmYzTUlGUk1oSWR6ellibmpMZFNmLXVhLXdvSGl4bk9TYlUyVWxZTmtfc2dKb3Q2cA",
+      "source": "Newsweek",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQejJxV2Z4UGd6RXdPeTBGckNsT04zTkY0Ujh5RHowYW5SdXNwenZKVURuMW9DeWpTVTBUeGJ6OUtuOHZla2NwN1RYNTFrSVdSRlJJczlPUTFsWWNBRnNzYU5jWHdjTWkxQmYzTUlGUk1oSWR6ellibmpMZFNmLXVhLXdvSGl4bk9TYlUyVWxZTmtfc2dKb3Q2cA?oc=5\" target=\"_blank\">Rams QB Matthew Stafford Hit With Brutal Reality Check</a>  <font color=\"#6f6f6f\">Newsweek</font>",
+      "published": "2025-09-06T15:58:43+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Texans QB C.J. Stroud Gets Called Out by Rams Defender Ahead of Week 1",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT19DdTl1Z0dSX2lEeHNEazN1VDEzMDh0T3FNamJmVHEycFl1SG90NWxfbl84MnNrank5dGdmVU94NWsxMVFRWnFRVlRCMlViMTAwSVlTOGNhSU9XbFlvcHFoRi0yMWZYREJEbWcxQUJfVHQ5MmV3UzJhWWVUZXBSRjhQTFd0RHZyTXNDa3FtdGpWSGxfOE42RDJiUC11TGMtenI4QjlR",
+      "source": "House of Houston",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQT19DdTl1Z0dSX2lEeHNEazN1VDEzMDh0T3FNamJmVHEycFl1SG90NWxfbl84MnNrank5dGdmVU94NWsxMVFRWnFRVlRCMlViMTAwSVlTOGNhSU9XbFlvcHFoRi0yMWZYREJEbWcxQUJfVHQ5MmV3UzJhWWVUZXBSRjhQTFd0RHZyTXNDa3FtdGpWSGxfOE42RDJiUC11TGMtenI4QjlR?oc=5\" target=\"_blank\">Texans QB C.J. Stroud Gets Called Out by Rams Defender Ahead of Week 1</a>  <font color=\"#6f6f6f\">House of Houston</font>",
+      "published": "2025-09-06T15:34:08+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Rams fans very confident in team before Week 1",
+      "url": "https://sports.yahoo.com/article/rams-fans-very-confident-team-215901179.html",
+      "source": "Bing News — Los Angeles Rams",
+      "summary": "Rams fans are confident that the team is headed in the right direction leading into L.A.’s Week 1 matchup against the Houston Texans. In this week’s SB Nation Reacts poll, 95% of you voted that yes, ...",
+      "published": "2025-09-06T15:32:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Rams Make Last Minute Week One Roster Move",
+      "url": "https://www.msn.com/en-us/sports/nfl/rams-make-last-minute-week-one-roster-move/ar-AA1M1mLj",
+      "source": "Bing News — Los Angeles Rams",
+      "summary": "Since this is a standard activation, the Rams prevent Schrader from being exposed to waivers without having them move to the 53-man roster. Each NFL team is allowed to bring up two practice squad ...",
+      "published": "2025-09-06T15:23:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "As Davante Adams nears his Rams debut, Puka Nacua says wide receiver duo will 'be a headache' for defenses",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaDlsXy1lRzd0VDNQcC1DaE1pS2tMbm9EdGpvM0hfMElHTnhtcEwtNUVzVHhSTzFVZlFKYjl5U2xINTJVRlZRZzRRSmdtYVdWc1Q1WUNudzU4eWFXTFU4Y01BYUJMVFFnM05YNF9hWGxJUTlHYkhQLWhsN3pCZHBoal9ESkNsQ0RJRHpiWkxfM2oyLXhOZGVwTFRrQ3hmYjhTYmp1V09uZG8wYkdHTVR0b0d5Y2Q0UE11VXZz0gHAAUFVX3lxTE1uRFV6Y1VzbEV5NXpfWmw3S25uZkNabWJYRzBrX3R6a211dVVERUF3NVVnc3hveEFYU29CTl9BZi1CZnQ1elQ5UEhzQ1VNT0dEMC1vWGNyN2xvSnhLV0J3cnE0TE9pRVRuVjM0NWEyUkpjREgzSTRzQlBQODBnZEhsa3BPcDIxSzN5bnkyTmtWV0dQQk0ydUxHUGhtMEtJbk1ONDVtVnhXNHZYUVAtYlVqSXMxZi1WbldwemxrS2ZuUA",
+      "source": "ABC7 Los Angeles",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaDlsXy1lRzd0VDNQcC1DaE1pS2tMbm9EdGpvM0hfMElHTnhtcEwtNUVzVHhSTzFVZlFKYjl5U2xINTJVRlZRZzRRSmdtYVdWc1Q1WUNudzU4eWFXTFU4Y01BYUJMVFFnM05YNF9hWGxJUTlHYkhQLWhsN3pCZHBoal9ESkNsQ0RJRHpiWkxfM2oyLXhOZGVwTFRrQ3hmYjhTYmp1V09uZG8wYkdHTVR0b0d5Y2Q0UE11VXZz0gHAAUFVX3lxTE1uRFV6Y1VzbEV5NXpfWmw3S25uZkNabWJYRzBrX3R6a211dVVERUF3NVVnc3hveEFYU29CTl9BZi1CZnQ1elQ5UEhzQ1VNT0dEMC1vWGNyN2xvSnhLV0J3cnE0TE9pRVRuVjM0NWEyUkpjREgzSTRzQlBQODBnZEhsa3BPcDIxSzN5bnkyTmtWV0dQQk0ydUxHUGhtMEtJbk1ONDVtVnhXNHZYUVAtYlVqSXMxZi1WbldwemxrS2ZuUA?oc=5\" target=\"_blank\">As Davante Adams nears his Rams debut, Puka Nacua says wide receiver duo will 'be a headache' for defenses</a>  <font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
+      "published": "2025-09-06T15:19:38+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Texans at Rams | By The Numbers",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fZl95WmNvb0I4bi01RG1rcDFpUlh1VFNJdjh2Yjh6a1MzdUhxdUJoRkMtZEFyLWFXMEdYT1Z5OUdXUFRBY1JDX2RMSU5helN2NnNrMHlYSkZOdW5EUUhHaFdtTEtQYV9EeFJnSWhzczZ4Zw",
+      "source": "Houston Texans",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9fZl95WmNvb0I4bi01RG1rcDFpUlh1VFNJdjh2Yjh6a1MzdUhxdUJoRkMtZEFyLWFXMEdYT1Z5OUdXUFRBY1JDX2RMSU5helN2NnNrMHlYSkZOdW5EUUhHaFdtTEtQYV9EeFJnSWhzczZ4Zw?oc=5\" target=\"_blank\">Texans at Rams | By The Numbers</a>  <font color=\"#6f6f6f\">Houston Texans</font>",
+      "published": "2025-09-06T14:34:08+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Texans GM Commends Matthew Stafford Prior to Rams Matchup",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYnRwZkdXWThDMnlEZ0xlMnVkRmNocXFKNXVZX18wb21HS1RHNjJhYkFGQ3JydmlBVWkySzUxWXpUY0NNaGFIMXZDekpBUjQ0MVZob0ZtblFUblJhdjlaSjRqTUFfeUluVFhiMFRCWVJ3Qjg4QjBzanh1aDN4UTdlNXZGVWtXQzFYUXB2Q2l6TmxpYXM",
+      "source": "Sports Illustrated",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOYnRwZkdXWThDMnlEZ0xlMnVkRmNocXFKNXVZX18wb21HS1RHNjJhYkFGQ3JydmlBVWkySzUxWXpUY0NNaGFIMXZDekpBUjQ0MVZob0ZtblFUblJhdjlaSjRqTUFfeUluVFhiMFRCWVJ3Qjg4QjBzanh1aDN4UTdlNXZGVWtXQzFYUXB2Q2l6TmxpYXM?oc=5\" target=\"_blank\">Texans GM Commends Matthew Stafford Prior to Rams Matchup</a>  <font color=\"#6f6f6f\">Sports Illustrated</font>",
+      "published": "2025-09-06T14:03:58+00:00",
+      "trusted": false
+    },
+    {
+      "title": "What the Rams' Missing Piece Is",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbXRvRFhCNjV5NklpWHZjVVNySG41eWJCRmlvVjRadjBOWlBGcUtrM2txRFotVEpTeHBUaWZSVG5CeE5CRzFWQWV6am1YdlNaV0dnWDZCSFozVzBRYWMxM2VhVVJmTEk3M3Z3OEdOcEVGMmpTTW5pNXVIUmpQOVRic2xHNFJhXy1pdTN0TnU2RTBIT092dzU2OUJQaU1RRG1IQzRR",
+      "source": "Sports Illustrated",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQbXRvRFhCNjV5NklpWHZjVVNySG41eWJCRmlvVjRadjBOWlBGcUtrM2txRFotVEpTeHBUaWZSVG5CeE5CRzFWQWV6am1YdlNaV0dnWDZCSFozVzBRYWMxM2VhVVJmTEk3M3Z3OEdOcEVGMmpTTW5pNXVIUmpQOVRic2xHNFJhXy1pdTN0TnU2RTBIT092dzU2OUJQaU1RRG1IQzRR?oc=5\" target=\"_blank\">What the Rams' Missing Piece Is</a>  <font color=\"#6f6f6f\">Sports Illustrated</font>",
+      "published": "2025-09-06T14:00:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "3 things that will worry Rams fans (and 3 things that shouldn't)",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSThnSmdvSWt2LXU1Q0twZWF6MXhsT1dGT2lodWpMUXR0LWwyTGVyRWVKTjZmVjBYS2g1YzNwazdieWotbXltanJiRWpmYmFkbUtnc0JNOTlpelJyLTB6NTRmeWg2M1JUSExhSjFiZUh6WFhsZ3FSMjNoS1pYTmVNUTBaUXZOLU90RlRvVlZOY08tVTc2eGZmVmtkUjZyUQ",
+      "source": "Ramblin' Fan",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNSThnSmdvSWt2LXU1Q0twZWF6MXhsT1dGT2lodWpMUXR0LWwyTGVyRWVKTjZmVjBYS2g1YzNwazdieWotbXltanJiRWpmYmFkbUtnc0JNOTlpelJyLTB6NTRmeWg2M1JUSExhSjFiZUh6WFhsZ3FSMjNoS1pYTmVNUTBaUXZOLU90RlRvVlZOY08tVTc2eGZmVmtkUjZyUQ?oc=5\" target=\"_blank\">3 things that will worry Rams fans (and 3 things that shouldn't)</a>  <font color=\"#6f6f6f\">Ramblin' Fan</font>",
+      "published": "2025-09-06T14:00:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "How did Stan Kroenke become the owner of the Rams?",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWTQzVGFoSTlLMXYwQVBRemdEOU1EaHlRcGFwRThSa3VQcFdWWUVKN2d2Rnc3Z2c3c2hESnRLbWRvLVg4cTNyOURrOThFSWNEd0tRODItbFUwck9pRUlITFUzT2dUakl2bnp4NnZaLWZrOWdObjR5ZEZyUUJTYVRGSNIBhgFBVV95cUxNVHVHZnYxcnhyQkZaQ28zSjFpNUF6LUhZamJOYklzdVQ0WlNOa3JweElZbDdxeFpDU1cyN0NwSXFSSnpIQjNfNlN2NjA2TVJiZzJWLUN6MS1BOWgyZHBsTVJ4MkRkNzNSZk5fd0lwOGE0OUNDQ3FYcGhFWWV0eGJyaE5PSDlsdw",
+      "source": "FOX 2",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPWTQzVGFoSTlLMXYwQVBRemdEOU1EaHlRcGFwRThSa3VQcFdWWUVKN2d2Rnc3Z2c3c2hESnRLbWRvLVg4cTNyOURrOThFSWNEd0tRODItbFUwck9pRUlITFUzT2dUakl2bnp4NnZaLWZrOWdObjR5ZEZyUUJTYVRGSNIBhgFBVV95cUxNVHVHZnYxcnhyQkZaQ28zSjFpNUF6LUhZamJOYklzdVQ0WlNOa3JweElZbDdxeFpDU1cyN0NwSXFSSnpIQjNfNlN2NjA2TVJiZzJWLUN6MS1BOWgyZHBsTVJ4MkRkNzNSZk5fd0lwOGE0OUNDQ3FYcGhFWWV0eGJyaE5PSDlsdw?oc=5\" target=\"_blank\">How did Stan Kroenke become the owner of the Rams?</a>  <font color=\"#6f6f6f\">FOX 2</font>",
+      "published": "2025-09-06T14:00:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Texans Will Have Their Hands Full With This Rams Unit",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPam9UR2dYVlpvWW1DRnYtZFA5b19Rb2FYTDR2VG1ZX0FrQkctRmpydjJXOHpHbnVWaGxWVldlamd1TGtlZFYzMWhMRElnNUxjUkdOVWFiYWZsRkFRc1g1YXVRTDg5TE9RaDNWXzhwZHpEaFZlWlM3RE1mOU1RaWMwV252TXNpNUI3RnJGODJfdmlUZ3pSZ3pOUHFqZG9qOE12RGlLLWEwMmJMSVBq",
+      "source": "Sports Illustrated",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPam9UR2dYVlpvWW1DRnYtZFA5b19Rb2FYTDR2VG1ZX0FrQkctRmpydjJXOHpHbnVWaGxWVldlamd1TGtlZFYzMWhMRElnNUxjUkdOVWFiYWZsRkFRc1g1YXVRTDg5TE9RaDNWXzhwZHpEaFZlWlM3RE1mOU1RaWMwV252TXNpNUI3RnJGODJfdmlUZ3pSZ3pOUHFqZG9qOE12RGlLLWEwMmJMSVBq?oc=5\" target=\"_blank\">Texans Will Have Their Hands Full With This Rams Unit</a>  <font color=\"#6f6f6f\">Sports Illustrated</font>",
+      "published": "2025-09-06T13:00:03+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Random Ramsdom: What are you looking for on Sunday?",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUWdrYmE2cFoyV09pbXhUbnQwektpNmE2Q0RUUHV3RTJJaUFBM1pkMWtaTTVObTRjeExJNkFSMTJzQ3BzWk05Y3VrRUoycFY5Yzk2QnJUZFkzRnlxb3hHamJHUHdEaXA2THBWVFJBQ2R0cjVod0o3cWVOM3RpUVZfcEU5U05ORExhTzd1ZS1lcmZQRUV0WGc",
+      "source": "Turf Show Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNUWdrYmE2cFoyV09pbXhUbnQwektpNmE2Q0RUUHV3RTJJaUFBM1pkMWtaTTVObTRjeExJNkFSMTJzQ3BzWk05Y3VrRUoycFY5Yzk2QnJUZFkzRnlxb3hHamJHUHdEaXA2THBWVFJBQ2R0cjVod0o3cWVOM3RpUVZfcEU5U05ORExhTzd1ZS1lcmZQRUV0WGc?oc=5\" target=\"_blank\">Random Ramsdom: What are you looking for on Sunday?</a>  <font color=\"#6f6f6f\">Turf Show Times</font>",
+      "published": "2025-09-06T13:00:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Texans elevate FB Jakob Johnson from practice squad for Week 1 vs. Los Angeles Rams",
+      "url": "https://www.msn.com",
+      "source": "Bing News — Los Angeles Rams",
+      "summary": "Houston has already ruled out wide receiver Christian Kirk and Braxton Berrios with hamstring injuries, meaning the Texans will have to trust rookie wide receiver Jayden Higgins and Jaylin Noel. Noel, ...",
+      "published": "2025-09-06T12:09:00+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Behind enemy lines: Previewing Rams-Texans with 5 burning questions",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcHR3ZUMzc1lFdmhDOU5JNDRWODVXSGpKeWhlVUQ2VVlna2RTX2MzUGVMWXRYaEMzWUFvb1NkLUxqQk9KbmdXenZhcEQtV0lDc1dkTDhxTHhrZEhLaEcyd0lqbWxIbjkyVzVKaldGWmo1STNPbnowZUd0VjZsWVA3YnZoV3J0czNDMHRGTTc0NTJScU5XMTZ4bVdLcUU1dDlRQnl6WXBQQzIwRm15ZU5IWDlsRURqZlA0Y1A1Yg",
+      "source": "Rams Wire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPcHR3ZUMzc1lFdmhDOU5JNDRWODVXSGpKeWhlVUQ2VVlna2RTX2MzUGVMWXRYaEMzWUFvb1NkLUxqQk9KbmdXenZhcEQtV0lDc1dkTDhxTHhrZEhLaEcyd0lqbWxIbjkyVzVKaldGWmo1STNPbnowZUd0VjZsWVA3YnZoV3J0czNDMHRGTTc0NTJScU5XMTZ4bVdLcUU1dDlRQnl6WXBQQzIwRm15ZU5IWDlsRURqZlA0Y1A1Yg?oc=5\" target=\"_blank\">Behind enemy lines: Previewing Rams-Texans with 5 burning questions</a>  <font color=\"#6f6f6f\">Rams Wire</font>",
+      "published": "2025-09-06T12:04:36+00:00",
+      "trusted": false
+    },
+    {
+      "title": "See who made PFF's all-time Rams team",
+      "url": "https://sports.yahoo.com/article/see-made-pffs-time-rams-120143859.html",
+      "source": "Yahoo Sports — Los Angeles Rams",
+      "summary": "The Los Angeles Rams have had some great players over the past 20 years.",
+      "published": "2025-09-06T12:01:43+00:00",
+      "trusted": true
+    },
+    {
+      "title": "Behind enemy lines: Previewing Rams-Texans with 5 burning questions",
+      "url": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/06/rams-texans-preview-questions-week-1-game/85995137007",
+      "source": "Yahoo Sports — Los Angeles Rams",
+      "summary": "The Houston Texans look much different right now than they did last year. The Los Angeles Rams might be catching them at the right time this early in the season, but they're still going to be a difficult team to beat on Sunday. To gather some intel on the state of the Texans, we caught up with Texans Wire's Cole Thompson and asked him five questions about the game – including his final score prediction. 1. Do you expect the Texans' offensive line to be better this season after undergoing some remodeling this offseason?",
+      "published": "2025-09-06T12:01:31+00:00",
+      "trusted": true
+    },
+    {
+      "title": "The Elite Trait Davante Adams Is Bringing to Rams",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdTJpb1lDdVVXOHNzWWFpR01fS1hPbHVqNklWSzZSd3o2cDF6OFAxa0dKV1J3NEhwQ01XT3VHS2UydzR0RFk3UXJ2ODAzMmNmckRQeEtHQXRfbDNpQ0Z3MEF1M1FRWHNhdTh1X2V2YVJQSHFIdkhDNHB6ZGdKdXNDWURuZWRSUENhTEpqNlZmU3A",
+      "source": "Sports Illustrated",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOdTJpb1lDdVVXOHNzWWFpR01fS1hPbHVqNklWSzZSd3o2cDF6OFAxa0dKV1J3NEhwQ01XT3VHS2UydzR0RFk3UXJ2ODAzMmNmckRQeEtHQXRfbDNpQ0Z3MEF1M1FRWHNhdTh1X2V2YVJQSHFIdkhDNHB6ZGdKdXNDWURuZWRSUENhTEpqNlZmU3A?oc=5\" target=\"_blank\">The Elite Trait Davante Adams Is Bringing to Rams</a>  <font color=\"#6f6f6f\">Sports Illustrated</font>",
+      "published": "2025-09-06T12:00:03+00:00",
+      "trusted": false
+    }
+  ],
+  "sources": [
+    "ABC7 Los Angeles",
+    "Bing News — Los Angeles Rams",
+    "CBS Sports",
+    "FOX 2",
+    "Fox Sports 990",
+    "Goal.com",
+    "Heavy Sports",
+    "House of Houston",
+    "Houston Texans",
+    "LAFB Network",
+    "Newsweek",
+    "Orange County Register",
+    "Ramblin' Fan",
+    "Rams",
+    "Rams Wire",
+    "Reddit — r/LosAngelesRams",
+    "Sports Illustrated",
+    "Texans Wire",
+    "The New York Times",
+    "The Sporting Tribune",
+    "Turf Show Times",
+    "Yahoo Sports",
+    "Yahoo Sports — Los Angeles Rams"
+  ]
 }
