@@ -1,22 +1,10 @@
 {
-  "team": {
-    "name": "Los Angeles Rams Football",
-    "slug": "los-angeles-rams"
-  },
-  "updated_at": "2025-09-06T22:03:57.994620+00:00",
+  "team": {"name": "Los Angeles Rams Football", "slug": "los-angeles-rams"},
+  "updated_at": "2025-09-06T00:00:00Z",
   "static_links": [
-    {
-      "label": "Schedule",
-      "url": "https://www.therams.com/schedule/"
-    },
-    {
-      "label": "Roster",
-      "url": "https://www.therams.com/team/players-roster/"
-    },
-    {
-      "label": "Reddit",
-      "url": "https://www.reddit.com/r/LosAngelesRams/"
-    }
+    {"label": "Schedule", "url": "https://www.therams.com/schedule/"},
+    {"label": "Roster", "url": "https://www.therams.com/team/players-roster/"},
+    {"label": "Reddit", "url": "https://www.reddit.com/r/LosAngelesRams/"}
   ],
   "items": [],
   "sources": []
