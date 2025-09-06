@@ -5,9 +5,8 @@ on:
     - cron: "*/30 * * * *"   # every 30 minutes
   workflow_dispatch:          # allow manual run
 
-# allow committing items.json
 permissions:
-  contents: write
+  contents: write            # allow committing items.json
 
 jobs:
   collect:
@@ -25,10 +24,10 @@ jobs:
       - name: Collect feeds
         run: python collect.py
 
-      - name: Show summary
+      - name: Show items head (debug)
         run: |
           echo "---- items.json head ----"
-          head -n 60 items.json || true
+          head -n 80 items.json || true
 
       - name: Commit items.json
         run: |
