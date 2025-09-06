@@ -14,7 +14,6 @@ TIMEOUT = 12
 MAX_ITEMS = 60  # write up to N items
 
 def http_head_then_get(url: str) -> str:
-    """Unwraps most redirect/utm junk by following with GET (no content)."""
     try:
         r = requests.get(url, allow_redirects=True, timeout=TIMEOUT,
                          headers={"User-Agent": USER_AGENT})
@@ -23,7 +22,6 @@ def http_head_then_get(url: str) -> str:
         return url
 
 def canonicalize(u: str) -> str:
-    """Normalize URL for dedupe: lower host, drop query fragments."""
     try:
         u = http_head_then_get(u)
         p = urlparse(u)
@@ -56,7 +54,12 @@ def ts_from_entry(entry) -> float:
                 pass
     return time.time()
 
-def allow_item(title: str, summary: str) -> bool:
+def allow_item(item) -> bool:
+    """Trusted feeds bypass strict filtering (like ND)."""
+    if item.get("trusted"):
+        return True
+    title = item.get("title", "")
+    summary = item.get("summary", "")
     blob = f"{title} {summary}".lower()
     if not any(k.lower() in blob for k in feeds.TEAM_KEYWORDS):
         return False
@@ -66,8 +69,8 @@ def allow_item(title: str, summary: str) -> bool:
         return False
     return True
 
-def fetch_feed(feed):
-    d = feedparser.parse(feed["url"])
+def fetch_feed(feed_def):
+    d = feedparser.parse(feed_def["url"])
     items = []
     for e in d.entries:
         title = normalize_title(getattr(e, "title", "") or "")
@@ -75,7 +78,7 @@ def fetch_feed(feed):
         if not title or not link:
             continue
         clean_url = canonicalize(link)
-        source = extract_source(e, feed["name"])
+        source = extract_source(e, feed_def["name"])
         summary = html.unescape(getattr(e, "summary", "") or "")
         published_ts = ts_from_entry(e)
         items.append({
@@ -84,6 +87,7 @@ def fetch_feed(feed):
             "source": source,
             "summary": summary.strip(),
             "published": datetime.fromtimestamp(published_ts, tz=timezone.utc).isoformat(),
+            "trusted": bool(feed_def.get("trusted", False)),
         })
     return items
 
@@ -106,10 +110,19 @@ def main():
         except Exception as e:
             print(f"[WARN] feed error {f['name']}: {e}", file=sys.stderr)
 
-    filtered = [it for it in all_items if allow_item(it["title"], it.get("summary", ""))]
+    # filter
+    filtered = [it for it in all_items if allow_item(it)]
+
+    # dedupe
     filtered = dedupe(filtered)
+
+    # sort newest first
     filtered.sort(key=lambda x: x.get("published", ""), reverse=True)
+
+    # cap
     filtered = filtered[:MAX_ITEMS]
+
+    # collect sources for dropdown
     sources = sorted({it["source"] for it in filtered})
 
     payload = {
