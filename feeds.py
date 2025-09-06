@@ -24,8 +24,7 @@ EXCLUDE_TOKENS = [
     "Ramsgate", "Ramadan",
 ]
 
-# Mark Rams-specific feeds as trusted so they bypass strict filtering.
-# (Same approach we used on ND.)
+# Trusted Rams feeds bypass strict filter (prevents empty results)
 FEEDS = [
     {"name": "\"Los Angeles Rams\" — Google News",
      "url": "https://news.google.com/rss/search?q=%22Los+Angeles+Rams%22&hl=en-US&gl=US&ceid=US:en",
@@ -73,7 +72,6 @@ STATIC_LINKS = [
     {"label": "Schedule", "url": "https://www.therams.com/schedule/"},
     {"label": "Roster", "url": "https://www.therams.com/team/players-roster/"},
     {"label": "Reddit", "url": "https://www.reddit.com/r/LosAngelesRams/"},
-
     {"label": "Fan Zone", "url": "https://www.therams.com/fans"},
     {"label": "Bleacher Report", "url": "https://bleacherreport.com/los-angeles-rams"},
     {"label": "NFL Power Rankings", "url": "https://www.nfl.com/news/power-rankings"},
