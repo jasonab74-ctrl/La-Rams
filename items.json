@@ -3,7 +3,7 @@
     "name": "Los Angeles Rams Football",
     "slug": "los-angeles-rams"
   },
-  "updated_at": "2025-09-07T07:25:09.521551+00:00",
+  "updated_at": "2025-09-07T07:32:02.561821+00:00",
   "static_links": [
     {
       "label": "Schedule",
@@ -376,14 +376,6 @@
       "trusted": false
     },
     {
-      "title": "Five Lessons the Rams Learned From Eagles Season Opener",
-      "url": "https://www.msn.com/en-us/sports/nfl/five-lessons-the-rams-learned-from-eagles-season-opener/ar-AA1M1mUX",
-      "source": "Bing News — Los Angeles Rams",
-      "summary": "The Los Angeles Rams were taking notes on Thursday night as their week three opponent kicked off the 2025 NFL season",
-      "published": "2025-09-06T15:47:00+00:00",
-      "trusted": false
-    },
-    {
       "title": "What the Rams' Missing Piece Is",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbXRvRFhCNjV5NklpWHZjVVNySG41eWJCRmlvVjRadjBOWlBGcUtrM2txRFotVEpTeHBUaWZSVG5CeE5CRzFWQWV6am1YdlNaV0dnWDZCSFozVzBRYWMxM2VhVVJmTEk3M3Z3OEdOcEVGMmpTTW5pNXVIUmpQOVRic2xHNFJhXy1pdTN0TnU2RTBIT092dzU2OUJQaU1RRG1IQzRR",
       "source": "Sports Illustrated",
@@ -480,6 +472,14 @@
       "trusted": true
     },
     {
+      "title": "As Davante Adams nears his Rams debut, Puka Nacua says the WR duo will 'be a headache' for defenses",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdWp0SmRoNWNjVHR2Z25tV05IblBqbjV4U3k1SWQ4ZHFmdS1LSTJVYnFNNWRCVXVBVnNVREMwQW5faW9FMEt5cnpjNHBxMWV3QmdmR2kyQXRveW1xNjlwQzZNX1h0R2Y0b2VlWnJsbFowUUcwa29TRXRuRjVJOEZFTmtXNkJ6ODdjSlVtRmp3WVhpX2t6SFF3S1hLMEh3T1l1Umhr",
+      "source": "Spectrum News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNdWp0SmRoNWNjVHR2Z25tV05IblBqbjV4U3k1SWQ4ZHFmdS1LSTJVYnFNNWRCVXVBVnNVREMwQW5faW9FMEt5cnpjNHBxMWV3QmdmR2kyQXRveW1xNjlwQzZNX1h0R2Y0b2VlWnJsbFowUUcwa29TRXRuRjVJOEZFTmtXNkJ6ODdjSlVtRmp3WVhpX2t6SFF3S1hLMEh3T1l1Umhr?oc=5\" target=\"_blank\">As Davante Adams nears his Rams debut, Puka Nacua says the WR duo will 'be a headache' for defenses</a>  <font color=\"#6f6f6f\">Spectrum News</font>",
+      "published": "2025-09-05T23:17:00+00:00",
+      "trusted": false
+    },
+    {
       "title": "The disrespect!",
       "url": "https://www.reddit.com/r/LosAngelesRams/comments/1n9hkhx/the_disrespect",
       "source": "Reddit — r/LosAngelesRams",
@@ -530,13 +530,13 @@
   ],
   "sources": [
     "ABC7 Los Angeles",
-    "Bing News — Los Angeles Rams",
     "Heavy Sports",
     "LAFB Network",
     "MARCA",
     "Newsweek",
     "Ramblin' Fan",
     "Reddit — r/LosAngelesRams",
+    "Spectrum News",
     "Sports Illustrated",
     "TVGuide.com",
     "The New York Times",
