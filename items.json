@@ -3,7 +3,7 @@
     "name": "Los Angeles Rams Football",
     "slug": "los-angeles-rams"
   },
-  "updated_at": "2025-09-07T09:35:03.943335+00:00",
+  "updated_at": "2025-09-07T10:33:45.624102+00:00",
   "static_links": [
     {
       "label": "Schedule",
@@ -48,6 +48,38 @@
   ],
   "items": [
     {
+      "title": "What TV channel is the Texans vs. Rams on today? Time, TV schedule for NFL Week 1 game",
+      "url": "https://sports.yahoo.com/article/tv-channel-texans-vs-rams-100522229.html",
+      "source": "Yahoo Sports — Los Angeles Rams",
+      "summary": "The Houston Texans and Los Angeles Rams face off in Week 1 of the NFL regular season. Here's where to watch and the start time for today's showdown.",
+      "published": "2025-09-07T10:05:22+00:00",
+      "trusted": true
+    },
+    {
+      "title": "3 Potential Midseason Trade Targets for the Rams",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdHdScll2cmI4ZmtXd2RrR25tc2VXVXd5X2pjMExZbnQ2eU9WMTNwZnZHRDdJT2NxdGVRaEFvRUFSREZNZmdZcE1ka1BlWVZKN3FHSzNKZlBqQS16ODc5c3Mzd2l0NUhTVnFETGxVYmJieDQ5TG9kSlJ5T0VJZks4YUxVSDVveGs4X0EyWVY3YUo1bnZwa3c",
+      "source": "Sports Illustrated",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNdHdScll2cmI4ZmtXd2RrR25tc2VXVXd5X2pjMExZbnQ2eU9WMTNwZnZHRDdJT2NxdGVRaEFvRUFSREZNZmdZcE1ka1BlWVZKN3FHSzNKZlBqQS16ODc5c3Mzd2l0NUhTVnFETGxVYmJieDQ5TG9kSlJ5T0VJZks4YUxVSDVveGs4X0EyWVY3YUo1bnZwa3c?oc=5\" target=\"_blank\">3 Potential Midseason Trade Targets for the Rams</a>  <font color=\"#6f6f6f\">Sports Illustrated</font>",
+      "published": "2025-09-07T10:03:04+00:00",
+      "trusted": false
+    },
+    {
+      "title": "Rams vs. Texans: How to watch, prediction and betting odds",
+      "url": "https://sports.yahoo.com/article/rams-vs-texans-watch-prediction-100000775.html",
+      "source": "Yahoo Sports — Los Angeles Rams",
+      "summary": "Everything you need to know about the Houston Texans vs. Rams season-opening matchup, including how to watch, betting odds and a prediction on who will win.",
+      "published": "2025-09-07T10:00:00+00:00",
+      "trusted": true
+    },
+    {
+      "title": "New York Giants activate DL Elijah Garcia from practice squad",
+      "url": "https://sports.yahoo.com/article/york-giants-activate-dl-elijah-095344092.html",
+      "source": "Yahoo Sports — Los Angeles Rams",
+      "summary": "The New York Giants have activated defensive lineman Elijah Garcia from their practice squad for Week 1.",
+      "published": "2025-09-07T09:53:44+00:00",
+      "trusted": true
+    },
+    {
       "title": "It’s been 236 days since the rams have last played a game… it’s gameday.",
       "url": "https://www.reddit.com/r/LosAngelesRams/comments/1namkiv/its_been_236_days_since_the_rams_have_last_played",
       "source": "Reddit — r/LosAngelesRams",
@@ -86,6 +118,14 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Title, thanks </p> </div><!-- SC_ON -->   submitted by   <a href=\"https://www.reddit.com/user/Typical_Shoulder_366\"> /u/Typical_Shoulder_366 </a> <br /> <span><a href=\"https://www.reddit.com/r/LosAngelesRams/comments/1najumc/attending_our_first_rams_game_tomorrow_have_a/\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/LosAngelesRams/comments/1najumc/attending_our_first_rams_game_tomorrow_have_a/\">[comments]</a></span>",
       "published": "2025-09-07T04:22:21+00:00",
       "trusted": true
+    },
+    {
+      "title": "3 Potential Midseason Trade Targets for the Rams",
+      "url": "https://www.msn.com",
+      "source": "Bing News — Los Angeles Rams",
+      "summary": "The Los Angeles Rams are no strangers to the midseason trade, having made several of their own over the McVay era. Recently, I was asked on social media to name three potential trade options for the Rams.",
+      "published": "2025-09-07T03:03:04+00:00",
+      "trusted": false
     },
     {
       "title": "Are The Rams In Trouble? Week 1 NFC West Power Rankings",
@@ -368,14 +408,6 @@
       "trusted": false
     },
     {
-      "title": "Five Lessons the Rams Learned From Eagles Season Opener",
-      "url": "https://www.msn.com",
-      "source": "Bing News — Los Angeles Rams",
-      "summary": "The Los Angeles Rams were taking notes on Thursday night as their week three opponent kicked off the 2025 NFL season",
-      "published": "2025-09-06T15:47:00+00:00",
-      "trusted": false
-    },
-    {
       "title": "What the Rams' Missing Piece Is",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbXRvRFhCNjV5NklpWHZjVVNySG41eWJCRmlvVjRadjBOWlBGcUtrM2txRFotVEpTeHBUaWZSVG5CeE5CRzFWQWV6am1YdlNaV0dnWDZCSFozVzBRYWMxM2VhVVJmTEk3M3Z3OEdOcEVGMmpTTW5pNXVIUmpQOVRic2xHNFJhXy1pdTN0TnU2RTBIT092dzU2OUJQaU1RRG1IQzRR",
       "source": "Sports Illustrated",
@@ -389,14 +421,6 @@
       "source": "Ramblin' Fan",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNSThnSmdvSWt2LXU1Q0twZWF6MXhsT1dGT2lodWpMUXR0LWwyTGVyRWVKTjZmVjBYS2g1YzNwazdieWotbXltanJiRWpmYmFkbUtnc0JNOTlpelJyLTB6NTRmeWg2M1JUSExhSjFiZUh6WFhsZ3FSMjNoS1pYTmVNUTBaUXZOLU90RlRvVlZOY08tVTc2eGZmVmtkUjZyUQ?oc=5\" target=\"_blank\">3 things that will worry Rams fans (and 3 things that shouldn't)</a>  <font color=\"#6f6f6f\">Ramblin' Fan</font>",
       "published": "2025-09-06T14:00:00+00:00",
-      "trusted": false
-    },
-    {
-      "title": "Random Ramsdom: What are you looking for on Sunday?",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUWdrYmE2cFoyV09pbXhUbnQwektpNmE2Q0RUUHV3RTJJaUFBM1pkMWtaTTVObTRjeExJNkFSMTJzQ3BzWk05Y3VrRUoycFY5Yzk2QnJUZFkzRnlxb3hHamJHUHdEaXA2THBWVFJBQ2R0cjVod0o3cWVOM3RpUVZfcEU5U05ORExhTzd1ZS1lcmZQRUV0WGc",
-      "source": "Turf Show Times",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNUWdrYmE2cFoyV09pbXhUbnQwektpNmE2Q0RUUHV3RTJJaUFBM1pkMWtaTTVObTRjeExJNkFSMTJzQ3BzWk05Y3VrRUoycFY5Yzk2QnJUZFkzRnlxb3hHamJHUHdEaXA2THBWVFJBQ2R0cjVod0o3cWVOM3RpUVZfcEU5U05ORExhTzd1ZS1lcmZQRUV0WGc?oc=5\" target=\"_blank\">Random Ramsdom: What are you looking for on Sunday?</a>  <font color=\"#6f6f6f\">Turf Show Times</font>",
-      "published": "2025-09-06T13:00:00+00:00",
       "trusted": false
     },
     {
@@ -488,14 +512,6 @@
       "trusted": true
     },
     {
-      "title": "Statistical Breakdown: How Texans and Rams stack up before Week 1",
-      "url": "https://sports.yahoo.com/article/statistical-breakdown-texans-rams-stack-202927046.html",
-      "source": "Yahoo Sports — Los Angeles Rams",
-      "summary": "Here's where the Houston Texans and Los Angeles Rams rank following last season, heading into their Week 1 showdown at SoFi Stadium.",
-      "published": "2025-09-05T20:29:27+00:00",
-      "trusted": true
-    },
-    {
       "title": "As Davante Adams nears his Rams debut, Puka Nacua says the WR duo will 'be a headache' for defenses",
       "url": "https://sports.yahoo.com/article/davante-adams-nears-rams-debut-202921565.html",
       "source": "Yahoo Sports — Los Angeles Rams",
@@ -509,22 +525,6 @@
       "source": "Reddit — r/LosAngelesRams",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LosAngelesRams/comments/1n9dy3n/week_1_trailer_the_window_is_still_wide_open/\"> <img alt=\"Week 1 Trailer: The Window Is Still Wide Open\" src=\"https://external-preview.redd.it/qZh_JDbdh-p3zffvMP3w8GMjgnjsZeISgva3LD1N2gk.jpeg?width=320&crop=smart&auto=webp&s=2977513829243e1fcc3d5e79a8f2ab34ed17dcd1\" title=\"Week 1 Trailer: The Window Is Still Wide Open\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Let’s have a great season, friends. Thanks for all your support. </p> </div><!-- SC_ON -->   submitted by   <a href=\"https://www.reddit.com/user/RamsRadio\"> /u/RamsRadio </a> <br /> <span><a href=\"https://youtu.be/h_KIwdzvOeY?si=ap44zm1uCulNi5sW\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/LosAngelesRams/comments/1n9dy3n/week_1_trailer_the_window_is_still_wide_open/\">[comments]</a></span> </td></tr></table>",
       "published": "2025-09-05T19:02:59+00:00",
-      "trusted": true
-    },
-    {
-      "title": "New Rams player experienced 'one of the coolest accomplishments' of his career in L.A.",
-      "url": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/05/rams-player-coolest-accomplishments-of-career-nate-landman/85996834007",
-      "source": "Yahoo Sports — Los Angeles Rams",
-      "summary": "The Los Angeles Rams have been known to find diamonds in the rough throughout the NFL draft and free agency, and 2025 is no different. The team signed ex-Atlanta Falcons linebacker Nate Landman on a small one-year deal, but the veteran has already established himself as a leader in the locker room. Landman, who was an undrafted player out of Colorado in 2022, called the captainship \"one of the coolest accomplishments in my career.\"",
-      "published": "2025-09-05T18:59:57+00:00",
-      "trusted": true
-    },
-    {
-      "title": "Witherspoon, and entire team, cleared to play Sunday vs Texans",
-      "url": "https://www.reddit.com/r/LosAngelesRams/comments/1n9d7w3/witherspoon_and_entire_team_cleared_to_play",
-      "source": "Reddit — r/LosAngelesRams",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Amazing update this morning! Everyone is healthy and ready to go. Witherspoon was held out of practice with a minor knee injury out of extreme caution. Best news yet to start the weekend! Hope to see some of you at the game this Sunday 🏈 🐏 </p> </div><!-- SC_ON -->   submitted by   <a href=\"https://www.reddit.com/user/dadjeans2000\"> /u/dadjeans2000 </a> <br /> <span><a href=\"https://www.reddit.com/r/LosAngelesRams/comments/1n9d7w3/witherspoon_and_entire_team_cleared_to_play/\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/LosAngelesRams/comments/1n9d7w3/witherspoon_and_entire_team_cleared_to_play/\">[comments]</a></span>",
-      "published": "2025-09-05T18:34:45+00:00",
       "trusted": true
     }
   ],
