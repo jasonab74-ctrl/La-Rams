@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-09-08T22:33:13.016731+00:00",
-  "count": 11,
+  "updated_iso": "2025-09-08T23:27:39.665108+00:00",
+  "count": 9,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-improving-defense-continues-last-230459813-html",
+      "title": "Rams' improving defense continues last season's late surge with dominant performance in opener",
+      "link": "https://sports.yahoo.com/article/rams-improving-defense-continues-last-230459813.html",
+      "source": "Yahoo Sports",
+      "ts": 1757372699.0,
+      "published_iso": "2025-09-08T23:04:59+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-article-utah-ties-nfl-puka-nacua-220206498-html",
       "title": "Utah ties in the NFL: Puka Nacua took a licking and kept on ticking; Dalton Kincaid delivers big in wild Bills win",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1757368926.0,
       "published_iso": "2025-09-08T22:02:06+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-sean-mcvay-shares-injury-updates-214826801-html",
-      "title": "Sean McVay shares injury updates on Steve Avila and Kevin Dotson",
-      "link": "https://sports.yahoo.com/article/sean-mcvay-shares-injury-updates-214826801.html",
-      "source": "Yahoo Sports",
-      "ts": 1757368106.0,
-      "published_iso": "2025-09-08T21:48:26+00:00"
     },
     {
       "id": "https-sports-yahoo-com-article-texans-te-cade-stover-suffers-201826798-html",
@@ -43,14 +43,6 @@
       "published_iso": "2025-09-08T19:20:32+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-article-rams-fans-made-best-memes-143524282-html",
-      "title": "Rams fans made the best memes for Week 1 hero Nate Landman",
-      "link": "https://sports.yahoo.com/article/rams-fans-made-best-memes-143524282.html",
-      "source": "Yahoo Sports",
-      "ts": 1757342124.0,
-      "published_iso": "2025-09-08T14:35:24+00:00"
-    },
-    {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-08-rams-snap-counts-week-1-texans-playing-time-86038621007",
       "title": "What we learned from Rams' Week 1 snap counts: WR3 is open, top CB benched, TE committee",
       "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/08/rams-snap-counts-week-1-texans-playing-time/86038621007/",
@@ -67,28 +59,20 @@
       "published_iso": "2025-09-08T14:18:20+00:00"
     },
     {
-      "id": "https-yahoo-com-news-articles-nfl-los-angeles-rams-defeat-135119868-html",
-      "title": "NFL: Los Angeles Rams defeat Houston Texans",
-      "link": "https://yahoo.com/news/articles/nfl-los-angeles-rams-defeat-135119868.html",
-      "source": "Yahoo",
-      "ts": 1757319480.0,
-      "published_iso": "2025-09-08T08:18:00+00:00"
+      "id": "https-sports-yahoo-com-article-random-ramsdom-share-takeaways-week-125700262-html",
+      "title": "Random Ramsdom: Share your takeaways from Week 1!",
+      "link": "https://sports.yahoo.com/article/random-ramsdom-share-takeaways-week-125700262.html",
+      "source": "Yahoo Sports",
+      "ts": 1757336220.0,
+      "published_iso": "2025-09-08T12:57:00+00:00"
     },
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-07-sean-mcvay-rams-davante-adams-debut-houston-texans-86034",
-      "title": "Sean McVay gives his thoughts on Davante Adams' Rams debut",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/07/sean-mcvay-rams-davante-adams-debut-houston-texans/86034496007/",
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-07-rams-sean-mcvay-victory-speech-locker-room-texans-860356",
+      "title": "Watch Sean McVay's first victory speech of 2025, which was full of f-bombs",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/07/rams-sean-mcvay-victory-speech-locker-room-texans/86035645007/",
       "source": "Rams Wire",
-      "ts": 1757290794.0,
-      "published_iso": "2025-09-08T00:19:54+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-07-rams-texans-live-updates-score-85996119007",
-      "title": "Rams vs. Texans highlights: Los Angeles clings to win in Week 1",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/07/rams-texans-live-updates-score/85996119007/",
-      "source": "Rams Wire",
-      "ts": 1757280360.0,
-      "published_iso": "2025-09-07T21:26:00+00:00"
+      "ts": 1757296761.0,
+      "published_iso": "2025-09-08T01:59:21+00:00"
     }
   ]
 }
