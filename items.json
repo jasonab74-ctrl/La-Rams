@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-09-08T23:27:39.665108+00:00",
-  "count": 9,
+  "updated_iso": "2025-09-08T23:38:12.070955+00:00",
+  "count": 10,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-rams-improving-defense-continues-last-230459813-html",
@@ -65,6 +65,14 @@
       "source": "Yahoo Sports",
       "ts": 1757336220.0,
       "published_iso": "2025-09-08T12:57:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-articles-nfl-los-angeles-rams-defeat-135119868-html",
+      "title": "NFL: Los Angeles Rams defeat Houston Texans",
+      "link": "https://yahoo.com/news/articles/nfl-los-angeles-rams-defeat-135119868.html",
+      "source": "Yahoo",
+      "ts": 1757319480.0,
+      "published_iso": "2025-09-08T08:18:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-07-rams-sean-mcvay-victory-speech-locker-room-texans-860356",
