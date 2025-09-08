@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-09-08T04:40:15.065118+00:00",
-  "count": 5,
+  "updated_iso": "2025-09-08T05:33:55.029586+00:00",
+  "count": 7,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-c-j-stroud-says-texans-021122943-html",
@@ -11,10 +11,10 @@
       "published_iso": "2025-09-08T02:11:22+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-article-watch-sean-mcvays-first-victory-015921585-html",
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-07-rams-sean-mcvay-victory-speech-locker-room-texans-860356",
       "title": "Watch Sean McVay's first victory speech of 2025, which was full of f-bombs",
-      "link": "https://sports.yahoo.com/article/watch-sean-mcvays-first-victory-015921585.html",
-      "source": "Yahoo Sports",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/07/rams-sean-mcvay-victory-speech-locker-room-texans/86035645007/",
+      "source": "Rams Wire",
       "ts": 1757296761.0,
       "published_iso": "2025-09-08T01:59:21+00:00"
     },
@@ -27,6 +27,14 @@
       "published_iso": "2025-09-08T01:48:55+00:00"
     },
     {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-07-rams-steve-avila-injury-update-twitter-86035045007",
+      "title": "Steve Avila gave his own injury update on Twitter after Rams' win",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/07/rams-steve-avila-injury-update-twitter/86035045007/",
+      "source": "Rams Wire",
+      "ts": 1757295003.0,
+      "published_iso": "2025-09-08T01:30:03+00:00"
+    },
+    {
       "id": "https-sports-yahoo-com-article-watch-kyren-williams-scores-rams-214944304-html",
       "title": "Watch: Kyren Williams scores Rams' 1st touchdown of season for 3rd straight year",
       "link": "https://sports.yahoo.com/article/watch-kyren-williams-scores-rams-214944304.html",
@@ -35,12 +43,20 @@
       "published_iso": "2025-09-07T21:49:44+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-article-emmanuel-forbes-jr-got-start-204131930-html",
-      "title": "Emmanuel Forbes Jr. got the start at CB for the Rams in Week 1",
-      "link": "https://sports.yahoo.com/article/emmanuel-forbes-jr-got-start-204131930.html",
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-07-rams-texans-live-updates-score-85996119007",
+      "title": "Rams vs. Texans highlights: Los Angeles clings to win in Week 1",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/07/rams-texans-live-updates-score/85996119007/",
+      "source": "Rams Wire",
+      "ts": 1757280360.0,
+      "published_iso": "2025-09-07T21:26:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-los-angeles-rams-qb-matthew-195606910-html",
+      "title": "Los Angeles Rams QB Matthew Stafford’s back would be a problem in Detroit, but not L.A.",
+      "link": "https://sports.yahoo.com/article/los-angeles-rams-qb-matthew-195606910.html",
       "source": "Yahoo Sports",
-      "ts": 1757277691.0,
-      "published_iso": "2025-09-07T20:41:31+00:00"
+      "ts": 1757250720.0,
+      "published_iso": "2025-09-07T13:12:00+00:00"
     }
   ]
 }
