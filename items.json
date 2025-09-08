@@ -1,5 +1,5 @@
 {
-  "updated_iso": "2025-09-08T11:26:10.944726+00:00",
+  "updated_iso": "2025-09-08T11:38:18.129562+00:00",
   "count": 7,
   "items": [
     {
@@ -11,12 +11,12 @@
       "published_iso": "2025-09-08T10:00:00+00:00"
     },
     {
-      "id": "https-espn-com-nfl-recap-gameid-401772723",
-      "title": "Rams 14-9 Texans (Sep 7, 2025) Game Recap",
-      "link": "https://espn.com/nfl/recap?gameId=401772723",
-      "source": "ESPN",
-      "ts": 1757304960.0,
-      "published_iso": "2025-09-08T04:16:00+00:00"
+      "id": "https-latimes-com-sports-newsletter-2025-09-08-rams-victory",
+      "title": "The Sports Report: Rams punch their ticket to a season-opening victory",
+      "link": "https://latimes.com/sports/newsletter/2025-09-08/rams-victory",
+      "source": "LA Times",
+      "ts": 1757305560.0,
+      "published_iso": "2025-09-08T04:26:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-article-c-j-stroud-says-texans-021122943-html",
