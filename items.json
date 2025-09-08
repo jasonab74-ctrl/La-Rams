@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2025-09-08T15:34:46.978455+00:00",
-  "count": 8,
+  "updated_iso": "2025-09-08T16:44:04.452211+00:00",
+  "count": 9,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-rams-fans-made-best-memes-143524282-html",
-      "title": "Rams fans made the best memes for Week 1 hero Nate Landman",
-      "link": "https://sports.yahoo.com/article/rams-fans-made-best-memes-143524282.html",
+      "id": "https-sports-yahoo-com-article-rams-week-1-hero-recounts-155129184-html",
+      "title": "Rams' Week 1 hero recounts game-saving play in win over Texans",
+      "link": "https://sports.yahoo.com/article/rams-week-1-hero-recounts-155129184.html",
       "source": "Yahoo Sports",
-      "ts": 1757342124.0,
-      "published_iso": "2025-09-08T14:35:24+00:00"
+      "ts": 1757346689.0,
+      "published_iso": "2025-09-08T15:51:29+00:00"
     },
     {
       "id": "https-sports-yahoo-com-article-texans-snap-count-notes-14-141820763-html",
@@ -27,12 +27,12 @@
       "published_iso": "2025-09-08T14:18:20+00:00"
     },
     {
-      "id": "https-yahoo-com-news-articles-nfl-los-angeles-rams-defeat-135119868-html",
-      "title": "NFL: Los Angeles Rams defeat Houston Texans",
-      "link": "https://yahoo.com/news/articles/nfl-los-angeles-rams-defeat-135119868.html",
-      "source": "Yahoo",
-      "ts": 1757339479.0,
-      "published_iso": "2025-09-08T13:51:19+00:00"
+      "id": "https-sports-yahoo-com-article-random-ramsdom-share-takeaways-week-125700262-html",
+      "title": "Random Ramsdom: Share your takeaways from Week 1!",
+      "link": "https://sports.yahoo.com/article/random-ramsdom-share-takeaways-week-125700262.html",
+      "source": "Yahoo Sports",
+      "ts": 1757336220.0,
+      "published_iso": "2025-09-08T12:57:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-article-puka-nacua-did-something-no-124505947-html",
@@ -43,12 +43,20 @@
       "published_iso": "2025-09-08T12:45:05+00:00"
     },
     {
-      "id": "https-si-com-nfl-rams-matthew-stafford-los-angeles-puka-nacua-sean-mcvay-houston-texans",
-      "title": "How Rams Stars Came Up Clutch in Victory",
-      "link": "https://si.com/nfl/rams/matthew-stafford-los-angeles-puka-nacua-sean-mcvay-houston-texans",
-      "source": "Sports Illustrated",
-      "ts": 1757317260.0,
-      "published_iso": "2025-09-08T07:41:00+00:00"
+      "id": "https-sports-yahoo-com-article-watch-no-look-throw-matthew-115609966-html",
+      "title": "Watch: This no-look throw by Matthew Stafford might be the NFL's best pass of Week 1",
+      "link": "https://sports.yahoo.com/article/watch-no-look-throw-matthew-115609966.html",
+      "source": "Yahoo Sports",
+      "ts": 1757332569.0,
+      "published_iso": "2025-09-08T11:56:09+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-articles-nfl-los-angeles-rams-defeat-135119868-html",
+      "title": "NFL: Los Angeles Rams defeat Houston Texans",
+      "link": "https://yahoo.com/news/articles/nfl-los-angeles-rams-defeat-135119868.html",
+      "source": "Yahoo",
+      "ts": 1757319480.0,
+      "published_iso": "2025-09-08T08:18:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-07-rams-sean-mcvay-victory-speech-locker-room-texans-860356",
@@ -59,12 +67,12 @@
       "published_iso": "2025-09-08T01:59:21+00:00"
     },
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-07-rams-steve-avila-injury-update-twitter-86035045007",
-      "title": "Steve Avila gave his own injury update on Twitter after Rams' win",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/07/rams-steve-avila-injury-update-twitter/86035045007/",
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-07-rams-texans-live-updates-score-85996119007",
+      "title": "Rams vs. Texans highlights: Los Angeles clings to win in Week 1",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/07/rams-texans-live-updates-score/85996119007/",
       "source": "Rams Wire",
-      "ts": 1757295003.0,
-      "published_iso": "2025-09-08T01:30:03+00:00"
+      "ts": 1757280360.0,
+      "published_iso": "2025-09-07T21:26:00+00:00"
     }
   ]
 }
