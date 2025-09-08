@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-09-08T03:15:27.889087+00:00",
-  "count": 9,
+  "updated_iso": "2025-09-08T03:56:28.313847+00:00",
+  "count": 6,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-c-j-stroud-says-texans-021122943-html",
@@ -35,36 +35,12 @@
       "published_iso": "2025-09-07T21:49:44+00:00"
     },
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-07-rams-te-questionable-to-return-with-shoulder-injury-8603",
-      "title": "Rams TE Colby Parkinson injures shoulder, returns vs. Texans",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/07/rams-te-questionable-to-return-with-shoulder-injury/86032198007/",
-      "source": "Rams Wire",
-      "ts": 1757280616.0,
-      "published_iso": "2025-09-07T21:30:16+00:00"
-    },
-    {
       "id": "https-sports-yahoo-com-article-emmanuel-forbes-jr-got-start-204131930-html",
       "title": "Emmanuel Forbes Jr. got the start at CB for the Rams in Week 1",
       "link": "https://sports.yahoo.com/article/emmanuel-forbes-jr-got-start-204131930.html",
       "source": "Yahoo Sports",
       "ts": 1757277691.0,
       "published_iso": "2025-09-07T20:41:31+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-watch-texans-db-c-j-204046883-html",
-      "title": "WATCH: Texans DB C.J. Garnder-Johnson ready to run through a wall vs. Rams",
-      "link": "https://sports.yahoo.com/article/watch-texans-db-c-j-204046883.html",
-      "source": "Yahoo Sports",
-      "ts": 1757277646.0,
-      "published_iso": "2025-09-07T20:40:46+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-07-rams-davante-adams-taco-bell-sofi-stadium-86029737007",
-      "title": "Look: Rams opened a special Taco Bell for Davante Adams inside SoFi Stadium",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/07/rams-davante-adams-taco-bell-sofi-stadium/86029737007/",
-      "source": "Rams Wire",
-      "ts": 1757270569.0,
-      "published_iso": "2025-09-07T18:42:49+00:00"
     },
     {
       "id": "https-sports-yahoo-com-article-los-angeles-rams-qb-matthew-195606910-html",
