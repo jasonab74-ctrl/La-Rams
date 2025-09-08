@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-09-08T13:36:23.431310+00:00",
-  "count": 8,
+  "updated_iso": "2025-09-08T14:41:01.101680+00:00",
+  "count": 12,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-texans-snap-count-notes-14-141820763-html",
+      "title": "Texans snap count notes from 14-9 Week 1 loss vs. Rams",
+      "link": "https://sports.yahoo.com/article/texans-snap-count-notes-14-141820763.html",
+      "source": "Yahoo Sports",
+      "ts": 1757341100.0,
+      "published_iso": "2025-09-08T14:18:20+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-learned-rams-week-1-snap-141820124-html",
+      "title": "What we learned from Rams' Week 1 snap counts: WR3 is open, top CB benched, TE committee",
+      "link": "https://sports.yahoo.com/article/learned-rams-week-1-snap-141820124.html",
+      "source": "Yahoo Sports",
+      "ts": 1757341100.0,
+      "published_iso": "2025-09-08T14:18:20+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-article-random-ramsdom-share-takeaways-week-125700262-html",
       "title": "Random Ramsdom: Share your takeaways from Week 1!",
@@ -27,12 +43,12 @@
       "published_iso": "2025-09-08T11:56:09+00:00"
     },
     {
-      "id": "https-latimes-com-sports-newsletter-2025-09-08-rams-victory",
-      "title": "The Sports Report: Rams punch their ticket to a season-opening victory",
-      "link": "https://latimes.com/sports/newsletter/2025-09-08/rams-victory",
-      "source": "LA Times",
-      "ts": 1757305560.0,
-      "published_iso": "2025-09-08T04:26:00+00:00"
+      "id": "https-espn-com-nfl-recap-gameid-401772723",
+      "title": "Rams 14-9 Texans (Sep 7, 2025) Game Recap",
+      "link": "https://espn.com/nfl/recap?gameId=401772723",
+      "source": "ESPN",
+      "ts": 1757304960.0,
+      "published_iso": "2025-09-08T04:16:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-article-c-j-stroud-says-texans-021122943-html",
@@ -65,6 +81,22 @@
       "source": "Rams Wire",
       "ts": 1757291049.0,
       "published_iso": "2025-09-08T00:24:09+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-07-rams-texans-live-updates-score-85996119007",
+      "title": "Rams vs. Texans highlights: Los Angeles clings to win in Week 1",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/07/rams-texans-live-updates-score/85996119007/",
+      "source": "Rams Wire",
+      "ts": 1757280360.0,
+      "published_iso": "2025-09-07T21:26:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-matthew-stafford-los-angeles-puka-nacua-sean-mcvay-houston-texans",
+      "title": "How Rams Stars Came Up Clutch in Victory",
+      "link": "https://si.com/nfl/rams/matthew-stafford-los-angeles-puka-nacua-sean-mcvay-houston-texans",
+      "source": "Sports Illustrated",
+      "ts": 1757264400.0,
+      "published_iso": "2025-09-07T17:00:00+00:00"
     }
   ]
 }
