@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-09-08T16:44:04.452211+00:00",
-  "count": 9,
+  "updated_iso": "2025-09-08T17:31:21.468865+00:00",
+  "count": 10,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-pff-grades-best-worst-164833976-html",
+      "title": "Rams PFF grades: Best and worst performers vs. Texans in Week 1",
+      "link": "https://sports.yahoo.com/article/rams-pff-grades-best-worst-164833976.html",
+      "source": "Yahoo Sports",
+      "ts": 1757350113.0,
+      "published_iso": "2025-09-08T16:48:33+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-texans-qb-c-j-stroud-155512056-html",
+      "title": "Texans QB C.J. Stroud puts team on blast for ‘lollygagging’ vs. Rams",
+      "link": "https://sports.yahoo.com/article/texans-qb-c-j-stroud-155512056.html",
+      "source": "Yahoo Sports",
+      "ts": 1757346912.0,
+      "published_iso": "2025-09-08T15:55:12+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-article-rams-week-1-hero-recounts-155129184-html",
       "title": "Rams' Week 1 hero recounts game-saving play in win over Texans",
@@ -65,14 +81,6 @@
       "source": "Rams Wire",
       "ts": 1757296761.0,
       "published_iso": "2025-09-08T01:59:21+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-07-rams-texans-live-updates-score-85996119007",
-      "title": "Rams vs. Texans highlights: Los Angeles clings to win in Week 1",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/07/rams-texans-live-updates-score/85996119007/",
-      "source": "Rams Wire",
-      "ts": 1757280360.0,
-      "published_iso": "2025-09-07T21:26:00+00:00"
     }
   ]
 }
