@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-09-08T19:23:23.926479+00:00",
-  "count": 6,
+  "updated_iso": "2025-09-08T19:31:32.349770+00:00",
+  "count": 7,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-shutting-down-nico-collins-ahkello-192032764-html",
+      "title": "After shutting down Nico Collins, Ahkello Witherspoon has emerged as Rams' CB1",
+      "link": "https://sports.yahoo.com/article/shutting-down-nico-collins-ahkello-192032764.html",
+      "source": "Yahoo Sports",
+      "ts": 1757359232.0,
+      "published_iso": "2025-09-08T19:20:32+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-article-texans-look-regroup-fumble-seals-191800548-html",
       "title": "Texans look to regroup after late fumble seals 14-9 loss to Rams in season opener",
