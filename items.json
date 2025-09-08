@@ -1,43 +1,27 @@
 {
-  "updated_iso": "2025-09-08T17:31:21.468865+00:00",
-  "count": 10,
+  "updated_iso": "2025-09-08T18:45:58.941213+00:00",
+  "count": 11,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-rams-pff-grades-best-worst-164833976-html",
-      "title": "Rams PFF grades: Best and worst performers vs. Texans in Week 1",
-      "link": "https://sports.yahoo.com/article/rams-pff-grades-best-worst-164833976.html",
+      "id": "https-sports-yahoo-com-article-rams-rookie-terrance-ferguson-shot-173207419-html",
+      "title": "When will Rams rookie Terrance Ferguson get a shot at TE?",
+      "link": "https://sports.yahoo.com/article/rams-rookie-terrance-ferguson-shot-173207419.html",
       "source": "Yahoo Sports",
-      "ts": 1757350113.0,
-      "published_iso": "2025-09-08T16:48:33+00:00"
+      "ts": 1757352727.0,
+      "published_iso": "2025-09-08T17:32:07+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-article-texans-qb-c-j-stroud-155512056-html",
-      "title": "Texans QB C.J. Stroud puts team on blast for ‘lollygagging’ vs. Rams",
-      "link": "https://sports.yahoo.com/article/texans-qb-c-j-stroud-155512056.html",
-      "source": "Yahoo Sports",
-      "ts": 1757346912.0,
-      "published_iso": "2025-09-08T15:55:12+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-rams-week-1-hero-recounts-155129184-html",
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-08-rams-nate-landman-explains-clutch-forced-fumble-86041290",
       "title": "Rams' Week 1 hero recounts game-saving play in win over Texans",
-      "link": "https://sports.yahoo.com/article/rams-week-1-hero-recounts-155129184.html",
-      "source": "Yahoo Sports",
-      "ts": 1757346689.0,
-      "published_iso": "2025-09-08T15:51:29+00:00"
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/08/rams-nate-landman-explains-clutch-forced-fumble/86041290007/",
+      "source": "Rams Wire",
+      "ts": 1757346809.0,
+      "published_iso": "2025-09-08T15:53:29+00:00"
     },
     {
       "id": "https-sports-yahoo-com-article-texans-snap-count-notes-14-141820763-html",
       "title": "Texans snap count notes from 14-9 Week 1 loss vs. Rams",
       "link": "https://sports.yahoo.com/article/texans-snap-count-notes-14-141820763.html",
-      "source": "Yahoo Sports",
-      "ts": 1757341100.0,
-      "published_iso": "2025-09-08T14:18:20+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-learned-rams-week-1-snap-141820124-html",
-      "title": "What we learned from Rams' Week 1 snap counts: WR3 is open, top CB benched, TE committee",
-      "link": "https://sports.yahoo.com/article/learned-rams-week-1-snap-141820124.html",
       "source": "Yahoo Sports",
       "ts": 1757341100.0,
       "published_iso": "2025-09-08T14:18:20+00:00"
@@ -51,20 +35,20 @@
       "published_iso": "2025-09-08T12:57:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-article-puka-nacua-did-something-no-124505947-html",
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-08-puka-nacua-set-a-rams-franchise-record-with-week-1-perfo",
       "title": "Puka Nacua did something no one in Rams history has done since Torry Holt",
-      "link": "https://sports.yahoo.com/article/puka-nacua-did-something-no-124505947.html",
-      "source": "Yahoo Sports",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/08/puka-nacua-set-a-rams-franchise-record-with-week-1-performance/86038781007/",
+      "source": "Rams Wire",
       "ts": 1757335505.0,
       "published_iso": "2025-09-08T12:45:05+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-article-watch-no-look-throw-matthew-115609966-html",
-      "title": "Watch: This no-look throw by Matthew Stafford might be the NFL's best pass of Week 1",
-      "link": "https://sports.yahoo.com/article/watch-no-look-throw-matthew-115609966.html",
+      "id": "https-sports-yahoo-com-article-rams-rookie-qb-watch-john-180329156-html",
+      "title": "Rams Rookie QB Watch: John Mateer has entered the conversation",
+      "link": "https://sports.yahoo.com/article/rams-rookie-qb-watch-john-180329156.html",
       "source": "Yahoo Sports",
-      "ts": 1757332569.0,
-      "published_iso": "2025-09-08T11:56:09+00:00"
+      "ts": 1757331360.0,
+      "published_iso": "2025-09-08T11:36:00+00:00"
     },
     {
       "id": "https-yahoo-com-news-articles-nfl-los-angeles-rams-defeat-135119868-html",
@@ -75,12 +59,36 @@
       "published_iso": "2025-09-08T08:18:00+00:00"
     },
     {
+      "id": "https-sports-yahoo-com-article-c-j-stroud-says-texans-021122943-html",
+      "title": "C.J. Stroud says Texans were 'lollygagging' in loss to Rams after a disappointing week of practice",
+      "link": "https://sports.yahoo.com/article/c-j-stroud-says-texans-021122943.html",
+      "source": "Yahoo Sports",
+      "ts": 1757297482.0,
+      "published_iso": "2025-09-08T02:11:22+00:00"
+    },
+    {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-07-rams-sean-mcvay-victory-speech-locker-room-texans-860356",
       "title": "Watch Sean McVay's first victory speech of 2025, which was full of f-bombs",
       "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/07/rams-sean-mcvay-victory-speech-locker-room-texans/86035645007/",
       "source": "Rams Wire",
       "ts": 1757296761.0,
       "published_iso": "2025-09-08T01:59:21+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-07-rams-nate-landman-forced-fumble-texans-free-agency-86034",
+      "title": "Nate Landman is already proving to be a free-agent steal for the Rams",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/07/rams-nate-landman-forced-fumble-texans-free-agency/86034119007/",
+      "source": "Rams Wire",
+      "ts": 1757291049.0,
+      "published_iso": "2025-09-08T00:24:09+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-07-rams-texans-live-updates-score-85996119007",
+      "title": "Rams vs. Texans highlights: Los Angeles clings to win in Week 1",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/07/rams-texans-live-updates-score/85996119007/",
+      "source": "Rams Wire",
+      "ts": 1757280360.0,
+      "published_iso": "2025-09-07T21:26:00+00:00"
     }
   ]
 }
