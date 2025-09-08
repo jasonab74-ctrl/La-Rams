@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-09-08T21:40:06.420379+00:00",
-  "count": 9,
+  "updated_iso": "2025-09-08T22:33:13.016731+00:00",
+  "count": 11,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-rams-te-played-injury-suffered-212135647-html",
-      "title": "Rams TE played through injury suffered in Week 1 vs. Texans",
-      "link": "https://sports.yahoo.com/article/rams-te-played-injury-suffered-212135647.html",
+      "id": "https-sports-yahoo-com-article-utah-ties-nfl-puka-nacua-220206498-html",
+      "title": "Utah ties in the NFL: Puka Nacua took a licking and kept on ticking; Dalton Kincaid delivers big in wild Bills win",
+      "link": "https://sports.yahoo.com/article/utah-ties-nfl-puka-nacua-220206498.html",
       "source": "Yahoo Sports",
-      "ts": 1757366495.0,
-      "published_iso": "2025-09-08T21:21:35+00:00"
+      "ts": 1757368926.0,
+      "published_iso": "2025-09-08T22:02:06+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-sean-mcvay-shares-injury-updates-214826801-html",
+      "title": "Sean McVay shares injury updates on Steve Avila and Kevin Dotson",
+      "link": "https://sports.yahoo.com/article/sean-mcvay-shares-injury-updates-214826801.html",
+      "source": "Yahoo Sports",
+      "ts": 1757368106.0,
+      "published_iso": "2025-09-08T21:48:26+00:00"
     },
     {
       "id": "https-sports-yahoo-com-article-texans-te-cade-stover-suffers-201826798-html",
@@ -19,20 +27,20 @@
       "published_iso": "2025-09-08T20:18:26+00:00"
     },
     {
+      "id": "https-sports-yahoo-com-article-woman-rams-texans-game-left-195439856-html",
+      "title": "Woman at Rams-Texans game left bloodied after altercation in stands",
+      "link": "https://sports.yahoo.com/article/woman-rams-texans-game-left-195439856.html",
+      "source": "Yahoo Sports",
+      "ts": 1757361279.0,
+      "published_iso": "2025-09-08T19:54:39+00:00"
+    },
+    {
       "id": "https-sports-yahoo-com-article-shutting-down-nico-collins-ahkello-192032764-html",
       "title": "After shutting down Nico Collins, Ahkello Witherspoon has emerged as Rams' CB1",
       "link": "https://sports.yahoo.com/article/shutting-down-nico-collins-ahkello-192032764.html",
       "source": "Yahoo Sports",
       "ts": 1757359232.0,
       "published_iso": "2025-09-08T19:20:32+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-texans-look-regroup-fumble-seals-191800548-html",
-      "title": "Texans look to regroup after late fumble seals 14-9 loss to Rams in season opener",
-      "link": "https://sports.yahoo.com/article/texans-look-regroup-fumble-seals-191800548.html",
-      "source": "Yahoo Sports",
-      "ts": 1757359080.0,
-      "published_iso": "2025-09-08T19:18:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-article-rams-fans-made-best-memes-143524282-html",
@@ -59,20 +67,28 @@
       "published_iso": "2025-09-08T14:18:20+00:00"
     },
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-08-puka-nacua-set-a-rams-franchise-record-with-week-1-perfo",
-      "title": "Puka Nacua did something no one in Rams history has done since Torry Holt",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/08/puka-nacua-set-a-rams-franchise-record-with-week-1-performance/86038781007/",
-      "source": "Rams Wire",
-      "ts": 1757335505.0,
-      "published_iso": "2025-09-08T12:45:05+00:00"
+      "id": "https-yahoo-com-news-articles-nfl-los-angeles-rams-defeat-135119868-html",
+      "title": "NFL: Los Angeles Rams defeat Houston Texans",
+      "link": "https://yahoo.com/news/articles/nfl-los-angeles-rams-defeat-135119868.html",
+      "source": "Yahoo",
+      "ts": 1757319480.0,
+      "published_iso": "2025-09-08T08:18:00+00:00"
     },
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-07-rams-sean-mcvay-victory-speech-locker-room-texans-860356",
-      "title": "Watch Sean McVay's first victory speech of 2025, which was full of f-bombs",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/07/rams-sean-mcvay-victory-speech-locker-room-texans/86035645007/",
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-07-sean-mcvay-rams-davante-adams-debut-houston-texans-86034",
+      "title": "Sean McVay gives his thoughts on Davante Adams' Rams debut",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/07/sean-mcvay-rams-davante-adams-debut-houston-texans/86034496007/",
       "source": "Rams Wire",
-      "ts": 1757296761.0,
-      "published_iso": "2025-09-08T01:59:21+00:00"
+      "ts": 1757290794.0,
+      "published_iso": "2025-09-08T00:19:54+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-07-rams-texans-live-updates-score-85996119007",
+      "title": "Rams vs. Texans highlights: Los Angeles clings to win in Week 1",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/07/rams-texans-live-updates-score/85996119007/",
+      "source": "Rams Wire",
+      "ts": 1757280360.0,
+      "published_iso": "2025-09-07T21:26:00+00:00"
     }
   ]
 }
