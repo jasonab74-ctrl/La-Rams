@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-09-09T17:29:33.828624+00:00",
-  "count": 15,
+  "updated_iso": "2025-09-09T17:40:24.601718+00:00",
+  "count": 13,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-female-texans-fan-bloodied-rams-170555363-html",
@@ -105,22 +105,6 @@
       "source": "Sports Illustrated",
       "ts": 1757349000.0,
       "published_iso": "2025-09-08T16:30:00+00:00"
-    },
-    {
-      "id": "https-yahoo-com-news-articles-nfl-los-angeles-rams-defeat-135119868-html",
-      "title": "NFL: Los Angeles Rams defeat Houston Texans",
-      "link": "https://yahoo.com/news/articles/nfl-los-angeles-rams-defeat-135119868.html",
-      "source": "Yahoo",
-      "ts": 1757319480.0,
-      "published_iso": "2025-09-08T08:18:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-los-angeles-rams-qb-matthew-195606910-html",
-      "title": "Los Angeles Rams QB Matthew Stafford’s back would be a problem in Detroit, but not L.A.",
-      "link": "https://sports.yahoo.com/article/los-angeles-rams-qb-matthew-195606910.html",
-      "source": "Yahoo Sports",
-      "ts": 1757250720.0,
-      "published_iso": "2025-09-07T13:12:00+00:00"
     }
   ]
 }
