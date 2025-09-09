@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-09-09T14:38:53.469273+00:00",
-  "count": 16,
+  "updated_iso": "2025-09-09T15:36:13.571608+00:00",
+  "count": 12,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-week-1-report-card-145111221-html",
+      "title": "Rams Week 1 report card: Grading every position in win vs. Texans",
+      "link": "https://sports.yahoo.com/article/rams-week-1-report-card-145111221.html",
+      "source": "Yahoo Sports",
+      "ts": 1757429471.0,
+      "published_iso": "2025-09-09T14:51:11+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-article-rams-want-blake-corum-more-125921505-html",
       "title": "Rams want to get Blake Corum ‘some more work’ behind Kyren Williams",
@@ -19,30 +27,6 @@
       "published_iso": "2025-09-09T12:48:29+00:00"
     },
     {
-      "id": "https-therams-com-audio-rams-revealed-episode-134-nate-landman-peanut-punch-free-agency",
-      "title": "Ep. 134: Nate Landman reflects on his perfect peanut punch, joining the Rams in free agency & more",
-      "link": "https://therams.com/audio/rams-revealed-episode-134-nate-landman-peanut-punch-free-agency",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1757399580.0,
-      "published_iso": "2025-09-09T06:33:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-texans-pff-grades-best-worst-030828834-html",
-      "title": "Texans PFF grades: Best and worst defensive performers from Week 1 loss vs. Rams",
-      "link": "https://sports.yahoo.com/article/texans-pff-grades-best-worst-030828834.html",
-      "source": "Yahoo Sports",
-      "ts": 1757387308.0,
-      "published_iso": "2025-09-09T03:08:28+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-both-starting-guards-week-week-025555945-html",
-      "title": "Both starting guards are ‘week to week’ with injuries",
-      "link": "https://sports.yahoo.com/article/both-starting-guards-week-week-025555945.html",
-      "source": "Yahoo Sports",
-      "ts": 1757386555.0,
-      "published_iso": "2025-09-09T02:55:55+00:00"
-    },
-    {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-08-watch-rams-wr-puka-micd-up-in-week-1-win-over-texans-860",
       "title": "Watch: Rams WR Puka mic'd up in Week 1 win over Texans",
       "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/08/watch-rams-wr-puka-micd-up-in-week-1-win-over-texans/86051201007/",
@@ -51,12 +35,12 @@
       "published_iso": "2025-09-09T01:47:06+00:00"
     },
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-08-matthew-stafford-happy-for-aaron-rodgers-after-his-week-",
-      "title": "Rams QB Matthew Stafford 'happy' for Aaron Rodgers after his Week 1 win",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/08/matthew-stafford-happy-for-aaron-rodgers-after-his-week-1-win/86050215007/",
-      "source": "Rams Wire",
-      "ts": 1757376807.0,
-      "published_iso": "2025-09-09T00:13:27+00:00"
+      "id": "https-espn-com-nfl-story-id-46201287-rams-rg-dotson-lg-avila-dealing-ankle-sprains",
+      "title": "Rams' Dotson, Avila dealing with ankle sprains",
+      "link": "https://espn.com/nfl/story/_/id/46201287/rams-rg-dotson-lg-avila-dealing-ankle-sprains",
+      "source": "ESPN",
+      "ts": 1757372268.0,
+      "published_iso": "2025-09-08T22:57:48+00:00"
     },
     {
       "id": "https-sports-yahoo-com-article-texans-te-cade-stover-suffers-201826798-html",
@@ -97,22 +81,6 @@
       "source": "Sports Illustrated",
       "ts": 1757349000.0,
       "published_iso": "2025-09-08T16:30:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-texans-qb-c-j-stroud-155512056-html",
-      "title": "Texans QB C.J. Stroud puts team on blast for ‘lollygagging’ vs. Rams",
-      "link": "https://sports.yahoo.com/article/texans-qb-c-j-stroud-155512056.html",
-      "source": "Yahoo Sports",
-      "ts": 1757346912.0,
-      "published_iso": "2025-09-08T15:55:12+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-08-rams-titans-odds-spread-betting-lines-86039037007",
-      "title": "Rams open as sizable road favorites vs. Titans in Week 2",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/08/rams-titans-odds-spread-betting-lines/86039037007/",
-      "source": "Rams Wire",
-      "ts": 1757337961.0,
-      "published_iso": "2025-09-08T13:26:01+00:00"
     },
     {
       "id": "https-yahoo-com-news-articles-nfl-los-angeles-rams-defeat-135119868-html",
