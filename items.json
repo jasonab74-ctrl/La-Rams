@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-09-09T07:30:51.513035+00:00",
-  "count": 15,
+  "updated_iso": "2025-09-09T07:41:37.238040+00:00",
+  "count": 14,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-texans-pff-grades-best-worst-030828834-html",
@@ -113,14 +113,6 @@
       "source": "Yahoo",
       "ts": 1757319480.0,
       "published_iso": "2025-09-08T08:18:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-los-angeles-rams-qb-matthew-195606910-html",
-      "title": "Los Angeles Rams QB Matthew Stafford’s back would be a problem in Detroit, but not L.A.",
-      "link": "https://sports.yahoo.com/article/los-angeles-rams-qb-matthew-195606910.html",
-      "source": "Yahoo Sports",
-      "ts": 1757250720.0,
-      "published_iso": "2025-09-07T13:12:00+00:00"
     }
   ]
 }
