@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-09-09T20:32:34.692393+00:00",
-  "count": 13,
+  "updated_iso": "2025-09-09T21:26:57.750198+00:00",
+  "count": 11,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-chart-shows-rams-pass-protection-195005636-html",
@@ -35,14 +35,6 @@
       "published_iso": "2025-09-09T17:05:55+00:00"
     },
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-09-rams-titans-cam-ward-sean-mcvay-week-2-86056460007",
-      "title": "Sean McVay gives first impressions of 'unbelievably dynamic' Cam Ward ahead of Week 2",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/09/rams-titans-cam-ward-sean-mcvay-week-2/86056460007/",
-      "source": "Rams Wire",
-      "ts": 1757436312.0,
-      "published_iso": "2025-09-09T16:45:12+00:00"
-    },
-    {
       "id": "https-sports-yahoo-com-article-jaguars-sign-rams-rb-off-161119662-html",
       "title": "Jaguars sign Rams RB off practice squad",
       "link": "https://sports.yahoo.com/article/jaguars-sign-rams-rb-off-161119662.html",
@@ -75,22 +67,6 @@
       "published_iso": "2025-09-09T12:48:29+00:00"
     },
     {
-      "id": "https-si-com-nfl-rams-los-angeles-kevin-dotson-steve-avili-beaux-limmer-sean-mcvay-colby-parkinson",
-      "title": "Rams Morning Report: Sean McVay Makes Massive Announcements",
-      "link": "https://si.com/nfl/rams/los-angeles-kevin-dotson-steve-avili-beaux-limmer-sean-mcvay-colby-parkinson",
-      "source": "Sports Illustrated",
-      "ts": 1757420940.0,
-      "published_iso": "2025-09-09T12:29:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-texans-te-cade-stover-suffers-201826798-html",
-      "title": "Texans TE Cade Stover suffers broken foot in Rams' loss, out indefinitely",
-      "link": "https://sports.yahoo.com/article/texans-te-cade-stover-suffers-201826798.html",
-      "source": "Yahoo Sports",
-      "ts": 1757362706.0,
-      "published_iso": "2025-09-08T20:18:26+00:00"
-    },
-    {
       "id": "https-si-com-nfl-rams-los-angeles-chris-shula-houston-texans-jared-verse-akhello-witherspoon",
       "title": "Chris Shula's Vision Continues to Power the Rams' Success",
       "link": "https://si.com/nfl/rams/los-angeles-chris-shula-houston-texans-jared-verse-akhello-witherspoon",
@@ -105,6 +81,14 @@
       "source": "Yahoo",
       "ts": 1757319480.0,
       "published_iso": "2025-09-08T08:18:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-los-angeles-rams-qb-matthew-195606910-html",
+      "title": "Los Angeles Rams QB Matthew Stafford’s back would be a problem in Detroit, but not L.A.",
+      "link": "https://sports.yahoo.com/article/los-angeles-rams-qb-matthew-195606910.html",
+      "source": "Yahoo Sports",
+      "ts": 1757250720.0,
+      "published_iso": "2025-09-07T13:12:00+00:00"
     }
   ]
 }
