@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-09-09T05:32:57.464939+00:00",
-  "count": 16,
+  "updated_iso": "2025-09-09T06:50:38.693403+00:00",
+  "count": 13,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-texans-pff-grades-best-worst-030828834-html",
@@ -9,6 +9,22 @@
       "source": "Yahoo Sports",
       "ts": 1757387308.0,
       "published_iso": "2025-09-09T03:08:28+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-08-watch-rams-wr-puka-micd-up-in-week-1-win-over-texans-860",
+      "title": "Watch: Rams WR Puka mic'd up in Week 1 win over Texans",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/08/watch-rams-wr-puka-micd-up-in-week-1-win-over-texans/86051201007/",
+      "source": "Rams Wire",
+      "ts": 1757382426.0,
+      "published_iso": "2025-09-09T01:47:06+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-08-matthew-stafford-happy-for-aaron-rodgers-after-his-week-",
+      "title": "Rams QB Matthew Stafford 'happy' for Aaron Rodgers after his Week 1 win",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/08/matthew-stafford-happy-for-aaron-rodgers-after-his-week-1-win/86050215007/",
+      "source": "Rams Wire",
+      "ts": 1757376807.0,
+      "published_iso": "2025-09-09T00:13:27+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-08-sean-mcvay-explains-why-rams-cb-darious-williams-didnt-p",
@@ -27,28 +43,12 @@
       "published_iso": "2025-09-08T22:57:48+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-article-utah-ties-nfl-puka-nacua-220206498-html",
-      "title": "Utah ties in the NFL: Puka Nacua took a licking and kept on ticking; Dalton Kincaid delivers big in wild Bills win",
-      "link": "https://sports.yahoo.com/article/utah-ties-nfl-puka-nacua-220206498.html",
-      "source": "Yahoo Sports",
-      "ts": 1757368926.0,
-      "published_iso": "2025-09-08T22:02:06+00:00"
-    },
-    {
       "id": "https-sports-yahoo-com-article-texans-te-cade-stover-suffers-201826798-html",
       "title": "Texans TE Cade Stover suffers broken foot in Rams' loss, out indefinitely",
       "link": "https://sports.yahoo.com/article/texans-te-cade-stover-suffers-201826798.html",
       "source": "Yahoo Sports",
       "ts": 1757362706.0,
       "published_iso": "2025-09-08T20:18:26+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-woman-rams-texans-game-left-195439856-html",
-      "title": "Woman at Rams-Texans game left bloodied after altercation in stands",
-      "link": "https://sports.yahoo.com/article/woman-rams-texans-game-left-195439856.html",
-      "source": "Yahoo Sports",
-      "ts": 1757361279.0,
-      "published_iso": "2025-09-08T19:54:39+00:00"
     },
     {
       "id": "https-si-com-nfl-rams-los-angeles-chris-shula-houston-texans-jared-verse-akhello-witherspoon",
@@ -105,30 +105,6 @@
       "source": "Rams Wire",
       "ts": 1757337961.0,
       "published_iso": "2025-09-08T13:26:01+00:00"
-    },
-    {
-      "id": "https-yahoo-com-news-articles-nfl-los-angeles-rams-defeat-135119868-html",
-      "title": "NFL: Los Angeles Rams defeat Houston Texans",
-      "link": "https://yahoo.com/news/articles/nfl-los-angeles-rams-defeat-135119868.html",
-      "source": "Yahoo",
-      "ts": 1757319480.0,
-      "published_iso": "2025-09-08T08:18:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-07-rams-texans-live-updates-score-85996119007",
-      "title": "Rams vs. Texans highlights: Los Angeles clings to win in Week 1",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/07/rams-texans-live-updates-score/85996119007/",
-      "source": "Rams Wire",
-      "ts": 1757280360.0,
-      "published_iso": "2025-09-07T21:26:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-los-angeles-rams-qb-matthew-195606910-html",
-      "title": "Los Angeles Rams QB Matthew Stafford’s back would be a problem in Detroit, but not L.A.",
-      "link": "https://sports.yahoo.com/article/los-angeles-rams-qb-matthew-195606910.html",
-      "source": "Yahoo Sports",
-      "ts": 1757250720.0,
-      "published_iso": "2025-09-07T13:12:00+00:00"
     }
   ]
 }
