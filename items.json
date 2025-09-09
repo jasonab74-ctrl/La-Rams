@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-09-09T03:52:14.796929+00:00",
-  "count": 15,
+  "updated_iso": "2025-09-09T04:39:46.564798+00:00",
+  "count": 16,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-texans-pff-grades-best-worst-030828834-html",
@@ -97,6 +97,14 @@
       "source": "Yahoo Sports",
       "ts": 1757341100.0,
       "published_iso": "2025-09-08T14:18:20+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-08-rams-titans-odds-spread-betting-lines-86039037007",
+      "title": "Rams open as sizable road favorites vs. Titans in Week 2",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/08/rams-titans-odds-spread-betting-lines/86039037007/",
+      "source": "Rams Wire",
+      "ts": 1757337961.0,
+      "published_iso": "2025-09-08T13:26:01+00:00"
     },
     {
       "id": "https-yahoo-com-news-articles-nfl-los-angeles-rams-defeat-135119868-html",
