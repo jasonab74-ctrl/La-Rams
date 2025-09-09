@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-09-09T21:36:06.363888+00:00",
-  "count": 11,
+  "updated_iso": "2025-09-09T22:31:26.494485+00:00",
+  "count": 9,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-chart-shows-rams-pass-protection-195005636-html",
@@ -25,14 +25,6 @@
       "source": "Rams Wire",
       "ts": 1757440218.0,
       "published_iso": "2025-09-09T17:50:18+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-female-texans-fan-bloodied-rams-170555363-html",
-      "title": "Female Texans fan is bloodied at Rams game during a fight in SoFi Stadium seats",
-      "link": "https://sports.yahoo.com/article/female-texans-fan-bloodied-rams-170555363.html",
-      "source": "Yahoo Sports",
-      "ts": 1757437555.0,
-      "published_iso": "2025-09-09T17:05:55+00:00"
     },
     {
       "id": "https-sports-yahoo-com-article-jaguars-sign-rams-rb-off-161119662-html",
@@ -81,14 +73,6 @@
       "source": "Yahoo",
       "ts": 1757319480.0,
       "published_iso": "2025-09-08T08:18:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-los-angeles-rams-qb-matthew-195606910-html",
-      "title": "Los Angeles Rams QB Matthew Stafford’s back would be a problem in Detroit, but not L.A.",
-      "link": "https://sports.yahoo.com/article/los-angeles-rams-qb-matthew-195606910.html",
-      "source": "Yahoo Sports",
-      "ts": 1757250720.0,
-      "published_iso": "2025-09-07T13:12:00+00:00"
     }
   ]
 }
