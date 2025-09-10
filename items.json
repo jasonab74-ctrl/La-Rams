@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-09-10T19:22:58.859595+00:00",
-  "count": 1,
+  "updated_iso": "2025-09-10T19:31:42.709332+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-yahoo-com-entertainment-articles-brawl-stands-rams-texans-game-184941771-html",
+      "title": "Brawl in Stands at Rams and Texans Game Leaves Woman with Face Full of Blood",
+      "link": "https://yahoo.com/entertainment/articles/brawl-stands-rams-texans-game-184941771.html",
+      "source": "Yahoo",
+      "ts": 1757507340.0,
+      "published_iso": "2025-09-10T12:29:00+00:00"
+    },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-tennessee-titans-how-to-watch-listen-to-and-live-stream-week-2-2025",
       "title": "Los Angeles Rams at Tennessee Titans: How to watch, listen to and live stream Week 2",
