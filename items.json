@@ -1,30 +1,14 @@
 {
-  "updated_iso": "2025-09-10T14:35:22.974671+00:00",
-  "count": 3,
+  "updated_iso": "2025-09-10T15:32:53.584660+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-texans-qb-c-j-stroud-141005941-html",
-      "title": "Texans QB C.J. Stroud ready to respond after 'wake-up call loss' vs. Rams",
-      "link": "https://sports.yahoo.com/article/texans-qb-c-j-stroud-141005941.html",
+      "id": "https-sports-yahoo-com-article-concern-rams-didn-t-play-145849448-html",
+      "title": "Should it be a concern that Rams didn’t play Terrance Ferguson?",
+      "link": "https://sports.yahoo.com/article/concern-rams-didn-t-play-145849448.html",
       "source": "Yahoo Sports",
-      "ts": 1757489100.0,
-      "published_iso": "2025-09-10T07:25:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-los-angeles-houston-texans-alaric-jackson-nate-landman-sean-mcvay",
-      "title": "Snap Counts, Notable PFF Grades From Rams' Week 1 Win",
-      "link": "https://si.com/nfl/rams/los-angeles-houston-texans-alaric-jackson-nate-landman-sean-mcvay",
-      "source": "Sports Illustrated",
-      "ts": 1757487600.0,
-      "published_iso": "2025-09-10T07:00:00+00:00"
-    },
-    {
-      "id": "https-yahoo-com-news-articles-nfl-los-angeles-rams-defeat-135119868-html",
-      "title": "NFL: Los Angeles Rams defeat Houston Texans",
-      "link": "https://yahoo.com/news/articles/nfl-los-angeles-rams-defeat-135119868.html",
-      "source": "Yahoo",
-      "ts": 1757319480.0,
-      "published_iso": "2025-09-08T08:18:00+00:00"
+      "ts": 1757492400.0,
+      "published_iso": "2025-09-10T08:20:00+00:00"
     }
   ]
 }
