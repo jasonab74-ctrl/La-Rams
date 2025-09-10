@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-09-10T21:36:04.493807+00:00",
-  "count": 1,
+  "updated_iso": "2025-09-10T22:31:53.169113+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-therams-com-news-los-angeles-rams-at-tennessee-titans-how-to-watch-listen-to-and-live-stream-week-2-2025",
@@ -9,6 +9,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1757505780.0,
       "published_iso": "2025-09-10T12:03:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-articles-nfl-los-angeles-rams-defeat-135119868-html",
+      "title": "NFL: Los Angeles Rams defeat Houston Texans",
+      "link": "https://yahoo.com/news/articles/nfl-los-angeles-rams-defeat-135119868.html",
+      "source": "Yahoo",
+      "ts": 1757319480.0,
+      "published_iso": "2025-09-08T08:18:00+00:00"
     }
   ]
 }
