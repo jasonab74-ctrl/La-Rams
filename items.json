@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-09-10T03:48:10.382803+00:00",
-  "count": 10,
+  "updated_iso": "2025-09-10T04:35:02.902710+00:00",
+  "count": 11,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-texans-most-blame-close-week-002623810-html",
@@ -41,6 +41,14 @@
       "source": "Rams Wire",
       "ts": 1757440218.0,
       "published_iso": "2025-09-09T17:50:18+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-09-rams-titans-cam-ward-sean-mcvay-week-2-86056460007",
+      "title": "Sean McVay gives first impressions of 'unbelievably dynamic' Cam Ward ahead of Week 2",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/09/rams-titans-cam-ward-sean-mcvay-week-2/86056460007/",
+      "source": "Rams Wire",
+      "ts": 1757436312.0,
+      "published_iso": "2025-09-09T16:45:12+00:00"
     },
     {
       "id": "https-sports-yahoo-com-article-jaguars-sign-rams-rb-off-161119662-html",
