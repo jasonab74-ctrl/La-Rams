@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-09-10T10:37:30.892694+00:00",
-  "count": 1,
+  "updated_iso": "2025-09-10T11:23:30.453989+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-si-com-nfl-rams-los-angeles-houston-texans-alaric-jackson-nate-landman-sean-mcvay",
+      "title": "Snap Counts, Notable PFF Grades From Rams' Week 1 Win",
+      "link": "https://si.com/nfl/rams/los-angeles-houston-texans-alaric-jackson-nate-landman-sean-mcvay",
+      "source": "Sports Illustrated",
+      "ts": 1757475660.0,
+      "published_iso": "2025-09-10T03:41:00+00:00"
+    },
     {
       "id": "https-yahoo-com-news-articles-nfl-los-angeles-rams-defeat-135119868-html",
       "title": "NFL: Los Angeles Rams defeat Houston Texans",
