@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-09-10T03:02:41.651415+00:00",
-  "count": 9,
+  "updated_iso": "2025-09-10T03:48:10.382803+00:00",
+  "count": 10,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-texans-most-blame-close-week-002623810-html",
@@ -9,6 +9,14 @@
       "source": "Yahoo Sports",
       "ts": 1757463983.0,
       "published_iso": "2025-09-10T00:26:23+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-videos-woman-left-bloodied-massive-brawl-032225289-html",
+      "title": "Woman Left Bloodied After Massive Brawl Erupts Between Fans at Texans-Rams Game",
+      "link": "https://yahoo.com/news/videos/woman-left-bloodied-massive-brawl-032225289.html",
+      "source": "Yahoo",
+      "ts": 1757450700.0,
+      "published_iso": "2025-09-09T20:45:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-09-rams-offensive-line-pass-protection-ranking-week-1-86062",
