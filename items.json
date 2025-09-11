@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-09-11T08:41:57.326537+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-09-11T09:32:06.940823+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-tennessee-titans-how-to-watch-listen-to-and-live-stream-week-2-2025",
+      "title": "Los Angeles Rams at Tennessee Titans: How to watch, listen to and live stream Week 2",
+      "link": "https://therams.com/news/los-angeles-rams-at-tennessee-titans-how-to-watch-listen-to-and-live-stream-week-2-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1757505780.0,
+      "published_iso": "2025-09-10T12:03:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-articles-nfl-los-angeles-rams-defeat-135119868-html",
+      "title": "NFL: Los Angeles Rams defeat Houston Texans",
+      "link": "https://yahoo.com/news/articles/nfl-los-angeles-rams-defeat-135119868.html",
+      "source": "Yahoo",
+      "ts": 1757319480.0,
+      "published_iso": "2025-09-08T08:18:00+00:00"
+    }
+  ]
 }
