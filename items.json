@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2025-09-12T21:34:52.469999+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-09-12T22:30:48.241535+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-injury-report-worried-221334022-html",
+      "title": "Rams injury report: How worried are you?",
+      "link": "https://sports.yahoo.com/article/rams-injury-report-worried-221334022.html",
+      "source": "Yahoo Sports",
+      "ts": 1757690100.0,
+      "published_iso": "2025-09-12T15:15:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-los-angeles-davante-adams-jc-latham-kevin-dotson-tennessee-titans",
+      "title": "Rams Gain Significant Advantage in Friday's Injury Report",
+      "link": "https://si.com/nfl/rams/los-angeles-davante-adams-jc-latham-kevin-dotson-tennessee-titans",
+      "source": "Sports Illustrated",
+      "ts": 1757689500.0,
+      "published_iso": "2025-09-12T15:05:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-titans-week-2-showdown-2025-music-city-game-preview",
+      "title": "Rams clash with the Titans in a Week 2 showdown in the Music City | Game Preview",
+      "link": "https://therams.com/news/rams-titans-week-2-showdown-2025-music-city-game-preview",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1757674800.0,
+      "published_iso": "2025-09-12T11:00:00+00:00"
+    }
+  ]
 }
