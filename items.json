@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2025-09-12T23:31:33.031023+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-09-13T02:40:19.741504+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-si-com-nfl-rams-los-angeles-davante-adams-jc-latham-kevin-dotson-tennessee-titans",
+      "title": "Rams Gain Significant Advantage in Friday's Injury Report",
+      "link": "https://si.com/nfl/rams/los-angeles-davante-adams-jc-latham-kevin-dotson-tennessee-titans",
+      "source": "Sports Illustrated",
+      "ts": 1757701380.0,
+      "published_iso": "2025-09-12T18:23:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-rams-vs-titans-final-score-prediction-for-nfl-week-2-can-la-cover",
+      "title": "Rams vs. Titans Final Score Prediction for NFL Week 2 (Can LA Cover?)",
+      "link": "https://si.com/betting/rams-vs-titans-final-score-prediction-for-nfl-week-2-can-la-cover",
+      "source": "Sports Illustrated",
+      "ts": 1757700000.0,
+      "published_iso": "2025-09-12T18:00:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-articles-nfl-los-angeles-rams-defeat-135119868-html",
+      "title": "NFL: Los Angeles Rams defeat Houston Texans",
+      "link": "https://yahoo.com/news/articles/nfl-los-angeles-rams-defeat-135119868.html",
+      "source": "Yahoo",
+      "ts": 1757319480.0,
+      "published_iso": "2025-09-08T08:18:00+00:00"
+    }
+  ]
 }
