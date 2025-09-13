@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2025-09-13T13:00:33.640285+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-09-13T13:32:52.011340+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-si-com-nfl-rams-los-angeles-davante-adams-tennessee-titans-sean-mcvay-mike-lafleur",
+      "title": "Meet the Rams' New Difference Maker",
+      "link": "https://si.com/nfl/rams/los-angeles-davante-adams-tennessee-titans-sean-mcvay-mike-lafleur",
+      "source": "Sports Illustrated",
+      "ts": 1757738400.0,
+      "published_iso": "2025-09-13T04:40:00+00:00"
+    }
+  ]
 }
