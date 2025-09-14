@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-09-14T20:38:04.968631+00:00",
-  "count": 3,
+  "updated_iso": "2025-09-14T21:24:48.431161+00:00",
+  "count": 1,
   "items": [
-    {
-      "id": "https-espn-com-nfl-recap-gameid-401772724",
-      "title": "Matthew Stafford throws 2 TDs as Rams spoil home opener for Titans and Cam Ward",
-      "link": "https://espn.com/nfl/recap?gameId=401772724",
-      "source": "ESPN",
-      "ts": 1757857020.0,
-      "published_iso": "2025-09-14T13:37:00+00:00"
-    },
     {
       "id": "https-therams-com-news-game-recap-rams-use-big-second-half-to-surge-past-titans-33-19-week-2-2025",
       "title": "Game Recap: Rams use big second half to surge past Titans 33-19",
@@ -17,14 +9,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1757856180.0,
       "published_iso": "2025-09-14T13:23:00+00:00"
-    },
-    {
-      "id": "https-therams-com-video-rams-jordan-whittington-40-yard-sideline-catch-titans",
-      "title": "HIGHLIGHTS: Rams WR Jordan Whittington makes a 40-yard sideline catch against the Titans",
-      "link": "https://therams.com/video/rams-jordan-whittington-40-yard-sideline-catch-titans",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1757855760.0,
-      "published_iso": "2025-09-14T13:16:00+00:00"
     }
   ]
 }
