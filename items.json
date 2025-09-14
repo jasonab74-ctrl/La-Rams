@@ -1,22 +1,30 @@
 {
-  "updated_iso": "2025-09-14T19:19:27.629165+00:00",
-  "count": 2,
+  "updated_iso": "2025-09-14T19:31:27.556693+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-therams-com-video-rams-matthew-stafford-threads-10-yard-pass-puka-nacua-between-titans",
-      "title": "HIGHLIGHTS: Rams QB Matthew Stafford threads a 10-yard pass to WR Puka Nacua between Titans defenders",
-      "link": "https://therams.com/video/rams-matthew-stafford-threads-10-yard-pass-puka-nacua-between-titans",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1757848020.0,
-      "published_iso": "2025-09-14T11:07:00+00:00"
+      "id": "https-nfl-com-videos-slye-s-57-yard-fg-lifts-titans-by-3-over-rams-late-in-3rd-quarter",
+      "title": "Slye's 57-yard FG lifts Titans by 3 over Rams late in 3rd quarter",
+      "link": "https://nfl.com/videos/slye-s-57-yard-fg-lifts-titans-by-3-over-rams-late-in-3rd-quarter",
+      "source": "NFL.com",
+      "ts": 1757852580.0,
+      "published_iso": "2025-09-14T12:23:00+00:00"
     },
     {
-      "id": "https-therams-com-video-rams-tyler-higbee-slips-10-yards-titans-defense-secure-1st-down-titans",
-      "title": "HIGHLIGHTS: Rams TE Tyler Higbee slips past Titans defense to secure a 1st down",
-      "link": "https://therams.com/video/rams-tyler-higbee-slips-10-yards-titans-defense-secure-1st-down-titans",
+      "id": "https-sports-yahoo-com-article-see-cam-wards-first-career-182349942-html",
+      "title": "See Cam Ward's first career NFL TD pass for Titans vs Rams",
+      "link": "https://sports.yahoo.com/article/see-cam-wards-first-career-182349942.html",
+      "source": "Yahoo Sports",
+      "ts": 1757849880.0,
+      "published_iso": "2025-09-14T11:38:00+00:00"
+    },
+    {
+      "id": "https-therams-com-video-rams-davante-adams-33-yard-reception-first-catch-titans",
+      "title": "HIGHLIGHTS: Rams WR Davante Adams' 33-yard reception marks his first catch of day against the Titans",
+      "link": "https://therams.com/video/rams-davante-adams-33-yard-reception-first-catch-titans",
       "source": "Los Angeles Rams (Official)",
-      "ts": 1757847000.0,
-      "published_iso": "2025-09-14T10:50:00+00:00"
+      "ts": 1757848980.0,
+      "published_iso": "2025-09-14T11:23:00+00:00"
     }
   ]
 }
