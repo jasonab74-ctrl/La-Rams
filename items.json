@@ -1,30 +1,30 @@
 {
-  "updated_iso": "2025-09-14T19:31:27.556693+00:00",
+  "updated_iso": "2025-09-14T20:28:25.567433+00:00",
   "count": 3,
   "items": [
     {
-      "id": "https-nfl-com-videos-slye-s-57-yard-fg-lifts-titans-by-3-over-rams-late-in-3rd-quarter",
-      "title": "Slye's 57-yard FG lifts Titans by 3 over Rams late in 3rd quarter",
-      "link": "https://nfl.com/videos/slye-s-57-yard-fg-lifts-titans-by-3-over-rams-late-in-3rd-quarter",
-      "source": "NFL.com",
-      "ts": 1757852580.0,
-      "published_iso": "2025-09-14T12:23:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-see-cam-wards-first-career-182349942-html",
-      "title": "See Cam Ward's first career NFL TD pass for Titans vs Rams",
-      "link": "https://sports.yahoo.com/article/see-cam-wards-first-career-182349942.html",
+      "id": "https-sports-yahoo-com-article-rams-defeat-titans-33-19-201520940-html",
+      "title": "Rams defeat Titans 33-19, move to 2-0",
+      "link": "https://sports.yahoo.com/article/rams-defeat-titans-33-19-201520940.html",
       "source": "Yahoo Sports",
-      "ts": 1757849880.0,
-      "published_iso": "2025-09-14T11:38:00+00:00"
+      "ts": 1757856300.0,
+      "published_iso": "2025-09-14T13:25:00+00:00"
     },
     {
-      "id": "https-therams-com-video-rams-davante-adams-33-yard-reception-first-catch-titans",
-      "title": "HIGHLIGHTS: Rams WR Davante Adams' 33-yard reception marks his first catch of day against the Titans",
-      "link": "https://therams.com/video/rams-davante-adams-33-yard-reception-first-catch-titans",
+      "id": "https-therams-com-news-game-recap-rams-use-big-second-half-to-surge-past-titans-33-19-week-2-2025",
+      "title": "Game Recap: Rams use big second half to surge past Titans 33-19",
+      "link": "https://therams.com/news/game-recap-rams-use-big-second-half-to-surge-past-titans-33-19-week-2-2025",
       "source": "Los Angeles Rams (Official)",
-      "ts": 1757848980.0,
-      "published_iso": "2025-09-14T11:23:00+00:00"
+      "ts": 1757856180.0,
+      "published_iso": "2025-09-14T13:23:00+00:00"
+    },
+    {
+      "id": "https-therams-com-video-rams-jordan-whittington-40-yard-sideline-catch-titans",
+      "title": "HIGHLIGHTS: Rams WR Jordan Whittington makes a 40-yard sideline catch against the Titans",
+      "link": "https://therams.com/video/rams-jordan-whittington-40-yard-sideline-catch-titans",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1757855760.0,
+      "published_iso": "2025-09-14T13:16:00+00:00"
     }
   ]
 }
