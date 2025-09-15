@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2025-09-15T17:29:36.793527+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-09-15T17:42:19.425795+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-high-marks-week-2-173044347-html",
+      "title": "Rams get high marks for Week 2 win over Titans",
+      "link": "https://sports.yahoo.com/article/rams-high-marks-week-2-173044347.html",
+      "source": "Yahoo Sports",
+      "ts": 1757932500.0,
+      "published_iso": "2025-09-15T10:35:00+00:00"
+    }
+  ]
 }
