@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-09-15T17:42:19.425795+00:00",
-  "count": 1,
+  "updated_iso": "2025-09-15T18:46:41.603767+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-rams-high-marks-week-2-173044347-html",
-      "title": "Rams get high marks for Week 2 win over Titans",
-      "link": "https://sports.yahoo.com/article/rams-high-marks-week-2-173044347.html",
+      "id": "https-sports-yahoo-com-article-rams-place-cb-ahkello-witherspoon-180540490-html",
+      "title": "Rams place CB Ahkello Witherspoon on IR",
+      "link": "https://sports.yahoo.com/article/rams-place-cb-ahkello-witherspoon-180540490.html",
       "source": "Yahoo Sports",
-      "ts": 1757932500.0,
-      "published_iso": "2025-09-15T10:35:00+00:00"
+      "ts": 1757934960.0,
+      "published_iso": "2025-09-15T11:16:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-ahkello-witherspoon-injury-update-rams-cb-placed-on-injured-reserve-after-suffering-broke-c",
+      "title": "Ahkello Witherspoon injury update: Rams CB placed on injured reserve after suffering broke clavicle vs. Titans",
+      "link": "https://cbssports.com/nfl/news/ahkello-witherspoon-injury-update-rams-cb-placed-on-injured-reserve-after-suffering-broke-clavicle-vs-titans/",
+      "source": "CBS Sports",
+      "ts": 1757934120.0,
+      "published_iso": "2025-09-15T11:02:00+00:00"
     }
   ]
 }
