@@ -1,23 +1,7 @@
 {
-  "updated_iso": "2025-09-15T05:34:36.661144+00:00",
-  "count": 3,
+  "updated_iso": "2025-09-15T06:51:55.216944+00:00",
+  "count": 1,
   "items": [
-    {
-      "id": "https-cbssports-com-nfl-gametracker-boxscore-nfl-20250914-lar-ten",
-      "title": "Matthew Stafford throws 2 TDs as Rams spoil home opener for Titans and Cam Ward",
-      "link": "https://cbssports.com/nfl/gametracker/boxscore/NFL_20250914_LAR@TEN/",
-      "source": "CBS Sports",
-      "ts": 1757885460.0,
-      "published_iso": "2025-09-14T21:31:00+00:00"
-    },
-    {
-      "id": "https-latimes-com-sports-rams-live-rams-titans-live-updates-how-to-watch-score-start-time-highlights",
-      "title": "Matthew Stafford and Rams surge in the second half to defeat Titans",
-      "link": "https://latimes.com/sports/rams/live/rams-titans-live-updates-how-to-watch-score-start-time-highlights",
-      "source": "LA Times",
-      "ts": 1757880660.0,
-      "published_iso": "2025-09-14T20:11:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-article-ve-still-got-lot-belief-223846796-html",
       "title": "\"I’ve still got a lot of belief in our football team\" -- Titans head coach Brian Callahan sounds like he's trying to convince himself as much as his fan base that he's ...",
