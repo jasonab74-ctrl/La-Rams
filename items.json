@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2025-09-15T21:27:03.129258+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-09-15T21:36:25.540037+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-article-playing-well-rams-211028066-html",
+      "title": "Who’s playing well for the Rams?",
+      "link": "https://sports.yahoo.com/article/playing-well-rams-211028066.html",
+      "source": "Yahoo Sports",
+      "ts": 1757945940.0,
+      "published_iso": "2025-09-15T14:19:00+00:00"
+    }
+  ]
 }
