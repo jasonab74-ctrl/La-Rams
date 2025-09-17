@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-09-17T22:37:13.623535+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-09-17T23:26:15.796290+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-ocregister-com-2025-09-17-rams-sean-mcvay-shakes-off-plantar-fascia-tear",
+      "title": "Rams’ Sean McVay shakes off plantar fascia tear",
+      "link": "https://ocregister.com/2025/09/17/rams-sean-mcvay-shakes-off-plantar-fascia-tear/",
+      "source": "OC Register",
+      "ts": 1758125640.0,
+      "published_iso": "2025-09-17T16:14:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-los-angeles-sean-mcvay-matthew-stafford-davante-adams-eagles",
+      "title": "Rams Sean McVay Previews Critical Rematch With Eagles",
+      "link": "https://si.com/nfl/rams/los-angeles-sean-mcvay-matthew-stafford-davante-adams-eagles",
+      "source": "Sports Illustrated",
+      "ts": 1758124260.0,
+      "published_iso": "2025-09-17T15:51:00+00:00"
+    }
+  ]
 }
