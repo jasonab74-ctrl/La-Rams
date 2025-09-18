@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2025-09-18T04:37:42.304035+00:00",
-  "count": 2,
+  "updated_iso": "2025-09-18T05:32:20.208430+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-si-com-nfl-rams-los-angeles-sean-mcvay-matthew-stafford-davante-adams-eagles",
-      "title": "Rams Sean McVay Previews Critical Rematch With Eagles",
-      "link": "https://si.com/nfl/rams/los-angeles-sean-mcvay-matthew-stafford-davante-adams-eagles",
-      "source": "Sports Illustrated",
-      "ts": 1758136200.0,
-      "published_iso": "2025-09-17T19:10:00+00:00"
-    },
-    {
-      "id": "https-apnews-com-article-rams-sean-mcvay-3368d4c4ce9475e187cba4af45ac58b7",
-      "title": "McVay won’t need surgery on injured foot while he prepares Rams to face Eagles",
-      "link": "https://apnews.com/article/rams-sean-mcvay-3368d4c4ce9475e187cba4af45ac58b7",
-      "source": "AP News",
-      "ts": 1758135300.0,
-      "published_iso": "2025-09-17T18:55:00+00:00"
+      "id": "https-therams-com-news-los-angeles-rams-at-philadelphia-eagles-how-to-watch-listen-to-and-live-stream-week-3-2025",
+      "title": "Los Angeles Rams at Philadelphia Eagles: How to watch, listen to and live stream Week 3",
+      "link": "https://therams.com/news/los-angeles-rams-at-philadelphia-eagles-how-to-watch-listen-to-and-live-stream-week-3-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1758117840.0,
+      "published_iso": "2025-09-17T14:04:00+00:00"
     }
   ]
 }
