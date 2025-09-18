@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2025-09-17T23:36:05.748927+00:00",
-  "count": 1,
+  "updated_iso": "2025-09-18T03:05:11.089681+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-si-com-nfl-rams-los-angeles-sean-mcvay-matthew-stafford-davante-adams-eagles",
       "title": "Rams Sean McVay Previews Critical Rematch With Eagles",
       "link": "https://si.com/nfl/rams/los-angeles-sean-mcvay-matthew-stafford-davante-adams-eagles",
       "source": "Sports Illustrated",
-      "ts": 1758124260.0,
-      "published_iso": "2025-09-17T15:51:00+00:00"
+      "ts": 1758136200.0,
+      "published_iso": "2025-09-17T19:10:00+00:00"
+    },
+    {
+      "id": "https-therams-com-video-sean-mcvay-matthew-stafford-rams-eagles-matchup-davante-adams-leadership",
+      "title": "Sean McVay & Matthew Stafford on Rams-Eagles matchup; Davante Adams talks Stafford's leadership",
+      "link": "https://therams.com/video/sean-mcvay-matthew-stafford-rams-eagles-matchup-davante-adams-leadership",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1758135060.0,
+      "published_iso": "2025-09-17T18:51:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-philadelphia-eagles-how-to-watch-listen-to-and-live-stream-week-3-2025",
+      "title": "Los Angeles Rams at Philadelphia Eagles: How to watch, listen to and live stream Week 3",
+      "link": "https://therams.com/news/los-angeles-rams-at-philadelphia-eagles-how-to-watch-listen-to-and-live-stream-week-3-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1758117840.0,
+      "published_iso": "2025-09-17T14:04:00+00:00"
     }
   ]
 }
