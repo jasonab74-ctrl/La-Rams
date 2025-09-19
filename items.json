@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-09-19T11:30:38.923744+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-09-19T13:17:58.649350+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-eagles-features-only-two-180000754-html",
+      "title": "Rams-Eagles features the only 2 active players from this country",
+      "link": "https://sports.yahoo.com/article/rams-eagles-features-only-two-180000754.html",
+      "source": "Yahoo Sports",
+      "ts": 1758258840.0,
+      "published_iso": "2025-09-19T05:14:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-philadelphia-eagles-how-to-watch-listen-to-and-live-stream-week-3-2025",
+      "title": "Los Angeles Rams at Philadelphia Eagles: How to watch, listen to and live stream Week 3",
+      "link": "https://therams.com/news/los-angeles-rams-at-philadelphia-eagles-how-to-watch-listen-to-and-live-stream-week-3-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1758117840.0,
+      "published_iso": "2025-09-17T14:04:00+00:00"
+    }
+  ]
 }
