@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-09-19T23:36:17.213235+00:00",
-  "count": 1,
+  "updated_iso": "2025-09-20T03:01:05.682928+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-philadelphia-eagles-week-3-final-230518385-html",
+      "title": "Philadelphia Eagles' Week 3 final injury vs. Los Angeles Rams shows positive update for key starter",
+      "link": "https://sports.yahoo.com/article/philadelphia-eagles-week-3-final-230518385.html",
+      "source": "Yahoo Sports",
+      "ts": 1758310320.0,
+      "published_iso": "2025-09-19T19:32:00+00:00"
+    },
     {
       "id": "https-therams-com-news-rams-eagles-tussle-early-2025-season-matchup-philadelphia-game-preview",
       "title": "Rams & Eagles tussle in epic early season matchup | Game Preview",
@@ -9,6 +17,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1758295320.0,
       "published_iso": "2025-09-19T15:22:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-philadelphia-eagles-how-to-watch-listen-to-and-live-stream-week-3-2025",
+      "title": "Los Angeles Rams at Philadelphia Eagles: How to watch, listen to and live stream Week 3",
+      "link": "https://therams.com/news/los-angeles-rams-at-philadelphia-eagles-how-to-watch-listen-to-and-live-stream-week-3-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1758117840.0,
+      "published_iso": "2025-09-17T14:04:00+00:00"
     }
   ]
 }
