@@ -1,22 +1,22 @@
 {
-  "updated_iso": "2025-09-21T20:30:38.395833+00:00",
-  "count": 7,
+  "updated_iso": "2025-09-21T21:25:17.524200+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-latimes-com-sports-rams-live-rams-eagles-live-updates-how-to-watch-start-time-score-highlights",
-      "title": "Rams lose to Eagles after Jordan Davis blocks field goal as time expires",
-      "link": "https://latimes.com/sports/rams/live/rams-eagles-live-updates-how-to-watch-start-time-score-highlights",
-      "source": "LA Times",
-      "ts": 1758461280.0,
-      "published_iso": "2025-09-21T13:28:00+00:00"
+      "id": "https-foxsports-com-watch-fmc-law1anl93c99mw6x",
+      "title": "Rams vs. Eagles: Greg Olsen praises Eagles' second half performance vs. Rams | NFL on FOX",
+      "link": "https://foxsports.com/watch/fmc-law1anl93c99mw6x",
+      "source": "FOX Sports",
+      "ts": 1758464400.0,
+      "published_iso": "2025-09-21T14:20:00+00:00"
     },
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-21-rams-eagles-score-analysis-recap-week-3-86280486007",
-      "title": "Rams blow big lead vs. Eagles, lose 33-26: Instant analysis of heartbreaking loss",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/21/rams-eagles-score-analysis-recap-week-3/86280486007/",
-      "source": "Rams Wire",
-      "ts": 1758461160.0,
-      "published_iso": "2025-09-21T13:26:00+00:00"
+      "id": "https-cbssports-com-nfl-news-eagles-pull-off-remarkable-19-point-comeback-vs-rams-cover-the-spread-on-final-play-with-ul",
+      "title": "Eagles pull off remarkable 19-point comeback vs. Rams, cover the spread on final play with ultimate bad beat",
+      "link": "https://cbssports.com/nfl/news/eagles-pull-off-remarkable-19-point-comeback-vs-rams-cover-the-spread-on-final-play-with-ultimate-bad-beat/",
+      "source": "CBS Sports",
+      "ts": 1758463140.0,
+      "published_iso": "2025-09-21T13:59:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-article-wild-rams-vs-eagles-finish-201621354-html",
@@ -33,30 +33,6 @@
       "source": "Bleacher Report",
       "ts": 1758460860.0,
       "published_iso": "2025-09-21T13:21:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-game-recap-rams-fall-to-eagles-33-26",
-      "title": "Game Recap: Rams fall to Eagles 33-26",
-      "link": "https://therams.com/news/game-recap-rams-fall-to-eagles-33-26",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1758460740.0,
-      "published_iso": "2025-09-21T13:19:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-watch-fmc-plq9cetvb4bq3mdz",
-      "title": "Jalen Hurts connects with DeVonta Smith for four-yard TD, giving Eagles lead over Rams | NFL Highlights",
-      "link": "https://foxsports.com/watch/fmc-plq9cetvb4bq3mdz",
-      "source": "FOX Sports",
-      "ts": 1758460740.0,
-      "published_iso": "2025-09-21T13:19:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-eagles-vs-rams-live-updates-score-highlights-nfc-showdown-live",
-      "title": "Eagles vs. Rams live updates, score, highlights as Jalen Hurts, Philadelphia offense finally coming alive",
-      "link": "https://cbssports.com/nfl/news/eagles-vs-rams-live-updates-score-highlights-nfc-showdown/live/",
-      "source": "CBS Sports",
-      "ts": 1758458160.0,
-      "published_iso": "2025-09-21T12:36:00+00:00"
     }
   ]
 }
