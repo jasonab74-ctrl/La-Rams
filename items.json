@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-09-21T03:15:24.029576+00:00",
+  "updated_iso": "2025-09-21T03:54:56.852366+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-ocregister-com-2025-09-20-can-rams-get-redemption-against-eagles-saquon-barkley",
+      "title": "Can Rams get redemption against Eagles, Saquon Barkley?",
+      "link": "https://ocregister.com/2025/09/20/can-rams-get-redemption-against-eagles-saquon-barkley/",
+      "source": "OC Register",
+      "ts": 1758401340.0,
+      "published_iso": "2025-09-20T20:49:00+00:00"
+    },
     {
       "id": "https-cbssports-com-nfl-news-rams-vs-eagles-where-to-watch-nfl-week-3-betting-odds-promos-prediction-for-hurts-vs-staffo",
       "title": "Rams vs. Eagles: Where to watch NFL Week 3, betting odds, promos, prediction for Hurts vs. Stafford",
@@ -9,14 +17,6 @@
       "source": "CBS Sports",
       "ts": 1758372600.0,
       "published_iso": "2025-09-20T12:50:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-20-2-rams-eagles-player-matchups-named-among-best-to-watch-",
-      "title": "Puka Nacua's and Jared Verse's matchups named among best to watch in Rams-Eagles",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/20/2-rams-eagles-player-matchups-named-among-best-to-watch-in-week-3/86267608007/",
-      "source": "Rams Wire",
-      "ts": 1758370860.0,
-      "published_iso": "2025-09-20T12:21:00+00:00"
     }
   ]
 }
