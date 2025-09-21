@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-09-21T18:41:03.264610+00:00",
-  "count": 6,
+  "updated_iso": "2025-09-21T19:20:37.561383+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-nfl-com-videos-karty-s-33-yard-fg-gives-rams-16-7-lead-vs-eagles",
+      "title": "Karty's 33-yard FG gives Rams 16-7 lead vs. Eagles",
+      "link": "https://nfl.com/videos/karty-s-33-yard-fg-gives-rams-16-7-lead-vs-eagles",
+      "source": "NFL.com",
+      "ts": 1758456780.0,
+      "published_iso": "2025-09-21T12:13:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-eagles-vs-rams-live-updates-score-highlights-nfc-showdown-live",
+      "title": "Eagles vs. Rams live updates, score, highlights as Los Angeles shutting down Saquon Barkley, Philly offense",
+      "link": "https://cbssports.com/nfl/news/eagles-vs-rams-live-updates-score-highlights-nfc-showdown/live/",
+      "source": "CBS Sports",
+      "ts": 1758456360.0,
+      "published_iso": "2025-09-21T12:06:00+00:00"
+    },
     {
       "id": "https-therams-com-video-jaylen-mccollough-hit-stick-sack-eagles-quarterback-jalen-hurts-lincoln-financial-field",
       "title": "HIGHLIGHTS: Rams S Jaylen McCollough's hit-stick sack on Eagles QB Jalen Hurts echos throughout Lincoln Financial Field",
@@ -11,44 +27,12 @@
       "published_iso": "2025-09-21T11:38:00+00:00"
     },
     {
-      "id": "https-si-com-nfl-rams-los-angeles-sean-mcvay-davante-adams-kyren-williams-eagles",
-      "title": "Five First Half Rams-Eagles Observations",
-      "link": "https://si.com/nfl/rams/los-angeles-sean-mcvay-davante-adams-kyren-williams-eagles",
-      "source": "Sports Illustrated",
-      "ts": 1758454620.0,
-      "published_iso": "2025-09-21T11:37:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-rams-eagles-second-half-game-182653991-html",
-      "title": "Rams-Eagles second half game thread",
-      "link": "https://sports.yahoo.com/article/rams-eagles-second-half-game-182653991.html",
-      "source": "Yahoo Sports",
-      "ts": 1758454560.0,
-      "published_iso": "2025-09-21T11:36:00+00:00"
-    },
-    {
-      "id": "https-therams-com-video-joshua-karty-51-yard-field-goal-trims-philadelphia-eagles-lead",
-      "title": "HIGHLIGHTS: Rams K Joshua Karty's 51-yard field goal trims Eagles' lead",
-      "link": "https://therams.com/video/joshua-karty-51-yard-field-goal-trims-philadelphia-eagles-lead",
+      "id": "https-therams-com-video-davante-adams-44-yard-touchdown-catch-matthew-stafford-eagles",
+      "title": "HIGHLIGHTS: Rams WR Davante Adams with a 44-yard touchdown catch from QB Matthew Stafford against the Eagles",
+      "link": "https://therams.com/video/davante-adams-44-yard-touchdown-catch-matthew-stafford-eagles",
       "source": "Los Angeles Rams (Official)",
-      "ts": 1758453300.0,
-      "published_iso": "2025-09-21T11:15:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-eagles-vs-rams-live-updates-score-highlights-nfc-showdown-live",
-      "title": "Eagles vs. Rams live updates, score, highlights as Davante Adams' touchdown gives Los Angeles early advantage",
-      "link": "https://cbssports.com/nfl/news/eagles-vs-rams-live-updates-score-highlights-nfc-showdown/live/",
-      "source": "CBS Sports",
-      "ts": 1758452700.0,
-      "published_iso": "2025-09-21T11:05:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-eagles-vs-rams-second-quarter-174141538-html",
-      "title": "Eagles vs. Rams: Second quarter score updates",
-      "link": "https://sports.yahoo.com/article/eagles-vs-rams-second-quarter-174141538.html",
-      "source": "Yahoo Sports",
-      "ts": 1758452520.0,
-      "published_iso": "2025-09-21T11:02:00+00:00"
+      "ts": 1758452880.0,
+      "published_iso": "2025-09-21T11:08:00+00:00"
     }
   ]
 }
