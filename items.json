@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-09-21T17:28:06.787477+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-09-21T17:37:45.393544+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-article-eagles-rams-updates-tush-push-171824542-html",
+      "title": "Eagles-Rams updates: Tush push gives Super Bowl champs early lead",
+      "link": "https://sports.yahoo.com/article/eagles-rams-updates-tush-push-171824542.html",
+      "source": "Yahoo Sports",
+      "ts": 1758450480.0,
+      "published_iso": "2025-09-21T10:28:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-eagles-vs-rams-live-updates-score-highlights-nfc-showdown-live",
+      "title": "Eagles vs. Rams live updates: Score, analysis, highlights for Week 3 NFC showdown",
+      "link": "https://cbssports.com/nfl/news/eagles-vs-rams-live-updates-score-highlights-nfc-showdown/live/",
+      "source": "CBS Sports",
+      "ts": 1758446820.0,
+      "published_iso": "2025-09-21T09:27:00+00:00"
+    }
+  ]
 }
