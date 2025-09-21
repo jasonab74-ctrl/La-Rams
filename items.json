@@ -1,22 +1,54 @@
 {
-  "updated_iso": "2025-09-21T17:37:45.393544+00:00",
-  "count": 2,
+  "updated_iso": "2025-09-21T18:41:03.264610+00:00",
+  "count": 6,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-eagles-rams-updates-tush-push-171824542-html",
-      "title": "Eagles-Rams updates: Tush push gives Super Bowl champs early lead",
-      "link": "https://sports.yahoo.com/article/eagles-rams-updates-tush-push-171824542.html",
+      "id": "https-therams-com-video-jaylen-mccollough-hit-stick-sack-eagles-quarterback-jalen-hurts-lincoln-financial-field",
+      "title": "HIGHLIGHTS: Rams S Jaylen McCollough's hit-stick sack on Eagles QB Jalen Hurts echos throughout Lincoln Financial Field",
+      "link": "https://therams.com/video/jaylen-mccollough-hit-stick-sack-eagles-quarterback-jalen-hurts-lincoln-financial-field",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1758454680.0,
+      "published_iso": "2025-09-21T11:38:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-los-angeles-sean-mcvay-davante-adams-kyren-williams-eagles",
+      "title": "Five First Half Rams-Eagles Observations",
+      "link": "https://si.com/nfl/rams/los-angeles-sean-mcvay-davante-adams-kyren-williams-eagles",
+      "source": "Sports Illustrated",
+      "ts": 1758454620.0,
+      "published_iso": "2025-09-21T11:37:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-rams-eagles-second-half-game-182653991-html",
+      "title": "Rams-Eagles second half game thread",
+      "link": "https://sports.yahoo.com/article/rams-eagles-second-half-game-182653991.html",
       "source": "Yahoo Sports",
-      "ts": 1758450480.0,
-      "published_iso": "2025-09-21T10:28:00+00:00"
+      "ts": 1758454560.0,
+      "published_iso": "2025-09-21T11:36:00+00:00"
+    },
+    {
+      "id": "https-therams-com-video-joshua-karty-51-yard-field-goal-trims-philadelphia-eagles-lead",
+      "title": "HIGHLIGHTS: Rams K Joshua Karty's 51-yard field goal trims Eagles' lead",
+      "link": "https://therams.com/video/joshua-karty-51-yard-field-goal-trims-philadelphia-eagles-lead",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1758453300.0,
+      "published_iso": "2025-09-21T11:15:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-eagles-vs-rams-live-updates-score-highlights-nfc-showdown-live",
-      "title": "Eagles vs. Rams live updates: Score, analysis, highlights for Week 3 NFC showdown",
+      "title": "Eagles vs. Rams live updates, score, highlights as Davante Adams' touchdown gives Los Angeles early advantage",
       "link": "https://cbssports.com/nfl/news/eagles-vs-rams-live-updates-score-highlights-nfc-showdown/live/",
       "source": "CBS Sports",
-      "ts": 1758446820.0,
-      "published_iso": "2025-09-21T09:27:00+00:00"
+      "ts": 1758452700.0,
+      "published_iso": "2025-09-21T11:05:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-eagles-vs-rams-second-quarter-174141538-html",
+      "title": "Eagles vs. Rams: Second quarter score updates",
+      "link": "https://sports.yahoo.com/article/eagles-vs-rams-second-quarter-174141538.html",
+      "source": "Yahoo Sports",
+      "ts": 1758452520.0,
+      "published_iso": "2025-09-21T11:02:00+00:00"
     }
   ]
 }
