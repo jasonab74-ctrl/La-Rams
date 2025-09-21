@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-09-21T06:44:01.604637+00:00",
-  "count": 2,
+  "updated_iso": "2025-09-21T07:24:06.444860+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-cbssports-com-nfl-news-rams-vs-eagles-where-to-watch-nfl-week-3-betting-odds-promos-prediction-for-hurts-vs-staffo",
@@ -9,14 +9,6 @@
       "source": "CBS Sports",
       "ts": 1758372600.0,
       "published_iso": "2025-09-20T12:50:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-los-angeles-davante-adams-houston-texans-sean-mcvay-new-york-jets",
-      "title": "Which Rams' Debut Is Most Anticipated Ahead of Week 1",
-      "link": "https://si.com/nfl/rams/los-angeles-davante-adams-houston-texans-sean-mcvay-new-york-jets",
-      "source": "Sports Illustrated",
-      "ts": 1757005140.0,
-      "published_iso": "2025-09-04T16:59:00+00:00"
     }
   ]
 }
