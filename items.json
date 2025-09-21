@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-09-21T15:36:31.951666+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-09-21T16:37:23.780910+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-cbssports-com-nfl-news-eagles-vs-rams-live-updates-score-highlights-nfc-showdown-live",
+      "title": "Eagles vs. Rams live updates: Score, analysis, highlights for Week 3 NFC showdown",
+      "link": "https://cbssports.com/nfl/news/eagles-vs-rams-live-updates-score-highlights-nfc-showdown/live/",
+      "source": "CBS Sports",
+      "ts": 1758446820.0,
+      "published_iso": "2025-09-21T09:27:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-eagles-inactives-week-3-2025-steve-avila-terrance-ferguson",
+      "title": "Steve Avila and Terrance Ferguson among Rams' inactives for Week 3 at Eagles",
+      "link": "https://therams.com/news/rams-eagles-inactives-week-3-2025-steve-avila-terrance-ferguson",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1758444660.0,
+      "published_iso": "2025-09-21T08:51:00+00:00"
+    }
+  ]
 }
