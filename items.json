@@ -1,46 +1,62 @@
 {
-  "updated_iso": "2025-09-21T19:31:31.154677+00:00",
-  "count": 5,
+  "updated_iso": "2025-09-21T20:30:38.395833+00:00",
+  "count": 7,
   "items": [
     {
-      "id": "https-therams-com-video-jared-verse-sacks-eagles-quarterback-jalen-hurts-force-fumble-recovered-nate-landman",
-      "title": "HIGHLIGHTS: Rams OLB Jared Verse sacks Eagles QB Jalen Hurts to force a fumble recovered by ILB Nate Landman",
-      "link": "https://therams.com/video/jared-verse-sacks-eagles-quarterback-jalen-hurts-force-fumble-recovered-nate-landman",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1758457440.0,
-      "published_iso": "2025-09-21T12:24:00+00:00"
+      "id": "https-latimes-com-sports-rams-live-rams-eagles-live-updates-how-to-watch-start-time-score-highlights",
+      "title": "Rams lose to Eagles after Jordan Davis blocks field goal as time expires",
+      "link": "https://latimes.com/sports/rams/live/rams-eagles-live-updates-how-to-watch-start-time-score-highlights",
+      "source": "LA Times",
+      "ts": 1758461280.0,
+      "published_iso": "2025-09-21T13:28:00+00:00"
     },
     {
-      "id": "https-nfl-com-videos-karty-s-33-yard-fg-gives-rams-16-7-lead-vs-eagles",
-      "title": "Karty's 33-yard FG gives Rams 16-7 lead vs. Eagles",
-      "link": "https://nfl.com/videos/karty-s-33-yard-fg-gives-rams-16-7-lead-vs-eagles",
-      "source": "NFL.com",
-      "ts": 1758456780.0,
-      "published_iso": "2025-09-21T12:13:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-21-rams-eagles-score-analysis-recap-week-3-86280486007",
+      "title": "Rams blow big lead vs. Eagles, lose 33-26: Instant analysis of heartbreaking loss",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/21/rams-eagles-score-analysis-recap-week-3/86280486007/",
+      "source": "Rams Wire",
+      "ts": 1758461160.0,
+      "published_iso": "2025-09-21T13:26:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-wild-rams-vs-eagles-finish-201621354-html",
+      "title": "Wild Rams vs. Eagles finish sees unlikely big-man TD, all-time bad beat for bettors",
+      "link": "https://sports.yahoo.com/article/wild-rams-vs-eagles-finish-201621354.html",
+      "source": "Yahoo Sports",
+      "ts": 1758460860.0,
+      "published_iso": "2025-09-21T13:21:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25251283-jalen-hurts-aj-brown-impress-nfl-fans-eagles-comeback-win-vs-stafford-rams",
+      "title": "Jalen Hurts, A.J. Brown Impress NFL Fans in Eagles' Comeback Win vs. Stafford, Rams",
+      "link": "https://bleacherreport.com/articles/25251283-jalen-hurts-aj-brown-impress-nfl-fans-eagles-comeback-win-vs-stafford-rams",
+      "source": "Bleacher Report",
+      "ts": 1758460860.0,
+      "published_iso": "2025-09-21T13:21:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-game-recap-rams-fall-to-eagles-33-26",
+      "title": "Game Recap: Rams fall to Eagles 33-26",
+      "link": "https://therams.com/news/game-recap-rams-fall-to-eagles-33-26",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1758460740.0,
+      "published_iso": "2025-09-21T13:19:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-watch-fmc-plq9cetvb4bq3mdz",
+      "title": "Jalen Hurts connects with DeVonta Smith for four-yard TD, giving Eagles lead over Rams | NFL Highlights",
+      "link": "https://foxsports.com/watch/fmc-plq9cetvb4bq3mdz",
+      "source": "FOX Sports",
+      "ts": 1758460740.0,
+      "published_iso": "2025-09-21T13:19:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-eagles-vs-rams-live-updates-score-highlights-nfc-showdown-live",
-      "title": "Eagles vs. Rams live updates, score, highlights as Los Angeles shutting down Saquon Barkley, Philly offense",
+      "title": "Eagles vs. Rams live updates, score, highlights as Jalen Hurts, Philadelphia offense finally coming alive",
       "link": "https://cbssports.com/nfl/news/eagles-vs-rams-live-updates-score-highlights-nfc-showdown/live/",
       "source": "CBS Sports",
-      "ts": 1758456360.0,
-      "published_iso": "2025-09-21T12:06:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-impact-lane-johnsons-absence-eagles-185534105-html",
-      "title": "The impact of Lane Johnson's absence on the Eagles' offense is clear versus the Rams",
-      "link": "https://sports.yahoo.com/article/impact-lane-johnsons-absence-eagles-185534105.html",
-      "source": "Yahoo Sports",
-      "ts": 1758456360.0,
-      "published_iso": "2025-09-21T12:06:00+00:00"
-    },
-    {
-      "id": "https-therams-com-video-jaylen-mccollough-hit-stick-sack-eagles-quarterback-jalen-hurts-lincoln-financial-field",
-      "title": "HIGHLIGHTS: Rams S Jaylen McCollough's hit-stick sack on Eagles QB Jalen Hurts echos throughout Lincoln Financial Field",
-      "link": "https://therams.com/video/jaylen-mccollough-hit-stick-sack-eagles-quarterback-jalen-hurts-lincoln-financial-field",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1758454680.0,
-      "published_iso": "2025-09-21T11:38:00+00:00"
+      "ts": 1758458160.0,
+      "published_iso": "2025-09-21T12:36:00+00:00"
     }
   ]
 }
