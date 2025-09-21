@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-09-21T05:32:18.904723+00:00",
+  "updated_iso": "2025-09-21T06:44:01.604637+00:00",
   "count": 2,
   "items": [
-    {
-      "id": "https-ocregister-com-2025-09-20-can-rams-get-redemption-against-eagles-saquon-barkley",
-      "title": "Can Rams get redemption against Eagles, Saquon Barkley?",
-      "link": "https://ocregister.com/2025/09/20/can-rams-get-redemption-against-eagles-saquon-barkley/",
-      "source": "OC Register",
-      "ts": 1758401340.0,
-      "published_iso": "2025-09-20T20:49:00+00:00"
-    },
     {
       "id": "https-cbssports-com-nfl-news-rams-vs-eagles-where-to-watch-nfl-week-3-betting-odds-promos-prediction-for-hurts-vs-staffo",
       "title": "Rams vs. Eagles: Where to watch NFL Week 3, betting odds, promos, prediction for Hurts vs. Stafford",
@@ -17,6 +9,14 @@
       "source": "CBS Sports",
       "ts": 1758372600.0,
       "published_iso": "2025-09-20T12:50:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-los-angeles-davante-adams-houston-texans-sean-mcvay-new-york-jets",
+      "title": "Which Rams' Debut Is Most Anticipated Ahead of Week 1",
+      "link": "https://si.com/nfl/rams/los-angeles-davante-adams-houston-texans-sean-mcvay-new-york-jets",
+      "source": "Sports Illustrated",
+      "ts": 1757005140.0,
+      "published_iso": "2025-09-04T16:59:00+00:00"
     }
   ]
 }
