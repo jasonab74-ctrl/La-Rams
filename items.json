@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-09-22T22:31:58.949607+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-09-22T23:26:29.220450+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-article-block-rams-know-must-shake-230415877-html",
+      "title": "Block it out: Rams know they must shake off their gut-punch loss to Eagles with big challenges ahead",
+      "link": "https://sports.yahoo.com/article/block-rams-know-must-shake-230415877.html",
+      "source": "Yahoo Sports",
+      "ts": 1758558000.0,
+      "published_iso": "2025-09-22T16:20:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-philadelphia-eagles-how-to-watch-listen-to-and-live-stream-week-3-2025",
+      "title": "Los Angeles Rams at Philadelphia Eagles: How to watch, listen to and live stream Week 3",
+      "link": "https://therams.com/news/los-angeles-rams-at-philadelphia-eagles-how-to-watch-listen-to-and-live-stream-week-3-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1758117840.0,
+      "published_iso": "2025-09-17T14:04:00+00:00"
+    }
+  ]
 }
