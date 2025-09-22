@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2025-09-22T11:37:40.880236+00:00",
-  "count": 2,
+  "updated_iso": "2025-09-22T13:20:44.948014+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-si-com-nfl-rams-los-angeles-joshua-karty-sean-mcvay-matthew-stafford-davante-adams",
-      "title": "5 Positives From Rams Loss to Eagles",
-      "link": "https://si.com/nfl/rams/los-angeles-joshua-karty-sean-mcvay-matthew-stafford-davante-adams",
-      "source": "Sports Illustrated",
-      "ts": 1758514380.0,
-      "published_iso": "2025-09-22T04:13:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-mcvay-feeling-brutal-rams-loss-224344400-html",
-      "title": "Do you agree with what McVay said after the Rams game?",
-      "link": "https://sports.yahoo.com/article/mcvay-feeling-brutal-rams-loss-224344400.html",
+      "id": "https-sports-yahoo-com-article-good-bad-ugly-did-rams-130000313-html",
+      "title": "Good, bad and ugly: Did Rams lose it or Eagles win it?",
+      "link": "https://sports.yahoo.com/article/good-bad-ugly-did-rams-130000313.html",
       "source": "Yahoo Sports",
-      "ts": 1758513960.0,
-      "published_iso": "2025-09-22T04:06:00+00:00"
+      "ts": 1758521820.0,
+      "published_iso": "2025-09-22T06:17:00+00:00"
     }
   ]
 }
