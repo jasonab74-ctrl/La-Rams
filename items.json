@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-09-23T07:34:38.102376+00:00",
-  "count": 3,
+  "updated_iso": "2025-09-23T08:12:37.833807+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-therams-com-news-los-angeles-rams-at-philadelphia-eagles-how-to-watch-listen-to-and-live-stream-week-3-2025",
@@ -17,14 +17,6 @@
       "source": "Sports Illustrated",
       "ts": 1757005140.0,
       "published_iso": "2025-09-04T16:59:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-los-angeles-sean-mcvay-ahkello-witherspoon-texans",
-      "title": "Rams vs. Texans: Second Injury Report Presents Worrying News",
-      "link": "https://si.com/nfl/rams/los-angeles-sean-mcvay-ahkello-witherspoon-texans",
-      "source": "Sports Illustrated",
-      "ts": 1756918800.0,
-      "published_iso": "2025-09-03T17:00:00+00:00"
     }
   ]
 }
