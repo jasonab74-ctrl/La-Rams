@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2025-09-24T22:33:29.111851+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-09-24T23:08:03.873890+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-si-com-nfl-rams-sean-mcvay-los-angeles-daniel-jones-indianapolis-colts",
+      "title": "Sean McVay Details Rams Approach to Taking On Colts",
+      "link": "https://si.com/nfl/rams/sean-mcvay-los-angeles-daniel-jones-indianapolis-colts",
+      "source": "Sports Illustrated",
+      "ts": 1758729060.0,
+      "published_iso": "2025-09-24T15:51:00+00:00"
+    },
+    {
+      "id": "https-therams-com-video-matthew-stafford-100-touchdown-passes-rams-regular-season",
+      "title": "HIGHLIGHTS: Matthew Stafford's 100 touchdown passes with the Rams in the regular season",
+      "link": "https://therams.com/video/matthew-stafford-100-touchdown-passes-rams-regular-season",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1758724260.0,
+      "published_iso": "2025-09-24T14:31:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-vs-indianapolis-colts-how-to-watch-listen-to-and-live-stream-week-4-2025",
+      "title": "Los Angeles Rams vs. Indianapolis Colts: How to watch, listen to and live stream Week 4",
+      "link": "https://therams.com/news/los-angeles-rams-vs-indianapolis-colts-how-to-watch-listen-to-and-live-stream-week-4-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1758722640.0,
+      "published_iso": "2025-09-24T14:04:00+00:00"
+    }
+  ]
 }
