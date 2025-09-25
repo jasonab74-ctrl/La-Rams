@@ -1,31 +1,7 @@
 {
-  "updated_iso": "2025-09-25T04:10:48.991464+00:00",
-  "count": 4,
+  "updated_iso": "2025-09-25T04:39:37.885902+00:00",
+  "count": 3,
   "items": [
-    {
-      "id": "https-si-com-nfl-rams-sean-mcvay-los-angeles-daniel-jones-indianapolis-colts",
-      "title": "Sean McVay Details Rams Approach to Taking On Colts",
-      "link": "https://si.com/nfl/rams/sean-mcvay-los-angeles-daniel-jones-indianapolis-colts",
-      "source": "Sports Illustrated",
-      "ts": 1758742680.0,
-      "published_iso": "2025-09-24T19:38:00+00:00"
-    },
-    {
-      "id": "https-therams-com-audio-rams-audio-poona-ford-kam-curl-justin-dedich-preparing-sunday-rams-colts",
-      "title": "LOCKER ROOM INTERVIEWS | Poona Ford, Kam Curl & Justin Dedich on preparing for Sunday's Rams-Colts matchup",
-      "link": "https://therams.com/audio/rams-audio-poona-ford-kam-curl-justin-dedich-preparing-sunday-rams-colts",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1758740340.0,
-      "published_iso": "2025-09-24T18:59:00+00:00"
-    },
-    {
-      "id": "https-apnews-com-article-rams-injuries-davante-adams-7ff4a31f4e1c9738dc8eb0e0fec10f26",
-      "title": "WR Davante Adams, RT Rob Havenstein sit out Rams’ practice with what McVay says are minor injuries",
-      "link": "https://apnews.com/article/rams-injuries-davante-adams-7ff4a31f4e1c9738dc8eb0e0fec10f26",
-      "source": "AP News",
-      "ts": 1758736020.0,
-      "published_iso": "2025-09-24T17:47:00+00:00"
-    },
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-indianapolis-colts-how-to-watch-listen-to-and-live-stream-week-4-2025",
       "title": "Los Angeles Rams vs. Indianapolis Colts: How to watch, listen to and live stream Week 4",
@@ -33,6 +9,22 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1758722640.0,
       "published_iso": "2025-09-24T14:04:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-los-angeles-davante-adams-houston-texans-sean-mcvay-new-york-jets",
+      "title": "Which Rams' Debut Is Most Anticipated Ahead of Week 1",
+      "link": "https://si.com/nfl/rams/los-angeles-davante-adams-houston-texans-sean-mcvay-new-york-jets",
+      "source": "Sports Illustrated",
+      "ts": 1757005140.0,
+      "published_iso": "2025-09-04T16:59:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-los-angeles-houston-texans-davante-adams-sean-mcvay-matthew-stafford",
+      "title": "Why Rams Are a Trendy Week 1 Pick",
+      "link": "https://si.com/nfl/rams/los-angeles-houston-texans-davante-adams-sean-mcvay-matthew-stafford",
+      "source": "Sports Illustrated",
+      "ts": 1756918800.0,
+      "published_iso": "2025-09-03T17:00:00+00:00"
     }
   ]
 }
