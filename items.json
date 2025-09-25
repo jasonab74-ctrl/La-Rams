@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-09-25T00:40:34.378178+00:00",
-  "count": 1,
+  "updated_iso": "2025-09-25T02:17:12.539793+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-wr-davante-adams-rt-rob-004716208-html",
+      "title": "WR Davante Adams, RT Rob Havenstein sit out Rams' practice with what McVay says are minor injuries",
+      "link": "https://sports.yahoo.com/article/wr-davante-adams-rt-rob-004716208.html",
+      "source": "Yahoo Sports",
+      "ts": 1758736860.0,
+      "published_iso": "2025-09-24T18:01:00+00:00"
+    },
+    {
+      "id": "https-ocregister-com-2025-09-24-rams-matthew-stafford-turning-page-from-uneven-game-vs-eagles",
+      "title": "Rams’ Matthew Stafford turning page from uneven game vs. Eagles",
+      "link": "https://ocregister.com/2025/09/24/rams-matthew-stafford-turning-page-from-uneven-game-vs-eagles/",
+      "source": "OC Register",
+      "ts": 1758736560.0,
+      "published_iso": "2025-09-24T17:56:00+00:00"
+    },
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-indianapolis-colts-how-to-watch-listen-to-and-live-stream-week-4-2025",
       "title": "Los Angeles Rams vs. Indianapolis Colts: How to watch, listen to and live stream Week 4",
