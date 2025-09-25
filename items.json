@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-09-25T11:31:20.303433+00:00",
+  "updated_iso": "2025-09-25T12:17:01.804764+00:00",
   "count": 2,
   "items": [
-    {
-      "id": "https-ocregister-com-2025-09-24-rams-matthew-stafford-turning-page-from-uneven-game-vs-eagles",
-      "title": "Rams’ Matthew Stafford turning page from uneven game vs. Eagles",
-      "link": "https://ocregister.com/2025/09/24/rams-matthew-stafford-turning-page-from-uneven-game-vs-eagles/",
-      "source": "OC Register",
-      "ts": 1758761280.0,
-      "published_iso": "2025-09-25T00:48:00+00:00"
-    },
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-indianapolis-colts-how-to-watch-listen-to-and-live-stream-week-4-2025",
       "title": "Los Angeles Rams vs. Indianapolis Colts: How to watch, listen to and live stream Week 4",
@@ -17,6 +9,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1758722640.0,
       "published_iso": "2025-09-24T14:04:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-indianapolis-colts-vs-los-angeles-154457057-html",
+      "title": "Indianapolis Colts vs Los Angeles Rams TV announcers, coverage map: Where to watch, stream NFL Week 4 game",
+      "link": "https://sports.yahoo.com/article/indianapolis-colts-vs-los-angeles-154457057.html",
+      "source": "Yahoo Sports",
+      "ts": 1758706440.0,
+      "published_iso": "2025-09-24T09:34:00+00:00"
     }
   ]
 }
