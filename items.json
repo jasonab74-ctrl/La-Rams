@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2025-09-25T22:02:43.554029+00:00",
-  "count": 4,
+  "updated_iso": "2025-09-25T22:35:13.739440+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-apnews-com-article-colts-rams-preview-6b5309c789a78a8adffd70a045ebf5ac",
-      "title": "Rams can’t let Eagles beat them twice when high-scoring Colts come to town",
-      "link": "https://apnews.com/article/colts-rams-preview-6b5309c789a78a8adffd70a045ebf5ac",
-      "source": "AP News",
-      "ts": 1758810420.0,
-      "published_iso": "2025-09-25T14:27:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25252976-eagles-jalen-carter-denies-rumor-he-was-wearing-jared-verses-chain-after-rams",
-      "title": "Eagles' Jalen Carter Denies Rumor He Was Wearing Jared Verse's Chain After Rams Game",
-      "link": "https://bleacherreport.com/articles/25252976-eagles-jalen-carter-denies-rumor-he-was-wearing-jared-verses-chain-after-rams-game",
-      "source": "Bleacher Report",
-      "ts": 1758808740.0,
-      "published_iso": "2025-09-25T13:59:00+00:00"
+      "id": "https-cbssports-com-nfl-news-colts-rams-preview",
+      "title": "Colts-Rams Preview",
+      "link": "https://cbssports.com/nfl/news/colts-rams-preview/",
+      "source": "CBS Sports",
+      "ts": 1758813900.0,
+      "published_iso": "2025-09-25T15:25:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-indianapolis-colts-how-to-watch-listen-to-and-live-stream-week-4-2025",
