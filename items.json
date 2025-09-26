@@ -1,22 +1,22 @@
 {
-  "updated_iso": "2025-09-26T02:16:28.915306+00:00",
-  "count": 4,
+  "updated_iso": "2025-09-26T03:10:57.650041+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-si-com-nfl-rams-los-angeles-indianapolis-colts-sean-mcvay-mike-lafleur-matthew-stafford",
-      "title": "Rams Mike LaFleur Talks Approach to Colts' Defense",
-      "link": "https://si.com/nfl/rams/los-angeles-indianapolis-colts-sean-mcvay-mike-lafleur-matthew-stafford",
-      "source": "Sports Illustrated",
-      "ts": 1758826800.0,
-      "published_iso": "2025-09-25T19:00:00+00:00"
+      "id": "https-sports-yahoo-com-article-rams-jared-verse-vehemently-defends-014207759-html",
+      "title": "Rams’ Jared Verse vehemently defends Eagles’ Jalen Hurts with NSFW endorsement",
+      "link": "https://sports.yahoo.com/article/rams-jared-verse-vehemently-defends-014207759.html",
+      "source": "Yahoo Sports",
+      "ts": 1758830100.0,
+      "published_iso": "2025-09-25T19:55:00+00:00"
     },
     {
-      "id": "https-apnews-com-article-colts-rams-preview-6b5309c789a78a8adffd70a045ebf5ac",
-      "title": "Rams can’t let Eagles beat them twice when high-scoring Colts come to town",
-      "link": "https://apnews.com/article/colts-rams-preview-6b5309c789a78a8adffd70a045ebf5ac",
-      "source": "AP News",
-      "ts": 1758810420.0,
-      "published_iso": "2025-09-25T14:27:00+00:00"
+      "id": "https-si-com-nfl-rams-los-angeles-chris-shula-daniel-jones-indianapolis-colts",
+      "title": "Rams' Chris Shula Details Strides Made By Defense",
+      "link": "https://si.com/nfl/rams/los-angeles-chris-shula-daniel-jones-indianapolis-colts",
+      "source": "Sports Illustrated",
+      "ts": 1758828600.0,
+      "published_iso": "2025-09-25T19:30:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-indianapolis-colts-how-to-watch-listen-to-and-live-stream-week-4-2025",
@@ -25,14 +25,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1758722640.0,
       "published_iso": "2025-09-24T14:04:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-indianapolis-colts-vs-los-angeles-154457715-html",
-      "title": "Indianapolis Colts vs Los Angeles Rams TV announcers, coverage map: Where to watch, stream NFL Week 4 game",
-      "link": "https://sports.yahoo.com/article/indianapolis-colts-vs-los-angeles-154457715.html",
-      "source": "Yahoo Sports",
-      "ts": 1758706440.0,
-      "published_iso": "2025-09-24T09:34:00+00:00"
     }
   ]
 }
