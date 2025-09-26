@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2025-09-26T11:07:42.585194+00:00",
-  "count": 2,
+  "updated_iso": "2025-09-26T11:31:32.369628+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-apnews-com-article-colts-rams-preview-6b5309c789a78a8adffd70a045ebf5ac",
-      "title": "Rams can’t let Eagles beat them twice when high-scoring Colts come to town",
-      "link": "https://apnews.com/article/colts-rams-preview-6b5309c789a78a8adffd70a045ebf5ac",
-      "source": "AP News",
-      "ts": 1758810420.0,
-      "published_iso": "2025-09-25T14:27:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-vs-indianapolis-colts-how-to-watch-listen-to-and-live-stream-week-4-2025",
-      "title": "Los Angeles Rams vs. Indianapolis Colts: How to watch, listen to and live stream Week 4",
-      "link": "https://therams.com/news/los-angeles-rams-vs-indianapolis-colts-how-to-watch-listen-to-and-live-stream-week-4-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1758722640.0,
-      "published_iso": "2025-09-24T14:04:00+00:00"
+      "id": "https-sports-yahoo-com-article-rams-vs-colts-injury-report-004418395-html",
+      "title": "Rams vs. Colts injury report: Davante Adams, Rob Havenstein miss practice again",
+      "link": "https://sports.yahoo.com/article/rams-vs-colts-injury-report-004418395.html",
+      "source": "Yahoo Sports",
+      "ts": 1758823380.0,
+      "published_iso": "2025-09-25T18:03:00+00:00"
     }
   ]
 }
