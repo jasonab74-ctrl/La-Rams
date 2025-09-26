@@ -1,23 +1,7 @@
 {
-  "updated_iso": "2025-09-26T21:07:31.394554+00:00",
-  "count": 3,
+  "updated_iso": "2025-09-26T21:31:24.945079+00:00",
+  "count": 2,
   "items": [
-    {
-      "id": "https-ocregister-com-2025-09-26-rams-davante-adams-rob-havenstein-questionable-but-expected-to-play-vs-colts",
-      "title": "Rams’ Davante Adams, Rob Havenstein questionable but expected to play vs. Colts",
-      "link": "https://ocregister.com/2025/09/26/rams-davante-adams-rob-havenstein-questionable-but-expected-to-play-vs-colts/",
-      "source": "OC Register",
-      "ts": 1758889080.0,
-      "published_iso": "2025-09-26T12:18:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-davante-adams-misses-practice-time-184017792-html",
-      "title": "Davante Adams misses practice time again, but McVay feels good about his chances to play for Rams",
-      "link": "https://sports.yahoo.com/article/davante-adams-misses-practice-time-184017792.html",
-      "source": "Yahoo Sports",
-      "ts": 1758887640.0,
-      "published_iso": "2025-09-26T11:54:00+00:00"
-    },
     {
       "id": "https-therams-com-news-sofi-stadium-rams-defend-home-turf-colts-2025-game-preview",
       "title": "Back at SoFi Stadium, Rams ready to defend home turf against 3-0 Colts | Game Preview",
@@ -25,6 +9,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1758884940.0,
       "published_iso": "2025-09-26T11:09:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-vs-indianapolis-colts-how-to-watch-listen-to-and-live-stream-week-4-2025",
+      "title": "Los Angeles Rams vs. Indianapolis Colts: How to watch, listen to and live stream Week 4",
+      "link": "https://therams.com/news/los-angeles-rams-vs-indianapolis-colts-how-to-watch-listen-to-and-live-stream-week-4-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1758722640.0,
+      "published_iso": "2025-09-24T14:04:00+00:00"
     }
   ]
 }
