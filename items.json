@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2025-09-26T00:40:05.778055+00:00",
+  "updated_iso": "2025-09-26T02:16:28.915306+00:00",
   "count": 4,
   "items": [
     {
-      "id": "https-ocregister-com-2025-09-25-rams-jaylen-mccollough-embodies-violently-setting-the-tone",
-      "title": "Rams’ Jaylen McCollough embodies violently setting the tone",
-      "link": "https://ocregister.com/2025/09/25/rams-jaylen-mccollough-embodies-violently-setting-the-tone/",
-      "source": "OC Register",
-      "ts": 1758820140.0,
-      "published_iso": "2025-09-25T17:09:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-los-angeles-chris-shula-daniel-jones-indianapolis-colts",
-      "title": "Rams' Chris Shula Details Strides Made By Defense",
-      "link": "https://si.com/nfl/rams/los-angeles-chris-shula-daniel-jones-indianapolis-colts",
+      "id": "https-si-com-nfl-rams-los-angeles-indianapolis-colts-sean-mcvay-mike-lafleur-matthew-stafford",
+      "title": "Rams Mike LaFleur Talks Approach to Colts' Defense",
+      "link": "https://si.com/nfl/rams/los-angeles-indianapolis-colts-sean-mcvay-mike-lafleur-matthew-stafford",
       "source": "Sports Illustrated",
-      "ts": 1758816720.0,
-      "published_iso": "2025-09-25T16:12:00+00:00"
+      "ts": 1758826800.0,
+      "published_iso": "2025-09-25T19:00:00+00:00"
     },
     {
       "id": "https-apnews-com-article-colts-rams-preview-6b5309c789a78a8adffd70a045ebf5ac",
@@ -33,6 +25,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1758722640.0,
       "published_iso": "2025-09-24T14:04:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-indianapolis-colts-vs-los-angeles-154457715-html",
+      "title": "Indianapolis Colts vs Los Angeles Rams TV announcers, coverage map: Where to watch, stream NFL Week 4 game",
+      "link": "https://sports.yahoo.com/article/indianapolis-colts-vs-los-angeles-154457715.html",
+      "source": "Yahoo Sports",
+      "ts": 1758706440.0,
+      "published_iso": "2025-09-24T09:34:00+00:00"
     }
   ]
 }
