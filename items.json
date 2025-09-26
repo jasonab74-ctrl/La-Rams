@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-09-26T18:11:10.115880+00:00",
-  "count": 2,
+  "updated_iso": "2025-09-26T18:43:02.632696+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-si-com-nfl-rams-los-angeles-derek-carr-indianapolis-colts-sean-mcvay",
@@ -9,14 +9,6 @@
       "source": "Sports Illustrated",
       "ts": 1758884400.0,
       "published_iso": "2025-09-26T11:00:00+00:00"
-    },
-    {
-      "id": "https-therams-com-video-rams-mister-cartoon-la-bold-merchandise-collection-kyren-williams",
-      "title": "Rams x Mister Cartoon: The LA Bold Collection | Available 10/2",
-      "link": "https://therams.com/video/rams-mister-cartoon-la-bold-merchandise-collection-kyren-williams",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1758881640.0,
-      "published_iso": "2025-09-26T10:14:00+00:00"
     }
   ]
 }
