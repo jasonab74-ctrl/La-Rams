@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-09-26T13:00:40.313331+00:00",
-  "count": 2,
+  "updated_iso": "2025-09-26T13:41:01.158310+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-listed-landing-spot-potential-132617523-html",
+      "title": "Rams listed as landing spot for potential Matthew Stafford successor in trade",
+      "link": "https://sports.yahoo.com/article/rams-listed-landing-spot-potential-132617523.html",
+      "source": "Yahoo Sports",
+      "ts": 1758868680.0,
+      "published_iso": "2025-09-26T06:38:00+00:00"
+    },
     {
       "id": "https-bleacherreport-com-articles-25253137-rams-jared-verse-defends-jalen-hurts-critics-motherf-ker-can-throw",
       "title": "Rams' Jared Verse Defends Jalen Hurts from Critics, 'That Motherf--ker Can Throw'",
