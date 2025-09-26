@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-09-26T12:16:25.599984+00:00",
-  "count": 1,
+  "updated_iso": "2025-09-26T13:00:40.313331+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-rams-oc-says-tutu-atwell-120240563-html",
-      "title": "Rams OC says Tutu Atwell has 'been extremely valuable' despite having 1 catch",
-      "link": "https://sports.yahoo.com/article/rams-oc-says-tutu-atwell-120240563.html",
-      "source": "Yahoo Sports",
-      "ts": 1758863700.0,
-      "published_iso": "2025-09-26T05:15:00+00:00"
+      "id": "https-bleacherreport-com-articles-25253137-rams-jared-verse-defends-jalen-hurts-critics-motherf-ker-can-throw",
+      "title": "Rams' Jared Verse Defends Jalen Hurts from Critics, 'That Motherf--ker Can Throw'",
+      "link": "https://bleacherreport.com/articles/25253137-rams-jared-verse-defends-jalen-hurts-critics-motherf-ker-can-throw",
+      "source": "Bleacher Report",
+      "ts": 1758865800.0,
+      "published_iso": "2025-09-26T05:50:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-vs-indianapolis-colts-how-to-watch-listen-to-and-live-stream-week-4-2025",
+      "title": "Los Angeles Rams vs. Indianapolis Colts: How to watch, listen to and live stream Week 4",
+      "link": "https://therams.com/news/los-angeles-rams-vs-indianapolis-colts-how-to-watch-listen-to-and-live-stream-week-4-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1758722640.0,
+      "published_iso": "2025-09-24T14:04:00+00:00"
     }
   ]
 }
