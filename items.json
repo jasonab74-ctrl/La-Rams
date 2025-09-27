@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-09-27T21:03:57.639981+00:00",
-  "count": 3,
+  "updated_iso": "2025-09-27T21:30:43.838295+00:00",
+  "count": 1,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-nfl-breaking-news-article-eagles-dt-jalen-carter-fined-11593-for-taunting-after-field-goal-block-",
-      "title": "Eagles DT Jalen Carter fined $11,593 for taunting after field goal block vs. Rams, 3 weeks after spitting fine",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/eagles-dt-jalen-carter-fined-11593-for-taunting-after-field-goal-block-vs-rams-3-weeks-after-spitting-fine-205932039.html",
-      "source": "Yahoo Sports",
-      "ts": 1758981660.0,
-      "published_iso": "2025-09-27T14:01:00+00:00"
-    },
     {
       "id": "https-bleacherreport-com-articles-25253472-eagles-jalen-carter-fined-taunting-penalty-after-fg-block-win-over-rams",
       "title": "Eagles' Jalen Carter Fined for Taunting Penalty After FG Block in Win over Rams",
@@ -17,14 +9,6 @@
       "source": "Bleacher Report",
       "ts": 1758980760.0,
       "published_iso": "2025-09-27T13:46:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-vs-indianapolis-colts-how-to-watch-listen-to-and-live-stream-week-4-2025",
-      "title": "Los Angeles Rams vs. Indianapolis Colts: How to watch, listen to and live stream Week 4",
-      "link": "https://therams.com/news/los-angeles-rams-vs-indianapolis-colts-how-to-watch-listen-to-and-live-stream-week-4-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1758722640.0,
-      "published_iso": "2025-09-24T14:04:00+00:00"
     }
   ]
 }
