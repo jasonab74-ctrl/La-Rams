@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-09-27T04:10:31.723181+00:00",
+  "updated_iso": "2025-09-27T04:38:26.824335+00:00",
   "count": 3,
   "items": [
-    {
-      "id": "https-ocregister-com-2025-09-26-rams-davante-adams-rob-havenstein-questionable-but-expected-to-play-vs-colts",
-      "title": "Rams’ Davante Adams, Rob Havenstein questionable but expected to play vs. Colts",
-      "link": "https://ocregister.com/2025/09/26/rams-davante-adams-rob-havenstein-questionable-but-expected-to-play-vs-colts/",
-      "source": "OC Register",
-      "ts": 1758913500.0,
-      "published_iso": "2025-09-26T19:05:00+00:00"
-    },
     {
       "id": "https-therams-com-news-sofi-stadium-rams-defend-home-turf-colts-2025-game-preview",
       "title": "Back at SoFi Stadium, Rams ready to defend home turf against 3-0 Colts | Game Preview",
@@ -25,6 +17,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1758722640.0,
       "published_iso": "2025-09-24T14:04:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-jalen-hurts-fires-critics-eagles-110000595-html",
+      "title": "Jalen Hurts Fires at Critics After Eagles’ Impressive Comeback Win Against Los Angeles Rams",
+      "link": "https://sports.yahoo.com/article/jalen-hurts-fires-critics-eagles-110000595.html",
+      "source": "Yahoo Sports",
+      "ts": 1758686400.0,
+      "published_iso": "2025-09-24T04:00:00+00:00"
     }
   ]
 }
