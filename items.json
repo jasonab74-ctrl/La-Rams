@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-09-27T06:40:49.492820+00:00",
-  "count": 3,
+  "updated_iso": "2025-09-27T07:07:22.973471+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-therams-com-news-sofi-stadium-rams-defend-home-turf-colts-2025-game-preview",
+      "title": "Back at SoFi Stadium, Rams ready to defend home turf against 3-0 Colts | Game Preview",
+      "link": "https://therams.com/news/sofi-stadium-rams-defend-home-turf-colts-2025-game-preview",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1758884940.0,
+      "published_iso": "2025-09-26T11:09:00+00:00"
+    },
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-indianapolis-colts-how-to-watch-listen-to-and-live-stream-week-4-2025",
       "title": "Los Angeles Rams vs. Indianapolis Colts: How to watch, listen to and live stream Week 4",
@@ -9,22 +17,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1758722640.0,
       "published_iso": "2025-09-24T14:04:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-jalen-hurts-fires-critics-eagles-110000595-html",
-      "title": "Jalen Hurts Fires at Critics After Eagles’ Impressive Comeback Win Against Los Angeles Rams",
-      "link": "https://sports.yahoo.com/article/jalen-hurts-fires-critics-eagles-110000595.html",
-      "source": "Yahoo Sports",
-      "ts": 1758686400.0,
-      "published_iso": "2025-09-24T04:00:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-los-angeles-puka-nacua-sean-mcvay-texans",
-      "title": "WATCH: Rams Sean McVay 2025 Week One Friday Presser",
-      "link": "https://si.com/nfl/rams/los-angeles-puka-nacua-sean-mcvay-texans",
-      "source": "Sports Illustrated",
-      "ts": 1757005140.0,
-      "published_iso": "2025-09-04T16:59:00+00:00"
     }
   ]
 }
