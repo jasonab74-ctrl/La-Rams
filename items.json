@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-09-27T12:14:20.763461+00:00",
-  "count": 1,
+  "updated_iso": "2025-09-27T12:54:20.788651+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-indianapolis-colts-how-to-watch-listen-to-and-live-stream-week-4-2025",
@@ -9,6 +9,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1758722640.0,
       "published_iso": "2025-09-24T14:04:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-los-angeles-puka-nacua-sean-mcvay-texans",
+      "title": "WATCH: Rams Sean McVay 2025 Week One Friday Presser",
+      "link": "https://si.com/nfl/rams/los-angeles-puka-nacua-sean-mcvay-texans",
+      "source": "Sports Illustrated",
+      "ts": 1757005140.0,
+      "published_iso": "2025-09-04T16:59:00+00:00"
     }
   ]
 }
