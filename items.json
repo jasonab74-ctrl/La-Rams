@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-09-27T20:33:37.969548+00:00",
-  "count": 2,
+  "updated_iso": "2025-09-27T21:03:57.639981+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-si-com-betting-colts-vs-rams-final-score-prediction-nfl-week-4-can-los-angeles-win-at-home",
-      "title": "Colts vs. Rams Final Score Prediction for NFL Week 4 (Can Los Angeles Win at Home?)",
-      "link": "https://si.com/betting/colts-vs-rams-final-score-prediction-nfl-week-4-can-los-angeles-win-at-home",
-      "source": "Sports Illustrated",
-      "ts": 1758969000.0,
-      "published_iso": "2025-09-27T10:30:00+00:00"
+      "id": "https-sports-yahoo-com-nfl-breaking-news-article-eagles-dt-jalen-carter-fined-11593-for-taunting-after-field-goal-block-",
+      "title": "Eagles DT Jalen Carter fined $11,593 for taunting after field goal block vs. Rams, 3 weeks after spitting fine",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/eagles-dt-jalen-carter-fined-11593-for-taunting-after-field-goal-block-vs-rams-3-weeks-after-spitting-fine-205932039.html",
+      "source": "Yahoo Sports",
+      "ts": 1758981660.0,
+      "published_iso": "2025-09-27T14:01:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25253472-eagles-jalen-carter-fined-taunting-penalty-after-fg-block-win-over-rams",
+      "title": "Eagles' Jalen Carter Fined for Taunting Penalty After FG Block in Win over Rams",
+      "link": "https://bleacherreport.com/articles/25253472-eagles-jalen-carter-fined-taunting-penalty-after-fg-block-win-over-rams",
+      "source": "Bleacher Report",
+      "ts": 1758980760.0,
+      "published_iso": "2025-09-27T13:46:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-indianapolis-colts-how-to-watch-listen-to-and-live-stream-week-4-2025",
