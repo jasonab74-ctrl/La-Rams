@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-09-27T07:07:22.973471+00:00",
-  "count": 2,
+  "updated_iso": "2025-09-27T07:31:24.640589+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-therams-com-news-sofi-stadium-rams-defend-home-turf-colts-2025-game-preview",
@@ -17,6 +17,22 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1758722640.0,
       "published_iso": "2025-09-24T14:04:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-jalen-hurts-fires-critics-eagles-110000595-html",
+      "title": "Jalen Hurts Fires at Critics After Eagles’ Impressive Comeback Win Against Los Angeles Rams",
+      "link": "https://sports.yahoo.com/article/jalen-hurts-fires-critics-eagles-110000595.html",
+      "source": "Yahoo Sports",
+      "ts": 1758686400.0,
+      "published_iso": "2025-09-24T04:00:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-los-angeles-davante-adams-houston-texans-sean-mcvay-new-york-jets",
+      "title": "Which Rams' Debut Is Most Anticipated Ahead of Week 1",
+      "link": "https://si.com/nfl/rams/los-angeles-davante-adams-houston-texans-sean-mcvay-new-york-jets",
+      "source": "Sports Illustrated",
+      "ts": 1757005140.0,
+      "published_iso": "2025-09-04T16:59:00+00:00"
     }
   ]
 }
