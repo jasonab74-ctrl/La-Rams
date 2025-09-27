@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-09-27T21:30:43.838295+00:00",
-  "count": 1,
+  "updated_iso": "2025-09-27T22:06:27.734880+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-bleacherreport-com-articles-25253472-eagles-jalen-carter-fined-taunting-penalty-after-fg-block-win-over-rams",
@@ -9,6 +9,14 @@
       "source": "Bleacher Report",
       "ts": 1758980760.0,
       "published_iso": "2025-09-27T13:46:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-vs-indianapolis-colts-how-to-watch-listen-to-and-live-stream-week-4-2025",
+      "title": "Los Angeles Rams vs. Indianapolis Colts: How to watch, listen to and live stream Week 4",
+      "link": "https://therams.com/news/los-angeles-rams-vs-indianapolis-colts-how-to-watch-listen-to-and-live-stream-week-4-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1758722640.0,
+      "published_iso": "2025-09-24T14:04:00+00:00"
     }
   ]
 }
