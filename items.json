@@ -1,7 +1,31 @@
 {
-  "updated_iso": "2025-09-28T22:07:35.026283+00:00",
-  "count": 6,
+  "updated_iso": "2025-09-28T22:34:33.441772+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-puka-nacua-injury-latest-news-214218175-html",
+      "title": "Puka Nacua injury update: Latest news on Rams WR's status in Week 4 game",
+      "link": "https://sports.yahoo.com/article/puka-nacua-injury-latest-news-214218175.html",
+      "source": "Yahoo Sports",
+      "ts": 1759073280.0,
+      "published_iso": "2025-09-28T15:28:00+00:00"
+    },
+    {
+      "id": "https-therams-com-video-rams-davante-adams-10-yard-touchdown-catch-matthew-stafford-colts-week-4",
+      "title": "HIGHLIGHTS: Rams WR Davante Adams catches a 10-yard touchdown pass from QB Matthew Stafford vs. Colts",
+      "link": "https://therams.com/video/rams-davante-adams-10-yard-touchdown-catch-matthew-stafford-colts-week-4",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1759072620.0,
+      "published_iso": "2025-09-28T15:17:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-videos-stafford-s-23-yard-sideline-strike-to-nacua-gets-rams-closer-to-midfield",
+      "title": "Stafford's 23-yard sideline strike to Nacua gets Rams closer to midfield",
+      "link": "https://nfl.com/videos/stafford-s-23-yard-sideline-strike-to-nacua-gets-rams-closer-to-midfield",
+      "source": "NFL.com",
+      "ts": 1759072620.0,
+      "published_iso": "2025-09-28T15:17:00+00:00"
+    },
     {
       "id": "https-therams-com-video-rams-matthew-stafford-23-yard-sideline-strike-puka-nacua-midfield-week-4",
       "title": "HIGHLIGHTS: Matthew Stafford's 23-yard sideline strike to WR Puka Nacua gets Rams closer to midfield",
@@ -11,44 +35,12 @@
       "published_iso": "2025-09-28T14:59:00+00:00"
     },
     {
-      "id": "https-nfl-com-videos-tyler-warren-s-first-nfl-touchdown-comes-via-rush-attempt-vs-rams",
-      "title": "Tyler Warren's first NFL touchdown comes via rush attempt vs. Rams",
-      "link": "https://nfl.com/videos/tyler-warren-s-first-nfl-touchdown-comes-via-rush-attempt-vs-rams",
-      "source": "NFL.com",
-      "ts": 1759071120.0,
-      "published_iso": "2025-09-28T14:52:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-davante-adams-playing-today-why-205724896-html",
-      "title": "Is Davante Adams playing today? Why Rams WR is off to quiet start vs. Colts",
-      "link": "https://sports.yahoo.com/article/davante-adams-playing-today-why-205724896.html",
-      "source": "Yahoo Sports",
-      "ts": 1759068540.0,
-      "published_iso": "2025-09-28T14:09:00+00:00"
-    },
-    {
-      "id": "https-therams-com-video-rams-byron-young-scrambles-sack-colts-quarterback-daniel-jones-week-4",
-      "title": "HIGHLIGHTS: Rams OLB Byron Young scrambles to sack Colts QB Daniel Jones",
-      "link": "https://therams.com/video/rams-byron-young-scrambles-sack-colts-quarterback-daniel-jones-week-4",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1759067400.0,
-      "published_iso": "2025-09-28T13:50:00+00:00"
-    },
-    {
       "id": "https-latimes-com-sports-rams-live-rams-vs-colts-live-updates-how-to-watch-start-time-and-analysis",
       "title": "Rams vs. Colts live updates, how to watch, start time and analysis",
       "link": "https://latimes.com/sports/rams/live/rams-vs-colts-live-updates-how-to-watch-start-time-and-analysis",
       "source": "LA Times",
       "ts": 1759053780.0,
       "published_iso": "2025-09-28T10:03:00+00:00"
-    },
-    {
-      "id": "https-si-com-betting-colts-vs-rams-final-score-prediction-nfl-week-4-can-los-angeles-win-at-home",
-      "title": "Colts vs. Rams Final Score Prediction for NFL Week 4 (Can Los Angeles Win at Home?)",
-      "link": "https://si.com/betting/colts-vs-rams-final-score-prediction-nfl-week-4-can-los-angeles-win-at-home",
-      "source": "Sports Illustrated",
-      "ts": 1758969000.0,
-      "published_iso": "2025-09-27T10:30:00+00:00"
     }
   ]
 }
