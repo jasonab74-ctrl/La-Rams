@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2025-09-28T18:40:09.978607+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-09-28T19:01:29.481417+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-top-rookie-healthy-scratch-184716966-html",
+      "title": "Rams' top rookie is a healthy scratch for 2nd straight week",
+      "link": "https://sports.yahoo.com/article/rams-top-rookie-healthy-scratch-184716966.html",
+      "source": "Yahoo Sports",
+      "ts": 1759060320.0,
+      "published_iso": "2025-09-28T11:52:00+00:00"
+    }
+  ]
 }
