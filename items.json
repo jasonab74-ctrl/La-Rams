@@ -1,14 +1,38 @@
 {
-  "updated_iso": "2025-09-28T23:07:50.080139+00:00",
+  "updated_iso": "2025-09-28T23:30:55.919827+00:00",
   "count": 5,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-puka-nacua-injury-latest-news-214218175-html",
-      "title": "Puka Nacua injury update: Latest news on Rams WR's status in Week 4 game",
-      "link": "https://sports.yahoo.com/article/puka-nacua-injury-latest-news-214218175.html",
+      "id": "https-sports-yahoo-com-article-5-takeaways-rams-win-over-231745998-html",
+      "title": "5 takeaways from Rams win over Colts in Week 4",
+      "link": "https://sports.yahoo.com/article/5-takeaways-rams-win-over-231745998.html",
       "source": "Yahoo Sports",
-      "ts": 1759073280.0,
-      "published_iso": "2025-09-28T15:28:00+00:00"
+      "ts": 1759076520.0,
+      "published_iso": "2025-09-28T16:22:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-watch-fmc-9x50yf7iozqm4koz",
+      "title": "Tutu Atwell scores incredible 88-yard TD to help Rams defeat Colts | NFL Highlights",
+      "link": "https://foxsports.com/watch/fmc-9x50yf7iozqm4koz",
+      "source": "FOX Sports",
+      "ts": 1759076340.0,
+      "published_iso": "2025-09-28T16:19:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25253848-matthew-stafford-atwell-88-yard-td-thrills-nfl-fans-rams-beat-daniel-jones-co",
+      "title": "Matthew Stafford-Atwell 88-Yard TD Thrills NFL Fans as Rams Beat Daniel Jones, Colts",
+      "link": "https://bleacherreport.com/articles/25253848-matthew-stafford-atwell-88-yard-td-thrills-nfl-fans-rams-beat-daniel-jones-colts",
+      "source": "Bleacher Report",
+      "ts": 1759076100.0,
+      "published_iso": "2025-09-28T16:15:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-game-recap-rams-colts-week-4-2025",
+      "title": "Game Recap: Matthew Stafford's late 88-yard touchdown pass to Tutu Atwell, Kam Curl's second interception seal thrilling 27-20 Rams comeback win over Colts",
+      "link": "https://therams.com/news/game-recap-rams-colts-week-4-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1759076040.0,
+      "published_iso": "2025-09-28T16:14:00+00:00"
     },
     {
       "id": "https-therams-com-video-rams-davante-adams-10-yard-touchdown-catch-matthew-stafford-colts-week-4",
@@ -17,30 +41,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1759072620.0,
       "published_iso": "2025-09-28T15:17:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-videos-stafford-s-23-yard-sideline-strike-to-nacua-gets-rams-closer-to-midfield",
-      "title": "Stafford's 23-yard sideline strike to Nacua gets Rams closer to midfield",
-      "link": "https://nfl.com/videos/stafford-s-23-yard-sideline-strike-to-nacua-gets-rams-closer-to-midfield",
-      "source": "NFL.com",
-      "ts": 1759072620.0,
-      "published_iso": "2025-09-28T15:17:00+00:00"
-    },
-    {
-      "id": "https-therams-com-video-rams-matthew-stafford-23-yard-sideline-strike-puka-nacua-midfield-week-4",
-      "title": "HIGHLIGHTS: Matthew Stafford's 23-yard sideline strike to WR Puka Nacua gets Rams closer to midfield",
-      "link": "https://therams.com/video/rams-matthew-stafford-23-yard-sideline-strike-puka-nacua-midfield-week-4",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1759071540.0,
-      "published_iso": "2025-09-28T14:59:00+00:00"
-    },
-    {
-      "id": "https-latimes-com-sports-rams-live-rams-vs-colts-live-updates-how-to-watch-start-time-and-analysis",
-      "title": "Rams vs. Colts live updates, how to watch, start time and analysis",
-      "link": "https://latimes.com/sports/rams/live/rams-vs-colts-live-updates-how-to-watch-start-time-and-analysis",
-      "source": "LA Times",
-      "ts": 1759053780.0,
-      "published_iso": "2025-09-28T10:03:00+00:00"
     }
   ]
 }
