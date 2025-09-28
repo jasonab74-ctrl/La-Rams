@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2025-09-28T13:34:14.049749+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-09-28T14:02:34.349417+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-article-davante-adams-playing-today-latest-122145899-html",
+      "title": "Is Davante Adams playing today? Latest injury update, fantasy advice for Rams WR",
+      "link": "https://sports.yahoo.com/article/davante-adams-playing-today-latest-122145899.html",
+      "source": "Yahoo Sports",
+      "ts": 1759037580.0,
+      "published_iso": "2025-09-28T05:33:00+00:00"
+    }
+  ]
 }
