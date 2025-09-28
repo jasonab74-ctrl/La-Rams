@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-09-28T12:14:23.319758+00:00",
-  "count": 1,
+  "updated_iso": "2025-09-28T12:55:18.431956+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-davante-adams-playing-today-rams-123255534-html",
+      "title": "Is Davante Adams playing today for Rams?",
+      "link": "https://sports.yahoo.com/article/davante-adams-playing-today-rams-123255534.html",
+      "source": "Yahoo Sports",
+      "ts": 1759038360.0,
+      "published_iso": "2025-09-28T05:46:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-davante-adams-playing-today-latest-122145899-html",
+      "title": "Is Davante Adams playing today? Latest injury update, fantasy advice for Rams WR",
+      "link": "https://sports.yahoo.com/article/davante-adams-playing-today-latest-122145899.html",
+      "source": "Yahoo Sports",
+      "ts": 1759037580.0,
+      "published_iso": "2025-09-28T05:33:00+00:00"
+    },
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-indianapolis-colts-how-to-watch-listen-to-and-live-stream-week-4-2025",
       "title": "Los Angeles Rams vs. Indianapolis Colts: How to watch, listen to and live stream Week 4",
