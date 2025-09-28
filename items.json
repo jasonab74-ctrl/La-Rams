@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-09-28T21:03:37.462465+00:00",
-  "count": 2,
+  "updated_iso": "2025-09-28T21:31:12.016118+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-therams-com-news-rams-colts-inactives-week-4-2025-beaux-limmer-terrance-ferguson",
-      "title": "Terrance Ferguson and Beaux Limmer among Rams' inactives for Week 4 vs. Colts",
-      "link": "https://therams.com/news/rams-colts-inactives-week-4-2025-beaux-limmer-terrance-ferguson",
+      "id": "https-foxsports-com-watch-fmc-hcet5b9o2nqb0mh6",
+      "title": "Tyler Warren punches it in on 4th down to give Colts lead vs. Rams | NFL Highlights",
+      "link": "https://foxsports.com/watch/fmc-hcet5b9o2nqb0mh6",
+      "source": "FOX Sports",
+      "ts": 1759068900.0,
+      "published_iso": "2025-09-28T14:15:00+00:00"
+    },
+    {
+      "id": "https-therams-com-video-rams-byron-young-scrambles-sack-colts-quarterback-daniel-jones-week-4",
+      "title": "HIGHLIGHTS: Rams OLB Byron Young scrambles to sack Colts QB Daniel Jones",
+      "link": "https://therams.com/video/rams-byron-young-scrambles-sack-colts-quarterback-daniel-jones-week-4",
       "source": "Los Angeles Rams (Official)",
-      "ts": 1759059660.0,
-      "published_iso": "2025-09-28T11:41:00+00:00"
+      "ts": 1759067400.0,
+      "published_iso": "2025-09-28T13:50:00+00:00"
     },
     {
       "id": "https-latimes-com-sports-rams-live-rams-vs-colts-live-updates-how-to-watch-start-time-and-analysis",
@@ -17,6 +25,14 @@
       "source": "LA Times",
       "ts": 1759053780.0,
       "published_iso": "2025-09-28T10:03:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-vs-indianapolis-colts-how-to-watch-listen-to-and-live-stream-week-4-2025",
+      "title": "Los Angeles Rams vs. Indianapolis Colts: How to watch, listen to and live stream Week 4",
+      "link": "https://therams.com/news/los-angeles-rams-vs-indianapolis-colts-how-to-watch-listen-to-and-live-stream-week-4-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1758722640.0,
+      "published_iso": "2025-09-24T14:04:00+00:00"
     }
   ]
 }
