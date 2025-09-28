@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-09-28T19:01:29.481417+00:00",
-  "count": 1,
+  "updated_iso": "2025-09-28T19:31:27.094527+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-rams-top-rookie-healthy-scratch-184716966-html",
-      "title": "Rams' top rookie is a healthy scratch for 2nd straight week",
-      "link": "https://sports.yahoo.com/article/rams-top-rookie-healthy-scratch-184716966.html",
-      "source": "Yahoo Sports",
-      "ts": 1759060320.0,
-      "published_iso": "2025-09-28T11:52:00+00:00"
+      "id": "https-therams-com-news-rams-colts-inactives-week-4-2025-beaux-limmer-terrance-ferguson",
+      "title": "Terrance Ferguson and Beaux Limmer among Rams' inactives for Week 4 vs. Colts",
+      "link": "https://therams.com/news/rams-colts-inactives-week-4-2025-beaux-limmer-terrance-ferguson",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1759059660.0,
+      "published_iso": "2025-09-28T11:41:00+00:00"
+    },
+    {
+      "id": "https-latimes-com-sports-rams-live-rams-vs-colts-live-updates-how-to-watch-start-time-and-analysis",
+      "title": "Rams vs. Colts live updates, how to watch, start time and analysis",
+      "link": "https://latimes.com/sports/rams/live/rams-vs-colts-live-updates-how-to-watch-start-time-and-analysis",
+      "source": "LA Times",
+      "ts": 1759053780.0,
+      "published_iso": "2025-09-28T10:03:00+00:00"
     }
   ]
 }
