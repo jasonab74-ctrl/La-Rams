@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-09-29T04:11:23.436355+00:00",
-  "count": 2,
+  "updated_iso": "2025-09-29T04:40:09.795798+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-latimes-com-sports-rams-live-rams-vs-colts-live-updates-how-to-watch-start-time-and-analysis",
+      "title": "Matthew Stafford’s 88-yard TD pass to Tutu Atwell rallies Rams to win over Colts",
+      "link": "https://latimes.com/sports/rams/live/rams-vs-colts-live-updates-how-to-watch-start-time-and-analysis",
+      "source": "LA Times",
+      "ts": 1759094040.0,
+      "published_iso": "2025-09-28T21:14:00+00:00"
+    },
     {
       "id": "https-si-com-nfl-rams-los-angeles-tutu-atwell-indianapolis-colts-sean-mcvay-matthew-stafford",
       "title": "Rams' Tutu Atwell Breaks Down Game-Winning Touchdown",
