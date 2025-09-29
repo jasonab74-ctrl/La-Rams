@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-09-29T20:34:14.966485+00:00",
-  "count": 3,
+  "updated_iso": "2025-09-29T21:02:57.392789+00:00",
+  "count": 1,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-article-49ers-qb-brock-purdys-status-202109019-html",
-      "title": "49ers QB Brock Purdy's status uncertain for Thursday vs. Rams",
-      "link": "https://sports.yahoo.com/article/49ers-qb-brock-purdys-status-202109019.html",
-      "source": "Yahoo Sports",
-      "ts": 1759152720.0,
-      "published_iso": "2025-09-29T13:32:00+00:00"
-    },
     {
       "id": "https-bleacherreport-com-articles-25253069-brock-purdys-status-49ers-vs-rams-nfl-week-5-tbd-amid-toe-injury",
       "title": "Brock Purdy's Status for 49ers vs. Rams in NFL Week 5 TBD Amid Toe Injury",
@@ -17,14 +9,6 @@
       "source": "Bleacher Report",
       "ts": 1759150860.0,
       "published_iso": "2025-09-29T13:01:00+00:00"
-    },
-    {
-      "id": "https-therams-com-video-welcome-to-the-world-stage-visit-rwanda-multi-year-agreement-los-angeles-rams-sofi-stadium-holly",
-      "title": "Visit Rwanda enters multi-year sponsorship agreement with Los Angeles Rams, SoFi Stadium and Hollywood Park",
-      "link": "https://therams.com/video/welcome-to-the-world-stage-visit-rwanda-multi-year-agreement-los-angeles-rams-sofi-stadium-hollywood-park",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1759133340.0,
-      "published_iso": "2025-09-29T08:09:00+00:00"
     }
   ]
 }
