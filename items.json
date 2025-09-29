@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-09-29T07:10:08.041685+00:00",
-  "count": 4,
+  "updated_iso": "2025-09-29T07:35:17.313974+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-si-com-nfl-rams-los-angeles-tutu-atwell-indianapolis-colts-sean-mcvay-matthew-stafford",
@@ -11,28 +11,20 @@
       "published_iso": "2025-09-28T22:32:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-article-rams-social-media-takes-direct-040426873-html",
-      "title": "Rams’ social media takes direct shot at Cam Bynum after win vs. Colts",
-      "link": "https://sports.yahoo.com/article/rams-social-media-takes-direct-040426873.html",
-      "source": "Yahoo Sports",
-      "ts": 1759098360.0,
-      "published_iso": "2025-09-28T22:26:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-davante-adams-los-angeles-tutu-atwell-sean-mcvay-indianapolis-colts",
-      "title": "Davante Adams Shares Honest Thoughts on Rams Offense Post-Colts Game",
-      "link": "https://si.com/nfl/rams/davante-adams-los-angeles-tutu-atwell-sean-mcvay-indianapolis-colts",
-      "source": "Sports Illustrated",
-      "ts": 1759097280.0,
-      "published_iso": "2025-09-28T22:08:00+00:00"
-    },
-    {
       "id": "https-latimes-com-sports-rams-live-rams-vs-colts-live-updates-how-to-watch-start-time-and-analysis",
       "title": "Matthew Stafford’s 88-yard TD pass to Tutu Atwell rallies Rams to win over Colts",
       "link": "https://latimes.com/sports/rams/live/rams-vs-colts-live-updates-how-to-watch-start-time-and-analysis",
       "source": "LA Times",
       "ts": 1759094040.0,
       "published_iso": "2025-09-28T21:14:00+00:00"
+    },
+    {
+      "id": "https-therams-com-video-sean-mcvay-matthew-stafford-recap-rams-win-colts-sofi-stadium-week-4",
+      "title": "Sean McVay & Matthew Stafford recap the Rams' 27-20 win over the Colts at SoFi Stadium",
+      "link": "https://therams.com/video/sean-mcvay-matthew-stafford-recap-rams-win-colts-sofi-stadium-week-4",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1759084980.0,
+      "published_iso": "2025-09-28T18:43:00+00:00"
     }
   ]
 }
