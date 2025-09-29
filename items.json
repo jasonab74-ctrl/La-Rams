@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-09-29T04:40:09.795798+00:00",
-  "count": 3,
+  "updated_iso": "2025-09-29T05:09:34.950510+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-si-com-nfl-rams-davante-adams-los-angeles-tutu-atwell-sean-mcvay-indianapolis-colts",
+      "title": "Davante Adams Shares Honest Thoughts on Rams Offense Post-Colts Game",
+      "link": "https://si.com/nfl/rams/davante-adams-los-angeles-tutu-atwell-sean-mcvay-indianapolis-colts",
+      "source": "Sports Illustrated",
+      "ts": 1759097280.0,
+      "published_iso": "2025-09-28T22:08:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-matthew-stafford-los-angeles-matthew-stafford-indianapolis-colts-sean-mcvay-tutu-atwell",
+      "title": "Matthew Stafford Reacts to Rams' Gritty Win Over Colts",
+      "link": "https://si.com/nfl/rams/matthew-stafford-los-angeles-matthew-stafford-indianapolis-colts-sean-mcvay-tutu-atwell",
+      "source": "Sports Illustrated",
+      "ts": 1759096080.0,
+      "published_iso": "2025-09-28T21:48:00+00:00"
+    },
     {
       "id": "https-latimes-com-sports-rams-live-rams-vs-colts-live-updates-how-to-watch-start-time-and-analysis",
       "title": "Matthew Stafford’s 88-yard TD pass to Tutu Atwell rallies Rams to win over Colts",
@@ -9,14 +25,6 @@
       "source": "LA Times",
       "ts": 1759094040.0,
       "published_iso": "2025-09-28T21:14:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-los-angeles-tutu-atwell-indianapolis-colts-sean-mcvay-matthew-stafford",
-      "title": "Rams' Tutu Atwell Breaks Down Game-Winning Touchdown",
-      "link": "https://si.com/nfl/rams/los-angeles-tutu-atwell-indianapolis-colts-sean-mcvay-matthew-stafford",
-      "source": "Sports Illustrated",
-      "ts": 1759086780.0,
-      "published_iso": "2025-09-28T19:13:00+00:00"
     },
     {
       "id": "https-therams-com-video-sean-mcvay-matthew-stafford-recap-rams-win-colts-sofi-stadium-week-4",
