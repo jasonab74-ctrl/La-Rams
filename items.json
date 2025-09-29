@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-09-29T11:31:47.680225+00:00",
-  "count": 5,
+  "updated_iso": "2025-09-29T12:17:26.947439+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-week-4-snap-counts-120451821-html",
+      "title": "Rams Week 4 snap counts: Another new CB1, Whittington established as WR3",
+      "link": "https://sports.yahoo.com/article/rams-week-4-snap-counts-120451821.html",
+      "source": "Yahoo Sports",
+      "ts": 1759122960.0,
+      "published_iso": "2025-09-29T05:16:00+00:00"
+    },
     {
       "id": "https-si-com-betting-49ers-vs-rams-prediction-odds-spread-injuries-trends-for-nfl-week-5",
       "title": "49ers vs. Rams Prediction, Odds, Spread, Injuries, Trends for NFL Week 5",
@@ -25,22 +33,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1759084980.0,
       "published_iso": "2025-09-28T18:43:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-game-recap-rams-colts-week-4-2025",
-      "title": "Game Recap: Matthew Stafford's late 88-yard touchdown pass to Tutu Atwell, Kam Curl's second interception seal thrilling 27-20 Rams comeback win over Colts",
-      "link": "https://therams.com/news/game-recap-rams-colts-week-4-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1759076040.0,
-      "published_iso": "2025-09-28T16:14:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-09-27-nfl-week-4-rams-vs-colts-odds-lines-how-to-watch-9-28-20",
-      "title": "Los Angeles Rams vs. Indianapolis Colts live stream, TV channel, start time, odds | Week 4 2025",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/09/27/nfl-week-4-rams-vs-colts-odds-lines-how-to-watch-9-28-2025/86395574007/",
-      "source": "Rams Wire",
-      "ts": 1758981240.0,
-      "published_iso": "2025-09-27T13:54:00+00:00"
     }
   ]
 }
