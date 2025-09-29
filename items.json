@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-09-29T06:47:52.343455+00:00",
-  "count": 5,
+  "updated_iso": "2025-09-29T07:10:08.041685+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-si-com-nfl-rams-los-angeles-tutu-atwell-indianapolis-colts-sean-mcvay-matthew-stafford",
@@ -33,14 +33,6 @@
       "source": "LA Times",
       "ts": 1759094040.0,
       "published_iso": "2025-09-28T21:14:00+00:00"
-    },
-    {
-      "id": "https-therams-com-video-sean-mcvay-matthew-stafford-recap-rams-win-colts-sofi-stadium-week-4",
-      "title": "Sean McVay & Matthew Stafford recap the Rams' 27-20 win over the Colts at SoFi Stadium",
-      "link": "https://therams.com/video/sean-mcvay-matthew-stafford-recap-rams-win-colts-sofi-stadium-week-4",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1759084980.0,
-      "published_iso": "2025-09-28T18:43:00+00:00"
     }
   ]
 }
