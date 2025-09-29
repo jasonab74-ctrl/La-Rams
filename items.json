@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-09-29T02:19:09.645105+00:00",
-  "count": 4,
+  "updated_iso": "2025-09-29T03:15:34.316891+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-si-com-nfl-rams-los-angeles-tutu-atwell-indianapolis-colts-sean-mcvay-matthew-stafford",
@@ -11,28 +11,12 @@
       "published_iso": "2025-09-28T19:13:00+00:00"
     },
     {
-      "id": "https-si-com-nfl-rams-davante-adams-los-angeles-tutu-atwell-sean-mcvay-indianapolis-colts",
-      "title": "Davante Adams Shares Honest Thoughts on Rams Offense Post-Colts Game",
-      "link": "https://si.com/nfl/rams/davante-adams-los-angeles-tutu-atwell-sean-mcvay-indianapolis-colts",
-      "source": "Sports Illustrated",
-      "ts": 1759085340.0,
-      "published_iso": "2025-09-28T18:49:00+00:00"
-    },
-    {
       "id": "https-therams-com-video-sean-mcvay-matthew-stafford-recap-rams-win-colts-sofi-stadium-week-4",
       "title": "Sean McVay & Matthew Stafford recap the Rams' 27-20 win over the Colts at SoFi Stadium",
       "link": "https://therams.com/video/sean-mcvay-matthew-stafford-recap-rams-win-colts-sofi-stadium-week-4",
       "source": "Los Angeles Rams (Official)",
       "ts": 1759084980.0,
       "published_iso": "2025-09-28T18:43:00+00:00"
-    },
-    {
-      "id": "https-latimes-com-sports-rams-live-rams-vs-colts-live-updates-how-to-watch-start-time-and-analysis",
-      "title": "Rams vs. Colts live updates, how to watch, start time and analysis",
-      "link": "https://latimes.com/sports/rams/live/rams-vs-colts-live-updates-how-to-watch-start-time-and-analysis",
-      "source": "LA Times",
-      "ts": 1759053780.0,
-      "published_iso": "2025-09-28T10:03:00+00:00"
     }
   ]
 }
