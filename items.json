@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-09-29T19:31:17.093539+00:00",
-  "count": 3,
+  "updated_iso": "2025-09-29T20:09:41.125496+00:00",
+  "count": 1,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-article-penn-state-star-predicted-replace-174250137-html",
-      "title": "Penn State star predicted to replace Rams' Matthew Stafford in 2026",
-      "link": "https://sports.yahoo.com/article/penn-state-star-predicted-replace-174250137.html",
-      "source": "Yahoo Sports",
-      "ts": 1759143900.0,
-      "published_iso": "2025-09-29T11:05:00+00:00"
-    },
     {
       "id": "https-therams-com-video-welcome-to-the-world-stage-visit-rwanda-multi-year-agreement-los-angeles-rams-sofi-stadium-holly",
       "title": "Visit Rwanda enters multi-year sponsorship agreement with Los Angeles Rams, SoFi Stadium and Hollywood Park",
@@ -17,14 +9,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1759133340.0,
       "published_iso": "2025-09-29T08:09:00+00:00"
-    },
-    {
-      "id": "https-latimes-com-sports-rams-live-rams-vs-colts-live-updates-how-to-watch-start-time-and-analysis",
-      "title": "Matthew Stafford’s 88-yard TD pass to Tutu Atwell rallies Rams to win over Colts",
-      "link": "https://latimes.com/sports/rams/live/rams-vs-colts-live-updates-how-to-watch-start-time-and-analysis",
-      "source": "LA Times",
-      "ts": 1759094040.0,
-      "published_iso": "2025-09-28T21:14:00+00:00"
     }
   ]
 }
