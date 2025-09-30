@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2025-09-30T16:42:56.888892+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-09-30T17:08:15.288147+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-49ers-prediction-odds-time-2025-nfl-week-5-thursday-night-football-picks",
+      "title": "Rams vs. 49ers prediction, odds, time: 2025 NFL Week 5 Thursday Night Football picks by proven model",
+      "link": "https://cbssports.com/nfl/news/rams-vs-49ers-prediction-odds-time-2025-nfl-week-5-thursday-night-football-picks/",
+      "source": "CBS Sports",
+      "ts": 1759226700.0,
+      "published_iso": "2025-09-30T10:05:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-49ers-may-without-3-offensive-164823534-html",
+      "title": "49ers may be without 3 offensive stars Thursday vs. Rams",
+      "link": "https://sports.yahoo.com/article/49ers-may-without-3-offensive-164823534.html",
+      "source": "Yahoo Sports",
+      "ts": 1759225920.0,
+      "published_iso": "2025-09-30T09:52:00+00:00"
+    },
+    {
+      "id": "https-therams-com-video-tyler-davis-stopping-opponents-run-game-history-poona-ford-rams-revealed",
+      "title": "Tyler Davis talks about stopping opponents' run game, his history with NT Poona Ford & more | Rams Revealed",
+      "link": "https://therams.com/video/tyler-davis-stopping-opponents-run-game-history-poona-ford-rams-revealed",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1759225500.0,
+      "published_iso": "2025-09-30T09:45:00+00:00"
+    }
+  ]
 }
