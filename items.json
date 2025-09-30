@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-09-30T22:35:31.446227+00:00",
-  "count": 4,
+  "updated_iso": "2025-09-30T23:07:59.845508+00:00",
+  "count": 6,
   "items": [
+    {
+      "id": "https-si-com-nfl-rams-los-angeles-chase-blackburn-sean-mcvay-san-francisco-49ers-kyle-shanahan",
+      "title": "How Rams’ Chase Blackburn Is Tackling the NFL’s New Kickoff Rules",
+      "link": "https://si.com/nfl/rams/los-angeles-chase-blackburn-sean-mcvay-san-francisco-49ers-kyle-shanahan",
+      "source": "Sports Illustrated",
+      "ts": 1759247340.0,
+      "published_iso": "2025-09-30T15:49:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-mike-lafelur-los-angeles-sean-mcvay-san-francisco-49ers-robert-saleh",
+      "title": "Mike LaFleur on What’s Fueling the Rams’ Hot Start on Offense",
+      "link": "https://si.com/nfl/rams/mike-lafelur-los-angeles-sean-mcvay-san-francisco-49ers-robert-saleh",
+      "source": "Sports Illustrated",
+      "ts": 1759247040.0,
+      "published_iso": "2025-09-30T15:44:00+00:00"
+    },
     {
       "id": "https-bleacherreport-com-articles-25254674-matthew-stafford-jokes-about-clone-playing-rams-after-preseason-back-injury",
       "title": "Matthew Stafford Jokes About 'Clone' Playing for Rams After Preseason Back Injury",
@@ -11,20 +27,20 @@
       "published_iso": "2025-09-30T15:24:00+00:00"
     },
     {
+      "id": "https-sports-yahoo-com-article-49ers-brock-purdy-hopeful-play-221543568-html",
+      "title": "49ers' Brock Purdy hopeful to play against Rams despite toe injury",
+      "link": "https://sports.yahoo.com/article/49ers-brock-purdy-hopeful-play-221543568.html",
+      "source": "Yahoo Sports",
+      "ts": 1759245720.0,
+      "published_iso": "2025-09-30T15:22:00+00:00"
+    },
+    {
       "id": "https-therams-com-news-know-before-you-go-2025-rams-san-francisco-49ers-sofi-stadium-week-5",
       "title": "Know Before You Go: Rams vs. San Francisco 49ers at SoFi Stadium",
       "link": "https://therams.com/news/know-before-you-go-2025-rams-san-francisco-49ers-sofi-stadium-week-5",
       "source": "Los Angeles Rams (Official)",
       "ts": 1759244640.0,
       "published_iso": "2025-09-30T15:04:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-49ers-rams-fantasy-football-week-195520087-html",
-      "title": "49ers-Rams Fantasy Football Week 5 Start ‘Em, Sit ‘Em",
-      "link": "https://sports.yahoo.com/article/49ers-rams-fantasy-football-week-195520087.html",
-      "source": "Yahoo Sports",
-      "ts": 1759241640.0,
-      "published_iso": "2025-09-30T14:14:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-thursday-night-foo",
