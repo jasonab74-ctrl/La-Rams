@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-09-30T19:02:50.872155+00:00",
-  "count": 2,
+  "updated_iso": "2025-09-30T19:31:13.337457+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-49ers-john-lynch-shares-brock-105639337-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1759232220.0,
       "published_iso": "2025-09-30T11:37:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-49ers-gm-john-lynch-confirms-155851231-html",
-      "title": "49ers GM John Lynch confirms Brock Purdy’s questionable status vs. Rams",
-      "link": "https://sports.yahoo.com/article/49ers-gm-john-lynch-confirms-155851231.html",
-      "source": "Yahoo Sports",
-      "ts": 1759229700.0,
-      "published_iso": "2025-09-30T10:55:00+00:00"
     }
   ]
 }
