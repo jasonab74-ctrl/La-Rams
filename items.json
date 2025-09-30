@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-09-30T21:31:51.145564+00:00",
-  "count": 1,
+  "updated_iso": "2025-09-30T22:08:03.648070+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-therams-com-news-know-before-you-go-2025-rams-san-francisco-49ers-sofi-stadium-week-5",
+      "title": "Know Before You Go: Rams vs. San Francisco 49ers at SoFi Stadium",
+      "link": "https://therams.com/news/know-before-you-go-2025-rams-san-francisco-49ers-sofi-stadium-week-5",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1759244640.0,
+      "published_iso": "2025-09-30T15:04:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-49ers-rams-fantasy-football-week-195520087-html",
+      "title": "49ers-Rams Fantasy Football Week 5 Start ‘Em, Sit ‘Em",
+      "link": "https://sports.yahoo.com/article/49ers-rams-fantasy-football-week-195520087.html",
+      "source": "Yahoo Sports",
+      "ts": 1759241640.0,
+      "published_iso": "2025-09-30T14:14:00+00:00"
+    },
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-thursday-night-foo",
       "title": "Los Angeles Rams vs. San Francisco 49ers: How to watch, listen to and live stream Thursday Night Football in Week 5",
