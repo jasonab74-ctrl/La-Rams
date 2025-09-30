@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-09-30T22:08:03.648070+00:00",
-  "count": 3,
+  "updated_iso": "2025-09-30T22:35:31.446227+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-bleacherreport-com-articles-25254674-matthew-stafford-jokes-about-clone-playing-rams-after-preseason-back-injury",
+      "title": "Matthew Stafford Jokes About 'Clone' Playing for Rams After Preseason Back Injury",
+      "link": "https://bleacherreport.com/articles/25254674-matthew-stafford-jokes-about-clone-playing-rams-after-preseason-back-injury",
+      "source": "Bleacher Report",
+      "ts": 1759245840.0,
+      "published_iso": "2025-09-30T15:24:00+00:00"
+    },
     {
       "id": "https-therams-com-news-know-before-you-go-2025-rams-san-francisco-49ers-sofi-stadium-week-5",
       "title": "Know Before You Go: Rams vs. San Francisco 49ers at SoFi Stadium",
