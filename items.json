@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-10-01T19:05:33.309336+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-10-01T19:31:34.811736+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-nfl-com-videos-get-ready-for-49ers-rams-tnf",
+      "title": "Get ready for 49ers-Rams | TNF",
+      "link": "https://nfl.com/videos/get-ready-for-49ers-rams-tnf",
+      "source": "NFL.com",
+      "ts": 1759321500.0,
+      "published_iso": "2025-10-01T12:25:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-nfl-betting-article-49ers-vs-rams-odds-predictions-best-bets-player-prop-wagers-for-thursday-nigh",
+      "title": "49ers vs. Rams odds, predictions: Best bets, player-prop wagers for Thursday Night Football",
+      "link": "https://sports.yahoo.com/nfl/betting/article/49ers-vs-rams-odds-predictions-best-bets-player-prop-wagers-for-thursday-night-football-191850171.html",
+      "source": "Yahoo Sports",
+      "ts": 1759321260.0,
+      "published_iso": "2025-10-01T12:21:00+00:00"
+    }
+  ]
 }
