@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-10-01T17:08:11.912342+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-10-01T17:36:27.997983+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-article-proposed-trade-includes-sending-super-171510654-html",
+      "title": "Proposed trade includes sending Super Bowl-winning CB to Rams",
+      "link": "https://sports.yahoo.com/article/proposed-trade-includes-sending-super-171510654.html",
+      "source": "Yahoo Sports",
+      "ts": 1759314360.0,
+      "published_iso": "2025-10-01T10:26:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-jared-verse-los-angeles-matthew-stafford-indianapolis-colts-san-francisco-49ers",
+      "title": "Jared Verse Talks About the Power Behind Rams’ Elite Defense",
+      "link": "https://si.com/nfl/rams/jared-verse-los-angeles-matthew-stafford-indianapolis-colts-san-francisco-49ers",
+      "source": "Sports Illustrated",
+      "ts": 1759309200.0,
+      "published_iso": "2025-10-01T09:00:00+00:00"
+    }
+  ]
 }
