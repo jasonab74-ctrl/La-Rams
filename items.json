@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-01T04:11:11.435432+00:00",
-  "count": 4,
+  "updated_iso": "2025-10-01T04:39:45.199270+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-inside-los-angeles-rams-fan-210000152-html",
@@ -25,14 +25,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1759133340.0,
       "published_iso": "2025-09-29T08:09:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-los-angeles-jared-verse-braden-fiske-ahkello-witherspoon",
-      "title": "Why Rams' Elite Unit Is Among NFL's Week One Winners",
-      "link": "https://si.com/nfl/rams/los-angeles-jared-verse-braden-fiske-ahkello-witherspoon",
-      "source": "Sports Illustrated",
-      "ts": 1757437200.0,
-      "published_iso": "2025-09-09T17:00:00+00:00"
     }
   ]
 }
