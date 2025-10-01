@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2025-10-01T15:37:02.311225+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-10-01T16:11:11.622394+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-si-com-nfl-rams-jared-verse-los-angeles-matthew-stafford-indianapolis-colts-san-francisco-49ers",
+      "title": "Jared Verse Talks About the Power Behind Rams’ Elite Defense",
+      "link": "https://si.com/nfl/rams/jared-verse-los-angeles-matthew-stafford-indianapolis-colts-san-francisco-49ers",
+      "source": "Sports Illustrated",
+      "ts": 1759309200.0,
+      "published_iso": "2025-10-01T09:00:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-betting-news-rams-vs-49ers-anytime-touchdown-scorer-picks-odds-predictions-back-kyren-williams-on-tn",
+      "title": "Rams vs. 49ers anytime touchdown scorer picks, odds, predictions: Back Kyren Williams on TNF",
+      "link": "https://cbssports.com/betting/news/rams-vs-49ers-anytime-touchdown-scorer-picks-odds-predictions-back-kyren-williams-on-tnf/",
+      "source": "CBS Sports",
+      "ts": 1759306320.0,
+      "published_iso": "2025-10-01T08:12:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-inside-los-angeles-rams-fan-210000152-html",
+      "title": "Inside The Los Angeles Rams Fan-Forward VIP Tailgate Experience",
+      "link": "https://sports.yahoo.com/article/inside-los-angeles-rams-fan-210000152.html",
+      "source": "Yahoo Sports",
+      "ts": 1759242360.0,
+      "published_iso": "2025-09-30T14:26:00+00:00"
+    }
+  ]
 }
