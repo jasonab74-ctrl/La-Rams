@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-10-01T22:07:49.765001+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-01T22:35:48.962351+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-ocregister-com-2025-10-01-best-in-the-business-rams-preparing-for-49ers-lb-fred-warner",
+      "title": "‘Best in the business’: Rams preparing for 49ers LB Fred Warner",
+      "link": "https://ocregister.com/2025/10/01/best-in-the-business-rams-preparing-for-49ers-lb-fred-warner/",
+      "source": "OC Register",
+      "ts": 1759332360.0,
+      "published_iso": "2025-10-01T15:26:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-49ers-wr-room-looks-vs-210005547-html",
+      "title": "What the 49ers WR room looks like vs. Rams with Jauan Jennings, Ricky Pearsall out",
+      "link": "https://sports.yahoo.com/article/49ers-wr-room-looks-vs-210005547.html",
+      "source": "Yahoo Sports",
+      "ts": 1759331940.0,
+      "published_iso": "2025-10-01T15:19:00+00:00"
+    },
     {
       "id": "https-therams-com-news-3-keys-to-winning-for-the-rams-against-the-49ers-in-week-5",
       "title": "3 Keys to Winning for the Rams against the 49ers in Week 5",
@@ -9,14 +25,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1759331040.0,
       "published_iso": "2025-10-01T15:04:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-sofi-stadium-under-the-lights-rams-niners-square-off-on-thursday-night-football-game-preview",
-      "title": "SoFi Stadium under the lights: Rams & Niners square off on Thursday Night Football | Game Preview",
-      "link": "https://therams.com/news/sofi-stadium-under-the-lights-rams-niners-square-off-on-thursday-night-football-game-preview",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1759330440.0,
-      "published_iso": "2025-10-01T14:54:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-article-rams-list-tyler-higbee-rob-210636326-html",
