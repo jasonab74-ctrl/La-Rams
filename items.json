@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-10-01T05:09:27.787161+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-01T05:38:30.226808+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-inside-los-angeles-rams-fan-210000152-html",
-      "title": "Inside The Los Angeles Rams Fan-Forward VIP Tailgate Experience",
-      "link": "https://sports.yahoo.com/article/inside-los-angeles-rams-fan-210000152.html",
+      "id": "https-si-com-nfl-rams-los-angeles-davante-adams-sean-mcvay-san-francisco-49ers-robert-saleh",
+      "title": "Rams WR Davante Adams Opens Up About Challenges of Facing 49ers",
+      "link": "https://si.com/nfl/rams/los-angeles-davante-adams-sean-mcvay-san-francisco-49ers-robert-saleh",
+      "source": "Sports Illustrated",
+      "ts": 1759271820.0,
+      "published_iso": "2025-09-30T22:37:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-49ers-bold-predictions-week-5-041623831-html",
+      "title": "49ers bold predictions for Week 5 Thursday Night Football vs. Rams",
+      "link": "https://sports.yahoo.com/article/49ers-bold-predictions-week-5-041623831.html",
       "source": "Yahoo Sports",
-      "ts": 1759242360.0,
-      "published_iso": "2025-09-30T14:26:00+00:00"
+      "ts": 1759271820.0,
+      "published_iso": "2025-09-30T22:37:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-thursday-night-foo",
