@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2025-10-02T21:07:39.574173+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-10-02T21:31:37.531215+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-cbssports-com-nfl-news-betmgm-bonus-code-cbssports-150-bonus-bets-rams-49ers-thursday-night-football",
+      "title": "BetMGM bonus code CBSSPORTS: Get $150 in bonus bets for Rams vs. 49ers on Thursday Night Football",
+      "link": "https://cbssports.com/nfl/news/betmgm-bonus-code-cbssports-150-bonus-bets-rams-49ers-thursday-night-football/",
+      "source": "CBS Sports",
+      "ts": 1759415340.0,
+      "published_iso": "2025-10-02T14:29:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-fanduel-promo-code-get-300-bonus-bets-49ers-rams-thursday-night-football",
+      "title": "FanDuel promo code: Get $300 in bonus bets for 49ers vs. Rams on NFL Thursday Night Football",
+      "link": "https://cbssports.com/nfl/news/fanduel-promo-code-get-300-bonus-bets-49ers-rams-thursday-night-football/",
+      "source": "CBS Sports",
+      "ts": 1759415100.0,
+      "published_iso": "2025-10-02T14:25:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-live-story-sports-nfl-rams-2025-10-02-rams-49ers-live-updates-score-highlights-blog-86481",
+      "title": "Rams vs. 49ers live blog: Updates and highlights from Thursday Night Football",
+      "link": "https://theramswire.usatoday.com/live-story/sports/nfl/rams/2025/10/02/rams-49ers-live-updates-score-highlights-blog/86481765007/",
+      "source": "Rams Wire",
+      "ts": 1759413840.0,
+      "published_iso": "2025-10-02T14:04:00+00:00"
+    }
+  ]
 }
