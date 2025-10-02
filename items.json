@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2025-10-02T14:08:49.532582+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-10-02T14:38:52.694277+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-cbssports-com-nfl-news-thursday-night-football-prediction-odds-spread-line-rams-vs-49ers-expert-nfl-picks",
+      "title": "Thursday Night Football prediction, odds, spread, line: Rams vs. 49ers picks from expert on 25-10 roll",
+      "link": "https://cbssports.com/nfl/news/thursday-night-football-prediction-odds-spread-line-rams-vs-49ers-expert-nfl-picks/",
+      "source": "CBS Sports",
+      "ts": 1759390620.0,
+      "published_iso": "2025-10-02T07:37:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-betting-news-todays-early-best-bets-top-mlb-playoff-picks-nfl-predictions-rams-49ers-under",
+      "title": "Today's early best bets to target: Top MLB Playoff picks, NFL predictions include Rams-49ers Under",
+      "link": "https://cbssports.com/betting/news/todays-early-best-bets-top-mlb-playoff-picks-nfl-predictions-rams-49ers-under/",
+      "source": "CBS Sports",
+      "ts": 1759388760.0,
+      "published_iso": "2025-10-02T07:06:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-49ers-vs-rams-final-score-prediction-for-nfl-week-5-l-a-heavily-favored-at-home",
+      "title": "49ers vs. Rams Final Score Prediction for NFL Week 5 (L.A. Heavily Favored at Home)",
+      "link": "https://si.com/betting/49ers-vs-rams-final-score-prediction-for-nfl-week-5-l-a-heavily-favored-at-home",
+      "source": "Sports Illustrated",
+      "ts": 1759388400.0,
+      "published_iso": "2025-10-02T07:00:00+00:00"
+    }
+  ]
 }
