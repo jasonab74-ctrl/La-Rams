@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-10-02T11:07:28.126693+00:00",
-  "count": 2,
+  "updated_iso": "2025-10-02T11:31:22.597208+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-cbssports-com-betting-news-49ers-vs-rams-best-nfl-player-props-for-mac-jones-matthew-stafford-for-thursday-night-f",
+      "title": "49ers vs Rams: Best NFL player props for Mac Jones, Matthew Stafford for Thursday Night Football Week 5",
+      "link": "https://cbssports.com/betting/news/49ers-vs-rams-best-nfl-player-props-for-mac-jones-matthew-stafford-for-thursday-night-football-week-5/",
+      "source": "CBS Sports",
+      "ts": 1759379160.0,
+      "published_iso": "2025-10-02T04:26:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-49ers-vs-rams-final-score-prediction-for-nfl-week-5-l-a-heavily-favored-at-home",
+      "title": "49ers vs. Rams Final Score Prediction for NFL Week 5 (L.A. Heavily Favored at Home)",
+      "link": "https://si.com/betting/49ers-vs-rams-final-score-prediction-for-nfl-week-5-l-a-heavily-favored-at-home",
+      "source": "Sports Illustrated",
+      "ts": 1759376460.0,
+      "published_iso": "2025-10-02T03:41:00+00:00"
+    },
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-thursday-night-foo",
       "title": "Los Angeles Rams vs. San Francisco 49ers: How to watch, listen to and live stream Thursday Night Football in Week 5",
