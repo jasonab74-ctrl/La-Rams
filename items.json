@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-10-02T09:34:46.332302+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-02T10:09:08.697572+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-inside-los-angeles-rams-fan-210000152-html",
-      "title": "Inside The Los Angeles Rams Fan-Forward VIP Tailgate Experience",
-      "link": "https://sports.yahoo.com/article/inside-los-angeles-rams-fan-210000152.html",
+      "id": "https-latimes-com-sports-rams-story-2025-10-02-rams-vs-49ers-how-to-watch-prediction-injuries-betting-odds",
+      "title": "Rams vs. 49ers: How to watch, prediction and betting odds",
+      "link": "https://latimes.com/sports/rams/story/2025-10-02/rams-vs-49ers-how-to-watch-prediction-injuries-betting-odds",
+      "source": "LA Times",
+      "ts": 1759373940.0,
+      "published_iso": "2025-10-02T02:59:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-channel-rams-vs-49ers-schedule-080002743-html",
+      "title": "What channel is Rams vs. 49ers on? Schedule, time, live stream to watch NFL 'Thursday Night Football' in Week 5",
+      "link": "https://sports.yahoo.com/article/channel-rams-vs-49ers-schedule-080002743.html",
       "source": "Yahoo Sports",
-      "ts": 1759242360.0,
-      "published_iso": "2025-09-30T14:26:00+00:00"
+      "ts": 1759369620.0,
+      "published_iso": "2025-10-02T01:47:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-thursday-night-foo",
