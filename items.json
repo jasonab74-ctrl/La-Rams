@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-02T04:38:27.831541+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-02T05:08:44.169785+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-where-shorthanded-49ers-might-advantage-211801198-html",
@@ -17,6 +17,14 @@
       "source": "Sports Illustrated",
       "ts": 1759352460.0,
       "published_iso": "2025-10-01T21:01:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-thursday-night-foo",
+      "title": "Los Angeles Rams vs. San Francisco 49ers: How to watch, listen to and live stream Thursday Night Football in Week 5",
+      "link": "https://therams.com/news/los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-thursday-night-football-in-week-5-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1759241040.0,
+      "published_iso": "2025-09-30T14:04:00+00:00"
     },
     {
       "id": "https-therams-com-video-welcome-to-the-world-stage-visit-rwanda-multi-year-agreement-los-angeles-rams-sofi-stadium-holly",
