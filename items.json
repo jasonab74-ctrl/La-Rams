@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-02T16:42:37.442402+00:00",
-  "count": 1,
+  "updated_iso": "2025-10-02T17:01:45.558570+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-therams-com-news-rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
@@ -9,6 +9,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1759397160.0,
       "published_iso": "2025-10-02T09:26:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-rams-wrs-puka-nacua-davante-130000878-html",
+      "title": "Rams WRs Puka Nacua and Davante Adams can each set new NFL records on Thursday, including one that would erase Cooper Kupp",
+      "link": "https://sports.yahoo.com/article/rams-wrs-puka-nacua-davante-130000878.html",
+      "source": "Yahoo Sports",
+      "ts": 1759396920.0,
+      "published_iso": "2025-10-02T09:22:00+00:00"
     }
   ]
 }
