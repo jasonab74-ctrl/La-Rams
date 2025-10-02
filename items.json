@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-02T12:59:06.173068+00:00",
+  "updated_iso": "2025-10-02T13:24:54.613845+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-cbssports-com-nfl-news-best-sportsbook-promos-49ers-rams-thursday-night-football-betting-promos",
+      "title": "Best sportsbook promos for 49ers vs. Rams on Thursday Night Football: BetMGM, bet365 betting promos",
+      "link": "https://cbssports.com/nfl/news/best-sportsbook-promos-49ers-rams-thursday-night-football-betting-promos/",
+      "source": "CBS Sports",
+      "ts": 1759386060.0,
+      "published_iso": "2025-10-02T06:21:00+00:00"
+    },
     {
       "id": "https-cbssports-com-nfl-news-rams-vs-49ers-predictions-odds-time-2025-nfl-week-5-thursday-night-football-picks",
       "title": "Rams vs. 49ers predictions, odds, time: 2025 NFL Week 5 Thursday Night Football picks by proven model",
@@ -17,14 +25,6 @@
       "source": "Rams Wire",
       "ts": 1759383000.0,
       "published_iso": "2025-10-02T05:30:00+00:00"
-    },
-    {
-      "id": "https-si-com-betting-brock-purdy-49ers-injuries-cause-massive-shift-in-49ers-vs-rams-odds-for-week-5",
-      "title": "Brock Purdy, 49ers Injuries Cause Massive Shift in 49ers vs. Rams Odds for Week 5",
-      "link": "https://si.com/betting/brock-purdy-49ers-injuries-cause-massive-shift-in-49ers-vs-rams-odds-for-week-5",
-      "source": "Sports Illustrated",
-      "ts": 1759381800.0,
-      "published_iso": "2025-10-02T05:10:00+00:00"
     }
   ]
 }
