@@ -1,5 +1,38 @@
 {
-  "updated_iso": "2025-10-03T00:39:38.154613+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-10-03T02:13:35.284811+00:00",
+  "count": 4,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-49ers-tnf-second-half-013137015-html",
+      "title": "Rams-49ers TNF second half game thread",
+      "link": "https://sports.yahoo.com/article/rams-49ers-tnf-second-half-013137015.html",
+      "source": "Yahoo Sports",
+      "ts": 1759430580.0,
+      "published_iso": "2025-10-02T18:43:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
+      "title": "Rams vs. 49ers live updates: Score, analysis, highlights as San Francisco surprisingly controls first half",
+      "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
+      "source": "CBS Sports",
+      "ts": 1759430280.0,
+      "published_iso": "2025-10-02T18:38:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-videos-wyche-and-jeremiah-break-down-what-to-expect-from-49ers-rams-rivalry-in-tnf-nfl-gameday-kickoff",
+      "title": "Wyche and Jeremiah break down what to expect from 49ers-Rams rivalry in 'TNF' | 'NFL Gameday Kickoff'",
+      "link": "https://nfl.com/videos/wyche-and-jeremiah-break-down-what-to-expect-from-49ers-rams-rivalry-in-tnf-nfl-gameday-kickoff",
+      "source": "NFL.com",
+      "ts": 1759427220.0,
+      "published_iso": "2025-10-02T17:47:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-thursday-night-football-open-thread-234500912-html",
+      "title": "Thursday Night Football Open Thread",
+      "link": "https://sports.yahoo.com/article/thursday-night-football-open-thread-234500912.html",
+      "source": "San Francisco 49ers at Los Angeles Rams",
+      "ts": 1759423800.0,
+      "published_iso": "2025-10-02T16:50:00+00:00"
+    }
+  ]
 }
