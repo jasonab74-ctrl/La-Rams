@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-03T09:09:10.703197+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-03T09:34:31.499301+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-latimes-com-00000199-a912-d547-abdf-e9561b830000-123",
@@ -17,14 +17,6 @@
       "source": "CBS Sports",
       "ts": 1759446600.0,
       "published_iso": "2025-10-02T23:10:00+00:00"
-    },
-    {
-      "id": "https-sportingnews-com-us-nfl-news-49ers-rams-live-score-highlights-thursday-night-football-402b16fbc9550cd23f690fb9",
-      "title": "49ers vs. Rams final score, results: Mac Jones leads 49ers to overtime win vs. Los Angeles",
-      "link": "https://sportingnews.com/us/nfl/news/49ers-rams-live-score-highlights-thursday-night-football/402b16fbc9550cd23f690fb9",
-      "source": "Sporting News",
-      "ts": 1759437960.0,
-      "published_iso": "2025-10-02T20:46:00+00:00"
     }
   ]
 }
