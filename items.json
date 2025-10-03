@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-10-03T04:10:28.741235+00:00",
+  "updated_iso": "2025-10-03T04:38:43.215532+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-why-did-rams-sean-mcvays-042003341-html",
+      "title": "Why did the Rams go for it? Sean McVay's OT fourth down decision backfires in 'TNF' loss to 49ers",
+      "link": "https://sports.yahoo.com/article/why-did-rams-sean-mcvays-042003341.html",
+      "source": "Yahoo Sports",
+      "ts": 1759440960.0,
+      "published_iso": "2025-10-02T21:36:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-videos-kendrick-bourne-s-best-catches-from-142-yard-game-vs-rams-week-5",
+      "title": "Kendrick Bourne's best catches from 142-yard game vs. Rams | Week 5",
+      "link": "https://nfl.com/videos/kendrick-bourne-s-best-catches-from-142-yard-game-vs-rams-week-5",
+      "source": "NFL.com",
+      "ts": 1759439640.0,
+      "published_iso": "2025-10-02T21:14:00+00:00"
+    },
     {
       "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
       "title": "Rams vs. 49ers score: Injury-depleted San Francisco fends off Los Angeles in overtime",
@@ -9,22 +25,6 @@
       "source": "CBS Sports",
       "ts": 1759439400.0,
       "published_iso": "2025-10-02T21:10:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-videos-stafford-s-18-yard-strike-to-adams-gets-rams-into-49ers-territory-late-in-regulation",
-      "title": "Stafford's 18-yard strike to Adams gets Rams into 49ers' territory late in regulation",
-      "link": "https://nfl.com/videos/stafford-s-18-yard-strike-to-adams-gets-rams-into-49ers-territory-late-in-regulation",
-      "source": "NFL.com",
-      "ts": 1759439100.0,
-      "published_iso": "2025-10-02T21:05:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-short-handed-49ers-stop-rams-on-downs-in-overtime-preserving-a-26-23-victory",
-      "title": "Short-handed 49ers stop Rams on downs in overtime, preserving a 26-23 victory",
-      "link": "https://cbssports.com/nfl/news/short-handed-49ers-stop-rams-on-downs-in-overtime-preserving-a-26-23-victory/",
-      "source": "CBS Sports",
-      "ts": 1759438920.0,
-      "published_iso": "2025-10-02T21:02:00+00:00"
     }
   ]
 }
