@@ -1,38 +1,30 @@
 {
-  "updated_iso": "2025-10-03T03:42:20.361224+00:00",
-  "count": 4,
+  "updated_iso": "2025-10-03T04:10:28.741235+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-fans-jokes-over-49ers-mac-022247400-html",
-      "title": "Fans have all the jokes over what 49ers’ Mac Jones wore to TNF Rams game",
-      "link": "https://sports.yahoo.com/article/fans-jokes-over-49ers-mac-022247400.html",
-      "source": "Yahoo Sports",
-      "ts": 1759437480.0,
-      "published_iso": "2025-10-02T20:38:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-videos-puka-nacua-reaches-50-catch-mark-for-the-2025-season-in-rams-fifth-game",
-      "title": "Puka Nacua reaches 50-catch mark for the 2025 season in Rams' fifth game",
-      "link": "https://nfl.com/videos/puka-nacua-reaches-50-catch-mark-for-the-2025-season-in-rams-fifth-game",
-      "source": "NFL.com",
-      "ts": 1759436760.0,
-      "published_iso": "2025-10-02T20:26:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-rams-kyren-williams-high-steps-013947671-html",
-      "title": "Rams’ Kyren Williams high steps his way to first LA TD vs. 49ers",
-      "link": "https://sports.yahoo.com/article/rams-kyren-williams-high-steps-013947671.html",
-      "source": "Yahoo Sports",
-      "ts": 1759434660.0,
-      "published_iso": "2025-10-02T19:51:00+00:00"
-    },
-    {
       "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
-      "title": "Rams vs. 49ers live updates: Score, analysis, highlights as San Francisco surprisingly controls first half",
+      "title": "Rams vs. 49ers score: Injury-depleted San Francisco fends off Los Angeles in overtime",
       "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
       "source": "CBS Sports",
-      "ts": 1759430280.0,
-      "published_iso": "2025-10-02T18:38:00+00:00"
+      "ts": 1759439400.0,
+      "published_iso": "2025-10-02T21:10:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-videos-stafford-s-18-yard-strike-to-adams-gets-rams-into-49ers-territory-late-in-regulation",
+      "title": "Stafford's 18-yard strike to Adams gets Rams into 49ers' territory late in regulation",
+      "link": "https://nfl.com/videos/stafford-s-18-yard-strike-to-adams-gets-rams-into-49ers-territory-late-in-regulation",
+      "source": "NFL.com",
+      "ts": 1759439100.0,
+      "published_iso": "2025-10-02T21:05:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-short-handed-49ers-stop-rams-on-downs-in-overtime-preserving-a-26-23-victory",
+      "title": "Short-handed 49ers stop Rams on downs in overtime, preserving a 26-23 victory",
+      "link": "https://cbssports.com/nfl/news/short-handed-49ers-stop-rams-on-downs-in-overtime-preserving-a-26-23-victory/",
+      "source": "CBS Sports",
+      "ts": 1759438920.0,
+      "published_iso": "2025-10-02T21:02:00+00:00"
     }
   ]
 }
