@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-03T06:13:08.101692+00:00",
+  "updated_iso": "2025-10-03T06:44:31.456927+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-49ers-pull-off-surprise-ot-054840473-html",
+      "title": "49ers pull off surprise OT win over Rams behind epic effort from shorthanded roster",
+      "link": "https://sports.yahoo.com/article/49ers-pull-off-surprise-ot-054840473.html",
+      "source": "Yahoo Sports",
+      "ts": 1759448160.0,
+      "published_iso": "2025-10-02T23:36:00+00:00"
+    },
     {
       "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
       "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
@@ -17,14 +25,6 @@
       "source": "Sports Illustrated",
       "ts": 1759445040.0,
       "published_iso": "2025-10-02T22:44:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-rams-sean-mcvay-gives-nsfw-045430424-html",
-      "title": "Rams' Sean McVay gives NSFW response after questionable play call in OT loss",
-      "link": "https://sports.yahoo.com/article/rams-sean-mcvay-gives-nsfw-045430424.html",
-      "source": "Yahoo Sports",
-      "ts": 1759442820.0,
-      "published_iso": "2025-10-02T22:07:00+00:00"
     }
   ]
 }
