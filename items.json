@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-10-03T06:44:31.456927+00:00",
+  "updated_iso": "2025-10-03T07:09:05.027826+00:00",
   "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-49ers-pull-off-surprise-ot-054840473-html",
-      "title": "49ers pull off surprise OT win over Rams behind epic effort from shorthanded roster",
-      "link": "https://sports.yahoo.com/article/49ers-pull-off-surprise-ot-054840473.html",
+      "id": "https-si-com-nfl-49ers-news-grading-49ers-players-coaches-after-beating-rams-overtime",
+      "title": "Grading the 49ers players and coaches after beating the Rams in OT",
+      "link": "https://si.com/nfl/49ers/news/grading-49ers-players-coaches-after-beating-rams-overtime",
+      "source": "Sports Illustrated",
+      "ts": 1759450080.0,
+      "published_iso": "2025-10-03T00:08:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-49ers-grades-improbable-overtime-victory-235058819-html",
+      "title": "49ers grades from improbable overtime victory vs. Rams to remain atop NFC West",
+      "link": "https://sports.yahoo.com/article/49ers-grades-improbable-overtime-victory-235058819.html",
       "source": "Yahoo Sports",
-      "ts": 1759448160.0,
-      "published_iso": "2025-10-02T23:36:00+00:00"
+      "ts": 1759450020.0,
+      "published_iso": "2025-10-03T00:07:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
@@ -17,14 +25,6 @@
       "source": "CBS Sports",
       "ts": 1759446600.0,
       "published_iso": "2025-10-02T23:10:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-davante-adams-fred-warner-los-angeles-sean-mcvay",
-      "title": "Davante Adams Gets Real About Rams’ Defeat vs. 49ers",
-      "link": "https://si.com/nfl/rams/davante-adams-fred-warner-los-angeles-sean-mcvay",
-      "source": "Sports Illustrated",
-      "ts": 1759445040.0,
-      "published_iso": "2025-10-02T22:44:00+00:00"
     }
   ]
 }
