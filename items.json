@@ -1,22 +1,22 @@
 {
-  "updated_iso": "2025-10-03T05:36:41.710103+00:00",
-  "count": 4,
+  "updated_iso": "2025-10-03T06:13:08.101692+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-si-com-nfl-rams-san-francisco-49ers-matthew-stafford-los-angeles-kyren-williams",
-      "title": "What Matthew Stafford Said After Rams’ Defeat vs. 49ers",
-      "link": "https://si.com/nfl/rams/san-francisco-49ers-matthew-stafford-los-angeles-kyren-williams",
-      "source": "Sports Illustrated",
-      "ts": 1759444380.0,
-      "published_iso": "2025-10-02T22:33:00+00:00"
+      "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
+      "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
+      "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
+      "source": "CBS Sports",
+      "ts": 1759446600.0,
+      "published_iso": "2025-10-02T23:10:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-article-ex-nfl-ref-says-49ers-023107680-html",
-      "title": "Ex-NFL ref says 49ers-Rams crew missed call on pivotal tackle of Mac Jones",
-      "link": "https://sports.yahoo.com/article/ex-nfl-ref-says-49ers-023107680.html",
-      "source": "Yahoo Sports",
-      "ts": 1759443120.0,
-      "published_iso": "2025-10-02T22:12:00+00:00"
+      "id": "https-si-com-nfl-rams-davante-adams-fred-warner-los-angeles-sean-mcvay",
+      "title": "Davante Adams Gets Real About Rams’ Defeat vs. 49ers",
+      "link": "https://si.com/nfl/rams/davante-adams-fred-warner-los-angeles-sean-mcvay",
+      "source": "Sports Illustrated",
+      "ts": 1759445040.0,
+      "published_iso": "2025-10-02T22:44:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-article-rams-sean-mcvay-gives-nsfw-045430424-html",
@@ -25,14 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1759442820.0,
       "published_iso": "2025-10-02T22:07:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
-      "title": "Rams vs. 49ers score: Injury-depleted San Francisco fends off Los Angeles in overtime",
-      "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
-      "source": "CBS Sports",
-      "ts": 1759439400.0,
-      "published_iso": "2025-10-02T21:10:00+00:00"
     }
   ]
 }
