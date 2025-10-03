@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-03T16:41:19.672282+00:00",
-  "count": 1,
+  "updated_iso": "2025-10-03T17:07:33.939035+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-pat-mcafee-shares-interesting-theory-164257914-html",
+      "title": "Pat McAfee shares interesting theory about Rams kicker's FG problems",
+      "link": "https://sports.yahoo.com/article/pat-mcafee-shares-interesting-theory-164257914.html",
+      "source": "Yahoo Sports",
+      "ts": 1759484940.0,
+      "published_iso": "2025-10-03T09:49:00+00:00"
+    },
     {
       "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
       "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
