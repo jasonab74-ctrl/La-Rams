@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-03T12:58:32.329410+00:00",
-  "count": 1,
+  "updated_iso": "2025-10-03T13:22:43.675846+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-cbssports-com-nfl-news-why-sean-mcvay-felt-sick-over-failed-fourth-down-play-call-in-rams-overtime-loss-to-49ers",
+      "title": "Why Sean McVay felt 'sick' over failed fourth-down play call in Rams' overtime loss to 49ers",
+      "link": "https://cbssports.com/nfl/news/why-sean-mcvay-felt-sick-over-failed-fourth-down-play-call-in-rams-overtime-loss-to-49ers/",
+      "source": "CBS Sports",
+      "ts": 1759472160.0,
+      "published_iso": "2025-10-03T06:16:00+00:00"
+    },
     {
       "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
       "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
