@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2025-10-03T02:13:35.284811+00:00",
-  "count": 4,
+  "updated_iso": "2025-10-03T03:07:31.287498+00:00",
+  "count": 5,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-rams-49ers-tnf-second-half-013137015-html",
-      "title": "Rams-49ers TNF second half game thread",
-      "link": "https://sports.yahoo.com/article/rams-49ers-tnf-second-half-013137015.html",
+      "id": "https-nfl-com-videos-puka-nacua-s-fifth-catch-of-tnf-gets-rams-into-red-zone-in-third-quarter",
+      "title": "Puka Nacua's fifth catch of 'TNF' gets Rams into red zone in third quarter",
+      "link": "https://nfl.com/videos/puka-nacua-s-fifth-catch-of-tnf-gets-rams-into-red-zone-in-third-quarter",
+      "source": "NFL.com",
+      "ts": 1759435500.0,
+      "published_iso": "2025-10-02T20:05:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-nfl-live-49ers-vs-rams-on-thursday-night-football-news-live-updates-as-niners-battle-for-nfc-west",
+      "title": "49ers vs. Rams on Thursday Night Football: News, live updates as Niners battle for NFC West lead without Brock Purdy, Ricky Pearsall, George Kittle",
+      "link": "https://sports.yahoo.com/nfl/live/49ers-vs-rams-on-thursday-night-football-news-live-updates-as-niners-battle-for-nfc-west-lead-without-brock-purdy-ricky-pearsall-george-kittle-224556760.html",
       "source": "Yahoo Sports",
-      "ts": 1759430580.0,
-      "published_iso": "2025-10-02T18:43:00+00:00"
+      "ts": 1759435320.0,
+      "published_iso": "2025-10-02T20:02:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-rams-qb-matthew-stafford-moves-022024365-html",
+      "title": "Rams QB Matthew Stafford moves up another all-time list",
+      "link": "https://sports.yahoo.com/article/rams-qb-matthew-stafford-moves-022024365.html",
+      "source": "Yahoo Sports",
+      "ts": 1759433280.0,
+      "published_iso": "2025-10-02T19:28:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
@@ -19,20 +35,12 @@
       "published_iso": "2025-10-02T18:38:00+00:00"
     },
     {
-      "id": "https-nfl-com-videos-wyche-and-jeremiah-break-down-what-to-expect-from-49ers-rams-rivalry-in-tnf-nfl-gameday-kickoff",
-      "title": "Wyche and Jeremiah break down what to expect from 49ers-Rams rivalry in 'TNF' | 'NFL Gameday Kickoff'",
-      "link": "https://nfl.com/videos/wyche-and-jeremiah-break-down-what-to-expect-from-49ers-rams-rivalry-in-tnf-nfl-gameday-kickoff",
-      "source": "NFL.com",
-      "ts": 1759427220.0,
-      "published_iso": "2025-10-02T17:47:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-thursday-night-football-open-thread-234500912-html",
-      "title": "Thursday Night Football Open Thread",
-      "link": "https://sports.yahoo.com/article/thursday-night-football-open-thread-234500912.html",
-      "source": "San Francisco 49ers at Los Angeles Rams",
-      "ts": 1759423800.0,
-      "published_iso": "2025-10-02T16:50:00+00:00"
+      "id": "https-foxsports-com-live-blog-nfl-49ers-vs-rams-live-updates-score-top-moments-from-thursday-night-football",
+      "title": "49ers vs. Rams Live Updates, Score: Los Angeles Cuts Margin to 1 Possession",
+      "link": "https://foxsports.com/live-blog/nfl/49ers-vs-rams-live-updates-score-top-moments-from-thursday-night-football",
+      "source": "FOX Sports",
+      "ts": 1759418820.0,
+      "published_iso": "2025-10-02T15:27:00+00:00"
     }
   ]
 }
