@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-10-03T18:43:19.611188+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-03T19:05:25.124985+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-mykel-williams-drops-perfect-response-112907614-html",
+      "title": "Mykel Williams drops perfect response to doubters after 49ers' win vs. Rams",
+      "link": "https://sports.yahoo.com/article/mykel-williams-drops-perfect-response-112907614.html",
+      "source": "Yahoo Sports",
+      "ts": 1759492860.0,
+      "published_iso": "2025-10-03T12:01:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-5-interesting-stats-from-the-rams-week-5-loss-to-san-francisco-matthew-stafford-sets-rams-career-",
+      "title": "5 interesting stats from the Rams' Week 5 loss to San Francisco: Matthew Stafford sets Rams career-high (again), win probabilities on 4th-and-1 in overtime",
+      "link": "https://therams.com/news/5-interesting-stats-from-the-rams-week-5-loss-to-san-francisco-matthew-stafford-sets-rams-career-high-again-win-probabilities-on-4th-and-1-in-overtime",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1759492020.0,
+      "published_iso": "2025-10-03T11:47:00+00:00"
+    },
     {
       "id": "https-cbssports-com-nfl-news-rams-meltdown-in-loss-to-49ers-due-to-three-ugly-mistakes-late-in-the-game-and-one-very-poo",
       "title": "Rams' melted down with three late game mistakes and one very 'poor' play call during upset loss to 49ers",
@@ -11,20 +27,20 @@
       "published_iso": "2025-10-03T10:40:00+00:00"
     },
     {
-      "id": "https-foxsports-com-watch-fmc-kvbek2ghid11ez80",
-      "title": "Rams are 'wasting Matthew Stafford's best year' after TNF loss vs. depleted 49ers | The Herd",
-      "link": "https://foxsports.com/watch/fmc-kvbek2ghid11ez80",
-      "source": "FOX Sports",
-      "ts": 1759487100.0,
-      "published_iso": "2025-10-03T10:25:00+00:00"
-    },
-    {
       "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
       "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
       "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
       "source": "CBS Sports",
       "ts": 1759446600.0,
       "published_iso": "2025-10-02T23:10:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
+      "title": "Los Angeles Rams and legendary artist Mister Cartoon drop \"LA Bold\" Collection celebrating Los Angeles culture",
+      "link": "https://therams.com/news/rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1759397160.0,
+      "published_iso": "2025-10-02T09:26:00+00:00"
     }
   ]
 }
