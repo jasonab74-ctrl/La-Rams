@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-10-03T15:34:49.955614+00:00",
-  "count": 2,
+  "updated_iso": "2025-10-03T16:10:06.118905+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-nfc-west-standings-49ers-locked-143830240-html",
-      "title": "NFC West standings: Are 49ers locked into 1st place through Week 5 after win over Rams?",
-      "link": "https://sports.yahoo.com/article/nfc-west-standings-49ers-locked-143830240.html",
+      "id": "https-sports-yahoo-com-article-49ers-triumph-over-rams-stellar-155949298-html",
+      "title": "49ers Triumph Over Rams with Stellar Play from Former Patriots",
+      "link": "https://sports.yahoo.com/article/49ers-triumph-over-rams-stellar-155949298.html",
       "source": "Yahoo Sports",
-      "ts": 1759478460.0,
-      "published_iso": "2025-10-03T08:01:00+00:00"
+      "ts": 1759482300.0,
+      "published_iso": "2025-10-03T09:05:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-rams-look-adding-cornerback-help-160056794-html",
+      "title": "Rams will 'look into' adding cornerback help with secondary struggling",
+      "link": "https://sports.yahoo.com/article/rams-look-adding-cornerback-help-160056794.html",
+      "source": "Yahoo Sports",
+      "ts": 1759482120.0,
+      "published_iso": "2025-10-03T09:02:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
