@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-10-03T15:08:20.341892+00:00",
-  "count": 1,
+  "updated_iso": "2025-10-03T15:34:49.955614+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-cbssports-com-nfl-news-49ers-coach-kyle-shanahan-praises-backup-qb-mac-jones-after-win-vs-rams-with-brock-purdy-st",
-      "title": "49ers coach Kyle Shanahan praises backup QB Mac Jones after win vs. Rams with Brock Purdy still 'week to week'",
-      "link": "https://cbssports.com/nfl/news/49ers-coach-kyle-shanahan-praises-backup-qb-mac-jones-after-win-vs-rams-with-brock-purdy-still-week-to-week/",
+      "id": "https-sports-yahoo-com-article-nfc-west-standings-49ers-locked-143830240-html",
+      "title": "NFC West standings: Are 49ers locked into 1st place through Week 5 after win over Rams?",
+      "link": "https://sports.yahoo.com/article/nfc-west-standings-49ers-locked-143830240.html",
+      "source": "Yahoo Sports",
+      "ts": 1759478460.0,
+      "published_iso": "2025-10-03T08:01:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
+      "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
+      "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
       "source": "CBS Sports",
-      "ts": 1759478280.0,
-      "published_iso": "2025-10-03T07:58:00+00:00"
+      "ts": 1759446600.0,
+      "published_iso": "2025-10-02T23:10:00+00:00"
     }
   ]
 }
