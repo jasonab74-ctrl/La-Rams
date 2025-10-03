@@ -1,23 +1,7 @@
 {
-  "updated_iso": "2025-10-03T16:10:06.118905+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-03T16:41:19.672282+00:00",
+  "count": 1,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-article-49ers-triumph-over-rams-stellar-155949298-html",
-      "title": "49ers Triumph Over Rams with Stellar Play from Former Patriots",
-      "link": "https://sports.yahoo.com/article/49ers-triumph-over-rams-stellar-155949298.html",
-      "source": "Yahoo Sports",
-      "ts": 1759482300.0,
-      "published_iso": "2025-10-03T09:05:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-rams-look-adding-cornerback-help-160056794-html",
-      "title": "Rams will 'look into' adding cornerback help with secondary struggling",
-      "link": "https://sports.yahoo.com/article/rams-look-adding-cornerback-help-160056794.html",
-      "source": "Yahoo Sports",
-      "ts": 1759482120.0,
-      "published_iso": "2025-10-03T09:02:00+00:00"
-    },
     {
       "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
       "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
