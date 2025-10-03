@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-10-03T17:07:33.939035+00:00",
-  "count": 2,
+  "updated_iso": "2025-10-03T17:33:34.786956+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-pat-mcafee-shares-interesting-theory-164257914-html",
-      "title": "Pat McAfee shares interesting theory about Rams kicker's FG problems",
-      "link": "https://sports.yahoo.com/article/pat-mcafee-shares-interesting-theory-164257914.html",
+      "id": "https-foxsports-com-watch-fmc-kvbek2ghid11ez80",
+      "title": "Rams are 'wasting Matthew Stafford's best year' after TNF loss vs. depleted 49ers | The Herd",
+      "link": "https://foxsports.com/watch/fmc-kvbek2ghid11ez80",
+      "source": "FOX Sports",
+      "ts": 1759487100.0,
+      "published_iso": "2025-10-03T10:25:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-49ers-head-coach-thought-passing-163000995-html",
+      "title": "49ers head coach thought about passing on final drive of regulation, chose to run and drain Rams’ timeouts",
+      "link": "https://sports.yahoo.com/article/49ers-head-coach-thought-passing-163000995.html",
       "source": "Yahoo Sports",
-      "ts": 1759484940.0,
-      "published_iso": "2025-10-03T09:49:00+00:00"
+      "ts": 1759485120.0,
+      "published_iso": "2025-10-03T09:52:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
