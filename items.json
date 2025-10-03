@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-03T10:38:06.213806+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-03T11:07:30.274131+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-latimes-com-00000199-a912-d547-abdf-e9561b830000-123",
@@ -17,14 +17,6 @@
       "source": "CBS Sports",
       "ts": 1759446600.0,
       "published_iso": "2025-10-02T23:10:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
-      "title": "Los Angeles Rams and legendary artist Mister Cartoon drop \"LA Bold\" Collection celebrating Los Angeles culture",
-      "link": "https://therams.com/news/rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1759397160.0,
-      "published_iso": "2025-10-02T09:26:00+00:00"
     }
   ]
 }
