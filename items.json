@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-03T17:33:34.786956+00:00",
+  "updated_iso": "2025-10-03T18:12:16.011902+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-cbssports-com-nfl-news-rams-meltdown-in-loss-to-49ers-due-to-three-ugly-mistakes-late-in-the-game-and-one-very-poo",
+      "title": "Rams' melted down with three late game mistakes and one very 'poor' play call during upset loss to 49ers",
+      "link": "https://cbssports.com/nfl/news/rams-meltdown-in-loss-to-49ers-due-to-three-ugly-mistakes-late-in-the-game-and-one-very-poor-play-call/",
+      "source": "CBS Sports",
+      "ts": 1759488000.0,
+      "published_iso": "2025-10-03T10:40:00+00:00"
+    },
     {
       "id": "https-foxsports-com-watch-fmc-kvbek2ghid11ez80",
       "title": "Rams are 'wasting Matthew Stafford's best year' after TNF loss vs. depleted 49ers | The Herd",
@@ -9,14 +17,6 @@
       "source": "FOX Sports",
       "ts": 1759487100.0,
       "published_iso": "2025-10-03T10:25:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-49ers-head-coach-thought-passing-163000995-html",
-      "title": "49ers head coach thought about passing on final drive of regulation, chose to run and drain Rams’ timeouts",
-      "link": "https://sports.yahoo.com/article/49ers-head-coach-thought-passing-163000995.html",
-      "source": "Yahoo Sports",
-      "ts": 1759485120.0,
-      "published_iso": "2025-10-03T09:52:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
