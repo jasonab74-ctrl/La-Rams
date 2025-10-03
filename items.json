@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2025-10-03T19:05:25.124985+00:00",
-  "count": 5,
+  "updated_iso": "2025-10-03T19:31:22.154981+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-mykel-williams-drops-perfect-response-112907614-html",
-      "title": "Mykel Williams drops perfect response to doubters after 49ers' win vs. Rams",
-      "link": "https://sports.yahoo.com/article/mykel-williams-drops-perfect-response-112907614.html",
+      "id": "https-sports-yahoo-com-article-growing-calls-al-michaels-retire-153348154-html",
+      "title": "There Are Growing Calls For Al Michaels To Retire After 49ers-Rams Game",
+      "link": "https://sports.yahoo.com/article/growing-calls-al-michaels-retire-153348154.html",
       "source": "Yahoo Sports",
-      "ts": 1759492860.0,
-      "published_iso": "2025-10-03T12:01:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-5-interesting-stats-from-the-rams-week-5-loss-to-san-francisco-matthew-stafford-sets-rams-career-",
-      "title": "5 interesting stats from the Rams' Week 5 loss to San Francisco: Matthew Stafford sets Rams career-high (again), win probabilities on 4th-and-1 in overtime",
-      "link": "https://therams.com/news/5-interesting-stats-from-the-rams-week-5-loss-to-san-francisco-matthew-stafford-sets-rams-career-high-again-win-probabilities-on-4th-and-1-in-overtime",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1759492020.0,
-      "published_iso": "2025-10-03T11:47:00+00:00"
+      "ts": 1759491960.0,
+      "published_iso": "2025-10-03T11:46:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-rams-meltdown-in-loss-to-49ers-due-to-three-ugly-mistakes-late-in-the-game-and-one-very-poo",
@@ -33,14 +25,6 @@
       "source": "CBS Sports",
       "ts": 1759446600.0,
       "published_iso": "2025-10-02T23:10:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
-      "title": "Los Angeles Rams and legendary artist Mister Cartoon drop \"LA Bold\" Collection celebrating Los Angeles culture",
-      "link": "https://therams.com/news/rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1759397160.0,
-      "published_iso": "2025-10-02T09:26:00+00:00"
     }
   ]
 }
