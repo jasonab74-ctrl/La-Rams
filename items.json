@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-04T14:32:18.989010+00:00",
+  "updated_iso": "2025-10-04T15:07:25.078186+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-bleacherreport-com-articles-25257030-49ers-mac-jones-reportedly-vomited-during-rams-game-while-dealing-cramping",
+      "title": "49ers' Mac Jones Reportedly Vomited During Rams Game While Dealing With Cramping",
+      "link": "https://bleacherreport.com/articles/25257030-49ers-mac-jones-reportedly-vomited-during-rams-game-while-dealing-cramping",
+      "source": "Bleacher Report",
+      "ts": 1759563840.0,
+      "published_iso": "2025-10-04T07:44:00+00:00"
+    },
     {
       "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
       "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
@@ -9,14 +17,6 @@
       "source": "CBS Sports",
       "ts": 1759446600.0,
       "published_iso": "2025-10-02T23:10:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-thursday-night-foo",
-      "title": "Los Angeles Rams vs. San Francisco 49ers: How to watch, listen to and live stream Thursday Night Football in Week 5",
-      "link": "https://therams.com/news/los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-thursday-night-football-in-week-5-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1759241040.0,
-      "published_iso": "2025-09-30T14:04:00+00:00"
     }
   ]
 }
