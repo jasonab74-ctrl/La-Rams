@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-04T15:07:25.078186+00:00",
-  "count": 2,
+  "updated_iso": "2025-10-04T15:30:46.393063+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-49ers-pff-grades-best-worst-151707487-html",
+      "title": "49ers PFF grades: Best and worst grades from Week 5 win over Rams",
+      "link": "https://sports.yahoo.com/article/49ers-pff-grades-best-worst-151707487.html",
+      "source": "Yahoo Sports",
+      "ts": 1759566360.0,
+      "published_iso": "2025-10-04T08:26:00+00:00"
+    },
     {
       "id": "https-bleacherreport-com-articles-25257030-49ers-mac-jones-reportedly-vomited-during-rams-game-while-dealing-cramping",
       "title": "49ers' Mac Jones Reportedly Vomited During Rams Game While Dealing With Cramping",
