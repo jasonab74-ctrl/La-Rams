@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-04T02:08:35.828678+00:00",
-  "count": 1,
+  "updated_iso": "2025-10-04T03:02:58.102096+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-pff-graded-mac-jones-49ers-183537897-html",
+      "title": "How PFF graded Mac Jones, 49ers in win thrilling overtime victory over Rams",
+      "link": "https://sports.yahoo.com/article/pff-graded-mac-jones-49ers-183537897.html",
+      "source": "Yahoo Sports",
+      "ts": 1759518720.0,
+      "published_iso": "2025-10-03T19:12:00+00:00"
+    },
     {
       "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
       "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
