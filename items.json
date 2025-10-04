@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-04T19:02:30.829373+00:00",
+  "updated_iso": "2025-10-04T19:31:22.619705+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-sean-mcvay-details-rams-interesting-191957044-html",
+      "title": "Sean McVay details Rams' interesting travel plans in the coming weeks",
+      "link": "https://sports.yahoo.com/article/sean-mcvay-details-rams-interesting-191957044.html",
+      "source": "Yahoo Sports",
+      "ts": 1759580760.0,
+      "published_iso": "2025-10-04T12:26:00+00:00"
+    },
     {
       "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
       "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
@@ -9,14 +17,6 @@
       "source": "CBS Sports",
       "ts": 1759446600.0,
       "published_iso": "2025-10-02T23:10:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-thursday-night-foo",
-      "title": "Los Angeles Rams vs. San Francisco 49ers: How to watch, listen to and live stream Thursday Night Football in Week 5",
-      "link": "https://therams.com/news/los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-thursday-night-football-in-week-5-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1759241040.0,
-      "published_iso": "2025-09-30T14:04:00+00:00"
     }
   ]
 }
