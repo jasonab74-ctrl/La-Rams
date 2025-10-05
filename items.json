@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2025-10-05T20:08:25.409524+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-10-05T20:33:03.130308+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-article-mike-florio-slams-rams-fans-114101962-html",
+      "title": "Mike Florio slams Rams fans after 49ers Faithful bring ‘sea of red' to SoFi",
+      "link": "https://sports.yahoo.com/article/mike-florio-slams-rams-fans-114101962.html",
+      "source": "Yahoo Sports",
+      "ts": 1759667100.0,
+      "published_iso": "2025-10-05T12:25:00+00:00"
+    }
+  ]
 }
