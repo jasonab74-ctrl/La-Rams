@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2025-10-05T11:30:56.537661+00:00",
-  "count": 1,
+  "updated_iso": "2025-10-05T12:14:25.445049+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-deommodore-lenoir-slams-kyren-williams-145348123-html",
-      "title": "Deommodore Lenoir slams Kyren Williams' ‘fat mouth' after 49ers' win vs. Rams",
-      "link": "https://sports.yahoo.com/article/deommodore-lenoir-slams-kyren-williams-145348123.html",
-      "source": "Yahoo Sports",
-      "ts": 1759593540.0,
-      "published_iso": "2025-10-04T15:59:00+00:00"
+      "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
+      "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
+      "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
+      "source": "CBS Sports",
+      "ts": 1759446600.0,
+      "published_iso": "2025-10-02T23:10:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
+      "title": "Los Angeles Rams and legendary artist Mister Cartoon drop \"LA Bold\" Collection celebrating Los Angeles culture",
+      "link": "https://therams.com/news/rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1759397160.0,
+      "published_iso": "2025-10-02T09:26:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-thursday-night-foo",
+      "title": "Los Angeles Rams vs. San Francisco 49ers: How to watch, listen to and live stream Thursday Night Football in Week 5",
+      "link": "https://therams.com/news/los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-thursday-night-football-in-week-5-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1759241040.0,
+      "published_iso": "2025-09-30T14:04:00+00:00"
     }
   ]
 }
