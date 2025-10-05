@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-05T16:38:15.170066+00:00",
-  "count": 4,
+  "updated_iso": "2025-10-05T17:02:51.273932+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-bleacherreport-com-articles-25257293-lamar-jackson-reportedly-has-outside-shot-play-ravens-vs-rams-amid-injury",
@@ -25,14 +25,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1759397160.0,
       "published_iso": "2025-10-02T09:26:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-thursday-night-foo",
-      "title": "Los Angeles Rams vs. San Francisco 49ers: How to watch, listen to and live stream Thursday Night Football in Week 5",
-      "link": "https://therams.com/news/los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-thursday-night-football-in-week-5-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1759241040.0,
-      "published_iso": "2025-09-30T14:04:00+00:00"
     }
   ]
 }
