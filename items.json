@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-05T15:31:19.720920+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-05T16:09:00.169621+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-49ers-stud-calls-rams-rb-155015933-html",
+      "title": "49ers stud calls out Rams RB for disrespectful TD celebration",
+      "link": "https://sports.yahoo.com/article/49ers-stud-calls-rams-rb-155015933.html",
+      "source": "Yahoo Sports",
+      "ts": 1759654800.0,
+      "published_iso": "2025-10-05T09:00:00+00:00"
+    },
     {
       "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
       "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
