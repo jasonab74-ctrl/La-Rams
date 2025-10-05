@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-05T06:11:33.663102+00:00",
-  "count": 1,
+  "updated_iso": "2025-10-05T06:41:49.466758+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-49ers-deommodore-lenoir-calls-rams-011755094-html",
+      "title": "49ers Deommodore Lenoir calls out Rams RB Kyren Williams: 'He shouldn’t have been talking'",
+      "link": "https://sports.yahoo.com/article/49ers-deommodore-lenoir-calls-rams-011755094.html",
+      "source": "Yahoo Sports",
+      "ts": 1759602720.0,
+      "published_iso": "2025-10-04T18:32:00+00:00"
+    },
     {
       "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
       "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
