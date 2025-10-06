@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2025-10-06T10:40:12.691504+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-10-06T11:07:52.351683+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
+      "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
+      "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
+      "source": "CBS Sports",
+      "ts": 1759446600.0,
+      "published_iso": "2025-10-02T23:10:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
+      "title": "Los Angeles Rams and legendary artist Mister Cartoon drop \"LA Bold\" Collection celebrating Los Angeles culture",
+      "link": "https://therams.com/news/rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1759397160.0,
+      "published_iso": "2025-10-02T09:26:00+00:00"
+    },
+    {
+      "id": "https-therams-com-video-welcome-to-the-world-stage-visit-rwanda-multi-year-agreement-los-angeles-rams-sofi-stadium-holly",
+      "title": "Visit Rwanda enters multi-year sponsorship agreement with Los Angeles Rams, SoFi Stadium and Hollywood Park",
+      "link": "https://therams.com/video/welcome-to-the-world-stage-visit-rwanda-multi-year-agreement-los-angeles-rams-sofi-stadium-hollywood-park",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1759133340.0,
+      "published_iso": "2025-09-29T08:09:00+00:00"
+    }
+  ]
 }
