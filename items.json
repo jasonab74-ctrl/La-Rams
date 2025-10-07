@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-07T21:31:25.495130+00:00",
-  "count": 2,
+  "updated_iso": "2025-10-07T22:08:15.685982+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-bleacherreport-com-articles-25258245-odell-beckham-jr-floats-chiefs-steelers-rams-landing-spots-after-nfl-suspensi",
+      "title": "Odell Beckham Jr. Floats Chiefs, Steelers, Rams As Landing Spots After NFL Suspension",
+      "link": "https://bleacherreport.com/articles/25258245-odell-beckham-jr-floats-chiefs-steelers-rams-landing-spots-after-nfl-suspension",
+      "source": "Bleacher Report",
+      "ts": 1759847580.0,
+      "published_iso": "2025-10-07T14:33:00+00:00"
+    },
     {
       "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
       "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
