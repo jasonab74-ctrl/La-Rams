@@ -1,5 +1,5 @@
 {
-  "updated_iso": "2025-10-07T20:37:20.799127+00:00",
+  "updated_iso": "2025-10-07T21:07:36.999713+00:00",
   "count": 3,
   "items": [
     {
@@ -11,20 +11,20 @@
       "published_iso": "2025-10-07T13:02:00+00:00"
     },
     {
-      "id": "https-therams-com-news-shaun-dolac-overcoming-personal-loss-achieving-nfl-dream-rams-revealed-episode-138",
-      "title": "Shaun Dolac on overcoming personal loss and how it helped motivate him in achieving his NFL dream | Featured on Rams Revealed Ep. 138",
-      "link": "https://therams.com/news/shaun-dolac-overcoming-personal-loss-achieving-nfl-dream-rams-revealed-episode-138",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1759838460.0,
-      "published_iso": "2025-10-07T12:01:00+00:00"
-    },
-    {
       "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
       "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
       "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
       "source": "CBS Sports",
       "ts": 1759446600.0,
       "published_iso": "2025-10-02T23:10:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
+      "title": "Los Angeles Rams and legendary artist Mister Cartoon drop \"LA Bold\" Collection celebrating Los Angeles culture",
+      "link": "https://therams.com/news/rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1759397160.0,
+      "published_iso": "2025-10-02T09:26:00+00:00"
     }
   ]
 }
