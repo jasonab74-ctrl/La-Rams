@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-09T21:32:07.359518+00:00",
+  "updated_iso": "2025-10-09T22:07:49.493890+00:00",
   "count": 4,
   "items": [
+    {
+      "id": "https-si-com-nfl-rams-mike-lafleur-los-angeles-sean-mcvay-baltimore-ravens",
+      "title": "Mike LaFleur Defines Rams Approach Against Ravens",
+      "link": "https://si.com/nfl/rams/mike-lafleur-los-angeles-sean-mcvay-baltimore-ravens",
+      "source": "Sports Illustrated",
+      "ts": 1760022060.0,
+      "published_iso": "2025-10-09T15:01:00+00:00"
+    },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-baltimore-ravens-how-to-watch-listen-to-and-live-stream-week-6-2025",
       "title": "Los Angeles Rams at Baltimore Ravens: How to watch, listen to and live stream Week 6",
@@ -25,14 +33,6 @@
       "source": "CBS Sports",
       "ts": 1759446600.0,
       "published_iso": "2025-10-02T23:10:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
-      "title": "Los Angeles Rams and legendary artist Mister Cartoon drop \"LA Bold\" Collection celebrating Los Angeles culture",
-      "link": "https://therams.com/news/rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1759397160.0,
-      "published_iso": "2025-10-02T09:26:00+00:00"
     }
   ]
 }
