@@ -1,5 +1,38 @@
 {
-  "updated_iso": "2025-10-09T11:31:39.030957+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-10-09T12:16:45.883967+00:00",
+  "count": 4,
+  "items": [
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-baltimore-ravens-how-to-watch-listen-to-and-live-stream-week-6-2025",
+      "title": "Los Angeles Rams at Baltimore Ravens: How to watch, listen to and live stream Week 6",
+      "link": "https://therams.com/news/los-angeles-rams-at-baltimore-ravens-how-to-watch-listen-to-and-live-stream-week-6-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1759917720.0,
+      "published_iso": "2025-10-08T10:02:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-foundation-housing-relief-local-families-wildfires",
+      "title": "Los Angeles Rams Foundation provides housing relief for local families impacted by wildfires",
+      "link": "https://therams.com/news/rams-foundation-housing-relief-local-families-wildfires",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1759914780.0,
+      "published_iso": "2025-10-08T09:13:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-video-rams-vs-ravens-los-angeles-112844716-html",
+      "title": "Rams vs. Ravens: Los Angeles Sits as 7.5-Point Favorites",
+      "link": "https://sports.yahoo.com/video/rams-vs-ravens-los-angeles-112844716.html",
+      "source": "Yahoo Sports",
+      "ts": 1759912860.0,
+      "published_iso": "2025-10-08T08:41:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
+      "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
+      "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
+      "source": "CBS Sports",
+      "ts": 1759446600.0,
+      "published_iso": "2025-10-02T23:10:00+00:00"
+    }
+  ]
 }
