@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-09T20:09:48.358053+00:00",
-  "count": 4,
+  "updated_iso": "2025-10-09T20:37:28.780145+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-rams-hold-competition-starting-linebacker-185303714-html",
@@ -9,30 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1760012280.0,
       "published_iso": "2025-10-09T12:18:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-at-baltimore-ravens-how-to-watch-listen-to-and-live-stream-week-6-2025",
-      "title": "Los Angeles Rams at Baltimore Ravens: How to watch, listen to and live stream Week 6",
-      "link": "https://therams.com/news/los-angeles-rams-at-baltimore-ravens-how-to-watch-listen-to-and-live-stream-week-6-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1759917720.0,
-      "published_iso": "2025-10-08T10:02:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
-      "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
-      "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
-      "source": "CBS Sports",
-      "ts": 1759446600.0,
-      "published_iso": "2025-10-02T23:10:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
-      "title": "Los Angeles Rams and legendary artist Mister Cartoon drop \"LA Bold\" Collection celebrating Los Angeles culture",
-      "link": "https://therams.com/news/rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1759397160.0,
-      "published_iso": "2025-10-02T09:26:00+00:00"
     }
   ]
 }
