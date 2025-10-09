@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-09T12:16:45.883967+00:00",
-  "count": 4,
+  "updated_iso": "2025-10-09T13:02:52.229227+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-bleacherreport-com-articles-25256663-ravens-lamar-jackson-reportedly-expected-be-out-vs-rams-latest-injury-return",
+      "title": "Ravens' Lamar Jackson Reportedly Expected to Be Out vs. Rams, Latest on Injury Return",
+      "link": "https://bleacherreport.com/articles/25256663-ravens-lamar-jackson-reportedly-expected-be-out-vs-rams-latest-injury-return",
+      "source": "Bleacher Report",
+      "ts": 1759986960.0,
+      "published_iso": "2025-10-09T05:16:00+00:00"
+    },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-baltimore-ravens-how-to-watch-listen-to-and-live-stream-week-6-2025",
       "title": "Los Angeles Rams at Baltimore Ravens: How to watch, listen to and live stream Week 6",
