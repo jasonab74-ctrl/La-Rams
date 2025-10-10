@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-10T18:13:08.115752+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-10T18:43:46.731441+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-rams-vs-ravens-predictions-picks-165200246-html",
@@ -25,6 +25,14 @@
       "source": "CBS Sports",
       "ts": 1759446600.0,
       "published_iso": "2025-10-02T23:10:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
+      "title": "Los Angeles Rams and legendary artist Mister Cartoon drop \"LA Bold\" Collection celebrating Los Angeles culture",
+      "link": "https://therams.com/news/rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1759397160.0,
+      "published_iso": "2025-10-02T09:26:00+00:00"
     }
   ]
 }
