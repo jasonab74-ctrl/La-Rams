@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-10-10T19:31:12.290635+00:00",
+  "updated_iso": "2025-10-10T20:09:33.743312+00:00",
   "count": 5,
   "items": [
     {
-      "id": "https-si-com-betting-rams-vs-ravens-final-score-prediction-for-nfl-week-6-rams-should-win-big",
-      "title": "Rams vs. Ravens Final Score Prediction for NFL Week 6 (Rams Should Win Big)",
-      "link": "https://si.com/betting/rams-vs-ravens-final-score-prediction-for-nfl-week-6-rams-should-win-big",
+      "id": "https-therams-com-news-rams-ravens-battle-first-two-pivotal-road-games-game-preview-2025-week-6",
+      "title": "Rams & Ravens battle in first of two pivotal road games | Game Preview",
+      "link": "https://therams.com/news/rams-ravens-battle-first-two-pivotal-road-games-game-preview-2025-week-6",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1760100120.0,
+      "published_iso": "2025-10-10T12:42:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-los-angeles-sean-mcvay-ravens",
+      "title": "Sean McVay Shares Key Details Before Rams-Ravens Game",
+      "link": "https://si.com/nfl/rams/los-angeles-sean-mcvay-ravens",
       "source": "Sports Illustrated",
-      "ts": 1760098500.0,
-      "published_iso": "2025-10-10T12:15:00+00:00"
+      "ts": 1760097000.0,
+      "published_iso": "2025-10-10T11:50:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-baltimore-ravens-how-to-watch-listen-to-and-live-stream-week-6-2025",
@@ -33,14 +41,6 @@
       "source": "CBS Sports",
       "ts": 1759446600.0,
       "published_iso": "2025-10-02T23:10:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
-      "title": "Los Angeles Rams and legendary artist Mister Cartoon drop \"LA Bold\" Collection celebrating Los Angeles culture",
-      "link": "https://therams.com/news/rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1759397160.0,
-      "published_iso": "2025-10-02T09:26:00+00:00"
     }
   ]
 }
