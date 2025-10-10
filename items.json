@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-10-10T21:30:45.431855+00:00",
+  "updated_iso": "2025-10-10T22:07:46.988052+00:00",
   "count": 4,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-article-im-f-cking-furious-least-170405312-html",
-      "title": "'I'm f*cking furious' — At least one Rams defender is entering into Ravens matchup with an extra edge as Baltimore looks to avoid 1-5 start to 2025",
-      "link": "https://sports.yahoo.com/article/im-f-cking-furious-least-170405312.html",
-      "source": "Yahoo Sports",
-      "ts": 1760102700.0,
-      "published_iso": "2025-10-10T13:25:00+00:00"
-    },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-baltimore-ravens-how-to-watch-listen-to-and-live-stream-week-6-2025",
       "title": "Los Angeles Rams at Baltimore Ravens: How to watch, listen to and live stream Week 6",
@@ -33,6 +25,14 @@
       "source": "CBS Sports",
       "ts": 1759446600.0,
       "published_iso": "2025-10-02T23:10:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
+      "title": "Los Angeles Rams and legendary artist Mister Cartoon drop \"LA Bold\" Collection celebrating Los Angeles culture",
+      "link": "https://therams.com/news/rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1759397160.0,
+      "published_iso": "2025-10-02T09:26:00+00:00"
     }
   ]
 }
