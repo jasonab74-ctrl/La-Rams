@@ -1,5 +1,5 @@
 {
-  "updated_iso": "2025-10-10T05:38:02.185957+00:00",
+  "updated_iso": "2025-10-10T06:13:48.367070+00:00",
   "count": 4,
   "items": [
     {
@@ -9,6 +9,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1759917720.0,
       "published_iso": "2025-10-08T10:02:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-foundation-housing-relief-local-families-wildfires",
+      "title": "Los Angeles Rams Foundation provides housing relief for local families impacted by wildfires",
+      "link": "https://therams.com/news/rams-foundation-housing-relief-local-families-wildfires",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1759914780.0,
+      "published_iso": "2025-10-08T09:13:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-video-rams-vs-ravens-los-angeles-112844716-html",
@@ -25,14 +33,6 @@
       "source": "CBS Sports",
       "ts": 1759446600.0,
       "published_iso": "2025-10-02T23:10:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
-      "title": "Los Angeles Rams and legendary artist Mister Cartoon drop \"LA Bold\" Collection celebrating Los Angeles culture",
-      "link": "https://therams.com/news/rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1759397160.0,
-      "published_iso": "2025-10-02T09:26:00+00:00"
     }
   ]
 }
