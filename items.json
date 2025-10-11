@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2025-10-11T17:02:38.320563+00:00",
-  "count": 5,
+  "updated_iso": "2025-10-11T17:31:41.794337+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-rams-jared-verse-shares-list-164528622-html",
-      "title": "Rams' Jared Verse shares his list of QBs he wants to sack in his career",
-      "link": "https://sports.yahoo.com/article/rams-jared-verse-shares-list-164528622.html",
-      "source": "Yahoo Sports",
-      "ts": 1760176380.0,
-      "published_iso": "2025-10-11T09:53:00+00:00"
+      "id": "https-therams-com-news-3-keys-to-winning-for-the-rams-against-the-ravens-in-week-6-2025",
+      "title": "3 Keys to Winning for the Rams against the Ravens in Week 6",
+      "link": "https://therams.com/news/3-keys-to-winning-for-the-rams-against-the-ravens-in-week-6-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1760176980.0,
+      "published_iso": "2025-10-11T10:03:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-baltimore-ravens-how-to-watch-listen-to-and-live-stream-week-6-2025",
@@ -33,14 +33,6 @@
       "source": "CBS Sports",
       "ts": 1759446600.0,
       "published_iso": "2025-10-02T23:10:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
-      "title": "Los Angeles Rams and legendary artist Mister Cartoon drop \"LA Bold\" Collection celebrating Los Angeles culture",
-      "link": "https://therams.com/news/rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1759397160.0,
-      "published_iso": "2025-10-02T09:26:00+00:00"
     }
   ]
 }
