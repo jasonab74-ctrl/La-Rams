@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-12T16:09:06.183713+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-12T16:38:52.853230+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-therams-com-news-rams-ravens-inactives-week-6-2025-tutu-atwell-omar-speights-rob-havenstein-colby-parkinson",
@@ -11,20 +11,12 @@
       "published_iso": "2025-10-12T08:46:00+00:00"
     },
     {
-      "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
-      "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
-      "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
-      "source": "CBS Sports",
-      "ts": 1759446600.0,
-      "published_iso": "2025-10-02T23:10:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
-      "title": "Los Angeles Rams and legendary artist Mister Cartoon drop \"LA Bold\" Collection celebrating Los Angeles culture",
-      "link": "https://therams.com/news/rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
+      "id": "https-therams-com-news-los-angeles-rams-at-baltimore-ravens-how-to-watch-listen-to-and-live-stream-week-6-2025",
+      "title": "Los Angeles Rams at Baltimore Ravens: How to watch, listen to and live stream Week 6",
+      "link": "https://therams.com/news/los-angeles-rams-at-baltimore-ravens-how-to-watch-listen-to-and-live-stream-week-6-2025",
       "source": "Los Angeles Rams (Official)",
-      "ts": 1759397160.0,
-      "published_iso": "2025-10-02T09:26:00+00:00"
+      "ts": 1759917720.0,
+      "published_iso": "2025-10-08T10:02:00+00:00"
     }
   ]
 }
