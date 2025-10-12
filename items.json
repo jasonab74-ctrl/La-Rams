@@ -1,30 +1,22 @@
 {
-  "updated_iso": "2025-10-12T18:40:59.160036+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-12T19:02:27.086435+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-nfl-com-videos-quentin-lake-picks-off-cooper-rush-s-pass-to-setup-rams-offense-in-ravens-territory",
-      "title": "Quentin Lake picks off Cooper Rush's pass to setup Rams offense in Ravens territory",
-      "link": "https://nfl.com/videos/quentin-lake-picks-off-cooper-rush-s-pass-to-setup-rams-offense-in-ravens-territory",
-      "source": "NFL.com",
-      "ts": 1760269200.0,
-      "published_iso": "2025-10-12T11:40:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-nfl-live-nfl-week-6-news-inactives-live-updates-from-sunday-puka-nacua-marvin-harrison-jr-exit-wi",
-      "title": "NFL Week 6 news, inactives, live updates from Sunday: Puka Nacua, Marvin Harrison Jr. exit with injuries, Rams-Ravens off to a slow start",
-      "link": "https://sports.yahoo.com/nfl/live/nfl-week-6-news-inactives-live-updates-from-sunday-puka-nacua-marvin-harrison-jr-exit-with-injuries-rams-ravens-off-to-a-slow-start-153016550.html",
+      "id": "https-sports-yahoo-com-nfl-breaking-news-article-rams-star-wr-puka-nacua-returns-after-limping-to-locker-room-with-foot-",
+      "title": "Rams star WR Puka Nacua returns after limping to locker room with foot injury vs. Ravens",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/rams-star-wr-puka-nacua-returns-after-limping-to-locker-room-with-foot-injury-vs-ravens-180258578.html",
       "source": "Yahoo Sports",
-      "ts": 1760268600.0,
-      "published_iso": "2025-10-12T11:30:00+00:00"
+      "ts": 1760270160.0,
+      "published_iso": "2025-10-12T11:56:00+00:00"
     },
     {
-      "id": "https-therams-com-video-rams-quentin-lake-intercepts-ravens-quarterback-cooper-rush-mt-bank-stadium",
-      "title": "HIGHLIGHTS: Rams S Quentin Lake intercepts Ravens QB Cooper Rush's pass downfield",
-      "link": "https://therams.com/video/rams-quentin-lake-intercepts-ravens-quarterback-cooper-rush-mt-bank-stadium",
+      "id": "https-therams-com-video-rams-blake-corum-bounces-outside-12-yard-gain-ravens-mt-bank-stadium",
+      "title": "HIGHLIGHTS: Rams RB Blake Corum bounces outside for a 12-yard gain against the Ravens",
+      "link": "https://therams.com/video/rams-blake-corum-bounces-outside-12-yard-gain-ravens-mt-bank-stadium",
       "source": "Los Angeles Rams (Official)",
-      "ts": 1760268540.0,
-      "published_iso": "2025-10-12T11:29:00+00:00"
+      "ts": 1760270160.0,
+      "published_iso": "2025-10-12T11:56:00+00:00"
     }
   ]
 }
