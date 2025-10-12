@@ -1,22 +1,22 @@
 {
-  "updated_iso": "2025-10-12T21:06:32.118620+00:00",
+  "updated_iso": "2025-10-12T21:31:19.000141+00:00",
   "count": 3,
   "items": [
     {
-      "id": "https-nfl-com-videos-rams-vs-ravens-highlights-week-6",
-      "title": "Rams vs. Ravens highlights | Week 6",
-      "link": "https://nfl.com/videos/rams-vs-ravens-highlights-week-6",
-      "source": "NFL.com",
-      "ts": 1760277900.0,
-      "published_iso": "2025-10-12T14:05:00+00:00"
+      "id": "https-sports-yahoo-com-article-ravens-vs-rams-takeaways-observations-211639898-html",
+      "title": "Ravens vs. Rams: Takeaways and observations from 17-3 loss before a much-needed Week 7 bye",
+      "link": "https://sports.yahoo.com/article/ravens-vs-rams-takeaways-observations-211639898.html",
+      "source": "Yahoo Sports",
+      "ts": 1760279340.0,
+      "published_iso": "2025-10-12T14:29:00+00:00"
     },
     {
-      "id": "https-therams-com-video-rams-byron-young-second-sack-ravens-tyler-huntley-yields-5-yard-loss",
-      "title": "HIGHLIGHTS: Rams OLB Byron Young's second sack on Ravens QB Tyler Huntley yields a 5-yard loss",
-      "link": "https://therams.com/video/rams-byron-young-second-sack-ravens-tyler-huntley-yields-5-yard-loss",
+      "id": "https-therams-com-video-rams-byron-young-topples-ravens-tyler-huntley-sack-loss-of-4-yards-week-6",
+      "title": "HIGHLIGHTS: Rams OLB Byron Young topples Ravens QB Tyler Huntley for a sack & loss of 4 yards",
+      "link": "https://therams.com/video/rams-byron-young-topples-ravens-tyler-huntley-sack-loss-of-4-yards-week-6",
       "source": "Los Angeles Rams (Official)",
-      "ts": 1760277000.0,
-      "published_iso": "2025-10-12T13:50:00+00:00"
+      "ts": 1760278260.0,
+      "published_iso": "2025-10-12T14:11:00+00:00"
     },
     {
       "id": "https-bleacherreport-com-articles-25259747-derrick-henry-rips-ravens-goal-line-failures-after-loss-rams-it-pisses-me",
