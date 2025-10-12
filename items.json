@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2025-10-12T19:31:23.532345+00:00",
+  "updated_iso": "2025-10-12T20:09:20.082836+00:00",
   "count": 1,
   "items": [
     {
-      "id": "https-nfl-com-videos-joshua-karty-s-36-yard-field-goal-gets-rams-on-the-board",
-      "title": "Joshua Karty's 36-yard field goal gets Rams on the board",
-      "link": "https://nfl.com/videos/joshua-karty-s-36-yard-field-goal-gets-rams-on-the-board",
-      "source": "NFL.com",
-      "ts": 1760270940.0,
-      "published_iso": "2025-10-12T12:09:00+00:00"
+      "id": "https-apnews-com-article-rams-ravens-score-0529385473a344f28cda77d2cb274b6c",
+      "title": "Rams stuff the Lamar Jackson-less Ravens 17-3, dropping Baltimore to 1-5",
+      "link": "https://apnews.com/article/rams-ravens-score-0529385473a344f28cda77d2cb274b6c",
+      "source": "AP News",
+      "ts": 1760273940.0,
+      "published_iso": "2025-10-12T12:59:00+00:00"
     }
   ]
 }
