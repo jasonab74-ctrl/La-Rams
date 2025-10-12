@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2025-10-12T19:02:27.086435+00:00",
-  "count": 2,
+  "updated_iso": "2025-10-12T19:31:23.532345+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-nfl-breaking-news-article-rams-star-wr-puka-nacua-returns-after-limping-to-locker-room-with-foot-",
-      "title": "Rams star WR Puka Nacua returns after limping to locker room with foot injury vs. Ravens",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/rams-star-wr-puka-nacua-returns-after-limping-to-locker-room-with-foot-injury-vs-ravens-180258578.html",
-      "source": "Yahoo Sports",
-      "ts": 1760270160.0,
-      "published_iso": "2025-10-12T11:56:00+00:00"
-    },
-    {
-      "id": "https-therams-com-video-rams-blake-corum-bounces-outside-12-yard-gain-ravens-mt-bank-stadium",
-      "title": "HIGHLIGHTS: Rams RB Blake Corum bounces outside for a 12-yard gain against the Ravens",
-      "link": "https://therams.com/video/rams-blake-corum-bounces-outside-12-yard-gain-ravens-mt-bank-stadium",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1760270160.0,
-      "published_iso": "2025-10-12T11:56:00+00:00"
+      "id": "https-nfl-com-videos-joshua-karty-s-36-yard-field-goal-gets-rams-on-the-board",
+      "title": "Joshua Karty's 36-yard field goal gets Rams on the board",
+      "link": "https://nfl.com/videos/joshua-karty-s-36-yard-field-goal-gets-rams-on-the-board",
+      "source": "NFL.com",
+      "ts": 1760270940.0,
+      "published_iso": "2025-10-12T12:09:00+00:00"
     }
   ]
 }
