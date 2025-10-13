@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-13T06:48:14.222072+00:00",
-  "count": 4,
+  "updated_iso": "2025-10-13T07:10:22.320366+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-latimes-com-sports-rams-live-rams-baltimore-ravens-live-updates-watch-start-time-score-highlights-odds",
@@ -25,14 +25,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1759397160.0,
       "published_iso": "2025-10-02T09:26:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-los-angeles-sean-mcvay-jordan-davis-puka-nacua-davante-adams",
-      "title": "Rams 2025 Outlook: What Makes This Team a True Contender",
-      "link": "https://si.com/nfl/rams/los-angeles-sean-mcvay-jordan-davis-puka-nacua-davante-adams",
-      "source": "Sports Illustrated",
-      "ts": 1758819600.0,
-      "published_iso": "2025-09-25T17:00:00+00:00"
     }
   ]
 }
