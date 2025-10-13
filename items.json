@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-10-12T23:30:58.610916+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-10-13T00:44:07.833255+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-foxsports-com-watch-fmc-bmw9bgq5h8tdjl73",
+      "title": "Tom Brady's LFG Player of the Game: Rams LB Nate Landman 🏆 Week 6 DIGITAL EXCLUSIVE",
+      "link": "https://foxsports.com/watch/fmc-bmw9bgq5h8tdjl73",
+      "source": "FOX Sports",
+      "ts": 1760285760.0,
+      "published_iso": "2025-10-12T16:16:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-baltimore-ravens-how-to-watch-listen-to-and-live-stream-week-6-2025",
+      "title": "Los Angeles Rams at Baltimore Ravens: How to watch, listen to and live stream Week 6",
+      "link": "https://therams.com/news/los-angeles-rams-at-baltimore-ravens-how-to-watch-listen-to-and-live-stream-week-6-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1759917720.0,
+      "published_iso": "2025-10-08T10:02:00+00:00"
+    }
+  ]
 }
