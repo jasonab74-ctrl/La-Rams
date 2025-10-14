@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-14T09:10:09.455025+00:00",
-  "count": 2,
+  "updated_iso": "2025-10-14T09:38:47.225223+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-latimes-com-sports-rams-live-rams-baltimore-ravens-live-updates-watch-start-time-score-highlights-odds",
@@ -17,6 +17,14 @@
       "source": "CBS Sports",
       "ts": 1759446600.0,
       "published_iso": "2025-10-02T23:10:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
+      "title": "Los Angeles Rams and legendary artist Mister Cartoon drop \"LA Bold\" Collection celebrating Los Angeles culture",
+      "link": "https://therams.com/news/rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1759397160.0,
+      "published_iso": "2025-10-02T09:26:00+00:00"
     }
   ]
 }
