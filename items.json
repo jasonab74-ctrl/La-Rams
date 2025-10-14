@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-10-14T05:37:25.671670+00:00",
+  "updated_iso": "2025-10-14T06:14:31.849307+00:00",
   "count": 3,
   "items": [
-    {
-      "id": "https-si-com-betting-rams-vs-jaguars-prediction-odds-spread-injuries-trends-for-nfl-week-7-01k7fynp7mdp",
-      "title": "Rams vs. Jaguars Prediction, Odds, Spread, Injuries, Trends for NFL Week 7",
-      "link": "https://si.com/betting/rams-vs-jaguars-prediction-odds-spread-injuries-trends-for-nfl-week-7-01k7fynp7mdp",
-      "source": "Sports Illustrated",
-      "ts": 1760389740.0,
-      "published_iso": "2025-10-13T21:09:00+00:00"
-    },
     {
       "id": "https-latimes-com-sports-rams-live-rams-baltimore-ravens-live-updates-watch-start-time-score-highlights-odds",
       "title": "Rams’ defense paves the way for road win over Baltimore Ravens",
@@ -25,6 +17,14 @@
       "source": "CBS Sports",
       "ts": 1759446600.0,
       "published_iso": "2025-10-02T23:10:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
+      "title": "Los Angeles Rams and legendary artist Mister Cartoon drop \"LA Bold\" Collection celebrating Los Angeles culture",
+      "link": "https://therams.com/news/rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1759397160.0,
+      "published_iso": "2025-10-02T09:26:00+00:00"
     }
   ]
 }
