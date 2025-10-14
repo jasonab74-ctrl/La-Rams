@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-14T04:39:27.355556+00:00",
-  "count": 2,
+  "updated_iso": "2025-10-14T05:08:50.966826+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-si-com-betting-rams-vs-jaguars-prediction-odds-spread-injuries-trends-for-nfl-week-7-01k7fynp7mdp",
@@ -17,6 +17,22 @@
       "source": "LA Times",
       "ts": 1760295000.0,
       "published_iso": "2025-10-12T18:50:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
+      "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
+      "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
+      "source": "CBS Sports",
+      "ts": 1759446600.0,
+      "published_iso": "2025-10-02T23:10:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
+      "title": "Los Angeles Rams and legendary artist Mister Cartoon drop \"LA Bold\" Collection celebrating Los Angeles culture",
+      "link": "https://therams.com/news/rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1759397160.0,
+      "published_iso": "2025-10-02T09:26:00+00:00"
     }
   ]
 }
