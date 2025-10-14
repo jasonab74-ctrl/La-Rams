@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-14T18:45:23.143524+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-14T19:02:37.650971+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-therams-com-news-larrell-murchison-defense-baltimore-teammates-excel-sides-ball-rams-revealed-episode-139",
@@ -17,14 +17,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1760428920.0,
       "published_iso": "2025-10-14T08:02:00+00:00"
-    },
-    {
-      "id": "https-latimes-com-sports-rams-live-rams-baltimore-ravens-live-updates-watch-start-time-score-highlights-odds",
-      "title": "Rams’ defense paves the way for road win over Baltimore Ravens",
-      "link": "https://latimes.com/sports/rams/live/rams-baltimore-ravens-live-updates-watch-start-time-score-highlights-odds",
-      "source": "LA Times",
-      "ts": 1760295000.0,
-      "published_iso": "2025-10-12T18:50:00+00:00"
     }
   ]
 }
