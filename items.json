@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-10-14T11:07:53.870499+00:00",
+  "updated_iso": "2025-10-14T11:31:27.614039+00:00",
   "count": 2,
   "items": [
-    {
-      "id": "https-cbssports-com-nfl-news-nfl-week-7-picks-score-predictions-bengals-shock-steelers-rams-top-jaguars-london",
-      "title": "NFL Week 7 picks and score predictions: Bengals shock Steelers, Rams top Jaguars in London",
-      "link": "https://cbssports.com/nfl/news/nfl-week-7-picks-score-predictions-bengals-shock-steelers-rams-top-jaguars-london/",
-      "source": "CBS Sports",
-      "ts": 1760413740.0,
-      "published_iso": "2025-10-14T03:49:00+00:00"
-    },
     {
       "id": "https-latimes-com-sports-rams-live-rams-baltimore-ravens-live-updates-watch-start-time-score-highlights-odds",
       "title": "Rams’ defense paves the way for road win over Baltimore Ravens",
@@ -17,6 +9,14 @@
       "source": "LA Times",
       "ts": 1760295000.0,
       "published_iso": "2025-10-12T18:50:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
+      "title": "Los Angeles Rams and legendary artist Mister Cartoon drop \"LA Bold\" Collection celebrating Los Angeles culture",
+      "link": "https://therams.com/news/rams-mister-cartoon-la-bold-collection-celebrating-los-angeles-culture",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1759397160.0,
+      "published_iso": "2025-10-02T09:26:00+00:00"
     }
   ]
 }
