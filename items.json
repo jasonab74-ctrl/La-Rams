@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-15T19:31:25.139710+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-15T20:10:24.066292+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-therams-com-news-los-angeles-rams-at-jacksonville-jaguars-how-to-watch-listen-to-and-live-stream-week-7-london-gam",
@@ -17,14 +17,6 @@
       "source": "NFL.com",
       "ts": 1760528040.0,
       "published_iso": "2025-10-15T11:34:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-puka-nacuas-week-7-outlook-182005117-html",
-      "title": "Puka Nacua's Week 7 outlook for Rams gets troubling update amid ankle injury",
-      "link": "https://sports.yahoo.com/article/puka-nacuas-week-7-outlook-182005117.html",
-      "source": "Yahoo Sports",
-      "ts": 1760527920.0,
-      "published_iso": "2025-10-15T11:32:00+00:00"
     }
   ]
 }
