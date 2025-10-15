@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-15T12:18:28.868869+00:00",
-  "count": 2,
+  "updated_iso": "2025-10-15T13:04:02.261970+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-therams-com-news-rams-los-angeles-regional-food-bank-host-10th-annual-taste-of-rams-2025",
@@ -9,14 +9,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1760428920.0,
       "published_iso": "2025-10-14T08:02:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
-      "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
-      "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
-      "source": "CBS Sports",
-      "ts": 1759446600.0,
-      "published_iso": "2025-10-02T23:10:00+00:00"
     }
   ]
 }
