@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-10-16T20:10:00.290944+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-16T20:37:41.089309+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-bold-predictions-week-7-192422394-html",
+      "title": "Rams bold predictions for Week 7 NFL London game vs. Jaguars",
+      "link": "https://sports.yahoo.com/article/rams-bold-predictions-week-7-192422394.html",
+      "source": "Yahoo Sports",
+      "ts": 1760621520.0,
+      "published_iso": "2025-10-16T13:32:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-rams-puka-nacua-status-uncertain-192015475-html",
+      "title": "Rams' Puka Nacua status uncertain for Sunday's game vs. Jaguars",
+      "link": "https://sports.yahoo.com/article/rams-puka-nacua-status-uncertain-192015475.html",
+      "source": "Yahoo Sports",
+      "ts": 1760618520.0,
+      "published_iso": "2025-10-16T12:42:00+00:00"
+    },
     {
       "id": "https-latimes-com-00000199-ee65-d2ee-a99b-ee7764620000-123",
       "title": "Rams practice at Camden Yards before heading to London to play the Jaguars",
@@ -17,14 +33,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1760545740.0,
       "published_iso": "2025-10-15T16:29:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-at-jacksonville-jaguars-how-to-watch-listen-to-and-live-stream-week-7-london-gam",
-      "title": "Los Angeles Rams at Jacksonville Jaguars: How to watch, listen to and live stream Week 7's London game",
-      "link": "https://therams.com/news/los-angeles-rams-at-jacksonville-jaguars-how-to-watch-listen-to-and-live-stream-week-7-london-game",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1760528100.0,
-      "published_iso": "2025-10-15T11:35:00+00:00"
     }
   ]
 }
