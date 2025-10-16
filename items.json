@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2025-10-16T21:30:37.995794+00:00",
-  "count": 1,
+  "updated_iso": "2025-10-16T22:02:48.650658+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-rams-puka-nacua-status-uncertain-192015475-html",
-      "title": "Rams' Puka Nacua status uncertain for Sunday's game vs. Jaguars",
-      "link": "https://sports.yahoo.com/article/rams-puka-nacua-status-uncertain-192015475.html",
+      "id": "https-sports-yahoo-com-article-rams-bold-predictions-week-7-192422394-html",
+      "title": "Rams bold predictions for Week 7 NFL London game vs. Jaguars",
+      "link": "https://sports.yahoo.com/article/rams-bold-predictions-week-7-192422394.html",
       "source": "Yahoo Sports",
-      "ts": 1760618520.0,
-      "published_iso": "2025-10-16T12:42:00+00:00"
+      "ts": 1760621520.0,
+      "published_iso": "2025-10-16T13:32:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-celebrate-culture-community-latino-heritage-month-2025",
+      "title": "Los Angeles Rams celebrate culture & community with Latino Heritage Month",
+      "link": "https://therams.com/news/los-angeles-rams-celebrate-culture-community-latino-heritage-month-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1760545740.0,
+      "published_iso": "2025-10-15T16:29:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-los-angeles-regional-food-bank-host-10th-annual-taste-of-rams-2025",
+      "title": "Rams & Los Angeles Regional Food Bank to host 10th annual Taste Of The Rams",
+      "link": "https://therams.com/news/rams-los-angeles-regional-food-bank-host-10th-annual-taste-of-rams-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1760428920.0,
+      "published_iso": "2025-10-14T08:02:00+00:00"
     }
   ]
 }
