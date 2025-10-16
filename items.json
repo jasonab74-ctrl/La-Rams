@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-16T11:07:53.260991+00:00",
-  "count": 1,
+  "updated_iso": "2025-10-16T11:31:59.959261+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-therams-com-news-los-angeles-rams-celebrate-culture-community-latino-heritage-month-2025",
@@ -9,6 +9,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1760545740.0,
       "published_iso": "2025-10-15T16:29:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
+      "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
+      "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
+      "source": "CBS Sports",
+      "ts": 1759446600.0,
+      "published_iso": "2025-10-02T23:10:00+00:00"
     }
   ]
 }
