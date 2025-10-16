@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-16T16:43:22.264836+00:00",
-  "count": 2,
+  "updated_iso": "2025-10-16T17:08:16.062536+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-nfl-analyst-says-keep-close-164337967-html",
+      "title": "NFL analyst says to 'keep a close eye' on Rams for this position at the trade deadline",
+      "link": "https://sports.yahoo.com/article/nfl-analyst-says-keep-close-164337967.html",
+      "source": "Yahoo Sports",
+      "ts": 1760608680.0,
+      "published_iso": "2025-10-16T09:58:00+00:00"
+    },
     {
       "id": "https-cbssports-com-nfl-news-nfl-survivor-pool-picks-strategy-guide-advice-week-7-2025",
       "title": "NFL football knockout, survivor pool picks, advice, strategy for Week 7, 2025: Avoid the Los Angeles Rams",
