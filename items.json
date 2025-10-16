@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2025-10-16T02:18:17.024494+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-16T03:14:40.267667+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-nfl-com-videos-rapoport-rams-wr-puka-nacua-ankle-expected-to-miss-week-7-game-vs-jaguars-the-insiders",
-      "title": "Rapoport: Rams WR Puka Nacua (ankle) expected to miss Week 7 game vs. Jaguars | 'The Insiders'",
-      "link": "https://nfl.com/videos/rapoport-rams-wr-puka-nacua-ankle-expected-to-miss-week-7-game-vs-jaguars-the-insiders",
-      "source": "NFL.com",
-      "ts": 1760548140.0,
-      "published_iso": "2025-10-15T17:09:00+00:00"
+      "id": "https-sports-yahoo-com-article-la-rams-matthew-stafford-another-234348865-html",
+      "title": "LA Rams give Matthew Stafford another dynamic weapon, and a developmental successor in latest 7-round 2026 NFL mock draft",
+      "link": "https://sports.yahoo.com/article/la-rams-matthew-stafford-another-234348865.html",
+      "source": "Yahoo Sports",
+      "ts": 1760558460.0,
+      "published_iso": "2025-10-15T20:01:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-celebrate-culture-community-latino-heritage-month-2025",
@@ -25,6 +25,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1760528100.0,
       "published_iso": "2025-10-15T11:35:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
+      "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
+      "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
+      "source": "CBS Sports",
+      "ts": 1759446600.0,
+      "published_iso": "2025-10-02T23:10:00+00:00"
     }
   ]
 }
