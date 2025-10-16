@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-10-16T03:14:40.267667+00:00",
-  "count": 4,
+  "updated_iso": "2025-10-16T03:47:27.081477+00:00",
+  "count": 2,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-article-la-rams-matthew-stafford-another-234348865-html",
-      "title": "LA Rams give Matthew Stafford another dynamic weapon, and a developmental successor in latest 7-round 2026 NFL mock draft",
-      "link": "https://sports.yahoo.com/article/la-rams-matthew-stafford-another-234348865.html",
-      "source": "Yahoo Sports",
-      "ts": 1760558460.0,
-      "published_iso": "2025-10-15T20:01:00+00:00"
-    },
     {
       "id": "https-therams-com-news-los-angeles-rams-celebrate-culture-community-latino-heritage-month-2025",
       "title": "Los Angeles Rams celebrate culture & community with Latino Heritage Month",
@@ -25,14 +17,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1760528100.0,
       "published_iso": "2025-10-15T11:35:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
-      "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
-      "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
-      "source": "CBS Sports",
-      "ts": 1759446600.0,
-      "published_iso": "2025-10-02T23:10:00+00:00"
     }
   ]
 }
