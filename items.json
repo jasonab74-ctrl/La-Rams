@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2025-10-17T21:07:49.157453+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-10-17T21:31:33.319560+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-therams-com-news-rams-jaguars-tangle-across-pond-week-7-game-preview-london-wembly-stadium",
+      "title": "Rams & Jaguars tangle across the pond in Week 7 | Game Preview",
+      "link": "https://therams.com/news/rams-jaguars-tangle-across-pond-week-7-game-preview-london-wembly-stadium",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1760697600.0,
+      "published_iso": "2025-10-17T10:40:00+00:00"
+    }
+  ]
 }
