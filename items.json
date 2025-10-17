@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-17T17:07:42.719674+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-17T17:35:03.405222+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-rams-ruled-wr-puka-nacua-160736798-html",
@@ -11,20 +11,12 @@
       "published_iso": "2025-10-17T09:28:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-article-puka-nacua-injury-rams-decision-152707117-html",
-      "title": "Puka Nacua injury update: Rams make decision on star wide receiver for Week 7",
-      "link": "https://sports.yahoo.com/article/puka-nacua-injury-rams-decision-152707117.html",
+      "id": "https-sports-yahoo-com-article-rams-wr-depth-chart-spotlight-153355412-html",
+      "title": "Rams' WR depth chart in spotlight with Puka Nacua injury news",
+      "link": "https://sports.yahoo.com/article/rams-wr-depth-chart-spotlight-153355412.html",
       "source": "Yahoo Sports",
-      "ts": 1760691360.0,
-      "published_iso": "2025-10-17T08:56:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-celebrate-culture-community-latino-heritage-month-2025",
-      "title": "Los Angeles Rams celebrate culture & community with Latino Heritage Month",
-      "link": "https://therams.com/news/los-angeles-rams-celebrate-culture-community-latino-heritage-month-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1760545740.0,
-      "published_iso": "2025-10-15T16:29:00+00:00"
+      "ts": 1760691840.0,
+      "published_iso": "2025-10-17T09:04:00+00:00"
     }
   ]
 }
