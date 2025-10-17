@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-17T11:31:22.765653+00:00",
-  "count": 2,
+  "updated_iso": "2025-10-17T12:16:50.154594+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-jaguars-eye-return-center-robert-115538624-html",
+      "title": "Jaguars eye return of center Robert Hainsey for Wembley game against Rams",
+      "link": "https://sports.yahoo.com/article/jaguars-eye-return-center-robert-115538624.html",
+      "source": "Yahoo Sports",
+      "ts": 1760677140.0,
+      "published_iso": "2025-10-17T04:59:00+00:00"
+    },
     {
       "id": "https-therams-com-news-los-angeles-rams-celebrate-culture-community-latino-heritage-month-2025",
       "title": "Los Angeles Rams celebrate culture & community with Latino Heritage Month",
