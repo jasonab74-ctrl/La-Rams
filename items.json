@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-10-17T07:33:52.338987+00:00",
-  "count": 2,
+  "updated_iso": "2025-10-17T08:13:20.565536+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-4-star-michigan-edge-recruit-020802102-html",
+      "title": "4-Star Michigan EDGE Recruit Draws Comparison to LA Rams Defender, Wolverines National Champ",
+      "link": "https://sports.yahoo.com/article/4-star-michigan-edge-recruit-020802102.html",
+      "source": "Yahoo Sports",
+      "ts": 1760653800.0,
+      "published_iso": "2025-10-16T22:30:00+00:00"
+    },
+    {
+      "id": "https-therams-com-audio-between-the-horns-episode-229-rams-jaguars-matthew-stafford-davante-adams-chemistry-terrance-fer",
+      "title": "Ep. 229: Rams-Jaguars preview, Matthew Stafford & Davante Adams' chemistry & incorporating Terrance Ferguson on offense",
+      "link": "https://therams.com/audio/between-the-horns-episode-229-rams-jaguars-matthew-stafford-davante-adams-chemistry-terrance-ferguson",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1760640480.0,
+      "published_iso": "2025-10-16T18:48:00+00:00"
+    },
     {
       "id": "https-therams-com-news-los-angeles-rams-celebrate-culture-community-latino-heritage-month-2025",
       "title": "Los Angeles Rams celebrate culture & community with Latino Heritage Month",
@@ -9,14 +25,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1760545740.0,
       "published_iso": "2025-10-15T16:29:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-los-angeles-regional-food-bank-host-10th-annual-taste-of-rams-2025",
-      "title": "Rams & Los Angeles Regional Food Bank to host 10th annual Taste Of The Rams",
-      "link": "https://therams.com/news/rams-los-angeles-regional-food-bank-host-10th-annual-taste-of-rams-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1760428920.0,
-      "published_iso": "2025-10-14T08:02:00+00:00"
     }
   ]
 }
