@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-10-17T22:35:50.744720+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-17T23:07:43.739139+00:00",
+  "count": 1,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-article-rams-vs-jaguars-props-best-205600994-html",
-      "title": "Rams vs Jaguars Props & Best Bets for Week 7",
-      "link": "https://sports.yahoo.com/article/rams-vs-jaguars-props-best-205600994.html",
-      "source": "Yahoo Sports",
-      "ts": 1760713980.0,
-      "published_iso": "2025-10-17T15:13:00+00:00"
-    },
     {
       "id": "https-therams-com-news-rams-jaguars-tangle-across-pond-week-7-game-preview-london-wembly-stadium",
       "title": "Rams & Jaguars tangle across the pond in Week 7 | Game Preview",
@@ -17,14 +9,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1760697600.0,
       "published_iso": "2025-10-17T10:40:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-celebrate-culture-community-latino-heritage-month-2025",
-      "title": "Los Angeles Rams celebrate culture & community with Latino Heritage Month",
-      "link": "https://therams.com/news/los-angeles-rams-celebrate-culture-community-latino-heritage-month-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1760545740.0,
-      "published_iso": "2025-10-15T16:29:00+00:00"
     }
   ]
 }
