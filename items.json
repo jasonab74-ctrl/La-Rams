@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-17T02:17:21.942161+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-17T03:12:34.625617+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-therams-com-audio-between-the-horns-episode-229-rams-jaguars-matthew-stafford-davante-adams-chemistry-terrance-fer",
@@ -17,14 +17,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1760545740.0,
       "published_iso": "2025-10-15T16:29:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
-      "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
-      "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
-      "source": "CBS Sports",
-      "ts": 1759446600.0,
-      "published_iso": "2025-10-02T23:10:00+00:00"
     }
   ]
 }
