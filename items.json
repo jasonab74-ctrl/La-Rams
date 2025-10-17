@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-10-17T18:42:51.138444+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-10-17T19:06:46.990393+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-cbssports-com-nfl-news-rams-have-unusual-travel-plan-for-london-game",
+      "title": "Rams have an unusual travel plan for London game that no NFL team has ever attempted",
+      "link": "https://cbssports.com/nfl/news/rams-have-unusual-travel-plan-for-london-game/",
+      "source": "CBS Sports",
+      "ts": 1760701860.0,
+      "published_iso": "2025-10-17T11:51:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-jaguars-tangle-across-pond-week-7-game-preview-london-wembly-stadium",
+      "title": "Rams & Jaguars tangle across the pond in Week 7 | Game Preview",
+      "link": "https://therams.com/news/rams-jaguars-tangle-across-pond-week-7-game-preview-london-wembly-stadium",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1760697600.0,
+      "published_iso": "2025-10-17T10:40:00+00:00"
+    }
+  ]
 }
