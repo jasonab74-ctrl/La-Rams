@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-18T20:33:53.782027+00:00",
-  "count": 4,
+  "updated_iso": "2025-10-18T21:06:02.856978+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-trevor-lawrence-picks-predictions-best-175100448-html",
@@ -25,14 +25,6 @@
       "source": "NFL.com",
       "ts": 1760706360.0,
       "published_iso": "2025-10-17T13:06:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-celebrate-culture-community-latino-heritage-month-2025",
-      "title": "Los Angeles Rams celebrate culture & community with Latino Heritage Month",
-      "link": "https://therams.com/news/los-angeles-rams-celebrate-culture-community-latino-heritage-month-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1760545740.0,
-      "published_iso": "2025-10-15T16:29:00+00:00"
     }
   ]
 }
