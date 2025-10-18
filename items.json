@@ -1,23 +1,7 @@
 {
-  "updated_iso": "2025-10-18T07:31:26.938120+00:00",
-  "count": 4,
+  "updated_iso": "2025-10-18T08:10:56.644944+00:00",
+  "count": 3,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-article-rams-vs-jaguars-watch-tv-033756300-html",
-      "title": "Rams vs Jaguars: How to watch on TV, stream or listen on radio",
-      "link": "https://sports.yahoo.com/article/rams-vs-jaguars-watch-tv-033756300.html",
-      "source": "Yahoo Sports",
-      "ts": 1760741280.0,
-      "published_iso": "2025-10-17T22:48:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-videos-jourdan-lewis-on-jags-london-adjustments-and-game-plan-vs-rams-the-insiders",
-      "title": "Jourdan Lewis on Jaguars' London adjustments and game plan vs. Rams | 'The Insiders'",
-      "link": "https://nfl.com/videos/jourdan-lewis-on-jags-london-adjustments-and-game-plan-vs-rams-the-insiders",
-      "source": "NFL.com",
-      "ts": 1760724060.0,
-      "published_iso": "2025-10-17T18:01:00+00:00"
-    },
     {
       "id": "https-nfl-com-news-rams-vs-jaguars-three-must-know-storylines-london-game-week-7",
       "title": "Rams vs. Jaguars: Three must-know storylines for London game on Sunday",
@@ -33,6 +17,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1760697600.0,
       "published_iso": "2025-10-17T10:40:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-celebrate-culture-community-latino-heritage-month-2025",
+      "title": "Los Angeles Rams celebrate culture & community with Latino Heritage Month",
+      "link": "https://therams.com/news/los-angeles-rams-celebrate-culture-community-latino-heritage-month-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1760545740.0,
+      "published_iso": "2025-10-15T16:29:00+00:00"
     }
   ]
 }
