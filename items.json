@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2025-10-18T11:02:56.120382+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-10-18T11:31:19.689783+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-article-sean-mcvay-les-sneads-nfl-110000156-html",
+      "title": "Sean McVay and Les Snead's NFL influence will be on full display in Rams vs. Jaguars",
+      "link": "https://sports.yahoo.com/article/sean-mcvay-les-sneads-nfl-110000156.html",
+      "source": "Yahoo Sports",
+      "ts": 1760760960.0,
+      "published_iso": "2025-10-18T04:16:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-rams-jaguars-prediction-odds-time-how-to-watch-2025-week-7-nfl-london-game-picks",
+      "title": "Rams vs. Jaguars prediction, odds, time, how to watch: 2025 Week 7 NFL London Game picks from proven model",
+      "link": "https://cbssports.com/nfl/news/rams-jaguars-prediction-odds-time-how-to-watch-2025-week-7-nfl-london-game-picks/",
+      "source": "CBS Sports",
+      "ts": 1760760120.0,
+      "published_iso": "2025-10-18T04:02:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-news-rams-vs-jaguars-three-must-know-storylines-london-game-week-7",
+      "title": "Rams vs. Jaguars: Three must-know storylines for London game on Sunday",
+      "link": "https://nfl.com/news/rams-vs-jaguars-three-must-know-storylines-london-game-week-7",
+      "source": "NFL.com",
+      "ts": 1760706360.0,
+      "published_iso": "2025-10-17T13:06:00+00:00"
+    }
+  ]
 }
