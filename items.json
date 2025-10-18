@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-10-18T05:36:07.554975+00:00",
-  "count": 2,
+  "updated_iso": "2025-10-18T06:12:04.680084+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-nfl-com-videos-jourdan-lewis-on-jags-london-adjustments-and-game-plan-vs-rams-the-insiders",
-      "title": "Jourdan Lewis on Jaguars' London adjustments and game plan vs. Rams | 'The Insiders'",
-      "link": "https://nfl.com/videos/jourdan-lewis-on-jags-london-adjustments-and-game-plan-vs-rams-the-insiders",
+      "id": "https-nfl-com-news-rams-vs-jaguars-three-must-know-storylines-london-game-week-7",
+      "title": "Rams vs. Jaguars: Three must-know storylines for London game on Sunday",
+      "link": "https://nfl.com/news/rams-vs-jaguars-three-must-know-storylines-london-game-week-7",
       "source": "NFL.com",
-      "ts": 1760724060.0,
-      "published_iso": "2025-10-17T18:01:00+00:00"
+      "ts": 1760706360.0,
+      "published_iso": "2025-10-17T13:06:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-jaguars-tangle-across-pond-week-7-game-preview-london-wembly-stadium",
+      "title": "Rams & Jaguars tangle across the pond in Week 7 | Game Preview",
+      "link": "https://therams.com/news/rams-jaguars-tangle-across-pond-week-7-game-preview-london-wembly-stadium",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1760697600.0,
+      "published_iso": "2025-10-17T10:40:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-celebrate-culture-community-latino-heritage-month-2025",
