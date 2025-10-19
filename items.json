@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2025-10-19T16:09:04.098985+00:00",
-  "count": 5,
+  "updated_iso": "2025-10-19T16:39:35.774650+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-latimes-com-sports-rams-live-rams-vs-jaguars-live-updates-watch-start-time-score-highlights-odds",
-      "title": "Rams vs. Jaguars live updates: L.A. holds commanding lead in fourth quarter",
-      "link": "https://latimes.com/sports/rams/live/rams-vs-jaguars-live-updates-watch-start-time-score-highlights-odds",
-      "source": "LA Times",
-      "ts": 1760864820.0,
-      "published_iso": "2025-10-19T09:07:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-jaguars-jourdan-lewis-injured-during-150950342-html",
-      "title": "Jaguars' Jourdan Lewis injured during first half vs. Los Angeles Rams",
-      "link": "https://sports.yahoo.com/article/jaguars-jourdan-lewis-injured-during-150950342.html",
-      "source": "Yahoo Sports",
-      "ts": 1760862180.0,
-      "published_iso": "2025-10-19T08:23:00+00:00"
+      "id": "https-nfl-com-videos-lawrence-s-39-yard-launch-to-brown-marks-longest-play-of-rams-jags-game-so-far",
+      "title": "Lawrence's 39-yard launch to Brown marks longest play of Rams-Jags game so far",
+      "link": "https://nfl.com/videos/lawrence-s-39-yard-launch-to-brown-marks-longest-play-of-rams-jags-game-so-far",
+      "source": "NFL.com",
+      "ts": 1760866440.0,
+      "published_iso": "2025-10-19T09:34:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-jaguars-vs-rams-live-updates-score-highlights-game-london-live",
@@ -27,12 +19,12 @@
       "published_iso": "2025-10-19T08:08:00+00:00"
     },
     {
-      "id": "https-therams-com-video-rams-jared-verse-fourth-sack-2025-first-play-jaguars-trevor-lawrence",
-      "title": "HIGHLIGHTS: Rams OLB Jared Verse's fourth sack of 2025 occurs on first play against Jaguars QB Trevor Lawrence",
-      "link": "https://therams.com/video/rams-jared-verse-fourth-sack-2025-first-play-jaguars-trevor-lawrence",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1760859540.0,
-      "published_iso": "2025-10-19T07:39:00+00:00"
+      "id": "https-nfl-com-videos-stafford-s-fade-route-td-pass-to-adams-boosts-rams-lead-to-13-0-vs-jags",
+      "title": "Stafford's fade-route TD pass to Adams boosts Rams' lead to 13-0 vs. Jags",
+      "link": "https://nfl.com/videos/stafford-s-fade-route-td-pass-to-adams-boosts-rams-lead-to-13-0-vs-jags",
+      "source": "NFL.com",
+      "ts": 1760859240.0,
+      "published_iso": "2025-10-19T07:34:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-nfl-live-rams-vs-jaguars-in-london-inactives-news-live-updates-as-los-angeles-seeks-5-2-start-and",
