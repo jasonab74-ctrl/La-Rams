@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-19T22:07:43.379069+00:00",
-  "count": 1,
+  "updated_iso": "2025-10-19T22:36:06.800477+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-10-19-rams-matthew-stafford-highlights-jaguars-86791369007",
@@ -9,6 +9,14 @@
       "source": "Rams Wire",
       "ts": 1760880660.0,
       "published_iso": "2025-10-19T13:31:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-jaguars-jourdan-lewis-injured-during-150950342-html",
+      "title": "Jaguars' Jourdan Lewis injured during first half vs. Los Angeles Rams",
+      "link": "https://sports.yahoo.com/article/jaguars-jourdan-lewis-injured-during-150950342.html",
+      "source": "Yahoo Sports",
+      "ts": 1760862180.0,
+      "published_iso": "2025-10-19T08:23:00+00:00"
     }
   ]
 }
