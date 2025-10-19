@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2025-10-19T07:07:44.851555+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-10-19T07:31:18.017695+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-nfl-com-news-rams-vs-jaguars-three-must-know-storylines-london-game-week-7",
+      "title": "Rams vs. Jaguars: Three must-know storylines for London game on Sunday",
+      "link": "https://nfl.com/news/rams-vs-jaguars-three-must-know-storylines-london-game-week-7",
+      "source": "NFL.com",
+      "ts": 1760706360.0,
+      "published_iso": "2025-10-17T13:06:00+00:00"
+    }
+  ]
 }
