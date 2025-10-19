@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-10-19T14:34:12.953409+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-19T15:07:22.418246+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-therams-com-video-rams-konata-mumpfield-first-career-touchdown-jaguars-in-london",
-      "title": "HIGHLIGHTS: Rams WR Konata Mumpfield with his first career touchdown against the Jaguars",
-      "link": "https://therams.com/video/rams-konata-mumpfield-first-career-touchdown-jaguars-in-london",
+      "id": "https-nfl-com-videos-stafford-s-fourth-down-throw-to-williams-leads-to-rams-conversion",
+      "title": "Stafford's fourth-down throw to Williams leads to Rams conversion",
+      "link": "https://nfl.com/videos/stafford-s-fourth-down-throw-to-williams-leads-to-rams-conversion",
+      "source": "NFL.com",
+      "ts": 1760860080.0,
+      "published_iso": "2025-10-19T07:48:00+00:00"
+    },
+    {
+      "id": "https-therams-com-video-rams-jared-verse-fourth-sack-2025-first-play-jaguars-trevor-lawrence",
+      "title": "HIGHLIGHTS: Rams OLB Jared Verse's fourth sack of 2025 occurs on first play against Jaguars QB Trevor Lawrence",
+      "link": "https://therams.com/video/rams-jared-verse-fourth-sack-2025-first-play-jaguars-trevor-lawrence",
       "source": "Los Angeles Rams (Official)",
-      "ts": 1760858280.0,
-      "published_iso": "2025-10-19T07:18:00+00:00"
+      "ts": 1760859540.0,
+      "published_iso": "2025-10-19T07:39:00+00:00"
     },
     {
       "id": "https-latimes-com-sports-rams-live-rams-vs-jaguars-live-updates-watch-start-time-score-highlights-odds",
