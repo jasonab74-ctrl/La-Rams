@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-10-19T11:31:01.330538+00:00",
-  "count": 1,
+  "updated_iso": "2025-10-19T12:14:56.417280+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-rams-jaguars-announcers-nfl-network-111004447-html",
-      "title": "Rams-Jaguars announcers on NFL Network: Who's calling London game?",
-      "link": "https://sports.yahoo.com/article/rams-jaguars-announcers-nfl-network-111004447.html",
+      "id": "https-sports-yahoo-com-article-wr-puka-nacua-leads-list-120612357-html",
+      "title": "WR Puka Nacua leads list of Rams' inactives vs. Jaguars in Week 7",
+      "link": "https://sports.yahoo.com/article/wr-puka-nacua-leads-list-120612357.html",
       "source": "Yahoo Sports",
-      "ts": 1760847900.0,
-      "published_iso": "2025-10-19T04:25:00+00:00"
+      "ts": 1760850660.0,
+      "published_iso": "2025-10-19T05:11:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-jaguars-vs-rams-live-updates-score-highlights-game-london-live",
+      "title": "Jaguars vs. Rams live updates: Score, analysis, highlights for game in London",
+      "link": "https://cbssports.com/nfl/news/jaguars-vs-rams-live-updates-score-highlights-game-london/live/",
+      "source": "CBS Sports",
+      "ts": 1760848800.0,
+      "published_iso": "2025-10-19T04:40:00+00:00"
     }
   ]
 }
