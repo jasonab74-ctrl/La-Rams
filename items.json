@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2025-10-19T17:06:46.829103+00:00",
+  "updated_iso": "2025-10-19T17:32:51.935802+00:00",
   "count": 5,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-5-takeaways-rams-week-7-170027333-html",
-      "title": "5 takeaways from Rams' Week 7 win over Jaguars",
-      "link": "https://sports.yahoo.com/article/5-takeaways-rams-week-7-170027333.html",
+      "id": "https-sports-yahoo-com-article-rams-throttle-jaguars-35-7-170855166-html",
+      "title": "Rams throttle Jaguars 35-7: Instant analysis of Week 7 win",
+      "link": "https://sports.yahoo.com/article/rams-throttle-jaguars-35-7-170855166.html",
       "source": "Yahoo Sports",
-      "ts": 1760868180.0,
-      "published_iso": "2025-10-19T10:03:00+00:00"
+      "ts": 1760869440.0,
+      "published_iso": "2025-10-19T10:24:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-jaguars-vs-rams-live-updates-score-highlights-game-london-live",
@@ -17,14 +17,6 @@
       "source": "CBS Sports",
       "ts": 1760868060.0,
       "published_iso": "2025-10-19T10:01:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-game-recap-fast-start-matthew-stafford-s-five-touchdown-passes-three-to-davante-adams-lift-rams-t",
-      "title": "Game Recap: Fast start, Matthew Stafford's five touchdown passes – three to Davante Adams – lift Rams to 35-7 win over Jaguars in London",
-      "link": "https://therams.com/news/game-recap-fast-start-matthew-stafford-s-five-touchdown-passes-three-to-davante-adams-lift-rams-to-35-7-win-over-jaguars-in-london",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1760867820.0,
-      "published_iso": "2025-10-19T09:57:00+00:00"
     },
     {
       "id": "https-latimes-com-sports-rams-live-rams-vs-jaguars-live-updates-watch-start-time-score-highlights-odds",
@@ -41,6 +33,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1760867520.0,
       "published_iso": "2025-10-19T09:52:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-jaguars-jourdan-lewis-injured-during-150950342-html",
+      "title": "Jaguars' Jourdan Lewis injured during first half vs. Los Angeles Rams",
+      "link": "https://sports.yahoo.com/article/jaguars-jourdan-lewis-injured-during-150950342.html",
+      "source": "Yahoo Sports",
+      "ts": 1760862180.0,
+      "published_iso": "2025-10-19T08:23:00+00:00"
     }
   ]
 }
