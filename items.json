@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-10-19T12:14:56.417280+00:00",
-  "count": 2,
+  "updated_iso": "2025-10-19T12:55:55.462134+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-wr-puka-nacua-leads-list-120612357-html",
-      "title": "WR Puka Nacua leads list of Rams' inactives vs. Jaguars in Week 7",
-      "link": "https://sports.yahoo.com/article/wr-puka-nacua-leads-list-120612357.html",
+      "id": "https-therams-com-news-rams-jaguars-inactives-week-7-2025-london-puka-nacua-rob-havestein-jarquez-hunter",
+      "title": "Puka Nacua, Rob Havenstein and Jarquez Hunter among Rams' inactives for Week 7 vs. Jaguars",
+      "link": "https://therams.com/news/rams-jaguars-inactives-week-7-2025-london-puka-nacua-rob-havestein-jarquez-hunter",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1760852880.0,
+      "published_iso": "2025-10-19T05:48:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-long-puka-nacua-latest-injury-121407040-html",
+      "title": "How long is Puka Nacua out? Latest injury update, return timeline for Rams WR",
+      "link": "https://sports.yahoo.com/article/long-puka-nacua-latest-injury-121407040.html",
       "source": "Yahoo Sports",
-      "ts": 1760850660.0,
-      "published_iso": "2025-10-19T05:11:00+00:00"
+      "ts": 1760851500.0,
+      "published_iso": "2025-10-19T05:25:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-jaguars-vs-rams-live-updates-score-highlights-game-london-live",
