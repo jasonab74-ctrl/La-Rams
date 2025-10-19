@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-10-19T17:32:51.935802+00:00",
-  "count": 5,
+  "updated_iso": "2025-10-19T18:11:02.186754+00:00",
+  "count": 2,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-article-rams-throttle-jaguars-35-7-170855166-html",
-      "title": "Rams throttle Jaguars 35-7: Instant analysis of Week 7 win",
-      "link": "https://sports.yahoo.com/article/rams-throttle-jaguars-35-7-170855166.html",
-      "source": "Yahoo Sports",
-      "ts": 1760869440.0,
-      "published_iso": "2025-10-19T10:24:00+00:00"
-    },
     {
       "id": "https-cbssports-com-nfl-news-jaguars-vs-rams-live-updates-score-highlights-game-london-live",
       "title": "Jaguars vs. Rams score: Matthew Stafford tosses 5 TD passes, three to Davante Adams, in rout of Jacksonville",
@@ -19,28 +11,12 @@
       "published_iso": "2025-10-19T10:01:00+00:00"
     },
     {
-      "id": "https-latimes-com-sports-rams-live-rams-vs-jaguars-live-updates-watch-start-time-score-highlights-odds",
-      "title": "Rams dominate from the start in blowout victory over Jaguars in London",
-      "link": "https://latimes.com/sports/rams/live/rams-vs-jaguars-live-updates-watch-start-time-score-highlights-odds",
-      "source": "LA Times",
-      "ts": 1760867640.0,
-      "published_iso": "2025-10-19T09:54:00+00:00"
-    },
-    {
       "id": "https-therams-com-video-rams-quentin-lake-corrals-jaguars-qb-trevor-lawrence-13-yard-sack",
       "title": "HIGHLIGHTS: Rams S Quentin Lake corrals Jaguars QB Trevor Lawrence for a 13-yard sack",
       "link": "https://therams.com/video/rams-quentin-lake-corrals-jaguars-qb-trevor-lawrence--13-yard-sack",
       "source": "Los Angeles Rams (Official)",
       "ts": 1760867520.0,
       "published_iso": "2025-10-19T09:52:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-jaguars-jourdan-lewis-injured-during-150950342-html",
-      "title": "Jaguars' Jourdan Lewis injured during first half vs. Los Angeles Rams",
-      "link": "https://sports.yahoo.com/article/jaguars-jourdan-lewis-injured-during-150950342.html",
-      "source": "Yahoo Sports",
-      "ts": 1760862180.0,
-      "published_iso": "2025-10-19T08:23:00+00:00"
     }
   ]
 }
