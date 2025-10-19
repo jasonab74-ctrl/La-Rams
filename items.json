@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-19T15:31:57.284188+00:00",
+  "updated_iso": "2025-10-19T16:09:04.098985+00:00",
   "count": 5,
   "items": [
+    {
+      "id": "https-latimes-com-sports-rams-live-rams-vs-jaguars-live-updates-watch-start-time-score-highlights-odds",
+      "title": "Rams vs. Jaguars live updates: L.A. holds commanding lead in fourth quarter",
+      "link": "https://latimes.com/sports/rams/live/rams-vs-jaguars-live-updates-watch-start-time-score-highlights-odds",
+      "source": "LA Times",
+      "ts": 1760864820.0,
+      "published_iso": "2025-10-19T09:07:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-article-jaguars-jourdan-lewis-injured-during-150950342-html",
       "title": "Jaguars' Jourdan Lewis injured during first half vs. Los Angeles Rams",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1760862180.0,
       "published_iso": "2025-10-19T08:23:00+00:00"
-    },
-    {
-      "id": "https-latimes-com-sports-rams-live-rams-vs-jaguars-live-updates-watch-start-time-score-highlights-odds",
-      "title": "Rams vs. Jaguars live updates: L.A. holds commanding lead in third quarter",
-      "link": "https://latimes.com/sports/rams/live/rams-vs-jaguars-live-updates-watch-start-time-score-highlights-odds",
-      "source": "LA Times",
-      "ts": 1760862000.0,
-      "published_iso": "2025-10-19T08:20:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-jaguars-vs-rams-live-updates-score-highlights-game-london-live",
