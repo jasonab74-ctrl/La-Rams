@@ -1,7 +1,31 @@
 {
-  "updated_iso": "2025-10-19T18:11:02.186754+00:00",
-  "count": 2,
+  "updated_iso": "2025-10-19T18:41:36.691098+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-therams-com-video-rams-top-plays-week-7-win-vs-jacksonville-jaguars-matthew-stafford-s-five-touchdowns-davante-ada",
+      "title": "HIGHLIGHTS: Rams top plays in Week 7 win over Jaguars",
+      "link": "https://therams.com/video/rams-top-plays-week-7-win-vs-jacksonville-jaguars-matthew-stafford-s-five-touchdowns-davante-adams-catches",
+      "source": "Matthew Stafford's five touchdowns & more",
+      "ts": 1760872620.0,
+      "published_iso": "2025-10-19T11:17:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-rams-qb-matthew-stafford-sets-165454390-html",
+      "title": "Rams QB Matthew Stafford sets international record with 5th TD vs. Jaguars",
+      "link": "https://sports.yahoo.com/article/rams-qb-matthew-stafford-sets-165454390.html",
+      "source": "Yahoo Sports",
+      "ts": 1760872380.0,
+      "published_iso": "2025-10-19T11:13:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-nfl-live-matthew-stafford-throws-5-td-passes-to-lead-rams-past-jaguars-as-travis-hunter-finds-end",
+      "title": "Matthew Stafford throws 5 TD passes to lead Rams past Jaguars as Travis Hunter finds end zone for 1st time in career",
+      "link": "https://sports.yahoo.com/nfl/live/matthew-stafford-throws-5-td-passes-to-lead-rams-past-jaguars-as-travis-hunter-finds-end-zone-for-1st-time-in-career-165031946.html",
+      "source": "Yahoo Sports",
+      "ts": 1760870880.0,
+      "published_iso": "2025-10-19T10:48:00+00:00"
+    },
     {
       "id": "https-cbssports-com-nfl-news-jaguars-vs-rams-live-updates-score-highlights-game-london-live",
       "title": "Jaguars vs. Rams score: Matthew Stafford tosses 5 TD passes, three to Davante Adams, in rout of Jacksonville",
@@ -9,14 +33,6 @@
       "source": "CBS Sports",
       "ts": 1760868060.0,
       "published_iso": "2025-10-19T10:01:00+00:00"
-    },
-    {
-      "id": "https-therams-com-video-rams-quentin-lake-corrals-jaguars-qb-trevor-lawrence-13-yard-sack",
-      "title": "HIGHLIGHTS: Rams S Quentin Lake corrals Jaguars QB Trevor Lawrence for a 13-yard sack",
-      "link": "https://therams.com/video/rams-quentin-lake-corrals-jaguars-qb-trevor-lawrence--13-yard-sack",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1760867520.0,
-      "published_iso": "2025-10-19T09:52:00+00:00"
     }
   ]
 }
