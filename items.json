@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2025-10-19T11:02:35.921554+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-10-19T11:31:01.330538+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-jaguars-announcers-nfl-network-111004447-html",
+      "title": "Rams-Jaguars announcers on NFL Network: Who's calling London game?",
+      "link": "https://sports.yahoo.com/article/rams-jaguars-announcers-nfl-network-111004447.html",
+      "source": "Yahoo Sports",
+      "ts": 1760847900.0,
+      "published_iso": "2025-10-19T04:25:00+00:00"
+    }
+  ]
 }
