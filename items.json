@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-10-19T14:05:21.153353+00:00",
-  "count": 2,
+  "updated_iso": "2025-10-19T14:34:12.953409+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-therams-com-video-rams-konata-mumpfield-first-career-touchdown-jaguars-in-london",
+      "title": "HIGHLIGHTS: Rams WR Konata Mumpfield with his first career touchdown against the Jaguars",
+      "link": "https://therams.com/video/rams-konata-mumpfield-first-career-touchdown-jaguars-in-london",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1760858280.0,
+      "published_iso": "2025-10-19T07:18:00+00:00"
+    },
+    {
+      "id": "https-latimes-com-sports-rams-live-rams-vs-jaguars-live-updates-watch-start-time-score-highlights-odds",
+      "title": "Rams vs. Jaguars live updates: L.A. leads in the second quarter",
+      "link": "https://latimes.com/sports/rams/live/rams-vs-jaguars-live-updates-watch-start-time-score-highlights-odds",
+      "source": "LA Times",
+      "ts": 1760858100.0,
+      "published_iso": "2025-10-19T07:15:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-nfl-live-rams-vs-jaguars-in-london-inactives-news-live-updates-as-los-angeles-seeks-5-2-start-and",
       "title": "Rams vs. Jaguars in London: Inactives, news, live updates as Los Angeles seeks 5-2 start and lead in NFC West without Puka Nacua",
@@ -9,14 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1760857200.0,
       "published_iso": "2025-10-19T07:00:00+00:00"
-    },
-    {
-      "id": "https-latimes-com-sports-rams-live-rams-vs-jaguars-live-updates-watch-start-time-score-highlights-odds",
-      "title": "Rams vs. Jaguars live updates: L.A. leads in the first quarter",
-      "link": "https://latimes.com/sports/rams/live/rams-vs-jaguars-live-updates-watch-start-time-score-highlights-odds",
-      "source": "LA Times",
-      "ts": 1760856840.0,
-      "published_iso": "2025-10-19T06:54:00+00:00"
     }
   ]
 }
