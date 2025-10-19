@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-10-19T20:35:22.335816+00:00",
-  "count": 1,
+  "updated_iso": "2025-10-19T21:07:21.788882+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-cbssports-com-nfl-news-jaguars-vs-rams-live-updates-score-highlights-game-london-live",
-      "title": "Jaguars vs. Rams score: Matthew Stafford tosses 5 TD passes, three to Davante Adams, in rout of Jacksonville",
-      "link": "https://cbssports.com/nfl/news/jaguars-vs-rams-live-updates-score-highlights-game-london/live/",
-      "source": "CBS Sports",
-      "ts": 1760868060.0,
-      "published_iso": "2025-10-19T10:01:00+00:00"
+      "id": "https-sports-yahoo-com-article-travis-hunter-wife-reacts-career-171308872-html",
+      "title": "Travis Hunter’s Wife Reacts to Career Development Amid Jaguars-Rams",
+      "link": "https://sports.yahoo.com/article/travis-hunter-wife-reacts-career-171308872.html",
+      "source": "Yahoo Sports",
+      "ts": 1760880780.0,
+      "published_iso": "2025-10-19T13:33:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-10-19-rams-matthew-stafford-highlights-jaguars-86791369007",
+      "title": "WATCH: Rams QB Matthew Stafford highlights from blowout win vs. Jaguars",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/10/19/rams-matthew-stafford-highlights-jaguars/86791369007/",
+      "source": "Rams Wire",
+      "ts": 1760880660.0,
+      "published_iso": "2025-10-19T13:31:00+00:00"
     }
   ]
 }
