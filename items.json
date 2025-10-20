@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-10-20T04:15:34.592080+00:00",
-  "count": 1,
+  "updated_iso": "2025-10-20T04:41:55.758066+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-jaguars-jourdan-lewis-injured-during-150950342-html",
-      "title": "Jaguars' Jourdan Lewis injured during first half vs. Los Angeles Rams",
-      "link": "https://sports.yahoo.com/article/jaguars-jourdan-lewis-injured-during-150950342.html",
+      "id": "https-sports-yahoo-com-article-rams-davante-adams-drops-mic-030948431-html",
+      "title": "Rams’ Davante Adams drops mic on Wembley hat trick",
+      "link": "https://sports.yahoo.com/article/rams-davante-adams-drops-mic-030948431.html",
       "source": "Yahoo Sports",
-      "ts": 1760862180.0,
-      "published_iso": "2025-10-19T08:23:00+00:00"
+      "ts": 1760908980.0,
+      "published_iso": "2025-10-19T21:23:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-game-recap-fast-start-matthew-stafford-s-five-touchdown-passes-three-to-davante-adams-lift-rams-t",
+      "title": "Game Recap: Fast start, Matthew Stafford's five touchdown passes – three to Davante Adams – lift Rams to 35-7 win over Jaguars in London",
+      "link": "https://therams.com/news/game-recap-fast-start-matthew-stafford-s-five-touchdown-passes-three-to-davante-adams-lift-rams-to-35-7-win-over-jaguars-in-london",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1760867820.0,
+      "published_iso": "2025-10-19T09:57:00+00:00"
     }
   ]
 }
