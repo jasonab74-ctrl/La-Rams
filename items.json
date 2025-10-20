@@ -1,38 +1,14 @@
 {
-  "updated_iso": "2025-10-20T14:08:07.373283+00:00",
-  "count": 4,
+  "updated_iso": "2025-10-20T14:40:18.624172+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-si-com-nfl-rams-los-angeles-jacksonville-jaguars-davante-adams-braden-fiske-sean-mcvay",
-      "title": "5 Winners From the Rams Victory Over Jaguars",
-      "link": "https://si.com/nfl/rams/los-angeles-jacksonville-jaguars-davante-adams-braden-fiske-sean-mcvay",
-      "source": "Sports Illustrated",
-      "ts": 1760942820.0,
-      "published_iso": "2025-10-20T06:47:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-did-falcons-loss-49ers-help-051247070-html",
-      "title": "How did Falcons loss to 49ers help the Rams draft order?",
-      "link": "https://sports.yahoo.com/article/did-falcons-loss-49ers-help-051247070.html",
+      "id": "https-sports-yahoo-com-article-sean-mcvay-drops-truth-bomb-060754433-html",
+      "title": "Sean McVay drops truth bomb on Rams’ rout of Jaguars without Puka Nacua",
+      "link": "https://sports.yahoo.com/article/sean-mcvay-drops-truth-bomb-060754433.html",
       "source": "Yahoo Sports",
-      "ts": 1760940120.0,
-      "published_iso": "2025-10-20T06:02:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-game-recap-fast-start-matthew-stafford-s-five-touchdown-passes-three-to-davante-adams-lift-rams-t",
-      "title": "Game Recap: Fast start, Matthew Stafford's five touchdown passes – three to Davante Adams – lift Rams to 35-7 win over Jaguars in London",
-      "link": "https://therams.com/news/game-recap-fast-start-matthew-stafford-s-five-touchdown-passes-three-to-davante-adams-lift-rams-to-35-7-win-over-jaguars-in-london",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1760867820.0,
-      "published_iso": "2025-10-19T09:57:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-jaguars-jourdan-lewis-injured-during-150950342-html",
-      "title": "Jaguars' Jourdan Lewis injured during first half vs. Los Angeles Rams",
-      "link": "https://sports.yahoo.com/article/jaguars-jourdan-lewis-injured-during-150950342.html",
-      "source": "Yahoo Sports",
-      "ts": 1760862180.0,
-      "published_iso": "2025-10-19T08:23:00+00:00"
+      "ts": 1760945280.0,
+      "published_iso": "2025-10-20T07:28:00+00:00"
     }
   ]
 }
