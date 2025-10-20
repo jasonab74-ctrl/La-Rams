@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-20T13:02:54.382540+00:00",
-  "count": 2,
+  "updated_iso": "2025-10-20T13:44:08.993556+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-did-falcons-loss-49ers-help-051247070-html",
+      "title": "How did Falcons loss to 49ers help the Rams draft order?",
+      "link": "https://sports.yahoo.com/article/did-falcons-loss-49ers-help-051247070.html",
+      "source": "Yahoo Sports",
+      "ts": 1760940120.0,
+      "published_iso": "2025-10-20T06:02:00+00:00"
+    },
     {
       "id": "https-therams-com-news-game-recap-fast-start-matthew-stafford-s-five-touchdown-passes-three-to-davante-adams-lift-rams-t",
       "title": "Game Recap: Fast start, Matthew Stafford's five touchdown passes – three to Davante Adams – lift Rams to 35-7 win over Jaguars in London",
