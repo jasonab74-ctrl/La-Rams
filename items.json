@@ -1,5 +1,5 @@
 {
-  "updated_iso": "2025-10-20T15:37:43.953675+00:00",
+  "updated_iso": "2025-10-20T16:11:47.273415+00:00",
   "count": 3,
   "items": [
     {
@@ -11,20 +11,20 @@
       "published_iso": "2025-10-20T07:28:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-article-did-falcons-loss-49ers-help-051247070-html",
-      "title": "How did Falcons loss to 49ers help the Rams draft order?",
-      "link": "https://sports.yahoo.com/article/did-falcons-loss-49ers-help-051247070.html",
-      "source": "Yahoo Sports",
-      "ts": 1760940120.0,
-      "published_iso": "2025-10-20T06:02:00+00:00"
-    },
-    {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-10-18-nfl-week-7-rams-vs-jaguars-injury-report-10-19-2025-8677",
       "title": "Los Angeles Rams vs. Jacksonville Jaguars injury report | Week 7 2025",
       "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/10/18/nfl-week-7-rams-vs-jaguars-injury-report-10-19-2025/86770676007/",
       "source": "Rams Wire",
       "ts": 1760783340.0,
       "published_iso": "2025-10-18T10:29:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
+      "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
+      "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
+      "source": "CBS Sports",
+      "ts": 1759446600.0,
+      "published_iso": "2025-10-02T23:10:00+00:00"
     }
   ]
 }
