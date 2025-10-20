@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-20T16:43:59.003200+00:00",
-  "count": 2,
+  "updated_iso": "2025-10-20T17:07:57.623487+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-sean-mcvay-drops-truth-bomb-060754433-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1760945280.0,
       "published_iso": "2025-10-20T07:28:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-10-18-nfl-week-7-rams-vs-jaguars-injury-report-10-19-2025-8677",
-      "title": "Los Angeles Rams vs. Jacksonville Jaguars injury report | Week 7 2025",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/10/18/nfl-week-7-rams-vs-jaguars-injury-report-10-19-2025/86770676007/",
-      "source": "Rams Wire",
-      "ts": 1760783340.0,
-      "published_iso": "2025-10-18T10:29:00+00:00"
     }
   ]
 }
