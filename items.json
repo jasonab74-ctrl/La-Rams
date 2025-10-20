@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-10-20T08:13:25.394859+00:00",
-  "count": 1,
+  "updated_iso": "2025-10-20T08:43:40.334420+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-therams-com-video-rams-top-plays-week-7-win-vs-jacksonville-jaguars-matthew-stafford-s-five-touchdowns-davante-ada",
+      "title": "HIGHLIGHTS: Rams top plays in Week 7 win over Jaguars",
+      "link": "https://therams.com/video/rams-top-plays-week-7-win-vs-jacksonville-jaguars-matthew-stafford-s-five-touchdowns-davante-adams-catches",
+      "source": "Matthew Stafford's five touchdowns & more",
+      "ts": 1760872620.0,
+      "published_iso": "2025-10-19T11:17:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-game-recap-fast-start-matthew-stafford-s-five-touchdown-passes-three-to-davante-adams-lift-rams-t",
+      "title": "Game Recap: Fast start, Matthew Stafford's five touchdown passes – three to Davante Adams – lift Rams to 35-7 win over Jaguars in London",
+      "link": "https://therams.com/news/game-recap-fast-start-matthew-stafford-s-five-touchdown-passes-three-to-davante-adams-lift-rams-to-35-7-win-over-jaguars-in-london",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1760867820.0,
+      "published_iso": "2025-10-19T09:57:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-article-jaguars-jourdan-lewis-injured-during-150950342-html",
       "title": "Jaguars' Jourdan Lewis injured during first half vs. Los Angeles Rams",
