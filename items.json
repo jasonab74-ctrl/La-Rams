@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-20T16:11:47.273415+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-20T16:43:59.003200+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-sean-mcvay-drops-truth-bomb-060754433-html",
@@ -17,14 +17,6 @@
       "source": "Rams Wire",
       "ts": 1760783340.0,
       "published_iso": "2025-10-18T10:29:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
-      "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
-      "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
-      "source": "CBS Sports",
-      "ts": 1759446600.0,
-      "published_iso": "2025-10-02T23:10:00+00:00"
     }
   ]
 }
