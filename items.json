@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-10-21T14:11:33.534264+00:00",
-  "count": 4,
+  "updated_iso": "2025-10-21T14:38:28.350920+00:00",
+  "count": 2,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-article-rams-pff-grades-best-worst-134219739-html",
-      "title": "Rams PFF grades: Best and worst grades from Week 7 win over Jaguars",
-      "link": "https://sports.yahoo.com/article/rams-pff-grades-best-worst-134219739.html",
-      "source": "Yahoo Sports",
-      "ts": 1761029700.0,
-      "published_iso": "2025-10-21T06:55:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-article-rams-olb-byron-young-approaching-134158752-html",
       "title": "Rams OLB Byron Young approaching NFL history with remarkable sack streak",
@@ -25,14 +17,6 @@
       "source": "Rams Wire",
       "ts": 1761027060.0,
       "published_iso": "2025-10-21T06:11:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
-      "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
-      "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
-      "source": "CBS Sports",
-      "ts": 1759446600.0,
-      "published_iso": "2025-10-02T23:10:00+00:00"
     }
   ]
 }
