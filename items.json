@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-21T10:45:06.465736+00:00",
-  "count": 2,
+  "updated_iso": "2025-10-21T11:07:56.718781+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-si-com-nfl-rams-los-angeles-matthew-stafford-jacksonville-jaguars",
+      "title": "2 Telling Fantasy Stats from Rams’ Rout Over Jaguars",
+      "link": "https://si.com/nfl/rams/los-angeles-matthew-stafford-jacksonville-jaguars",
+      "source": "Sports Illustrated",
+      "ts": 1761018840.0,
+      "published_iso": "2025-10-21T03:54:00+00:00"
+    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-10-18-nfl-week-7-rams-vs-jaguars-injury-report-10-19-2025-8677",
       "title": "Los Angeles Rams vs. Jacksonville Jaguars injury report | Week 7 2025",
