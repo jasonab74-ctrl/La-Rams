@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-21T04:11:02.398683+00:00",
-  "count": 2,
+  "updated_iso": "2025-10-21T04:40:24.243441+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-rolling-bye-change-strong-221056441-html",
+      "title": "The Rams are rolling into their bye for a change after strong efforts in back-to-back road victories",
+      "link": "https://sports.yahoo.com/article/rams-rolling-bye-change-strong-221056441.html",
+      "source": "Yahoo Sports",
+      "ts": 1760991060.0,
+      "published_iso": "2025-10-20T20:11:00+00:00"
+    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-10-18-nfl-week-7-rams-vs-jaguars-injury-report-10-19-2025-8677",
       "title": "Los Angeles Rams vs. Jacksonville Jaguars injury report | Week 7 2025",
