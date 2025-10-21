@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-21T16:42:34.771817+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-21T17:08:53.515526+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-rams-olb-byron-young-approaching-134158752-html",
@@ -17,14 +17,6 @@
       "source": "Rams Wire",
       "ts": 1761027060.0,
       "published_iso": "2025-10-21T06:11:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-at-jacksonville-jaguars-how-to-watch-listen-to-and-live-stream-week-7-london-gam",
-      "title": "Los Angeles Rams at Jacksonville Jaguars: How to watch, listen to and live stream Week 7's London game",
-      "link": "https://therams.com/news/los-angeles-rams-at-jacksonville-jaguars-how-to-watch-listen-to-and-live-stream-week-7-london-game",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1760528100.0,
-      "published_iso": "2025-10-15T11:35:00+00:00"
     }
   ]
 }
