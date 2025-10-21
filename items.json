@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-21T02:21:22.953707+00:00",
-  "count": 2,
+  "updated_iso": "2025-10-21T03:25:48.041118+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-rolling-bye-change-strong-221056441-html",
+      "title": "The Rams are rolling into their bye for a change after strong efforts in back-to-back road victories",
+      "link": "https://sports.yahoo.com/article/rams-rolling-bye-change-strong-221056441.html",
+      "source": "Yahoo Sports",
+      "ts": 1760991060.0,
+      "published_iso": "2025-10-20T20:11:00+00:00"
+    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-10-18-nfl-week-7-rams-vs-jaguars-injury-report-10-19-2025-8677",
       "title": "Los Angeles Rams vs. Jacksonville Jaguars injury report | Week 7 2025",
@@ -11,12 +19,12 @@
       "published_iso": "2025-10-18T10:29:00+00:00"
     },
     {
-      "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
-      "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
-      "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
-      "source": "CBS Sports",
-      "ts": 1759446600.0,
-      "published_iso": "2025-10-02T23:10:00+00:00"
+      "id": "https-therams-com-news-los-angeles-rams-at-jacksonville-jaguars-how-to-watch-listen-to-and-live-stream-week-7-london-gam",
+      "title": "Los Angeles Rams at Jacksonville Jaguars: How to watch, listen to and live stream Week 7's London game",
+      "link": "https://therams.com/news/los-angeles-rams-at-jacksonville-jaguars-how-to-watch-listen-to-and-live-stream-week-7-london-game",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1760528100.0,
+      "published_iso": "2025-10-15T11:35:00+00:00"
     }
   ]
 }
