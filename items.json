@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-21T08:13:35.625977+00:00",
-  "count": 2,
+  "updated_iso": "2025-10-21T08:45:35.786462+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-10-18-nfl-week-7-rams-vs-jaguars-injury-report-10-19-2025-8677",
@@ -17,6 +17,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1760528100.0,
       "published_iso": "2025-10-15T11:35:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
+      "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
+      "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
+      "source": "CBS Sports",
+      "ts": 1759446600.0,
+      "published_iso": "2025-10-02T23:10:00+00:00"
     }
   ]
 }
