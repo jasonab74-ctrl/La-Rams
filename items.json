@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-22T14:09:56.447811+00:00",
-  "count": 1,
+  "updated_iso": "2025-10-22T14:44:06.057166+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-therams-com-news-los-angeles-rams-celebrate-culture-community-latino-heritage-month-2025",
@@ -9,6 +9,22 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1760545740.0,
       "published_iso": "2025-10-15T16:29:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-jacksonville-jaguars-how-to-watch-listen-to-and-live-stream-week-7-london-gam",
+      "title": "Los Angeles Rams at Jacksonville Jaguars: How to watch, listen to and live stream Week 7's London game",
+      "link": "https://therams.com/news/los-angeles-rams-at-jacksonville-jaguars-how-to-watch-listen-to-and-live-stream-week-7-london-game",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1760528100.0,
+      "published_iso": "2025-10-15T11:35:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
+      "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
+      "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
+      "source": "CBS Sports",
+      "ts": 1759446600.0,
+      "published_iso": "2025-10-02T23:10:00+00:00"
     }
   ]
 }
