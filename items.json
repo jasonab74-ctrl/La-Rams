@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-22T22:04:07.817969+00:00",
-  "count": 1,
+  "updated_iso": "2025-10-22T22:31:53.151586+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-therams-com-news-notable-individual-and-team-the-rams-have-hit-so-far-during-the-2025-season",
@@ -9,6 +9,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1761143820.0,
       "published_iso": "2025-10-22T14:37:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
+      "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
+      "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
+      "source": "CBS Sports",
+      "ts": 1759446600.0,
+      "published_iso": "2025-10-02T23:10:00+00:00"
     }
   ]
 }
