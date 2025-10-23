@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-23T21:08:02.968718+00:00",
-  "count": 4,
+  "updated_iso": "2025-10-23T21:31:28.078667+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-10-23-sean-mcvay-explains-why-puka-nacuas-injury-was-a-blessin",
@@ -11,12 +11,12 @@
       "published_iso": "2025-10-23T12:15:00+00:00"
     },
     {
-      "id": "https-therams-com-news-top-5-plays-from-rams-offense-through-first-seven-weeks-of-2025-season",
-      "title": "Top 5 plays from Rams' offense through first seven weeks of 2025 season",
-      "link": "https://therams.com/news/top-5-plays-from-rams-offense-through-first-seven-weeks-of-2025-season",
+      "id": "https-therams-com-video-rams-puka-nacua-catching-dimes-2025-matthew-stafford-13-minutes",
+      "title": "HIGHLIGHTS: 13 minutes of Rams WR Puka Nacua catching dimes from QB Matthew Stafford in 2025",
+      "link": "https://therams.com/video/rams-puka-nacua-catching-dimes-2025-matthew-stafford-13-minutes",
       "source": "Los Angeles Rams (Official)",
-      "ts": 1761219240.0,
-      "published_iso": "2025-10-23T11:34:00+00:00"
+      "ts": 1761221580.0,
+      "published_iso": "2025-10-23T12:13:00+00:00"
     },
     {
       "id": "https-therams-com-video-rams-top-5-offensive-plays-2025-bye-touchdowns-catches-plays-under-pressure",
@@ -25,14 +25,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1761214380.0,
       "published_iso": "2025-10-23T10:13:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
-      "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
-      "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
-      "source": "CBS Sports",
-      "ts": 1759446600.0,
-      "published_iso": "2025-10-02T23:10:00+00:00"
     }
   ]
 }
