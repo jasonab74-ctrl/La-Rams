@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-23T18:46:06.265841+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-23T19:02:54.245264+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-seahawks-rams-texans-trade-rumors-181821206-html",
@@ -25,6 +25,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1761214380.0,
       "published_iso": "2025-10-23T10:13:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
+      "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
+      "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
+      "source": "CBS Sports",
+      "ts": 1759446600.0,
+      "published_iso": "2025-10-02T23:10:00+00:00"
     }
   ]
 }
