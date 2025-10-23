@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-10-23T17:37:04.747200+00:00",
-  "count": 4,
+  "updated_iso": "2025-10-23T18:13:12.587883+00:00",
+  "count": 2,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-article-nfl-analyst-says-rams-buyers-172817693-html",
-      "title": "NFL analyst says Rams should be buyers at trade deadline",
-      "link": "https://sports.yahoo.com/article/nfl-analyst-says-rams-buyers-172817693.html",
-      "source": "Yahoo Sports",
-      "ts": 1761215640.0,
-      "published_iso": "2025-10-23T10:34:00+00:00"
-    },
     {
       "id": "https-therams-com-video-rams-top-5-offensive-plays-2025-bye-touchdowns-catches-plays-under-pressure",
       "title": "HIGHLIGHTS: Critical TDs, stellar catches & big plays under pressure | Rams top 5 offensive plays at the bye",
@@ -25,14 +17,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1761210900.0,
       "published_iso": "2025-10-23T09:15:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
-      "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
-      "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
-      "source": "CBS Sports",
-      "ts": 1759446600.0,
-      "published_iso": "2025-10-02T23:10:00+00:00"
     }
   ]
 }
