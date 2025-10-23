@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-23T21:31:28.078667+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-23T22:08:11.031164+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-pathway-rams-host-lombardi-trophy-210000280-html",
+      "title": "Pathway for the Rams to host Lombardi trophy in Super Bowl LX",
+      "link": "https://sports.yahoo.com/article/pathway-rams-host-lombardi-trophy-210000280.html",
+      "source": "Yahoo Sports",
+      "ts": 1761228540.0,
+      "published_iso": "2025-10-23T14:09:00+00:00"
+    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-10-23-sean-mcvay-explains-why-puka-nacuas-injury-was-a-blessin",
       "title": "Rams HC Sean McVay explains why Puka Nacua's injury was a 'blessing in disguise'",
