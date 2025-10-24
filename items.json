@@ -1,5 +1,5 @@
 {
-  "updated_iso": "2025-10-24T23:08:12.371557+00:00",
+  "updated_iso": "2025-10-24T23:31:58.452850+00:00",
   "count": 4,
   "items": [
     {
@@ -11,6 +11,14 @@
       "published_iso": "2025-10-24T14:43:00+00:00"
     },
     {
+      "id": "https-therams-com-video-rams-top-5-defensive-plays-2025-bye-interceptions-peanut-punches-sacks",
+      "title": "HIGHLIGHTS: Game-changing INTs, peanut punches & clutch sacks | Rams top 5 defensive plays at the bye",
+      "link": "https://therams.com/video/rams-top-5-defensive-plays-2025-bye-interceptions-peanut-punches-sacks",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1761300300.0,
+      "published_iso": "2025-10-24T10:05:00+00:00"
+    },
+    {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-10-24-rams-matthew-stafford-highlights-2025-86872304007",
       "title": "Watch Matthew Stafford's highlights heading into Rams' Week 8 bye",
       "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/10/24/rams-matthew-stafford-highlights-2025/86872304007/",
@@ -19,20 +27,12 @@
       "published_iso": "2025-10-24T04:34:00+00:00"
     },
     {
-      "id": "https-therams-com-news-los-angeles-rams-celebrate-culture-community-latino-heritage-month-2025",
-      "title": "Los Angeles Rams celebrate culture & community with Latino Heritage Month",
-      "link": "https://therams.com/news/los-angeles-rams-celebrate-culture-community-latino-heritage-month-2025",
+      "id": "https-therams-com-video-rams-puka-nacua-catching-dimes-2025-matthew-stafford-13-minutes",
+      "title": "HIGHLIGHTS: 13 minutes of Rams WR Puka Nacua catching dimes from QB Matthew Stafford in 2025",
+      "link": "https://therams.com/video/rams-puka-nacua-catching-dimes-2025-matthew-stafford-13-minutes",
       "source": "Los Angeles Rams (Official)",
-      "ts": 1760545740.0,
-      "published_iso": "2025-10-15T16:29:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
-      "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
-      "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
-      "source": "CBS Sports",
-      "ts": 1759446600.0,
-      "published_iso": "2025-10-02T23:10:00+00:00"
+      "ts": 1761221580.0,
+      "published_iso": "2025-10-23T12:13:00+00:00"
     }
   ]
 }
