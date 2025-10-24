@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-24T04:10:34.513324+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-24T04:40:05.178746+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-pathway-rams-host-lombardi-trophy-210000280-html",
@@ -17,6 +17,14 @@
       "source": "Rams Wire",
       "ts": 1761221700.0,
       "published_iso": "2025-10-23T12:15:00+00:00"
+    },
+    {
+      "id": "https-therams-com-video-rams-puka-nacua-catching-dimes-2025-matthew-stafford-13-minutes",
+      "title": "HIGHLIGHTS: 13 minutes of Rams WR Puka Nacua catching dimes from QB Matthew Stafford in 2025",
+      "link": "https://therams.com/video/rams-puka-nacua-catching-dimes-2025-matthew-stafford-13-minutes",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1761221580.0,
+      "published_iso": "2025-10-23T12:13:00+00:00"
     },
     {
       "id": "https-therams-com-video-rams-top-5-offensive-plays-2025-bye-touchdowns-catches-plays-under-pressure",
