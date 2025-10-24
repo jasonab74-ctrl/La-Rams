@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-24T06:13:30.707533+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-24T06:45:54.756525+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-pathway-rams-host-lombardi-trophy-210000280-html",
@@ -11,12 +11,12 @@
       "published_iso": "2025-10-23T14:09:00+00:00"
     },
     {
-      "id": "https-therams-com-video-rams-puka-nacua-catching-dimes-2025-matthew-stafford-13-minutes",
-      "title": "HIGHLIGHTS: 13 minutes of Rams WR Puka Nacua catching dimes from QB Matthew Stafford in 2025",
-      "link": "https://therams.com/video/rams-puka-nacua-catching-dimes-2025-matthew-stafford-13-minutes",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1761221580.0,
-      "published_iso": "2025-10-23T12:13:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-10-23-sean-mcvay-explains-why-puka-nacuas-injury-was-a-blessin",
+      "title": "Rams HC Sean McVay explains why Puka Nacua's injury was a 'blessing in disguise'",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/10/23/sean-mcvay-explains-why-puka-nacuas-injury-was-a-blessing-to-rams/86858642007/",
+      "source": "Rams Wire",
+      "ts": 1761221700.0,
+      "published_iso": "2025-10-23T12:15:00+00:00"
     },
     {
       "id": "https-therams-com-video-rams-top-5-offensive-plays-2025-bye-touchdowns-catches-plays-under-pressure",
@@ -25,6 +25,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1761214380.0,
       "published_iso": "2025-10-23T10:13:00+00:00"
+    },
+    {
+      "id": "https-therams-com-video-rams-cornerback-robert-bailey-craziest-punt-return-nfl-history",
+      "title": "HIGHLIGHTS: Former Rams CB Robert Bailey makes the CRAZIEST punt return in franchise history",
+      "link": "https://therams.com/video/rams-cornerback-robert-bailey-craziest-punt-return-nfl-history",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1761210900.0,
+      "published_iso": "2025-10-23T09:15:00+00:00"
     }
   ]
 }
