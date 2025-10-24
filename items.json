@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-24T20:38:22.632296+00:00",
-  "count": 2,
+  "updated_iso": "2025-10-24T21:07:48.937468+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-therams-com-video-rams-top-5-defensive-plays-2025-bye-interceptions-peanut-punches-sacks",
@@ -17,6 +17,14 @@
       "source": "Rams Wire",
       "ts": 1761280440.0,
       "published_iso": "2025-10-24T04:34:00+00:00"
+    },
+    {
+      "id": "https-therams-com-video-rams-puka-nacua-catching-dimes-2025-matthew-stafford-13-minutes",
+      "title": "HIGHLIGHTS: 13 minutes of Rams WR Puka Nacua catching dimes from QB Matthew Stafford in 2025",
+      "link": "https://therams.com/video/rams-puka-nacua-catching-dimes-2025-matthew-stafford-13-minutes",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1761221580.0,
+      "published_iso": "2025-10-23T12:13:00+00:00"
     }
   ]
 }
