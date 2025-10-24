@@ -1,5 +1,5 @@
 {
-  "updated_iso": "2025-10-24T12:17:50.871939+00:00",
+  "updated_iso": "2025-10-24T13:04:00.393203+00:00",
   "count": 6,
   "items": [
     {
@@ -11,20 +11,20 @@
       "published_iso": "2025-10-24T04:34:00+00:00"
     },
     {
+      "id": "https-sports-yahoo-com-article-pathway-rams-host-lombardi-trophy-210000280-html",
+      "title": "Pathway for the Rams to host Lombardi trophy in Super Bowl LX",
+      "link": "https://sports.yahoo.com/article/pathway-rams-host-lombardi-trophy-210000280.html",
+      "source": "Yahoo Sports",
+      "ts": 1761228540.0,
+      "published_iso": "2025-10-23T14:09:00+00:00"
+    },
+    {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-10-23-sean-mcvay-explains-why-puka-nacuas-injury-was-a-blessin",
       "title": "Rams HC Sean McVay explains why Puka Nacua's injury was a 'blessing in disguise'",
       "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/10/23/sean-mcvay-explains-why-puka-nacuas-injury-was-a-blessing-to-rams/86858642007/",
       "source": "Rams Wire",
       "ts": 1761221700.0,
       "published_iso": "2025-10-23T12:15:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-seahawks-rams-texans-trade-rumors-181821206-html",
-      "title": "Seahawks, Rams, Texans trade rumors from FOX Sports lend insight into deadline plans",
-      "link": "https://sports.yahoo.com/article/seahawks-rams-texans-trade-rumors-181821206.html",
-      "source": "Yahoo Sports",
-      "ts": 1761219480.0,
-      "published_iso": "2025-10-23T11:38:00+00:00"
     },
     {
       "id": "https-therams-com-video-rams-top-5-offensive-plays-2025-bye-touchdowns-catches-plays-under-pressure",
