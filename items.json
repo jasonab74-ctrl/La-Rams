@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-24T15:38:13.196055+00:00",
-  "count": 4,
+  "updated_iso": "2025-10-24T16:11:13.090785+00:00",
+  "count": 5,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-bears-trade-rumor-espns-jeremy-140809614-html",
@@ -17,6 +17,14 @@
       "source": "Rams Wire",
       "ts": 1761280440.0,
       "published_iso": "2025-10-24T04:34:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-10-23-sean-mcvay-explains-why-puka-nacuas-injury-was-a-blessin",
+      "title": "Rams HC Sean McVay explains why Puka Nacua's injury was a 'blessing in disguise'",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/10/23/sean-mcvay-explains-why-puka-nacuas-injury-was-a-blessing-to-rams/86858642007/",
+      "source": "Rams Wire",
+      "ts": 1761221700.0,
+      "published_iso": "2025-10-23T12:15:00+00:00"
     },
     {
       "id": "https-therams-com-video-rams-puka-nacua-catching-dimes-2025-matthew-stafford-13-minutes",
