@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-24T11:08:22.589987+00:00",
+  "updated_iso": "2025-10-24T11:33:09.968941+00:00",
   "count": 5,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-watch-matthew-staffords-highlights-heading-112139325-html",
+      "title": "Watch Matthew Stafford's highlights heading into Rams' Week 8 bye",
+      "link": "https://sports.yahoo.com/article/watch-matthew-staffords-highlights-heading-112139325.html",
+      "source": "Yahoo Sports",
+      "ts": 1761279900.0,
+      "published_iso": "2025-10-24T04:25:00+00:00"
+    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-10-23-sean-mcvay-explains-why-puka-nacuas-injury-was-a-blessin",
       "title": "Rams HC Sean McVay explains why Puka Nacua's injury was a 'blessing in disguise'",
@@ -9,14 +17,6 @@
       "source": "Rams Wire",
       "ts": 1761221700.0,
       "published_iso": "2025-10-23T12:15:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-seahawks-rams-texans-trade-rumors-181821206-html",
-      "title": "Seahawks, Rams, Texans trade rumors from FOX Sports lend insight into deadline plans",
-      "link": "https://sports.yahoo.com/article/seahawks-rams-texans-trade-rumors-181821206.html",
-      "source": "Yahoo Sports",
-      "ts": 1761219480.0,
-      "published_iso": "2025-10-23T11:38:00+00:00"
     },
     {
       "id": "https-therams-com-video-rams-top-5-offensive-plays-2025-bye-touchdowns-catches-plays-under-pressure",
