@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-25T05:08:48.638265+00:00",
-  "count": 4,
+  "updated_iso": "2025-10-25T05:36:29.412203+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-ravens-trade-rumor-tony-pauline-213430546-html",
@@ -11,28 +11,20 @@
       "published_iso": "2025-10-24T16:47:00+00:00"
     },
     {
+      "id": "https-therams-com-video-rams-top-5-defensive-plays-2025-bye-interceptions-peanut-punches-sacks",
+      "title": "HIGHLIGHTS: Game-changing INTs, peanut punches & clutch sacks | Rams top 5 defensive plays at the bye",
+      "link": "https://therams.com/video/rams-top-5-defensive-plays-2025-bye-interceptions-peanut-punches-sacks",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1761300300.0,
+      "published_iso": "2025-10-24T10:05:00+00:00"
+    },
+    {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-10-24-rams-matthew-stafford-highlights-2025-86872304007",
       "title": "Watch Matthew Stafford's highlights heading into Rams' Week 8 bye",
       "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/10/24/rams-matthew-stafford-highlights-2025/86872304007/",
       "source": "Rams Wire",
       "ts": 1761280440.0,
       "published_iso": "2025-10-24T04:34:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-celebrate-culture-community-latino-heritage-month-2025",
-      "title": "Los Angeles Rams celebrate culture & community with Latino Heritage Month",
-      "link": "https://therams.com/news/los-angeles-rams-celebrate-culture-community-latino-heritage-month-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1760545740.0,
-      "published_iso": "2025-10-15T16:29:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
-      "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
-      "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
-      "source": "CBS Sports",
-      "ts": 1759446600.0,
-      "published_iso": "2025-10-02T23:10:00+00:00"
     }
   ]
 }
