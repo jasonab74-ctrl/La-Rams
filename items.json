@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-25T06:42:56.271877+00:00",
-  "count": 2,
+  "updated_iso": "2025-10-25T07:08:01.804621+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-ravens-trade-rumor-tony-pauline-213430546-html",
+      "title": "Ravens trade rumor from Tony Pauline should pique interest from Bucs, Rams, Jaguars",
+      "link": "https://sports.yahoo.com/article/ravens-trade-rumor-tony-pauline-213430546.html",
+      "source": "Yahoo Sports",
+      "ts": 1761324420.0,
+      "published_iso": "2025-10-24T16:47:00+00:00"
+    },
     {
       "id": "https-therams-com-video-rams-top-5-defensive-plays-2025-bye-interceptions-peanut-punches-sacks",
       "title": "HIGHLIGHTS: Game-changing INTs, peanut punches & clutch sacks | Rams top 5 defensive plays at the bye",
@@ -17,6 +25,14 @@
       "source": "Rams Wire",
       "ts": 1761280440.0,
       "published_iso": "2025-10-24T04:34:00+00:00"
+    },
+    {
+      "id": "https-therams-com-video-rams-cornerback-robert-bailey-craziest-punt-return-nfl-history",
+      "title": "HIGHLIGHTS: Former Rams CB Robert Bailey makes the CRAZIEST punt return in franchise history",
+      "link": "https://therams.com/video/rams-cornerback-robert-bailey-craziest-punt-return-nfl-history",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1761210900.0,
+      "published_iso": "2025-10-23T09:15:00+00:00"
     }
   ]
 }
