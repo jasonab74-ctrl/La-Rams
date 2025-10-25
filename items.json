@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-10-25T11:03:57.043607+00:00",
+  "updated_iso": "2025-10-25T11:31:26.974587+00:00",
   "count": 3,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-article-ravens-trade-rumor-tony-pauline-213430546-html",
-      "title": "Ravens trade rumor from Tony Pauline should pique interest from Bucs, Rams, Jaguars",
-      "link": "https://sports.yahoo.com/article/ravens-trade-rumor-tony-pauline-213430546.html",
-      "source": "Yahoo Sports",
-      "ts": 1761324420.0,
-      "published_iso": "2025-10-24T16:47:00+00:00"
-    },
     {
       "id": "https-therams-com-video-rams-top-5-defensive-plays-2025-bye-interceptions-peanut-punches-sacks",
       "title": "HIGHLIGHTS: Game-changing INTs, peanut punches & clutch sacks | Rams top 5 defensive plays at the bye",
@@ -25,6 +17,14 @@
       "source": "Rams Wire",
       "ts": 1761280440.0,
       "published_iso": "2025-10-24T04:34:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
+      "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
+      "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
+      "source": "CBS Sports",
+      "ts": 1759446600.0,
+      "published_iso": "2025-10-02T23:10:00+00:00"
     }
   ]
 }
