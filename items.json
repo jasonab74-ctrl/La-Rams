@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-25T07:08:01.804621+00:00",
-  "count": 4,
+  "updated_iso": "2025-10-25T07:31:24.149035+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-ravens-trade-rumor-tony-pauline-213430546-html",
@@ -25,14 +25,6 @@
       "source": "Rams Wire",
       "ts": 1761280440.0,
       "published_iso": "2025-10-24T04:34:00+00:00"
-    },
-    {
-      "id": "https-therams-com-video-rams-cornerback-robert-bailey-craziest-punt-return-nfl-history",
-      "title": "HIGHLIGHTS: Former Rams CB Robert Bailey makes the CRAZIEST punt return in franchise history",
-      "link": "https://therams.com/video/rams-cornerback-robert-bailey-craziest-punt-return-nfl-history",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1761210900.0,
-      "published_iso": "2025-10-23T09:15:00+00:00"
     }
   ]
 }
