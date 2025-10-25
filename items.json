@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-25T14:35:02.675847+00:00",
-  "count": 4,
+  "updated_iso": "2025-10-25T15:07:23.516336+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-few-players-could-return-144758265-html",
+      "title": "Rams have a few players who could return from injury soon after bye week",
+      "link": "https://sports.yahoo.com/article/rams-few-players-could-return-144758265.html",
+      "source": "Yahoo Sports",
+      "ts": 1761378660.0,
+      "published_iso": "2025-10-25T07:51:00+00:00"
+    },
     {
       "id": "https-therams-com-video-rams-top-5-defensive-plays-2025-bye-interceptions-peanut-punches-sacks",
       "title": "HIGHLIGHTS: Game-changing INTs, peanut punches & clutch sacks | Rams top 5 defensive plays at the bye",
