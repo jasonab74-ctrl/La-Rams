@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2025-10-26T06:44:25.033938+00:00",
-  "count": 2,
+  "updated_iso": "2025-10-26T07:07:49.973482+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-rams-play-today-schedule-time-055001909-html",
+      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-play-today-schedule-time-channel-next-game-5f42d30bb274a7772066",
       "title": "Do the Rams play today? Schedule, time, channel for next Los Angeles football game",
-      "link": "https://sports.yahoo.com/article/rams-play-today-schedule-time-055001909.html",
-      "source": "Yahoo Sports",
-      "ts": 1761434100.0,
-      "published_iso": "2025-10-25T23:15:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-celebrate-culture-community-latino-heritage-month-2025",
-      "title": "Los Angeles Rams celebrate culture & community with Latino Heritage Month",
-      "link": "https://therams.com/news/los-angeles-rams-celebrate-culture-community-latino-heritage-month-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1760545740.0,
-      "published_iso": "2025-10-15T16:29:00+00:00"
+      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-play-today-schedule-time-channel-next-game/5f42d30bb274a7772066efa8",
+      "source": "Sporting News",
+      "ts": 1761432600.0,
+      "published_iso": "2025-10-25T22:50:00+00:00"
     }
   ]
 }
