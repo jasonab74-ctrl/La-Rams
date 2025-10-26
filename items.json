@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-10-26T07:31:37.135532+00:00",
-  "count": 1,
+  "updated_iso": "2025-10-26T08:11:13.270291+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-rams-play-today-schedule-time-055001909-html",
+      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-play-today-schedule-time-channel-next-game-5f42d30bb274a7772066",
       "title": "Do the Rams play today? Schedule, time, channel for next Los Angeles football game",
-      "link": "https://sports.yahoo.com/article/rams-play-today-schedule-time-055001909.html",
-      "source": "Yahoo Sports",
-      "ts": 1761434100.0,
-      "published_iso": "2025-10-25T23:15:00+00:00"
+      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-play-today-schedule-time-channel-next-game/5f42d30bb274a7772066efa8",
+      "source": "Sporting News",
+      "ts": 1761432600.0,
+      "published_iso": "2025-10-25T22:50:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
+      "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
+      "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
+      "source": "CBS Sports",
+      "ts": 1759446600.0,
+      "published_iso": "2025-10-02T23:10:00+00:00"
     }
   ]
 }
