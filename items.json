@@ -1,5 +1,5 @@
 {
-  "updated_iso": "2025-10-27T11:33:34.585130+00:00",
+  "updated_iso": "2025-10-27T12:18:21.251607+00:00",
   "count": 3,
   "items": [
     {
@@ -11,20 +11,20 @@
       "published_iso": "2025-10-26T17:43:00+00:00"
     },
     {
+      "id": "https-sports-yahoo-com-article-puka-nacua-back-bye-latest-134743242-html",
+      "title": "Will Puka Nacua be back after the bye? Latest Week 9 injury update for Rams WR",
+      "link": "https://sports.yahoo.com/article/puka-nacua-back-bye-latest-134743242.html",
+      "source": "Yahoo Sports",
+      "ts": 1761462660.0,
+      "published_iso": "2025-10-26T07:11:00+00:00"
+    },
+    {
       "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-play-today-schedule-time-channel-next-game-5f42d30bb274a7772066",
       "title": "Do the Rams play today? Schedule, time, channel for next Los Angeles football game",
       "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-play-today-schedule-time-channel-next-game/5f42d30bb274a7772066efa8",
       "source": "Sporting News",
       "ts": 1761432600.0,
       "published_iso": "2025-10-25T22:50:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-celebrate-culture-community-latino-heritage-month-2025",
-      "title": "Los Angeles Rams celebrate culture & community with Latino Heritage Month",
-      "link": "https://therams.com/news/los-angeles-rams-celebrate-culture-community-latino-heritage-month-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1760545740.0,
-      "published_iso": "2025-10-15T16:29:00+00:00"
     }
   ]
 }
