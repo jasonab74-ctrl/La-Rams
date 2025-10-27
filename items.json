@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-10-27T17:08:06.204552+00:00",
-  "count": 2,
+  "updated_iso": "2025-10-27T17:37:07.268055+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-rams-reporting-among-teams-making-165014881-html",
-      "title": "Rams reporting among teams 'making calls' for a CB",
-      "link": "https://sports.yahoo.com/article/rams-reporting-among-teams-making-165014881.html",
-      "source": "Yahoo Sports",
-      "ts": 1761559380.0,
-      "published_iso": "2025-10-27T10:03:00+00:00"
+      "id": "https-bleacherreport-com-articles-25266135-rams-reportedly-trade-roger-mccreary-titans-agree-nfl-draft-pick-swap",
+      "title": "Rams Reportedly Trade for Roger McCreary, Titans Agree to NFL Draft Pick Swap",
+      "link": "https://bleacherreport.com/articles/25266135-rams-reportedly-trade-roger-mccreary-titans-agree-nfl-draft-pick-swap",
+      "source": "Bleacher Report",
+      "ts": 1761560220.0,
+      "published_iso": "2025-10-27T10:17:00+00:00"
+    },
+    {
+      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-finally-resolve-cornerback-woes-trade-titans-9c96357f172f2b33ad",
+      "title": "Rams finally resolve cornerback woes in trade with Titans",
+      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-finally-resolve-cornerback-woes-trade-titans/9c96357f172f2b33ad5aa4f8",
+      "source": "Sporting News",
+      "ts": 1761560040.0,
+      "published_iso": "2025-10-27T10:14:00+00:00"
     },
     {
       "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-play-today-schedule-time-channel-next-game-5f42d30bb274a7772066",
