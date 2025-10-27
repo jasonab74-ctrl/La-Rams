@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-27T21:07:50.779211+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-27T21:32:49.141917+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-rams-wr-puka-nacua-expected-190551913-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1761570840.0,
       "published_iso": "2025-10-27T13:14:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-rams-pick-cornerback-titans-pre-172454451-html",
-      "title": "Rams pick up cornerback from Titans in pre-deadline trade",
-      "link": "https://sports.yahoo.com/article/rams-pick-cornerback-titans-pre-172454451.html",
-      "source": "Yahoo Sports",
-      "ts": 1761567300.0,
-      "published_iso": "2025-10-27T12:15:00+00:00"
     },
     {
       "id": "https-bleacherreport-com-articles-25266135-rams-trade-roger-mccreary-titans-agree-2026-nfl-draft-pick-swap",
