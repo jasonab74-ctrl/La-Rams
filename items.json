@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-26T23:32:14.171292+00:00",
-  "count": 2,
+  "updated_iso": "2025-10-27T00:46:36.192044+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-saints-opening-odds-002536444-html",
+      "title": "Rams-Saints opening odds",
+      "link": "https://sports.yahoo.com/article/rams-saints-opening-odds-002536444.html",
+      "source": "Yahoo Sports",
+      "ts": 1761500580.0,
+      "published_iso": "2025-10-26T17:43:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-article-puka-nacua-back-bye-latest-134743242-html",
       "title": "Will Puka Nacua be back after the bye? Latest Week 9 injury update for Rams WR",
