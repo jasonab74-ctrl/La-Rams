@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2025-10-27T19:06:41.238804+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-10-27T19:30:59.726863+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-pick-cornerback-titans-pre-172454451-html",
+      "title": "Rams pick up cornerback from Titans in pre-deadline trade",
+      "link": "https://sports.yahoo.com/article/rams-pick-cornerback-titans-pre-172454451.html",
+      "source": "Yahoo Sports",
+      "ts": 1761567300.0,
+      "published_iso": "2025-10-27T12:15:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-nfl-breaking-news-article-rams-expect-puka-nacua-to-return-sunday-vs-saints-from-ankle-injury-191",
+      "title": "Rams expect Puka Nacua to return Sunday vs. Saints from ankle injury",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/rams-expect-puka-nacua-to-return-sunday-vs-saints-from-ankle-injury-191007585.html",
+      "source": "Yahoo Sports",
+      "ts": 1761567180.0,
+      "published_iso": "2025-10-27T12:13:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25266135-rams-trade-roger-mccreary-titans-agree-2026-nfl-draft-pick-swap",
+      "title": "Rams Trade for Roger McCreary, Titans Agree to 2026 NFL Draft Pick Swap",
+      "link": "https://bleacherreport.com/articles/25266135-rams-trade-roger-mccreary-titans-agree-2026-nfl-draft-pick-swap",
+      "source": "Bleacher Report",
+      "ts": 1761565080.0,
+      "published_iso": "2025-10-27T11:38:00+00:00"
+    }
+  ]
 }
