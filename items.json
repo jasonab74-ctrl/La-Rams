@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-27T06:15:51.092933+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-27T06:51:15.618676+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-rams-saints-opening-odds-002536444-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1761500580.0,
       "published_iso": "2025-10-26T17:43:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-puka-nacua-back-bye-latest-134743242-html",
-      "title": "Will Puka Nacua be back after the bye? Latest Week 9 injury update for Rams WR",
-      "link": "https://sports.yahoo.com/article/puka-nacua-back-bye-latest-134743242.html",
-      "source": "Yahoo Sports",
-      "ts": 1761462660.0,
-      "published_iso": "2025-10-26T07:11:00+00:00"
     },
     {
       "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-play-today-schedule-time-channel-next-game-5f42d30bb274a7772066",
