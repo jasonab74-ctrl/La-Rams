@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2025-10-27T15:10:11.952592+00:00",
+  "updated_iso": "2025-10-27T15:36:45.424903+00:00",
   "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-titans-trade-rumor-espn-could-141959218-html",
-      "title": "Titans trade rumor from ESPN could lead to deals with 49ers, Lions and Rams",
-      "link": "https://sports.yahoo.com/article/titans-trade-rumor-espn-could-141959218.html",
-      "source": "Yahoo Sports",
-      "ts": 1761550920.0,
-      "published_iso": "2025-10-27T07:42:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-rams-saints-opening-odds-002536444-html",
-      "title": "Rams-Saints opening odds",
-      "link": "https://sports.yahoo.com/article/rams-saints-opening-odds-002536444.html",
-      "source": "Yahoo Sports",
-      "ts": 1761500580.0,
-      "published_iso": "2025-10-26T17:43:00+00:00"
+      "id": "https-sports-yahoo-com-article-saints-vs-rams-predictions-early-151500737-html",
+      "title": "Saints vs Rams Predictions",
+      "link": "https://sports.yahoo.com/article/saints-vs-rams-predictions-early-151500737.html",
+      "source": "Early Picks & Odds for Week 9",
+      "ts": 1761553380.0,
+      "published_iso": "2025-10-27T08:23:00+00:00"
     },
     {
       "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-play-today-schedule-time-channel-next-game-5f42d30bb274a7772066",
@@ -25,6 +17,14 @@
       "source": "Sporting News",
       "ts": 1761432600.0,
       "published_iso": "2025-10-25T22:50:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls",
+      "title": "Rams vs. 49ers score, takeaways: Injury-depleted San Francisco fends off mistake-prone Los Angeles in overtime",
+      "link": "https://cbssports.com/nfl/news/rams-vs-49ers-live-updates-score-analysis-highlights-as-san-francisco-surprisingly-controls-first-half/live/",
+      "source": "CBS Sports",
+      "ts": 1759446600.0,
+      "published_iso": "2025-10-02T23:10:00+00:00"
     }
   ]
 }
