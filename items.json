@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-28T14:42:05.173544+00:00",
-  "count": 2,
+  "updated_iso": "2025-10-28T15:10:15.044506+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-watch-rams-cb-roger-mccrearys-144624549-html",
+      "title": "Watch new Rams CB Roger McCreary's NFL highlights from his time with the Titans",
+      "link": "https://sports.yahoo.com/article/watch-rams-cb-roger-mccrearys-144624549.html",
+      "source": "Yahoo Sports",
+      "ts": 1761638520.0,
+      "published_iso": "2025-10-28T08:02:00+00:00"
+    },
     {
       "id": "https-therams-com-audio-coach-mcvay-show-episode-65-sean-mcvay-terrance-ferguson-first-touchdown-rams-win-jaguars-roster",
       "title": "Ep. 65: Sean McVay recaps Terrance Ferguson's first NFL touchdown, film from the Rams' win over the Jaguars & recent roster moves",
