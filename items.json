@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-28T18:14:01.420142+00:00",
-  "count": 5,
+  "updated_iso": "2025-10-28T18:48:20.202251+00:00",
+  "count": 6,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-saints-rookie-qb-tyler-shough-140804878-html",
+      "title": "Saints rookie QB Tyler Shough to make 1st career start vs. Rams in Week 9",
+      "link": "https://sports.yahoo.com/article/saints-rookie-qb-tyler-shough-140804878.html",
+      "source": "Yahoo Sports",
+      "ts": 1761651300.0,
+      "published_iso": "2025-10-28T11:35:00+00:00"
+    },
     {
       "id": "https-bleacherreport-com-articles-25267767-tyler-shough-named-saints-qb1-vs-rams-spencer-rattler-benched",
       "title": "Tyler Shough Named Saints QB1 vs. Rams, Spencer Rattler Benched",
