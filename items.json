@@ -1,5 +1,38 @@
 {
-  "updated_iso": "2025-10-28T17:09:09.517928+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-10-28T17:38:54.312669+00:00",
+  "count": 4,
+  "items": [
+    {
+      "id": "https-si-com-betting-saints-vs-rams-prediction-odds-spread-injuries-trends-for-nfl-week-9",
+      "title": "Saints vs. Rams Prediction, Odds, Spread, Injuries, Trends for NFL Week 9",
+      "link": "https://si.com/betting/saints-vs-rams-prediction-odds-spread-injuries-trends-for-nfl-week-9",
+      "source": "Sports Illustrated",
+      "ts": 1761645360.0,
+      "published_iso": "2025-10-28T09:56:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25267767-tyler-shough-reportedly-named-saints-qb1-vs-rams-spencer-rattler-benched",
+      "title": "Tyler Shough Reportedly Named Saints QB1 vs. Rams, Spencer Rattler Benched",
+      "link": "https://bleacherreport.com/articles/25267767-tyler-shough-reportedly-named-saints-qb1-vs-rams-spencer-rattler-benched",
+      "source": "Bleacher Report",
+      "ts": 1761643860.0,
+      "published_iso": "2025-10-28T09:31:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-10-28-rams-roger-mcreary-titans-nfl-highlights-86944447007",
+      "title": "Watch new Rams CB Roger McCreary's NFL highlights from his time with the Titans",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/10/28/rams-roger-mcreary-titans-nfl-highlights/86944447007/",
+      "source": "Rams Wire",
+      "ts": 1761638280.0,
+      "published_iso": "2025-10-28T07:58:00+00:00"
+    },
+    {
+      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-play-today-schedule-time-channel-next-game-5f42d30bb274a7772066",
+      "title": "Do the Rams play today? Schedule, time, channel for next Los Angeles football game",
+      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-play-today-schedule-time-channel-next-game/5f42d30bb274a7772066efa8",
+      "source": "Sporting News",
+      "ts": 1761568680.0,
+      "published_iso": "2025-10-27T12:38:00+00:00"
+    }
+  ]
 }
