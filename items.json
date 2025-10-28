@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-10-28T17:38:54.312669+00:00",
-  "count": 4,
+  "updated_iso": "2025-10-28T18:14:01.420142+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-bleacherreport-com-articles-25267767-tyler-shough-named-saints-qb1-vs-rams-spencer-rattler-benched",
+      "title": "Tyler Shough Named Saints QB1 vs. Rams, Spencer Rattler Benched",
+      "link": "https://bleacherreport.com/articles/25267767-tyler-shough-named-saints-qb1-vs-rams-spencer-rattler-benched",
+      "source": "Bleacher Report",
+      "ts": 1761649500.0,
+      "published_iso": "2025-10-28T11:05:00+00:00"
+    },
+    {
+      "id": "https-therams-com-video-rams-the-hundreds-merchandise-collaboration-jared-verse-2025",
+      "title": "Rams x The Hundreds: A collaboration rooted in generations of love, community & passion for Rams football",
+      "link": "https://therams.com/video/rams-the-hundreds-merchandise-collaboration-jared-verse-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1761648060.0,
+      "published_iso": "2025-10-28T10:41:00+00:00"
+    },
     {
       "id": "https-si-com-betting-saints-vs-rams-prediction-odds-spread-injuries-trends-for-nfl-week-9",
       "title": "Saints vs. Rams Prediction, Odds, Spread, Injuries, Trends for NFL Week 9",
@@ -9,14 +25,6 @@
       "source": "Sports Illustrated",
       "ts": 1761645360.0,
       "published_iso": "2025-10-28T09:56:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25267767-tyler-shough-reportedly-named-saints-qb1-vs-rams-spencer-rattler-benched",
-      "title": "Tyler Shough Reportedly Named Saints QB1 vs. Rams, Spencer Rattler Benched",
-      "link": "https://bleacherreport.com/articles/25267767-tyler-shough-reportedly-named-saints-qb1-vs-rams-spencer-rattler-benched",
-      "source": "Bleacher Report",
-      "ts": 1761643860.0,
-      "published_iso": "2025-10-28T09:31:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-10-28-rams-roger-mcreary-titans-nfl-highlights-86944447007",
