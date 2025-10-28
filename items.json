@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-10-28T19:01:41.435416+00:00",
+  "updated_iso": "2025-10-28T19:31:31.824088+00:00",
   "count": 5,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-article-saints-rookie-qb-tyler-shough-140804878-html",
-      "title": "Saints rookie QB Tyler Shough to make 1st career start vs. Rams in Week 9",
-      "link": "https://sports.yahoo.com/article/saints-rookie-qb-tyler-shough-140804878.html",
-      "source": "Yahoo Sports",
-      "ts": 1761651300.0,
-      "published_iso": "2025-10-28T11:35:00+00:00"
-    },
     {
       "id": "https-bleacherreport-com-articles-25267767-tyler-shough-named-saints-qb1-vs-rams-spencer-rattler-benched",
       "title": "Tyler Shough Named Saints QB1 vs. Rams, Spencer Rattler Benched",
@@ -25,6 +17,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1761648060.0,
       "published_iso": "2025-10-28T10:41:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-saints-vs-rams-prediction-odds-spread-injuries-trends-for-nfl-week-9",
+      "title": "Saints vs. Rams Prediction, Odds, Spread, Injuries, Trends for NFL Week 9",
+      "link": "https://si.com/betting/saints-vs-rams-prediction-odds-spread-injuries-trends-for-nfl-week-9",
+      "source": "Sports Illustrated",
+      "ts": 1761645360.0,
+      "published_iso": "2025-10-28T09:56:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-10-28-rams-roger-mcreary-titans-nfl-highlights-86944447007",
