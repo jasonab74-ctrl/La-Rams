@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-28T16:12:06.847787+00:00",
+  "updated_iso": "2025-10-28T16:46:58.061291+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-bleacherreport-com-articles-25267767-tyler-shough-reportedly-named-saints-qb1-vs-rams-spencer-rattler-benched",
+      "title": "Tyler Shough Reportedly Named Saints QB1 vs. Rams, Spencer Rattler Benched",
+      "link": "https://bleacherreport.com/articles/25267767-tyler-shough-reportedly-named-saints-qb1-vs-rams-spencer-rattler-benched",
+      "source": "Bleacher Report",
+      "ts": 1761643860.0,
+      "published_iso": "2025-10-28T09:31:00+00:00"
+    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-10-28-rams-roger-mcreary-titans-nfl-highlights-86944447007",
       "title": "Watch new Rams CB Roger McCreary's NFL highlights from his time with the Titans",
@@ -9,14 +17,6 @@
       "source": "Rams Wire",
       "ts": 1761638280.0,
       "published_iso": "2025-10-28T07:58:00+00:00"
-    },
-    {
-      "id": "https-therams-com-audio-coach-mcvay-show-episode-65-sean-mcvay-terrance-ferguson-first-touchdown-rams-win-jaguars-roster",
-      "title": "Ep. 65: Sean McVay recaps Terrance Ferguson's first NFL touchdown, film from the Rams' win over the Jaguars & recent roster moves",
-      "link": "https://therams.com/audio/coach-mcvay-show-episode-65-sean-mcvay-terrance-ferguson-first-touchdown-rams-win-jaguars-roster",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1761585660.0,
-      "published_iso": "2025-10-27T17:21:00+00:00"
     },
     {
       "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-play-today-schedule-time-channel-next-game-5f42d30bb274a7772066",
