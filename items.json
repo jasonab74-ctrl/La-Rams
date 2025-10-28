@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-28T00:40:56.898920+00:00",
-  "count": 1,
+  "updated_iso": "2025-10-28T02:20:36.368589+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-therams-com-audio-coach-mcvay-show-episode-65-sean-mcvay-terrance-ferguson-first-touchdown-rams-win-jaguars-roster",
@@ -9,6 +9,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1761585660.0,
       "published_iso": "2025-10-27T17:21:00+00:00"
+    },
+    {
+      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-play-today-schedule-time-channel-next-game-5f42d30bb274a7772066",
+      "title": "Do the Rams play today? Schedule, time, channel for next Los Angeles football game",
+      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-play-today-schedule-time-channel-next-game/5f42d30bb274a7772066efa8",
+      "source": "Sporting News",
+      "ts": 1761568680.0,
+      "published_iso": "2025-10-27T12:38:00+00:00"
     }
   ]
 }
