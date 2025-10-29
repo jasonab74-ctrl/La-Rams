@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-10-29T22:08:38.258541+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-29T22:38:38.166990+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-si-com-nfl-rams-onsi-sean-mcvay-new-orleans-saints-los-angeles-davante-adams",
+      "title": "Sean McVay Talks About the Rams Preparations After Bye Week",
+      "link": "https://si.com/nfl/rams/onsi/sean-mcvay-new-orleans-saints-los-angeles-davante-adams",
+      "source": "Sports Illustrated",
+      "ts": 1761751200.0,
+      "published_iso": "2025-10-29T15:20:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-new-orleans-saints-los-angeles-matthew-stafford-sean-mcvay",
+      "title": "Rams Matthew Stafford Discusses Saints Week",
+      "link": "https://si.com/nfl/rams/onsi/new-orleans-saints-los-angeles-matthew-stafford-sean-mcvay",
+      "source": "Sports Illustrated",
+      "ts": 1761751140.0,
+      "published_iso": "2025-10-29T15:19:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-article-orleans-saints-los-angeles-rams-165707275-html",
       "title": "New Orleans Saints at Los Angeles Rams Week 9 broadcast map: Will you be able to watch on TV?",
@@ -17,14 +33,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1761735360.0,
       "published_iso": "2025-10-29T10:56:00+00:00"
-    },
-    {
-      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-play-today-schedule-time-channel-next-game-5f42d30bb274a7772066",
-      "title": "Do the Rams play today? Schedule, time, channel for next Los Angeles football game",
-      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-play-today-schedule-time-channel-next-game/5f42d30bb274a7772066efa8",
-      "source": "Sporting News",
-      "ts": 1761568680.0,
-      "published_iso": "2025-10-27T12:38:00+00:00"
     }
   ]
 }
