@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-29T20:10:17.666900+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-29T20:39:33.339285+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-orleans-saints-los-angeles-rams-165707275-html",
+      "title": "New Orleans Saints at Los Angeles Rams Week 9 broadcast map: Will you be able to watch on TV?",
+      "link": "https://sports.yahoo.com/article/orleans-saints-los-angeles-rams-165707275.html",
+      "source": "Yahoo Sports",
+      "ts": 1761743580.0,
+      "published_iso": "2025-10-29T13:13:00+00:00"
+    },
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-new-orleans-saints-how-to-watch-listen-to-and-live-stream-week-9-2025",
       "title": "Los Angeles Rams vs. New Orleans Saints: How to watch, listen to and live stream Week 9",
@@ -9,22 +17,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1761735360.0,
       "published_iso": "2025-10-29T10:56:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-5-rams-predictions-second-half-161649857-html",
-      "title": "5 Rams predictions for the second half of the season",
-      "link": "https://sports.yahoo.com/article/5-rams-predictions-second-half-161649857.html",
-      "source": "Yahoo Sports",
-      "ts": 1761730380.0,
-      "published_iso": "2025-10-29T09:33:00+00:00"
-    },
-    {
-      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-play-today-schedule-time-channel-next-game-5f42d30bb274a7772066",
-      "title": "Do the Rams play today? Schedule, time, channel for next Los Angeles football game",
-      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-play-today-schedule-time-channel-next-game/5f42d30bb274a7772066efa8",
-      "source": "Sporting News",
-      "ts": 1761568680.0,
-      "published_iso": "2025-10-27T12:38:00+00:00"
     }
   ]
 }
