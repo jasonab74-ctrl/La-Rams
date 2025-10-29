@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-29T14:09:35.564604+00:00",
-  "count": 1,
+  "updated_iso": "2025-10-29T14:42:41.645018+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-newly-acquired-rams-cornerback-roger-135740835-html",
+      "title": "How newly-acquired Rams cornerback Roger McCreary may be used vs Saints",
+      "link": "https://sports.yahoo.com/article/newly-acquired-rams-cornerback-roger-135740835.html",
+      "source": "Yahoo Sports",
+      "ts": 1761721800.0,
+      "published_iso": "2025-10-29T07:10:00+00:00"
+    },
     {
       "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-play-today-schedule-time-channel-next-game-5f42d30bb274a7772066",
       "title": "Do the Rams play today? Schedule, time, channel for next Los Angeles football game",
