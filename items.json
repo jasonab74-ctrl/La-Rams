@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-30T17:08:55.487480+00:00",
-  "count": 2,
+  "updated_iso": "2025-10-30T17:38:49.684155+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-rams-biggest-trade-deadline-needs-154315174-html",
@@ -9,6 +9,14 @@
       "source": "Yahoo Sports",
       "ts": 1761815520.0,
       "published_iso": "2025-10-30T09:12:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-nfl-rumors-insider-imagines-myles-145029835-html",
+      "title": "NFL rumors: Insider imagines Myles Garrett trade scenarios involving Cowboys, Rams",
+      "link": "https://sports.yahoo.com/article/nfl-rumors-insider-imagines-myles-145029835.html",
+      "source": "Yahoo Sports",
+      "ts": 1761815400.0,
+      "published_iso": "2025-10-30T09:10:00+00:00"
     },
     {
       "id": "https-therams-com-news-rams-rowi-teen-parent-wellness-centers-official-mental-health-partner-2025",
