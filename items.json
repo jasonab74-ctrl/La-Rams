@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-10-30T12:17:14.165338+00:00",
-  "count": 1,
+  "updated_iso": "2025-10-30T13:04:21.714423+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-si-com-nfl-rams-onsi-sean-mcvay-new-orleans-saints-los-angeles-davante-adams",
-      "title": "Sean McVay Talks About the Rams Preparations After Bye Week",
-      "link": "https://si.com/nfl/rams/onsi/sean-mcvay-new-orleans-saints-los-angeles-davante-adams",
-      "source": "Sports Illustrated",
-      "ts": 1761763140.0,
-      "published_iso": "2025-10-29T18:39:00+00:00"
+      "id": "https-sports-yahoo-com-article-rams-defense-playing-good-one-125030069-html",
+      "title": "Rams defense playing as good as one of the best teams in franchise history",
+      "link": "https://sports.yahoo.com/article/rams-defense-playing-good-one-125030069.html",
+      "source": "Yahoo Sports",
+      "ts": 1761804000.0,
+      "published_iso": "2025-10-30T06:00:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-rams-predicted-upgrade-offense-via-121020547-html",
+      "title": "Rams predicted to upgrade offense via trade deadline deal for Ravens Pro Bowler",
+      "link": "https://sports.yahoo.com/article/rams-predicted-upgrade-offense-via-121020547.html",
+      "source": "Yahoo Sports",
+      "ts": 1761802440.0,
+      "published_iso": "2025-10-30T05:34:00+00:00"
     }
   ]
 }
