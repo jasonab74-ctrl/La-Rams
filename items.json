@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-30T11:08:00.643324+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-30T11:32:29.667353+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-si-com-nfl-rams-onsi-sean-mcvay-new-orleans-saints-los-angeles-davante-adams",
@@ -9,14 +9,6 @@
       "source": "Sports Illustrated",
       "ts": 1761763140.0,
       "published_iso": "2025-10-29T18:39:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-feature-roger-mccreary-excited-about-new-opportunity-in-los-angeles",
-      "title": "Feature: Roger McCreary excited about new opportunity in Los Angeles",
-      "link": "https://therams.com/news/feature-roger-mccreary-excited-about-new-opportunity-in-los-angeles",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1761759540.0,
-      "published_iso": "2025-10-29T17:39:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-new-orleans-saints-how-to-watch-listen-to-and-live-stream-week-9-2025",
