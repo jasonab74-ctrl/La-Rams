@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2025-10-31T17:09:26.320450+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-10-31T17:37:52.503611+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-urged-trade-ravens-weapon-165957633-html",
+      "title": "Rams urged to trade for Ravens' weapon to complete offense",
+      "link": "https://sports.yahoo.com/article/rams-urged-trade-ravens-weapon-165957633.html",
+      "source": "Yahoo Sports",
+      "ts": 1761905880.0,
+      "published_iso": "2025-10-31T10:18:00+00:00"
+    }
+  ]
 }
