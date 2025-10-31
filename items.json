@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-10-31T02:23:52.052824+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-31T03:29:58.137774+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-si-com-nfl-rams-onsi-chris-shula-los-angeles-new-orleans-saints",
+      "title": "Chris Shula Provides Detailed Look at Rams Defensive Improvements",
+      "link": "https://si.com/nfl/rams/onsi/chris-shula-los-angeles-new-orleans-saints",
+      "source": "Sports Illustrated",
+      "ts": 1761852240.0,
+      "published_iso": "2025-10-30T19:24:00+00:00"
+    },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-mike-lafleur-new-orleans-saints",
       "title": "Rams Mike LaFleur Speaks on Team's Offensive Progress After BYE",
@@ -19,12 +27,12 @@
       "published_iso": "2025-10-30T18:28:00+00:00"
     },
     {
-      "id": "https-si-com-nfl-rams-onsi-sean-mcvay-new-orleans-saints-los-angeles-davante-adams",
-      "title": "Sean McVay Talks About the Rams Preparations After Bye Week",
-      "link": "https://si.com/nfl/rams/onsi/sean-mcvay-new-orleans-saints-los-angeles-davante-adams",
-      "source": "Sports Illustrated",
-      "ts": 1761763140.0,
-      "published_iso": "2025-10-29T18:39:00+00:00"
+      "id": "https-sports-yahoo-com-article-rams-puka-nacua-says-hes-004022771-html",
+      "title": "Rams' Puka Nacua says he's 'feeling fantastic' expected to return vs. Saints",
+      "link": "https://sports.yahoo.com/article/rams-puka-nacua-says-hes-004022771.html",
+      "source": "Yahoo Sports",
+      "ts": 1761846720.0,
+      "published_iso": "2025-10-30T17:52:00+00:00"
     }
   ]
 }
