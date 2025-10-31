@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-31T04:12:37.371460+00:00",
-  "count": 4,
+  "updated_iso": "2025-10-31T04:42:30.041111+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-si-com-nfl-rams-onsi-chris-shula-los-angeles-new-orleans-saints",
@@ -25,14 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1761848880.0,
       "published_iso": "2025-10-30T18:28:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-rams-puka-nacua-says-hes-004022771-html",
-      "title": "Rams' Puka Nacua says he's 'feeling fantastic' expected to return vs. Saints",
-      "link": "https://sports.yahoo.com/article/rams-puka-nacua-says-hes-004022771.html",
-      "source": "Yahoo Sports",
-      "ts": 1761846720.0,
-      "published_iso": "2025-10-30T17:52:00+00:00"
     }
   ]
 }
