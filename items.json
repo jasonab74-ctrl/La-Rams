@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-10-31T13:43:28.185102+00:00",
-  "count": 3,
+  "updated_iso": "2025-10-31T14:09:37.305523+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-orleans-saints-three-keys-success-010003103-html",
@@ -9,22 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1761848880.0,
       "published_iso": "2025-10-30T18:28:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-rowi-teen-parent-wellness-centers-official-mental-health-partner-2025",
-      "title": "Rams name ROWI Teen & Parent Wellness Centers as an official mental health partner",
-      "link": "https://therams.com/news/rams-rowi-teen-parent-wellness-centers-official-mental-health-partner-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1761815040.0,
-      "published_iso": "2025-10-30T09:04:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-vs-new-orleans-saints-how-to-watch-listen-to-and-live-stream-week-9-2025",
-      "title": "Los Angeles Rams vs. New Orleans Saints: How to watch, listen to and live stream Week 9",
-      "link": "https://therams.com/news/los-angeles-rams-vs-new-orleans-saints-how-to-watch-listen-to-and-live-stream-week-9-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1761735360.0,
-      "published_iso": "2025-10-29T10:56:00+00:00"
     }
   ]
 }
