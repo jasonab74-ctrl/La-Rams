@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2025-10-31T20:10:23.638798+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-10-31T20:37:21.065882+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-article-former-rams-rb-todd-gurley-184856729-html",
+      "title": "Former Rams RB Todd Gurley says he doesn't miss playing football, enjoys being a fan now",
+      "link": "https://sports.yahoo.com/article/former-rams-rb-todd-gurley-184856729.html",
+      "source": "Yahoo Sports",
+      "ts": 1761913620.0,
+      "published_iso": "2025-10-31T12:27:00+00:00"
+    }
+  ]
 }
