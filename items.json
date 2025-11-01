@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-01T19:02:13.462374+00:00",
+  "updated_iso": "2025-11-01T19:31:11.772587+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-latimes-com-0000019a-3c9f-d8d7-a1db-febf4b620000-123",
+      "title": "Rams return home looking to pick up win over struggling Saints",
+      "link": "https://latimes.com/0000019a-3c9f-d8d7-a1db-febf4b620000-123",
+      "source": "LA Times",
+      "ts": 1761932640.0,
+      "published_iso": "2025-10-31T17:44:00+00:00"
+    },
     {
       "id": "https-therams-com-news-rams-the-hundreds-retro-inspired-collection-celebrating-la-culture",
       "title": "Los Angeles Rams and The Hundreds drop retro-inspired collection celebrating L.A. culture, style, and legacy",
@@ -17,14 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1761848880.0,
       "published_iso": "2025-10-30T18:28:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-vs-new-orleans-saints-how-to-watch-listen-to-and-live-stream-week-9-2025",
-      "title": "Los Angeles Rams vs. New Orleans Saints: How to watch, listen to and live stream Week 9",
-      "link": "https://therams.com/news/los-angeles-rams-vs-new-orleans-saints-how-to-watch-listen-to-and-live-stream-week-9-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1761735360.0,
-      "published_iso": "2025-10-29T10:56:00+00:00"
     }
   ]
 }
