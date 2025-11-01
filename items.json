@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2025-11-01T09:33:05.082017+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-11-01T10:08:55.257764+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-latimes-com-0000019a-3c9f-d8d7-a1db-febf4b620000-123",
+      "title": "Rams return home looking to pick up win over struggling Saints",
+      "link": "https://latimes.com/0000019a-3c9f-d8d7-a1db-febf4b620000-123",
+      "source": "LA Times",
+      "ts": 1761932640.0,
+      "published_iso": "2025-10-31T17:44:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-the-hundreds-retro-inspired-collection-celebrating-la-culture",
+      "title": "Los Angeles Rams and The Hundreds drop retro-inspired collection celebrating L.A. culture, style, and legacy",
+      "link": "https://therams.com/news/rams-the-hundreds-retro-inspired-collection-celebrating-la-culture",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1761901800.0,
+      "published_iso": "2025-10-31T09:10:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-orleans-saints-three-keys-success-010003103-html",
+      "title": "New Orleans Saints' Three Keys to Success against Los Angeles Rams in Week 9",
+      "link": "https://sports.yahoo.com/article/orleans-saints-three-keys-success-010003103.html",
+      "source": "Yahoo Sports",
+      "ts": 1761848880.0,
+      "published_iso": "2025-10-30T18:28:00+00:00"
+    }
+  ]
 }
