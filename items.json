@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-11-02T16:40:05.793977+00:00",
-  "count": 3,
+  "updated_iso": "2025-11-02T17:06:49.743720+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-therams-com-news-rams-the-hundreds-retro-inspired-collection-celebrating-la-culture",
@@ -17,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1761848880.0,
       "published_iso": "2025-10-30T18:28:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-vs-new-orleans-saints-how-to-watch-listen-to-and-live-stream-week-9-2025",
-      "title": "Los Angeles Rams vs. New Orleans Saints: How to watch, listen to and live stream Week 9",
-      "link": "https://therams.com/news/los-angeles-rams-vs-new-orleans-saints-how-to-watch-listen-to-and-live-stream-week-9-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1761735360.0,
-      "published_iso": "2025-10-29T10:56:00+00:00"
     }
   ]
 }
