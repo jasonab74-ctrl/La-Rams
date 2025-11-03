@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-11-03T22:09:24.542710+00:00",
-  "count": 2,
+  "updated_iso": "2025-11-03T22:38:25.307044+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-rams-puka-nacua-gets-injury-192556342-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1762173480.0,
       "published_iso": "2025-11-03T12:38:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-vs-new-orleans-saints-how-to-watch-listen-to-and-live-stream-week-9-2025",
-      "title": "Los Angeles Rams vs. New Orleans Saints: How to watch, listen to and live stream Week 9",
-      "link": "https://therams.com/news/los-angeles-rams-vs-new-orleans-saints-how-to-watch-listen-to-and-live-stream-week-9-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1761735360.0,
-      "published_iso": "2025-10-29T10:56:00+00:00"
     }
   ]
 }
