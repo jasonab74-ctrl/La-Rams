@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-11-03T05:10:36.752892+00:00",
-  "count": 2,
+  "updated_iso": "2025-11-03T05:39:29.598169+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-therams-com-video-rams-kobie-turner-dodgers-celebration-fourth-down-stop-taysom-hill",
@@ -9,14 +9,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1762104420.0,
       "published_iso": "2025-11-02T17:27:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-the-hundreds-retro-inspired-collection-celebrating-la-culture",
-      "title": "Los Angeles Rams and The Hundreds drop retro-inspired collection celebrating L.A. culture, style, and legacy",
-      "link": "https://therams.com/news/rams-the-hundreds-retro-inspired-collection-celebrating-la-culture",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1761901800.0,
-      "published_iso": "2025-10-31T09:10:00+00:00"
     }
   ]
 }
