@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-11-03T20:10:23.041761+00:00",
-  "count": 3,
+  "updated_iso": "2025-11-03T20:39:21.892153+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-puka-nacua-new-orleans-saints-mike-lafleur",
@@ -17,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1761848880.0,
       "published_iso": "2025-10-30T18:28:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-vs-new-orleans-saints-how-to-watch-listen-to-and-live-stream-week-9-2025",
-      "title": "Los Angeles Rams vs. New Orleans Saints: How to watch, listen to and live stream Week 9",
-      "link": "https://therams.com/news/los-angeles-rams-vs-new-orleans-saints-how-to-watch-listen-to-and-live-stream-week-9-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1761735360.0,
-      "published_iso": "2025-10-29T10:56:00+00:00"
     }
   ]
 }
