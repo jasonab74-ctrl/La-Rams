@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-11-03T02:28:35.665603+00:00",
-  "count": 4,
+  "updated_iso": "2025-11-03T03:36:50.641468+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-foxsports-com-watch-fmc-tl3s3qgrgk7aowqg",
@@ -17,22 +17,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1762104420.0,
       "published_iso": "2025-11-02T17:27:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-videos-jonah-williams-first-sack-of-2025-comes-in-week-9-vs-rams",
-      "title": "Jonah Williams first sack of 2025 comes in Week 9 vs. Rams",
-      "link": "https://nfl.com/videos/jonah-williams-first-sack-of-2025-comes-in-week-9-vs-rams",
-      "source": "NFL.com",
-      "ts": 1762100280.0,
-      "published_iso": "2025-11-02T16:18:00+00:00"
-    },
-    {
-      "id": "https-therams-com-video-highlights-rams-de-braden-fiske-takes-saints-qb-tyler-shough-to-the-turf-for-a-9-yard-sack",
-      "title": "HIGHLIGHTS: Rams DE Braden Fiske takes Saints QB Tyler Shough to the turf for a 9-yard sack",
-      "link": "https://therams.com/video/highlights-rams-de-braden-fiske-takes-saints-qb-tyler-shough-to-the-turf-for-a-9-yard-sack",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1762095300.0,
-      "published_iso": "2025-11-02T14:55:00+00:00"
     }
   ]
 }
