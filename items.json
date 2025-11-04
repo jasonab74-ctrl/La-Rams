@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-11-04T16:11:57.520831+00:00",
-  "count": 3,
+  "updated_iso": "2025-11-04T16:45:09.146783+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-04-la-rams-grades-positions-roster-week-9-saints-8708420300",
@@ -11,20 +11,12 @@
       "published_iso": "2025-11-04T07:40:00+00:00"
     },
     {
-      "id": "https-therams-com-news-rams-the-hundreds-retro-inspired-collection-celebrating-la-culture",
-      "title": "Los Angeles Rams and The Hundreds drop retro-inspired collection celebrating L.A. culture, style, and legacy",
-      "link": "https://therams.com/news/rams-the-hundreds-retro-inspired-collection-celebrating-la-culture",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1761901800.0,
-      "published_iso": "2025-10-31T09:10:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-vs-new-orleans-saints-how-to-watch-listen-to-and-live-stream-week-9-2025",
-      "title": "Los Angeles Rams vs. New Orleans Saints: How to watch, listen to and live stream Week 9",
-      "link": "https://therams.com/news/los-angeles-rams-vs-new-orleans-saints-how-to-watch-listen-to-and-live-stream-week-9-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1761735360.0,
-      "published_iso": "2025-10-29T10:56:00+00:00"
+      "id": "https-apnews-com-article-rams-saints-score-1c4c26782192880878ea840f326533f0",
+      "title": "Matthew Stafford hits Davante Adams with 2 of his 4 TD passes while the Rams rout the Saints 34-10",
+      "link": "https://apnews.com/article/rams-saints-score-1c4c26782192880878ea840f326533f0",
+      "source": "AP News",
+      "ts": 1762105920.0,
+      "published_iso": "2025-11-02T17:52:00+00:00"
     }
   ]
 }
