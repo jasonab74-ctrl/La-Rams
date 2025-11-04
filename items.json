@@ -1,5 +1,38 @@
 {
-  "updated_iso": "2025-11-04T18:46:55.217838+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-11-04T19:07:43.542699+00:00",
+  "count": 4,
+  "items": [
+    {
+      "id": "https-si-com-betting-rams-vs-49ers-prediction-odds-spread-injuries-trends-for-nfl-week-10",
+      "title": "Rams vs. 49ers Prediction, Odds, Spread, Injuries, Trends for NFL Week 10",
+      "link": "https://si.com/betting/rams-vs-49ers-prediction-odds-spread-injuries-trends-for-nfl-week-10",
+      "source": "Sports Illustrated",
+      "ts": 1762254300.0,
+      "published_iso": "2025-11-04T11:05:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-former-rams-pro-bowler-signs-184341793-html",
+      "title": "Former Rams Pro Bowler re-signs with Los Angeles after 4 years away",
+      "link": "https://sports.yahoo.com/article/former-rams-pro-bowler-signs-184341793.html",
+      "source": "Yahoo Sports",
+      "ts": 1762253520.0,
+      "published_iso": "2025-11-04T10:52:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-sign-long-snapper-jake-mcquaide-to-practice-squad",
+      "title": "Rams sign long snapper Jake McQuaide to practice squad",
+      "link": "https://therams.com/news/rams-sign-long-snapper-jake-mcquaide-to-practice-squad",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1762252320.0,
+      "published_iso": "2025-11-04T10:32:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-04-la-rams-grades-positions-roster-week-9-saints-8708420300",
+      "title": "Rams Week 9 report card: Grading every position in win vs. Saints",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/04/la-rams-grades-positions-roster-week-9-saints/87084203007/",
+      "source": "Rams Wire",
+      "ts": 1762242000.0,
+      "published_iso": "2025-11-04T07:40:00+00:00"
+    }
+  ]
 }
