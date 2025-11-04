@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-11-04T08:13:17.766060+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-11-04T08:45:51.375756+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-puka-nacua-gets-injury-192556342-html",
+      "title": "Rams' Puka Nacua gets injury update after exiting Week 9 vs. Saints",
+      "link": "https://sports.yahoo.com/article/rams-puka-nacua-gets-injury-192556342.html",
+      "source": "Yahoo Sports",
+      "ts": 1762173480.0,
+      "published_iso": "2025-11-03T12:38:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25278155-puka-nacua-will-undergo-scans-rib-injury-rams-sean-mcvay-optimistic-about-wr",
+      "title": "Puka Nacua Will Undergo Scans on Rib Injury, Rams' Sean McVay 'Optimistic' About WR",
+      "link": "https://bleacherreport.com/articles/25278155-puka-nacua-will-undergo-scans-rib-injury-rams-sean-mcvay-optimistic-about-wr",
+      "source": "Bleacher Report",
+      "ts": 1762168680.0,
+      "published_iso": "2025-11-03T11:18:00+00:00"
+    }
+  ]
 }
