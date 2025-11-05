@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-05T21:32:51.863947+00:00",
-  "count": 2,
+  "updated_iso": "2025-11-05T22:08:39.832890+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-bleacherreport-com-articles-25284519-who-thiccer-kicker-should-he-be-rams-starter-playoff-race",
+      "title": "Who Is The Thiccer Kicker? Should He Be the Rams' Starter for Playoff Race?",
+      "link": "https://bleacherreport.com/articles/25284519-who-thiccer-kicker-should-he-be-rams-starter-playoff-race",
+      "source": "Bleacher Report",
+      "ts": 1762350000.0,
+      "published_iso": "2025-11-05T13:40:00+00:00"
+    },
     {
       "id": "https-therams-com-news-rams-hollywood-park-launch-free-s-t-e-a-m-education-program",
       "title": "Rams and Hollywood Park launch free S.T.E.A.M. Education Program to reach school districts across Los Angeles",
