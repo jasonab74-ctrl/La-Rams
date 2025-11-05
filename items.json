@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-05T19:31:41.895603+00:00",
+  "updated_iso": "2025-11-05T20:10:20.355999+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-signing-kicker-great-nickname-191725313-html",
+      "title": "Rams signing kicker with great nickname after Sean McVay hinted at change",
+      "link": "https://sports.yahoo.com/article/rams-signing-kicker-great-nickname-191725313.html",
+      "source": "Yahoo Sports",
+      "ts": 1762343280.0,
+      "published_iso": "2025-11-05T11:48:00+00:00"
+    },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-week-10-2025",
       "title": "Los Angeles Rams at San Francisco 49ers: How to watch, listen to and live stream Week 10",
@@ -9,14 +17,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1762339800.0,
       "published_iso": "2025-11-05T10:50:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-sign-kicker-harrison-mevis-to-practice-squad-sign-ronnie-rivers-to-active-roster",
-      "title": "Rams sign kicker Harrison Mevis to practice squad, sign Ronnie Rivers to active roster",
-      "link": "https://therams.com/news/rams-sign-kicker-harrison-mevis-to-practice-squad-sign-ronnie-rivers-to-active-roster",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1762336620.0,
-      "published_iso": "2025-11-05T09:57:00+00:00"
     }
   ]
 }
