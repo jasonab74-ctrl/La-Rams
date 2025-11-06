@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2025-11-06T06:48:43.993309+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-11-06T07:09:45.105401+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-article-sean-mcvay-reveals-rams-plan-020304963-html",
+      "title": "Sean McVay reveals Rams’ plan at kicker after signing free agent",
+      "link": "https://sports.yahoo.com/article/sean-mcvay-reveals-rams-plan-020304963.html",
+      "source": "Yahoo Sports",
+      "ts": 1762366200.0,
+      "published_iso": "2025-11-05T18:10:00+00:00"
+    }
+  ]
 }
