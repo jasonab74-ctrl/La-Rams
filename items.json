@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-11-06T02:26:30.641735+00:00",
-  "count": 2,
+  "updated_iso": "2025-11-06T03:33:19.309617+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-sean-mcvay-reveals-rams-plan-020304963-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1762366200.0,
       "published_iso": "2025-11-05T18:10:00+00:00"
-    },
-    {
-      "id": "https-ocregister-com-2025-11-05-rams-holding-kicker-competition-after-signing-harrison-mevis-to-practice-squad",
-      "title": "Rams holding kicker competition after signing Harrison Mevis to practice squad",
-      "link": "https://ocregister.com/2025/11/05/rams-holding-kicker-competition-after-signing-harrison-mevis-to-practice-squad/",
-      "source": "OC Register",
-      "ts": 1762365480.0,
-      "published_iso": "2025-11-05T17:58:00+00:00"
     }
   ]
 }
