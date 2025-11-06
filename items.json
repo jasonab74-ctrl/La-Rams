@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-06T20:09:55.705398+00:00",
-  "count": 1,
+  "updated_iso": "2025-11-06T20:39:11.140468+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-week-10-nfl-picks-rams-190000684-html",
+      "title": "Week 10 NFL picks: Will Rams get first divisional win?",
+      "link": "https://sports.yahoo.com/article/week-10-nfl-picks-rams-190000684.html",
+      "source": "Yahoo Sports",
+      "ts": 1762431000.0,
+      "published_iso": "2025-11-06T12:10:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-article-los-angeles-rams-predicted-bring-022529650-html",
       "title": "Los Angeles Rams predicted to bring in legendary name to be Matthew Stafford's successor",
@@ -9,6 +17,14 @@
       "source": "Yahoo Sports",
       "ts": 1762367880.0,
       "published_iso": "2025-11-05T18:38:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-week-10-2025",
+      "title": "Los Angeles Rams at San Francisco 49ers: How to watch, listen to and live stream Week 10",
+      "link": "https://therams.com/news/los-angeles-rams-at-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-week-10-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1762339800.0,
+      "published_iso": "2025-11-05T10:50:00+00:00"
     }
   ]
 }
