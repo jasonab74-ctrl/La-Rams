@@ -1,30 +1,22 @@
 {
-  "updated_iso": "2025-11-06T00:43:30.110035+00:00",
-  "count": 3,
+  "updated_iso": "2025-11-06T02:26:30.641735+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-matthew-stafford-recent-offensive-breakthrough",
-      "title": "Matthew Stafford Speaks on Rams' Recent Offensive Breakthroughs",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-matthew-stafford-recent-offensive-breakthrough",
-      "source": "Sports Illustrated",
-      "ts": 1762360860.0,
-      "published_iso": "2025-11-05T16:41:00+00:00"
+      "id": "https-sports-yahoo-com-article-sean-mcvay-reveals-rams-plan-020304963-html",
+      "title": "Sean McVay reveals Rams’ plan at kicker after signing free agent",
+      "link": "https://sports.yahoo.com/article/sean-mcvay-reveals-rams-plan-020304963.html",
+      "source": "Yahoo Sports",
+      "ts": 1762366200.0,
+      "published_iso": "2025-11-05T18:10:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-article-former-missouri-football-kicker-harrison-212929308-html",
-      "title": "Former Missouri football kicker Harrison Mevis lands on practice squad with Los Angeles Rams",
-      "link": "https://sports.yahoo.com/article/former-missouri-football-kicker-harrison-212929308.html",
-      "source": "Yahoo Sports",
-      "ts": 1762360200.0,
-      "published_iso": "2025-11-05T16:30:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-49ers-game-plan-keys-sweeping-000003435-html",
-      "title": "49ers’ Game Plan: What Are Keys To Sweeping Rams in NFC West Showdown?",
-      "link": "https://sports.yahoo.com/article/49ers-game-plan-keys-sweeping-000003435.html",
-      "source": "Yahoo Sports",
-      "ts": 1762359060.0,
-      "published_iso": "2025-11-05T16:11:00+00:00"
+      "id": "https-ocregister-com-2025-11-05-rams-holding-kicker-competition-after-signing-harrison-mevis-to-practice-squad",
+      "title": "Rams holding kicker competition after signing Harrison Mevis to practice squad",
+      "link": "https://ocregister.com/2025/11/05/rams-holding-kicker-competition-after-signing-harrison-mevis-to-practice-squad/",
+      "source": "OC Register",
+      "ts": 1762365480.0,
+      "published_iso": "2025-11-05T17:58:00+00:00"
     }
   ]
 }
