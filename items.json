@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-11-07T19:31:19.608810+00:00",
-  "count": 1,
+  "updated_iso": "2025-11-07T20:09:50.967531+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-thiccer-kicker-harrison-mevis-195419730-html",
+      "title": "Rams to go with ‘Thiccer Kicker’, Harrison Mevis on Sunday",
+      "link": "https://sports.yahoo.com/article/rams-thiccer-kicker-harrison-mevis-195419730.html",
+      "source": "Yahoo Sports",
+      "ts": 1762516920.0,
+      "published_iso": "2025-11-07T12:02:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-puka-nacua-offense-success",
+      "title": "Why Puka Nacua Thinks the Rams' Offense Has Been a Success",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-puka-nacua-offense-success",
+      "source": "Sports Illustrated",
+      "ts": 1762516800.0,
+      "published_iso": "2025-11-07T12:00:00+00:00"
+    },
     {
       "id": "https-bleacherreport-com-articles-25286363-rams-hc-confirms-thiccer-kicker-harrison-mevis-will-start-over-karty-vs-49ers",
       "title": "Rams HC Confirms 'The Thiccer Kicker' Harrison Mevis Will Start over Karty vs. 49ers",
