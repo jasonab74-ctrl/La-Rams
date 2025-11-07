@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2025-11-07T20:35:18.559441+00:00",
-  "count": 4,
+  "updated_iso": "2025-11-07T21:02:32.683514+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-therams-com-news-rams-49ers-tussle-huge-division-showdown-week-10-2025-levis-stadium-game-preview",
-      "title": "Rams & 49ers tussle in huge Week 10 division showdown | Game Preview",
-      "link": "https://therams.com/news/rams-49ers-tussle-huge-division-showdown-week-10-2025-levis-stadium-game-preview",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1762517880.0,
-      "published_iso": "2025-11-07T12:18:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-rams-thiccer-kicker-harrison-mevis-195419730-html",
-      "title": "Rams to go with ‘Thiccer Kicker’, Harrison Mevis on Sunday",
-      "link": "https://sports.yahoo.com/article/rams-thiccer-kicker-harrison-mevis-195419730.html",
-      "source": "Yahoo Sports",
-      "ts": 1762516920.0,
-      "published_iso": "2025-11-07T12:02:00+00:00"
+      "id": "https-bleacherreport-com-articles-25286363-thiccer-kicker-harrison-mevis-will-start-over-karty-vs-49ers-rams-hc-confirms",
+      "title": "'The Thiccer Kicker' Harrison Mevis Will Start over Karty vs. 49ers, Rams HC Confirms",
+      "link": "https://bleacherreport.com/articles/25286363-thiccer-kicker-harrison-mevis-will-start-over-karty-vs-49ers-rams-hc-confirms",
+      "source": "Bleacher Report",
+      "ts": 1762518960.0,
+      "published_iso": "2025-11-07T12:36:00+00:00"
     },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-puka-nacua-offense-success",
@@ -25,14 +17,6 @@
       "source": "Sports Illustrated",
       "ts": 1762516800.0,
       "published_iso": "2025-11-07T12:00:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25286363-rams-hc-confirms-thiccer-kicker-harrison-mevis-will-start-over-karty-vs-49ers",
-      "title": "Rams HC Confirms 'The Thiccer Kicker' Harrison Mevis Will Start over Karty vs. 49ers",
-      "link": "https://bleacherreport.com/articles/25286363-rams-hc-confirms-thiccer-kicker-harrison-mevis-will-start-over-karty-vs-49ers",
-      "source": "Bleacher Report",
-      "ts": 1762514460.0,
-      "published_iso": "2025-11-07T11:21:00+00:00"
     }
   ]
 }
