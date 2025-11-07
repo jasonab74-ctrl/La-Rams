@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-11-07T21:02:32.683514+00:00",
-  "count": 2,
+  "updated_iso": "2025-11-07T21:31:12.529692+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-bleacherreport-com-articles-25286363-thiccer-kicker-harrison-mevis-will-start-over-karty-vs-49ers-rams-hc-confirms",
@@ -9,6 +9,14 @@
       "source": "Bleacher Report",
       "ts": 1762518960.0,
       "published_iso": "2025-11-07T12:36:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-49ers-tussle-huge-division-showdown-week-10-2025-levis-stadium-game-preview",
+      "title": "Rams & 49ers tussle in huge Week 10 division showdown | Game Preview",
+      "link": "https://therams.com/news/rams-49ers-tussle-huge-division-showdown-week-10-2025-levis-stadium-game-preview",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1762517880.0,
+      "published_iso": "2025-11-07T12:18:00+00:00"
     },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-puka-nacua-offense-success",
