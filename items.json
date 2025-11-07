@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-11-07T18:12:56.766250+00:00",
-  "count": 2,
+  "updated_iso": "2025-11-07T18:43:41.392039+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-five-49ers-watch-key-nfc-084716597-html",
@@ -9,6 +9,14 @@
       "source": "Yahoo Sports",
       "ts": 1762510140.0,
       "published_iso": "2025-11-07T10:09:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-puka-nacua-offense-success",
+      "title": "Why Puka Nacua Thinks the Rams' Offense Has Been a Success",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-puka-nacua-offense-success",
+      "source": "Sports Illustrated",
+      "ts": 1762504860.0,
+      "published_iso": "2025-11-07T08:41:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-week-10-2025",
