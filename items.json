@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-11-08T18:11:39.178135+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-11-08T18:42:34.518227+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-puka-nacua-off-injury-165923549-html",
+      "title": "Rams’ Puka Nacua off injury report, good to go for Week 10 vs. 49ers",
+      "link": "https://sports.yahoo.com/article/rams-puka-nacua-off-injury-165923549.html",
+      "source": "Yahoo Sports",
+      "ts": 1762596900.0,
+      "published_iso": "2025-11-08T10:15:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-3-keys-to-winning-for-the-rams-against-the-49ers-in-week-10-2025",
+      "title": "3 Keys to Winning for the Rams against the 49ers in Week 10",
+      "link": "https://therams.com/news/3-keys-to-winning-for-the-rams-against-the-49ers-in-week-10-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1762596180.0,
+      "published_iso": "2025-11-08T10:03:00+00:00"
+    }
+  ]
 }
