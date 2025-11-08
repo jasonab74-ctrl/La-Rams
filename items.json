@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-08T05:37:22.520074+00:00",
-  "count": 2,
+  "updated_iso": "2025-11-08T06:12:14.436018+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-49ers-rams-roundtable-whos-stopping-014505967-html",
+      "title": "49ers-Rams roundtable: Who's stopping Matthew Stafford? Can S.F. pull off the upset?",
+      "link": "https://sports.yahoo.com/article/49ers-rams-roundtable-whos-stopping-014505967.html",
+      "source": "Yahoo Sports",
+      "ts": 1762551660.0,
+      "published_iso": "2025-11-07T21:41:00+00:00"
+    },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-sean-mcvay-details-roster-decisions-san-francisco-49ers",
       "title": "Rams Sean McVay Details Roster Decisions Before 49ers Game",
