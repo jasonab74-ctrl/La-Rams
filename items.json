@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-11-09T18:40:56.114621+00:00",
-  "count": 5,
+  "updated_iso": "2025-11-09T19:02:19.889324+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-latimes-com-sports-rams-live-rams-vs-49ers-live-updates-how-to-watch-start-time-and-betting-odds",
@@ -19,14 +19,6 @@
       "published_iso": "2025-11-09T10:11:00+00:00"
     },
     {
-      "id": "https-foxsports-com-watch-fmc-fghccv39cykmd09e",
-      "title": "Will 49ers snag NFC West crown from Rams with next-man up mentality? | FOX NFL Sunday",
-      "link": "https://foxsports.com/watch/fmc-fghccv39cykmd09e",
-      "source": "FOX Sports",
-      "ts": 1762679160.0,
-      "published_iso": "2025-11-09T09:06:00+00:00"
-    },
-    {
       "id": "https-sports-yahoo-com-nfl-article-la-rams-vs-san-francisco-49ers-nfl-game-how-to-watch-kickoff-time-tv-channel-and-more",
       "title": "L.A. Rams vs. San Francisco 49ers NFL game: How to watch, kickoff time, TV channel and more",
       "link": "https://sports.yahoo.com/nfl/article/la-rams-vs-san-francisco-49ers-nfl-game-how-to-watch-kickoff-time-tv-channel-and-more-133553077.html",
@@ -35,12 +27,12 @@
       "published_iso": "2025-11-09T05:47:00+00:00"
     },
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-08-nfl-week-10-rams-vs-49ers-odds-lines-how-to-watch-11-9-2",
-      "title": "Los Angeles Rams vs. San Francisco 49ers live stream, TV channel, start time, odds | Week 10 2025",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/08/nfl-week-10-rams-vs-49ers-odds-lines-how-to-watch-11-9-2025/87175506007/",
-      "source": "Rams Wire",
-      "ts": 1762531200.0,
-      "published_iso": "2025-11-07T16:00:00+00:00"
+      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-los-angeles-rams-banking-going-hefty-fix-what-could-derail-their-sea",
+      "title": "Los Angeles Rams banking on going hefty to fix what could derail their season",
+      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/los-angeles-rams-banking-going-hefty-fix-what-could-derail-their-season/fbcbb156d1603d119d407450",
+      "source": "Sporting News",
+      "ts": 1762617660.0,
+      "published_iso": "2025-11-08T16:01:00+00:00"
     }
   ]
 }
