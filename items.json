@@ -1,7 +1,39 @@
 {
-  "updated_iso": "2025-11-09T22:36:07.559771+00:00",
-  "count": 4,
+  "updated_iso": "2025-11-09T23:07:51.470182+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-kendrick-bourne-playing-today-why-225329182-html",
+      "title": "Is Kendrick Bourne playing today? Why 49ers WR had quiet first half vs. Rams",
+      "link": "https://sports.yahoo.com/article/kendrick-bourne-playing-today-why-225329182.html",
+      "source": "Yahoo Sports",
+      "ts": 1762700760.0,
+      "published_iso": "2025-11-09T15:06:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-videos-landman-s-forceful-punch-ends-in-jennings-fumble-for-a-rams-recovery",
+      "title": "Landman's forceful punch ends in Jennings fumble for a Rams recovery",
+      "link": "https://nfl.com/videos/landman-s-forceful-punch-ends-in-jennings-fumble-for-a-rams-recovery",
+      "source": "NFL.com",
+      "ts": 1762700280.0,
+      "published_iso": "2025-11-09T14:58:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-watch-fmc-wbwyfo19c3dr7vw3",
+      "title": "Rams’ Matthew Stafford hits Davis Allen for touchdown vs. 49ers, his 400th career passing TD | NFL Highlights",
+      "link": "https://foxsports.com/watch/fmc-wbwyfo19c3dr7vw3",
+      "source": "FOX Sports",
+      "ts": 1762699620.0,
+      "published_iso": "2025-11-09T14:47:00+00:00"
+    },
+    {
+      "id": "https-therams-com-video-rams-davante-adams-wide-open-23-yard-catch-49ers-territory",
+      "title": "HIGHLIGHTS: Rams WR Davante Adams wide open for a 23-yard catch in 49ers territory",
+      "link": "https://therams.com/video/rams-davante-adams-wide-open-23-yard-catch-49ers-territory",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1762699020.0,
+      "published_iso": "2025-11-09T14:37:00+00:00"
+    },
     {
       "id": "https-latimes-com-sports-rams-live-rams-vs-49ers-live-updates-how-to-watch-start-time-and-betting-odds",
       "title": "Rams vs. 49ers live updates: Matthew Stafford throws his 400th career TD pass",
@@ -9,30 +41,6 @@
       "source": "LA Times",
       "ts": 1762698420.0,
       "published_iso": "2025-11-09T14:27:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-watch-vertical-fmc-4xbagq3zjdy64xu6",
-      "title": "Matthew Stafford connects with Puka Nacua for 22-yard TD, extending Rams' lead over 49ers | NFL Highlights",
-      "link": "https://foxsports.com/watch-vertical/fmc-4xbagq3zjdy64xu6",
-      "source": "FOX Sports",
-      "ts": 1762697640.0,
-      "published_iso": "2025-11-09T14:14:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-watch-fmc-p15wf6eay6h94zta",
-      "title": "Kyren Williams punches it in from two yards out for TD, giving Rams early lead over 49ers | NFL Highlights",
-      "link": "https://foxsports.com/watch/fmc-p15wf6eay6h94zta",
-      "source": "FOX Sports",
-      "ts": 1762696560.0,
-      "published_iso": "2025-11-09T13:56:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-los-angeles-rams-banking-going-185557293-html",
-      "title": "Los Angeles Rams banking on going hefty to fix what could derail their season",
-      "link": "https://sports.yahoo.com/article/los-angeles-rams-banking-going-185557293.html",
-      "source": "Yahoo Sports",
-      "ts": 1762688520.0,
-      "published_iso": "2025-11-09T11:42:00+00:00"
     }
   ]
 }
