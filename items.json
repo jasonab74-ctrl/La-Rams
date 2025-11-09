@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2025-11-09T21:31:18.651591+00:00",
-  "count": 1,
+  "updated_iso": "2025-11-09T22:07:37.151727+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-latimes-com-sports-rams-live-rams-vs-49ers-live-updates-how-to-watch-start-time-and-betting-odds",
-      "title": "Rams vs. 49ers live updates: How to watch, start time and betting odds",
+      "title": "Rams vs. 49ers live updates: L.A. extends its lead on Puka Nacua TD",
       "link": "https://latimes.com/sports/rams/live/rams-vs-49ers-live-updates-how-to-watch-start-time-and-betting-odds",
       "source": "LA Times",
-      "ts": 1762683600.0,
-      "published_iso": "2025-11-09T10:20:00+00:00"
+      "ts": 1762696860.0,
+      "published_iso": "2025-11-09T14:01:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-videos-kyren-williams-seventh-td-of-2025-opens-scoring-in-rams-49ers-game",
+      "title": "Kyren Williams' seventh TD of 2025 opens scoring in Rams-49ers game",
+      "link": "https://nfl.com/videos/kyren-williams-seventh-td-of-2025-opens-scoring-in-rams-49ers-game",
+      "source": "NFL.com",
+      "ts": 1762695900.0,
+      "published_iso": "2025-11-09T13:45:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-live-blog-nfl-rams-vs-49ers-live-updates-score-from-americas-game-week",
+      "title": "Rams vs. 49ers: Live Updates, Score From 'America's Game of the Week'",
+      "link": "https://foxsports.com/live-blog/nfl/rams-vs-49ers-live-updates-score-from-americas-game-week",
+      "source": "FOX Sports",
+      "ts": 1762678560.0,
+      "published_iso": "2025-11-09T08:56:00+00:00"
     }
   ]
 }
