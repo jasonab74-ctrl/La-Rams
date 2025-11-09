@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-11-09T17:32:56.814055+00:00",
-  "count": 3,
+  "updated_iso": "2025-11-09T18:11:54.224504+00:00",
+  "count": 5,
   "items": [
     {
       "id": "https-foxsports-com-watch-fmc-fghccv39cykmd09e",
@@ -25,6 +25,22 @@
       "source": "Yahoo Sports",
       "ts": 1762667220.0,
       "published_iso": "2025-11-09T05:47:00+00:00"
+    },
+    {
+      "id": "https-latimes-com-sports-rams-live-rams-vs-49ers-live-updates-how-to-watch-start-time-and-betting-odds",
+      "title": "Rams vs. 49ers live updates: How to watch, start time and betting odds",
+      "link": "https://latimes.com/sports/rams/live/rams-vs-49ers-live-updates-how-to-watch-start-time-and-betting-odds",
+      "source": "LA Times",
+      "ts": 1762617660.0,
+      "published_iso": "2025-11-08T16:01:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-08-nfl-week-10-rams-vs-49ers-odds-lines-how-to-watch-11-9-2",
+      "title": "Los Angeles Rams vs. San Francisco 49ers live stream, TV channel, start time, odds | Week 10 2025",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/08/nfl-week-10-rams-vs-49ers-odds-lines-how-to-watch-11-9-2025/87175506007/",
+      "source": "Rams Wire",
+      "ts": 1762531200.0,
+      "published_iso": "2025-11-07T16:00:00+00:00"
     }
   ]
 }
