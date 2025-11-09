@@ -1,30 +1,38 @@
 {
-  "updated_iso": "2025-11-09T22:07:37.151727+00:00",
-  "count": 3,
+  "updated_iso": "2025-11-09T22:36:07.559771+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-latimes-com-sports-rams-live-rams-vs-49ers-live-updates-how-to-watch-start-time-and-betting-odds",
-      "title": "Rams vs. 49ers live updates: L.A. extends its lead on Puka Nacua TD",
+      "title": "Rams vs. 49ers live updates: Matthew Stafford throws his 400th career TD pass",
       "link": "https://latimes.com/sports/rams/live/rams-vs-49ers-live-updates-how-to-watch-start-time-and-betting-odds",
       "source": "LA Times",
-      "ts": 1762696860.0,
-      "published_iso": "2025-11-09T14:01:00+00:00"
+      "ts": 1762698420.0,
+      "published_iso": "2025-11-09T14:27:00+00:00"
     },
     {
-      "id": "https-nfl-com-videos-kyren-williams-seventh-td-of-2025-opens-scoring-in-rams-49ers-game",
-      "title": "Kyren Williams' seventh TD of 2025 opens scoring in Rams-49ers game",
-      "link": "https://nfl.com/videos/kyren-williams-seventh-td-of-2025-opens-scoring-in-rams-49ers-game",
-      "source": "NFL.com",
-      "ts": 1762695900.0,
-      "published_iso": "2025-11-09T13:45:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-live-blog-nfl-rams-vs-49ers-live-updates-score-from-americas-game-week",
-      "title": "Rams vs. 49ers: Live Updates, Score From 'America's Game of the Week'",
-      "link": "https://foxsports.com/live-blog/nfl/rams-vs-49ers-live-updates-score-from-americas-game-week",
+      "id": "https-foxsports-com-watch-vertical-fmc-4xbagq3zjdy64xu6",
+      "title": "Matthew Stafford connects with Puka Nacua for 22-yard TD, extending Rams' lead over 49ers | NFL Highlights",
+      "link": "https://foxsports.com/watch-vertical/fmc-4xbagq3zjdy64xu6",
       "source": "FOX Sports",
-      "ts": 1762678560.0,
-      "published_iso": "2025-11-09T08:56:00+00:00"
+      "ts": 1762697640.0,
+      "published_iso": "2025-11-09T14:14:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-watch-fmc-p15wf6eay6h94zta",
+      "title": "Kyren Williams punches it in from two yards out for TD, giving Rams early lead over 49ers | NFL Highlights",
+      "link": "https://foxsports.com/watch/fmc-p15wf6eay6h94zta",
+      "source": "FOX Sports",
+      "ts": 1762696560.0,
+      "published_iso": "2025-11-09T13:56:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-los-angeles-rams-banking-going-185557293-html",
+      "title": "Los Angeles Rams banking on going hefty to fix what could derail their season",
+      "link": "https://sports.yahoo.com/article/los-angeles-rams-banking-going-185557293.html",
+      "source": "Yahoo Sports",
+      "ts": 1762688520.0,
+      "published_iso": "2025-11-09T11:42:00+00:00"
     }
   ]
 }
