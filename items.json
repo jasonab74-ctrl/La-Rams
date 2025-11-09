@@ -1,30 +1,14 @@
 {
-  "updated_iso": "2025-11-09T19:31:17.165510+00:00",
-  "count": 3,
+  "updated_iso": "2025-11-09T20:09:10.236775+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-los-angeles-rams-banking-going-hefty-fix-what-could-derail-their-sea",
+      "id": "https-sports-yahoo-com-article-los-angeles-rams-banking-going-185557293-html",
       "title": "Los Angeles Rams banking on going hefty to fix what could derail their season",
-      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/los-angeles-rams-banking-going-hefty-fix-what-could-derail-their-season/fbcbb156d1603d119d407450",
-      "source": "Sporting News",
-      "ts": 1762685700.0,
-      "published_iso": "2025-11-09T10:55:00+00:00"
-    },
-    {
-      "id": "https-latimes-com-sports-rams-live-rams-vs-49ers-live-updates-how-to-watch-start-time-and-betting-odds",
-      "title": "Rams vs. 49ers live updates: How to watch, start time and betting odds",
-      "link": "https://latimes.com/sports/rams/live/rams-vs-49ers-live-updates-how-to-watch-start-time-and-betting-odds",
-      "source": "LA Times",
-      "ts": 1762683600.0,
-      "published_iso": "2025-11-09T10:20:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-watch-fmc-y74z0tmtl84sd064",
-      "title": "How Packers, Rams, Lions and Eagles shape the NFC's dominance 💪🏻 | FOX NFL Sunday",
-      "link": "https://foxsports.com/watch/fmc-y74z0tmtl84sd064",
-      "source": "FOX Sports",
-      "ts": 1762683060.0,
-      "published_iso": "2025-11-09T10:11:00+00:00"
+      "link": "https://sports.yahoo.com/article/los-angeles-rams-banking-going-185557293.html",
+      "source": "Yahoo Sports",
+      "ts": 1762688520.0,
+      "published_iso": "2025-11-09T11:42:00+00:00"
     }
   ]
 }
