@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-11-09T03:30:29.450670+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-11-09T04:11:15.972296+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-08-nfl-week-10-rams-vs-49ers-odds-lines-how-to-watch-11-9-2",
+      "title": "Los Angeles Rams vs. San Francisco 49ers live stream, TV channel, start time, odds | Week 10 2025",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/08/nfl-week-10-rams-vs-49ers-odds-lines-how-to-watch-11-9-2025/87175506007/",
+      "source": "Rams Wire",
+      "ts": 1762531200.0,
+      "published_iso": "2025-11-07T16:00:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-los-angeles-rams-predicted-bring-022529650-html",
+      "title": "Los Angeles Rams predicted to bring in legendary name to be Matthew Stafford's successor",
+      "link": "https://sports.yahoo.com/article/los-angeles-rams-predicted-bring-022529650.html",
+      "source": "Yahoo Sports",
+      "ts": 1762367880.0,
+      "published_iso": "2025-11-05T18:38:00+00:00"
+    }
+  ]
 }
