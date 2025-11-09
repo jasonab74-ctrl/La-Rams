@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-11-09T06:44:30.653139+00:00",
+  "updated_iso": "2025-11-09T07:07:58.895243+00:00",
   "count": 2,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-article-rams-thiccer-kicker-harrison-mevis-195419730-html",
-      "title": "Rams replace K Karty with Harrison Mevis",
-      "link": "https://sports.yahoo.com/article/rams-thiccer-kicker-harrison-mevis-195419730.html",
-      "source": "Yahoo Sports",
-      "ts": 1762638360.0,
-      "published_iso": "2025-11-08T21:46:00+00:00"
-    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-08-nfl-week-10-rams-vs-49ers-odds-lines-how-to-watch-11-9-2",
       "title": "Los Angeles Rams vs. San Francisco 49ers live stream, TV channel, start time, odds | Week 10 2025",
@@ -17,6 +9,14 @@
       "source": "Rams Wire",
       "ts": 1762531200.0,
       "published_iso": "2025-11-07T16:00:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-week-10-2025",
+      "title": "Los Angeles Rams at San Francisco 49ers: How to watch, listen to and live stream Week 10",
+      "link": "https://therams.com/news/los-angeles-rams-at-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-week-10-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1762339800.0,
+      "published_iso": "2025-11-05T10:50:00+00:00"
     }
   ]
 }
