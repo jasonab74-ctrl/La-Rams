@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-09T08:39:08.765420+00:00",
-  "count": 1,
+  "updated_iso": "2025-11-09T09:08:29.205457+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-channel-49ers-vs-rams-today-082001050-html",
+      "title": "What channel is 49ers vs. Rams on today? Live stream, time, TV schedule to watch NFL Week 10 game",
+      "link": "https://sports.yahoo.com/article/channel-49ers-vs-rams-today-082001050.html",
+      "source": "Yahoo Sports",
+      "ts": 1762649220.0,
+      "published_iso": "2025-11-09T00:47:00+00:00"
+    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-08-nfl-week-10-rams-vs-49ers-odds-lines-how-to-watch-11-9-2",
       "title": "Los Angeles Rams vs. San Francisco 49ers live stream, TV channel, start time, odds | Week 10 2025",
