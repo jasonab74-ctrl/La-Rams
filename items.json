@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-09T17:06:49.373478+00:00",
-  "count": 4,
+  "updated_iso": "2025-11-09T17:32:56.814055+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-foxsports-com-watch-fmc-fghccv39cykmd09e",
+      "title": "Will 49ers snag NFC West crown from Rams with next-man up mentality? | FOX NFL Sunday",
+      "link": "https://foxsports.com/watch/fmc-fghccv39cykmd09e",
+      "source": "FOX Sports",
+      "ts": 1762679160.0,
+      "published_iso": "2025-11-09T09:06:00+00:00"
+    },
     {
       "id": "https-cbssports-com-nfl-news-rams-49ers-where-to-watch-nfl-week-10-score-prediction-betting-odds-sgp-picks-sportsbook-pr",
       "title": "Rams vs. 49ers: Where to watch NFL Week 10, score prediction, betting odds, SGP picks, sportsbook promos",
@@ -11,28 +19,12 @@
       "published_iso": "2025-11-09T08:40:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-article-rams-49ers-fantasy-breakdown-start-151554623-html",
-      "title": "Rams at 49ers Fantasy Breakdown: Start Your Stars, Sit the Defenses",
-      "link": "https://sports.yahoo.com/article/rams-49ers-fantasy-breakdown-start-151554623.html",
-      "source": "Yahoo Sports",
-      "ts": 1762673520.0,
-      "published_iso": "2025-11-09T07:32:00+00:00"
-    },
-    {
       "id": "https-sports-yahoo-com-nfl-article-la-rams-vs-san-francisco-49ers-nfl-game-how-to-watch-kickoff-time-tv-channel-and-more",
       "title": "L.A. Rams vs. San Francisco 49ers NFL game: How to watch, kickoff time, TV channel and more",
       "link": "https://sports.yahoo.com/nfl/article/la-rams-vs-san-francisco-49ers-nfl-game-how-to-watch-kickoff-time-tv-channel-and-more-133553077.html",
       "source": "Yahoo Sports",
       "ts": 1762667220.0,
       "published_iso": "2025-11-09T05:47:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-08-nfl-week-10-rams-vs-49ers-odds-lines-how-to-watch-11-9-2",
-      "title": "Los Angeles Rams vs. San Francisco 49ers live stream, TV channel, start time, odds | Week 10 2025",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/08/nfl-week-10-rams-vs-49ers-odds-lines-how-to-watch-11-9-2025/87175506007/",
-      "source": "Rams Wire",
-      "ts": 1762531200.0,
-      "published_iso": "2025-11-07T16:00:00+00:00"
     }
   ]
 }
