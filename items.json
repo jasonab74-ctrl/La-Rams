@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-11-09T18:11:54.224504+00:00",
+  "updated_iso": "2025-11-09T18:40:56.114621+00:00",
   "count": 5,
   "items": [
+    {
+      "id": "https-latimes-com-sports-rams-live-rams-vs-49ers-live-updates-how-to-watch-start-time-and-betting-odds",
+      "title": "Rams vs. 49ers live updates: How to watch, start time and betting odds",
+      "link": "https://latimes.com/sports/rams/live/rams-vs-49ers-live-updates-how-to-watch-start-time-and-betting-odds",
+      "source": "LA Times",
+      "ts": 1762683600.0,
+      "published_iso": "2025-11-09T10:20:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-watch-fmc-y74z0tmtl84sd064",
+      "title": "How Packers, Rams, Lions and Eagles shape the NFC's dominance 💪🏻 | FOX NFL Sunday",
+      "link": "https://foxsports.com/watch/fmc-y74z0tmtl84sd064",
+      "source": "FOX Sports",
+      "ts": 1762683060.0,
+      "published_iso": "2025-11-09T10:11:00+00:00"
+    },
     {
       "id": "https-foxsports-com-watch-fmc-fghccv39cykmd09e",
       "title": "Will 49ers snag NFC West crown from Rams with next-man up mentality? | FOX NFL Sunday",
@@ -11,28 +27,12 @@
       "published_iso": "2025-11-09T09:06:00+00:00"
     },
     {
-      "id": "https-cbssports-com-nfl-news-rams-49ers-where-to-watch-nfl-week-10-score-prediction-betting-odds-sgp-picks-sportsbook-pr",
-      "title": "Rams vs. 49ers: Where to watch NFL Week 10, score prediction, betting odds, SGP picks, sportsbook promos",
-      "link": "https://cbssports.com/nfl/news/rams-49ers-where-to-watch-nfl-week-10-score-prediction-betting-odds-sgp-picks-sportsbook-promos/",
-      "source": "CBS Sports",
-      "ts": 1762677600.0,
-      "published_iso": "2025-11-09T08:40:00+00:00"
-    },
-    {
       "id": "https-sports-yahoo-com-nfl-article-la-rams-vs-san-francisco-49ers-nfl-game-how-to-watch-kickoff-time-tv-channel-and-more",
       "title": "L.A. Rams vs. San Francisco 49ers NFL game: How to watch, kickoff time, TV channel and more",
       "link": "https://sports.yahoo.com/nfl/article/la-rams-vs-san-francisco-49ers-nfl-game-how-to-watch-kickoff-time-tv-channel-and-more-133553077.html",
       "source": "Yahoo Sports",
       "ts": 1762667220.0,
       "published_iso": "2025-11-09T05:47:00+00:00"
-    },
-    {
-      "id": "https-latimes-com-sports-rams-live-rams-vs-49ers-live-updates-how-to-watch-start-time-and-betting-odds",
-      "title": "Rams vs. 49ers live updates: How to watch, start time and betting odds",
-      "link": "https://latimes.com/sports/rams/live/rams-vs-49ers-live-updates-how-to-watch-start-time-and-betting-odds",
-      "source": "LA Times",
-      "ts": 1762617660.0,
-      "published_iso": "2025-11-08T16:01:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-08-nfl-week-10-rams-vs-49ers-odds-lines-how-to-watch-11-9-2",
