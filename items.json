@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-10T05:39:33.769756+00:00",
+  "updated_iso": "2025-11-10T06:15:25.405140+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-bleacherreport-com-articles-25287810-tom-brady-hypes-matthew-staffords-no-look-td-pass-video-during-rams-vs-49ers",
+      "title": "Tom Brady Hypes Matthew Stafford's No-Look TD Pass on Video During Rams vs. 49ers",
+      "link": "https://bleacherreport.com/articles/25287810-tom-brady-hypes-matthew-staffords-no-look-td-pass-video-during-rams-vs-49ers",
+      "source": "Bleacher Report",
+      "ts": 1762725900.0,
+      "published_iso": "2025-11-09T22:05:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-article-rams-sean-mcvay-shares-davante-015634178-html",
       "title": "Rams' Sean McVay Shares Update on Davante Adams After Leaving 49ers Game",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1762722780.0,
       "published_iso": "2025-11-09T21:13:00+00:00"
-    },
-    {
-      "id": "https-yahoo-com-news-videos-tom-bradys-lfg-player-game-021158005-html",
-      "title": "Tom Brady's LFG Player of the Game: Rams QB Matthew Stafford 🏆 Week 10 DIGITAL EXCLUSIVE",
-      "link": "https://yahoo.com/news/videos/tom-bradys-lfg-player-game-021158005.html",
-      "source": "Yahoo",
-      "ts": 1762720440.0,
-      "published_iso": "2025-11-09T20:34:00+00:00"
     },
     {
       "id": "https-foxsports-com-live-blog-nfl-rams-vs-49ers-live-updates-score-from-americas-game-week",
