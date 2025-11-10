@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-11-10T22:38:49.344731+00:00",
-  "count": 2,
+  "updated_iso": "2025-11-10T23:08:27.300471+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-bleacherreport-com-articles-25289553-thiccer-kicker-harrison-mevis-will-remain-rams-kicker-after-perfect-debut",
-      "title": "'The Thiccer Kicker' Harrison Mevis Will Remain Rams' Kicker After Perfect Debut",
-      "link": "https://bleacherreport.com/articles/25289553-thiccer-kicker-harrison-mevis-will-remain-rams-kicker-after-perfect-debut",
-      "source": "Bleacher Report",
-      "ts": 1762779840.0,
-      "published_iso": "2025-11-10T13:04:00+00:00"
+      "id": "https-sports-yahoo-com-article-seahawks-wr-cooper-kupp-looking-225423162-html",
+      "title": "Seahawks WR Cooper Kupp \"looking forward to another great challenge\" against Rams",
+      "link": "https://sports.yahoo.com/article/seahawks-wr-cooper-kupp-looking-225423162.html",
+      "source": "Yahoo Sports",
+      "ts": 1762786620.0,
+      "published_iso": "2025-11-10T14:57:00+00:00"
+    },
+    {
+      "id": "https-ocregister-com-2025-11-10-matthew-staffords-rams-teammates-starting-beating-mvp-drum",
+      "title": "Matthew Stafford’s Rams teammates starting beating MVP drum",
+      "link": "https://ocregister.com/2025/11/10/matthew-staffords-rams-teammates-starting-beating-mvp-drum/",
+      "source": "OC Register",
+      "ts": 1762786080.0,
+      "published_iso": "2025-11-10T14:48:00+00:00"
     },
     {
       "id": "https-foxsports-com-live-blog-nfl-rams-vs-49ers-live-updates-score-from-americas-game-week",
