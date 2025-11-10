@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-11-10T02:29:45.098915+00:00",
-  "count": 5,
+  "updated_iso": "2025-11-10T03:37:57.206628+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-bleacherreport-com-articles-25287940-what-extent-davante-adams-injury-after-rams-win-vs-49ers",
@@ -11,36 +11,12 @@
       "published_iso": "2025-11-09T18:27:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-article-49ers-kyle-shanahan-gives-intriguing-010102116-html",
-      "title": "49ers’ Kyle Shanahan gives intriguing Brock Purdy injury update following Rams loss",
-      "link": "https://sports.yahoo.com/article/49ers-kyle-shanahan-gives-intriguing-010102116.html",
-      "source": "Yahoo Sports",
-      "ts": 1762712640.0,
-      "published_iso": "2025-11-09T18:24:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-watch-fmc-qao7fr288rdqu7ie",
-      "title": "Tom Brady's LFG Player of the Game: Rams QB Matthew Stafford 🏆 Week 10 DIGITAL EXCLUSIVE",
-      "link": "https://foxsports.com/watch/fmc-qao7fr288rdqu7ie",
+      "id": "https-foxsports-com-live-blog-nfl-rams-vs-49ers-live-updates-score-from-americas-game-week",
+      "title": "Rams vs. 49ers Highlights: Matthew Stafford, Los Angeles Cruise to Victory",
+      "link": "https://foxsports.com/live-blog/nfl/rams-vs-49ers-live-updates-score-from-americas-game-week",
       "source": "FOX Sports",
-      "ts": 1762712640.0,
-      "published_iso": "2025-11-09T18:24:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-rams-davante-adams-leaves-49ers-002159105-html",
-      "title": "Rams’ Davante Adams leaves 49ers game with injury scare",
-      "link": "https://sports.yahoo.com/article/rams-davante-adams-leaves-49ers-002159105.html",
-      "source": "Yahoo Sports",
-      "ts": 1762710360.0,
-      "published_iso": "2025-11-09T17:46:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25287813-stafford-makes-nfl-history-rams-seen-super-bowl-contenders-fans-after-49ers-w",
-      "title": "Stafford Makes NFL History, Rams Seen as Super Bowl Contenders by Fans After 49ers Win",
-      "link": "https://bleacherreport.com/articles/25287813-stafford-makes-nfl-history-rams-seen-super-bowl-contenders-fans-after-49ers-win",
-      "source": "Bleacher Report",
-      "ts": 1762709820.0,
-      "published_iso": "2025-11-09T17:37:00+00:00"
+      "ts": 1762687800.0,
+      "published_iso": "2025-11-09T11:30:00+00:00"
     }
   ]
 }
