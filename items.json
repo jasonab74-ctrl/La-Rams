@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-10T15:40:00.993474+00:00",
+  "updated_iso": "2025-11-10T16:11:46.437803+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-matthew-stafford-finally-reached-154537504-html",
+      "title": "How Rams' Matthew Stafford finally reached a .500 record after 231 starts",
+      "link": "https://sports.yahoo.com/article/rams-matthew-stafford-finally-reached-154537504.html",
+      "source": "Yahoo Sports",
+      "ts": 1762762020.0,
+      "published_iso": "2025-11-10T08:07:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-article-rams-davante-adams-drops-truth-140648035-html",
       "title": "Rams’ Davante Adams drops truth bomb about Matthew Stafford’s MVP campaign",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1762759440.0,
       "published_iso": "2025-11-10T07:24:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-rams-coach-sean-mcvay-post-133123073-html",
-      "title": "Rams Coach Sean McVay post-game comments suggest team is peaking right now",
-      "link": "https://sports.yahoo.com/article/rams-coach-sean-mcvay-post-133123073.html",
-      "source": "Yahoo Sports",
-      "ts": 1762753500.0,
-      "published_iso": "2025-11-10T05:45:00+00:00"
     },
     {
       "id": "https-foxsports-com-live-blog-nfl-rams-vs-49ers-live-updates-score-from-americas-game-week",
