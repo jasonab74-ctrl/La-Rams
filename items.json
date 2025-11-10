@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-11-10T08:45:57.373866+00:00",
-  "count": 2,
+  "updated_iso": "2025-11-10T09:12:24.433667+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-los-angeles-rams-banking-going-185557293-html",
-      "title": "Los Angeles Rams banking on going hefty to fix what could derail their season",
-      "link": "https://sports.yahoo.com/article/los-angeles-rams-banking-going-185557293.html",
+      "id": "https-sports-yahoo-com-article-injured-fred-warner-nick-bosa-202514928-html",
+      "title": "Injured Fred Warner, Nick Bosa offer 49ers teammates support after loss to Rams",
+      "link": "https://sports.yahoo.com/article/injured-fred-warner-nick-bosa-202514928.html",
       "source": "Yahoo Sports",
-      "ts": 1762688520.0,
-      "published_iso": "2025-11-09T11:42:00+00:00"
+      "ts": 1762735920.0,
+      "published_iso": "2025-11-10T00:52:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-mac-jones-joined-jeff-garcia-214826567-html",
+      "title": "How Mac Jones joined Jeff Garcia, Steve Young in 49ers record book vs. Rams",
+      "link": "https://sports.yahoo.com/article/mac-jones-joined-jeff-garcia-214826567.html",
+      "source": "Yahoo Sports",
+      "ts": 1762735020.0,
+      "published_iso": "2025-11-10T00:37:00+00:00"
     },
     {
       "id": "https-foxsports-com-live-blog-nfl-rams-vs-49ers-live-updates-score-from-americas-game-week",
