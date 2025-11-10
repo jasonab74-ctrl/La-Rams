@@ -1,30 +1,14 @@
 {
-  "updated_iso": "2025-11-10T17:37:03.680721+00:00",
-  "count": 4,
+  "updated_iso": "2025-11-10T18:13:55.182884+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-cbssports-com-nfl-news-nfl-mvp-odds-matthew-stafford-rams-teammates-qb",
-      "title": "Rams teammates back Matthew Stafford as NFL MVP odds favor veteran QB",
-      "link": "https://cbssports.com/nfl/news/nfl-mvp-odds-matthew-stafford-rams-teammates-qb/",
-      "source": "CBS Sports",
-      "ts": 1762763160.0,
-      "published_iso": "2025-11-10T08:26:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-rams-matthew-stafford-finally-reached-154537504-html",
-      "title": "How Rams' Matthew Stafford finally reached a .500 record after 231 starts",
-      "link": "https://sports.yahoo.com/article/rams-matthew-stafford-finally-reached-154537504.html",
+      "id": "https-sports-yahoo-com-article-rams-puka-nacua-break-nfl-174532560-html",
+      "title": "Rams' Puka Nacua break NFL record in win vs. 49ers",
+      "link": "https://sports.yahoo.com/article/rams-puka-nacua-break-nfl-174532560.html",
       "source": "Yahoo Sports",
-      "ts": 1762762020.0,
-      "published_iso": "2025-11-10T08:07:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-los-angeles-rams-banking-going-185557293-html",
-      "title": "Los Angeles Rams banking on going hefty to fix what could derail their season",
-      "link": "https://sports.yahoo.com/article/los-angeles-rams-banking-going-185557293.html",
-      "source": "Yahoo Sports",
-      "ts": 1762688520.0,
-      "published_iso": "2025-11-09T11:42:00+00:00"
+      "ts": 1762769100.0,
+      "published_iso": "2025-11-10T10:05:00+00:00"
     },
     {
       "id": "https-foxsports-com-live-blog-nfl-rams-vs-49ers-live-updates-score-from-americas-game-week",
@@ -33,6 +17,14 @@
       "source": "FOX Sports",
       "ts": 1762687800.0,
       "published_iso": "2025-11-09T11:30:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-08-nfl-week-10-rams-vs-49ers-odds-lines-how-to-watch-11-9-2",
+      "title": "Los Angeles Rams vs. San Francisco 49ers live stream, TV channel, start time, odds | Week 10 2025",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/08/nfl-week-10-rams-vs-49ers-odds-lines-how-to-watch-11-9-2025/87175506007/",
+      "source": "Rams Wire",
+      "ts": 1762531200.0,
+      "published_iso": "2025-11-07T16:00:00+00:00"
     }
   ]
 }
