@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2025-11-10T09:41:05.275485+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-11-10T10:11:26.328657+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-article-injured-fred-warner-nick-bosa-202514928-html",
+      "title": "Injured Fred Warner, Nick Bosa offer 49ers teammates support after loss to Rams",
+      "link": "https://sports.yahoo.com/article/injured-fred-warner-nick-bosa-202514928.html",
+      "source": "Yahoo Sports",
+      "ts": 1762735920.0,
+      "published_iso": "2025-11-10T00:52:00+00:00"
+    }
+  ]
 }
