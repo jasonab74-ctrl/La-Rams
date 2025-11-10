@@ -1,38 +1,38 @@
 {
-  "updated_iso": "2025-11-09T23:32:06.001295+00:00",
+  "updated_iso": "2025-11-10T00:45:59.072187+00:00",
   "count": 4,
   "items": [
     {
-      "id": "https-latimes-com-sports-rams-live-rams-vs-49ers-live-updates-how-to-watch-start-time-and-betting-odds",
-      "title": "Rams vs. 49ers live updates: L.A. clings to lead in the third quarter",
-      "link": "https://latimes.com/sports/rams/live/rams-vs-49ers-live-updates-how-to-watch-start-time-and-betting-odds",
-      "source": "LA Times",
-      "ts": 1762701540.0,
-      "published_iso": "2025-11-09T15:19:00+00:00"
+      "id": "https-bleacherreport-com-articles-25287813-rams-seen-fans-super-bowl-contenders-after-matthew-stafford-leads-win-vs-49er",
+      "title": "Rams Seen by Fans as Super Bowl Contenders After Matthew Stafford Leads Win vs. 49ers",
+      "link": "https://bleacherreport.com/articles/25287813-rams-seen-fans-super-bowl-contenders-after-matthew-stafford-leads-win-vs-49ers",
+      "source": "Bleacher Report",
+      "ts": 1762705800.0,
+      "published_iso": "2025-11-09T16:30:00+00:00"
     },
     {
-      "id": "https-nfl-com-videos-niners-drive-ends-with-a-turnover-on-downs-inside-red-zone-vs-rams",
-      "title": "Niners' drive ends with a turnover on downs inside red zone vs. Rams",
-      "link": "https://nfl.com/videos/niners-drive-ends-with-a-turnover-on-downs-inside-red-zone-vs-rams",
+      "id": "https-nfl-com-videos-deflected-int-emmanuel-forbes-snags-a-pick-off-of-mac-jones-to-set-rams-up-in-49ers-territory",
+      "title": "Deflected INT! Emmanuel Forbes snags a pick off of Mac Jones to set Rams up in 49ers territory",
+      "link": "https://nfl.com/videos/deflected-int-emmanuel-forbes-snags-a-pick-off-of-mac-jones-to-set-rams-up-in-49ers-territory",
       "source": "NFL.com",
-      "ts": 1762701120.0,
-      "published_iso": "2025-11-09T15:12:00+00:00"
+      "ts": 1762705680.0,
+      "published_iso": "2025-11-09T16:28:00+00:00"
     },
     {
-      "id": "https-therams-com-video-rams-davante-adams-wide-open-23-yard-catch-49ers-territory",
-      "title": "HIGHLIGHTS: Rams WR Davante Adams wide open for a 23-yard catch in 49ers territory",
-      "link": "https://therams.com/video/rams-davante-adams-wide-open-23-yard-catch-49ers-territory",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1762699020.0,
-      "published_iso": "2025-11-09T14:37:00+00:00"
+      "id": "https-sports-yahoo-com-article-davante-adams-injury-latest-news-234751297-html",
+      "title": "Davante Adams injury update: Latest news on Rams WR's status in Week 10 game",
+      "link": "https://sports.yahoo.com/article/davante-adams-injury-latest-news-234751297.html",
+      "source": "Yahoo Sports",
+      "ts": 1762704600.0,
+      "published_iso": "2025-11-09T16:10:00+00:00"
     },
     {
       "id": "https-foxsports-com-live-blog-nfl-rams-vs-49ers-live-updates-score-from-americas-game-week",
       "title": "Rams vs. 49ers Live Updates, Score: Matthew Stafford, Los Angeles In Control",
       "link": "https://foxsports.com/live-blog/nfl/rams-vs-49ers-live-updates-score-from-americas-game-week",
       "source": "FOX Sports",
-      "ts": 1762682280.0,
-      "published_iso": "2025-11-09T09:58:00+00:00"
+      "ts": 1762687260.0,
+      "published_iso": "2025-11-09T11:21:00+00:00"
     }
   ]
 }
