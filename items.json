@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-11-10T16:46:53.883820+00:00",
-  "count": 5,
+  "updated_iso": "2025-11-10T17:09:07.352489+00:00",
+  "count": 4,
   "items": [
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-new-mock-draft-loading-matters-most",
-      "title": "New Mock Draft Has the Rams Loading Up Where It Matters Most",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-new-mock-draft-loading-matters-most",
-      "source": "Sports Illustrated",
-      "ts": 1762764060.0,
-      "published_iso": "2025-11-10T08:41:00+00:00"
-    },
     {
       "id": "https-cbssports-com-nfl-news-nfl-mvp-odds-matthew-stafford-rams-teammates-qb",
       "title": "Rams teammates back Matthew Stafford as NFL MVP odds favor veteran QB",
@@ -17,6 +9,14 @@
       "source": "CBS Sports",
       "ts": 1762763160.0,
       "published_iso": "2025-11-10T08:26:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-rams-matthew-stafford-finally-reached-154537504-html",
+      "title": "How Rams' Matthew Stafford finally reached a .500 record after 231 starts",
+      "link": "https://sports.yahoo.com/article/rams-matthew-stafford-finally-reached-154537504.html",
+      "source": "Yahoo Sports",
+      "ts": 1762762020.0,
+      "published_iso": "2025-11-10T08:07:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-article-rams-davante-adams-drops-truth-140648035-html",
@@ -33,14 +33,6 @@
       "source": "FOX Sports",
       "ts": 1762687800.0,
       "published_iso": "2025-11-09T11:30:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-08-nfl-week-10-rams-vs-49ers-odds-lines-how-to-watch-11-9-2",
-      "title": "Los Angeles Rams vs. San Francisco 49ers live stream, TV channel, start time, odds | Week 10 2025",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/08/nfl-week-10-rams-vs-49ers-odds-lines-how-to-watch-11-9-2025/87175506007/",
-      "source": "Rams Wire",
-      "ts": 1762531200.0,
-      "published_iso": "2025-11-07T16:00:00+00:00"
     }
   ]
 }
