@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-11-10T18:13:55.182884+00:00",
-  "count": 3,
+  "updated_iso": "2025-11-10T18:46:15.766648+00:00",
+  "count": 1,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-article-rams-puka-nacua-break-nfl-174532560-html",
-      "title": "Rams' Puka Nacua break NFL record in win vs. 49ers",
-      "link": "https://sports.yahoo.com/article/rams-puka-nacua-break-nfl-174532560.html",
-      "source": "Yahoo Sports",
-      "ts": 1762769100.0,
-      "published_iso": "2025-11-10T10:05:00+00:00"
-    },
     {
       "id": "https-foxsports-com-live-blog-nfl-rams-vs-49ers-live-updates-score-from-americas-game-week",
       "title": "Rams vs. 49ers Highlights: Matthew Stafford, Los Angeles Cruise to Victory",
@@ -17,14 +9,6 @@
       "source": "FOX Sports",
       "ts": 1762687800.0,
       "published_iso": "2025-11-09T11:30:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-08-nfl-week-10-rams-vs-49ers-odds-lines-how-to-watch-11-9-2",
-      "title": "Los Angeles Rams vs. San Francisco 49ers live stream, TV channel, start time, odds | Week 10 2025",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/08/nfl-week-10-rams-vs-49ers-odds-lines-how-to-watch-11-9-2025/87175506007/",
-      "source": "Rams Wire",
-      "ts": 1762531200.0,
-      "published_iso": "2025-11-07T16:00:00+00:00"
     }
   ]
 }
