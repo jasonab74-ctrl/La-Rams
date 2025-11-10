@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-10T05:10:54.979470+00:00",
+  "updated_iso": "2025-11-10T05:39:33.769756+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-sean-mcvay-shares-davante-015634178-html",
+      "title": "Rams' Sean McVay Shares Update on Davante Adams After Leaving 49ers Game",
+      "link": "https://sports.yahoo.com/article/rams-sean-mcvay-shares-davante-015634178.html",
+      "source": "Yahoo Sports",
+      "ts": 1762722780.0,
+      "published_iso": "2025-11-09T21:13:00+00:00"
+    },
     {
       "id": "https-yahoo-com-news-videos-tom-bradys-lfg-player-game-021158005-html",
       "title": "Tom Brady's LFG Player of the Game: Rams QB Matthew Stafford 🏆 Week 10 DIGITAL EXCLUSIVE",
@@ -9,14 +17,6 @@
       "source": "Yahoo",
       "ts": 1762720440.0,
       "published_iso": "2025-11-09T20:34:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-kyle-shanahan-told-49ers-locker-175359819-html",
-      "title": "What Kyle Shanahan told 49ers' locker room after 42-26 Week 10 home loss to Rams",
-      "link": "https://sports.yahoo.com/article/kyle-shanahan-told-49ers-locker-175359819.html",
-      "source": "Yahoo Sports",
-      "ts": 1762717320.0,
-      "published_iso": "2025-11-09T19:42:00+00:00"
     },
     {
       "id": "https-foxsports-com-live-blog-nfl-rams-vs-49ers-live-updates-score-from-americas-game-week",
