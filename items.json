@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-10T04:17:37.173822+00:00",
+  "updated_iso": "2025-11-10T04:44:14.613387+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-yahoo-com-news-videos-tom-bradys-lfg-player-game-021158005-html",
+      "title": "Tom Brady's LFG Player of the Game: Rams QB Matthew Stafford 🏆 Week 10 DIGITAL EXCLUSIVE",
+      "link": "https://yahoo.com/news/videos/tom-bradys-lfg-player-game-021158005.html",
+      "source": "Yahoo",
+      "ts": 1762720440.0,
+      "published_iso": "2025-11-09T20:34:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-article-kyle-shanahan-told-49ers-locker-175359819-html",
       "title": "What Kyle Shanahan told 49ers' locker room after 42-26 Week 10 home loss to Rams",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1762717320.0,
       "published_iso": "2025-11-09T19:42:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-game-recap-matthew-stafford-s-four-touchdown-passes-timely-turnovers-created-by-defense-lift-rams",
-      "title": "Game Recap: Matthew Stafford's four touchdown passes, timely turnovers created by defense lift Rams to 42-26 road win over 49ers",
-      "link": "https://therams.com/news/game-recap-matthew-stafford-s-four-touchdown-passes-timely-turnovers-created-by-defense-lift-rams-to-42-26-road-win-over-49ers",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1762707600.0,
-      "published_iso": "2025-11-09T17:00:00+00:00"
     },
     {
       "id": "https-foxsports-com-live-blog-nfl-rams-vs-49ers-live-updates-score-from-americas-game-week",
