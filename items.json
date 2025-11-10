@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-11-10T11:08:11.131868+00:00",
-  "count": 1,
+  "updated_iso": "2025-11-10T11:34:04.318742+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-injured-fred-warner-nick-bosa-202514928-html",
-      "title": "Injured Fred Warner, Nick Bosa offer 49ers teammates support after loss to Rams",
-      "link": "https://sports.yahoo.com/article/injured-fred-warner-nick-bosa-202514928.html",
+      "id": "https-sports-yahoo-com-article-los-angeles-rams-banking-going-185557293-html",
+      "title": "Los Angeles Rams banking on going hefty to fix what could derail their season",
+      "link": "https://sports.yahoo.com/article/los-angeles-rams-banking-going-185557293.html",
       "source": "Yahoo Sports",
-      "ts": 1762735920.0,
-      "published_iso": "2025-11-10T00:52:00+00:00"
+      "ts": 1762688520.0,
+      "published_iso": "2025-11-09T11:42:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-live-blog-nfl-rams-vs-49ers-live-updates-score-from-americas-game-week",
+      "title": "Rams vs. 49ers Highlights: Matthew Stafford, Los Angeles Cruise to Victory",
+      "link": "https://foxsports.com/live-blog/nfl/rams-vs-49ers-live-updates-score-from-americas-game-week",
+      "source": "FOX Sports",
+      "ts": 1762687800.0,
+      "published_iso": "2025-11-09T11:30:00+00:00"
     }
   ]
 }
