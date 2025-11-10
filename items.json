@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-11-10T03:37:57.206628+00:00",
-  "count": 2,
+  "updated_iso": "2025-11-10T04:17:37.173822+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-bleacherreport-com-articles-25287940-what-extent-davante-adams-injury-after-rams-win-vs-49ers",
-      "title": "What is the Extent of Davante Adams' Injury After Rams' Win vs. 49ers?",
-      "link": "https://bleacherreport.com/articles/25287940-what-extent-davante-adams-injury-after-rams-win-vs-49ers",
-      "source": "Bleacher Report",
-      "ts": 1762712820.0,
-      "published_iso": "2025-11-09T18:27:00+00:00"
+      "id": "https-sports-yahoo-com-article-kyle-shanahan-told-49ers-locker-175359819-html",
+      "title": "What Kyle Shanahan told 49ers' locker room after 42-26 Week 10 home loss to Rams",
+      "link": "https://sports.yahoo.com/article/kyle-shanahan-told-49ers-locker-175359819.html",
+      "source": "Yahoo Sports",
+      "ts": 1762717320.0,
+      "published_iso": "2025-11-09T19:42:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-game-recap-matthew-stafford-s-four-touchdown-passes-timely-turnovers-created-by-defense-lift-rams",
+      "title": "Game Recap: Matthew Stafford's four touchdown passes, timely turnovers created by defense lift Rams to 42-26 road win over 49ers",
+      "link": "https://therams.com/news/game-recap-matthew-stafford-s-four-touchdown-passes-timely-turnovers-created-by-defense-lift-rams-to-42-26-road-win-over-49ers",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1762707600.0,
+      "published_iso": "2025-11-09T17:00:00+00:00"
     },
     {
       "id": "https-foxsports-com-live-blog-nfl-rams-vs-49ers-live-updates-score-from-americas-game-week",
