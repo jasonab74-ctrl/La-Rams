@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-10T13:05:02.991000+00:00",
-  "count": 2,
+  "updated_iso": "2025-11-10T13:45:38.500480+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-matthew-stafford-passes-9-time-132632046-html",
+      "title": "Matthew Stafford passes 9-time Pro Bowler for the 4th-most passing TDs in Rams' history",
+      "link": "https://sports.yahoo.com/article/matthew-stafford-passes-9-time-132632046.html",
+      "source": "Yahoo Sports",
+      "ts": 1762752480.0,
+      "published_iso": "2025-11-10T05:28:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-article-los-angeles-rams-banking-going-185557293-html",
       "title": "Los Angeles Rams banking on going hefty to fix what could derail their season",
