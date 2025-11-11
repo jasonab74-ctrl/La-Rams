@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-11-11T15:40:12.220429+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-11-11T16:11:22.916629+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-hc-sean-mcvay-explains-154353319-html",
+      "title": "Rams HC Sean McVay explains why Seahawks are a 'complete' team",
+      "link": "https://sports.yahoo.com/article/rams-hc-sean-mcvay-explains-154353319.html",
+      "source": "Yahoo Sports",
+      "ts": 1762847880.0,
+      "published_iso": "2025-11-11T07:58:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-live-blog-nfl-rams-vs-49ers-live-updates-score-from-americas-game-week",
+      "title": "Rams vs. 49ers Highlights: Matthew Stafford, Los Angeles Cruise to Victory",
+      "link": "https://foxsports.com/live-blog/nfl/rams-vs-49ers-live-updates-score-from-americas-game-week",
+      "source": "FOX Sports",
+      "ts": 1762687800.0,
+      "published_iso": "2025-11-09T11:30:00+00:00"
+    }
+  ]
 }
