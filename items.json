@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-11-11T11:08:24.419139+00:00",
-  "count": 4,
+  "updated_iso": "2025-11-11T11:33:28.357965+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-los-angeles-rams-banking-going-185557293-html",
@@ -25,14 +25,6 @@
       "source": "Rams Wire",
       "ts": 1762531200.0,
       "published_iso": "2025-11-07T16:00:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-the-hundreds-retro-inspired-collection-celebrating-la-culture",
-      "title": "Los Angeles Rams and The Hundreds drop retro-inspired collection celebrating L.A. culture, style, and legacy",
-      "link": "https://therams.com/news/rams-the-hundreds-retro-inspired-collection-celebrating-la-culture",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1761901800.0,
-      "published_iso": "2025-10-31T09:10:00+00:00"
     }
   ]
 }
