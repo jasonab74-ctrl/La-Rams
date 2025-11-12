@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-12T19:32:18.173814+00:00",
-  "count": 3,
+  "updated_iso": "2025-11-12T20:10:19.025108+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-matthew-staffords-mvp-campaign-complicates-193344110-html",
+      "title": "How Matthew Stafford's MVP campaign complicates Rams' contract talks",
+      "link": "https://sports.yahoo.com/article/matthew-staffords-mvp-campaign-complicates-193344110.html",
+      "source": "Yahoo Sports",
+      "ts": 1762947960.0,
+      "published_iso": "2025-11-12T11:46:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-article-grade-rams-uniforms-184051603-html",
       "title": "What grade would you give the Rams new uniforms?",
