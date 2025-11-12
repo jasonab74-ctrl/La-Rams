@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2025-11-12T16:12:32.165290+00:00",
-  "count": 2,
+  "updated_iso": "2025-11-12T16:47:40.033156+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-nfl-com-videos-what-would-a-win-vs-rams-mean-for-seahawks-sam-darnold-gmfb",
-      "title": "What would a win vs. Rams mean for Seahawks, Sam Darnold | 'GMFB'",
-      "link": "https://nfl.com/videos/what-would-a-win-vs-rams-mean-for-seahawks-sam-darnold-gmfb",
-      "source": "NFL.com",
-      "ts": 1762932480.0,
-      "published_iso": "2025-11-12T07:28:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-live-blog-nfl-rams-vs-49ers-live-updates-score-from-americas-game-week",
-      "title": "Rams vs. 49ers Highlights: Matthew Stafford, Los Angeles Cruise to Victory",
-      "link": "https://foxsports.com/live-blog/nfl/rams-vs-49ers-live-updates-score-from-americas-game-week",
-      "source": "FOX Sports",
-      "ts": 1762687800.0,
-      "published_iso": "2025-11-09T11:30:00+00:00"
+      "id": "https-sports-yahoo-com-article-rams-defensive-starter-named-top-150926964-html",
+      "title": "Rams defensive starter named top impending free agent for 2026",
+      "link": "https://sports.yahoo.com/article/rams-defensive-starter-named-top-150926964.html",
+      "source": "Yahoo Sports",
+      "ts": 1762932060.0,
+      "published_iso": "2025-11-12T07:21:00+00:00"
     }
   ]
 }
