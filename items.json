@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-12T04:42:33.721769+00:00",
-  "count": 2,
+  "updated_iso": "2025-11-12T05:10:45.404194+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-nfl-week-10-winners-everyone-035131394-html",
+      "title": "NFL Week 10 Winners: Everyone buckle up for Rams-Seahawks",
+      "link": "https://sports.yahoo.com/article/nfl-week-10-winners-everyone-035131394.html",
+      "source": "Yahoo Sports",
+      "ts": 1762894860.0,
+      "published_iso": "2025-11-11T21:01:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-article-los-angeles-rams-banking-going-185557293-html",
       "title": "Los Angeles Rams banking on going hefty to fix what could derail their season",
