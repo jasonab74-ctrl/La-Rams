@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-12T08:46:03.397829+00:00",
-  "count": 5,
+  "updated_iso": "2025-11-12T09:11:24.924482+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-espn-com-espn-story-id-46938240-africans-nfl-nate-landman-lands-crucial-punch-los-angeles-rams-winning-streak-cont",
+      "title": "Africans in the NFL",
+      "link": "https://espn.com/espn/story/_/id/46938240/africans-nfl-nate-landman-lands-crucial-punch-los-angeles-rams-winning-streak-continues",
+      "source": "Nate Landman lands crucial punch as Los Angeles Rams winning streak continues",
+      "ts": 1762908600.0,
+      "published_iso": "2025-11-12T00:50:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-article-los-angeles-rams-banking-going-185557293-html",
       "title": "Los Angeles Rams banking on going hefty to fix what could derail their season",
@@ -17,30 +25,6 @@
       "source": "FOX Sports",
       "ts": 1762687800.0,
       "published_iso": "2025-11-09T11:30:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-08-nfl-week-10-rams-vs-49ers-odds-lines-how-to-watch-11-9-2",
-      "title": "Los Angeles Rams vs. San Francisco 49ers live stream, TV channel, start time, odds | Week 10 2025",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/08/nfl-week-10-rams-vs-49ers-odds-lines-how-to-watch-11-9-2025/87175506007/",
-      "source": "Rams Wire",
-      "ts": 1762531200.0,
-      "published_iso": "2025-11-07T16:00:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-los-angeles-rams-predicted-bring-022529650-html",
-      "title": "Los Angeles Rams predicted to bring in legendary name to be Matthew Stafford's successor",
-      "link": "https://sports.yahoo.com/article/los-angeles-rams-predicted-bring-022529650.html",
-      "source": "Yahoo Sports",
-      "ts": 1762367880.0,
-      "published_iso": "2025-11-05T18:38:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-the-hundreds-retro-inspired-collection-celebrating-la-culture",
-      "title": "Los Angeles Rams and The Hundreds drop retro-inspired collection celebrating L.A. culture, style, and legacy",
-      "link": "https://therams.com/news/rams-the-hundreds-retro-inspired-collection-celebrating-la-culture",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1761901800.0,
-      "published_iso": "2025-10-31T09:10:00+00:00"
     }
   ]
 }
