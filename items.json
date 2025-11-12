@@ -1,22 +1,30 @@
 {
-  "updated_iso": "2025-11-12T23:09:05.755657+00:00",
-  "count": 2,
+  "updated_iso": "2025-11-12T23:35:06.321691+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-therams-com-news-da-mon-jackson-named-los-angeles-rams-fan-of-the-year-for-2025",
-      "title": "Da'Mon Jackson named Los Angeles Rams Fan of the Year for 2025",
-      "link": "https://therams.com/news/da-mon-jackson-named-los-angeles-rams-fan-of-the-year-for-2025",
+      "id": "https-therams-com-news-rams-partner-dragon-seats-sideline-experience-sofi-stadium-practice-facility",
+      "title": "Rams partner with Dragon Seats to enhance sideline experience for players at SoFi Stadium & Woodland Hills practice facility",
+      "link": "https://therams.com/news/rams-partner-dragon-seats-sideline-experience-sofi-stadium-practice-facility",
       "source": "Los Angeles Rams (Official)",
-      "ts": 1762956180.0,
-      "published_iso": "2025-11-12T14:03:00+00:00"
+      "ts": 1762960920.0,
+      "published_iso": "2025-11-12T15:22:00+00:00"
     },
     {
-      "id": "https-therams-com-news-los-angeles-rams-vs-seattle-seahawks-how-to-watch-listen-to-and-live-stream-week-11-2025",
-      "title": "Los Angeles Rams vs. Seattle Seahawks: How to watch, listen to and live stream Week 11",
-      "link": "https://therams.com/news/los-angeles-rams-vs-seattle-seahawks-how-to-watch-listen-to-and-live-stream-week-11-2025",
+      "id": "https-therams-com-news-10th-annual-taste-of-the-rams-raises-220000-la-regional-food-bank-2025-press-release",
+      "title": "The 10th annual Taste of the Rams raises nearly $220,000 to help bolster the LA Regional Food Bank",
+      "link": "https://therams.com/news/10th-annual-taste-of-the-rams-raises-220000-la-regional-food-bank-2025-press-release",
       "source": "Los Angeles Rams (Official)",
-      "ts": 1762944120.0,
-      "published_iso": "2025-11-12T10:42:00+00:00"
+      "ts": 1762960620.0,
+      "published_iso": "2025-11-12T15:17:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-rams-davante-adams-gets-injury-224414148-html",
+      "title": "Rams' Davante Adams gets injury update for Sunday's Seahawks matchup",
+      "link": "https://sports.yahoo.com/article/rams-davante-adams-gets-injury-224414148.html",
+      "source": "Yahoo Sports",
+      "ts": 1762960320.0,
+      "published_iso": "2025-11-12T15:12:00+00:00"
     }
   ]
 }
