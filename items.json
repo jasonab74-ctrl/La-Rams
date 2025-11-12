@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2025-11-12T21:36:02.102064+00:00",
-  "count": 3,
+  "updated_iso": "2025-11-12T22:09:20.620839+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-why-rams-puka-nacua-contract-204557172-html",
-      "title": "Why Rams need to work out a Puka Nacua contract extension soon",
-      "link": "https://sports.yahoo.com/article/why-rams-puka-nacua-contract-204557172.html",
+      "id": "https-therams-com-news-da-mon-jackson-named-los-angeles-rams-fan-of-the-year-for-2025",
+      "title": "Da'Mon Jackson named Los Angeles Rams Fan of the Year for 2025",
+      "link": "https://therams.com/news/da-mon-jackson-named-los-angeles-rams-fan-of-the-year-for-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1762956180.0,
+      "published_iso": "2025-11-12T14:03:00+00:00"
+    },
+    {
+      "id": "https-apnews-com-article-nfl-pro-picks-week-11-47649c5f8569977a208050d813f0ad1f",
+      "title": "Pro Picks: Lions-Eagles, Chiefs-Broncos and Seahawks-Rams highlight a week full of marquee matchups",
+      "link": "https://apnews.com/article/nfl-pro-picks-week-11-47649c5f8569977a208050d813f0ad1f",
+      "source": "AP News",
+      "ts": 1762955520.0,
+      "published_iso": "2025-11-12T13:52:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-buffalo-bills-sign-former-rams-210241438-html",
+      "title": "Buffalo Bills sign former Rams/Chargers DE with playoff experience",
+      "link": "https://sports.yahoo.com/article/buffalo-bills-sign-former-rams-210241438.html",
       "source": "Yahoo Sports",
-      "ts": 1762953000.0,
-      "published_iso": "2025-11-12T13:10:00+00:00"
+      "ts": 1762953060.0,
+      "published_iso": "2025-11-12T13:11:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-seattle-seahawks-how-to-watch-listen-to-and-live-stream-week-11-2025",
@@ -17,14 +33,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1762944120.0,
       "published_iso": "2025-11-12T10:42:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-live-blog-nfl-rams-vs-49ers-live-updates-score-from-americas-game-week",
-      "title": "Rams vs. 49ers Highlights: Matthew Stafford, Los Angeles Cruise to Victory",
-      "link": "https://foxsports.com/live-blog/nfl/rams-vs-49ers-live-updates-score-from-americas-game-week",
-      "source": "FOX Sports",
-      "ts": 1762687800.0,
-      "published_iso": "2025-11-09T11:30:00+00:00"
     }
   ]
 }
