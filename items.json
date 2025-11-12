@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-12T20:10:19.025108+00:00",
+  "updated_iso": "2025-11-12T20:39:42.672996+00:00",
   "count": 4,
   "items": [
+    {
+      "id": "https-nfl-com-videos-seahawks-vs-rams-preview-week-11-x6328",
+      "title": "Seahawks vs. Rams preview | Week 11",
+      "link": "https://nfl.com/videos/seahawks-vs-rams-preview-week-11-x6328",
+      "source": "NFL.com",
+      "ts": 1762950840.0,
+      "published_iso": "2025-11-12T12:34:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-article-matthew-staffords-mvp-campaign-complicates-193344110-html",
       "title": "How Matthew Stafford's MVP campaign complicates Rams' contract talks",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1762947960.0,
       "published_iso": "2025-11-12T11:46:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-grade-rams-uniforms-184051603-html",
-      "title": "What grade would you give the Rams new uniforms?",
-      "link": "https://sports.yahoo.com/article/grade-rams-uniforms-184051603.html",
-      "source": "Yahoo Sports",
-      "ts": 1762945680.0,
-      "published_iso": "2025-11-12T11:08:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-seattle-seahawks-how-to-watch-listen-to-and-live-stream-week-11-2025",
