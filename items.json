@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-11-12T13:06:17.071812+00:00",
-  "count": 3,
+  "updated_iso": "2025-11-12T13:47:23.520383+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-12-rams-kicker-harrison-mevis-joshua-karty-starter-roster-8",
+      "title": "Rams only have 2 more games to make a definitive decision at kicker",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/12/rams-kicker-harrison-mevis-joshua-karty-starter-roster/87228229007/",
+      "source": "Rams Wire",
+      "ts": 1762925880.0,
+      "published_iso": "2025-11-12T05:38:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-12-rams-tyler-higbee-micd-up-vs-49ers-87210523007",
+      "title": "Watch Rams TE Tyler Higbee brought the energy while mic'd up for Week 10 win vs. 49ers",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/12/rams-tyler-higbee-micd-up-vs-49ers/87210523007/",
+      "source": "Rams Wire",
+      "ts": 1762923960.0,
+      "published_iso": "2025-11-12T05:06:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-article-los-angeles-rams-banking-going-185557293-html",
       "title": "Los Angeles Rams banking on going hefty to fix what could derail their season",
@@ -17,14 +33,6 @@
       "source": "FOX Sports",
       "ts": 1762687800.0,
       "published_iso": "2025-11-09T11:30:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-the-hundreds-retro-inspired-collection-celebrating-la-culture",
-      "title": "Los Angeles Rams and The Hundreds drop retro-inspired collection celebrating L.A. culture, style, and legacy",
-      "link": "https://therams.com/news/rams-the-hundreds-retro-inspired-collection-celebrating-la-culture",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1761901800.0,
-      "published_iso": "2025-10-31T09:10:00+00:00"
     }
   ]
 }
