@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-13T23:09:04.298647+00:00",
-  "count": 3,
+  "updated_iso": "2025-11-13T23:34:16.622042+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-cooper-kupp-makes-expectations-rams-193535595-html",
+      "title": "Cooper Kupp Makes His Expectations for Rams Clear Before Return Game",
+      "link": "https://sports.yahoo.com/article/cooper-kupp-makes-expectations-rams-193535595.html",
+      "source": "Yahoo Sports",
+      "ts": 1763045820.0,
+      "published_iso": "2025-11-13T14:57:00+00:00"
+    },
     {
       "id": "https-therams-com-news-da-mon-jackson-named-los-angeles-rams-fan-of-the-year-for-2025",
       "title": "Da'Mon Jackson named Los Angeles Rams Fan of the Year for 2025",
@@ -17,6 +25,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1762944120.0,
       "published_iso": "2025-11-12T10:42:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-09-rams-49ers-score-highlights-updates-week-10-87184383007",
+      "title": "Rams vs. 49ers highlights: Los Angeles dominates NFL Week 10 game",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/09/rams-49ers-score-highlights-updates-week-10/87184383007/",
+      "source": "Rams Wire",
+      "ts": 1762688760.0,
+      "published_iso": "2025-11-09T11:46:00+00:00"
     },
     {
       "id": "https-foxsports-com-live-blog-nfl-rams-vs-49ers-live-updates-score-from-americas-game-week",
