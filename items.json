@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-13T13:06:01.454707+00:00",
+  "updated_iso": "2025-11-13T13:47:53.325754+00:00",
   "count": 4,
   "items": [
+    {
+      "id": "https-cbssports-com-nfl-news-nfl-week-11-picks-our-experts-face-off-on-jets-vs-patriots-seahawks-vs-rams-lions-vs-eagles",
+      "title": "NFL Week 11 picks: Our experts face off on Jets vs. Patriots, Seahawks vs. Rams, Lions vs. Eagles and more",
+      "link": "https://cbssports.com/nfl/news/nfl-week-11-picks-our-experts-face-off-on-jets-vs-patriots-seahawks-vs-rams-lions-vs-eagles-and-more/",
+      "source": "CBS Sports",
+      "ts": 1763011800.0,
+      "published_iso": "2025-11-13T05:30:00+00:00"
+    },
     {
       "id": "https-therams-com-news-da-mon-jackson-named-los-angeles-rams-fan-of-the-year-for-2025",
       "title": "Da'Mon Jackson named Los Angeles Rams Fan of the Year for 2025",
@@ -17,14 +25,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1762944120.0,
       "published_iso": "2025-11-12T10:42:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-los-angeles-rams-banking-going-185557293-html",
-      "title": "Los Angeles Rams banking on going hefty to fix what could derail their season",
-      "link": "https://sports.yahoo.com/article/los-angeles-rams-banking-going-185557293.html",
-      "source": "Yahoo Sports",
-      "ts": 1762688520.0,
-      "published_iso": "2025-11-09T11:42:00+00:00"
     },
     {
       "id": "https-foxsports-com-live-blog-nfl-rams-vs-49ers-live-updates-score-from-americas-game-week",
