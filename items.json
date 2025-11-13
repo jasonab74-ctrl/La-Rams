@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2025-11-13T16:12:12.542149+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-11-13T16:44:57.882106+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-article-davante-adams-play-week-11-161509835-html",
+      "title": "Will Davante Adams play in Week 11? Latest injury updates on Rams wide receiver",
+      "link": "https://sports.yahoo.com/article/davante-adams-play-week-11-161509835.html",
+      "source": "Yahoo Sports",
+      "ts": 1763023260.0,
+      "published_iso": "2025-11-13T08:41:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-nfc-playoff-picture-2025-ranking-wild-card-contenders",
+      "title": "2025 NFL playoff picture: Ranking NFC wild-card contenders, from red-hot Rams to hanging-by-a-thread Cowboys",
+      "link": "https://cbssports.com/nfl/news/nfc-playoff-picture-2025-ranking-wild-card-contenders/",
+      "source": "CBS Sports",
+      "ts": 1763022420.0,
+      "published_iso": "2025-11-13T08:27:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-vs-seattle-seahawks-how-to-watch-listen-to-and-live-stream-week-11-2025",
+      "title": "Los Angeles Rams vs. Seattle Seahawks: How to watch, listen to and live stream Week 11",
+      "link": "https://therams.com/news/los-angeles-rams-vs-seattle-seahawks-how-to-watch-listen-to-and-live-stream-week-11-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1762944120.0,
+      "published_iso": "2025-11-12T10:42:00+00:00"
+    }
+  ]
 }
