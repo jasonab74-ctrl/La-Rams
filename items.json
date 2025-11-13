@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-11-13T20:40:12.086762+00:00",
-  "count": 2,
+  "updated_iso": "2025-11-13T21:08:47.148402+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-therams-com-news-da-mon-jackson-named-los-angeles-rams-fan-of-the-year-for-2025",
-      "title": "Da'Mon Jackson named Los Angeles Rams Fan of the Year for 2025",
-      "link": "https://therams.com/news/da-mon-jackson-named-los-angeles-rams-fan-of-the-year-for-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1762956180.0,
-      "published_iso": "2025-11-12T14:03:00+00:00"
+      "id": "https-sports-yahoo-com-article-seahawks-cooper-kupp-hilarious-reaction-204532832-html",
+      "title": "Seahawks' Cooper Kupp has hilarious reaction to Rams' planned tribute video",
+      "link": "https://sports.yahoo.com/article/seahawks-cooper-kupp-hilarious-reaction-204532832.html",
+      "source": "Yahoo Sports",
+      "ts": 1763039040.0,
+      "published_iso": "2025-11-13T13:04:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-why-rams-interesting-fit-kyler-201717938-html",
+      "title": "Why Rams are an interesting fit for Kyler Murray amid uncertain future",
+      "link": "https://sports.yahoo.com/article/why-rams-interesting-fit-kyler-201717938.html",
+      "source": "Yahoo Sports",
+      "ts": 1763037660.0,
+      "published_iso": "2025-11-13T12:41:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-seattle-seahawks-how-to-watch-listen-to-and-live-stream-week-11-2025",
