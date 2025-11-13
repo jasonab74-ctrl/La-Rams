@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-11-13T05:10:20.329147+00:00",
-  "count": 4,
+  "updated_iso": "2025-11-13T05:40:06.733878+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-matthew-stafford-speaks-tough-seahawks-defense",
@@ -25,14 +25,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1762944120.0,
       "published_iso": "2025-11-12T10:42:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-live-blog-nfl-rams-vs-49ers-live-updates-score-from-americas-game-week",
-      "title": "Rams vs. 49ers Highlights: Matthew Stafford, Los Angeles Cruise to Victory",
-      "link": "https://foxsports.com/live-blog/nfl/rams-vs-49ers-live-updates-score-from-americas-game-week",
-      "source": "FOX Sports",
-      "ts": 1762687800.0,
-      "published_iso": "2025-11-09T11:30:00+00:00"
     }
   ]
 }
