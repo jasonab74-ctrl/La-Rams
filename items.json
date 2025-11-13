@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-11-13T21:08:47.148402+00:00",
-  "count": 3,
+  "updated_iso": "2025-11-13T21:31:39.793497+00:00",
+  "count": 1,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-article-seahawks-cooper-kupp-hilarious-reaction-204532832-html",
-      "title": "Seahawks' Cooper Kupp has hilarious reaction to Rams' planned tribute video",
-      "link": "https://sports.yahoo.com/article/seahawks-cooper-kupp-hilarious-reaction-204532832.html",
-      "source": "Yahoo Sports",
-      "ts": 1763039040.0,
-      "published_iso": "2025-11-13T13:04:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-article-why-rams-interesting-fit-kyler-201717938-html",
       "title": "Why Rams are an interesting fit for Kyler Murray amid uncertain future",
@@ -17,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1763037660.0,
       "published_iso": "2025-11-13T12:41:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-vs-seattle-seahawks-how-to-watch-listen-to-and-live-stream-week-11-2025",
-      "title": "Los Angeles Rams vs. Seattle Seahawks: How to watch, listen to and live stream Week 11",
-      "link": "https://therams.com/news/los-angeles-rams-vs-seattle-seahawks-how-to-watch-listen-to-and-live-stream-week-11-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1762944120.0,
-      "published_iso": "2025-11-12T10:42:00+00:00"
     }
   ]
 }
