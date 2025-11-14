@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-11-14T03:31:29.309235+00:00",
-  "count": 5,
+  "updated_iso": "2025-11-14T04:13:13.268828+00:00",
+  "count": 6,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-rams-davante-adams-returns-practice-014955838-html",
@@ -33,6 +33,14 @@
       "source": "Rams Wire",
       "ts": 1762688760.0,
       "published_iso": "2025-11-09T11:46:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-los-angeles-rams-banking-going-185557293-html",
+      "title": "Los Angeles Rams banking on going hefty to fix what could derail their season",
+      "link": "https://sports.yahoo.com/article/los-angeles-rams-banking-going-185557293.html",
+      "source": "Yahoo Sports",
+      "ts": 1762688520.0,
+      "published_iso": "2025-11-09T11:42:00+00:00"
     },
     {
       "id": "https-foxsports-com-live-blog-nfl-rams-vs-49ers-live-updates-score-from-americas-game-week",
