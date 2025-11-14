@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-11-14T23:08:55.333762+00:00",
-  "count": 1,
+  "updated_iso": "2025-11-14T23:34:03.533275+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-davante-adams-kobie-turner-215830801-html",
+      "title": "Rams’ Davante Adams, Kobie Turner avoid injury absences vs. Seahawks",
+      "link": "https://sports.yahoo.com/article/rams-davante-adams-kobie-turner-215830801.html",
+      "source": "Yahoo Sports",
+      "ts": 1763134080.0,
+      "published_iso": "2025-11-14T15:28:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-feature-rams-tight-ends-epitomize-selflessness-of-2025-roster",
+      "title": "Feature: Rams tight ends epitomize selflessness of 2025 roster",
+      "link": "https://therams.com/news/feature-rams-tight-ends-epitomize-selflessness-of-2025-roster",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1763130720.0,
+      "published_iso": "2025-11-14T14:32:00+00:00"
+    },
     {
       "id": "https-apnews-com-article-rams-los-angeles-alaric-jackson-34d858b003017e39bcf0aacac70e94e4",
       "title": "Alaric Jackson de los Rams jugará el domingo tras ser demandado por video sexual",
