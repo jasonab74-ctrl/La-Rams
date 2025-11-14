@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-11-14T21:07:56.467360+00:00",
-  "count": 1,
+  "updated_iso": "2025-11-14T21:34:25.061780+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-cbssports-com-nfl-news-where-to-watch-seahawks-vs-rams-tv-channel-live-stream-preview-week-11",
-      "title": "Where to watch Seahawks vs. Rams: TV channel, live stream and preview for Week 11",
-      "link": "https://cbssports.com/nfl/news/where-to-watch-seahawks-vs-rams-tv-channel-live-stream-preview-week-11/",
-      "source": "CBS Sports",
-      "ts": 1763124420.0,
-      "published_iso": "2025-11-14T12:47:00+00:00"
+      "id": "https-si-com-betting-seahawks-vs-rams-final-score-prediction-for-nfl-week-11-la-on-upset-alert",
+      "title": "Seahawks vs. Rams Final Score Prediction for NFL Week 11 (LA on Upset Alert?)",
+      "link": "https://si.com/betting/seahawks-vs-rams-final-score-prediction-for-nfl-week-11-la-on-upset-alert",
+      "source": "Sports Illustrated",
+      "ts": 1763126820.0,
+      "published_iso": "2025-11-14T13:27:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-rams-sean-mcvay-gives-encouraging-194639510-html",
+      "title": "Rams' Sean McVay gives encouraging injury update on Davante Adams after Week 10 setback",
+      "link": "https://sports.yahoo.com/article/rams-sean-mcvay-gives-encouraging-194639510.html",
+      "source": "Yahoo Sports",
+      "ts": 1763122200.0,
+      "published_iso": "2025-11-14T12:10:00+00:00"
     }
   ]
 }
