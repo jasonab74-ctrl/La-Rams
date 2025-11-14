@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2025-11-14T22:38:33.062225+00:00",
-  "count": 2,
+  "updated_iso": "2025-11-14T23:08:55.333762+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-therams-com-news-feature-rams-tight-ends-epitomize-selflessness-of-2025-roster",
-      "title": "Feature: Rams tight ends epitomize selflessness of 2025 roster",
-      "link": "https://therams.com/news/feature-rams-tight-ends-epitomize-selflessness-of-2025-roster",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1763130720.0,
-      "published_iso": "2025-11-14T14:32:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-vs-seattle-seahawks-how-to-watch-listen-to-and-live-stream-week-11-2025",
-      "title": "Los Angeles Rams vs. Seattle Seahawks: How to watch, listen to and live stream Week 11",
-      "link": "https://therams.com/news/los-angeles-rams-vs-seattle-seahawks-how-to-watch-listen-to-and-live-stream-week-11-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1762944120.0,
-      "published_iso": "2025-11-12T10:42:00+00:00"
+      "id": "https-apnews-com-article-rams-los-angeles-alaric-jackson-34d858b003017e39bcf0aacac70e94e4",
+      "title": "Alaric Jackson de los Rams jugará el domingo tras ser demandado por video sexual",
+      "link": "https://apnews.com/article/rams-los-angeles-alaric-jackson-34d858b003017e39bcf0aacac70e94e4",
+      "source": "AP News",
+      "ts": 1763130540.0,
+      "published_iso": "2025-11-14T14:29:00+00:00"
     }
   ]
 }
