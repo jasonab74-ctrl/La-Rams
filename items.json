@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-11-14T17:08:26.875238+00:00",
+  "updated_iso": "2025-11-14T17:38:09.783694+00:00",
   "count": 4,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-article-rams-lt-alaric-jackson-sued-165123304-html",
-      "title": "Rams LT Alaric Jackson sued for incident that landed him 2-game suspension in 2024",
-      "link": "https://sports.yahoo.com/article/rams-lt-alaric-jackson-sued-165123304.html",
-      "source": "Yahoo Sports",
-      "ts": 1763110860.0,
-      "published_iso": "2025-11-14T09:01:00+00:00"
-    },
     {
       "id": "https-nfl-com-videos-brandt-on-seahawks-rams-matchup-something-has-to-be-done-about-matthew-stafford-gmfb",
       "title": "Brandt on Seahawks-Rams matchup: 'Something has to be done about Matthew Stafford' | 'GMFB'",
@@ -33,6 +25,14 @@
       "source": "Rams Wire",
       "ts": 1762688760.0,
       "published_iso": "2025-11-09T11:46:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-live-blog-nfl-rams-vs-49ers-live-updates-score-from-americas-game-week",
+      "title": "Rams vs. 49ers Highlights: Matthew Stafford, Los Angeles Cruise to Victory",
+      "link": "https://foxsports.com/live-blog/nfl/rams-vs-49ers-live-updates-score-from-americas-game-week",
+      "source": "FOX Sports",
+      "ts": 1762687800.0,
+      "published_iso": "2025-11-09T11:30:00+00:00"
     }
   ]
 }
