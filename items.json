@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-14T20:10:50.664820+00:00",
+  "updated_iso": "2025-11-14T20:38:50.229325+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-sean-mcvay-gives-encouraging-194639510-html",
+      "title": "Rams' Sean McVay gives encouraging injury update on Davante Adams after Week 10 setback",
+      "link": "https://sports.yahoo.com/article/rams-sean-mcvay-gives-encouraging-194639510.html",
+      "source": "Yahoo Sports",
+      "ts": 1763122200.0,
+      "published_iso": "2025-11-14T12:10:00+00:00"
+    },
     {
       "id": "https-therams-com-video-rodger-saffold-pro-bowl-sean-mcvay-joining-rams-coaching-youth-football",
       "title": "Rodger Saffold talks about the Pro Bowl, Sean McVay joining the Rams & coaching youth football",
@@ -9,14 +17,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1763119020.0,
       "published_iso": "2025-11-14T11:17:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-seahawks-clash-in-high-stakes-division-collision-at-sofi-stadium-game-preview",
-      "title": "Rams & Seahawks clash in high-stakes division collision at SoFi Stadium | Game Preview",
-      "link": "https://therams.com/news/rams-seahawks-clash-in-high-stakes-division-collision-at-sofi-stadium-game-preview",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1763118480.0,
-      "published_iso": "2025-11-14T11:08:00+00:00"
     }
   ]
 }
