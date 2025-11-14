@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-11-14T09:38:59.566126+00:00",
-  "count": 5,
+  "updated_iso": "2025-11-14T10:11:08.907921+00:00",
+  "count": 6,
   "items": [
     {
       "id": "https-yahoo-com-news-videos-coaches-mike-macdonald-leslie-frazier-044034456-html",
@@ -33,6 +33,14 @@
       "source": "Rams Wire",
       "ts": 1762688760.0,
       "published_iso": "2025-11-09T11:46:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-los-angeles-rams-banking-going-185557293-html",
+      "title": "Los Angeles Rams banking on going hefty to fix what could derail their season",
+      "link": "https://sports.yahoo.com/article/los-angeles-rams-banking-going-185557293.html",
+      "source": "Yahoo Sports",
+      "ts": 1762688520.0,
+      "published_iso": "2025-11-09T11:42:00+00:00"
     },
     {
       "id": "https-foxsports-com-live-blog-nfl-rams-vs-49ers-live-updates-score-from-americas-game-week",
