@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-11-14T16:11:26.680250+00:00",
-  "count": 3,
+  "updated_iso": "2025-11-14T16:46:08.222528+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-nfl-com-videos-brandt-on-seahawks-rams-matchup-something-has-to-be-done-about-matthew-stafford-gmfb",
+      "title": "Brandt on Seahawks-Rams matchup: 'Something has to be done about Matthew Stafford' | 'GMFB'",
+      "link": "https://nfl.com/videos/brandt-on-seahawks-rams-matchup-something-has-to-be-done-about-matthew-stafford-gmfb",
+      "source": "NFL.com",
+      "ts": 1763108580.0,
+      "published_iso": "2025-11-14T08:23:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-seahawks-hired-mike-macdonald-beat-160217429-html",
+      "title": "This is who Seahawks hired Mike Macdonald to beat. The keys to beating the Rams",
+      "link": "https://sports.yahoo.com/article/seahawks-hired-mike-macdonald-beat-160217429.html",
+      "source": "Yahoo Sports",
+      "ts": 1763108280.0,
+      "published_iso": "2025-11-14T08:18:00+00:00"
+    },
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-seattle-seahawks-how-to-watch-listen-to-and-live-stream-week-11-2025",
       "title": "Los Angeles Rams vs. Seattle Seahawks: How to watch, listen to and live stream Week 11",
