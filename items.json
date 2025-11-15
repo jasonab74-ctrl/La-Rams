@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-15T21:06:59.861887+00:00",
-  "count": 2,
+  "updated_iso": "2025-11-15T21:31:14.368788+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-kicker-roster-move-seahawks-185242540-html",
+      "title": "Rams make kicker roster move for Seahawks clash",
+      "link": "https://sports.yahoo.com/article/rams-kicker-roster-move-seahawks-185242540.html",
+      "source": "Yahoo Sports",
+      "ts": 1763208900.0,
+      "published_iso": "2025-11-15T12:15:00+00:00"
+    },
     {
       "id": "https-bleacherreport-com-articles-25294759-are-rams-super-bowl-favorites-nfl-insider-says-theyre-primed-deep-playoff-run",
       "title": "Are Rams Super Bowl Favorites? NFL Insider Says They're 'Primed' for Deep Playoff Run",
