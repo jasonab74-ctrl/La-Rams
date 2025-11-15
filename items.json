@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-11-15T04:40:03.728832+00:00",
-  "count": 4,
+  "updated_iso": "2025-11-15T05:08:54.460671+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-davante-adams-addresses-injury-concerns",
@@ -9,14 +9,6 @@
       "source": "Sports Illustrated",
       "ts": 1763149140.0,
       "published_iso": "2025-11-14T19:39:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-ernest-jones-iv-cleared-return-232539999-html",
-      "title": "Ernest Jones IV cleared to return for Seattle Seahawks against Rams",
-      "link": "https://sports.yahoo.com/article/ernest-jones-iv-cleared-return-232539999.html",
-      "source": "Yahoo Sports",
-      "ts": 1763149080.0,
-      "published_iso": "2025-11-14T19:38:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-article-sam-darnold-not-seeking-vengeance-013904540-html",
