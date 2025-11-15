@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-15T11:02:32.421878+00:00",
+  "updated_iso": "2025-11-15T11:31:23.581615+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-latimes-com-0000019a-86bc-dd7b-a39e-9fbe63c70000-123",
+      "title": "Rams and Seahawks prepare for NFC West showdown at SoFi Stadium",
+      "link": "https://latimes.com/0000019a-86bc-dd7b-a39e-9fbe63c70000-123",
+      "source": "LA Times",
+      "ts": 1763176260.0,
+      "published_iso": "2025-11-15T03:11:00+00:00"
+    },
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-seattle-seahawks-how-to-watch-listen-to-and-live-stream-week-11-2025",
       "title": "Los Angeles Rams vs. Seattle Seahawks: How to watch, listen to and live stream Week 11",
@@ -17,14 +25,6 @@
       "source": "Rams Wire",
       "ts": 1762688760.0,
       "published_iso": "2025-11-09T11:46:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-los-angeles-rams-banking-going-185557293-html",
-      "title": "Los Angeles Rams banking on going hefty to fix what could derail their season",
-      "link": "https://sports.yahoo.com/article/los-angeles-rams-banking-going-185557293.html",
-      "source": "Yahoo Sports",
-      "ts": 1762688520.0,
-      "published_iso": "2025-11-09T11:42:00+00:00"
     }
   ]
 }
