@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-11-15T13:20:29.570924+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-11-15T13:37:57.867605+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-article-seahawks-vs-rams-prediction-odds-104719142-html",
+      "title": "Seahawks vs. Rams prediction, odds, pick for NFL Week 11",
+      "link": "https://sports.yahoo.com/article/seahawks-vs-rams-prediction-odds-104719142.html",
+      "source": "Yahoo Sports",
+      "ts": 1763179620.0,
+      "published_iso": "2025-11-15T04:07:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-vs-seattle-seahawks-how-to-watch-listen-to-and-live-stream-week-11-2025",
+      "title": "Los Angeles Rams vs. Seattle Seahawks: How to watch, listen to and live stream Week 11",
+      "link": "https://therams.com/news/los-angeles-rams-vs-seattle-seahawks-how-to-watch-listen-to-and-live-stream-week-11-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1762944120.0,
+      "published_iso": "2025-11-12T10:42:00+00:00"
+    }
+  ]
 }
