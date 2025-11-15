@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-14T23:34:03.533275+00:00",
+  "updated_iso": "2025-11-15T00:42:57.439895+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-davante-adams-addresses-injury-concerns",
+      "title": "Rams Davante Adams Addresses Injury Concerns",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-davante-adams-addresses-injury-concerns",
+      "source": "Sports Illustrated",
+      "ts": 1763135520.0,
+      "published_iso": "2025-11-14T15:52:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-article-rams-davante-adams-kobie-turner-215830801-html",
       "title": "Rams’ Davante Adams, Kobie Turner avoid injury absences vs. Seahawks",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1763134080.0,
       "published_iso": "2025-11-14T15:28:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-feature-rams-tight-ends-epitomize-selflessness-of-2025-roster",
-      "title": "Feature: Rams tight ends epitomize selflessness of 2025 roster",
-      "link": "https://therams.com/news/feature-rams-tight-ends-epitomize-selflessness-of-2025-roster",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1763130720.0,
-      "published_iso": "2025-11-14T14:32:00+00:00"
     },
     {
       "id": "https-apnews-com-article-rams-los-angeles-alaric-jackson-34d858b003017e39bcf0aacac70e94e4",
