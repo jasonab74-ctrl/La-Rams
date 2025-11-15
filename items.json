@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2025-11-15T23:08:00.166726+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-11-15T23:32:17.440239+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-article-time-seahawks-game-nov-16-223627362-html",
+      "title": "What time is the Seahawks game on Nov. 16? How to watch Seahawks vs. Rams NFL Week 11",
+      "link": "https://sports.yahoo.com/article/time-seahawks-game-nov-16-223627362.html",
+      "source": "Yahoo Sports",
+      "ts": 1763219040.0,
+      "published_iso": "2025-11-15T15:04:00+00:00"
+    }
+  ]
 }
