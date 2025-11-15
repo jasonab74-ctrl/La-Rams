@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-15T02:21:23.548474+00:00",
-  "count": 2,
+  "updated_iso": "2025-11-15T03:26:06.710979+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-sam-darnold-not-seeking-vengeance-013904540-html",
+      "title": "Sam Darnold not seeking vengeance vs. Rams after 9-sack playoff loss",
+      "link": "https://sports.yahoo.com/article/sam-darnold-not-seeking-vengeance-013904540.html",
+      "source": "Yahoo Sports",
+      "ts": 1763147760.0,
+      "published_iso": "2025-11-14T19:16:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-article-rams-davante-adams-vows-same-002856599-html",
       "title": "Rams’ Davante Adams vows to be ‘same old G’ vs. Seahawks amid injury concerns",
