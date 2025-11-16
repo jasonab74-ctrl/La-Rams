@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-11-16T16:40:33.207363+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-11-16T17:07:09.723825+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-cbssports-com-nfl-news-fanduel-promo-code-claim-150-bonus-bets-nfl-week-11-chiefs-broncos-rams-seahawks-sunday",
+      "title": "FanDuel promo code: Claim $150 in bonus bets for NFL Week 11, Chiefs vs. Broncos, Rams vs. Seahawks on Sunday",
+      "link": "https://cbssports.com/nfl/news/fanduel-promo-code-claim-150-bonus-bets-nfl-week-11-chiefs-broncos-rams-seahawks-sunday/",
+      "source": "CBS Sports",
+      "ts": 1763283600.0,
+      "published_iso": "2025-11-16T09:00:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-davante-adams-proving-rams-signing-165314479-html",
+      "title": "Davante Adams is proving to Rams that signing him was totally worth it",
+      "link": "https://sports.yahoo.com/article/davante-adams-proving-rams-signing-165314479.html",
+      "source": "Yahoo Sports",
+      "ts": 1763283420.0,
+      "published_iso": "2025-11-16T08:57:00+00:00"
+    }
+  ]
 }
