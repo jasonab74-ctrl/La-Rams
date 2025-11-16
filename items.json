@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2025-11-16T02:30:35.036020+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-11-16T03:42:03.194044+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-article-los-angeles-rams-banking-going-185557293-html",
+      "title": "Los Angeles Rams banking on going hefty to fix what could derail their season",
+      "link": "https://sports.yahoo.com/article/los-angeles-rams-banking-going-185557293.html",
+      "source": "Yahoo Sports",
+      "ts": 1762688520.0,
+      "published_iso": "2025-11-09T11:42:00+00:00"
+    }
+  ]
 }
