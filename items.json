@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-11-16T08:11:34.476683+00:00",
-  "count": 2,
+  "updated_iso": "2025-11-16T08:41:21.427490+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-seattle-seahawks-how-to-watch-listen-to-and-live-stream-week-11-2025",
@@ -17,6 +17,14 @@
       "source": "Yahoo Sports",
       "ts": 1762688520.0,
       "published_iso": "2025-11-09T11:42:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-live-blog-nfl-rams-vs-49ers-live-updates-score-from-americas-game-week",
+      "title": "Rams vs. 49ers Highlights: Matthew Stafford, Los Angeles Cruise to Victory",
+      "link": "https://foxsports.com/live-blog/nfl/rams-vs-49ers-live-updates-score-from-americas-game-week",
+      "source": "FOX Sports",
+      "ts": 1762687800.0,
+      "published_iso": "2025-11-09T11:30:00+00:00"
     }
   ]
 }
