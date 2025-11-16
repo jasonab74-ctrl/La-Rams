@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-11-16T19:31:14.790350+00:00",
-  "count": 1,
+  "updated_iso": "2025-11-16T20:09:34.361836+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-why-rams-let-cooper-kupp-194540497-html",
+      "title": "Why the Rams let Cooper Kupp leave for the Seahawks",
+      "link": "https://sports.yahoo.com/article/why-rams-let-cooper-kupp-194540497.html",
+      "source": "Yahoo Sports",
+      "ts": 1763294640.0,
+      "published_iso": "2025-11-16T12:04:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-seahawks-inactives-week-11-2025-joshua-karty-jarquez-hunter",
+      "title": "Joshua Karty and Jarquez Hunter among Rams' inactives for Week 11 vs. Seahawks",
+      "link": "https://therams.com/news/rams-seahawks-inactives-week-11-2025-joshua-karty-jarquez-hunter",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1763293560.0,
+      "published_iso": "2025-11-16T11:46:00+00:00"
+    },
     {
       "id": "https-yahoo-com-news-videos-greg-olsen-previews-seahawks-vs-164637856-html",
       "title": "Greg Olsen previews Seahawks vs. Rams: 'We've got two of the best football minds' | FOX NFL Kickoff",
