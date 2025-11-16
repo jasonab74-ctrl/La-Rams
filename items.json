@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-11-16T17:34:44.209686+00:00",
-  "count": 1,
+  "updated_iso": "2025-11-16T18:12:02.228498+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-foxsports-com-watch-fmc-bjz80cesm68wmzei",
-      "title": "Greg Olsen previews Seahawks vs. Rams: 'We've got two of the best football minds' | FOX NFL Kickoff",
-      "link": "https://foxsports.com/watch/fmc-bjz80cesm68wmzei",
-      "source": "FOX Sports",
-      "ts": 1763283540.0,
-      "published_iso": "2025-11-16T08:59:00+00:00"
+      "id": "https-sports-yahoo-com-article-3-seahawks-candidates-dark-horse-174500504-html",
+      "title": "3 Seahawks candidates for the dark horse hero title against the Rams",
+      "link": "https://sports.yahoo.com/article/3-seahawks-candidates-dark-horse-174500504.html",
+      "source": "Yahoo Sports",
+      "ts": 1763286600.0,
+      "published_iso": "2025-11-16T09:50:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-16-rams-oz-mentalist-video-matthew-stafford-davante-adams-8",
+      "title": "Watch: Oz The Mentalist reads Rams' minds, leaves everyone stunned",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/16/rams-oz-mentalist-video-matthew-stafford-davante-adams/87306185007/",
+      "source": "Rams Wire",
+      "ts": 1763285280.0,
+      "published_iso": "2025-11-16T09:28:00+00:00"
     }
   ]
 }
