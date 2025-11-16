@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-16T12:57:14.898815+00:00",
-  "count": 3,
+  "updated_iso": "2025-11-16T13:19:18.853027+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-channel-seahawks-vs-rams-today-130122662-html",
+      "title": "What channel is Seahawks vs. Rams on today? Time, TV schedule to watch Week 11 game",
+      "link": "https://sports.yahoo.com/article/channel-seahawks-vs-rams-today-130122662.html",
+      "source": "Yahoo Sports",
+      "ts": 1763269980.0,
+      "published_iso": "2025-11-16T05:13:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-article-davante-adams-playing-today-rams-115002904-html",
       "title": "Is Davante Adams playing today? Rams WR latest news is good update for Week 11",
@@ -9,22 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1763265960.0,
       "published_iso": "2025-11-16T04:06:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-los-angeles-rams-banking-going-185557293-html",
-      "title": "Los Angeles Rams banking on going hefty to fix what could derail their season",
-      "link": "https://sports.yahoo.com/article/los-angeles-rams-banking-going-185557293.html",
-      "source": "Yahoo Sports",
-      "ts": 1762688520.0,
-      "published_iso": "2025-11-09T11:42:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-live-blog-nfl-rams-vs-49ers-live-updates-score-from-americas-game-week",
-      "title": "Rams vs. 49ers Highlights: Matthew Stafford, Los Angeles Cruise to Victory",
-      "link": "https://foxsports.com/live-blog/nfl/rams-vs-49ers-live-updates-score-from-americas-game-week",
-      "source": "FOX Sports",
-      "ts": 1762687800.0,
-      "published_iso": "2025-11-09T11:30:00+00:00"
     }
   ]
 }
