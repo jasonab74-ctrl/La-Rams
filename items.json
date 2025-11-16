@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-16T20:37:09.752554+00:00",
+  "updated_iso": "2025-11-16T21:07:28.987247+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-cbssports-com-nfl-news-look-rams-wearing-new-midnight-mode-rivalries-uniform-in-week-11-showdown-vs-seahawks",
+      "title": "LOOK: Rams wearing new Midnight Mode 'Rivalries' uniform in Week 11 showdown vs. Seahawks",
+      "link": "https://cbssports.com/nfl/news/look-rams-wearing-new-midnight-mode-rivalries-uniform-in-week-11-showdown-vs-seahawks/",
+      "source": "CBS Sports",
+      "ts": 1763297520.0,
+      "published_iso": "2025-11-16T12:52:00+00:00"
+    },
     {
       "id": "https-therams-com-video-rams-seahawks-pregame-show-players-watch-game-predictions-week-11-sofi-stadium",
       "title": "Rams-Seahawks Pregame Show",
@@ -17,14 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1763294640.0,
       "published_iso": "2025-11-16T12:04:00+00:00"
-    },
-    {
-      "id": "https-yahoo-com-news-videos-greg-olsen-previews-seahawks-vs-164637856-html",
-      "title": "Greg Olsen previews Seahawks vs. Rams: 'We've got two of the best football minds' | FOX NFL Kickoff",
-      "link": "https://yahoo.com/news/videos/greg-olsen-previews-seahawks-vs-164637856.html",
-      "source": "Yahoo",
-      "ts": 1763291580.0,
-      "published_iso": "2025-11-16T11:13:00+00:00"
     }
   ]
 }
