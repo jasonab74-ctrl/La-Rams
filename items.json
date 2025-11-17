@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-17T04:44:18.216687+00:00",
-  "count": 1,
+  "updated_iso": "2025-11-17T05:10:21.187070+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-hold-off-seahawks-nail-021814485-html",
+      "title": "Rams hold off Seahawks in nail-biting thriller at SoFi Stadium",
+      "link": "https://sports.yahoo.com/article/rams-hold-off-seahawks-nail-021814485.html",
+      "source": "Yahoo Sports",
+      "ts": 1763324760.0,
+      "published_iso": "2025-11-16T20:26:00+00:00"
+    },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-sean-mcvay-shares-evaluation-performance-against-seahawks",
       "title": "Sean McVay Shares Evaluation of Rams Performance Against Seahawks",
