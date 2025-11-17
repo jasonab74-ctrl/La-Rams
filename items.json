@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2025-11-16T23:32:41.952680+00:00",
-  "count": 2,
+  "updated_iso": "2025-11-17T00:45:15.945388+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-nfl-com-videos-davante-adams-1000th-career-catch-is-a-rams-touchdown-vs-seahawks",
-      "title": "Davante Adams' 1000th career catch is a Rams' touchdown vs. Seahawks",
-      "link": "https://nfl.com/videos/davante-adams-1000th-career-catch-is-a-rams-touchdown-vs-seahawks",
-      "source": "NFL.com",
-      "ts": 1763303760.0,
-      "published_iso": "2025-11-16T14:36:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-rams-davante-adams-joins-elite-220616521-html",
-      "title": "Rams' Davante Adams joins elite NFL company with 1,000th catch vs. Seahawks",
-      "link": "https://sports.yahoo.com/article/rams-davante-adams-joins-elite-220616521.html",
-      "source": "Yahoo Sports",
-      "ts": 1763302860.0,
-      "published_iso": "2025-11-16T14:21:00+00:00"
+      "id": "https-bleacherreport-com-articles-25296073-sam-darnold-criticized-fans-4-ints-loss-stafford-rams-amid-nfc-west-race",
+      "title": "Sam Darnold Criticized by Fans for 4 INTs in Loss to Stafford, Rams Amid NFC West Race",
+      "link": "https://bleacherreport.com/articles/25296073-sam-darnold-criticized-fans-4-ints-loss-stafford-rams-amid-nfc-west-race",
+      "source": "Bleacher Report",
+      "ts": 1763309820.0,
+      "published_iso": "2025-11-16T16:17:00+00:00"
     }
   ]
 }
