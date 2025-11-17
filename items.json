@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-11-17T11:33:58.296328+00:00",
-  "count": 1,
+  "updated_iso": "2025-11-17T12:17:57.327540+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-hern-ndez-rams-super-bowl-120000359-html",
+      "title": "Hernández: Rams have a Super Bowl vibe, and L.A. might crown another champion soon",
+      "link": "https://sports.yahoo.com/article/hern-ndez-rams-super-bowl-120000359.html",
+      "source": "Yahoo Sports",
+      "ts": 1763352840.0,
+      "published_iso": "2025-11-17T04:14:00+00:00"
+    },
+    {
+      "id": "https-latimes-com-sports-rams-story-2025-11-17-rams-prove-super-bowl-contenders-victory-seahawks",
+      "title": "That Super Bowl-winning vibe? Rams have it, and L.A. might crown another champion soon",
+      "link": "https://latimes.com/sports/rams/story/2025-11-17/rams-prove-super-bowl-contenders-victory-seahawks",
+      "source": "LA Times",
+      "ts": 1763352060.0,
+      "published_iso": "2025-11-17T04:01:00+00:00"
+    },
     {
       "id": "https-si-com-betting-nfl-week-12-opening-odds-for-every-game-chiefs-favored-vs-colts-rams-favored-vs-bucs",
       "title": "NFL Week 12 Opening Odds for Every Game (Chiefs Favored vs. Colts, Rams Favored vs. Bucs)",
