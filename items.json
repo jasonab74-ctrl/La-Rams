@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-11-17T18:46:47.591819+00:00",
-  "count": 2,
+  "updated_iso": "2025-11-17T19:01:33.312023+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-si-com-nfl-rams-onsi-kyren-williams-details-massive-seahawks-win",
@@ -9,14 +9,6 @@
       "source": "Sports Illustrated",
       "ts": 1763374200.0,
       "published_iso": "2025-11-17T10:10:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-seahawks-cooper-kupp-said-failed-160634581-html",
-      "title": "What Seahawks’ Cooper Kupp said about failed revenge game vs. Rams",
-      "link": "https://sports.yahoo.com/article/seahawks-cooper-kupp-said-failed-160634581.html",
-      "source": "Yahoo Sports",
-      "ts": 1763371500.0,
-      "published_iso": "2025-11-17T09:25:00+00:00"
     }
   ]
 }
