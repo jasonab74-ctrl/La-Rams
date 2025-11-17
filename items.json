@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2025-11-17T17:39:01.392338+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-11-17T18:12:35.609455+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-si-com-nfl-rams-onsi-kyren-williams-details-massive-seahawks-win",
+      "title": "Kyren Williams Details What Led Rams to Massive Seahawks Win",
+      "link": "https://si.com/nfl/rams/onsi/kyren-williams-details-massive-seahawks-win",
+      "source": "Sports Illustrated",
+      "ts": 1763374200.0,
+      "published_iso": "2025-11-17T10:10:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeled-cobie-durant-talks-massive-day-secondary",
+      "title": "Rams Cobie Durant Talks on Massive Day For His Secondary",
+      "link": "https://si.com/nfl/rams/onsi/los-angeled-cobie-durant-talks--massive-day-secondary",
+      "source": "Sports Illustrated",
+      "ts": 1763373960.0,
+      "published_iso": "2025-11-17T10:06:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-pff-grades-steve-avila-boosted-175557150-html",
+      "title": "PFF Grades: Steve Avila has boosted Rams offense since return",
+      "link": "https://sports.yahoo.com/article/pff-grades-steve-avila-boosted-175557150.html",
+      "source": "Yahoo Sports",
+      "ts": 1763373540.0,
+      "published_iso": "2025-11-17T09:59:00+00:00"
+    }
+  ]
 }
