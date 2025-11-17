@@ -1,7 +1,31 @@
 {
-  "updated_iso": "2025-11-17T21:36:41.752509+00:00",
-  "count": 2,
+  "updated_iso": "2025-11-17T22:09:01.139768+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-olb-jared-verse-says-214715259-html",
+      "title": "Rams OLB Jared Verse says defense has 'no ceiling'",
+      "link": "https://sports.yahoo.com/article/rams-olb-jared-verse-says-214715259.html",
+      "source": "Yahoo Sports",
+      "ts": 1763388120.0,
+      "published_iso": "2025-11-17T14:02:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-rough-showing-against-rams-sam-183153296-html",
+      "title": "After a rough showing against the Rams, Sam Darnold and the Seahawks now enter the defining stretch of their 2025 regular season",
+      "link": "https://sports.yahoo.com/article/rough-showing-against-rams-sam-183153296.html",
+      "source": "Yahoo Sports",
+      "ts": 1763387760.0,
+      "published_iso": "2025-11-17T13:56:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-videos-sean-mcvay-rams-vs-seahawks-184204647-html",
+      "title": "Sean McVay on Rams vs. Seahawks, NFC West standings, Stafford's MVP case | FULL INTERVIEW | The Herd",
+      "link": "https://yahoo.com/news/videos/sean-mcvay-rams-vs-seahawks-184204647.html",
+      "source": "Yahoo",
+      "ts": 1763387400.0,
+      "published_iso": "2025-11-17T13:50:00+00:00"
+    },
     {
       "id": "https-si-com-nfl-rams-onsi-kyren-williams-details-massive-seahawks-win",
       "title": "Kyren Williams Details What Led Rams to Massive Seahawks Win",
@@ -9,14 +33,6 @@
       "source": "Sports Illustrated",
       "ts": 1763386140.0,
       "published_iso": "2025-11-17T13:29:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-5-interesting-stats-from-the-rams-21-19-win-over-seahawks-takeaways-galore-defense-negates-offens",
-      "title": "5 interesting stats from the Rams' 21-19 win over Seahawks: Takeaways galore, defense negates offensive disparities in time of possession and total yards",
-      "link": "https://therams.com/news/5-interesting-stats-from-the-rams-21-19-win-over-seahawks-takeaways-galore-defense-negates-offensive-disparities-in-time-of-possession-and-total-yards",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1763380740.0,
-      "published_iso": "2025-11-17T11:59:00+00:00"
     }
   ]
 }
