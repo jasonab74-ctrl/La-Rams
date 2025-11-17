@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-11-17T08:14:31.453437+00:00",
-  "count": 3,
+  "updated_iso": "2025-11-17T08:47:03.708860+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-matthew-stafford-talks-seahawks",
@@ -17,14 +17,6 @@
       "source": "Sports Illustrated",
       "ts": 1763331660.0,
       "published_iso": "2025-11-16T22:21:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-sam-darnold-four-interception-day-060312751-html",
-      "title": "Sam Darnold’s Four-Interception Day Too Much to Overcome in Seahawks’ Loss to Rams",
-      "link": "https://sports.yahoo.com/article/sam-darnold-four-interception-day-060312751.html",
-      "source": "Yahoo Sports",
-      "ts": 1763331300.0,
-      "published_iso": "2025-11-16T22:15:00+00:00"
     }
   ]
 }
