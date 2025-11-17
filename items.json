@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2025-11-17T14:09:42.951108+00:00",
-  "count": 1,
+  "updated_iso": "2025-11-17T14:41:37.196513+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-si-com-betting-nfl-week-12-opening-odds-for-every-game-chiefs-favored-vs-colts-rams-favored-vs-bucs",
-      "title": "NFL Week 12 Opening Odds for Every Game (Chiefs Favored vs. Colts, Rams Favored vs. Bucs)",
-      "link": "https://si.com/betting/nfl-week-12-opening-odds-for-every-game-chiefs-favored-vs-colts-rams-favored-vs-bucs",
+      "id": "https-sports-yahoo-com-article-seahawks-captain-expletive-laden-message-140718053-html",
+      "title": "Seahawks captain has expletive-laden message for Sam Darnold's critics after Rams loss",
+      "link": "https://sports.yahoo.com/article/seahawks-captain-expletive-laden-message-140718053.html",
+      "source": "Yahoo Sports",
+      "ts": 1763361420.0,
+      "published_iso": "2025-11-17T06:37:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-nfc-west-standings-rams-win-143000947-html",
+      "title": "NFC West standings: The Rams win over Seahawks puts them firm in first place",
+      "link": "https://sports.yahoo.com/article/nfc-west-standings-rams-win-143000947.html",
+      "source": "Yahoo Sports",
+      "ts": 1763361360.0,
+      "published_iso": "2025-11-17T06:36:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeled-cobie-durant-talks-massive-day-secondary",
+      "title": "Rams Cobie Durant Talks on Massive Day For His Secondary",
+      "link": "https://si.com/nfl/rams/onsi/los-angeled-cobie-durant-talks--massive-day-secondary",
       "source": "Sports Illustrated",
-      "ts": 1763359200.0,
-      "published_iso": "2025-11-17T06:00:00+00:00"
+      "ts": 1763360280.0,
+      "published_iso": "2025-11-17T06:18:00+00:00"
     }
   ]
 }
