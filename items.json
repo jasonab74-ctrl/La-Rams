@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-11-17T20:10:18.549142+00:00",
-  "count": 2,
+  "updated_iso": "2025-11-17T20:37:56.028361+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-therams-com-news-feature-ethan-evans-50-yard-punt-in-fourth-quarter-a-pivotal-moment-in-rams-week-11-win-over-seah",
+      "title": "Feature: Ethan Evans' 50-yard punt in fourth quarter a pivotal moment in Rams' Week 11 win over Seahawks",
+      "link": "https://therams.com/news/feature-ethan-evans-50-yard-punt-in-fourth-quarter-a-pivotal-moment-in-rams-week-11-win-over-seahawks",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1763382720.0,
+      "published_iso": "2025-11-17T12:32:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-rams-offensive-starter-injured-win-201621769-html",
+      "title": "Rams offensive starter injured in win over Seahawks",
+      "link": "https://sports.yahoo.com/article/rams-offensive-starter-injured-win-201621769.html",
+      "source": "Yahoo Sports",
+      "ts": 1763382660.0,
+      "published_iso": "2025-11-17T12:31:00+00:00"
+    },
     {
       "id": "https-therams-com-news-5-interesting-stats-from-the-rams-21-19-win-over-seahawks-takeaways-galore-defense-negates-offens",
       "title": "5 interesting stats from the Rams' 21-19 win over Seahawks: Takeaways galore, defense negates offensive disparities in time of possession and total yards",
@@ -9,14 +25,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1763380740.0,
       "published_iso": "2025-11-17T11:59:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-davante-adams-shares-thoughts-win-over-seahawks",
-      "title": "Rams Davante Adams Shares Thoughts on Win Over Seahawks",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-davante-adams-shares-thoughts-win-over-seahawks",
-      "source": "Sports Illustrated",
-      "ts": 1763378700.0,
-      "published_iso": "2025-11-17T11:25:00+00:00"
     }
   ]
 }
