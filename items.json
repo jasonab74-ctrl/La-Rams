@@ -1,30 +1,14 @@
 {
-  "updated_iso": "2025-11-17T20:37:56.028361+00:00",
-  "count": 3,
+  "updated_iso": "2025-11-17T21:08:17.345981+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-therams-com-news-feature-ethan-evans-50-yard-punt-in-fourth-quarter-a-pivotal-moment-in-rams-week-11-win-over-seah",
-      "title": "Feature: Ethan Evans' 50-yard punt in fourth quarter a pivotal moment in Rams' Week 11 win over Seahawks",
-      "link": "https://therams.com/news/feature-ethan-evans-50-yard-punt-in-fourth-quarter-a-pivotal-moment-in-rams-week-11-win-over-seahawks",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1763382720.0,
-      "published_iso": "2025-11-17T12:32:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-rams-offensive-starter-injured-win-201621769-html",
-      "title": "Rams offensive starter injured in win over Seahawks",
-      "link": "https://sports.yahoo.com/article/rams-offensive-starter-injured-win-201621769.html",
+      "id": "https-sports-yahoo-com-article-rams-secure-second-big-win-172350002-html",
+      "title": "Rams secure second big win in Week 11 after latest NFL News, and it could bring them their future of the franchise",
+      "link": "https://sports.yahoo.com/article/rams-secure-second-big-win-172350002.html",
       "source": "Yahoo Sports",
-      "ts": 1763382660.0,
-      "published_iso": "2025-11-17T12:31:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-5-interesting-stats-from-the-rams-21-19-win-over-seahawks-takeaways-galore-defense-negates-offens",
-      "title": "5 interesting stats from the Rams' 21-19 win over Seahawks: Takeaways galore, defense negates offensive disparities in time of possession and total yards",
-      "link": "https://therams.com/news/5-interesting-stats-from-the-rams-21-19-win-over-seahawks-takeaways-galore-defense-negates-offensive-disparities-in-time-of-possession-and-total-yards",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1763380740.0,
-      "published_iso": "2025-11-17T11:59:00+00:00"
+      "ts": 1763383260.0,
+      "published_iso": "2025-11-17T12:41:00+00:00"
     }
   ]
 }
