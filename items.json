@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-17T15:40:22.345295+00:00",
+  "updated_iso": "2025-11-17T16:12:23.301764+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-davante-adams-shares-thoughts-win-over-seahawks",
+      "title": "Rams Davante Adams Shares Thoughts on Win Over Seahawks",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-davante-adams-shares-thoughts-win-over-seahawks",
+      "source": "Sports Illustrated",
+      "ts": 1763365860.0,
+      "published_iso": "2025-11-17T07:51:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-video-mvp-favorite-matthew-stafford-rams-144324550-html",
       "title": "MVP favorite Matthew Stafford, Rams show 'championship DNA' vs. Seahawks",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1763362440.0,
       "published_iso": "2025-11-17T06:54:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeled-cobie-durant-talks-massive-day-secondary",
-      "title": "Rams Cobie Durant Talks on Massive Day For His Secondary",
-      "link": "https://si.com/nfl/rams/onsi/los-angeled-cobie-durant-talks--massive-day-secondary",
-      "source": "Sports Illustrated",
-      "ts": 1763360280.0,
-      "published_iso": "2025-11-17T06:18:00+00:00"
     }
   ]
 }
