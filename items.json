@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2025-11-17T05:51:09.687282+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-11-17T06:15:31.925621+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-article-seahawks-most-blame-costly-road-044800267-html",
+      "title": "Seahawks most to blame for costly road loss to Rams",
+      "link": "https://sports.yahoo.com/article/seahawks-most-blame-costly-road-044800267.html",
+      "source": "Yahoo Sports",
+      "ts": 1763330940.0,
+      "published_iso": "2025-11-16T22:09:00+00:00"
+    }
+  ]
 }
