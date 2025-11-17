@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-11-17T18:12:35.609455+00:00",
-  "count": 3,
+  "updated_iso": "2025-11-17T18:46:47.591819+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-si-com-nfl-rams-onsi-kyren-williams-details-massive-seahawks-win",
@@ -11,20 +11,12 @@
       "published_iso": "2025-11-17T10:10:00+00:00"
     },
     {
-      "id": "https-si-com-nfl-rams-onsi-los-angeled-cobie-durant-talks-massive-day-secondary",
-      "title": "Rams Cobie Durant Talks on Massive Day For His Secondary",
-      "link": "https://si.com/nfl/rams/onsi/los-angeled-cobie-durant-talks--massive-day-secondary",
-      "source": "Sports Illustrated",
-      "ts": 1763373960.0,
-      "published_iso": "2025-11-17T10:06:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-pff-grades-steve-avila-boosted-175557150-html",
-      "title": "PFF Grades: Steve Avila has boosted Rams offense since return",
-      "link": "https://sports.yahoo.com/article/pff-grades-steve-avila-boosted-175557150.html",
+      "id": "https-sports-yahoo-com-article-seahawks-cooper-kupp-said-failed-160634581-html",
+      "title": "What Seahawks’ Cooper Kupp said about failed revenge game vs. Rams",
+      "link": "https://sports.yahoo.com/article/seahawks-cooper-kupp-said-failed-160634581.html",
       "source": "Yahoo Sports",
-      "ts": 1763373540.0,
-      "published_iso": "2025-11-17T09:59:00+00:00"
+      "ts": 1763371500.0,
+      "published_iso": "2025-11-17T09:25:00+00:00"
     }
   ]
 }
