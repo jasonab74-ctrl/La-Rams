@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-19T22:09:10.792088+00:00",
+  "updated_iso": "2025-11-19T22:38:29.018706+00:00",
   "count": 4,
   "items": [
+    {
+      "id": "https-yahoo-com-news-videos-off-rams-loss-seahawks-begin-214126112-html",
+      "title": "Off Rams loss, Seahawks begin practicing to play at Tennessee Titans",
+      "link": "https://yahoo.com/news/videos/off-rams-loss-seahawks-begin-214126112.html",
+      "source": "Yahoo",
+      "ts": 1763561820.0,
+      "published_iso": "2025-11-19T14:17:00+00:00"
+    },
     {
       "id": "https-si-com-betting-buccaneers-vs-rams-prediction-odds-spread-injuries-trends-for-nfl-week-12",
       "title": "Buccaneers vs. Rams Prediction, Odds, Spread, Injuries, Trends for NFL Week 12",
@@ -9,14 +17,6 @@
       "source": "Sports Illustrated",
       "ts": 1763560620.0,
       "published_iso": "2025-11-19T13:57:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-rams-wr-davante-adams-reveals-201024124-html",
-      "title": "Rams WR Davante Adams reveals Top 3 Taco Bell menu items",
-      "link": "https://sports.yahoo.com/article/rams-wr-davante-adams-reveals-201024124.html",
-      "source": "Yahoo Sports",
-      "ts": 1763559060.0,
-      "published_iso": "2025-11-19T13:31:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-article-rams-defense-could-massive-boost-200257956-html",
