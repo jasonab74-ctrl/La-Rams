@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-11-19T21:07:28.671740+00:00",
-  "count": 1,
+  "updated_iso": "2025-11-19T21:31:25.099963+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-defense-could-massive-boost-200257956-html",
+      "title": "Rams’ defense could get massive boost in playoffs",
+      "link": "https://sports.yahoo.com/article/rams-defense-could-massive-boost-200257956.html",
+      "source": "Yahoo Sports",
+      "ts": 1763558820.0,
+      "published_iso": "2025-11-19T13:27:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-week-12-nfl-picks-rams-211057095-html",
+      "title": "Week 12 NFL picks: Will Rams take over No. 1 seed in NFC?",
+      "link": "https://sports.yahoo.com/article/week-12-nfl-picks-rams-211057095.html",
+      "source": "Yahoo Sports",
+      "ts": 1763558280.0,
+      "published_iso": "2025-11-19T13:18:00+00:00"
+    },
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-tampa-bay-buccaneers-how-to-watch-listen-to-and-live-stream-week-12-sunday-ni",
       "title": "Los Angeles Rams vs. Tampa Bay Buccaneers: How to watch, listen to and live stream Sunday Night Football in Week 12",
