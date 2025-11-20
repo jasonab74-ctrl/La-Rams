@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-11-20T18:47:42.827698+00:00",
-  "count": 1,
+  "updated_iso": "2025-11-20T19:07:18.693158+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-si-com-nfl-baker-mayfield-paid-huge-compliment-to-matthew-stafford-ahead-of-bucs-rams-showdown",
+      "title": "Baker Mayfield Paid Huge Compliment to Matthew Stafford Ahead of Bucs-Rams Showdown",
+      "link": "https://si.com/nfl/baker-mayfield-paid-huge-compliment-to-matthew-stafford-ahead-of-bucs-rams-showdown",
+      "source": "Sports Illustrated",
+      "ts": 1763636580.0,
+      "published_iso": "2025-11-20T11:03:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-8-stats-facts-know-rams-184516464-html",
+      "title": "8 stats and facts to know for Rams vs. Buccaneers in Week 12",
+      "link": "https://sports.yahoo.com/article/8-stats-facts-know-rams-184516464.html",
+      "source": "Yahoo Sports",
+      "ts": 1763636340.0,
+      "published_iso": "2025-11-20T10:59:00+00:00"
+    },
     {
       "id": "https-therams-com-news-rams-first-donor-non-profits-free-tickets-la28-olympic-paralympic-games",
       "title": "Los Angeles Rams become first donor for LA28'S fundraising effort to provide local non-profits with free tickets to the LA28 Olympic & Paralympic Games",
