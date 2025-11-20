@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2025-11-20T16:11:28.718867+00:00",
-  "count": 2,
+  "updated_iso": "2025-11-20T16:46:59.249712+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-los-angeles-rams-defense-might-105500363-html",
-      "title": "The Los Angeles Rams' Defense Might Be What Gets Them To the Super Bowl",
-      "link": "https://sports.yahoo.com/article/los-angeles-rams-defense-might-105500363.html",
+      "id": "https-nfl-com-videos-rams-visited-west-valley-food-pantry-to-start-season-of-giving-gmfb",
+      "title": "Rams visited West Valley Food Pantry to start 'Season of Giving' | 'GMFB'",
+      "link": "https://nfl.com/videos/rams-visited-west-valley-food-pantry-to-start-season-of-giving-gmfb",
+      "source": "NFL.com",
+      "ts": 1763627280.0,
+      "published_iso": "2025-11-20T08:28:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-buccaneers-vs-rams-predictions-odds-150004739-html",
+      "title": "Buccaneers vs. Rams predictions, odds, pick for NFL Week 12",
+      "link": "https://sports.yahoo.com/article/buccaneers-vs-rams-predictions-odds-150004739.html",
       "source": "Yahoo Sports",
-      "ts": 1763619960.0,
-      "published_iso": "2025-11-20T06:26:00+00:00"
+      "ts": 1763626920.0,
+      "published_iso": "2025-11-20T08:22:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-cooper-kupp-ex-rams-teammate-143944894-html",
+      "title": "Cooper Kupp’s ex-Rams teammate takes odd swipe at former Super Bowl MVP",
+      "link": "https://sports.yahoo.com/article/cooper-kupp-ex-rams-teammate-143944894.html",
+      "source": "Yahoo Sports",
+      "ts": 1763626380.0,
+      "published_iso": "2025-11-20T08:13:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-tampa-bay-buccaneers-how-to-watch-listen-to-and-live-stream-week-12-sunday-ni",
