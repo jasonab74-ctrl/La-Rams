@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-11-20T15:09:51.456698+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-11-20T15:40:10.402747+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-article-los-angeles-rams-defense-might-105500363-html",
+      "title": "The Los Angeles Rams' Defense Might Be What Gets Them To the Super Bowl",
+      "link": "https://sports.yahoo.com/article/los-angeles-rams-defense-might-105500363.html",
+      "source": "Yahoo Sports",
+      "ts": 1763619960.0,
+      "published_iso": "2025-11-20T06:26:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-vs-tampa-bay-buccaneers-how-to-watch-listen-to-and-live-stream-week-12-sunday-ni",
+      "title": "Los Angeles Rams vs. Tampa Bay Buccaneers: How to watch, listen to and live stream Sunday Night Football in Week 12",
+      "link": "https://therams.com/news/los-angeles-rams-vs-tampa-bay-buccaneers-how-to-watch-listen-to-and-live-stream-week-12-sunday-night-football-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1763553240.0,
+      "published_iso": "2025-11-19T11:54:00+00:00"
+    }
+  ]
 }
