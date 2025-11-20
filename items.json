@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-11-20T17:08:18.371185+00:00",
-  "count": 5,
+  "updated_iso": "2025-11-20T17:36:39.988945+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-therams-com-news-rams-first-donor-non-profits-free-tickets-la28-olympic-paralympic-games",
@@ -11,36 +11,12 @@
       "published_iso": "2025-11-20T09:05:00+00:00"
     },
     {
-      "id": "https-latimes-com-sports-olympics-story-2025-11-20-la28-ticket-donation-fundraising-olympics",
-      "title": "LA28 launches ticket donation fundraising campaign, Rams chip in $5 million",
-      "link": "https://latimes.com/sports/olympics/story/2025-11-20/la28-ticket-donation-fundraising-olympics",
-      "source": "LA Times",
-      "ts": 1763629200.0,
-      "published_iso": "2025-11-20T09:00:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-videos-rams-visited-west-valley-food-pantry-to-start-season-of-giving-gmfb",
-      "title": "Rams visited West Valley Food Pantry to start 'Season of Giving' | 'GMFB'",
-      "link": "https://nfl.com/videos/rams-visited-west-valley-food-pantry-to-start-season-of-giving-gmfb",
-      "source": "NFL.com",
-      "ts": 1763627280.0,
-      "published_iso": "2025-11-20T08:28:00+00:00"
-    },
-    {
       "id": "https-sports-yahoo-com-article-buccaneers-vs-rams-predictions-odds-150004739-html",
       "title": "Buccaneers vs. Rams predictions, odds, pick for NFL Week 12",
       "link": "https://sports.yahoo.com/article/buccaneers-vs-rams-predictions-odds-150004739.html",
       "source": "Yahoo Sports",
       "ts": 1763626920.0,
       "published_iso": "2025-11-20T08:22:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-cooper-kupp-ex-rams-teammate-143944894-html",
-      "title": "Cooper Kupp’s ex-Rams teammate takes odd swipe at former Super Bowl MVP",
-      "link": "https://sports.yahoo.com/article/cooper-kupp-ex-rams-teammate-143944894.html",
-      "source": "Yahoo Sports",
-      "ts": 1763626380.0,
-      "published_iso": "2025-11-20T08:13:00+00:00"
     }
   ]
 }
