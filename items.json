@@ -1,5 +1,5 @@
 {
-  "updated_iso": "2025-11-21T04:12:24.877048+00:00",
+  "updated_iso": "2025-11-21T04:41:43.072393+00:00",
   "count": 2,
   "items": [
     {
@@ -11,12 +11,12 @@
       "published_iso": "2025-11-20T19:41:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-article-aaron-donald-legacy-celebration-night-021430453-html",
-      "title": "Aaron Donald legacy celebration will be a night to remember for the Rams",
-      "link": "https://sports.yahoo.com/article/aaron-donald-legacy-celebration-night-021430453.html",
-      "source": "Yahoo Sports",
-      "ts": 1763663040.0,
-      "published_iso": "2025-11-20T18:24:00+00:00"
+      "id": "https-therams-com-news-know-before-you-go-rams-vs-tampa-bay-buccaneers-sofi-stadium",
+      "title": "Know Before You Go: Rams vs. Tampa Bay Buccaneers at SoFi Stadium",
+      "link": "https://therams.com/news/know-before-you-go-rams-vs-tampa-bay-buccaneers-sofi-stadium",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1763658360.0,
+      "published_iso": "2025-11-20T17:06:00+00:00"
     }
   ]
 }
