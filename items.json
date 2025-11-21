@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-11-21T13:02:28.516979+00:00",
-  "count": 1,
+  "updated_iso": "2025-11-21T13:42:00.320340+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-therams-com-news-rams-first-donor-non-profits-free-tickets-la28-olympic-paralympic-games",
@@ -9,6 +9,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1763629500.0,
       "published_iso": "2025-11-20T09:05:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-vs-tampa-bay-buccaneers-how-to-watch-listen-to-and-live-stream-week-12-sunday-ni",
+      "title": "Los Angeles Rams vs. Tampa Bay Buccaneers: How to watch, listen to and live stream Sunday Night Football in Week 12",
+      "link": "https://therams.com/news/los-angeles-rams-vs-tampa-bay-buccaneers-how-to-watch-listen-to-and-live-stream-week-12-sunday-night-football-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1763553240.0,
+      "published_iso": "2025-11-19T11:54:00+00:00"
     }
   ]
 }
