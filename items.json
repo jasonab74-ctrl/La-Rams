@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2025-11-21T09:38:29.995286+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-11-21T10:10:00.339128+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-article-bucky-irving-not-playing-against-224311377-html",
+      "title": "Bucky Irving not playing against Rams, return remains a mystery",
+      "link": "https://sports.yahoo.com/article/bucky-irving-not-playing-against-224311377.html",
+      "source": "Yahoo Sports",
+      "ts": 1763685000.0,
+      "published_iso": "2025-11-21T00:30:00+00:00"
+    }
+  ]
 }
