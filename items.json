@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2025-11-21T14:09:27.642939+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-11-21T14:40:01.671516+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-chris-shula-speaks-replacing-quentin-lake",
+      "title": "Rams Chris Shula Speaks on Replacing Quentin Lake",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-chris-shula-speaks-replacing-quentin-lake",
+      "source": "Sports Illustrated",
+      "ts": 1763705580.0,
+      "published_iso": "2025-11-21T06:13:00+00:00"
+    }
+  ]
 }
