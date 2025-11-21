@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-11-21T07:10:37.144662+00:00",
-  "count": 1,
+  "updated_iso": "2025-11-21T07:37:02.878173+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-ocregister-com-2025-11-20-rams-rb-kyren-williams-breaking-through-with-big-plays",
+      "title": "Rams RB Kyren Williams breaking through with big plays",
+      "link": "https://ocregister.com/2025/11/20/rams-rb-kyren-williams-breaking-through-with-big-plays/",
+      "source": "OC Register",
+      "ts": 1763681400.0,
+      "published_iso": "2025-11-20T23:30:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-tampa-bay-buccaneers-face-matthew-222833103-html",
+      "title": "Tampa Bay Buccaneers will face Matthew Stafford, red hot Rams offense in Week 12",
+      "link": "https://sports.yahoo.com/article/tampa-bay-buccaneers-face-matthew-222833103.html",
+      "source": "Yahoo Sports",
+      "ts": 1763680920.0,
+      "published_iso": "2025-11-20T23:22:00+00:00"
+    },
     {
       "id": "https-therams-com-news-rams-first-donor-non-profits-free-tickets-la28-olympic-paralympic-games",
       "title": "Los Angeles Rams become first donor for LA28'S fundraising effort to provide local non-profits with free tickets to the LA28 Olympic & Paralympic Games",
