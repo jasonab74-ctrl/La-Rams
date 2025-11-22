@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-22T18:11:55.234758+00:00",
-  "count": 1,
+  "updated_iso": "2025-11-22T18:43:34.415698+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-apnews-com-article-rams-nate-landman-01ada57795281f477c415d2fea3506cb",
+      "title": "Rams sign LB Nate Landman to 3-year contract extension during impressive first season in LA",
+      "link": "https://apnews.com/article/rams-nate-landman-01ada57795281f477c415d2fea3506cb",
+      "source": "AP News",
+      "ts": 1763807940.0,
+      "published_iso": "2025-11-22T10:39:00+00:00"
+    },
     {
       "id": "https-therams-com-news-top-rams-news-previews-and-predictions-for-rams-vs-buccaneers-in-week-12-on-snf-2025",
       "title": "Top Rams News: Previews and predictions for Rams vs. Buccaneers in Week 12 on Sunday Night Football",
