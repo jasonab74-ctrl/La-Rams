@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-22T20:37:23.898357+00:00",
-  "count": 3,
+  "updated_iso": "2025-11-22T21:07:20.885831+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-instant-analysis-rams-nate-landman-204708001-html",
+      "title": "Instant analysis: Rams and Nate Landman are both winners with new deal",
+      "link": "https://sports.yahoo.com/article/instant-analysis-rams-nate-landman-204708001.html",
+      "source": "Yahoo Sports",
+      "ts": 1763816100.0,
+      "published_iso": "2025-11-22T12:55:00+00:00"
+    },
     {
       "id": "https-therams-com-video-highlights-nate-landman-s-top-plays-with-the-rams-so-far",
       "title": "HIGHLIGHTS: Nate Landman's top plays with the Rams so far",
