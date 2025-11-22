@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-11-22T15:33:14.281523+00:00",
-  "count": 3,
+  "updated_iso": "2025-11-22T16:09:37.542022+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-cbssports-com-betting-news-anytime-touchdown-scorer-picks-puka-nacua-best-week-12-player-props-buccaneers-rams",
+      "title": "Anytime touchdown scorer picks: Puka Nacua among best Week 12 player props for Buccaneers vs. Rams",
+      "link": "https://cbssports.com/betting/news/anytime-touchdown-scorer-picks-puka-nacua-best-week-12-player-props-buccaneers-rams/",
+      "source": "CBS Sports",
+      "ts": 1763798640.0,
+      "published_iso": "2025-11-22T08:04:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-biggest-matchup-buccaneers-must-exploit-142833778-html",
+      "title": "Biggest matchup Buccaneers must exploit in Week 12 clash against Rams",
+      "link": "https://sports.yahoo.com/article/biggest-matchup-buccaneers-must-exploit-142833778.html",
+      "source": "Yahoo Sports",
+      "ts": 1763798220.0,
+      "published_iso": "2025-11-22T07:57:00+00:00"
+    },
     {
       "id": "https-cbssports-com-nfl-news-buccaneers-rams-prediction-odds-line-nfl-week-12-sunday-night-football-picks",
       "title": "Buccaneers vs. Rams prediction, odds, line: NFL Week 12 'Sunday Night Football' picks by proven model",
@@ -9,14 +25,6 @@
       "source": "CBS Sports",
       "ts": 1763796660.0,
       "published_iso": "2025-11-22T07:31:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-behind-enemy-lines-5-questions-151319145-html",
-      "title": "Behind Enemy Lines: 5 questions ahead of Rams vs. Buccaneers",
-      "link": "https://sports.yahoo.com/article/behind-enemy-lines-5-questions-151319145.html",
-      "source": "Yahoo Sports",
-      "ts": 1763796420.0,
-      "published_iso": "2025-11-22T07:27:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-article-tampa-bay-buccaneers-vs-los-170000172-html",
