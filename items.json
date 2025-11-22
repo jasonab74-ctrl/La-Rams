@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-11-22T15:07:30.665219+00:00",
-  "count": 2,
+  "updated_iso": "2025-11-22T15:33:14.281523+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-cbssports-com-nfl-news-buccaneers-rams-prediction-odds-line-nfl-week-12-sunday-night-football-picks",
+      "title": "Buccaneers vs. Rams prediction, odds, line: NFL Week 12 'Sunday Night Football' picks by proven model",
+      "link": "https://cbssports.com/nfl/news/buccaneers-rams-prediction-odds-line-nfl-week-12-sunday-night-football-picks/",
+      "source": "CBS Sports",
+      "ts": 1763796660.0,
+      "published_iso": "2025-11-22T07:31:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-behind-enemy-lines-5-questions-151319145-html",
+      "title": "Behind Enemy Lines: 5 questions ahead of Rams vs. Buccaneers",
+      "link": "https://sports.yahoo.com/article/behind-enemy-lines-5-questions-151319145.html",
+      "source": "Yahoo Sports",
+      "ts": 1763796420.0,
+      "published_iso": "2025-11-22T07:27:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-article-tampa-bay-buccaneers-vs-los-170000172-html",
       "title": "Tampa Bay Buccaneers vs. Los Angeles Rams Livestream: How to Watch the NFL Game Online",
@@ -9,14 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1763718120.0,
       "published_iso": "2025-11-21T09:42:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-vs-tampa-bay-buccaneers-how-to-watch-listen-to-and-live-stream-week-12-sunday-ni",
-      "title": "Los Angeles Rams vs. Tampa Bay Buccaneers: How to watch, listen to and live stream Sunday Night Football in Week 12",
-      "link": "https://therams.com/news/los-angeles-rams-vs-tampa-bay-buccaneers-how-to-watch-listen-to-and-live-stream-week-12-sunday-night-football-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1763553240.0,
-      "published_iso": "2025-11-19T11:54:00+00:00"
     }
   ]
 }
