@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-11-23T15:07:34.636745+00:00",
-  "count": 4,
+  "updated_iso": "2025-11-23T15:33:11.289432+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-si-com-betting-buccaneers-vs-rams-final-score-prediction-nfl-week-12-will-rams-win-sixth-in-a-row",
-      "title": "Buccaneers vs. Rams Final Score Prediction for NFL Week 12 (Will Rams Win Sixth in a Row?)",
-      "link": "https://si.com/betting/buccaneers-vs-rams-final-score-prediction-nfl-week-12-will-rams-win-sixth-in-a-row",
+      "id": "https-sports-yahoo-com-article-anytime-touchdown-scorer-buccaneers-vs-141700012-html",
+      "title": "Anytime Touchdown Scorer Buccaneers vs Rams Prediction: TD Props for Sunday Night Football Week 12",
+      "link": "https://sports.yahoo.com/article/anytime-touchdown-scorer-buccaneers-vs-141700012.html",
+      "source": "Yahoo Sports",
+      "ts": 1763882400.0,
+      "published_iso": "2025-11-23T07:20:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-buccaneers-vs-rams-best-anytime-touchdown-scorer-picks-sunday-night-football-in-nfl-week-12",
+      "title": "Buccaneers vs. Rams Best Anytime Touchdown Scorer Picks for Sunday Night Football in NFL Week 12",
+      "link": "https://si.com/betting/buccaneers-vs-rams-best-anytime-touchdown-scorer-picks-sunday-night-football-in-nfl-week-12",
       "source": "Sports Illustrated",
-      "ts": 1763876460.0,
-      "published_iso": "2025-11-23T05:41:00+00:00"
+      "ts": 1763879160.0,
+      "published_iso": "2025-11-23T06:26:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-22-nfl-week-12-rams-vs-buccaneers-injury-report-11-23-2025-",
@@ -17,22 +25,6 @@
       "source": "Rams Wire",
       "ts": 1763841120.0,
       "published_iso": "2025-11-22T19:52:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-22-nfl-week-12-rams-vs-buccaneers-odds-lines-how-to-watch-1",
-      "title": "Los Angeles Rams vs. Tampa Bay Buccaneers live stream, TV channel, start time, odds | Week 12 2025",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/22/nfl-week-12-rams-vs-buccaneers-odds-lines-how-to-watch-11-23-2025/87427889007/",
-      "source": "Rams Wire",
-      "ts": 1763740800.0,
-      "published_iso": "2025-11-21T16:00:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-tampa-bay-buccaneers-vs-los-170000172-html",
-      "title": "Tampa Bay Buccaneers vs. Los Angeles Rams Livestream: How to Watch the NFL Game Online",
-      "link": "https://sports.yahoo.com/article/tampa-bay-buccaneers-vs-los-170000172.html",
-      "source": "Yahoo Sports",
-      "ts": 1763718120.0,
-      "published_iso": "2025-11-21T09:42:00+00:00"
     }
   ]
 }
