@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-11-23T19:31:24.866002+00:00",
+  "updated_iso": "2025-11-23T20:10:00.652899+00:00",
   "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-buccaneers-vs-rams-live-updates-195521818-html",
+      "title": "Buccaneers vs. Rams live updates: NFL game score, highlights",
+      "link": "https://sports.yahoo.com/article/buccaneers-vs-rams-live-updates-195521818.html",
+      "source": "Yahoo Sports",
+      "ts": 1763899200.0,
+      "published_iso": "2025-11-23T12:00:00+00:00"
+    },
+    {
+      "id": "https-sportingnews-com-us-betting-news-bucs-vs-rams-picks-and-predictions-backing-los-angeles-cover-spread-week-12-c9a94",
+      "title": "Bucs vs Rams Picks and Predictions: Backing Los Angeles to Cover the Spread in Week 12",
+      "link": "https://sportingnews.com/us/betting/news/bucs-vs-rams-picks-and-predictions-backing-los-angeles-cover-spread-week-12/c9a946aaa231065b3623cc75",
+      "source": "Sporting News",
+      "ts": 1763899200.0,
+      "published_iso": "2025-11-23T12:00:00+00:00"
+    },
     {
       "id": "https-si-com-nfl-buccaneers-onsi-news-will-buccaneers-chris-godwin-play-against-the-los-angeles-rams-2025",
       "title": "Will Buccaneers' Chris Godwin play against the Los Angeles Rams?",
@@ -17,22 +33,6 @@
       "source": "Rams Wire",
       "ts": 1763841120.0,
       "published_iso": "2025-11-22T19:52:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-22-nfl-week-12-rams-vs-buccaneers-betting-odds-tips-trends-",
-      "title": "Los Angeles Rams vs. Tampa Bay Buccaneers 2025 odds, tips and betting trends | Week 12",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/22/nfl-week-12-rams-vs-buccaneers-betting-odds-tips-trends-11-23-2025/87427864007/",
-      "source": "Rams Wire",
-      "ts": 1763740800.0,
-      "published_iso": "2025-11-21T16:00:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-tampa-bay-buccaneers-vs-los-170000172-html",
-      "title": "Tampa Bay Buccaneers vs. Los Angeles Rams Livestream: How to Watch the NFL Game Online",
-      "link": "https://sports.yahoo.com/article/tampa-bay-buccaneers-vs-los-170000172.html",
-      "source": "Yahoo Sports",
-      "ts": 1763718120.0,
-      "published_iso": "2025-11-21T09:42:00+00:00"
     }
   ]
 }
