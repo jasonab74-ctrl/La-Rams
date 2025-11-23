@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-11-22T23:34:07.025521+00:00",
-  "count": 3,
+  "updated_iso": "2025-11-23T00:51:22.690010+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-therams-com-video-nate-landman-journey-with-the-rams-is-just-getting-started",
@@ -9,14 +9,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1763823960.0,
       "published_iso": "2025-11-22T15:06:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-rams-22-5-million-decision-185344286-html",
-      "title": "Rams Make $22.5 Million Decision Before Buccaneers Game",
-      "link": "https://sports.yahoo.com/article/rams-22-5-million-decision-185344286.html",
-      "source": "Yahoo Sports",
-      "ts": 1763820660.0,
-      "published_iso": "2025-11-22T14:11:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-article-tampa-bay-buccaneers-vs-los-170000172-html",
