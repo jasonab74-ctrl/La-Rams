@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-11-24T11:33:58.490822+00:00",
-  "count": 2,
+  "updated_iso": "2025-11-24T12:18:01.264118+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-sean-mcvay-speaks-resounding-win-over-buccaneers",
-      "title": "Sean McVay Speaks on Rams Resounding Win Over Buccaneers",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-sean-mcvay-speaks-resounding-win-over-buccaneers",
+      "id": "https-latimes-com-sports-rams-story-2025-11-24-matthew-stafford-playing-great-level-rams-super-bowl",
+      "title": "Matthew Stafford playing as well as any QB ever as Rams target Super Bowl run",
+      "link": "https://latimes.com/sports/rams/story/2025-11-24/matthew-stafford-playing-great-level-rams-super-bowl",
+      "source": "LA Times",
+      "ts": 1763956800.0,
+      "published_iso": "2025-11-24T04:00:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-buccaneers-onsi-news-buccaneers-todd-bowles-gives-update-on-baker-mayfield-injury-after-rams-loss-2025",
+      "title": "Buccaneers' Todd Bowles gives update on Baker Mayfield injury after Rams loss",
+      "link": "https://si.com/nfl/buccaneers/onsi/news/buccaneers-todd-bowles-gives-update-on-baker-mayfield-injury-after-rams-loss-2025",
       "source": "Sports Illustrated",
-      "ts": 1763951100.0,
-      "published_iso": "2025-11-24T02:25:00+00:00"
+      "ts": 1763955720.0,
+      "published_iso": "2025-11-24T03:42:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-22-nfl-week-12-rams-vs-buccaneers-injury-report-11-23-2025-",
