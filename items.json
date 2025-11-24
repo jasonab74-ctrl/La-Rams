@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-11-24T07:36:52.732109+00:00",
-  "count": 3,
+  "updated_iso": "2025-11-24T08:14:38.187392+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-article-rams-sunday-night-football-romp-041525437-html",
@@ -11,20 +11,28 @@
       "published_iso": "2025-11-23T23:24:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-article-rams-defense-suffocates-buccaneers-34-061436449-html",
-      "title": "Rams defense suffocates Buccaneers, 34-7, to seal Sunday night victory",
-      "link": "https://sports.yahoo.com/article/rams-defense-suffocates-buccaneers-34-061436449.html",
+      "id": "https-sports-yahoo-com-article-rams-davante-adams-drops-fun-055032509-html",
+      "title": "Rams’ Davante Adams drops ‘fun’ truth that will have Aaron Rodgers jealous",
+      "link": "https://sports.yahoo.com/article/rams-davante-adams-drops-fun-055032509.html",
       "source": "Yahoo Sports",
       "ts": 1763939700.0,
       "published_iso": "2025-11-23T23:15:00+00:00"
     },
     {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-matthew-stafford-talks-mvp-performance-against-buccaneers-01kat11v4fqt",
-      "title": "Rams Matthew Stafford Talks MVP Performance Against Buccaneers",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-matthew-stafford-talks-mvp-performance-against-buccaneers-01kat11v4fqt",
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-sean-mcvay-speaks-resounding-win-over-buccaneers",
+      "title": "Sean McVay Speaks on Rams Resounding Win Over Buccaneers",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-sean-mcvay-speaks-resounding-win-over-buccaneers",
       "source": "Sports Illustrated",
-      "ts": 1763937540.0,
-      "published_iso": "2025-11-23T22:39:00+00:00"
+      "ts": 1763939160.0,
+      "published_iso": "2025-11-23T23:06:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-22-nfl-week-12-rams-vs-buccaneers-injury-report-11-23-2025-",
+      "title": "Los Angeles Rams vs. Tampa Bay Buccaneers injury report | Week 12 2025",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/22/nfl-week-12-rams-vs-buccaneers-injury-report-11-23-2025/87428942007/",
+      "source": "Rams Wire",
+      "ts": 1763841120.0,
+      "published_iso": "2025-11-22T19:52:00+00:00"
     }
   ]
 }
