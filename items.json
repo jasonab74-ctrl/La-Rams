@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-11-24T13:48:04.508127+00:00",
-  "count": 3,
+  "updated_iso": "2025-11-24T14:10:06.298110+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-si-com-nfl-buccaneers-onsi-news-the-good-bad-and-ugly-from-buccaneers-34-7-loss-to-rams-2025",
-      "title": "The Good, Bad and Ugly from Buccaneers' 34-7 loss to Rams",
-      "link": "https://si.com/nfl/buccaneers/onsi/news/the-good-bad-and-ugly-from-buccaneers-34-7-loss-to-rams-2025",
-      "source": "Sports Illustrated",
-      "ts": 1763959200.0,
-      "published_iso": "2025-11-24T04:40:00+00:00"
+      "id": "https-sports-yahoo-com-article-notes-stats-buccaneers-34-7-140000706-html",
+      "title": "Notes and stats from the Buccaneers 34-7 loss to the Rams",
+      "link": "https://sports.yahoo.com/article/notes-stats-buccaneers-34-7-140000706.html",
+      "source": "Yahoo Sports",
+      "ts": 1763964480.0,
+      "published_iso": "2025-11-24T06:08:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-baker-mayfield-injury-updates-buccaneers-qb-mri-shoulder",
+      "title": "Buccaneers' playoff hopes rest on Baker Mayfield's ailing shoulder after injury against Rams",
+      "link": "https://cbssports.com/nfl/news/baker-mayfield-injury-updates-buccaneers-qb-mri-shoulder/",
+      "source": "CBS Sports",
+      "ts": 1763964060.0,
+      "published_iso": "2025-11-24T06:01:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-22-nfl-week-12-rams-vs-buccaneers-injury-report-11-23-2025-",
