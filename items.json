@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-11-24T06:15:42.520191+00:00",
-  "count": 1,
+  "updated_iso": "2025-11-24T06:49:03.225939+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-article-puka-nacua-injury-latest-news-032607147-html",
-      "title": "Puka Nacua injury update: Latest news on Rams WR's status in Week 12 game",
-      "link": "https://sports.yahoo.com/article/puka-nacua-injury-latest-news-032607147.html",
-      "source": "Yahoo Sports",
-      "ts": 1763927340.0,
-      "published_iso": "2025-11-23T19:49:00+00:00"
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-matthew-stafford-talks-mvp-performance-against-buccaneers-01kat11v4fqt",
+      "title": "Rams Matthew Stafford Talks MVP Performance Against Buccaneers",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-matthew-stafford-talks-mvp-performance-against-buccaneers-01kat11v4fqt",
+      "source": "Sports Illustrated",
+      "ts": 1763937540.0,
+      "published_iso": "2025-11-23T22:39:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-buccaneers-onsi-news-buccaneers-thrashed-by-rams-in-embarrassing-sunday-night-football-showing-2025",
+      "title": "Buccaneers thrashed by Rams in embarrassing Sunday Night Football showing",
+      "link": "https://si.com/nfl/buccaneers/onsi/news/buccaneers-thrashed-by-rams-in-embarrassing-sunday-night-football-showing-2025",
+      "source": "Sports Illustrated",
+      "ts": 1763934060.0,
+      "published_iso": "2025-11-23T21:41:00+00:00"
     }
   ]
 }
