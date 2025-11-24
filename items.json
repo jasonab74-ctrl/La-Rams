@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-11-24T07:10:46.102995+00:00",
-  "count": 2,
+  "updated_iso": "2025-11-24T07:36:52.732109+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-rams-sunday-night-football-romp-041525437-html",
+      "title": "The Rams' Sunday Night Football romp over Tampa Bay gives Los Angeles a mulligan from one of their few mistakes of the 2025 season",
+      "link": "https://sports.yahoo.com/article/rams-sunday-night-football-romp-041525437.html",
+      "source": "Yahoo Sports",
+      "ts": 1763940240.0,
+      "published_iso": "2025-11-23T23:24:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-rams-defense-suffocates-buccaneers-34-061436449-html",
+      "title": "Rams defense suffocates Buccaneers, 34-7, to seal Sunday night victory",
+      "link": "https://sports.yahoo.com/article/rams-defense-suffocates-buccaneers-34-061436449.html",
+      "source": "Yahoo Sports",
+      "ts": 1763939700.0,
+      "published_iso": "2025-11-23T23:15:00+00:00"
+    },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-matthew-stafford-talks-mvp-performance-against-buccaneers-01kat11v4fqt",
       "title": "Rams Matthew Stafford Talks MVP Performance Against Buccaneers",
@@ -9,14 +25,6 @@
       "source": "Sports Illustrated",
       "ts": 1763937540.0,
       "published_iso": "2025-11-23T22:39:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-sunday-night-football-tampa-bay-004500995-html",
-      "title": "Sunday Night Football: Tampa Bay Buccaneers vs Los Angeles Rams",
-      "link": "https://sports.yahoo.com/article/sunday-night-football-tampa-bay-004500995.html",
-      "source": "Yahoo Sports",
-      "ts": 1763916900.0,
-      "published_iso": "2025-11-23T16:55:00+00:00"
     }
   ]
 }
