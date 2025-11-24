@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-24T10:11:19.811794+00:00",
-  "count": 4,
+  "updated_iso": "2025-11-24T10:44:08.808522+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-buccaneers-live-updates-score-highlights-sunday-night-football-live",
+      "title": "Rams vs. Buccaneers takeaways: Matthew Stafford shines as L.A. extends winning streak; Baker Mayfield injured",
+      "link": "https://cbssports.com/nfl/news/rams-vs-buccaneers-live-updates-score-highlights-sunday-night-football/live/",
+      "source": "CBS Sports",
+      "ts": 1763950500.0,
+      "published_iso": "2025-11-24T02:15:00+00:00"
+    },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-matthew-stafford-talks-mvp-performance-against-buccaneers-01kat11v4fqt",
       "title": "Rams Matthew Stafford Talks MVP Performance Against Buccaneers",
@@ -11,28 +19,12 @@
       "published_iso": "2025-11-24T01:58:00+00:00"
     },
     {
-      "id": "https-si-com-nfl-buccaneers-onsi-news-buccaneers-thrashed-by-rams-in-embarrassing-sunday-night-football-showing-2025",
-      "title": "Buccaneers thrashed by Rams in embarrassing Sunday Night Football showing",
-      "link": "https://si.com/nfl/buccaneers/onsi/news/buccaneers-thrashed-by-rams-in-embarrassing-sunday-night-football-showing-2025",
-      "source": "Sports Illustrated",
-      "ts": 1763946000.0,
-      "published_iso": "2025-11-24T01:00:00+00:00"
-    },
-    {
       "id": "https-sports-yahoo-com-article-sunday-night-football-tampa-bay-004500995-html",
       "title": "Sunday Night Football: Tampa Bay Buccaneers vs Los Angeles Rams",
       "link": "https://sports.yahoo.com/article/sunday-night-football-tampa-bay-004500995.html",
       "source": "Yahoo Sports",
       "ts": 1763916900.0,
       "published_iso": "2025-11-23T16:55:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-22-nfl-week-12-rams-vs-buccaneers-injury-report-11-23-2025-",
-      "title": "Los Angeles Rams vs. Tampa Bay Buccaneers injury report | Week 12 2025",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/22/nfl-week-12-rams-vs-buccaneers-injury-report-11-23-2025/87428942007/",
-      "source": "Rams Wire",
-      "ts": 1763841120.0,
-      "published_iso": "2025-11-22T19:52:00+00:00"
     }
   ]
 }
