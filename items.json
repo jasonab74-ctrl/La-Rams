@@ -1,7 +1,31 @@
 {
-  "updated_iso": "2025-11-24T03:50:17.924471+00:00",
-  "count": 3,
+  "updated_iso": "2025-11-24T04:24:08.150183+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-latimes-com-sports-rams-live-rams-buccaneers-live-updates-watch-start-time-odds-score",
+      "title": "Matthew Stafford and Rams blow out Buccaneers for their sixth consecutive win",
+      "link": "https://latimes.com/sports/rams/live/rams-buccaneers-live-updates-watch-start-time-odds-score",
+      "source": "LA Times",
+      "ts": 1763929380.0,
+      "published_iso": "2025-11-23T20:23:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-nfl-live-bucs-vs-rams-matthew-stafford-and-la-show-whos-boss-in-nfc-in-34-7-blowout-of-tampa-who-",
+      "title": "Bucs vs. Rams: Matthew Stafford and L.A. show who's boss in NFC in 34-7 blowout of Tampa, who lost Baker Mayfield to injury",
+      "link": "https://sports.yahoo.com/nfl/live/bucs-vs-rams-matthew-stafford-and-la-show-whos-boss-in-nfc-in-34-7-blowout-of-tampa-who-lost-baker-mayfield-to-injury-235023306.html",
+      "source": "Yahoo Sports",
+      "ts": 1763929380.0,
+      "published_iso": "2025-11-23T20:23:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-game-recap-rams-dominate-buccaneers-34-7-on-sunday-night-football-for-sixth-straight-win",
+      "title": "Game Recap: Rams dominate Buccaneers 34-7 on Sunday Night Football for sixth-straight win",
+      "link": "https://therams.com/news/game-recap-rams-dominate-buccaneers-34-7-on-sunday-night-football-for-sixth-straight-win",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1763929080.0,
+      "published_iso": "2025-11-23T20:18:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-article-puka-nacua-injury-latest-news-032607147-html",
       "title": "Puka Nacua injury update: Latest news on Rams WR's status in Week 12 game",
@@ -9,22 +33,6 @@
       "source": "Yahoo Sports",
       "ts": 1763927340.0,
       "published_iso": "2025-11-23T19:49:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-nfl-breaking-news-article-buccaneers-qb-baker-mayfield-leaves-snf-rams-shoulder-injury-030814456-",
-      "title": "Buccaneers QB Baker Mayfield leaves 'SNF' game vs. Rams with left shoulder injury",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/buccaneers-qb-baker-mayfield-leaves-snf-rams-shoulder-injury-030814456.html",
-      "source": "Yahoo Sports",
-      "ts": 1763925960.0,
-      "published_iso": "2025-11-23T19:26:00+00:00"
-    },
-    {
-      "id": "https-latimes-com-sports-rams-live-rams-buccaneers-live-updates-watch-start-time-odds-score",
-      "title": "Rams vs. Buccaneers live updates: Matthew Stafford and L.A. in control",
-      "link": "https://latimes.com/sports/rams/live/rams-buccaneers-live-updates-watch-start-time-odds-score",
-      "source": "LA Times",
-      "ts": 1763923320.0,
-      "published_iso": "2025-11-23T18:42:00+00:00"
     }
   ]
 }
