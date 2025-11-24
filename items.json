@@ -1,14 +1,38 @@
 {
-  "updated_iso": "2025-11-24T00:47:04.115604+00:00",
-  "count": 1,
+  "updated_iso": "2025-11-24T02:45:58.801595+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-cbssports-com-nfl-news-rams-vs-buccaneers-anytime-touchdown-scorer-picks-predictions-odds-bet-kyren-williams-to-sc",
-      "title": "Rams vs. Buccaneers anytime touchdown scorer picks, predictions, odds: Bet Kyren Williams to score a TD on SNF",
-      "link": "https://cbssports.com/nfl/news/rams-vs-buccaneers-anytime-touchdown-scorer-picks-predictions-odds-bet-kyren-williams-to-score-a-td-on-snf/",
-      "source": "CBS Sports",
-      "ts": 1763905440.0,
-      "published_iso": "2025-11-23T13:44:00+00:00"
+      "id": "https-latimes-com-sports-rams-live-rams-buccaneers-live-updates-watch-start-time-odds-score",
+      "title": "Rams vs. Buccaneers live updates: Matthew Stafford and L.A. in control",
+      "link": "https://latimes.com/sports/rams/live/rams-buccaneers-live-updates-watch-start-time-odds-score",
+      "source": "LA Times",
+      "ts": 1763923320.0,
+      "published_iso": "2025-11-23T18:42:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-videos-davante-adams-11th-td-catch-of-25-opens-scoring-in-bucs-rams-on-snf",
+      "title": "Davante Adams' 11th TD catch of '25 opens scoring in Bucs-Rams on 'SNF'",
+      "link": "https://nfl.com/videos/davante-adams-11th-td-catch-of-25-opens-scoring-in-bucs-rams-on-snf",
+      "source": "NFL.com",
+      "ts": 1763922960.0,
+      "published_iso": "2025-11-23T18:36:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-kyren-williams-playing-tonight-why-021637821-html",
+      "title": "Is Kyren Williams playing tonight? Why Rams RB is off to slow start in Week 12",
+      "link": "https://sports.yahoo.com/article/kyren-williams-playing-tonight-why-021637821.html",
+      "source": "Yahoo Sports",
+      "ts": 1763922780.0,
+      "published_iso": "2025-11-23T18:33:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-sean-mcvays-wife-veronika-khomyn-230000784-html",
+      "title": "Sean McVay's Wife Veronika Khomyn Gets Candid on Marriage to Rams Coach",
+      "link": "https://sports.yahoo.com/article/sean-mcvays-wife-veronika-khomyn-230000784.html",
+      "source": "Yahoo Sports",
+      "ts": 1763921760.0,
+      "published_iso": "2025-11-23T18:16:00+00:00"
     }
   ]
 }
