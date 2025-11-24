@@ -1,5 +1,5 @@
 {
-  "updated_iso": "2025-11-24T06:49:03.225939+00:00",
+  "updated_iso": "2025-11-24T07:10:46.102995+00:00",
   "count": 2,
   "items": [
     {
@@ -11,12 +11,12 @@
       "published_iso": "2025-11-23T22:39:00+00:00"
     },
     {
-      "id": "https-si-com-nfl-buccaneers-onsi-news-buccaneers-thrashed-by-rams-in-embarrassing-sunday-night-football-showing-2025",
-      "title": "Buccaneers thrashed by Rams in embarrassing Sunday Night Football showing",
-      "link": "https://si.com/nfl/buccaneers/onsi/news/buccaneers-thrashed-by-rams-in-embarrassing-sunday-night-football-showing-2025",
-      "source": "Sports Illustrated",
-      "ts": 1763934060.0,
-      "published_iso": "2025-11-23T21:41:00+00:00"
+      "id": "https-sports-yahoo-com-article-sunday-night-football-tampa-bay-004500995-html",
+      "title": "Sunday Night Football: Tampa Bay Buccaneers vs Los Angeles Rams",
+      "link": "https://sports.yahoo.com/article/sunday-night-football-tampa-bay-004500995.html",
+      "source": "Yahoo Sports",
+      "ts": 1763916900.0,
+      "published_iso": "2025-11-23T16:55:00+00:00"
     }
   ]
 }
