@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-11-24T21:08:46.197251+00:00",
-  "count": 2,
+  "updated_iso": "2025-11-24T21:36:39.806648+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-24-rams-pff-grades-week-12-buccaneers-best-worst-players-87",
-      "title": "Rams PFF grades: Best and worst performers in win vs. Buccaneers",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/24/rams-pff-grades-week-12-buccaneers-best-worst-players/87449875007/",
-      "source": "Rams Wire",
-      "ts": 1763985300.0,
-      "published_iso": "2025-11-24T11:55:00+00:00"
+      "id": "https-sports-yahoo-com-article-buccaneers-qb-baker-mayfield-exits-031858158-html",
+      "title": "Buccaneers QB Baker Mayfield suffers sprained left shoulder in loss to Rams",
+      "link": "https://sports.yahoo.com/article/buccaneers-qb-baker-mayfield-exits-031858158.html",
+      "source": "Yahoo Sports",
+      "ts": 1763991120.0,
+      "published_iso": "2025-11-24T13:32:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-baker-mayfield-wife-emily-mayfield-000000702-html",
+      "title": "Baker Mayfield, Wife Emily Mayfield Announced Family News 5 Days Before Bucs-Rams",
+      "link": "https://sports.yahoo.com/article/baker-mayfield-wife-emily-mayfield-000000702.html",
+      "source": "Yahoo Sports",
+      "ts": 1763990580.0,
+      "published_iso": "2025-11-24T13:23:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-22-nfl-week-12-rams-vs-buccaneers-injury-report-11-23-2025-",
@@ -17,6 +25,14 @@
       "source": "Rams Wire",
       "ts": 1763841120.0,
       "published_iso": "2025-11-22T19:52:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-22-nfl-week-12-rams-vs-buccaneers-odds-lines-how-to-watch-1",
+      "title": "Los Angeles Rams vs. Tampa Bay Buccaneers live stream, TV channel, start time, odds | Week 12 2025",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/22/nfl-week-12-rams-vs-buccaneers-odds-lines-how-to-watch-11-23-2025/87427889007/",
+      "source": "Rams Wire",
+      "ts": 1763740800.0,
+      "published_iso": "2025-11-21T16:00:00+00:00"
     }
   ]
 }
