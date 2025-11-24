@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-24T05:11:26.513481+00:00",
-  "count": 3,
+  "updated_iso": "2025-11-24T05:40:53.731983+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-takeaways-rams-crush-buccaneers-34-233629849-html",
+      "title": "Takeaways as Rams crush Buccaneers 34-7 on Sunday Night Football",
+      "link": "https://sports.yahoo.com/article/takeaways-rams-crush-buccaneers-34-233629849.html",
+      "source": "Yahoo Sports",
+      "ts": 1763930820.0,
+      "published_iso": "2025-11-23T20:47:00+00:00"
+    },
     {
       "id": "https-latimes-com-sports-rams-live-rams-buccaneers-live-updates-watch-start-time-odds-score",
       "title": "Matthew Stafford and Davante Adams shine in Rams’ win over Buccaneers",
@@ -9,22 +17,6 @@
       "source": "LA Times",
       "ts": 1763930700.0,
       "published_iso": "2025-11-23T20:45:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25304029-whats-baker-mayfields-injury-after-bucs-qb-seen-sling-during-rams-game",
-      "title": "What's Baker Mayfield's Injury After Bucs QB Seen in Sling During Rams Game?",
-      "link": "https://bleacherreport.com/articles/25304029-whats-baker-mayfields-injury-after-bucs-qb-seen-sling-during-rams-game",
-      "source": "Bleacher Report",
-      "ts": 1763930280.0,
-      "published_iso": "2025-11-23T20:38:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-nfl-live-bucs-vs-rams-matthew-stafford-and-la-show-whos-boss-in-nfc-in-34-7-blowout-of-tampa-who-",
-      "title": "Bucs vs. Rams: Matthew Stafford and L.A. show who's boss in NFC in 34-7 blowout of Tampa, who lost Baker Mayfield to injury",
-      "link": "https://sports.yahoo.com/nfl/live/bucs-vs-rams-matthew-stafford-and-la-show-whos-boss-in-nfc-in-34-7-blowout-of-tampa-who-lost-baker-mayfield-to-injury-235023306.html",
-      "source": "Yahoo Sports",
-      "ts": 1763929380.0,
-      "published_iso": "2025-11-23T20:23:00+00:00"
     }
   ]
 }
