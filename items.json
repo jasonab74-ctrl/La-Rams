@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-11-24T20:38:28.724245+00:00",
-  "count": 3,
+  "updated_iso": "2025-11-24T21:08:46.197251+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-24-rams-pff-grades-week-12-buccaneers-best-worst-players-87",
@@ -11,20 +11,12 @@
       "published_iso": "2025-11-24T11:55:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-davante-adams-having-most-fun-190044535-html",
-      "title": "Davante Adams 'having the most fun playing' with Rams than he's ever had in his entire career",
-      "link": "https://sports.yahoo.com/articles/davante-adams-having-most-fun-190044535.html",
-      "source": "Yahoo Sports",
-      "ts": 1763983020.0,
-      "published_iso": "2025-11-24T11:17:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-unsung-rams-hero-pulled-off-175130286-html",
-      "title": "The unsung Rams hero who pulled off feat not seen since 2022 in win over Buccaneers",
-      "link": "https://sports.yahoo.com/articles/unsung-rams-hero-pulled-off-175130286.html",
-      "source": "Yahoo Sports",
-      "ts": 1763982660.0,
-      "published_iso": "2025-11-24T11:11:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-22-nfl-week-12-rams-vs-buccaneers-injury-report-11-23-2025-",
+      "title": "Los Angeles Rams vs. Tampa Bay Buccaneers injury report | Week 12 2025",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/22/nfl-week-12-rams-vs-buccaneers-injury-report-11-23-2025/87428942007/",
+      "source": "Rams Wire",
+      "ts": 1763841120.0,
+      "published_iso": "2025-11-22T19:52:00+00:00"
     }
   ]
 }
