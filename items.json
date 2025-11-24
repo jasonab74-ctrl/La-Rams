@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-11-24T02:45:58.801595+00:00",
-  "count": 4,
+  "updated_iso": "2025-11-24T03:50:17.924471+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-article-puka-nacua-injury-latest-news-032607147-html",
+      "title": "Puka Nacua injury update: Latest news on Rams WR's status in Week 12 game",
+      "link": "https://sports.yahoo.com/article/puka-nacua-injury-latest-news-032607147.html",
+      "source": "Yahoo Sports",
+      "ts": 1763927340.0,
+      "published_iso": "2025-11-23T19:49:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-nfl-breaking-news-article-buccaneers-qb-baker-mayfield-leaves-snf-rams-shoulder-injury-030814456-",
+      "title": "Buccaneers QB Baker Mayfield leaves 'SNF' game vs. Rams with left shoulder injury",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/buccaneers-qb-baker-mayfield-leaves-snf-rams-shoulder-injury-030814456.html",
+      "source": "Yahoo Sports",
+      "ts": 1763925960.0,
+      "published_iso": "2025-11-23T19:26:00+00:00"
+    },
     {
       "id": "https-latimes-com-sports-rams-live-rams-buccaneers-live-updates-watch-start-time-odds-score",
       "title": "Rams vs. Buccaneers live updates: Matthew Stafford and L.A. in control",
@@ -9,30 +25,6 @@
       "source": "LA Times",
       "ts": 1763923320.0,
       "published_iso": "2025-11-23T18:42:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-videos-davante-adams-11th-td-catch-of-25-opens-scoring-in-bucs-rams-on-snf",
-      "title": "Davante Adams' 11th TD catch of '25 opens scoring in Bucs-Rams on 'SNF'",
-      "link": "https://nfl.com/videos/davante-adams-11th-td-catch-of-25-opens-scoring-in-bucs-rams-on-snf",
-      "source": "NFL.com",
-      "ts": 1763922960.0,
-      "published_iso": "2025-11-23T18:36:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-kyren-williams-playing-tonight-why-021637821-html",
-      "title": "Is Kyren Williams playing tonight? Why Rams RB is off to slow start in Week 12",
-      "link": "https://sports.yahoo.com/article/kyren-williams-playing-tonight-why-021637821.html",
-      "source": "Yahoo Sports",
-      "ts": 1763922780.0,
-      "published_iso": "2025-11-23T18:33:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-article-sean-mcvays-wife-veronika-khomyn-230000784-html",
-      "title": "Sean McVay's Wife Veronika Khomyn Gets Candid on Marriage to Rams Coach",
-      "link": "https://sports.yahoo.com/article/sean-mcvays-wife-veronika-khomyn-230000784.html",
-      "source": "Yahoo Sports",
-      "ts": 1763921760.0,
-      "published_iso": "2025-11-23T18:16:00+00:00"
     }
   ]
 }
