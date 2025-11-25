@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-11-25T03:34:09.869226+00:00",
+  "updated_iso": "2025-11-25T04:15:41.059314+00:00",
   "count": 3,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-nfl-breaking-news-article-buccaneers-qb-baker-mayfield-leaves-snf-rams-shoulder-injury-030814456-",
-      "title": "Bucs QB Baker Mayfield leaves loss to Rams early with left shoulder injury",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/buccaneers-qb-baker-mayfield-leaves-snf-rams-shoulder-injury-030814456.html",
-      "source": "Yahoo Sports",
-      "ts": 1764010980.0,
-      "published_iso": "2025-11-24T19:03:00+00:00"
-    },
     {
       "id": "https-cbssports-com-fantasy-football-news-rams-kamren-curl-leads-los-angeles-in-tackles-again",
       "title": "Rams' Kamren Curl: Leads Los Angeles in tackles again",
@@ -25,6 +17,14 @@
       "source": "Rams Wire",
       "ts": 1763841120.0,
       "published_iso": "2025-11-22T19:52:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-22-nfl-week-12-rams-vs-buccaneers-odds-lines-how-to-watch-1",
+      "title": "Los Angeles Rams vs. Tampa Bay Buccaneers live stream, TV channel, start time, odds | Week 12 2025",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/22/nfl-week-12-rams-vs-buccaneers-odds-lines-how-to-watch-11-23-2025/87427889007/",
+      "source": "Rams Wire",
+      "ts": 1763740800.0,
+      "published_iso": "2025-11-21T16:00:00+00:00"
     }
   ]
 }
