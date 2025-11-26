@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2025-11-26T21:07:52.197860+00:00",
-  "count": 3,
+  "updated_iso": "2025-11-26T21:33:34.813055+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-2025-rams-one-best-teams-204221023-html",
-      "title": "The 2025 Rams are one of the best teams of all time through 11 games",
-      "link": "https://sports.yahoo.com/articles/2025-rams-one-best-teams-204221023.html",
+      "id": "https-sports-yahoo-com-articles-rams-predicted-ohio-states-caleb-053026036-html",
+      "title": "Rams predicted to take Ohio State's Caleb Downs after Falcons mistake",
+      "link": "https://sports.yahoo.com/articles/rams-predicted-ohio-states-caleb-053026036.html",
       "source": "Yahoo Sports",
-      "ts": 1764161640.0,
-      "published_iso": "2025-11-26T12:54:00+00:00"
+      "ts": 1764163380.0,
+      "published_iso": "2025-11-26T13:23:00+00:00"
     },
     {
       "id": "https-yahoo-com-entertainment-celebrity-articles-kelly-stafford-extends-morning-podcast-202544889-html",
@@ -17,6 +17,14 @@
       "source": "Yahoo",
       "ts": 1764161220.0,
       "published_iso": "2025-11-26T12:47:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-videos-rams-vs-panthers-preview-week-13",
+      "title": "Rams vs. Panthers preview | Week 13",
+      "link": "https://nfl.com/videos/rams-vs-panthers-preview-week-13",
+      "source": "NFL.com",
+      "ts": 1764159600.0,
+      "published_iso": "2025-11-26T12:20:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-carolina-panthers-how-to-watch-listen-to-and-live-stream-week-13-2025",
