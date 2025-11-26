@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-11-26T13:48:34.704026+00:00",
-  "count": 1,
+  "updated_iso": "2025-11-26T14:09:41.525580+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-therams-com-news-los-angeles-rams-at-carolina-panthers-how-to-watch-listen-to-and-live-stream-week-13-2025",
@@ -9,6 +9,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1764087120.0,
       "published_iso": "2025-11-25T16:12:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-22-nfl-week-12-rams-vs-buccaneers-betting-odds-tips-trends-",
+      "title": "Los Angeles Rams vs. Tampa Bay Buccaneers 2025 odds, tips and betting trends | Week 12",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/22/nfl-week-12-rams-vs-buccaneers-betting-odds-tips-trends-11-23-2025/87427864007/",
+      "source": "Rams Wire",
+      "ts": 1763740800.0,
+      "published_iso": "2025-11-21T16:00:00+00:00"
     }
   ]
 }
