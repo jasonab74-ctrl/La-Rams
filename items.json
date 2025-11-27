@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-11-27T22:08:45.763929+00:00",
-  "count": 1,
+  "updated_iso": "2025-11-27T22:38:17.448265+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-cobie-durant-reflects-on-career-best-performance",
@@ -9,6 +9,14 @@
       "source": "Sports Illustrated",
       "ts": 1764252060.0,
       "published_iso": "2025-11-27T14:01:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-22-nfl-week-12-rams-vs-buccaneers-injury-report-11-23-2025-",
+      "title": "Los Angeles Rams vs. Tampa Bay Buccaneers injury report | Week 12 2025",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/22/nfl-week-12-rams-vs-buccaneers-injury-report-11-23-2025/87428942007/",
+      "source": "Rams Wire",
+      "ts": 1763841120.0,
+      "published_iso": "2025-11-22T19:52:00+00:00"
     }
   ]
 }
