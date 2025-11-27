@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-11-27T03:30:47.606515+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-11-27T04:13:37.485953+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-si-com-nfl-buccaneers-onsi-news-bucs-get-surprising-playoff-percentage-update-after-rams-loss-2025",
+      "title": "Bucs get surprising playoff percentage update after Rams loss",
+      "link": "https://si.com/nfl/buccaneers/onsi/news/bucs-get-surprising-playoff-percentage-update-after-rams-loss-2025",
+      "source": "Sports Illustrated",
+      "ts": 1764183600.0,
+      "published_iso": "2025-11-26T19:00:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-carolina-panthers-how-to-watch-listen-to-and-live-stream-week-13-2025",
+      "title": "Los Angeles Rams at Carolina Panthers: How to watch, listen to and live stream Week 13",
+      "link": "https://therams.com/news/los-angeles-rams-at-carolina-panthers-how-to-watch-listen-to-and-live-stream-week-13-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1764087120.0,
+      "published_iso": "2025-11-25T16:12:00+00:00"
+    }
+  ]
 }
