@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-11-28T23:08:47.512021+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-11-28T23:34:05.140759+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-therams-com-video-sean-mcvay-injury-updates-former-rams-on-panthers-roster-defensive-coordinator-chris-shula",
+      "title": "Sean McVay talks injury updates, former Rams on the Panthers roster & relationship with defensive coordinator Chris Shula",
+      "link": "https://therams.com/video/sean-mcvay-injury-updates-former-rams-on-panthers-roster-defensive-coordinator-chris-shula",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1764338400.0,
+      "published_iso": "2025-11-28T14:00:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-panthers-where-to-watch-pick-odds-prediction",
+      "title": "Rams vs. Panthers prediction: Los Angeles will maintain its standing atop NFC, but Carolina won't go quietly",
+      "link": "https://cbssports.com/nfl/news/rams-vs-panthers-where-to-watch-pick-odds-prediction/",
+      "source": "CBS Sports",
+      "ts": 1764330420.0,
+      "published_iso": "2025-11-28T11:47:00+00:00"
+    }
+  ]
 }
