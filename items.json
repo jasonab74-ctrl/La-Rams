@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-28T12:17:49.117778+00:00",
+  "updated_iso": "2025-11-28T13:03:43.796888+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-colby-parkinson-speaks-replacing-tyler-autocorrectioncancel",
+      "title": "Rams Colby Parkinson Speaks on Replacing Tyler Higbee",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-colby-parkinson-speaks-replacing-tyler-autocorrectioncancel",
+      "source": "Sports Illustrated",
+      "ts": 1764304740.0,
+      "published_iso": "2025-11-28T04:39:00+00:00"
+    },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-davante-adams-talks-latest-hot-streak",
       "title": "Rams' Davante Adams Talks Latest Hot Streak",
@@ -9,14 +17,6 @@
       "source": "Sports Illustrated",
       "ts": 1764301200.0,
       "published_iso": "2025-11-28T03:40:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-22-nfl-week-12-rams-vs-buccaneers-betting-odds-tips-trends-",
-      "title": "Los Angeles Rams vs. Tampa Bay Buccaneers 2025 odds, tips and betting trends | Week 12",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/22/nfl-week-12-rams-vs-buccaneers-betting-odds-tips-trends-11-23-2025/87427864007/",
-      "source": "Rams Wire",
-      "ts": 1763740800.0,
-      "published_iso": "2025-11-21T16:00:00+00:00"
     }
   ]
 }
