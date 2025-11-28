@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-11-28T08:46:15.684100+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-11-28T09:10:50.011280+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-22-nfl-week-12-rams-vs-buccaneers-injury-report-11-23-2025-",
+      "title": "Los Angeles Rams vs. Tampa Bay Buccaneers injury report | Week 12 2025",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/22/nfl-week-12-rams-vs-buccaneers-injury-report-11-23-2025/87428942007/",
+      "source": "Rams Wire",
+      "ts": 1763841120.0,
+      "published_iso": "2025-11-22T19:52:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-22-nfl-week-12-rams-vs-buccaneers-betting-odds-tips-trends-",
+      "title": "Los Angeles Rams vs. Tampa Bay Buccaneers 2025 odds, tips and betting trends | Week 12",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/22/nfl-week-12-rams-vs-buccaneers-betting-odds-tips-trends-11-23-2025/87427864007/",
+      "source": "Rams Wire",
+      "ts": 1763740800.0,
+      "published_iso": "2025-11-21T16:00:00+00:00"
+    }
+  ]
 }
