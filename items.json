@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-11-29T21:33:05.457058+00:00",
+  "updated_iso": "2025-11-29T22:07:50.074966+00:00",
   "count": 4,
   "items": [
-    {
-      "id": "https-ocregister-com-2025-11-29-rams-wr-davante-adams-delivering-on-promise-during-winning-streak",
-      "title": "Rams WR Davante Adams delivering on promise during winning streak",
-      "link": "https://ocregister.com/2025/11/29/rams-wr-davante-adams-delivering-on-promise-during-winning-streak/",
-      "source": "OC Register",
-      "ts": 1764421680.0,
-      "published_iso": "2025-11-29T13:08:00+00:00"
-    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-29-nfl-week-13-rams-vs-panthers-injury-report-11-30-2025-87",
       "title": "Los Angeles Rams vs. Carolina Panthers injury report | Week 13 2025",
@@ -33,6 +25,14 @@
       "source": "CBS Sports",
       "ts": 1764330420.0,
       "published_iso": "2025-11-28T11:47:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-22-nfl-week-12-rams-vs-buccaneers-injury-report-11-23-2025-",
+      "title": "Los Angeles Rams vs. Tampa Bay Buccaneers injury report | Week 12 2025",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/22/nfl-week-12-rams-vs-buccaneers-injury-report-11-23-2025/87428942007/",
+      "source": "Rams Wire",
+      "ts": 1763841120.0,
+      "published_iso": "2025-11-22T19:52:00+00:00"
     }
   ]
 }
