@@ -1,30 +1,22 @@
 {
-  "updated_iso": "2025-11-30T18:12:20.300904+00:00",
+  "updated_iso": "2025-11-30T18:44:27.284894+00:00",
   "count": 5,
   "items": [
     {
-      "id": "https-nfl-com-videos-kurt-warner-previews-rams-panthers-week-13-matchup-nfl-gameday-morning",
-      "title": "Kurt Warner previews Rams-Panthers Week 13 matchup | 'NFL GameDay Morning'",
-      "link": "https://nfl.com/videos/kurt-warner-previews-rams-panthers-week-13-matchup-nfl-gameday-morning",
-      "source": "NFL.com",
-      "ts": 1764496380.0,
-      "published_iso": "2025-11-30T09:53:00+00:00"
+      "id": "https-latimes-com-sports-rams-live-rams-carolina-panthers-live-updates-watch-start-time-odds-score-highlights",
+      "title": "Rams vs. Panthers live updates: Carolina strikes back to tie game",
+      "link": "https://latimes.com/sports/rams/live/rams-carolina-panthers-live-updates-watch-start-time-odds-score-highlights",
+      "source": "LA Times",
+      "ts": 1764498540.0,
+      "published_iso": "2025-11-30T10:29:00+00:00"
     },
     {
-      "id": "https-foxsports-com-watch-fmc-qsls8b4k02mk1udk",
-      "title": "Caleb Williams Reminds Howie Long of John Elway 👀 Are Rams Most COMPLETE Team in NFL?",
-      "link": "https://foxsports.com/watch/fmc-qsls8b4k02mk1udk",
+      "id": "https-foxsports-com-watch-fmc-y4k4uqffc6z76401",
+      "title": "Matthew Stafford finds Davante Adams for four-yard TD, giving Rams early lead over Panthers | NFL Highlights",
+      "link": "https://foxsports.com/watch/fmc-y4k4uqffc6z76401",
       "source": "FOX Sports",
-      "ts": 1764493740.0,
-      "published_iso": "2025-11-30T09:09:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-panthers-win-today-means-154520288-html",
-      "title": "What a Rams or Panthers win today means for NFC West, NFC South, NFL playoff picture",
-      "link": "https://sports.yahoo.com/articles/rams-panthers-win-today-means-154520288.html",
-      "source": "Yahoo Sports",
-      "ts": 1764490260.0,
-      "published_iso": "2025-11-30T08:11:00+00:00"
+      "ts": 1764498540.0,
+      "published_iso": "2025-11-30T10:29:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-29-nfl-week-13-rams-vs-panthers-odds-lines-how-to-watch-11-",
@@ -41,6 +33,14 @@
       "source": "Rams Wire",
       "ts": 1764414240.0,
       "published_iso": "2025-11-29T11:04:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-panthers-where-to-watch-pick-odds-prediction",
+      "title": "Rams vs. Panthers prediction: Los Angeles will maintain its standing atop NFC, but Carolina won't go quietly",
+      "link": "https://cbssports.com/nfl/news/rams-vs-panthers-where-to-watch-pick-odds-prediction/",
+      "source": "CBS Sports",
+      "ts": 1764330420.0,
+      "published_iso": "2025-11-28T11:47:00+00:00"
     }
   ]
 }
