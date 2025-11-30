@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-11-30T17:36:19.153186+00:00",
-  "count": 6,
+  "updated_iso": "2025-11-30T18:12:20.300904+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-nfl-com-videos-kurt-warner-previews-rams-panthers-week-13-matchup-nfl-gameday-morning",
+      "title": "Kurt Warner previews Rams-Panthers Week 13 matchup | 'NFL GameDay Morning'",
+      "link": "https://nfl.com/videos/kurt-warner-previews-rams-panthers-week-13-matchup-nfl-gameday-morning",
+      "source": "NFL.com",
+      "ts": 1764496380.0,
+      "published_iso": "2025-11-30T09:53:00+00:00"
+    },
     {
       "id": "https-foxsports-com-watch-fmc-qsls8b4k02mk1udk",
       "title": "Caleb Williams Reminds Howie Long of John Elway 👀 Are Rams Most COMPLETE Team in NFL?",
@@ -33,22 +41,6 @@
       "source": "Rams Wire",
       "ts": 1764414240.0,
       "published_iso": "2025-11-29T11:04:00+00:00"
-    },
-    {
-      "id": "https-si-com-betting-rams-vs-panthers-final-score-prediction-for-nfl-week-13-los-angeles-will-destroy-panthers",
-      "title": "Rams vs. Panthers Final Score Prediction for NFL Week 13 (Los Angeles Will Destroy Panthers)",
-      "link": "https://si.com/betting/rams-vs-panthers-final-score-prediction-for-nfl-week-13-los-angeles-will-destroy-panthers",
-      "source": "Sports Illustrated",
-      "ts": 1764410400.0,
-      "published_iso": "2025-11-29T10:00:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-rams-vs-panthers-where-to-watch-pick-odds-prediction",
-      "title": "Rams vs. Panthers prediction: Los Angeles will maintain its standing atop NFC, but Carolina won't go quietly",
-      "link": "https://cbssports.com/nfl/news/rams-vs-panthers-where-to-watch-pick-odds-prediction/",
-      "source": "CBS Sports",
-      "ts": 1764330420.0,
-      "published_iso": "2025-11-28T11:47:00+00:00"
     }
   ]
 }
