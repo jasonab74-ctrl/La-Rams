@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-12-01T19:12:24.551160+00:00",
+  "updated_iso": "2025-12-01T19:38:07.897362+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-therams-com-news-5-interesting-stats-from-rams-week-13-loss-to-panthers-elite-rushing-efficiency-and-pass-protecti",
+      "title": "5 interesting stats from Rams' Week 13 loss to Panthers: Elite rushing efficiency and pass protection despite result",
+      "link": "https://therams.com/news/5-interesting-stats-from-rams-week-13-loss-to-panthers-elite-rushing-efficiency-and-pass-protection-despite-result",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1764589020.0,
+      "published_iso": "2025-12-01T11:37:00+00:00"
+    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-29-nfl-week-13-rams-vs-panthers-odds-lines-how-to-watch-11-",
       "title": "Los Angeles Rams vs. Carolina Panthers live stream, TV channel, start time, odds | Week 13 2025",
@@ -9,14 +17,6 @@
       "source": "Rams Wire",
       "ts": 1764425280.0,
       "published_iso": "2025-11-29T14:08:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-29-nfl-week-13-rams-vs-panthers-injury-report-11-30-2025-87",
-      "title": "Los Angeles Rams vs. Carolina Panthers injury report | Week 13 2025",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/29/nfl-week-13-rams-vs-panthers-injury-report-11-30-2025/87526651007/",
-      "source": "Rams Wire",
-      "ts": 1764414240.0,
-      "published_iso": "2025-11-29T11:04:00+00:00"
     }
   ]
 }
