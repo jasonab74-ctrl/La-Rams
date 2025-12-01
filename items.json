@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-12-01T12:18:40.249609+00:00",
-  "count": 4,
+  "updated_iso": "2025-12-01T13:08:15.091109+00:00",
+  "count": 2,
   "items": [
-    {
-      "id": "https-therams-com-news-game-recap-rams-six-game-win-streak-snapped-with-31-28-road-loss-to-panthers",
-      "title": "Game Recap: Rams' six-game win streak snapped with 31-28 road loss to Panthers",
-      "link": "https://therams.com/news/game-recap-rams-six-game-win-streak-snapped-with-31-28-road-loss-to-panthers",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1764507120.0,
-      "published_iso": "2025-11-30T12:52:00+00:00"
-    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-29-nfl-week-13-rams-vs-panthers-odds-lines-how-to-watch-11-",
       "title": "Los Angeles Rams vs. Carolina Panthers live stream, TV channel, start time, odds | Week 13 2025",
@@ -25,14 +17,6 @@
       "source": "Rams Wire",
       "ts": 1764414240.0,
       "published_iso": "2025-11-29T11:04:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-rams-vs-panthers-where-to-watch-pick-odds-prediction",
-      "title": "Rams vs. Panthers prediction: Los Angeles will maintain its standing atop NFC, but Carolina won't go quietly",
-      "link": "https://cbssports.com/nfl/news/rams-vs-panthers-where-to-watch-pick-odds-prediction/",
-      "source": "CBS Sports",
-      "ts": 1764330420.0,
-      "published_iso": "2025-11-28T11:47:00+00:00"
     }
   ]
 }
