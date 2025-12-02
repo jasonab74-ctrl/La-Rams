@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-12-02T23:08:56.155095+00:00",
-  "count": 1,
+  "updated_iso": "2025-12-02T23:35:19.509315+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-29-nfl-week-13-rams-vs-panthers-odds-lines-how-to-watch-11-",
-      "title": "Los Angeles Rams vs. Carolina Panthers live stream, TV channel, start time, odds | Week 13 2025",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/29/nfl-week-13-rams-vs-panthers-odds-lines-how-to-watch-11-30-2025/87529160007/",
-      "source": "Rams Wire",
-      "ts": 1764425280.0,
-      "published_iso": "2025-11-29T14:08:00+00:00"
+      "id": "https-therams-com-news-los-angeles-rams-at-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-14-2025",
+      "title": "Los Angeles Rams at Arizona Cardinals: How to watch, listen to and live stream Week 14",
+      "link": "https://therams.com/news/los-angeles-rams-at-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-14-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1764688620.0,
+      "published_iso": "2025-12-02T15:17:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-rams-vs-cardinals-prediction-odds-spread-injuries-trends-for-nfl-week-14",
+      "title": "Rams vs. Cardinals Prediction, Odds, Spread, Injuries, Trends for NFL Week 14",
+      "link": "https://si.com/betting/rams-vs-cardinals-prediction-odds-spread-injuries-trends-for-nfl-week-14",
+      "source": "Sports Illustrated",
+      "ts": 1764688140.0,
+      "published_iso": "2025-12-02T15:09:00+00:00"
     }
   ]
 }
