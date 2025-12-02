@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2025-12-02T15:42:36.868989+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-02T16:13:25.633980+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-article-ex-packers-receiver-davante-adams-191924903-html",
+      "title": "Ex-Packers receiver Davante Adams achieves career milestone reception for Los Angeles Rams",
+      "link": "https://sports.yahoo.com/article/ex-packers-receiver-davante-adams-191924903.html",
+      "source": "Yahoo Sports",
+      "ts": 1763378940.0,
+      "published_iso": "2025-11-17T11:29:00+00:00"
+    }
+  ]
 }
