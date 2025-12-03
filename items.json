@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-12-03T18:14:43.098041+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-03T18:51:12.237242+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-therams-com-news-hello-kitty-sanrio-collaboration-nfl-exclusive-merchandise",
+      "title": "Rams announce NFL's first-ever collaboration with Sanrio® for exclusive Hello Kitty x Rams merchandise",
+      "link": "https://therams.com/news/hello-kitty-sanrio-collaboration-nfl-exclusive-merchandise",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1764756240.0,
+      "published_iso": "2025-12-03T10:04:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-14-2025",
+      "title": "Los Angeles Rams at Arizona Cardinals: How to watch, listen to and live stream Week 14",
+      "link": "https://therams.com/news/los-angeles-rams-at-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-14-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1764688620.0,
+      "published_iso": "2025-12-02T15:17:00+00:00"
+    }
+  ]
 }
