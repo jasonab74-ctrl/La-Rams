@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2025-12-04T17:42:55.052303+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-04T18:15:09.870636+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-therams-com-video-kyren-williams-named-the-rams-2025-walter-payton-man-of-the-year-club-winner",
+      "title": "Kyren Williams named the Rams' 2025 Walter Payton Man of the Year club winner",
+      "link": "https://therams.com/video/kyren-williams-named-the-rams-2025-walter-payton-man-of-the-year-club-winner",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1764831600.0,
+      "published_iso": "2025-12-04T07:00:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-kyren-williams-rams-club-winner-2025-walter-payton-nfl-man-of-the-year-nationwide",
+      "title": "Kyren Williams named the Rams' club winner for Walter Payton NFL Man of the Year Award presented by Nationwide",
+      "link": "https://therams.com/news/kyren-williams-rams-club-winner-2025-walter-payton-nfl-man-of-the-year-nationwide",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1764831480.0,
+      "published_iso": "2025-12-04T06:58:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-29-nfl-week-13-rams-vs-panthers-odds-lines-how-to-watch-11-",
+      "title": "Los Angeles Rams vs. Carolina Panthers live stream, TV channel, start time, odds | Week 13 2025",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/29/nfl-week-13-rams-vs-panthers-odds-lines-how-to-watch-11-30-2025/87529160007/",
+      "source": "Rams Wire",
+      "ts": 1764425280.0,
+      "published_iso": "2025-11-29T14:08:00+00:00"
+    }
+  ]
 }
