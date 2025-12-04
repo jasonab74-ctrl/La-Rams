@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-12-04T07:12:19.740062+00:00",
+  "updated_iso": "2025-12-04T07:38:22.761954+00:00",
   "count": 3,
   "items": [
-    {
-      "id": "https-ocregister-com-2025-12-03-rams-rt-warren-mcclendons-confidence-growing-with-experience",
-      "title": "Rams RT Warren McClendon’s confidence growing with experience",
-      "link": "https://ocregister.com/2025/12/03/rams-rt-warren-mcclendons-confidence-growing-with-experience/",
-      "source": "OC Register",
-      "ts": 1764781800.0,
-      "published_iso": "2025-12-03T17:10:00+00:00"
-    },
     {
       "id": "https-therams-com-news-los-angeles-rams-pechanga-los-angeles-regional-food-bank-food-distribution-2025-sofi-stadium",
       "title": "Rams, Pechanga & Los Angeles Regional Food Bank ready for annual drive-thru food distribution at SoFi Stadium",
@@ -25,6 +17,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1764773640.0,
       "published_iso": "2025-12-03T14:54:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-ex-packers-receiver-davante-adams-191924903-html",
+      "title": "Ex-Packers receiver Davante Adams achieves career milestone reception for Los Angeles Rams",
+      "link": "https://sports.yahoo.com/article/ex-packers-receiver-davante-adams-191924903.html",
+      "source": "Yahoo Sports",
+      "ts": 1763378940.0,
+      "published_iso": "2025-11-17T11:29:00+00:00"
     }
   ]
 }
