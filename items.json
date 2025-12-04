@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-12-04T19:10:15.484512+00:00",
+  "updated_iso": "2025-12-04T19:35:17.354178+00:00",
   "count": 2,
   "items": [
-    {
-      "id": "https-therams-com-video-kyren-williams-named-the-rams-2025-walter-payton-man-of-the-year-club-winner",
-      "title": "Kyren Williams named the Rams' 2025 Walter Payton Man of the Year club winner",
-      "link": "https://therams.com/video/kyren-williams-named-the-rams-2025-walter-payton-man-of-the-year-club-winner",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1764831600.0,
-      "published_iso": "2025-12-04T07:00:00+00:00"
-    },
     {
       "id": "https-therams-com-news-kyren-williams-rams-club-winner-2025-walter-payton-nfl-man-of-the-year-nationwide",
       "title": "Kyren Williams named the Rams' club winner for Walter Payton NFL Man of the Year Award presented by Nationwide",
@@ -17,6 +9,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1764831480.0,
       "published_iso": "2025-12-04T06:58:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-pechanga-los-angeles-regional-food-bank-food-distribution-2025-sofi-stadium",
+      "title": "Rams, Pechanga & Los Angeles Regional Food Bank ready for annual drive-thru food distribution at SoFi Stadium",
+      "link": "https://therams.com/news/los-angeles-rams-pechanga-los-angeles-regional-food-bank-food-distribution-2025-sofi-stadium",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1764775140.0,
+      "published_iso": "2025-12-03T15:19:00+00:00"
     }
   ]
 }
