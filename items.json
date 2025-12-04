@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-12-04T20:10:54.440532+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-04T20:42:15.857325+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-therams-com-news-kyren-williams-rams-club-winner-2025-walter-payton-nfl-man-of-the-year-nationwide",
@@ -17,6 +17,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1764775140.0,
       "published_iso": "2025-12-03T15:19:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-article-ex-packers-receiver-davante-adams-191924903-html",
+      "title": "Ex-Packers receiver Davante Adams achieves career milestone reception for Los Angeles Rams",
+      "link": "https://sports.yahoo.com/article/ex-packers-receiver-davante-adams-191924903.html",
+      "source": "Yahoo Sports",
+      "ts": 1763378940.0,
+      "published_iso": "2025-11-17T11:29:00+00:00"
     }
   ]
 }
