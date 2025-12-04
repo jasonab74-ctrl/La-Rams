@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-12-04T14:10:53.122305+00:00",
+  "updated_iso": "2025-12-04T14:44:21.391787+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-ocregister-com-2025-12-03-rams-rt-warren-mcclendons-confidence-growing-with-experience",
+      "title": "Rams RT Warren McClendon’s confidence growing with experience",
+      "link": "https://ocregister.com/2025/12/03/rams-rt-warren-mcclendons-confidence-growing-with-experience/",
+      "source": "OC Register",
+      "ts": 1764806340.0,
+      "published_iso": "2025-12-03T23:59:00+00:00"
+    },
     {
       "id": "https-therams-com-news-los-angeles-rams-pechanga-los-angeles-regional-food-bank-food-distribution-2025-sofi-stadium",
       "title": "Rams, Pechanga & Los Angeles Regional Food Bank ready for annual drive-thru food distribution at SoFi Stadium",
@@ -17,14 +25,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1764773640.0,
       "published_iso": "2025-12-03T14:54:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-29-nfl-week-13-rams-vs-panthers-odds-lines-how-to-watch-11-",
-      "title": "Los Angeles Rams vs. Carolina Panthers live stream, TV channel, start time, odds | Week 13 2025",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/29/nfl-week-13-rams-vs-panthers-odds-lines-how-to-watch-11-30-2025/87529160007/",
-      "source": "Rams Wire",
-      "ts": 1764425280.0,
-      "published_iso": "2025-11-29T14:08:00+00:00"
     }
   ]
 }
