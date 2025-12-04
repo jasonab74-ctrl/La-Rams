@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-12-03T23:34:01.538509+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-04T00:44:40.224626+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-therams-com-news-los-angeles-rams-pechanga-los-angeles-regional-food-bank-food-distribution-2025-sofi-stadium",
+      "title": "Rams, Pechanga & Los Angeles Regional Food Bank ready for annual drive-thru food distribution at SoFi Stadium",
+      "link": "https://therams.com/news/los-angeles-rams-pechanga-los-angeles-regional-food-bank-food-distribution-2025-sofi-stadium",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1764775140.0,
+      "published_iso": "2025-12-03T15:19:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-hello-kitty-sanrio-collaboration-nfl-exclusive-merchandise",
+      "title": "Rams announce NFL's first-ever collaboration with Sanrio® for exclusive Hello Kitty x Rams merchandise",
+      "link": "https://therams.com/news/hello-kitty-sanrio-collaboration-nfl-exclusive-merchandise",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1764756240.0,
+      "published_iso": "2025-12-03T10:04:00+00:00"
+    }
+  ]
 }
