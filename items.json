@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-12-04T02:29:40.345796+00:00",
-  "count": 5,
+  "updated_iso": "2025-12-04T03:40:45.625431+00:00",
+  "count": 4,
   "items": [
-    {
-      "id": "https-apnews-com-article-rams-matthew-stafford-turnovers-2984698fa5614bdd6e3d30a1dcb535b9",
-      "title": "Rams QB Matthew Stafford has already moved past the 3-turnover game that slowed his standout season",
-      "link": "https://apnews.com/article/rams-matthew-stafford-turnovers-2984698fa5614bdd6e3d30a1dcb535b9",
-      "source": "AP News",
-      "ts": 1764782700.0,
-      "published_iso": "2025-12-03T17:25:00+00:00"
-    },
     {
       "id": "https-ocregister-com-2025-12-03-rams-rt-warren-mcclendons-confidence-growing-with-experience",
       "title": "Rams RT Warren McClendon’s confidence growing with experience",
@@ -35,12 +27,12 @@
       "published_iso": "2025-12-03T14:54:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-article-ex-packers-receiver-davante-adams-191924903-html",
-      "title": "Ex-Packers receiver Davante Adams achieves career milestone reception for Los Angeles Rams",
-      "link": "https://sports.yahoo.com/article/ex-packers-receiver-davante-adams-191924903.html",
-      "source": "Yahoo Sports",
-      "ts": 1763378940.0,
-      "published_iso": "2025-11-17T11:29:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-11-29-nfl-week-13-rams-vs-panthers-injury-report-11-30-2025-87",
+      "title": "Los Angeles Rams vs. Carolina Panthers injury report | Week 13 2025",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/11/29/nfl-week-13-rams-vs-panthers-injury-report-11-30-2025/87526651007/",
+      "source": "Rams Wire",
+      "ts": 1764414240.0,
+      "published_iso": "2025-11-29T11:04:00+00:00"
     }
   ]
 }
