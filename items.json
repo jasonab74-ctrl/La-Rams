@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2025-12-05T15:10:19.966014+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-05T15:41:29.280702+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-therams-com-news-kyren-williams-rams-club-winner-2025-walter-payton-nfl-man-of-the-year-nationwide",
-      "title": "Kyren Williams named the Rams' club winner for Walter Payton NFL Man of the Year Award presented by Nationwide",
-      "link": "https://therams.com/news/kyren-williams-rams-club-winner-2025-walter-payton-nfl-man-of-the-year-nationwide",
+      "id": "https-therams-com-news-hello-kitty-sanrio-collaboration-nfl-exclusive-merchandise",
+      "title": "Rams announce NFL's first-ever collaboration with Sanrio® for exclusive Hello Kitty x Rams merchandise",
+      "link": "https://therams.com/news/hello-kitty-sanrio-collaboration-nfl-exclusive-merchandise",
       "source": "Los Angeles Rams (Official)",
-      "ts": 1764831480.0,
-      "published_iso": "2025-12-04T06:58:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-pechanga-los-angeles-regional-food-bank-food-distribution-2025-sofi-stadium",
-      "title": "Rams, Pechanga & Los Angeles Regional Food Bank ready for annual drive-thru food distribution at SoFi Stadium",
-      "link": "https://therams.com/news/los-angeles-rams-pechanga-los-angeles-regional-food-bank-food-distribution-2025-sofi-stadium",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1764775140.0,
-      "published_iso": "2025-12-03T15:19:00+00:00"
+      "ts": 1764756240.0,
+      "published_iso": "2025-12-03T10:04:00+00:00"
     }
   ]
 }
