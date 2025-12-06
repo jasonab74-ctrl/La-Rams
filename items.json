@@ -1,5 +1,5 @@
 {
-  "updated_iso": "2025-12-06T16:09:57.737806+00:00",
+  "updated_iso": "2025-12-06T16:41:45.384866+00:00",
   "count": 4,
   "items": [
     {
@@ -27,12 +27,12 @@
       "published_iso": "2025-12-04T06:58:00+00:00"
     },
     {
-      "id": "https-therams-com-news-hello-kitty-sanrio-collaboration-nfl-exclusive-merchandise",
-      "title": "Rams announce NFL's first-ever collaboration with Sanrio® for exclusive Hello Kitty x Rams merchandise",
-      "link": "https://therams.com/news/hello-kitty-sanrio-collaboration-nfl-exclusive-merchandise",
+      "id": "https-therams-com-news-national-storage-teams-up-with-los-angeles-rams-for-historic-nfl-showdown",
+      "title": "National Storage teams up with Los Angeles Rams for historic NFL showdown",
+      "link": "https://therams.com/news/national-storage-teams-up-with-los-angeles-rams-for-historic-nfl-showdown",
       "source": "Los Angeles Rams (Official)",
-      "ts": 1764756240.0,
-      "published_iso": "2025-12-03T10:04:00+00:00"
+      "ts": 1764773640.0,
+      "published_iso": "2025-12-03T14:54:00+00:00"
     }
   ]
 }
