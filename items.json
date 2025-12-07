@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-12-07T06:13:06.592829+00:00",
-  "count": 1,
+  "updated_iso": "2025-12-07T06:46:01.808438+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-therams-com-news-kyren-williams-rams-club-winner-2025-walter-payton-nfl-man-of-the-year-nationwide",
@@ -9,6 +9,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1764831480.0,
       "published_iso": "2025-12-04T06:58:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-hello-kitty-sanrio-collaboration-nfl-exclusive-merchandise",
+      "title": "Rams announce NFL's first-ever collaboration with Sanrio® for exclusive Hello Kitty x Rams merchandise",
+      "link": "https://therams.com/news/hello-kitty-sanrio-collaboration-nfl-exclusive-merchandise",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1764756240.0,
+      "published_iso": "2025-12-03T10:04:00+00:00"
     }
   ]
 }
