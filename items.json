@@ -1,30 +1,30 @@
 {
-  "updated_iso": "2025-12-07T23:08:27.782739+00:00",
+  "updated_iso": "2025-12-07T23:33:37.687610+00:00",
   "count": 4,
   "items": [
     {
-      "id": "https-latimes-com-sports-rams-live-rams-arizona-cardinals-live-updates-watch-start-time-odds-score-highlights",
-      "title": "Rams vs. Arizona Cardinals live updates: L.A. in control at halftime",
-      "link": "https://latimes.com/sports/rams/live/rams-arizona-cardinals-live-updates-watch-start-time-odds-score-highlights",
-      "source": "LA Times",
-      "ts": 1765119540.0,
-      "published_iso": "2025-12-07T14:59:00+00:00"
+      "id": "https-therams-com-video-rams-kobie-turner-surprises-cardinals-jacoby-brissett-sack-state-farm-stadium",
+      "title": "HIGHLIGHTS: Rams DE Kobie Turner surprises Cardinals QB Jacoby Brissett with a huge sack on 3rd down",
+      "link": "https://therams.com/video/rams-kobie-turner-surprises-cardinals-jacoby-brissett-sack-state-farm-stadium",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1765120980.0,
+      "published_iso": "2025-12-07T15:23:00+00:00"
     },
     {
-      "id": "https-foxsports-com-watch-fmc-m2ym2n47tbn26ojv",
+      "id": "https-latimes-com-sports-rams-live-rams-arizona-cardinals-live-updates-watch-start-time-odds-score-highlights",
+      "title": "Rams vs. Cardinals live updates: L.A. in control in the third quarter",
+      "link": "https://latimes.com/sports/rams/live/rams-arizona-cardinals-live-updates-watch-start-time-odds-score-highlights",
+      "source": "LA Times",
+      "ts": 1765120920.0,
+      "published_iso": "2025-12-07T15:22:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-watch-vertical-fmc-m2ym2n47tbn26ojv",
       "title": "Kyren Williams punches in 2-yard TD, giving Rams lead over Cardinals | NFL Highlights",
-      "link": "https://foxsports.com/watch/fmc-m2ym2n47tbn26ojv",
+      "link": "https://foxsports.com/watch-vertical/fmc-m2ym2n47tbn26ojv",
       "source": "FOX Sports",
       "ts": 1765118400.0,
       "published_iso": "2025-12-07T14:40:00+00:00"
-    },
-    {
-      "id": "https-therams-com-video-puka-nacua-spinning-catch-32-yards-rams-cardinals-week-14-state-farm-stadium",
-      "title": "HIGHLIGHTS: Puka Nacua's spinning-snag yields 32 yards for the Rams against the Cardinals",
-      "link": "https://therams.com/video/puka-nacua-spinning-catch-32-yards-rams-cardinals-week-14-state-farm-stadium",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1765117980.0,
-      "published_iso": "2025-12-07T14:33:00+00:00"
     },
     {
       "id": "https-therams-com-video-rams-kyren-williams-slices-upfield-on-an-18-yard-dash-cardinals-week-14",
