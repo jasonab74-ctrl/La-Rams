@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2025-12-07T22:37:36.056414+00:00",
-  "count": 5,
+  "updated_iso": "2025-12-07T23:08:27.782739+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-latimes-com-sports-rams-live-rams-arizona-cardinals-live-updates-watch-start-time-odds-score-highlights",
-      "title": "Rams vs. Cardinals live updates: L.A. retakes lead on Kyren Williams touchdown",
+      "title": "Rams vs. Arizona Cardinals live updates: L.A. in control at halftime",
       "link": "https://latimes.com/sports/rams/live/rams-arizona-cardinals-live-updates-watch-start-time-odds-score-highlights",
       "source": "LA Times",
-      "ts": 1765118220.0,
-      "published_iso": "2025-12-07T14:37:00+00:00"
+      "ts": 1765119540.0,
+      "published_iso": "2025-12-07T14:59:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-watch-fmc-m2ym2n47tbn26ojv",
+      "title": "Kyren Williams punches in 2-yard TD, giving Rams lead over Cardinals | NFL Highlights",
+      "link": "https://foxsports.com/watch/fmc-m2ym2n47tbn26ojv",
+      "source": "FOX Sports",
+      "ts": 1765118400.0,
+      "published_iso": "2025-12-07T14:40:00+00:00"
+    },
+    {
+      "id": "https-therams-com-video-puka-nacua-spinning-catch-32-yards-rams-cardinals-week-14-state-farm-stadium",
+      "title": "HIGHLIGHTS: Puka Nacua's spinning-snag yields 32 yards for the Rams against the Cardinals",
+      "link": "https://therams.com/video/puka-nacua-spinning-catch-32-yards-rams-cardinals-week-14-state-farm-stadium",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1765117980.0,
+      "published_iso": "2025-12-07T14:33:00+00:00"
     },
     {
       "id": "https-therams-com-video-rams-kyren-williams-slices-upfield-on-an-18-yard-dash-cardinals-week-14",
@@ -17,30 +33,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1765117560.0,
       "published_iso": "2025-12-07T14:26:00+00:00"
-    },
-    {
-      "id": "https-therams-com-video-rams-puka-nacua-hauls-18-yard-catch-cardinals-week-14-state-farm-stadium",
-      "title": "HIGHLIGHTS: Rams WR Puka Nacua hauls in an 18-yard catch against the Cardinals",
-      "link": "https://therams.com/video/rams-puka-nacua-hauls-18-yard-catch-cardinals-week-14-state-farm-stadium",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1765116960.0,
-      "published_iso": "2025-12-07T14:16:00+00:00"
-    },
-    {
-      "id": "https-si-com-betting-rams-vs-cardinals-final-score-prediction-for-nfl-week-14-arizona-will-surprise-los-angeles-in-nfc-w",
-      "title": "Rams vs. Cardinals Final Score Prediction for NFL Week 14 (Arizona Will Surprise Los Angeles in NFC West Duel)",
-      "link": "https://si.com/betting/rams-vs-cardinals-final-score-prediction-for-nfl-week-14-arizona-will-surprise-los-angeles-in-nfc-west-duel-01kbk8h29naq",
-      "source": "Sports Illustrated",
-      "ts": 1765015200.0,
-      "published_iso": "2025-12-06T10:00:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-rams-vs-cardinals-where-to-watch-pick-odds-prediction",
-      "title": "Rams vs. Cardinals prediction: Los Angeles rides its offense to get its get-right win",
-      "link": "https://cbssports.com/nfl/news/rams-vs-cardinals-where-to-watch-pick-odds-prediction/",
-      "source": "CBS Sports",
-      "ts": 1764935280.0,
-      "published_iso": "2025-12-05T11:48:00+00:00"
     }
   ]
 }
