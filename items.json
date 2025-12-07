@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-12-07T20:37:35.162341+00:00",
-  "count": 3,
+  "updated_iso": "2025-12-07T21:07:09.362844+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-therams-com-news-rams-cardinals-inactives-week-14-2025-darious-williams",
@@ -17,14 +17,6 @@
       "source": "CBS Sports",
       "ts": 1764935280.0,
       "published_iso": "2025-12-05T11:48:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-national-storage-teams-up-with-los-angeles-rams-for-historic-nfl-showdown",
-      "title": "National Storage teams up with Los Angeles Rams for historic NFL showdown",
-      "link": "https://therams.com/news/national-storage-teams-up-with-los-angeles-rams-for-historic-nfl-showdown",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1764773640.0,
-      "published_iso": "2025-12-03T14:54:00+00:00"
     }
   ]
 }
