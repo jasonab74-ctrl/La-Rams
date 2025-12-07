@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2025-12-07T18:12:15.950501+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-07T18:43:47.811634+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-ocregister-com-2025-12-06-rams-focused-on-rebounding-in-arizona-not-the-playoffs",
-      "title": "Rams focused on rebounding in Arizona, not the playoffs",
-      "link": "https://ocregister.com/2025/12/06/rams-focused-on-rebounding-in-arizona-not-the-playoffs/",
-      "source": "OC Register",
-      "ts": 1765040400.0,
-      "published_iso": "2025-12-06T17:00:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-hello-kitty-sanrio-collaboration-nfl-exclusive-merchandise",
-      "title": "Rams announce NFL's first-ever collaboration with Sanrio® for exclusive Hello Kitty x Rams merchandise",
-      "link": "https://therams.com/news/hello-kitty-sanrio-collaboration-nfl-exclusive-merchandise",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1764756240.0,
-      "published_iso": "2025-12-03T10:04:00+00:00"
+      "id": "https-latimes-com-sports-rams-live-rams-arizona-cardinals-live-updates-watch-start-time-odds-score-highlights",
+      "title": "Rams vs. Arizona Cardinals: Live updates, how to watch, start time and odds",
+      "link": "https://latimes.com/sports/rams/live/rams-arizona-cardinals-live-updates-watch-start-time-odds-score-highlights",
+      "source": "LA Times",
+      "ts": 1765103520.0,
+      "published_iso": "2025-12-07T10:32:00+00:00"
     }
   ]
 }
