@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-12-07T13:22:48.901268+00:00",
+  "updated_iso": "2025-12-07T13:38:54.941663+00:00",
   "count": 2,
   "items": [
-    {
-      "id": "https-si-com-betting-is-trey-benson-playing-today-injury-update-betting-impact-for-rams-vs-cardinals-01kbjrd3xspy",
-      "title": "Is Trey Benson Playing Today? (Injury Update, Betting Impact for Rams vs. Cardinals)",
-      "link": "https://si.com/betting/is-trey-benson-playing-today-injury-update-betting-impact-for-rams-vs-cardinals-01kbjrd3xspy",
-      "source": "Sports Illustrated",
-      "ts": 1765082220.0,
-      "published_iso": "2025-12-07T04:37:00+00:00"
-    },
     {
       "id": "https-si-com-betting-is-marvin-harrison-jr-playing-today-injury-update-betting-impact-for-rams-vs-cardinals-01kbjr9c9byc",
       "title": "Is Marvin Harrison Jr. Playing Today? (Injury Update, Betting Impact for Rams vs. Cardinals)",
@@ -17,6 +9,14 @@
       "source": "Sports Illustrated",
       "ts": 1765082100.0,
       "published_iso": "2025-12-07T04:35:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-hello-kitty-sanrio-collaboration-nfl-exclusive-merchandise",
+      "title": "Rams announce NFL's first-ever collaboration with Sanrio® for exclusive Hello Kitty x Rams merchandise",
+      "link": "https://therams.com/news/hello-kitty-sanrio-collaboration-nfl-exclusive-merchandise",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1764756240.0,
+      "published_iso": "2025-12-03T10:04:00+00:00"
     }
   ]
 }
