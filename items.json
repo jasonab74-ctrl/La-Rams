@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-12-07T21:31:38.452145+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-07T22:08:08.594369+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-latimes-com-sports-rams-live-rams-arizona-cardinals-live-updates-watch-start-time-odds-score-highlights",
+      "title": "Rams vs. Cardinals live updates: L.A. takes lead on Blake Corum touchdown",
+      "link": "https://latimes.com/sports/rams/live/rams-arizona-cardinals-live-updates-watch-start-time-odds-score-highlights",
+      "source": "LA Times",
+      "ts": 1765116120.0,
+      "published_iso": "2025-12-07T14:02:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-cardinals-inactives-week-14-2025-darious-williams",
+      "title": "Darious Williams among Rams' inactives for Week 14 at Cardinals",
+      "link": "https://therams.com/news/rams-cardinals-inactives-week-14-2025-darious-williams",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1765109340.0,
+      "published_iso": "2025-12-07T12:09:00+00:00"
+    }
+  ]
 }
