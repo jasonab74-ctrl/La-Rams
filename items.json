@@ -1,22 +1,46 @@
 {
-  "updated_iso": "2025-12-07T22:08:08.594369+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-07T22:37:36.056414+00:00",
+  "count": 5,
   "items": [
     {
       "id": "https-latimes-com-sports-rams-live-rams-arizona-cardinals-live-updates-watch-start-time-odds-score-highlights",
-      "title": "Rams vs. Cardinals live updates: L.A. takes lead on Blake Corum touchdown",
+      "title": "Rams vs. Cardinals live updates: L.A. retakes lead on Kyren Williams touchdown",
       "link": "https://latimes.com/sports/rams/live/rams-arizona-cardinals-live-updates-watch-start-time-odds-score-highlights",
       "source": "LA Times",
-      "ts": 1765116120.0,
-      "published_iso": "2025-12-07T14:02:00+00:00"
+      "ts": 1765118220.0,
+      "published_iso": "2025-12-07T14:37:00+00:00"
     },
     {
-      "id": "https-therams-com-news-rams-cardinals-inactives-week-14-2025-darious-williams",
-      "title": "Darious Williams among Rams' inactives for Week 14 at Cardinals",
-      "link": "https://therams.com/news/rams-cardinals-inactives-week-14-2025-darious-williams",
+      "id": "https-therams-com-video-rams-kyren-williams-slices-upfield-on-an-18-yard-dash-cardinals-week-14",
+      "title": "HIGHLIGHTS: Rams RB Kyren Williams slices upfield on an 18-yard dash against the Cardinals",
+      "link": "https://therams.com/video/rams-kyren-williams-slices-upfield-on-an-18-yard-dash-cardinals-week-14",
       "source": "Los Angeles Rams (Official)",
-      "ts": 1765109340.0,
-      "published_iso": "2025-12-07T12:09:00+00:00"
+      "ts": 1765117560.0,
+      "published_iso": "2025-12-07T14:26:00+00:00"
+    },
+    {
+      "id": "https-therams-com-video-rams-puka-nacua-hauls-18-yard-catch-cardinals-week-14-state-farm-stadium",
+      "title": "HIGHLIGHTS: Rams WR Puka Nacua hauls in an 18-yard catch against the Cardinals",
+      "link": "https://therams.com/video/rams-puka-nacua-hauls-18-yard-catch-cardinals-week-14-state-farm-stadium",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1765116960.0,
+      "published_iso": "2025-12-07T14:16:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-rams-vs-cardinals-final-score-prediction-for-nfl-week-14-arizona-will-surprise-los-angeles-in-nfc-w",
+      "title": "Rams vs. Cardinals Final Score Prediction for NFL Week 14 (Arizona Will Surprise Los Angeles in NFC West Duel)",
+      "link": "https://si.com/betting/rams-vs-cardinals-final-score-prediction-for-nfl-week-14-arizona-will-surprise-los-angeles-in-nfc-west-duel-01kbk8h29naq",
+      "source": "Sports Illustrated",
+      "ts": 1765015200.0,
+      "published_iso": "2025-12-06T10:00:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-cardinals-where-to-watch-pick-odds-prediction",
+      "title": "Rams vs. Cardinals prediction: Los Angeles rides its offense to get its get-right win",
+      "link": "https://cbssports.com/nfl/news/rams-vs-cardinals-where-to-watch-pick-odds-prediction/",
+      "source": "CBS Sports",
+      "ts": 1764935280.0,
+      "published_iso": "2025-12-05T11:48:00+00:00"
     }
   ]
 }
