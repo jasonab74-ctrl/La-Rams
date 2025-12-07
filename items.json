@@ -1,23 +1,7 @@
 {
-  "updated_iso": "2025-12-06T23:34:29.224300+00:00",
-  "count": 4,
+  "updated_iso": "2025-12-07T00:50:58.471916+00:00",
+  "count": 2,
   "items": [
-    {
-      "id": "https-espn-com-nfl-story-id-47227310-rams-mcvay-ill-travel-arizona-separate-team",
-      "title": "Rams' McVay ill, will travel to Arizona separate from team",
-      "link": "https://espn.com/nfl/story/_/id/47227310/rams-mcvay-ill-travel-arizona-separate-team",
-      "source": "ESPN",
-      "ts": 1765033800.0,
-      "published_iso": "2025-12-06T15:10:00+00:00"
-    },
-    {
-      "id": "https-ocregister-com-2025-12-06-rams-focused-on-rebounding-in-arizona-not-the-playoffs",
-      "title": "Rams focused on rebounding in Arizona, not the playoffs",
-      "link": "https://ocregister.com/2025/12/06/rams-focused-on-rebounding-in-arizona-not-the-playoffs/",
-      "source": "OC Register",
-      "ts": 1765015380.0,
-      "published_iso": "2025-12-06T10:03:00+00:00"
-    },
     {
       "id": "https-therams-com-news-kyren-williams-rams-club-winner-2025-walter-payton-nfl-man-of-the-year-nationwide",
       "title": "Kyren Williams named the Rams' club winner for Walter Payton NFL Man of the Year Award presented by Nationwide",
