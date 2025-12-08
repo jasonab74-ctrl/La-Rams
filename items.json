@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2025-12-08T04:23:11.856177+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-08T04:49:56.458523+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-react-to-high-stakes-win-over-cardinals",
+      "title": "Rams House React to High-Stakes Win Over Cardinals",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-react-to-high-stakes-win-over-cardinals",
+      "source": "Sports Illustrated",
+      "ts": 1765139820.0,
+      "published_iso": "2025-12-07T20:37:00+00:00"
+    }
+  ]
 }
