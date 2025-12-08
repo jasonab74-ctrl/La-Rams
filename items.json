@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-12-08T22:09:10.848352+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-08T22:39:52.494163+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-turned-back-clock-greatest-185951219-html",
+      "title": "Rams turned back the clock to the ‘Greatest Show on Turf' Sunday",
+      "link": "https://sports.yahoo.com/articles/rams-turned-back-clock-greatest-185951219.html",
+      "source": "Yahoo Sports",
+      "ts": 1765193220.0,
+      "published_iso": "2025-12-08T11:27:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-lions-vs-rams-predictions-early-155400739-html",
+      "title": "Lions vs Rams Predictions",
+      "link": "https://sports.yahoo.com/articles/lions-vs-rams-predictions-early-155400739.html",
+      "source": "Early Picks & Odds for Week 15",
+      "ts": 1765181520.0,
+      "published_iso": "2025-12-08T08:12:00+00:00"
+    }
+  ]
 }
