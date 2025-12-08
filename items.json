@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-12-08T05:12:35.309114+00:00",
-  "count": 1,
+  "updated_iso": "2025-12-08T05:42:31.440869+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-latimes-com-0000019a-fc37-da48-a1fe-fdf709050000-123",
+      "title": "Takeaways from Rams’ win over the Arizona Cardinals",
+      "link": "https://latimes.com/0000019a-fc37-da48-a1fe-fdf709050000-123",
+      "source": "LA Times",
+      "ts": 1765140660.0,
+      "published_iso": "2025-12-07T20:51:00+00:00"
+    },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-react-to-high-stakes-win-over-cardinals",
       "title": "Rams House React to High-Stakes Win Over Cardinals",
