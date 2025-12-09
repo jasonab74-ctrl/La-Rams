@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-12-09T22:38:06.529254+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-09T23:09:26.011353+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-12-09-rams-playoff-clinching-scenarios-87691176007",
+      "title": "Here's how the Rams can clinch a playoff berth in Week 15",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/12/09/rams-playoff-clinching-scenarios/87691176007/",
+      "source": "Rams Wire",
+      "ts": 1765288920.0,
+      "published_iso": "2025-12-09T14:02:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-lions-bring-ex-rams-db-211828819-html",
+      "title": "Lions bring in ex-Rams DB for visit before Week 15 showdown",
+      "link": "https://sports.yahoo.com/articles/lions-bring-ex-rams-db-211828819.html",
+      "source": "Yahoo Sports",
+      "ts": 1765287000.0,
+      "published_iso": "2025-12-09T13:30:00+00:00"
+    },
     {
       "id": "https-therams-com-video-davante-adams-puka-nacua-talent-chemistry-matthew-stafford-golfing-rams-revealed",
       "title": "Davante Adams talks about Puka Nacua's talent, chemistry with Matthew Stafford & love for golfing | Rams Revealed",
@@ -9,6 +25,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1765285380.0,
       "published_iso": "2025-12-09T13:03:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-lions-vs-rams-prediction-odds-spread-injuries-trends-for-nfl-week-15",
+      "title": "Lions vs. Rams Prediction, Odds, Spread, Injuries, Trends for NFL Week 15",
+      "link": "https://si.com/betting/lions-vs-rams-prediction-odds-spread-injuries-trends-for-nfl-week-15",
+      "source": "Sports Illustrated",
+      "ts": 1765284240.0,
+      "published_iso": "2025-12-09T12:44:00+00:00"
     },
     {
       "id": "https-therams-com-audio-rams-revealed-episode-145-davante-adams-eric-yarber-matthew-stafford-mvp-season-tight-end-utiliz",
