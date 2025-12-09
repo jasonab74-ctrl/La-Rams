@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2025-12-09T16:47:43.894428+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-09T17:11:30.408778+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-lions-host-former-rams-safety-132722689-html",
+      "title": "Lions host former Rams safety who was scouted by Brad Holmes himself, a guy Lions fans have been asking about for a while",
+      "link": "https://sports.yahoo.com/articles/lions-host-former-rams-safety-132722689.html",
+      "source": "Yahoo Sports",
+      "ts": 1765270020.0,
+      "published_iso": "2025-12-09T08:47:00+00:00"
+    }
+  ]
 }
