@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-12-09T02:29:19.272678+00:00",
-  "count": 3,
+  "updated_iso": "2025-12-09T03:38:24.801610+00:00",
+  "count": 1,
   "items": [
-    {
-      "id": "https-yahoo-com-entertainment-celebrity-articles-matthew-stafford-daughter-perfectly-replicates-180111886-html",
-      "title": "Matthew Stafford’s Daughter Perfectly Replicates Taylor Swift’s ‘Fate of Ophelia’ Dance at Rams Game",
-      "link": "https://yahoo.com/entertainment/celebrity/articles/matthew-stafford-daughter-perfectly-replicates-180111886.html",
-      "source": "Yahoo",
-      "ts": 1765211580.0,
-      "published_iso": "2025-12-08T16:33:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-rams-answer-wake-call-45-021334934-html",
       "title": "Rams answer last week's wake up call with a 45-point exclamation",
@@ -17,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1765211040.0,
       "published_iso": "2025-12-08T16:24:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-rams-vs-cardinals-where-to-watch-pick-odds-prediction",
-      "title": "Rams vs. Cardinals prediction: Los Angeles rides its offense to get its get-right win",
-      "link": "https://cbssports.com/nfl/news/rams-vs-cardinals-where-to-watch-pick-odds-prediction/",
-      "source": "CBS Sports",
-      "ts": 1764935280.0,
-      "published_iso": "2025-12-05T11:48:00+00:00"
     }
   ]
 }
