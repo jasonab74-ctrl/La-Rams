@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2025-12-09T05:10:19.806956+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-09T05:40:42.638879+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-biggest-winner-rams-28-point-034800258-html",
+      "title": "Biggest Winner in Rams 28-Point Victory over division-rival Cardinals",
+      "link": "https://sports.yahoo.com/articles/biggest-winner-rams-28-point-034800258.html",
+      "source": "Yahoo Sports",
+      "ts": 1765224120.0,
+      "published_iso": "2025-12-08T20:02:00+00:00"
+    }
+  ]
 }
