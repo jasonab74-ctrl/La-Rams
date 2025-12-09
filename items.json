@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-12-09T17:40:39.545764+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-09T18:12:30.739860+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-si-com-betting-lions-vs-rams-prediction-odds-spread-injuries-trends-for-nfl-week-15",
@@ -17,6 +17,14 @@
       "source": "Yahoo Sports",
       "ts": 1765270020.0,
       "published_iso": "2025-12-09T08:47:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-nfl-playoff-picture-rams-surge-163829316-html",
+      "title": "NFL playoff picture: Rams surge back to No. 1 after Week 14 win",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-rams-surge-163829316.html",
+      "source": "Yahoo Sports",
+      "ts": 1765269900.0,
+      "published_iso": "2025-12-09T08:45:00+00:00"
     }
   ]
 }
