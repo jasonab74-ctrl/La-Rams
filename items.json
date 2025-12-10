@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-12-10T11:36:40.968234+00:00",
-  "count": 3,
+  "updated_iso": "2025-12-10T12:19:01.703385+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-biggest-winner-rams-28-point-034800258-html",
@@ -11,12 +11,20 @@
       "published_iso": "2025-12-09T23:14:00+00:00"
     },
     {
-      "id": "https-therams-com-video-davante-adams-puka-nacua-talent-chemistry-matthew-stafford-golfing-rams-revealed",
-      "title": "Davante Adams talks about Puka Nacua's talent, chemistry with Matthew Stafford & love for golfing | Rams Revealed",
-      "link": "https://therams.com/video/davante-adams-puka-nacua-talent-chemistry-matthew-stafford-golfing-rams-revealed",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1765285380.0,
-      "published_iso": "2025-12-09T13:03:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-12-09-rams-playoff-clinching-scenarios-87691176007",
+      "title": "Here's how the Rams can clinch a playoff berth in Week 15",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/12/09/rams-playoff-clinching-scenarios/87691176007/",
+      "source": "Rams Wire",
+      "ts": 1765288920.0,
+      "published_iso": "2025-12-09T14:02:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-lions-vs-rams-prediction-odds-spread-injuries-trends-for-nfl-week-15",
+      "title": "Lions vs. Rams Prediction, Odds, Spread, Injuries, Trends for NFL Week 15",
+      "link": "https://si.com/betting/lions-vs-rams-prediction-odds-spread-injuries-trends-for-nfl-week-15",
+      "source": "Sports Illustrated",
+      "ts": 1765284240.0,
+      "published_iso": "2025-12-09T12:44:00+00:00"
     },
     {
       "id": "https-therams-com-audio-rams-revealed-episode-145-davante-adams-eric-yarber-matthew-stafford-mvp-season-tight-end-utiliz",
