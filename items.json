@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-12-10T22:09:44.149365+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-10T22:40:53.930906+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-why-lions-no-chance-slow-205300826-html",
+      "title": "Why Lions have no chance to slow down Matthew Stafford, Rams offense in Week 15",
+      "link": "https://sports.yahoo.com/articles/why-lions-no-chance-slow-205300826.html",
+      "source": "Yahoo Sports",
+      "ts": 1765376520.0,
+      "published_iso": "2025-12-10T14:22:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-puka-nacua-rams-locker-room-172218974-html",
+      "title": "Puka Nacua’s Rams locker room livestream gets awkward — and fans aren’t happy",
+      "link": "https://sports.yahoo.com/articles/puka-nacua-rams-locker-room-172218974.html",
+      "source": "Yahoo Sports",
+      "ts": 1765374540.0,
+      "published_iso": "2025-12-10T13:49:00+00:00"
+    }
+  ]
 }
