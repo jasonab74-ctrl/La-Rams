@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2025-12-10T21:10:23.697230+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-10T21:40:18.341905+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-predicted-land-tone-setting-183131302-html",
-      "title": "Rams predicted to land 'tone-setting defender' with Falcons pick in 2026 mock draft",
-      "link": "https://sports.yahoo.com/articles/rams-predicted-land-tone-setting-183131302.html",
+      "id": "https-sports-yahoo-com-articles-nfl-facing-punishment-decision-rams-125200754-html",
+      "title": "NFL Facing Punishment Decision on Rams-Cardinals Incident",
+      "link": "https://sports.yahoo.com/articles/nfl-facing-punishment-decision-rams-125200754.html",
       "source": "Yahoo Sports",
-      "ts": 1765364160.0,
-      "published_iso": "2025-12-10T10:56:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-vs-detroit-lions-how-to-watch-listen-to-and-live-stream-week-15-2025",
-      "title": "Los Angeles Rams vs. Detroit Lions: How to watch, listen to and live stream Week 15",
-      "link": "https://therams.com/news/los-angeles-rams-vs-detroit-lions-how-to-watch-listen-to-and-live-stream-week-15-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1765363200.0,
-      "published_iso": "2025-12-10T10:40:00+00:00"
+      "ts": 1765354920.0,
+      "published_iso": "2025-12-10T08:22:00+00:00"
     }
   ]
 }
