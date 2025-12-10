@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-12-10T13:09:05.846764+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-10T13:52:32.094088+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-bleacherreport-com-articles-25322785-jets-raiders-rams-projected-land-qbs-field-yates-latest-2026-nfl-mock-draft",
+      "title": "Jets, Raiders, Rams Projected to Land QBs in Field Yates' Latest 2026 NFL Mock Draft",
+      "link": "https://bleacherreport.com/articles/25322785-jets-raiders-rams-projected-land-qbs-field-yates-latest-2026-nfl-mock-draft",
+      "source": "Bleacher Report",
+      "ts": 1765344360.0,
+      "published_iso": "2025-12-10T05:26:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-biggest-winner-rams-28-point-034800258-html",
       "title": "Rams OC helps Stafford and Co. take big step in bid for No. 1 Seed",
