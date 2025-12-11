@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-12-11T13:53:28.248938+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-11T14:13:21.086055+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-davante-adams-reflects-on-shared-stafford-timeline",
@@ -9,14 +9,6 @@
       "source": "Sports Illustrated",
       "ts": 1765407720.0,
       "published_iso": "2025-12-10T23:02:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-articles-nfl-rams-vs-lions-injury-report-week-15-2025",
-      "title": "Rams vs. Lions Injury Report",
-      "link": "https://foxsports.com/articles/nfl/rams-vs-lions-injury-report-week-15-2025",
-      "source": "Week 15, 2025",
-      "ts": 1765395840.0,
-      "published_iso": "2025-12-10T19:44:00+00:00"
     }
   ]
 }
