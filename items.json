@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-12-11T11:37:08.345264+00:00",
-  "count": 4,
+  "updated_iso": "2025-12-11T12:20:08.473861+00:00",
+  "count": 3,
   "items": [
-    {
-      "id": "https-latimes-com-sports-story-2025-12-11-nfl-week-15-picks-score-predictions-against-spead-odds",
-      "title": "NFL Week 15 picks: Rams prevail over Lions; Broncos defeat Packers",
-      "link": "https://latimes.com/sports/story/2025-12-11/nfl-week-15-picks-score-predictions-against-spead-odds",
-      "source": "LA Times",
-      "ts": 1765422000.0,
-      "published_iso": "2025-12-11T03:00:00+00:00"
-    },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-davante-adams-reflects-on-shared-stafford-timeline",
       "title": "Rams' Davante Adams Reflects on Shared Stafford Timeline",
@@ -27,12 +19,12 @@
       "published_iso": "2025-12-10T22:24:00+00:00"
     },
     {
-      "id": "https-therams-com-news-los-angeles-rams-vs-detroit-lions-how-to-watch-listen-to-and-live-stream-week-15-2025",
-      "title": "Los Angeles Rams vs. Detroit Lions: How to watch, listen to and live stream Week 15",
-      "link": "https://therams.com/news/los-angeles-rams-vs-detroit-lions-how-to-watch-listen-to-and-live-stream-week-15-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1765363200.0,
-      "published_iso": "2025-12-10T10:40:00+00:00"
+      "id": "https-foxsports-com-articles-nfl-rams-vs-lions-injury-report-week-15-2025",
+      "title": "Rams vs. Lions Injury Report",
+      "link": "https://foxsports.com/articles/nfl/rams-vs-lions-injury-report-week-15-2025",
+      "source": "Week 15, 2025",
+      "ts": 1765395840.0,
+      "published_iso": "2025-12-10T19:44:00+00:00"
     }
   ]
 }
