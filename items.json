@@ -1,30 +1,14 @@
 {
-  "updated_iso": "2025-12-11T06:15:59.384506+00:00",
-  "count": 3,
+  "updated_iso": "2025-12-11T06:53:17.339193+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-davante-adams-reflects-on-shared-stafford-timeline",
-      "title": "Rams' Davante Adams Reflects on Shared Stafford Timeline",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-davante-adams-reflects-on-shared-stafford-timeline",
-      "source": "Sports Illustrated",
-      "ts": 1765393980.0,
-      "published_iso": "2025-12-10T19:13:00+00:00"
-    },
-    {
-      "id": "https-ocregister-com-2025-12-10-matthew-stafford-not-focused-on-mvp-talk-even-as-it-comes-from-rams-locker-room",
-      "title": "Matthew Stafford not focused on MVP talk, even as it comes from Rams’ locker room",
-      "link": "https://ocregister.com/2025/12/10/matthew-stafford-not-focused-on-mvp-talk-even-as-it-comes-from-rams-locker-room/",
-      "source": "OC Register",
-      "ts": 1765380960.0,
-      "published_iso": "2025-12-10T15:36:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-vs-detroit-lions-how-to-watch-listen-to-and-live-stream-week-15-2025",
-      "title": "Los Angeles Rams vs. Detroit Lions: How to watch, listen to and live stream Week 15",
-      "link": "https://therams.com/news/los-angeles-rams-vs-detroit-lions-how-to-watch-listen-to-and-live-stream-week-15-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1765363200.0,
-      "published_iso": "2025-12-10T10:40:00+00:00"
+      "id": "https-sports-yahoo-com-articles-rams-look-clinch-playoff-spot-060600562-html",
+      "title": "Rams look to clinch playoff spot against Lions high-powered offensive attack",
+      "link": "https://sports.yahoo.com/articles/rams-look-clinch-playoff-spot-060600562.html",
+      "source": "Yahoo Sports",
+      "ts": 1765405440.0,
+      "published_iso": "2025-12-10T22:24:00+00:00"
     }
   ]
 }
