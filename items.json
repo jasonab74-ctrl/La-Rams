@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2025-12-11T14:42:00.912916+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-11T15:11:13.159859+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-jared-goff-sounds-ready-move-150423533-html",
+      "title": "Jared Goff sounds ready to move on from narrative surrounding Rams-Lions trade",
+      "link": "https://sports.yahoo.com/articles/jared-goff-sounds-ready-move-150423533.html",
+      "source": "Yahoo Sports",
+      "ts": 1765436880.0,
+      "published_iso": "2025-12-11T07:08:00+00:00"
+    }
+  ]
 }
