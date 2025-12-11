@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-12-11T07:15:30.208877+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-11T07:40:29.966392+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-davante-adams-reflects-on-shared-stafford-timeline",
@@ -9,14 +9,6 @@
       "source": "Sports Illustrated",
       "ts": 1765407720.0,
       "published_iso": "2025-12-10T23:02:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-look-clinch-playoff-spot-060600562-html",
-      "title": "Rams look to clinch playoff spot against Lions high-powered offensive attack",
-      "link": "https://sports.yahoo.com/articles/rams-look-clinch-playoff-spot-060600562.html",
-      "source": "Yahoo Sports",
-      "ts": 1765405440.0,
-      "published_iso": "2025-12-10T22:24:00+00:00"
     }
   ]
 }
