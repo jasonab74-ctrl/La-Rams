@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-12-12T17:09:14.514193+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-12T17:40:33.213593+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-lions-playoff-odds-revealed-3-160208854-html",
+      "title": "Lions' playoff odds revealed with 3 key percentages for Week 15 vs. Rams",
+      "link": "https://sports.yahoo.com/articles/lions-playoff-odds-revealed-3-160208854.html",
+      "source": "Yahoo Sports",
+      "ts": 1765527960.0,
+      "published_iso": "2025-12-12T08:26:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-lions-news-national-predictions-detroit-160000111-html",
+      "title": "Lions News: National predictions for Detroit Lions vs. Los Angeles Rams",
+      "link": "https://sports.yahoo.com/articles/lions-news-national-predictions-detroit-160000111.html",
+      "source": "Yahoo Sports",
+      "ts": 1765526880.0,
+      "published_iso": "2025-12-12T08:08:00+00:00"
+    }
+  ]
 }
