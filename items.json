@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2025-12-12T13:07:06.904712+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-12T13:49:04.673175+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-si-com-nfl-lions-onsi-news-who-holds-edge-in-lions-rams-matchup",
+      "title": "Who Holds Edge in Lions-Rams Matchup?",
+      "link": "https://si.com/nfl/lions/onsi/news/who-holds-edge-in-lions-rams-matchup",
+      "source": "Sports Illustrated",
+      "ts": 1765514460.0,
+      "published_iso": "2025-12-12T04:41:00+00:00"
+    },
+    {
+      "id": "https-apnews-com-article-rams-lions-preview-stafford-goff-86233e04fcdbfb630c13687163f3f634",
+      "title": "Stafford’s Rams host Goff’s Lions in another high-stakes meeting nearly 5 years after win-win trade",
+      "link": "https://apnews.com/article/rams-lions-preview-stafford-goff-86233e04fcdbfb630c13687163f3f634",
+      "source": "AP News",
+      "ts": 1765470300.0,
+      "published_iso": "2025-12-11T16:25:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-look-clinch-playoff-spot-060600562-html",
+      "title": "Rams look to clinch playoff spot against Lions high-powered offensive attack",
+      "link": "https://sports.yahoo.com/articles/rams-look-clinch-playoff-spot-060600562.html",
+      "source": "Yahoo Sports",
+      "ts": 1765405440.0,
+      "published_iso": "2025-12-10T22:24:00+00:00"
+    }
+  ]
 }
