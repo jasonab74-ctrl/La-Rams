@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-12-12T20:10:47.614642+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-12T20:40:52.210314+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-lions-vs-rams-predictions-picks-191600177-html",
+      "title": "Lions vs Rams Predictions, Picks & Best Bets for NFL Week 15",
+      "link": "https://sports.yahoo.com/articles/lions-vs-rams-predictions-picks-191600177.html",
+      "source": "Yahoo Sports",
+      "ts": 1765542360.0,
+      "published_iso": "2025-12-12T12:26:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-lions-offensive-key-victory-over-164602531-html",
       "title": "The Lions' offensive key to victory over the Rams is to beat them the way the Chiefs beat Detroit's defense",
