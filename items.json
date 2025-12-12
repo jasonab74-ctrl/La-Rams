@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-12-12T15:41:17.369782+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-12T16:10:41.324273+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-2025-rams-most-dominant-sean-155557730-html",
+      "title": "2025 Rams are the most dominant in the Sean McVay era",
+      "link": "https://sports.yahoo.com/articles/2025-rams-most-dominant-sean-155557730.html",
+      "source": "Yahoo Sports",
+      "ts": 1765526520.0,
+      "published_iso": "2025-12-12T08:02:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-lions-onsi-news-who-holds-edge-in-lions-rams-matchup",
+      "title": "Who Holds Edge in Lions-Rams Matchup?",
+      "link": "https://si.com/nfl/lions/onsi/news/who-holds-edge-in-lions-rams-matchup",
+      "source": "Sports Illustrated",
+      "ts": 1765526280.0,
+      "published_iso": "2025-12-12T07:58:00+00:00"
+    }
+  ]
 }
