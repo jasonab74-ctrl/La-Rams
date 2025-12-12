@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-12-12T21:08:08.823002+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-12T21:35:38.457156+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-best-lions-vs-rams-same-203400423-html",
@@ -17,6 +17,14 @@
       "source": "Yahoo Sports",
       "ts": 1765542360.0,
       "published_iso": "2025-12-12T12:26:00+00:00"
+    },
+    {
+      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-how-los-angeles-rams-can-clinch-playoff-spot-nfl-week-15-2a25f9a83a0",
+      "title": "How the Los Angeles Rams can clinch a playoff spot in NFL Week 15",
+      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/how-los-angeles-rams-can-clinch-playoff-spot-nfl-week-15/2a25f9a83a0ea619e0bc80dc",
+      "source": "Sporting News",
+      "ts": 1765541400.0,
+      "published_iso": "2025-12-12T12:10:00+00:00"
     }
   ]
 }
