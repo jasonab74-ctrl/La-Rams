@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-12-12T20:40:52.210314+00:00",
-  "count": 3,
+  "updated_iso": "2025-12-12T21:08:08.823002+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-best-lions-vs-rams-same-203400423-html",
+      "title": "Best Lions vs Rams Same Game Parlay for Week 15",
+      "link": "https://sports.yahoo.com/articles/best-lions-vs-rams-same-203400423.html",
+      "source": "Yahoo Sports",
+      "ts": 1765543980.0,
+      "published_iso": "2025-12-12T12:53:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-lions-vs-rams-predictions-picks-191600177-html",
       "title": "Lions vs Rams Predictions, Picks & Best Bets for NFL Week 15",
@@ -9,22 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1765542360.0,
       "published_iso": "2025-12-12T12:26:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-lions-offensive-key-victory-over-164602531-html",
-      "title": "The Lions' offensive key to victory over the Rams is to beat them the way the Chiefs beat Detroit's defense",
-      "link": "https://sports.yahoo.com/articles/lions-offensive-key-victory-over-164602531.html",
-      "source": "Yahoo Sports",
-      "ts": 1765541100.0,
-      "published_iso": "2025-12-12T12:05:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-watch-fmc-rp9b4sr0tezaidca",
-      "title": "Blazin’ 5 for Week 15: Bengals, Rams, and Packers cover, Who will win Colts vs. Seahawks? | The Herd",
-      "link": "https://foxsports.com/watch/fmc-rp9b4sr0tezaidca",
-      "source": "FOX Sports",
-      "ts": 1765537020.0,
-      "published_iso": "2025-12-12T10:57:00+00:00"
     }
   ]
 }
