@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-12-12T22:40:21.195012+00:00",
-  "count": 4,
+  "updated_iso": "2025-12-12T23:09:32.942726+00:00",
+  "count": 5,
   "items": [
     {
       "id": "https-si-com-nfl-lions-onsi-news-two-detroit-lions-ruled-out-against-rams-seven-questionable",
@@ -25,6 +25,14 @@
       "source": "Yahoo Sports",
       "ts": 1765543980.0,
       "published_iso": "2025-12-12T12:53:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-lions-vs-rams-predictions-picks-191600177-html",
+      "title": "Lions vs Rams Predictions, Picks & Best Bets for NFL Week 15",
+      "link": "https://sports.yahoo.com/articles/lions-vs-rams-predictions-picks-191600177.html",
+      "source": "Yahoo Sports",
+      "ts": 1765542360.0,
+      "published_iso": "2025-12-12T12:26:00+00:00"
     },
     {
       "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-how-los-angeles-rams-can-clinch-playoff-spot-nfl-week-15-2a25f9a83a0",
