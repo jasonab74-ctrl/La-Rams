@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-12-12T16:10:41.324273+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-12T16:45:01.676728+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-2025-rams-most-dominant-sean-155557730-html",
-      "title": "2025 Rams are the most dominant in the Sean McVay era",
-      "link": "https://sports.yahoo.com/articles/2025-rams-most-dominant-sean-155557730.html",
+      "id": "https-sports-yahoo-com-articles-lions-playoff-odds-revealed-3-160208854-html",
+      "title": "Lions' playoff odds revealed with 3 key percentages for Week 15 vs. Rams",
+      "link": "https://sports.yahoo.com/articles/lions-playoff-odds-revealed-3-160208854.html",
       "source": "Yahoo Sports",
-      "ts": 1765526520.0,
-      "published_iso": "2025-12-12T08:02:00+00:00"
+      "ts": 1765527960.0,
+      "published_iso": "2025-12-12T08:26:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-lions-news-national-predictions-detroit-160000111-html",
+      "title": "Lions News: National predictions for Detroit Lions vs. Los Angeles Rams",
+      "link": "https://sports.yahoo.com/articles/lions-news-national-predictions-detroit-160000111.html",
+      "source": "Yahoo Sports",
+      "ts": 1765526880.0,
+      "published_iso": "2025-12-12T08:08:00+00:00"
     },
     {
       "id": "https-si-com-nfl-lions-onsi-news-who-holds-edge-in-lions-rams-matchup",
