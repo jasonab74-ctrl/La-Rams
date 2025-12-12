@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-12-12T19:33:55.049687+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-12T20:10:47.614642+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-lions-offensive-key-victory-over-164602531-html",
+      "title": "The Lions' offensive key to victory over the Rams is to beat them the way the Chiefs beat Detroit's defense",
+      "link": "https://sports.yahoo.com/articles/lions-offensive-key-victory-over-164602531.html",
+      "source": "Yahoo Sports",
+      "ts": 1765541100.0,
+      "published_iso": "2025-12-12T12:05:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-watch-fmc-rp9b4sr0tezaidca",
+      "title": "Blazin’ 5 for Week 15: Bengals, Rams, and Packers cover, Who will win Colts vs. Seahawks? | The Herd",
+      "link": "https://foxsports.com/watch/fmc-rp9b4sr0tezaidca",
+      "source": "FOX Sports",
+      "ts": 1765537020.0,
+      "published_iso": "2025-12-12T10:57:00+00:00"
+    }
+  ]
 }
