@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-12-12T23:09:32.942726+00:00",
-  "count": 5,
+  "updated_iso": "2025-12-12T23:35:54.940551+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-si-com-nfl-lions-onsi-news-two-detroit-lions-ruled-out-against-rams-seven-questionable",
-      "title": "Two Detroit Lions Ruled Out Against Rams, 7 Questionable",
-      "link": "https://si.com/nfl/lions/onsi/news/two-detroit-lions-ruled-out-against-rams-seven-questionable",
-      "source": "Sports Illustrated",
-      "ts": 1765547040.0,
-      "published_iso": "2025-12-12T13:44:00+00:00"
+      "id": "https-sports-yahoo-com-articles-rams-vs-lions-injury-report-230833967-html",
+      "title": "Rams vs. Lions injury report: Davante Adams, 7 Lions questionable",
+      "link": "https://sports.yahoo.com/articles/rams-vs-lions-injury-report-230833967.html",
+      "source": "Yahoo Sports",
+      "ts": 1765552620.0,
+      "published_iso": "2025-12-12T15:17:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-videos-blazin-5-week-15-bengals-184115384-html",
+      "title": "Blazin’ 5 for Week 15: Bengals, Rams, and Packers cover, Who will win Colts vs. Seahawks? | The Herd",
+      "link": "https://yahoo.com/news/videos/blazin-5-week-15-bengals-184115384.html",
+      "source": "Yahoo",
+      "ts": 1765551660.0,
+      "published_iso": "2025-12-12T15:01:00+00:00"
     },
     {
       "id": "https-ocregister-com-2025-12-12-rams-expect-wr-davante-adams-to-play-vs-lions",
@@ -25,22 +33,6 @@
       "source": "Yahoo Sports",
       "ts": 1765543980.0,
       "published_iso": "2025-12-12T12:53:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-lions-vs-rams-predictions-picks-191600177-html",
-      "title": "Lions vs Rams Predictions, Picks & Best Bets for NFL Week 15",
-      "link": "https://sports.yahoo.com/articles/lions-vs-rams-predictions-picks-191600177.html",
-      "source": "Yahoo Sports",
-      "ts": 1765542360.0,
-      "published_iso": "2025-12-12T12:26:00+00:00"
-    },
-    {
-      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-how-los-angeles-rams-can-clinch-playoff-spot-nfl-week-15-2a25f9a83a0",
-      "title": "How the Los Angeles Rams can clinch a playoff spot in NFL Week 15",
-      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/how-los-angeles-rams-can-clinch-playoff-spot-nfl-week-15/2a25f9a83a0ea619e0bc80dc",
-      "source": "Sporting News",
-      "ts": 1765541400.0,
-      "published_iso": "2025-12-12T12:10:00+00:00"
     }
   ]
 }
