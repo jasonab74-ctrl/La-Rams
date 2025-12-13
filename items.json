@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2025-12-13T13:40:44.284063+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-13T14:07:59.637444+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-latimes-com-0000019b-163c-d522-ab9f-b6fc49930000-123",
+      "title": "Rams look to clinch playoff berth with win over Lions",
+      "link": "https://latimes.com/0000019b-163c-d522-ab9f-b6fc49930000-123",
+      "source": "LA Times",
+      "ts": 1765579080.0,
+      "published_iso": "2025-12-12T22:38:00+00:00"
+    }
+  ]
 }
