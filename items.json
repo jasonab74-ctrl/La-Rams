@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-12-13T07:36:28.193815+00:00",
-  "count": 4,
+  "updated_iso": "2025-12-13T08:11:59.382881+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-latimes-com-0000019b-163c-d522-ab9f-b6fc49930000-123",
@@ -25,14 +25,6 @@
       "source": "Sporting News",
       "ts": 1765541400.0,
       "published_iso": "2025-12-12T12:10:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-lions-news-national-predictions-detroit-160000111-html",
-      "title": "Lions News: National predictions for Detroit Lions vs. Los Angeles Rams",
-      "link": "https://sports.yahoo.com/articles/lions-news-national-predictions-detroit-160000111.html",
-      "source": "Yahoo Sports",
-      "ts": 1765526880.0,
-      "published_iso": "2025-12-12T08:08:00+00:00"
     }
   ]
 }
