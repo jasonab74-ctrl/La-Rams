@@ -1,5 +1,5 @@
 {
-  "updated_iso": "2025-12-13T10:40:05.381301+00:00",
+  "updated_iso": "2025-12-13T11:07:17.019435+00:00",
   "count": 3,
   "items": [
     {
@@ -11,20 +11,20 @@
       "published_iso": "2025-12-12T22:38:00+00:00"
     },
     {
-      "id": "https-ocregister-com-2025-12-12-rams-expect-wr-davante-adams-to-play-vs-lions",
-      "title": "Rams expect WR Davante Adams to play vs. Lions",
-      "link": "https://ocregister.com/2025/12/12/rams-expect-wr-davante-adams-to-play-vs-lions/",
-      "source": "OC Register",
-      "ts": 1765570260.0,
-      "published_iso": "2025-12-12T20:11:00+00:00"
-    },
-    {
       "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-how-los-angeles-rams-can-clinch-playoff-spot-nfl-week-15-2a25f9a83a0",
       "title": "How the Los Angeles Rams can clinch a playoff spot in NFL Week 15",
       "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/how-los-angeles-rams-can-clinch-playoff-spot-nfl-week-15/2a25f9a83a0ea619e0bc80dc",
       "source": "Sporting News",
       "ts": 1765541400.0,
       "published_iso": "2025-12-12T12:10:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-lions-news-national-predictions-detroit-160000111-html",
+      "title": "Lions News: National predictions for Detroit Lions vs. Los Angeles Rams",
+      "link": "https://sports.yahoo.com/articles/lions-news-national-predictions-detroit-160000111.html",
+      "source": "Yahoo Sports",
+      "ts": 1765526880.0,
+      "published_iso": "2025-12-12T08:08:00+00:00"
     }
   ]
 }
