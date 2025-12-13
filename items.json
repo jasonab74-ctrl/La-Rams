@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-12-13T10:09:01.276739+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-13T10:40:05.381301+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-latimes-com-0000019b-163c-d522-ab9f-b6fc49930000-123",
@@ -17,6 +17,14 @@
       "source": "OC Register",
       "ts": 1765570260.0,
       "published_iso": "2025-12-12T20:11:00+00:00"
+    },
+    {
+      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-how-los-angeles-rams-can-clinch-playoff-spot-nfl-week-15-2a25f9a83a0",
+      "title": "How the Los Angeles Rams can clinch a playoff spot in NFL Week 15",
+      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/how-los-angeles-rams-can-clinch-playoff-spot-nfl-week-15/2a25f9a83a0ea619e0bc80dc",
+      "source": "Sporting News",
+      "ts": 1765541400.0,
+      "published_iso": "2025-12-12T12:10:00+00:00"
     }
   ]
 }
