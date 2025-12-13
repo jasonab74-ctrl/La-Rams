@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-12-12T23:35:54.940551+00:00",
-  "count": 4,
+  "updated_iso": "2025-12-13T00:43:23.536808+00:00",
+  "count": 2,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-rams-vs-lions-injury-report-230833967-html",
-      "title": "Rams vs. Lions injury report: Davante Adams, 7 Lions questionable",
-      "link": "https://sports.yahoo.com/articles/rams-vs-lions-injury-report-230833967.html",
-      "source": "Yahoo Sports",
-      "ts": 1765552620.0,
-      "published_iso": "2025-12-12T15:17:00+00:00"
-    },
     {
       "id": "https-yahoo-com-news-videos-blazin-5-week-15-bengals-184115384-html",
       "title": "Blazin’ 5 for Week 15: Bengals, Rams, and Packers cover, Who will win Colts vs. Seahawks? | The Herd",
@@ -17,14 +9,6 @@
       "source": "Yahoo",
       "ts": 1765551660.0,
       "published_iso": "2025-12-12T15:01:00+00:00"
-    },
-    {
-      "id": "https-ocregister-com-2025-12-12-rams-expect-wr-davante-adams-to-play-vs-lions",
-      "title": "Rams expect WR Davante Adams to play vs. Lions",
-      "link": "https://ocregister.com/2025/12/12/rams-expect-wr-davante-adams-to-play-vs-lions/",
-      "source": "OC Register",
-      "ts": 1765545300.0,
-      "published_iso": "2025-12-12T13:15:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-best-lions-vs-rams-same-203400423-html",
