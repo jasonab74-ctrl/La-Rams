@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-12-13T21:33:11.780532+00:00",
-  "count": 1,
+  "updated_iso": "2025-12-13T22:08:06.456088+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-activate-receiver-off-ir-194950968-html",
+      "title": "Rams activate receiver off IR before Lions game",
+      "link": "https://sports.yahoo.com/articles/rams-activate-receiver-off-ir-194950968.html",
+      "source": "Yahoo Sports",
+      "ts": 1765633080.0,
+      "published_iso": "2025-12-13T13:38:00+00:00"
+    },
     {
       "id": "https-cbssports-com-nfl-news-rams-vs-lions-where-to-watch-pick-odds-prediction",
       "title": "Rams vs. Lions prediction: Detroit will cover in a high-scoring game against a battle-tested Los Angeles squad",
@@ -9,6 +17,14 @@
       "source": "CBS Sports",
       "ts": 1765626840.0,
       "published_iso": "2025-12-13T11:54:00+00:00"
+    },
+    {
+      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-los-angeles-rams-can-accomplish-something-no-team-ever-has-c5e017abb",
+      "title": "The Los Angeles Rams have the chance accomplish something no team ever has",
+      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/los-angeles-rams-can-accomplish-something-no-team-ever-has/c5e017abb8b67de7fb9c69cc",
+      "source": "Sporting News",
+      "ts": 1765555260.0,
+      "published_iso": "2025-12-12T16:01:00+00:00"
     }
   ]
 }
