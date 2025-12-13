@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-12-13T02:26:02.676126+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-13T03:34:50.805089+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-1937-stafford-goff-look-rams-023605477-html",
+      "title": "From 1937 to Stafford-Goff: A Look at Rams-Lions History",
+      "link": "https://sports.yahoo.com/articles/1937-stafford-goff-look-rams-023605477.html",
+      "source": "Yahoo Sports",
+      "ts": 1765565940.0,
+      "published_iso": "2025-12-12T18:59:00+00:00"
+    },
+    {
+      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-how-los-angeles-rams-can-clinch-playoff-spot-nfl-week-15-2a25f9a83a0",
+      "title": "How the Los Angeles Rams can clinch a playoff spot in NFL Week 15",
+      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/how-los-angeles-rams-can-clinch-playoff-spot-nfl-week-15/2a25f9a83a0ea619e0bc80dc",
+      "source": "Sporting News",
+      "ts": 1765541400.0,
+      "published_iso": "2025-12-12T12:10:00+00:00"
+    }
+  ]
 }
