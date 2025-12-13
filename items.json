@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-12-13T21:07:25.154046+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-13T21:33:11.780532+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-cbssports-com-nfl-news-rams-vs-lions-where-to-watch-pick-odds-prediction",
@@ -9,14 +9,6 @@
       "source": "CBS Sports",
       "ts": 1765626840.0,
       "published_iso": "2025-12-13T11:54:00+00:00"
-    },
-    {
-      "id": "https-therams-com-video-rams-360-kam-curl-micd-up-davante-adams-rams-revealed-qb-1-on-1-tyler-higbee",
-      "title": "Rams 360: Kam Curl Mic'd Up, Davante Adams on Rams Revealed, QB 1 on 1 with Tyler Higbee & more",
-      "link": "https://therams.com/video/rams-360-kam-curl-micd-up-davante-adams-rams-revealed-qb-1-on-1-tyler-higbee",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1765617060.0,
-      "published_iso": "2025-12-13T09:11:00+00:00"
     }
   ]
 }
