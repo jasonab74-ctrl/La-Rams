@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-12-13T17:35:49.100906+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-13T18:12:06.929642+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-therams-com-news-top-rams-news-previews-and-predictions-for-rams-vs-lions-in-week-15-2025",
@@ -17,6 +17,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1765617060.0,
       "published_iso": "2025-12-13T09:11:00+00:00"
+    },
+    {
+      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-how-los-angeles-rams-can-clinch-playoff-spot-nfl-week-15-2a25f9a83a0",
+      "title": "How the Los Angeles Rams can clinch a playoff spot in NFL Week 15",
+      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/how-los-angeles-rams-can-clinch-playoff-spot-nfl-week-15/2a25f9a83a0ea619e0bc80dc",
+      "source": "Sporting News",
+      "ts": 1765541400.0,
+      "published_iso": "2025-12-12T12:10:00+00:00"
     }
   ]
 }
