@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-12-14T04:51:22.833414+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-14T05:11:01.662040+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-los-angeles-rams-can-accomplish-something-no-team-ever-has-c5e017abb",
+      "title": "The Los Angeles Rams have the chance accomplish something no team ever has",
+      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/los-angeles-rams-can-accomplish-something-no-team-ever-has/c5e017abb8b67de7fb9c69cc",
+      "source": "Sporting News",
+      "ts": 1765634640.0,
+      "published_iso": "2025-12-13T14:04:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-lions-where-to-watch-pick-odds-prediction",
+      "title": "Rams vs. Lions prediction: Detroit will cover in a high-scoring game against a battle-tested Los Angeles squad",
+      "link": "https://cbssports.com/nfl/news/rams-vs-lions-where-to-watch-pick-odds-prediction/",
+      "source": "CBS Sports",
+      "ts": 1765626840.0,
+      "published_iso": "2025-12-13T11:54:00+00:00"
+    }
+  ]
 }
