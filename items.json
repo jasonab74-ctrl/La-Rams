@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-12-14T13:41:05.463908+00:00",
-  "count": 4,
+  "updated_iso": "2025-12-14T14:08:22.795620+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-vs-lions-radio-coverage-132001709-html",
@@ -17,14 +17,6 @@
       "source": "Sports Illustrated",
       "ts": 1765687260.0,
       "published_iso": "2025-12-14T04:41:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-lions-vs-rams-props-best-120000334-html",
-      "title": "Lions vs Rams Props & Best Bets for Week 15",
-      "link": "https://sports.yahoo.com/articles/lions-vs-rams-props-best-120000334.html",
-      "source": "Yahoo Sports",
-      "ts": 1765685700.0,
-      "published_iso": "2025-12-14T04:15:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-rams-vs-lions-where-to-watch-pick-odds-prediction",
