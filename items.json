@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-12-14T09:37:21.130204+00:00",
+  "updated_iso": "2025-12-14T10:09:01.957787+00:00",
   "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-channel-rams-vs-lions-today-085001311-html",
-      "title": "What channel is Rams vs. Lions on today? Live stream, time, TV schedule to watch NFL Week 15 game",
-      "link": "https://sports.yahoo.com/articles/channel-rams-vs-lions-today-085001311.html",
+      "id": "https-sports-yahoo-com-articles-rams-lions-preview-capsule-top-095212525-html",
+      "title": "Rams-Lions Preview Capsule: Top prop players to watch",
+      "link": "https://sports.yahoo.com/articles/rams-lions-preview-capsule-top-095212525.html",
       "source": "Yahoo Sports",
-      "ts": 1765674120.0,
-      "published_iso": "2025-12-14T01:02:00+00:00"
+      "ts": 1765677420.0,
+      "published_iso": "2025-12-14T01:57:00+00:00"
+    },
+    {
+      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-los-angeles-rams-can-accomplish-something-no-team-ever-has-c5e017abb",
+      "title": "The Los Angeles Rams have the chance accomplish something no team ever has",
+      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/los-angeles-rams-can-accomplish-something-no-team-ever-has/c5e017abb8b67de7fb9c69cc",
+      "source": "Sporting News",
+      "ts": 1765634640.0,
+      "published_iso": "2025-12-13T14:04:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-rams-vs-lions-where-to-watch-pick-odds-prediction",
@@ -17,14 +25,6 @@
       "source": "CBS Sports",
       "ts": 1765626840.0,
       "published_iso": "2025-12-13T11:54:00+00:00"
-    },
-    {
-      "id": "https-therams-com-video-rams-360-kam-curl-micd-up-davante-adams-rams-revealed-qb-1-on-1-tyler-higbee",
-      "title": "Rams 360: Kam Curl Mic'd Up, Davante Adams on Rams Revealed, QB 1 on 1 with Tyler Higbee & more",
-      "link": "https://therams.com/video/rams-360-kam-curl-micd-up-davante-adams-rams-revealed-qb-1-on-1-tyler-higbee",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1765617060.0,
-      "published_iso": "2025-12-13T09:11:00+00:00"
     }
   ]
 }
