@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-12-14T15:36:10.692403+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-14T16:10:18.433195+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-sean-mcvay-details-final-preparations-lions-showdown",
+      "title": "Rams Sean McVay Details Final Preparations For Lions' Showdown",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-sean-mcvay-details-final-preparations-lions-showdown",
+      "source": "Sports Illustrated",
+      "ts": 1765699200.0,
+      "published_iso": "2025-12-14T08:00:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-best-nfl-picks-and-predictions-today-for-week-15-bet-rams-to-cruise-past-lions-01kcaeq73q0c",
+      "title": "Best NFL Picks and Predictions Today for Week 15 (Bet Rams to Cruise Past Lions)",
+      "link": "https://si.com/betting/best-nfl-picks-and-predictions-today-for-week-15-bet-rams-to-cruise-past-lions-01kcaeq73q0c",
+      "source": "Sports Illustrated",
+      "ts": 1765699200.0,
+      "published_iso": "2025-12-14T08:00:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-vs-lions-radio-coverage-132001709-html",
       "title": "Rams vs. Lions radio coverage: Station, channel, streaming to listen live to NFL Week 15 game broadcast",
@@ -11,12 +27,12 @@
       "published_iso": "2025-12-14T05:31:00+00:00"
     },
     {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-sean-mcvay-details-final-preparations-lions-showdown",
-      "title": "Rams Sean McVay Details Final Preparations For Lions' Showdown",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-sean-mcvay-details-final-preparations-lions-showdown",
-      "source": "Sports Illustrated",
-      "ts": 1765687260.0,
-      "published_iso": "2025-12-14T04:41:00+00:00"
+      "id": "https-cbssports-com-nfl-news-rams-vs-lions-where-to-watch-pick-odds-prediction",
+      "title": "Rams vs. Lions prediction: Detroit will cover in a high-scoring game against a battle-tested Los Angeles squad",
+      "link": "https://cbssports.com/nfl/news/rams-vs-lions-where-to-watch-pick-odds-prediction/",
+      "source": "CBS Sports",
+      "ts": 1765626840.0,
+      "published_iso": "2025-12-13T11:54:00+00:00"
     }
   ]
 }
