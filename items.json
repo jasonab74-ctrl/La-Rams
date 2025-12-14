@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2025-12-14T22:08:36.193817+00:00",
-  "count": 4,
+  "updated_iso": "2025-12-14T22:38:06.124403+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-latimes-com-sports-rams-live-rams-detroit-lions-live-updates-watch-start-time-score-highlights",
-      "title": "Rams vs. Detroit Lions live updates: Tied game late in first quarter",
+      "title": "Rams vs. Detroit Lions live updates: Tied game late in second quarter",
       "link": "https://latimes.com/sports/rams/live/rams-detroit-lions-live-updates-watch-start-time-score-highlights",
       "source": "LA Times",
-      "ts": 1765720860.0,
-      "published_iso": "2025-12-14T14:01:00+00:00"
+      "ts": 1765722000.0,
+      "published_iso": "2025-12-14T14:20:00+00:00"
     },
     {
       "id": "https-yahoo-com-entertainment-celebrity-articles-christen-harper-goff-talks-rams-140819583-html",
@@ -25,14 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1765716900.0,
       "published_iso": "2025-12-14T12:55:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-live-blog-nfl-lions-vs-rams-live-updates-score-from-americas-game-week",
-      "title": "Lions vs. Rams Live Updates, Score: Detroit, Los Angeles Battle for Playoff Position",
-      "link": "https://foxsports.com/live-blog/nfl/lions-vs-rams-live-updates-score-from-americas-game-week",
-      "source": "FOX Sports",
-      "ts": 1765702800.0,
-      "published_iso": "2025-12-14T09:00:00+00:00"
     }
   ]
 }
