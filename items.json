@@ -1,5 +1,38 @@
 {
-  "updated_iso": "2025-12-14T17:07:26.567650+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-14T17:37:08.708443+00:00",
+  "count": 4,
+  "items": [
+    {
+      "id": "https-nfl-com-videos-how-do-lions-slow-down-matthew-stafford-rams-in-week-15-nfl-gameday-morning",
+      "title": "How do Lions slow down Matthew Stafford, Rams in Week 15 | 'NFL GameDay Morning'",
+      "link": "https://nfl.com/videos/how-do-lions-slow-down-matthew-stafford-rams-in-week-15-nfl-gameday-morning",
+      "source": "NFL.com",
+      "ts": 1765702740.0,
+      "published_iso": "2025-12-14T08:59:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25326647-puka-nacua-contract-reportedly-priority-rams-can-wr-break-jamarr-chase-record",
+      "title": "Puka Nacua Contract Reportedly a Priority for Rams, Can WR Break Ja'Marr Chase Record?",
+      "link": "https://bleacherreport.com/articles/25326647-puka-nacua-contract-reportedly-priority-rams-can-wr-break-jamarr-chase-record",
+      "source": "Bleacher Report",
+      "ts": 1765701540.0,
+      "published_iso": "2025-12-14T08:39:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-sean-mcvay-details-final-preparations-lions-showdown",
+      "title": "Rams Sean McVay Details Final Preparations For Lions' Showdown",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-sean-mcvay-details-final-preparations-lions-showdown",
+      "source": "Sports Illustrated",
+      "ts": 1765699200.0,
+      "published_iso": "2025-12-14T08:00:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-lions-where-to-watch-pick-odds-prediction",
+      "title": "Rams vs. Lions prediction: Detroit will cover in a high-scoring game against a battle-tested Los Angeles squad",
+      "link": "https://cbssports.com/nfl/news/rams-vs-lions-where-to-watch-pick-odds-prediction/",
+      "source": "CBS Sports",
+      "ts": 1765626840.0,
+      "published_iso": "2025-12-13T11:54:00+00:00"
+    }
+  ]
 }
