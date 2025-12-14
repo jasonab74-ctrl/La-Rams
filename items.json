@@ -1,22 +1,22 @@
 {
-  "updated_iso": "2025-12-14T18:13:14.747308+00:00",
+  "updated_iso": "2025-12-14T18:45:46.182465+00:00",
   "count": 2,
   "items": [
     {
-      "id": "https-bleacherreport-com-articles-25326647-puka-nacua-contract-reportedly-priority-rams-can-wr-break-jamarr-chase-record",
-      "title": "Puka Nacua Contract Reportedly a Priority for Rams, Can WR Break Ja'Marr Chase Record?",
-      "link": "https://bleacherreport.com/articles/25326647-puka-nacua-contract-reportedly-priority-rams-can-wr-break-jamarr-chase-record",
-      "source": "Bleacher Report",
-      "ts": 1765701540.0,
-      "published_iso": "2025-12-14T08:39:00+00:00"
+      "id": "https-latimes-com-sports-rams-live-rams-detroit-lions-live-updates-watch-start-time-score-highlights",
+      "title": "Rams vs. Detroit Lions: Live updates, how to watch and start time",
+      "link": "https://latimes.com/sports/rams/live/rams-detroit-lions-live-updates-watch-start-time-score-highlights",
+      "source": "LA Times",
+      "ts": 1765708920.0,
+      "published_iso": "2025-12-14T10:42:00+00:00"
     },
     {
-      "id": "https-cbssports-com-nfl-news-rams-vs-lions-where-to-watch-pick-odds-prediction",
-      "title": "Rams vs. Lions prediction: Detroit will cover in a high-scoring game against a battle-tested Los Angeles squad",
-      "link": "https://cbssports.com/nfl/news/rams-vs-lions-where-to-watch-pick-odds-prediction/",
-      "source": "CBS Sports",
-      "ts": 1765626840.0,
-      "published_iso": "2025-12-13T11:54:00+00:00"
+      "id": "https-sports-yahoo-com-articles-rams-expected-puka-nacua-one-183033361-html",
+      "title": "Rams Expected to Make Puka Nacua One of Highest Paid WRs in the NFL",
+      "link": "https://sports.yahoo.com/articles/rams-expected-puka-nacua-one-183033361.html",
+      "source": "Yahoo Sports",
+      "ts": 1765708500.0,
+      "published_iso": "2025-12-14T10:35:00+00:00"
     }
   ]
 }
