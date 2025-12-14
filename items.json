@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-12-14T02:52:10.257487+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-14T03:54:24.554659+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-injury-report-preview-lions-shorthanded-232029056-html",
+      "title": "Injury Report Preview: Lions Shorthanded as Rams Enter Sunday Relatively Healthy",
+      "link": "https://sports.yahoo.com/articles/injury-report-preview-lions-shorthanded-232029056.html",
+      "source": "Yahoo Sports",
+      "ts": 1765640460.0,
+      "published_iso": "2025-12-13T15:41:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-lions-where-to-watch-pick-odds-prediction",
+      "title": "Rams vs. Lions prediction: Detroit will cover in a high-scoring game against a battle-tested Los Angeles squad",
+      "link": "https://cbssports.com/nfl/news/rams-vs-lions-where-to-watch-pick-odds-prediction/",
+      "source": "CBS Sports",
+      "ts": 1765626840.0,
+      "published_iso": "2025-12-13T11:54:00+00:00"
+    }
+  ]
 }
