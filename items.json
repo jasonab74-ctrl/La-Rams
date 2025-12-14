@@ -1,30 +1,30 @@
 {
-  "updated_iso": "2025-12-14T22:38:06.124403+00:00",
+  "updated_iso": "2025-12-14T23:08:39.625590+00:00",
   "count": 3,
   "items": [
     {
       "id": "https-latimes-com-sports-rams-live-rams-detroit-lions-live-updates-watch-start-time-score-highlights",
-      "title": "Rams vs. Detroit Lions live updates: Tied game late in second quarter",
+      "title": "Rams vs. Detroit Lions live updates: Detroit leads late in second quarter",
       "link": "https://latimes.com/sports/rams/live/rams-detroit-lions-live-updates-watch-start-time-score-highlights",
       "source": "LA Times",
-      "ts": 1765722000.0,
-      "published_iso": "2025-12-14T14:20:00+00:00"
+      "ts": 1765723860.0,
+      "published_iso": "2025-12-14T14:51:00+00:00"
     },
     {
-      "id": "https-yahoo-com-entertainment-celebrity-articles-christen-harper-goff-talks-rams-140819583-html",
-      "title": "Christen Harper Goff Talks Rams Rivalry, Life at Home With Jared Goff and Baby Romy",
-      "link": "https://yahoo.com/entertainment/celebrity/articles/christen-harper-goff-talks-rams-140819583.html",
-      "source": "Yahoo",
-      "ts": 1765716960.0,
-      "published_iso": "2025-12-14T12:56:00+00:00"
+      "id": "https-foxsports-com-watch-fmc-l43llldxs0ltsa3a",
+      "title": "Jared Goff finds Amon-Ra St. Brown for his second TD, giving Lions a 17-14 lead over Rams | NFL Highlights",
+      "link": "https://foxsports.com/watch/fmc-l43llldxs0ltsa3a",
+      "source": "FOX Sports",
+      "ts": 1765723860.0,
+      "published_iso": "2025-12-14T14:51:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-mvp-level-play-required-lions-203946005-html",
-      "title": "MVP-Level Play Will Be Required as Lions Visit Rams",
-      "link": "https://sports.yahoo.com/articles/mvp-level-play-required-lions-203946005.html",
-      "source": "Yahoo Sports",
-      "ts": 1765716900.0,
-      "published_iso": "2025-12-14T12:55:00+00:00"
+      "id": "https-therams-com-video-rams-puka-nacua-37-yard-sideline-catch-week-15-sofi-stadium-lions",
+      "title": "HIGHLIGHTS: Rams WR Puka Nacua with a 37-yard sideline catch against the Lions",
+      "link": "https://therams.com/video/rams-puka-nacua-37-yard-sideline-catch-week-15-sofi-stadium-lions",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1765723320.0,
+      "published_iso": "2025-12-14T14:42:00+00:00"
     }
   ]
 }
