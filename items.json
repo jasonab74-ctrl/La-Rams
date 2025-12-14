@@ -1,5 +1,38 @@
 {
-  "updated_iso": "2025-12-14T21:07:59.910161+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-14T21:34:23.394975+00:00",
+  "count": 4,
+  "items": [
+    {
+      "id": "https-therams-com-video-rams-lions-pregame-show-sofi-stadium-players-to-watch-game-predictions",
+      "title": "Rams-Lions Pregame Show from SoFi Stadium | Players to watch, game predictions & more",
+      "link": "https://therams.com/video/rams-lions-pregame-show-sofi-stadium-players-to-watch-game-predictions",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1765717800.0,
+      "published_iso": "2025-12-14T13:10:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-entertainment-celebrity-articles-christen-harper-goff-talks-rams-140819583-html",
+      "title": "Christen Harper Goff Talks Rams Rivalry, Life at Home With Jared Goff and Baby Romy",
+      "link": "https://yahoo.com/entertainment/celebrity/articles/christen-harper-goff-talks-rams-140819583.html",
+      "source": "Yahoo",
+      "ts": 1765716960.0,
+      "published_iso": "2025-12-14T12:56:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-mvp-level-play-required-lions-203946005-html",
+      "title": "MVP-Level Play Will Be Required as Lions Visit Rams",
+      "link": "https://sports.yahoo.com/articles/mvp-level-play-required-lions-203946005.html",
+      "source": "Yahoo Sports",
+      "ts": 1765716900.0,
+      "published_iso": "2025-12-14T12:55:00+00:00"
+    },
+    {
+      "id": "https-latimes-com-sports-rams-live-rams-detroit-lions-live-updates-watch-start-time-score-highlights",
+      "title": "Rams vs. Detroit Lions: Live updates, how to watch and start time",
+      "link": "https://latimes.com/sports/rams/live/rams-detroit-lions-live-updates-watch-start-time-score-highlights",
+      "source": "LA Times",
+      "ts": 1765708920.0,
+      "published_iso": "2025-12-14T10:42:00+00:00"
+    }
+  ]
 }
