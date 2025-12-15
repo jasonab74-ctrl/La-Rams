@@ -1,5 +1,38 @@
 {
-  "updated_iso": "2025-12-14T23:34:35.365372+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-15T00:49:54.114241+00:00",
+  "count": 4,
+  "items": [
+    {
+      "id": "https-si-com-nfl-lions-onsi-news-lions-second-half-slide-costly-41-34-loss-to-rams",
+      "title": "Lions Second Half Slide Costly in 41-34 Loss to Rams",
+      "link": "https://si.com/nfl/lions/onsi/news/lions-second-half-slide-costly-41-34-loss-to-rams",
+      "source": "Sports Illustrated",
+      "ts": 1765730820.0,
+      "published_iso": "2025-12-14T16:47:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-videos-blake-corum-s-fifth-td-run-of-25-boosts-rams-lead-to-33-24-vs-lions",
+      "title": "Blake Corum's fifth TD run of '25 boosts Rams' lead to 33-24 vs. Lions",
+      "link": "https://nfl.com/videos/blake-corum-s-fifth-td-run-of-25-boosts-rams-lead-to-33-24-vs-lions",
+      "source": "NFL.com",
+      "ts": 1765730160.0,
+      "published_iso": "2025-12-14T16:36:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-watch-fmc-6u97efunig56hkf5",
+      "title": "Matthew Stafford finds Colby Parkinson for his second TD, giving Rams a commanding lead over Lions | NFL Highlights",
+      "link": "https://foxsports.com/watch/fmc-6u97efunig56hkf5",
+      "source": "FOX Sports",
+      "ts": 1765729740.0,
+      "published_iso": "2025-12-14T16:29:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-puka-nacua-injury-makes-news-001335822-html",
+      "title": "Puka Nacua injury update makes news worse for Los Angeles Rams",
+      "link": "https://sports.yahoo.com/articles/puka-nacua-injury-makes-news-001335822.html",
+      "source": "Yahoo Sports",
+      "ts": 1765729500.0,
+      "published_iso": "2025-12-14T16:25:00+00:00"
+    }
+  ]
 }
