@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-12-15T11:09:41.233360+00:00",
+  "updated_iso": "2025-12-15T11:38:15.524368+00:00",
   "count": 4,
   "items": [
+    {
+      "id": "https-si-com-nfl-lions-onsi-news-where-lions-playoff-odds-stand-after-rams-loss",
+      "title": "Where Lions' Playoff Odds Stand After Loss to Rams",
+      "link": "https://si.com/nfl/lions/onsi/news/where-lions-playoff-odds-stand-after-rams-loss",
+      "source": "Sports Illustrated",
+      "ts": 1765768320.0,
+      "published_iso": "2025-12-15T03:12:00+00:00"
+    },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-sean-mcvay-thinks-about-wild-win-over-lions",
       "title": "What Rams' Sean McVay Thinks About Wild Win Over Lions",
@@ -9,14 +17,6 @@
       "source": "Sports Illustrated",
       "ts": 1765752300.0,
       "published_iso": "2025-12-14T22:45:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-lions-onsi-news-this-team-going-nowhere-lions-fans-distraught-after-rams-loss",
-      "title": "'This Team is Going Nowhere': Lions Fans Distraught After Rams Loss",
-      "link": "https://si.com/nfl/lions/onsi/news/this-team-going-nowhere-lions-fans-distraught-after-rams-loss",
-      "source": "Sports Illustrated",
-      "ts": 1765751940.0,
-      "published_iso": "2025-12-14T22:39:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-tst-images-los-angeles-rams-014521584-html",
