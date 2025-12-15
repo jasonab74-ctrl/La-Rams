@@ -1,5 +1,38 @@
 {
-  "updated_iso": "2025-12-15T16:53:12.389076+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-15T17:15:38.097815+00:00",
+  "count": 4,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-davante-adams-play-week-16-150823688-html",
+      "title": "Will Davante Adams play in Week 16? Rams WR could miss rest of regular season",
+      "link": "https://sports.yahoo.com/articles/davante-adams-play-week-16-150823688.html",
+      "source": "Yahoo Sports",
+      "ts": 1765784160.0,
+      "published_iso": "2025-12-15T07:36:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-rams-vs-seahawks-prediction-odds-spread-injuries-trends-for-nfl-week-16",
+      "title": "Rams vs. Seahawks Prediction, Odds, Spread, Injuries, Trends for NFL Week 16",
+      "link": "https://si.com/betting/rams-vs-seahawks-prediction-odds-spread-injuries-trends-for-nfl-week-16",
+      "source": "Sports Illustrated",
+      "ts": 1765782000.0,
+      "published_iso": "2025-12-15T07:00:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-videos-rapoport-on-latest-news-for-davante-adams-hamstring-injury-gmfb",
+      "title": "NFL Network Insider Ian Rapoport on latest news for Los Angeles Rams wide receiver Davante Adams' hamstring injury.",
+      "link": "https://nfl.com/videos/rapoport-on-latest-news-for-davante-adams-hamstring-injury-gmfb",
+      "source": "NFL.com",
+      "ts": 1765781340.0,
+      "published_iso": "2025-12-15T06:49:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-tst-images-los-angeles-rams-014521584-html",
+      "title": "TST Images : The Los Angeles Rams beat the Detroit Lions 41-34 at Sofi Stadium",
+      "link": "https://sports.yahoo.com/articles/tst-images-los-angeles-rams-014521584.html",
+      "source": "Yahoo Sports",
+      "ts": 1765734540.0,
+      "published_iso": "2025-12-14T17:49:00+00:00"
+    }
+  ]
 }
