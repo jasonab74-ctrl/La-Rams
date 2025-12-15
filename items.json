@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-12-15T17:44:32.976152+00:00",
+  "updated_iso": "2025-12-15T18:15:09.523636+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-davante-adams-play-week-16-150823688-html",
+      "title": "Will Davante Adams play in Week 16? Rams WR could miss rest of regular season",
+      "link": "https://sports.yahoo.com/articles/davante-adams-play-week-16-150823688.html",
+      "source": "Yahoo Sports",
+      "ts": 1765784160.0,
+      "published_iso": "2025-12-15T07:36:00+00:00"
+    },
     {
       "id": "https-nfl-com-videos-rapoport-on-latest-news-for-davante-adams-hamstring-injury-gmfb",
       "title": "NFL Network Insider Ian Rapoport on latest news for Los Angeles Rams wide receiver Davante Adams' hamstring injury.",
@@ -9,14 +17,6 @@
       "source": "NFL.com",
       "ts": 1765781340.0,
       "published_iso": "2025-12-15T06:49:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-tst-images-los-angeles-rams-014521584-html",
-      "title": "TST Images : The Los Angeles Rams beat the Detroit Lions 41-34 at Sofi Stadium",
-      "link": "https://sports.yahoo.com/articles/tst-images-los-angeles-rams-014521584.html",
-      "source": "Yahoo Sports",
-      "ts": 1765734540.0,
-      "published_iso": "2025-12-14T17:49:00+00:00"
     }
   ]
 }
