@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-12-15T02:51:22.793674+00:00",
+  "updated_iso": "2025-12-15T03:58:41.411562+00:00",
   "count": 3,
   "items": [
     {
-      "id": "https-foxsports-com-watch-fmc-h9d928vv3i7sp5bw",
-      "title": "NFL Week 15 Recap How does Patrick Mahomes' injury effect Chiefs? Rams Continue DOMINATING",
-      "link": "https://foxsports.com/watch/fmc-h9d928vv3i7sp5bw",
-      "source": "FOX Sports",
-      "ts": 1765734840.0,
-      "published_iso": "2025-12-14T17:54:00+00:00"
+      "id": "https-sports-yahoo-com-articles-rams-announce-puka-nacua-injury-003700707-html",
+      "title": "Rams Announce Puka Nacua Injury Update After Leaving Lions Game",
+      "link": "https://sports.yahoo.com/articles/rams-announce-puka-nacua-injury-003700707.html",
+      "source": "Yahoo Sports",
+      "ts": 1765742100.0,
+      "published_iso": "2025-12-14T19:55:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-sean-mcvay-thinks-about-wild-win-over-lions",
+      "title": "What Rams' Sean McVay Thinks About Wild Win Over Lions",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-sean-mcvay-thinks-about-wild-win-over-lions",
+      "source": "Sports Illustrated",
+      "ts": 1765740360.0,
+      "published_iso": "2025-12-14T19:26:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-tst-images-los-angeles-rams-014521584-html",
@@ -17,14 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1765734540.0,
       "published_iso": "2025-12-14T17:49:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-news-rams-clinch-nfl-s-first-playoff-berth-head-to-postseason-for-third-year-in-a-row",
-      "title": "Rams clinch NFL's first playoff berth, head to postseason for third year in a row",
-      "link": "https://nfl.com/news/rams-clinch-nfl-s-first-playoff-berth-head-to-postseason-for-third-year-in-a-row",
-      "source": "NFL.com",
-      "ts": 1765726560.0,
-      "published_iso": "2025-12-14T15:36:00+00:00"
     }
   ]
 }
