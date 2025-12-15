@@ -1,38 +1,22 @@
 {
-  "updated_iso": "2025-12-15T13:54:35.415227+00:00",
-  "count": 4,
+  "updated_iso": "2025-12-15T14:13:39.649876+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-tst-images-los-angeles-rams-014521584-html",
-      "title": "TST Images : The Los Angeles Rams beat the Detroit Lions 41-34 at Sofi Stadium",
-      "link": "https://sports.yahoo.com/articles/tst-images-los-angeles-rams-014521584.html",
-      "source": "Yahoo Sports",
-      "ts": 1765734540.0,
-      "published_iso": "2025-12-14T17:49:00+00:00"
+      "id": "https-cbssports-com-nfl-news-davante-adams-injures-hamstring-in-fourth-quarter-of-rams-win-over-lions",
+      "title": "Davante Adams injures hamstring in fourth quarter of Rams win over Lions",
+      "link": "https://cbssports.com/nfl/news/davante-adams-injures-hamstring-in-fourth-quarter-of-rams-win-over-lions/",
+      "source": "CBS Sports",
+      "ts": 1765778460.0,
+      "published_iso": "2025-12-15T06:01:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-puka-nacua-injury-makes-news-001335822-html",
-      "title": "Puka Nacua injury update makes news worse for Los Angeles Rams",
-      "link": "https://sports.yahoo.com/articles/puka-nacua-injury-makes-news-001335822.html",
-      "source": "Yahoo Sports",
-      "ts": 1765729500.0,
-      "published_iso": "2025-12-14T16:25:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-news-rams-clinch-nfl-s-first-playoff-berth-head-to-postseason-for-third-year-in-a-row",
-      "title": "Rams clinch NFL's first playoff berth, head to postseason for third year in a row",
-      "link": "https://nfl.com/news/rams-clinch-nfl-s-first-playoff-berth-head-to-postseason-for-third-year-in-a-row",
-      "source": "NFL.com",
-      "ts": 1765726560.0,
-      "published_iso": "2025-12-14T15:36:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-lions-onsi-news-expert-predictions-will-detroit-lions-defeat-los-angeles-rams",
-      "title": "Expert Predictions: Will Detroit Lions Defeat Los Angeles Rams?",
-      "link": "https://si.com/nfl/lions/onsi/news/expert-predictions-will-detroit-lions-defeat-los-angeles-rams",
+      "id": "https-si-com-betting-rams-vs-seahawks-prediction-odds-spread-injuries-trends-for-nfl-week-16",
+      "title": "Rams vs. Seahawks Prediction, Odds, Spread, Injuries, Trends for NFL Week 16",
+      "link": "https://si.com/betting/rams-vs-seahawks-prediction-odds-spread-injuries-trends-for-nfl-week-16",
       "source": "Sports Illustrated",
-      "ts": 1765700400.0,
-      "published_iso": "2025-12-14T08:20:00+00:00"
+      "ts": 1765770060.0,
+      "published_iso": "2025-12-15T03:41:00+00:00"
     }
   ]
 }
