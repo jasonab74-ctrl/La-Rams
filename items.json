@@ -1,38 +1,30 @@
 {
-  "updated_iso": "2025-12-15T00:49:54.114241+00:00",
-  "count": 4,
+  "updated_iso": "2025-12-15T02:51:22.793674+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-si-com-nfl-lions-onsi-news-lions-second-half-slide-costly-41-34-loss-to-rams",
-      "title": "Lions Second Half Slide Costly in 41-34 Loss to Rams",
-      "link": "https://si.com/nfl/lions/onsi/news/lions-second-half-slide-costly-41-34-loss-to-rams",
-      "source": "Sports Illustrated",
-      "ts": 1765730820.0,
-      "published_iso": "2025-12-14T16:47:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-videos-blake-corum-s-fifth-td-run-of-25-boosts-rams-lead-to-33-24-vs-lions",
-      "title": "Blake Corum's fifth TD run of '25 boosts Rams' lead to 33-24 vs. Lions",
-      "link": "https://nfl.com/videos/blake-corum-s-fifth-td-run-of-25-boosts-rams-lead-to-33-24-vs-lions",
-      "source": "NFL.com",
-      "ts": 1765730160.0,
-      "published_iso": "2025-12-14T16:36:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-watch-fmc-6u97efunig56hkf5",
-      "title": "Matthew Stafford finds Colby Parkinson for his second TD, giving Rams a commanding lead over Lions | NFL Highlights",
-      "link": "https://foxsports.com/watch/fmc-6u97efunig56hkf5",
+      "id": "https-foxsports-com-watch-fmc-h9d928vv3i7sp5bw",
+      "title": "NFL Week 15 Recap How does Patrick Mahomes' injury effect Chiefs? Rams Continue DOMINATING",
+      "link": "https://foxsports.com/watch/fmc-h9d928vv3i7sp5bw",
       "source": "FOX Sports",
-      "ts": 1765729740.0,
-      "published_iso": "2025-12-14T16:29:00+00:00"
+      "ts": 1765734840.0,
+      "published_iso": "2025-12-14T17:54:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-puka-nacua-injury-makes-news-001335822-html",
-      "title": "Puka Nacua injury update makes news worse for Los Angeles Rams",
-      "link": "https://sports.yahoo.com/articles/puka-nacua-injury-makes-news-001335822.html",
+      "id": "https-sports-yahoo-com-articles-tst-images-los-angeles-rams-014521584-html",
+      "title": "TST Images : The Los Angeles Rams beat the Detroit Lions 41-34 at Sofi Stadium",
+      "link": "https://sports.yahoo.com/articles/tst-images-los-angeles-rams-014521584.html",
       "source": "Yahoo Sports",
-      "ts": 1765729500.0,
-      "published_iso": "2025-12-14T16:25:00+00:00"
+      "ts": 1765734540.0,
+      "published_iso": "2025-12-14T17:49:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-news-rams-clinch-nfl-s-first-playoff-berth-head-to-postseason-for-third-year-in-a-row",
+      "title": "Rams clinch NFL's first playoff berth, head to postseason for third year in a row",
+      "link": "https://nfl.com/news/rams-clinch-nfl-s-first-playoff-berth-head-to-postseason-for-third-year-in-a-row",
+      "source": "NFL.com",
+      "ts": 1765726560.0,
+      "published_iso": "2025-12-14T15:36:00+00:00"
     }
   ]
 }
