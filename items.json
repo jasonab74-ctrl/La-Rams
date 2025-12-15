@@ -1,5 +1,46 @@
 {
-  "updated_iso": "2025-12-15T15:44:32.827101+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-15T16:14:56.632054+00:00",
+  "count": 5,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-nfc-west-standings-rams-seahawks-160100742-html",
+      "title": "NFC West Standings: Rams, Seahawks both have chances to help 49ers, but end up winning",
+      "link": "https://sports.yahoo.com/articles/nfc-west-standings-rams-seahawks-160100742.html",
+      "source": "Yahoo Sports",
+      "ts": 1765786380.0,
+      "published_iso": "2025-12-15T08:13:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-davante-adams-play-week-16-150823688-html",
+      "title": "Will Davante Adams play in Week 16? Rams WR could miss rest of regular season",
+      "link": "https://sports.yahoo.com/articles/davante-adams-play-week-16-150823688.html",
+      "source": "Yahoo Sports",
+      "ts": 1765784160.0,
+      "published_iso": "2025-12-15T07:36:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-rams-vs-seahawks-prediction-odds-spread-injuries-trends-for-nfl-week-16",
+      "title": "Rams vs. Seahawks Prediction, Odds, Spread, Injuries, Trends for NFL Week 16",
+      "link": "https://si.com/betting/rams-vs-seahawks-prediction-odds-spread-injuries-trends-for-nfl-week-16",
+      "source": "Sports Illustrated",
+      "ts": 1765782000.0,
+      "published_iso": "2025-12-15T07:00:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-videos-what-stood-out-in-rams-playoff-clinching-week-15-win-vs-lions-gmfb",
+      "title": "What stood out in Rams playoff clinching Week 15 win vs. Lions | 'GMFB'",
+      "link": "https://nfl.com/videos/what-stood-out-in-rams-playoff-clinching-week-15-win-vs-lions-gmfb",
+      "source": "NFL.com",
+      "ts": 1765781820.0,
+      "published_iso": "2025-12-15T06:57:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-videos-rapoport-on-latest-news-for-davante-adams-hamstring-injury-gmfb",
+      "title": "NFL Network Insider Ian Rapoport on latest news for Los Angeles Rams wide receiver Davante Adams' hamstring injury.",
+      "link": "https://nfl.com/videos/rapoport-on-latest-news-for-davante-adams-hamstring-injury-gmfb",
+      "source": "NFL.com",
+      "ts": 1765781340.0,
+      "published_iso": "2025-12-15T06:49:00+00:00"
+    }
+  ]
 }
