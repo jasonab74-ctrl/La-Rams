@@ -1,14 +1,38 @@
 {
-  "updated_iso": "2025-12-16T17:14:22.533068+00:00",
-  "count": 1,
+  "updated_iso": "2025-12-16T17:44:46.495046+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-cbssports-com-nfl-news-nfl-super-bowl-odds-update-rams-seahawks-rule-as-packers-patriots-fade-after-costly-week-15",
-      "title": "NFL Super Bowl odds update: Rams, Seahawks rule as Packers, Patriots fade after costly Week 15",
-      "link": "https://cbssports.com/nfl/news/nfl-super-bowl-odds-update-rams-seahawks-rule-as-packers-patriots-fade-after-costly-week-15/",
-      "source": "CBS Sports",
-      "ts": 1765874880.0,
-      "published_iso": "2025-12-16T08:48:00+00:00"
+      "id": "https-sports-yahoo-com-articles-davante-adams-injury-updates-rams-165546937-html",
+      "title": "Davante Adams injury updates give Rams wide receiver bleak outlook for Week 16",
+      "link": "https://sports.yahoo.com/articles/davante-adams-injury-updates-rams-165546937.html",
+      "source": "Yahoo Sports",
+      "ts": 1765876920.0,
+      "published_iso": "2025-12-16T09:22:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-aren-t-ruling-davante-164822298-html",
+      "title": "Rams aren’t ruling out Davante Adams yet for Thursday night vs. Seahawks",
+      "link": "https://sports.yahoo.com/articles/rams-aren-t-ruling-davante-164822298.html",
+      "source": "Yahoo Sports",
+      "ts": 1765875360.0,
+      "published_iso": "2025-12-16T08:56:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-12-16-rams-les-snead-harrison-mevis-anxiety-87791005007",
+      "title": "Les Snead reveals Rams player who has lowered the team's anxiety",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/12/16/rams-les-snead-harrison-mevis-anxiety/87791005007/",
+      "source": "Rams Wire",
+      "ts": 1765868460.0,
+      "published_iso": "2025-12-16T07:01:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-12-16-nfl-insider-would-guess-the-rams-sit-davante-adams-until",
+      "title": "NFL insider 'would guess' the Rams sit Davante Adams until playoffs",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/12/16/nfl-insider-would-guess-the-rams-sit-davante-adams-until-playoffs/87791074007/",
+      "source": "Rams Wire",
+      "ts": 1765868400.0,
+      "published_iso": "2025-12-16T07:00:00+00:00"
     }
   ]
 }
