@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2025-12-16T16:13:14.929900+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-16T16:50:57.466916+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-cbssports-com-nfl-news-nfl-super-bowl-odds-update-rams-seahawks-rule-as-packers-patriots-fade-after-costly-week-15",
+      "title": "NFL Super Bowl odds update: Rams, Seahawks rule as Packers, Patriots fade after costly Week 15",
+      "link": "https://cbssports.com/nfl/news/nfl-super-bowl-odds-update-rams-seahawks-rule-as-packers-patriots-fade-after-costly-week-15/",
+      "source": "CBS Sports",
+      "ts": 1765874880.0,
+      "published_iso": "2025-12-16T08:48:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-seahawks-clinch-playoff-berth-week-162842578-html",
+      "title": "How Seahawks can clinch a playoff berth in Week 16 vs. Rams",
+      "link": "https://sports.yahoo.com/articles/seahawks-clinch-playoff-berth-week-162842578.html",
+      "source": "Yahoo Sports",
+      "ts": 1765874580.0,
+      "published_iso": "2025-12-16T08:43:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-12-16-nfl-insider-would-guess-the-rams-sit-davante-adams-until",
+      "title": "NFL insider 'would guess' the Rams sit Davante Adams until playoffs",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/12/16/nfl-insider-would-guess-the-rams-sit-davante-adams-until-playoffs/87791074007/",
+      "source": "Rams Wire",
+      "ts": 1765868400.0,
+      "published_iso": "2025-12-16T07:00:00+00:00"
+    }
+  ]
 }
