@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2025-12-16T07:14:12.325184+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-16T07:39:46.000495+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-vs-seahawks-prediction-odds-054144974-html",
+      "title": "Rams vs. Seahawks prediction, odds, pick for Week 16 Thursday Night Football",
+      "link": "https://sports.yahoo.com/articles/rams-vs-seahawks-prediction-odds-054144974.html",
+      "source": "Yahoo Sports",
+      "ts": 1765839540.0,
+      "published_iso": "2025-12-15T22:59:00+00:00"
+    }
+  ]
 }
