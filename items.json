@@ -1,5 +1,5 @@
 {
-  "updated_iso": "2025-12-16T21:38:17.418947+00:00",
+  "updated_iso": "2025-12-16T22:09:37.534625+00:00",
   "count": 2,
   "items": [
     {
@@ -11,12 +11,12 @@
       "published_iso": "2025-12-16T13:20:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-announce-sean-172639762-html",
-      "title": "Los Angeles Rams Announce Sean McVay Family Roster Move",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-announce-sean-172639762.html",
+      "id": "https-sports-yahoo-com-articles-tst-images-los-angeles-rams-014521584-html",
+      "title": "TST Images : The Los Angeles Rams beat the Detroit Lions 41-34 at Sofi Stadium",
+      "link": "https://sports.yahoo.com/articles/tst-images-los-angeles-rams-014521584.html",
       "source": "Yahoo Sports",
-      "ts": 1765889520.0,
-      "published_iso": "2025-12-16T12:52:00+00:00"
+      "ts": 1765734540.0,
+      "published_iso": "2025-12-14T17:49:00+00:00"
     }
   ]
 }
