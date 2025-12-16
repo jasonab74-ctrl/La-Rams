@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2025-12-16T04:51:35.019625+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-16T05:13:52.929809+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-yahoo-com-entertainment-celebrity-articles-wicked-star-jeff-goldblum-hangs-225313831-html",
+      "title": "‘Wicked’ star Jeff Goldblum hangs with Kobie Turner at Rams game",
+      "link": "https://yahoo.com/entertainment/celebrity/articles/wicked-star-jeff-goldblum-hangs-225313831.html",
+      "source": "Yahoo",
+      "ts": 1765826940.0,
+      "published_iso": "2025-12-15T19:29:00+00:00"
+    }
+  ]
 }
