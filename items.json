@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-12-15T23:37:40.894410+00:00",
+  "updated_iso": "2025-12-16T00:46:34.675703+00:00",
   "count": 3,
   "items": [
     {
-      "id": "https-apnews-com-article-rams-lions-analysis-davante-adams-16c1223ae336172a829e0a53696401f5",
-      "title": "Rams’ faith in their receiver depth to be tested if Adams misses short-week showdown with Seahawks",
-      "link": "https://apnews.com/article/rams-lions-analysis-davante-adams-16c1223ae336172a829e0a53696401f5",
-      "source": "AP News",
-      "ts": 1765811640.0,
-      "published_iso": "2025-12-15T15:14:00+00:00"
+      "id": "https-cbssports-com-nfl-news-super-bowl-2026-odds-nfl-playoff-picture",
+      "title": "Who can stop the Rams? Updated Super Bowl 2026 odds as the NFL playoff race starts to heat up",
+      "link": "https://cbssports.com/nfl/news/super-bowl-2026-odds-nfl-playoff-picture/",
+      "source": "CBS Sports",
+      "ts": 1765812360.0,
+      "published_iso": "2025-12-15T15:26:00+00:00"
+    },
+    {
+      "id": "https-si-com-onsi-athlete-lifestyle-relationships-rams-coach-sean-mcvay-wife-veronika-in-spotlight-birth-of-second-son",
+      "title": "Rams coach Sean McVay's wife Veronika in spotlight for birth of second son",
+      "link": "https://si.com/onsi/athlete-lifestyle/relationships/rams-coach-sean-mcvay-wife-veronika-in-spotlight-birth-of-second-son",
+      "source": "Sports Illustrated",
+      "ts": 1765810620.0,
+      "published_iso": "2025-12-15T14:57:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-tst-images-los-angeles-rams-014521584-html",
@@ -17,14 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1765734540.0,
       "published_iso": "2025-12-14T17:49:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-puka-nacua-injury-makes-news-001335822-html",
-      "title": "Puka Nacua injury update makes news worse for Los Angeles Rams",
-      "link": "https://sports.yahoo.com/articles/puka-nacua-injury-makes-news-001335822.html",
-      "source": "Yahoo Sports",
-      "ts": 1765729500.0,
-      "published_iso": "2025-12-14T16:25:00+00:00"
     }
   ]
 }
