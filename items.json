@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-12-17T15:43:21.161603+00:00",
-  "count": 1,
+  "updated_iso": "2025-12-17T16:13:27.043595+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-puka-nacua-injury-makes-news-001335822-html",
-      "title": "Puka Nacua injury update makes news worse for Los Angeles Rams",
-      "link": "https://sports.yahoo.com/articles/puka-nacua-injury-makes-news-001335822.html",
+      "id": "https-sports-yahoo-com-articles-watch-seattle-seahawks-vs-la-120017374-html",
+      "title": "How to watch Seattle Seahawks vs LA Rams on Thursday Night Football",
+      "link": "https://sports.yahoo.com/articles/watch-seattle-seahawks-vs-la-120017374.html",
       "source": "Yahoo Sports",
-      "ts": 1765729500.0,
-      "published_iso": "2025-12-14T16:25:00+00:00"
+      "ts": 1765959000.0,
+      "published_iso": "2025-12-17T08:10:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-seahawks-rams-could-missing-key-160044232-html",
+      "title": "Seahawks, Rams could be missing key offensive pieces on TNF Week 16",
+      "link": "https://sports.yahoo.com/articles/seahawks-rams-could-missing-key-160044232.html",
+      "source": "Yahoo Sports",
+      "ts": 1765958940.0,
+      "published_iso": "2025-12-17T08:09:00+00:00"
     }
   ]
 }
