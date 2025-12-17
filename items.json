@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2025-12-17T20:11:10.549800+00:00",
+  "updated_iso": "2025-12-17T20:42:33.865744+00:00",
   "count": 3,
   "items": [
     {
-      "id": "https-apnews-com-article-rams-seahawks-preview-c7305bd5b8c76864d340a05ce5601cc9",
-      "title": "Seahawks, Rams set for matchup with NFC West title implications",
-      "link": "https://apnews.com/article/rams-seahawks-preview-c7305bd5b8c76864d340a05ce5601cc9",
-      "source": "AP News",
-      "ts": 1765972740.0,
-      "published_iso": "2025-12-17T11:59:00+00:00"
+      "id": "https-yahoo-com-news-videos-sam-darnold-rams-defense-2-230248243-html",
+      "title": "Sam Darnold on Rams defense 2 days before Seahawks host L.A. for NFC West lead",
+      "link": "https://yahoo.com/news/videos/sam-darnold-rams-defense-2-230248243.html",
+      "source": "Yahoo",
+      "ts": 1765974660.0,
+      "published_iso": "2025-12-17T12:31:00+00:00"
     },
     {
       "id": "https-therams-com-video-rams-vs-seahawks-rain-or-shine-week-16-2025-game-trailer",
@@ -19,12 +19,12 @@
       "published_iso": "2025-12-17T11:52:00+00:00"
     },
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-12-17-rams-te-colby-parkinson-explains-why-his-td-catch-call-w",
-      "title": "Rams TE Colby Parkinson explains why his TD catch call was right",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/12/17/rams-te-colby-parkinson-explains-why-his-td-catch-call-was-right/87811103007/",
-      "source": "Rams Wire",
-      "ts": 1765961940.0,
-      "published_iso": "2025-12-17T08:59:00+00:00"
+      "id": "https-sports-yahoo-com-articles-tst-images-los-angeles-rams-014521584-html",
+      "title": "TST Images : The Los Angeles Rams beat the Detroit Lions 41-34 at Sofi Stadium",
+      "link": "https://sports.yahoo.com/articles/tst-images-los-angeles-rams-014521584.html",
+      "source": "Yahoo Sports",
+      "ts": 1765734540.0,
+      "published_iso": "2025-12-14T17:49:00+00:00"
     }
   ]
 }
