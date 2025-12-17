@@ -1,5 +1,46 @@
 {
-  "updated_iso": "2025-12-17T08:49:46.694791+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-17T09:16:12.048247+00:00",
+  "count": 5,
+  "items": [
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-kyren-williams-hits-important-mark-against-lions",
+      "title": "Rams' Kyren Williams Hits Important Mark Against Lions",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-kyren-williams-hits-important-mark-against-lions",
+      "source": "Sports Illustrated",
+      "ts": 1765920660.0,
+      "published_iso": "2025-12-16T21:31:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-nfc-playoff-picture-2025-playoff-berth-clinched-rams-currently-hold-no-1-seed-entering-week-16",
+      "title": "NFC playoff picture: Playoff berth clinched, Rams look to maintain hold of No. 1 seed entering Week 16",
+      "link": "https://therams.com/news/nfc-playoff-picture-2025-playoff-berth-clinched-rams-currently-hold-no-1-seed-entering-week-16",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1765879020.0,
+      "published_iso": "2025-12-16T09:57:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-tst-images-los-angeles-rams-014521584-html",
+      "title": "TST Images : The Los Angeles Rams beat the Detroit Lions 41-34 at Sofi Stadium",
+      "link": "https://sports.yahoo.com/articles/tst-images-los-angeles-rams-014521584.html",
+      "source": "Yahoo Sports",
+      "ts": 1765734540.0,
+      "published_iso": "2025-12-14T17:49:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-lions-onsi-news-expert-predictions-will-detroit-lions-defeat-los-angeles-rams",
+      "title": "Expert Predictions: Will Detroit Lions Defeat Los Angeles Rams?",
+      "link": "https://si.com/nfl/lions/onsi/news/expert-predictions-will-detroit-lions-defeat-los-angeles-rams",
+      "source": "Sports Illustrated",
+      "ts": 1765700400.0,
+      "published_iso": "2025-12-14T08:20:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-lions-where-to-watch-pick-odds-prediction",
+      "title": "Rams vs. Lions prediction: Detroit will cover in a high-scoring game against a battle-tested Los Angeles squad",
+      "link": "https://cbssports.com/nfl/news/rams-vs-lions-where-to-watch-pick-odds-prediction/",
+      "source": "CBS Sports",
+      "ts": 1765626840.0,
+      "published_iso": "2025-12-13T11:54:00+00:00"
+    }
+  ]
 }
