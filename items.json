@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-12-17T10:45:27.277278+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-17T11:10:01.643944+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-tst-images-los-angeles-rams-014521584-html",
+      "title": "TST Images : The Los Angeles Rams beat the Detroit Lions 41-34 at Sofi Stadium",
+      "link": "https://sports.yahoo.com/articles/tst-images-los-angeles-rams-014521584.html",
+      "source": "Yahoo Sports",
+      "ts": 1765734540.0,
+      "published_iso": "2025-12-14T17:49:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-lions-onsi-news-expert-predictions-will-detroit-lions-defeat-los-angeles-rams",
+      "title": "Expert Predictions: Will Detroit Lions Defeat Los Angeles Rams?",
+      "link": "https://si.com/nfl/lions/onsi/news/expert-predictions-will-detroit-lions-defeat-los-angeles-rams",
+      "source": "Sports Illustrated",
+      "ts": 1765700400.0,
+      "published_iso": "2025-12-14T08:20:00+00:00"
+    }
+  ]
 }
