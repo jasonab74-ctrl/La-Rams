@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-12-17T19:35:49.895985+00:00",
-  "count": 4,
+  "updated_iso": "2025-12-17T20:11:10.549800+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-seahawks-trenches-determine-first-180915887-html",
-      "title": "Rams-Seahawks: Trenches will determine first place in NFC West",
-      "link": "https://sports.yahoo.com/articles/rams-seahawks-trenches-determine-first-180915887.html",
-      "source": "Yahoo Sports",
-      "ts": 1765966620.0,
-      "published_iso": "2025-12-17T10:17:00+00:00"
+      "id": "https-apnews-com-article-rams-seahawks-preview-c7305bd5b8c76864d340a05ce5601cc9",
+      "title": "Seahawks, Rams set for matchup with NFC West title implications",
+      "link": "https://apnews.com/article/rams-seahawks-preview-c7305bd5b8c76864d340a05ce5601cc9",
+      "source": "AP News",
+      "ts": 1765972740.0,
+      "published_iso": "2025-12-17T11:59:00+00:00"
+    },
+    {
+      "id": "https-therams-com-video-rams-vs-seahawks-rain-or-shine-week-16-2025-game-trailer",
+      "title": "Rams vs. Seahawks: Rain or shine | Game Trailer",
+      "link": "https://therams.com/video/rams-vs-seahawks-rain-or-shine-week-16-2025-game-trailer",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1765972320.0,
+      "published_iso": "2025-12-17T11:52:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-12-17-rams-te-colby-parkinson-explains-why-his-td-catch-call-w",
@@ -17,22 +25,6 @@
       "source": "Rams Wire",
       "ts": 1765961940.0,
       "published_iso": "2025-12-17T08:59:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-news-rams-vs-seahawks-three-must-know-storylines-for-thursday-s-week-16-prime-time-game",
-      "title": "Rams vs. Seahawks: Three must-know storylines for Thursday's Week 16 prime-time game",
-      "link": "https://nfl.com/news/rams-vs-seahawks-three-must-know-storylines-for-thursday-s-week-16-prime-time-game",
-      "source": "NFL.com",
-      "ts": 1765958400.0,
-      "published_iso": "2025-12-17T08:00:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-puka-nacua-injury-makes-news-001335822-html",
-      "title": "Puka Nacua injury update makes news worse for Los Angeles Rams",
-      "link": "https://sports.yahoo.com/articles/puka-nacua-injury-makes-news-001335822.html",
-      "source": "Yahoo Sports",
-      "ts": 1765729500.0,
-      "published_iso": "2025-12-14T16:25:00+00:00"
     }
   ]
 }
