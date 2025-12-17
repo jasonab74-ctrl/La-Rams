@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2025-12-17T16:13:27.043595+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-17T16:50:23.217817+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-watch-seattle-seahawks-vs-la-120017374-html",
-      "title": "How to watch Seattle Seahawks vs LA Rams on Thursday Night Football",
-      "link": "https://sports.yahoo.com/articles/watch-seattle-seahawks-vs-la-120017374.html",
+      "id": "https-sports-yahoo-com-articles-heres-rams-head-coach-sean-162718495-html",
+      "title": "Here's how Rams head coach Sean McVay feels about officiating",
+      "link": "https://sports.yahoo.com/articles/heres-rams-head-coach-sean-162718495.html",
       "source": "Yahoo Sports",
-      "ts": 1765959000.0,
-      "published_iso": "2025-12-17T08:10:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-seahawks-rams-could-missing-key-160044232-html",
-      "title": "Seahawks, Rams could be missing key offensive pieces on TNF Week 16",
-      "link": "https://sports.yahoo.com/articles/seahawks-rams-could-missing-key-160044232.html",
-      "source": "Yahoo Sports",
-      "ts": 1765958940.0,
-      "published_iso": "2025-12-17T08:09:00+00:00"
+      "ts": 1765960620.0,
+      "published_iso": "2025-12-17T08:37:00+00:00"
     }
   ]
 }
