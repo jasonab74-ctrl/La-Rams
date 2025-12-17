@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-12-17T17:14:29.652022+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-17T17:43:11.090708+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-12-17-rams-te-colby-parkinson-explains-why-his-td-catch-call-w",
+      "title": "Rams TE Colby Parkinson explains why his TD catch call was right",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/12/17/rams-te-colby-parkinson-explains-why-his-td-catch-call-was-right/87811103007/",
+      "source": "Rams Wire",
+      "ts": 1765961940.0,
+      "published_iso": "2025-12-17T08:59:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-news-rams-vs-seahawks-three-must-know-storylines-for-thursday-s-week-16-prime-time-game",
+      "title": "Rams vs. Seahawks: Three must-know storylines for Thursday's Week 16 prime-time game",
+      "link": "https://nfl.com/news/rams-vs-seahawks-three-must-know-storylines-for-thursday-s-week-16-prime-time-game",
+      "source": "NFL.com",
+      "ts": 1765958400.0,
+      "published_iso": "2025-12-17T08:00:00+00:00"
+    }
+  ]
 }
