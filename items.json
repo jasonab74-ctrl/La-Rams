@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-12-17T21:39:15.020896+00:00",
+  "updated_iso": "2025-12-17T22:09:21.779599+00:00",
   "count": 5,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-did-rams-two-best-defenders-212232315-html",
+      "title": "Did the Rams get the two best defenders in the entire 2024 draft class?",
+      "link": "https://sports.yahoo.com/articles/did-rams-two-best-defenders-212232315.html",
+      "source": "Yahoo Sports",
+      "ts": 1765979640.0,
+      "published_iso": "2025-12-17T13:54:00+00:00"
+    },
     {
       "id": "https-therams-com-news-all-eyes-on-tnf-rams-and-seahawks-collide-in-high-stakes-battle-game-preview",
       "title": "All eyes on TNF: Rams and Seahawks collide in high-stakes battle | Game Preview",
@@ -11,28 +19,20 @@
       "published_iso": "2025-12-17T13:14:00+00:00"
     },
     {
-      "id": "https-latimes-com-0000019b-2e02-d522-ab9f-bed2e7fc0000-123",
-      "title": "Rams look to sweep Seahawks in prime-time NFC West showdown",
-      "link": "https://latimes.com/0000019b-2e02-d522-ab9f-bed2e7fc0000-123",
-      "source": "LA Times",
-      "ts": 1765975920.0,
-      "published_iso": "2025-12-17T12:52:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-vs-seahawks-props-best-202900961-html",
-      "title": "Rams vs Seahawks Props & Best Bets for Thursday Night Football",
-      "link": "https://sports.yahoo.com/articles/rams-vs-seahawks-props-best-202900961.html",
-      "source": "Yahoo Sports",
-      "ts": 1765975800.0,
-      "published_iso": "2025-12-17T12:50:00+00:00"
-    },
-    {
       "id": "https-nfl-com-videos-darnold-speaks-on-improving-execution-ahead-of-rematch-with-rams",
       "title": "Darnold speaks on improving execution ahead of rematch with Rams",
       "link": "https://nfl.com/videos/darnold-speaks-on-improving-execution-ahead-of-rematch-with-rams",
       "source": "NFL.com",
       "ts": 1765975560.0,
       "published_iso": "2025-12-17T12:46:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-videos-sam-darnold-rams-defense-2-230248243-html",
+      "title": "Sam Darnold on Rams defense 2 days before Seahawks host L.A. for NFC West lead",
+      "link": "https://yahoo.com/news/videos/sam-darnold-rams-defense-2-230248243.html",
+      "source": "Yahoo",
+      "ts": 1765974660.0,
+      "published_iso": "2025-12-17T12:31:00+00:00"
     },
     {
       "id": "https-therams-com-video-rams-vs-seahawks-rain-or-shine-week-16-2025-game-trailer",
