@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-12-17T19:11:19.413285+00:00",
-  "count": 3,
+  "updated_iso": "2025-12-17T19:35:49.895985+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-seahawks-trenches-determine-first-180915887-html",
@@ -17,6 +17,14 @@
       "source": "Rams Wire",
       "ts": 1765961940.0,
       "published_iso": "2025-12-17T08:59:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-news-rams-vs-seahawks-three-must-know-storylines-for-thursday-s-week-16-prime-time-game",
+      "title": "Rams vs. Seahawks: Three must-know storylines for Thursday's Week 16 prime-time game",
+      "link": "https://nfl.com/news/rams-vs-seahawks-three-must-know-storylines-for-thursday-s-week-16-prime-time-game",
+      "source": "NFL.com",
+      "ts": 1765958400.0,
+      "published_iso": "2025-12-17T08:00:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-puka-nacua-injury-makes-news-001335822-html",
