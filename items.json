@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-12-17T07:40:14.790268+00:00",
-  "count": 5,
+  "updated_iso": "2025-12-17T08:14:53.867127+00:00",
+  "count": 4,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-seahawks-rams-week-16-injury-071032670-html",
-      "title": "Seahawks-Rams Week 16 injury report: It’s not looking good for Charles Cross",
-      "link": "https://sports.yahoo.com/articles/seahawks-rams-week-16-injury-071032670.html",
-      "source": "Yahoo Sports",
-      "ts": 1765927320.0,
-      "published_iso": "2025-12-16T23:22:00+00:00"
-    },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-kyren-williams-hits-important-mark-against-lions",
       "title": "Rams' Kyren Williams Hits Important Mark Against Lions",
@@ -17,14 +9,6 @@
       "source": "Sports Illustrated",
       "ts": 1765920660.0,
       "published_iso": "2025-12-16T21:31:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-puka-nacua-reached-major-level",
-      "title": "Rams' Puka Nacua Has Reached This Major Level",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-puka-nacua-reached-major-level",
-      "source": "Sports Illustrated",
-      "ts": 1765918800.0,
-      "published_iso": "2025-12-16T21:00:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-thursday-night-footba",
@@ -41,6 +25,14 @@
       "source": "Yahoo Sports",
       "ts": 1765734540.0,
       "published_iso": "2025-12-14T17:49:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-lions-where-to-watch-pick-odds-prediction",
+      "title": "Rams vs. Lions prediction: Detroit will cover in a high-scoring game against a battle-tested Los Angeles squad",
+      "link": "https://cbssports.com/nfl/news/rams-vs-lions-where-to-watch-pick-odds-prediction/",
+      "source": "CBS Sports",
+      "ts": 1765626840.0,
+      "published_iso": "2025-12-13T11:54:00+00:00"
     }
   ]
 }
