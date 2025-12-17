@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-12-17T11:38:08.179700+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-17T12:18:50.329633+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-kyren-williams-hits-important-mark-against-lions",
+      "title": "Rams' Kyren Williams Hits Important Mark Against Lions",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-kyren-williams-hits-important-mark-against-lions",
+      "source": "Sports Illustrated",
+      "ts": 1765920660.0,
+      "published_iso": "2025-12-16T21:31:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-puka-nacua-reached-major-level",
+      "title": "Rams' Puka Nacua Has Reached This Major Level",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-puka-nacua-reached-major-level",
+      "source": "Sports Illustrated",
+      "ts": 1765918800.0,
+      "published_iso": "2025-12-16T21:00:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-tst-images-los-angeles-rams-014521584-html",
       "title": "TST Images : The Los Angeles Rams beat the Detroit Lions 41-34 at Sofi Stadium",
@@ -11,12 +27,12 @@
       "published_iso": "2025-12-14T17:49:00+00:00"
     },
     {
-      "id": "https-cbssports-com-nfl-news-rams-vs-lions-where-to-watch-pick-odds-prediction",
-      "title": "Rams vs. Lions prediction: Detroit will cover in a high-scoring game against a battle-tested Los Angeles squad",
-      "link": "https://cbssports.com/nfl/news/rams-vs-lions-where-to-watch-pick-odds-prediction/",
-      "source": "CBS Sports",
-      "ts": 1765626840.0,
-      "published_iso": "2025-12-13T11:54:00+00:00"
+      "id": "https-sports-yahoo-com-articles-puka-nacua-injury-makes-news-001335822-html",
+      "title": "Puka Nacua injury update makes news worse for Los Angeles Rams",
+      "link": "https://sports.yahoo.com/articles/puka-nacua-injury-makes-news-001335822.html",
+      "source": "Yahoo Sports",
+      "ts": 1765729500.0,
+      "published_iso": "2025-12-14T16:25:00+00:00"
     }
   ]
 }
