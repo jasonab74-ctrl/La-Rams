@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2025-12-17T05:12:53.139664+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-17T05:43:16.670036+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-kyren-williams-hits-important-mark-against-lions",
+      "title": "Rams' Kyren Williams Hits Important Mark Against Lions",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-kyren-williams-hits-important-mark-against-lions",
+      "source": "Sports Illustrated",
+      "ts": 1765920660.0,
+      "published_iso": "2025-12-16T21:31:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-seahawks-set-history-thursday-043545282-html",
+      "title": "Rams-Seahawks are set to make history on 'Thursday Night Football'",
+      "link": "https://sports.yahoo.com/articles/rams-seahawks-set-history-thursday-043545282.html",
+      "source": "Yahoo Sports",
+      "ts": 1765918380.0,
+      "published_iso": "2025-12-16T20:53:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-tst-images-los-angeles-rams-014521584-html",
+      "title": "TST Images : The Los Angeles Rams beat the Detroit Lions 41-34 at Sofi Stadium",
+      "link": "https://sports.yahoo.com/articles/tst-images-los-angeles-rams-014521584.html",
+      "source": "Yahoo Sports",
+      "ts": 1765734540.0,
+      "published_iso": "2025-12-14T17:49:00+00:00"
+    }
+  ]
 }
