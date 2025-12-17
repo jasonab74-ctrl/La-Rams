@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2025-12-17T18:51:40.988694+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-17T19:11:19.413285+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-seahawks-trenches-determine-first-180915887-html",
+      "title": "Rams-Seahawks: Trenches will determine first place in NFC West",
+      "link": "https://sports.yahoo.com/articles/rams-seahawks-trenches-determine-first-180915887.html",
+      "source": "Yahoo Sports",
+      "ts": 1765966620.0,
+      "published_iso": "2025-12-17T10:17:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-12-17-rams-te-colby-parkinson-explains-why-his-td-catch-call-w",
+      "title": "Rams TE Colby Parkinson explains why his TD catch call was right",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/12/17/rams-te-colby-parkinson-explains-why-his-td-catch-call-was-right/87811103007/",
+      "source": "Rams Wire",
+      "ts": 1765961940.0,
+      "published_iso": "2025-12-17T08:59:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-puka-nacua-injury-makes-news-001335822-html",
+      "title": "Puka Nacua injury update makes news worse for Los Angeles Rams",
+      "link": "https://sports.yahoo.com/articles/puka-nacua-injury-makes-news-001335822.html",
+      "source": "Yahoo Sports",
+      "ts": 1765729500.0,
+      "published_iso": "2025-12-14T16:25:00+00:00"
+    }
+  ]
 }
