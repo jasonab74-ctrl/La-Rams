@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-12-17T07:13:29.242706+00:00",
-  "count": 3,
+  "updated_iso": "2025-12-17T07:40:14.790268+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-seahawks-rams-week-16-injury-071032670-html",
+      "title": "Seahawks-Rams Week 16 injury report: It’s not looking good for Charles Cross",
+      "link": "https://sports.yahoo.com/articles/seahawks-rams-week-16-injury-071032670.html",
+      "source": "Yahoo Sports",
+      "ts": 1765927320.0,
+      "published_iso": "2025-12-16T23:22:00+00:00"
+    },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-kyren-williams-hits-important-mark-against-lions",
       "title": "Rams' Kyren Williams Hits Important Mark Against Lions",
@@ -19,12 +27,20 @@
       "published_iso": "2025-12-16T21:00:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-puka-nacua-injury-makes-news-001335822-html",
-      "title": "Puka Nacua injury update makes news worse for Los Angeles Rams",
-      "link": "https://sports.yahoo.com/articles/puka-nacua-injury-makes-news-001335822.html",
+      "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-thursday-night-footba",
+      "title": "Los Angeles Rams at Seattle Seahawks: How to watch, listen to and live stream Thursday Night Football in Week 16",
+      "link": "https://therams.com/news/los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-thursday-night-football-in-week-16-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1765895820.0,
+      "published_iso": "2025-12-16T14:37:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-tst-images-los-angeles-rams-014521584-html",
+      "title": "TST Images : The Los Angeles Rams beat the Detroit Lions 41-34 at Sofi Stadium",
+      "link": "https://sports.yahoo.com/articles/tst-images-los-angeles-rams-014521584.html",
       "source": "Yahoo Sports",
-      "ts": 1765729500.0,
-      "published_iso": "2025-12-14T16:25:00+00:00"
+      "ts": 1765734540.0,
+      "published_iso": "2025-12-14T17:49:00+00:00"
     }
   ]
 }
