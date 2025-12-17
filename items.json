@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2025-12-17T20:42:33.865744+00:00",
-  "count": 3,
+  "updated_iso": "2025-12-17T21:10:02.723587+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-yahoo-com-news-videos-sam-darnold-rams-defense-2-230248243-html",
-      "title": "Sam Darnold on Rams defense 2 days before Seahawks host L.A. for NFC West lead",
-      "link": "https://yahoo.com/news/videos/sam-darnold-rams-defense-2-230248243.html",
-      "source": "Yahoo",
-      "ts": 1765974660.0,
-      "published_iso": "2025-12-17T12:31:00+00:00"
+      "id": "https-cbssports-com-nfl-news-rams-seahawks-preview-20251218026",
+      "title": "Rams-Seahawks Preview",
+      "link": "https://cbssports.com/nfl/news/rams-seahawks-preview-20251218026/",
+      "source": "CBS Sports",
+      "ts": 1765976280.0,
+      "published_iso": "2025-12-17T12:58:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-vs-seahawks-props-best-202900961-html",
+      "title": "Rams vs Seahawks Props & Best Bets for Thursday Night Football",
+      "link": "https://sports.yahoo.com/articles/rams-vs-seahawks-props-best-202900961.html",
+      "source": "Yahoo Sports",
+      "ts": 1765975800.0,
+      "published_iso": "2025-12-17T12:50:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-videos-darnold-speaks-on-improving-execution-ahead-of-rematch-with-rams",
+      "title": "Darnold speaks on improving execution ahead of rematch with Rams",
+      "link": "https://nfl.com/videos/darnold-speaks-on-improving-execution-ahead-of-rematch-with-rams",
+      "source": "NFL.com",
+      "ts": 1765975560.0,
+      "published_iso": "2025-12-17T12:46:00+00:00"
     },
     {
       "id": "https-therams-com-video-rams-vs-seahawks-rain-or-shine-week-16-2025-game-trailer",
@@ -17,14 +33,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1765972320.0,
       "published_iso": "2025-12-17T11:52:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-tst-images-los-angeles-rams-014521584-html",
-      "title": "TST Images : The Los Angeles Rams beat the Detroit Lions 41-34 at Sofi Stadium",
-      "link": "https://sports.yahoo.com/articles/tst-images-los-angeles-rams-014521584.html",
-      "source": "Yahoo Sports",
-      "ts": 1765734540.0,
-      "published_iso": "2025-12-14T17:49:00+00:00"
     }
   ]
 }
