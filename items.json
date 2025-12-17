@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-12-17T22:09:21.779599+00:00",
-  "count": 5,
+  "updated_iso": "2025-12-17T22:40:59.356449+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-seahawks-prioritized-rest-readiness-short-220331023-html",
+      "title": "Seahawks prioritized rest and readiness in short week ahead of Rams",
+      "link": "https://sports.yahoo.com/articles/seahawks-prioritized-rest-readiness-short-220331023.html",
+      "source": "Yahoo Sports",
+      "ts": 1765980960.0,
+      "published_iso": "2025-12-17T14:16:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-did-rams-two-best-defenders-212232315-html",
       "title": "Did the Rams get the two best defenders in the entire 2024 draft class?",
@@ -11,12 +19,12 @@
       "published_iso": "2025-12-17T13:54:00+00:00"
     },
     {
-      "id": "https-therams-com-news-all-eyes-on-tnf-rams-and-seahawks-collide-in-high-stakes-battle-game-preview",
-      "title": "All eyes on TNF: Rams and Seahawks collide in high-stakes battle | Game Preview",
-      "link": "https://therams.com/news/all-eyes-on-tnf-rams-and-seahawks-collide-in-high-stakes-battle-game-preview",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1765977240.0,
-      "published_iso": "2025-12-17T13:14:00+00:00"
+      "id": "https-latimes-com-0000019b-2e02-d522-ab9f-bed2e7fc0000-123",
+      "title": "Rams look to sweep Seahawks in prime-time NFC West showdown",
+      "link": "https://latimes.com/0000019b-2e02-d522-ab9f-bed2e7fc0000-123",
+      "source": "LA Times",
+      "ts": 1765975920.0,
+      "published_iso": "2025-12-17T12:52:00+00:00"
     },
     {
       "id": "https-nfl-com-videos-darnold-speaks-on-improving-execution-ahead-of-rematch-with-rams",
@@ -25,22 +33,6 @@
       "source": "NFL.com",
       "ts": 1765975560.0,
       "published_iso": "2025-12-17T12:46:00+00:00"
-    },
-    {
-      "id": "https-yahoo-com-news-videos-sam-darnold-rams-defense-2-230248243-html",
-      "title": "Sam Darnold on Rams defense 2 days before Seahawks host L.A. for NFC West lead",
-      "link": "https://yahoo.com/news/videos/sam-darnold-rams-defense-2-230248243.html",
-      "source": "Yahoo",
-      "ts": 1765974660.0,
-      "published_iso": "2025-12-17T12:31:00+00:00"
-    },
-    {
-      "id": "https-therams-com-video-rams-vs-seahawks-rain-or-shine-week-16-2025-game-trailer",
-      "title": "Rams vs. Seahawks: Rain or shine | Game Trailer",
-      "link": "https://therams.com/video/rams-vs-seahawks-rain-or-shine-week-16-2025-game-trailer",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1765972320.0,
-      "published_iso": "2025-12-17T11:52:00+00:00"
     }
   ]
 }
