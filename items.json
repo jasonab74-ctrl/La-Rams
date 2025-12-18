@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2025-12-18T21:09:19.176413+00:00",
+  "updated_iso": "2025-12-18T21:34:18.846900+00:00",
   "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-davante-adams-injury-rams-roster-203748599-html",
-      "title": "Davante Adams injury update: Rams roster move gives hope for WR's Week 16 status",
-      "link": "https://sports.yahoo.com/articles/davante-adams-injury-rams-roster-203748599.html",
+      "id": "https-sports-yahoo-com-articles-best-rams-vs-seahawks-same-132100402-html",
+      "title": "Best Rams vs Seahawks Same Game Parlay for Thursday Night Football Tonight",
+      "link": "https://sports.yahoo.com/articles/best-rams-vs-seahawks-same-132100402.html",
       "source": "Yahoo Sports",
-      "ts": 1766062560.0,
-      "published_iso": "2025-12-18T12:56:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-thursday-night-football-prediction-odds-line-time-rams-seahawks-picks-best-bets",
-      "title": "'Thursday Night Football' prediction, odds, line, start time: Rams vs. Seahawks picks from expert on 27-10 run",
-      "link": "https://cbssports.com/nfl/news/thursday-night-football-prediction-odds-line-time-rams-seahawks-picks-best-bets/",
-      "source": "CBS Sports",
-      "ts": 1766058240.0,
-      "published_iso": "2025-12-18T11:44:00+00:00"
+      "ts": 1766064480.0,
+      "published_iso": "2025-12-18T13:28:00+00:00"
     },
     {
       "id": "https-nfl-com-news-rams-wr-puka-nacua-apologizes-antisemitic-gesture-livestream",
@@ -25,6 +17,14 @@
       "source": "NFL.com",
       "ts": 1766057760.0,
       "published_iso": "2025-12-18T11:36:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-defense-replicate-success-against-seahawks",
+      "title": "How the Rams Defense Can Replicate Success Against Seahawks",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-defense-replicate-success-against-seahawks",
+      "source": "Sports Illustrated",
+      "ts": 1765987200.0,
+      "published_iso": "2025-12-17T16:00:00+00:00"
     }
   ]
 }
