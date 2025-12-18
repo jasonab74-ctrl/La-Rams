@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2025-12-18T22:40:16.357890+00:00",
-  "count": 3,
+  "updated_iso": "2025-12-18T23:09:44.251694+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-seahawks-final-week-16-roster-222632437-html",
-      "title": "Seahawks make final Week 16 roster moves before hosting Rams on TNF",
-      "link": "https://sports.yahoo.com/articles/seahawks-final-week-16-roster-222632437.html",
+      "id": "https-sports-yahoo-com-articles-why-49ers-fans-root-seahawks-222326859-html",
+      "title": "Why 49ers fans should root for Seahawks over Rams on Thursday Night Football in Week 16",
+      "link": "https://sports.yahoo.com/articles/why-49ers-fans-root-seahawks-222326859.html",
       "source": "Yahoo Sports",
-      "ts": 1766068680.0,
-      "published_iso": "2025-12-18T14:38:00+00:00"
+      "ts": 1766069340.0,
+      "published_iso": "2025-12-18T14:49:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-thursday-night-football-prediction-odds-line-time-rams-seahawks-picks-best-bets",
@@ -17,14 +17,6 @@
       "source": "CBS Sports",
       "ts": 1766066160.0,
       "published_iso": "2025-12-18T13:56:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-nfl-facing-punishment-decision-rams-181501713-html",
-      "title": "NFL Facing Punishment Decision on Rams WR Puka Nacua",
-      "link": "https://sports.yahoo.com/articles/nfl-facing-punishment-decision-rams-181501713.html",
-      "source": "Yahoo Sports",
-      "ts": 1766065200.0,
-      "published_iso": "2025-12-18T13:40:00+00:00"
     }
   ]
 }
