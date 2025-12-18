@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-12-18T17:43:29.259222+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-18T18:15:08.994313+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-keys-seahawks-vs-rams-huge-175614432-html",
+      "title": "The keys to the Seahawks vs Rams huge one in the rain, wind--and the pick",
+      "link": "https://sports.yahoo.com/articles/keys-seahawks-vs-rams-huge-175614432.html",
+      "source": "Yahoo Sports",
+      "ts": 1766052240.0,
+      "published_iso": "2025-12-18T10:04:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-sam-darnolds-stats-vs-rams-163255234-html",
+      "title": "Sam Darnold's stats vs. Rams are an absolute nightmare",
+      "link": "https://sports.yahoo.com/articles/sam-darnolds-stats-vs-rams-163255234.html",
+      "source": "Yahoo Sports",
+      "ts": 1766048160.0,
+      "published_iso": "2025-12-18T08:56:00+00:00"
+    }
+  ]
 }
