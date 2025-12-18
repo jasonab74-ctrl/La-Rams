@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-12-18T14:44:53.471656+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-18T15:11:44.675442+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-si-com-betting-rams-vs-seahawks-final-score-prediction-for-nfl-week-16-can-seattle-get-revenge",
+      "title": "Rams vs. Seahawks Final Score Prediction for NFL Week 16 (Can Seattle Get Revenge?)",
+      "link": "https://si.com/betting/rams-vs-seahawks-final-score-prediction-for-nfl-week-16-can-seattle-get-revenge",
+      "source": "Sports Illustrated",
+      "ts": 1766041200.0,
+      "published_iso": "2025-12-18T07:00:00+00:00"
+    },
     {
       "id": "https-cbssports-com-nfl-news-fanduel-promo-code-get-250-bonus-bets-rams-seahawks-thursday-night-football",
       "title": "FanDuel promo code: Get $250 in bonus bets for Rams vs. Seahawks on Thursday Night Football",
@@ -11,12 +19,12 @@
       "published_iso": "2025-12-18T06:15:00+00:00"
     },
     {
-      "id": "https-cbssports-com-betting-news-best-betting-apps-nfl-sportsbooks-promos-thursday-night-football-how-where-bet-rams-sea",
-      "title": "Best betting apps, NFL sportsbooks promos for Thursday Night Football: How, where to bet Rams vs. Seahawks",
-      "link": "https://cbssports.com/betting/news/best-betting-apps-nfl-sportsbooks-promos-thursday-night-football-how-where-bet-rams-seahawks/",
-      "source": "CBS Sports",
-      "ts": 1766035140.0,
-      "published_iso": "2025-12-18T05:19:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-12-18-macaulay-culkin-says-this-rams-addition-is-teams-unsung-",
+      "title": "Macaulay Culkin says this Rams addition is team's unsung hero in 2025",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/12/18/macaulay-culkin-says-this-rams-addition-is-teams-unsung-hero-in-2025/87817519007/",
+      "source": "Rams Wire",
+      "ts": 1766034720.0,
+      "published_iso": "2025-12-18T05:12:00+00:00"
     }
   ]
 }
