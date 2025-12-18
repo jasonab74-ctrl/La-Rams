@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-12-18T20:10:31.664181+00:00",
-  "count": 4,
+  "updated_iso": "2025-12-18T20:38:41.458154+00:00",
+  "count": 3,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-nfc-west-standings-seahawks-rams-193648433-html",
-      "title": "NFC West standings: How Seahawks-Rams 'Thursday Night Football' game impacts division race, playoff picture",
-      "link": "https://sports.yahoo.com/articles/nfc-west-standings-seahawks-rams-193648433.html",
-      "source": "Yahoo Sports",
-      "ts": 1766058600.0,
-      "published_iso": "2025-12-18T11:50:00+00:00"
-    },
     {
       "id": "https-cbssports-com-nfl-news-thursday-night-football-prediction-odds-line-time-rams-seahawks-picks-best-bets",
       "title": "'Thursday Night Football' prediction, odds, line, start time: Rams vs. Seahawks picks from expert on 27-10 run",
@@ -19,20 +11,20 @@
       "published_iso": "2025-12-18T11:44:00+00:00"
     },
     {
-      "id": "https-cbssports-com-nfl-news-rams-puka-nacua-apology-antisemitic-dance-livestream",
-      "title": "Rams WR Puka Nacua apologizes for doing antisemitic dance on livestream: 'I do not stand for any form of hate'",
-      "link": "https://cbssports.com/nfl/news/rams-puka-nacua-apology-antisemitic-dance-livestream/",
-      "source": "CBS Sports",
-      "ts": 1766058120.0,
-      "published_iso": "2025-12-18T11:42:00+00:00"
+      "id": "https-sports-yahoo-com-articles-rams-vs-seahawks-props-best-202900961-html",
+      "title": "Rams vs Seahawks Props & Best Bets for Thursday Night Football Tonight",
+      "link": "https://sports.yahoo.com/articles/rams-vs-seahawks-props-best-202900961.html",
+      "source": "Yahoo Sports",
+      "ts": 1766057040.0,
+      "published_iso": "2025-12-18T11:24:00+00:00"
     },
     {
-      "id": "https-foxsports-com-watch-fmc-cmi97all1v34mspq",
-      "title": "Rams and Seahawks both ‘bold’ teams, Who will win the NFC West Showdown? | The Herd",
-      "link": "https://foxsports.com/watch/fmc-cmi97all1v34mspq",
-      "source": "FOX Sports",
-      "ts": 1766054520.0,
-      "published_iso": "2025-12-18T10:42:00+00:00"
+      "id": "https-cbssports-com-nfl-news-rams-vs-seahawks-where-to-watch-pick-odds-prediction-tnf",
+      "title": "Rams vs. Seahawks prediction: Can Los Angeles tighten its grip on NFC West and No. 1 seed?",
+      "link": "https://cbssports.com/nfl/news/rams-vs-seahawks-where-to-watch-pick-odds-prediction-tnf/",
+      "source": "CBS Sports",
+      "ts": 1766037840.0,
+      "published_iso": "2025-12-18T06:04:00+00:00"
     }
   ]
 }
