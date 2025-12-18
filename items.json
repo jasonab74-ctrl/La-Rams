@@ -1,30 +1,38 @@
 {
-  "updated_iso": "2025-12-18T21:34:18.846900+00:00",
-  "count": 3,
+  "updated_iso": "2025-12-18T22:09:11.097512+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-best-rams-vs-seahawks-same-132100402-html",
-      "title": "Best Rams vs Seahawks Same Game Parlay for Thursday Night Football Tonight",
-      "link": "https://sports.yahoo.com/articles/best-rams-vs-seahawks-same-132100402.html",
+      "id": "https-sports-yahoo-com-articles-nfl-playoff-picture-does-rams-220000418-html",
+      "title": "NFL playoff picture: What does Rams-Seahawks mean for NFC standings in Week 16",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-picture-does-rams-220000418.html",
       "source": "Yahoo Sports",
-      "ts": 1766064480.0,
-      "published_iso": "2025-12-18T13:28:00+00:00"
+      "ts": 1766066880.0,
+      "published_iso": "2025-12-18T14:08:00+00:00"
     },
     {
-      "id": "https-nfl-com-news-rams-wr-puka-nacua-apologizes-antisemitic-gesture-livestream",
-      "title": "Rams WR Puka Nacua apologizes after making antisemitic gesture during livestream",
-      "link": "https://nfl.com/news/rams-wr-puka-nacua-apologizes-antisemitic-gesture-livestream",
-      "source": "NFL.com",
-      "ts": 1766057760.0,
-      "published_iso": "2025-12-18T11:36:00+00:00"
+      "id": "https-cbssports-com-nfl-news-betmgm-bonus-code-cbssports-claim-150-bonus-bets-seahawks-rams-thursday-night-football",
+      "title": "BetMGM bonus code CBSSPORTS: Claim $150 bonus bets for Seahawks vs. Rams on Thursday Night Football",
+      "link": "https://cbssports.com/nfl/news/betmgm-bonus-code-cbssports-claim-150-bonus-bets-seahawks-rams-thursday-night-football/",
+      "source": "CBS Sports",
+      "ts": 1766066580.0,
+      "published_iso": "2025-12-18T14:03:00+00:00"
     },
     {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-defense-replicate-success-against-seahawks",
-      "title": "How the Rams Defense Can Replicate Success Against Seahawks",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-defense-replicate-success-against-seahawks",
-      "source": "Sports Illustrated",
-      "ts": 1765987200.0,
-      "published_iso": "2025-12-17T16:00:00+00:00"
+      "id": "https-cbssports-com-nfl-news-thursday-night-football-prediction-odds-line-time-rams-seahawks-picks-best-bets",
+      "title": "'Thursday Night Football' prediction, odds, line, time: Rams vs. Seahawks picks from expert on a 27-10 roll",
+      "link": "https://cbssports.com/nfl/news/thursday-night-football-prediction-odds-line-time-rams-seahawks-picks-best-bets/",
+      "source": "CBS Sports",
+      "ts": 1766066160.0,
+      "published_iso": "2025-12-18T13:56:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-nfl-facing-punishment-decision-rams-181501713-html",
+      "title": "NFL Facing Punishment Decision on Rams WR Puka Nacua",
+      "link": "https://sports.yahoo.com/articles/nfl-facing-punishment-decision-rams-181501713.html",
+      "source": "Yahoo Sports",
+      "ts": 1766065200.0,
+      "published_iso": "2025-12-18T13:40:00+00:00"
     }
   ]
 }
