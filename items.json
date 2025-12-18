@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-12-18T05:42:59.043799+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-18T06:16:08.583957+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-puka-nacua-blasts-nfl-225530520-html",
+      "title": "Rams’ Puka Nacua Blasts NFL Referees, Claims They Text Friends After Purposely Making Bad Calls",
+      "link": "https://sports.yahoo.com/articles/rams-puka-nacua-blasts-nfl-225530520.html",
+      "source": "Yahoo Sports",
+      "ts": 1766008020.0,
+      "published_iso": "2025-12-17T21:47:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-nfc-west-showdown-seahawks-010921003-html",
       "title": "Rams’ NFC West showdown with Seahawks off to an ominous start with plane delay",
@@ -11,12 +19,12 @@
       "published_iso": "2025-12-17T21:42:00+00:00"
     },
     {
-      "id": "https-bleacherreport-com-articles-25332025-rams-flight-seattle-reportedly-significantly-delayed-ahead-tnf-vs-seahawks",
-      "title": "Rams' Flight to Seattle Reportedly 'Significantly Delayed' Ahead of TNF vs. Seahawks",
-      "link": "https://bleacherreport.com/articles/25332025-rams-flight-seattle-reportedly-significantly-delayed-ahead-tnf-vs-seahawks",
-      "source": "Bleacher Report",
-      "ts": 1765987380.0,
-      "published_iso": "2025-12-17T16:03:00+00:00"
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-matthew-stafford-details-approach-seahawks-showdown",
+      "title": "Rams' Matthew Stafford Details Approach For Seahawks Showdown",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-matthew-stafford-details-approach-seahawks-showdown",
+      "source": "Sports Illustrated",
+      "ts": 1765998360.0,
+      "published_iso": "2025-12-17T19:06:00+00:00"
     }
   ]
 }
