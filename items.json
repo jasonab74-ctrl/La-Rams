@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-12-18T15:42:13.659166+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-18T16:13:42.106616+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-lions-playoff-picture-rams-vs-160000457-html",
+      "title": "Lions playoff picture: What Rams vs. Seahawks means for NFC standings",
+      "link": "https://sports.yahoo.com/articles/lions-playoff-picture-rams-vs-160000457.html",
+      "source": "Yahoo Sports",
+      "ts": 1766045100.0,
+      "published_iso": "2025-12-18T08:05:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-seahawks-predictions-picks-best-bets-for-week-16s-thursday-night-football-matchup",
+      "title": "Rams vs Seahawks: Predictions, picks, best bets for Week 16's Thursday Night Football matchup",
+      "link": "https://cbssports.com/nfl/news/rams-vs-seahawks-predictions-picks-best-bets-for-week-16s-thursday-night-football-matchup/",
+      "source": "CBS Sports",
+      "ts": 1766043840.0,
+      "published_iso": "2025-12-18T07:44:00+00:00"
+    },
     {
       "id": "https-si-com-betting-rams-vs-seahawks-final-score-prediction-for-nfl-week-16-can-seattle-get-revenge",
       "title": "Rams vs. Seahawks Final Score Prediction for NFL Week 16 (Can Seattle Get Revenge?)",
@@ -9,14 +25,6 @@
       "source": "Sports Illustrated",
       "ts": 1766041200.0,
       "published_iso": "2025-12-18T07:00:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-fanduel-promo-code-get-250-bonus-bets-rams-seahawks-thursday-night-football",
-      "title": "FanDuel promo code: Get $250 in bonus bets for Rams vs. Seahawks on Thursday Night Football",
-      "link": "https://cbssports.com/nfl/news/fanduel-promo-code-get-250-bonus-bets-rams-seahawks-thursday-night-football/",
-      "source": "CBS Sports",
-      "ts": 1766038500.0,
-      "published_iso": "2025-12-18T06:15:00+00:00"
     }
   ]
 }
