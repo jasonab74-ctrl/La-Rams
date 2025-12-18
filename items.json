@@ -1,22 +1,30 @@
 {
-  "updated_iso": "2025-12-18T06:52:06.040350+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-18T07:13:00.446704+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-nfc-west-showdown-seahawks-010921003-html",
-      "title": "Rams’ NFC West showdown with Seahawks off to an ominous start with plane delay",
-      "link": "https://sports.yahoo.com/articles/rams-nfc-west-showdown-seahawks-010921003.html",
-      "source": "Yahoo Sports",
-      "ts": 1766007720.0,
-      "published_iso": "2025-12-17T21:42:00+00:00"
+      "id": "https-ocregister-com-2025-12-17-rams-at-seattle-seahawks-who-has-the-edge-6",
+      "title": "Rams at Seattle Seahawks: Who has the edge?",
+      "link": "https://ocregister.com/2025/12/17/rams-at-seattle-seahawks-who-has-the-edge-6/",
+      "source": "OC Register",
+      "ts": 1766012760.0,
+      "published_iso": "2025-12-17T23:06:00+00:00"
     },
     {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-matthew-stafford-details-approach-seahawks-showdown",
-      "title": "Rams' Matthew Stafford Details Approach For Seahawks Showdown",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-matthew-stafford-details-approach-seahawks-showdown",
-      "source": "Sports Illustrated",
-      "ts": 1765998360.0,
-      "published_iso": "2025-12-17T19:06:00+00:00"
+      "id": "https-sports-yahoo-com-articles-nfl-thursday-rams-seahawks-epic-160234593-html",
+      "title": "NFL Thursday: Rams-Seahawks an epic battle atop NFC to open Week 16. Our pick",
+      "link": "https://sports.yahoo.com/articles/nfl-thursday-rams-seahawks-epic-160234593.html",
+      "source": "Yahoo Sports",
+      "ts": 1766011080.0,
+      "published_iso": "2025-12-17T22:38:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-puka-nacua-blasts-nfl-225530520-html",
+      "title": "Rams’ Puka Nacua Blasts NFL Referees, Claims They Text Friends After Purposely Making Bad Calls",
+      "link": "https://sports.yahoo.com/articles/rams-puka-nacua-blasts-nfl-225530520.html",
+      "source": "Yahoo Sports",
+      "ts": 1766008020.0,
+      "published_iso": "2025-12-17T21:47:00+00:00"
     }
   ]
 }
