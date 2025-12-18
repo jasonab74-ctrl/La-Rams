@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-12-18T04:23:01.463997+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-18T04:50:16.749483+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-davante-adams-verge-missing-012537505-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1765993680.0,
       "published_iso": "2025-12-17T17:48:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25332025-rams-flight-seattle-reportedly-significantly-delayed-ahead-tnf-vs-seahawks",
-      "title": "Rams' Flight to Seattle Reportedly 'Significantly Delayed' Ahead of TNF vs. Seahawks",
-      "link": "https://bleacherreport.com/articles/25332025-rams-flight-seattle-reportedly-significantly-delayed-ahead-tnf-vs-seahawks",
-      "source": "Bleacher Report",
-      "ts": 1765987380.0,
-      "published_iso": "2025-12-17T16:03:00+00:00"
     }
   ]
 }
