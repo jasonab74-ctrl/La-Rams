@@ -1,7 +1,31 @@
 {
-  "updated_iso": "2025-12-18T13:51:47.998499+00:00",
-  "count": 4,
+  "updated_iso": "2025-12-18T14:12:11.297185+00:00",
+  "count": 6,
   "items": [
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-seahawks-where-to-watch-pick-odds-prediction-tnf",
+      "title": "Rams vs. Seahawks prediction: Can Los Angeles tighten its grip on NFC West and No. 1 seed?",
+      "link": "https://cbssports.com/nfl/news/rams-vs-seahawks-where-to-watch-pick-odds-prediction-tnf/",
+      "source": "CBS Sports",
+      "ts": 1766037840.0,
+      "published_iso": "2025-12-18T06:04:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-vs-seahawks-picks-predictions-133155603-html",
+      "title": "Rams vs. Seahawks picks, predictions from NFL experts for Week 16 game",
+      "link": "https://sports.yahoo.com/articles/rams-vs-seahawks-picks-predictions-133155603.html",
+      "source": "Yahoo Sports",
+      "ts": 1766037660.0,
+      "published_iso": "2025-12-18T06:01:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-seahawks-onsi-game-day-rams-off-the-field-issues-could-play-serious-role-in-thursday-s-game-versus-seah",
+      "title": "Rams' off the field issues could play serious role in Thursday's game versus Seahawks",
+      "link": "https://si.com/nfl/seahawks/onsi/game-day/rams-off-the-field-issues-could-play-serious-role-in-thursday-s-game-versus-seahawks-01kcrr6xqd94",
+      "source": "Sports Illustrated",
+      "ts": 1766037360.0,
+      "published_iso": "2025-12-18T05:56:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-best-rams-vs-seahawks-same-132100402-html",
       "title": "Best Rams vs Seahawks Same Game Parlay for Thursday Night Football Week 16",
@@ -25,14 +49,6 @@
       "source": "Rams Wire",
       "ts": 1766034720.0,
       "published_iso": "2025-12-18T05:12:00+00:00"
-    },
-    {
-      "id": "https-si-com-betting-rams-vs-seahawks-final-score-prediction-for-nfl-week-16-can-seattle-get-revenge",
-      "title": "Rams vs. Seahawks Final Score Prediction for NFL Week 16 (Can Seattle Get Revenge?)",
-      "link": "https://si.com/betting/rams-vs-seahawks-final-score-prediction-for-nfl-week-16-can-seattle-get-revenge",
-      "source": "Sports Illustrated",
-      "ts": 1766029380.0,
-      "published_iso": "2025-12-18T03:43:00+00:00"
     }
   ]
 }
