@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2025-12-18T13:08:04.121998+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-18T13:51:47.998499+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-vs-seahawks-prediction-picks-120000073-html",
-      "title": "Rams vs Seahawks Prediction, Picks & Best Bets for Thursday Night Football Week 16",
-      "link": "https://sports.yahoo.com/articles/rams-vs-seahawks-prediction-picks-120000073.html",
+      "id": "https-sports-yahoo-com-articles-best-rams-vs-seahawks-same-132100402-html",
+      "title": "Best Rams vs Seahawks Same Game Parlay for Thursday Night Football Week 16",
+      "link": "https://sports.yahoo.com/articles/best-rams-vs-seahawks-same-132100402.html",
       "source": "Yahoo Sports",
-      "ts": 1766031060.0,
-      "published_iso": "2025-12-18T04:11:00+00:00"
+      "ts": 1766035920.0,
+      "published_iso": "2025-12-18T05:32:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-betting-news-best-betting-apps-nfl-sportsbooks-promos-thursday-night-football-how-where-bet-rams-sea",
+      "title": "Best betting apps, NFL sportsbooks promos for Thursday Night Football: How, where to bet Rams vs. Seahawks",
+      "link": "https://cbssports.com/betting/news/best-betting-apps-nfl-sportsbooks-promos-thursday-night-football-how-where-bet-rams-seahawks/",
+      "source": "CBS Sports",
+      "ts": 1766035140.0,
+      "published_iso": "2025-12-18T05:19:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-12-18-macaulay-culkin-says-this-rams-addition-is-teams-unsung-",
+      "title": "Macaulay Culkin says this Rams addition is team's unsung hero in 2025",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/12/18/macaulay-culkin-says-this-rams-addition-is-teams-unsung-hero-in-2025/87817519007/",
+      "source": "Rams Wire",
+      "ts": 1766034720.0,
+      "published_iso": "2025-12-18T05:12:00+00:00"
     },
     {
       "id": "https-si-com-betting-rams-vs-seahawks-final-score-prediction-for-nfl-week-16-can-seattle-get-revenge",
