@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2025-12-18T19:10:19.064688+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-18T19:31:00.947317+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-vs-seahawks-props-best-202900961-html",
+      "title": "Rams vs Seahawks Props & Best Bets for Thursday Night Football Tonight",
+      "link": "https://sports.yahoo.com/articles/rams-vs-seahawks-props-best-202900961.html",
+      "source": "Yahoo Sports",
+      "ts": 1766057040.0,
+      "published_iso": "2025-12-18T11:24:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-top-rams-news-previews-and-predictions-for-rams-at-seahawks-on-thursday-night-football-in-week-16",
+      "title": "Top Rams News: Previews and predictions for Rams at Seahawks on Thursday Night Football in Week 16",
+      "link": "https://therams.com/news/top-rams-news-previews-and-predictions-for-rams-at-seahawks-on-thursday-night-football-in-week-16-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1766054880.0,
+      "published_iso": "2025-12-18T10:48:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-watch-fmc-cmi97all1v34mspq",
+      "title": "Rams and Seahawks both ‘bold’ teams, Who will win the NFC West Showdown? | The Herd",
+      "link": "https://foxsports.com/watch/fmc-cmi97all1v34mspq",
+      "source": "FOX Sports",
+      "ts": 1766054520.0,
+      "published_iso": "2025-12-18T10:42:00+00:00"
+    }
+  ]
 }
