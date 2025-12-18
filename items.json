@@ -1,22 +1,30 @@
 {
-  "updated_iso": "2025-12-18T19:31:00.947317+00:00",
-  "count": 3,
+  "updated_iso": "2025-12-18T20:10:31.664181+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-vs-seahawks-props-best-202900961-html",
-      "title": "Rams vs Seahawks Props & Best Bets for Thursday Night Football Tonight",
-      "link": "https://sports.yahoo.com/articles/rams-vs-seahawks-props-best-202900961.html",
+      "id": "https-sports-yahoo-com-articles-nfc-west-standings-seahawks-rams-193648433-html",
+      "title": "NFC West standings: How Seahawks-Rams 'Thursday Night Football' game impacts division race, playoff picture",
+      "link": "https://sports.yahoo.com/articles/nfc-west-standings-seahawks-rams-193648433.html",
       "source": "Yahoo Sports",
-      "ts": 1766057040.0,
-      "published_iso": "2025-12-18T11:24:00+00:00"
+      "ts": 1766058600.0,
+      "published_iso": "2025-12-18T11:50:00+00:00"
     },
     {
-      "id": "https-therams-com-news-top-rams-news-previews-and-predictions-for-rams-at-seahawks-on-thursday-night-football-in-week-16",
-      "title": "Top Rams News: Previews and predictions for Rams at Seahawks on Thursday Night Football in Week 16",
-      "link": "https://therams.com/news/top-rams-news-previews-and-predictions-for-rams-at-seahawks-on-thursday-night-football-in-week-16-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1766054880.0,
-      "published_iso": "2025-12-18T10:48:00+00:00"
+      "id": "https-cbssports-com-nfl-news-thursday-night-football-prediction-odds-line-time-rams-seahawks-picks-best-bets",
+      "title": "'Thursday Night Football' prediction, odds, line, start time: Rams vs. Seahawks picks from expert on 27-10 run",
+      "link": "https://cbssports.com/nfl/news/thursday-night-football-prediction-odds-line-time-rams-seahawks-picks-best-bets/",
+      "source": "CBS Sports",
+      "ts": 1766058240.0,
+      "published_iso": "2025-12-18T11:44:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-rams-puka-nacua-apology-antisemitic-dance-livestream",
+      "title": "Rams WR Puka Nacua apologizes for doing antisemitic dance on livestream: 'I do not stand for any form of hate'",
+      "link": "https://cbssports.com/nfl/news/rams-puka-nacua-apology-antisemitic-dance-livestream/",
+      "source": "CBS Sports",
+      "ts": 1766058120.0,
+      "published_iso": "2025-12-18T11:42:00+00:00"
     },
     {
       "id": "https-foxsports-com-watch-fmc-cmi97all1v34mspq",
