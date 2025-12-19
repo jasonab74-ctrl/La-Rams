@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2025-12-19T22:09:46.187643+00:00",
-  "count": 3,
+  "updated_iso": "2025-12-19T22:40:01.555427+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-bleacherreport-com-articles-25333905-seahawks-derick-hall-suspended-nfl-after-stepping-leg-rams-kevin-dotson",
-      "title": "Seahawks' Derick Hall Suspended by NFL After Stepping on Leg of Rams' Kevin Dotson",
-      "link": "https://bleacherreport.com/articles/25333905-seahawks-derick-hall-suspended-nfl-after-stepping-leg-rams-kevin-dotson",
+      "id": "https-bleacherreport-com-articles-25334050-davante-adams-injury-status-rams-vs-falcons-discussed-sean-mcvay",
+      "title": "Davante Adams' Injury Status for Rams vs. Falcons Discussed By Sean McVay",
+      "link": "https://bleacherreport.com/articles/25334050-davante-adams-injury-status-rams-vs-falcons-discussed-sean-mcvay",
       "source": "Bleacher Report",
-      "ts": 1766149500.0,
-      "published_iso": "2025-12-19T13:05:00+00:00"
+      "ts": 1766154600.0,
+      "published_iso": "2025-12-19T14:30:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf",
@@ -25,6 +25,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1766091900.0,
       "published_iso": "2025-12-18T21:05:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-12-17-nfl-week-16-rams-vs-seahawks-betting-odds-tips-trends-12",
+      "title": "Los Angeles Rams vs. Seattle Seahawks 2025 odds, tips and betting trends | Week 16",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/12/17/nfl-week-16-rams-vs-seahawks-betting-odds-tips-trends-12-18-2025/87819820007/",
+      "source": "Rams Wire",
+      "ts": 1765994220.0,
+      "published_iso": "2025-12-17T17:57:00+00:00"
     }
   ]
 }
