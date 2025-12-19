@@ -1,5 +1,54 @@
 {
-  "updated_iso": "2025-12-19T04:50:01.866459+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-19T05:12:31.525399+00:00",
+  "count": 6,
+  "items": [
+    {
+      "id": "https-bleacherreport-com-articles-25333587-sam-darnold-seahawks-stun-nfl-fans-ot-win-after-epic-comeback-vs-stafford-ram",
+      "title": "Sam Darnold, Seahawks Stun NFL Fans with OT Win After Epic Comeback vs. Stafford, Rams",
+      "link": "https://bleacherreport.com/articles/25333587-sam-darnold-seahawks-stun-nfl-fans-ot-win-after-epic-comeback-vs-stafford-rams",
+      "source": "Bleacher Report",
+      "ts": 1766091720.0,
+      "published_iso": "2025-12-18T21:02:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-seahawks-final-score-l-045431756-html",
+      "title": "Rams-Seahawks final score: L.A. chokes away instant-classic",
+      "link": "https://sports.yahoo.com/articles/rams-seahawks-final-score-l-045431756.html",
+      "source": "Yahoo Sports",
+      "ts": 1766091600.0,
+      "published_iso": "2025-12-18T21:00:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-videos-seahawks-two-point-conversion-gets-seattle-within-one-score-of-rams-in-the-fourth-quarter",
+      "title": "Seahawks two-point conversion gets Seattle within one score of Rams in the fourth quarter",
+      "link": "https://nfl.com/videos/seahawks-two-point-conversion-gets-seattle-within-one-score-of-rams-in-the-fourth-quarter",
+      "source": "NFL.com",
+      "ts": 1766091060.0,
+      "published_iso": "2025-12-18T20:51:00+00:00"
+    },
+    {
+      "id": "https-latimes-com-sports-rams-live-rams-vs-seattle-seahawks-live-updates-how-to-watch-start-time-and-odds",
+      "title": "Rams collapse in fourth quarter, losing to Seahawks in overtime stunner",
+      "link": "https://latimes.com/sports/rams/live/rams-vs-seattle-seahawks-live-updates-how-to-watch-start-time-and-odds",
+      "source": "LA Times",
+      "ts": 1766090880.0,
+      "published_iso": "2025-12-18T20:48:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-sam-darnold-turnover-problems-continue-035015765-html",
+      "title": "Sam Darnold turnover problems continue against the Rams",
+      "link": "https://sports.yahoo.com/articles/sam-darnold-turnover-problems-continue-035015765.html",
+      "source": "Yahoo Sports",
+      "ts": 1766089320.0,
+      "published_iso": "2025-12-18T20:22:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf",
+      "title": "Seahawks vs. Rams live updates: Seattle hosts Los Angeles in a battle for the NFC lead on 'TNF'",
+      "link": "https://cbssports.com/nfl/news/seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf/live/",
+      "source": "CBS Sports",
+      "ts": 1766071320.0,
+      "published_iso": "2025-12-18T15:22:00+00:00"
+    }
+  ]
 }
