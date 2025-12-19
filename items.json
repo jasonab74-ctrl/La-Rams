@@ -1,22 +1,30 @@
 {
-  "updated_iso": "2025-12-18T23:37:15.910391+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-19T00:46:13.963656+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-cbssports-com-nfl-news-seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf",
-      "title": "Seahawks vs. Rams live updates: Seattle hosts Los Angeles in a battle for the NFC lead on 'TNF'",
-      "link": "https://cbssports.com/nfl/news/seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf/live/",
+      "id": "https-cbssports-com-nfl-news-betmgm-bonus-code-cbssports-claim-150-bonus-bets-rams-seahawks-thursday-night-football",
+      "title": "BetMGM bonus code CBSSPORTS: Claim $150 bonus bets for Rams vs. Seahawks on Thursday Night Football",
+      "link": "https://cbssports.com/nfl/news/betmgm-bonus-code-cbssports-claim-150-bonus-bets-rams-seahawks-thursday-night-football/",
       "source": "CBS Sports",
-      "ts": 1766071320.0,
-      "published_iso": "2025-12-18T15:22:00+00:00"
+      "ts": 1766075400.0,
+      "published_iso": "2025-12-18T16:30:00+00:00"
     },
     {
-      "id": "https-cbssports-com-nfl-news-thursday-night-football-prediction-odds-line-time-rams-seahawks-picks-best-bets",
-      "title": "'Thursday Night Football' prediction, odds, line, time: Rams vs. Seahawks picks from expert on a 27-10 roll",
-      "link": "https://cbssports.com/nfl/news/thursday-night-football-prediction-odds-line-time-rams-seahawks-picks-best-bets/",
+      "id": "https-sports-yahoo-com-articles-davante-adams-playing-tonight-rams-000328493-html",
+      "title": "Is Davante Adams playing tonight? Rams make call on star WR",
+      "link": "https://sports.yahoo.com/articles/davante-adams-playing-tonight-rams-000328493.html",
+      "source": "Yahoo Sports",
+      "ts": 1766074860.0,
+      "published_iso": "2025-12-18T16:21:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-nfl-dfs-seahawks-rams-daily-fantasy-picks-stacks-fanduel-draftkings-lineups-advice-thursday",
+      "title": "NFL DFS, Seahawks vs. Rams: Top daily Fantasy picks, lineups, advice, stacks for 'Thursday Night Football'",
+      "link": "https://cbssports.com/nfl/news/nfl-dfs-seahawks-rams-daily-fantasy-picks-stacks-fanduel-draftkings-lineups-advice-thursday-night-football/",
       "source": "CBS Sports",
-      "ts": 1766066160.0,
-      "published_iso": "2025-12-18T13:56:00+00:00"
+      "ts": 1766074200.0,
+      "published_iso": "2025-12-18T16:10:00+00:00"
     }
   ]
 }
