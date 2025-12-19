@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-12-19T14:10:35.277714+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-19T14:42:48.270723+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-bleacherreport-com-articles-25333654-rams-nacua-stafford-mcvay-sound-seahawks-controversial-2-point-conversion",
+      "title": "Rams' Nacua, Stafford, McVay Sound Off on Seahawks' Controversial 2-Point Conversion",
+      "link": "https://bleacherreport.com/articles/25333654-rams-nacua-stafford-mcvay-sound-seahawks-controversial-2-point-conversion",
+      "source": "Bleacher Report",
+      "ts": 1766122320.0,
+      "published_iso": "2025-12-19T05:32:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf",
+      "title": "Seahawks vs. Rams score, takeaways: Sam Darnold rallies Seattle in OT, after huge games Los Angeles' stars",
+      "link": "https://cbssports.com/nfl/news/seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf/live/",
+      "source": "CBS Sports",
+      "ts": 1766110680.0,
+      "published_iso": "2025-12-19T02:18:00+00:00"
+    }
+  ]
 }
