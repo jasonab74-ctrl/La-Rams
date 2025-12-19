@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-12-19T16:47:35.262600+00:00",
+  "updated_iso": "2025-12-19T17:09:42.456522+00:00",
   "count": 5,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-seahawks-almost-identical-stats-170200643-html",
+      "title": "Rams, Seahawks have almost identical stats against each other in 2025",
+      "link": "https://sports.yahoo.com/articles/rams-seahawks-almost-identical-stats-170200643.html",
+      "source": "Yahoo Sports",
+      "ts": 1766135280.0,
+      "published_iso": "2025-12-19T09:08:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-most-blame-insane-collapse-150624482-html",
       "title": "Rams most to blame for insane collapse on TNF against Seahawks",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1766132700.0,
       "published_iso": "2025-12-19T08:25:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-wr-puka-nacua-apologizes-214345845-html",
-      "title": "Rams WR Puka Nacua apologizes for antisemitic gesture, adds more controversy after career game",
-      "link": "https://sports.yahoo.com/articles/rams-wr-puka-nacua-apologizes-214345845.html",
-      "source": "Yahoo Sports",
-      "ts": 1766131380.0,
-      "published_iso": "2025-12-19T08:03:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf",
