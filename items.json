@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-12-19T06:15:37.111064+00:00",
-  "count": 5,
+  "updated_iso": "2025-12-19T06:51:00.400887+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-sam-darnold-stats-seahawks-qb-055249917-html",
@@ -11,12 +11,12 @@
       "published_iso": "2025-12-18T22:13:00+00:00"
     },
     {
-      "id": "https-bleacherreport-com-articles-25333509-nfl-playoff-bracket-picture-2025-26-standings-scenarios-after-rams-vs-seahawk",
-      "title": "NFL Playoff Bracket Picture 2025-26, Standings, Scenarios After Rams vs. Seahawks",
-      "link": "https://bleacherreport.com/articles/25333509-nfl-playoff-bracket-picture-2025-26-standings-scenarios-after-rams-vs-seahawks",
-      "source": "Bleacher Report",
-      "ts": 1766093040.0,
-      "published_iso": "2025-12-18T21:24:00+00:00"
+      "id": "https-sports-yahoo-com-articles-rams-loss-seahawks-breaks-nfl-054027931-html",
+      "title": "Rams' loss to Seahawks breaks NFL record that stood for at least 50 years",
+      "link": "https://sports.yahoo.com/articles/rams-loss-seahawks-breaks-nfl-054027931.html",
+      "source": "Yahoo Sports",
+      "ts": 1766095980.0,
+      "published_iso": "2025-12-18T22:13:00+00:00"
     },
     {
       "id": "https-latimes-com-sports-rams-live-rams-vs-seattle-seahawks-live-updates-how-to-watch-start-time-and-odds",
@@ -25,14 +25,6 @@
       "source": "LA Times",
       "ts": 1766092020.0,
       "published_iso": "2025-12-18T21:07:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25333587-sam-darnold-seahawks-stun-nfl-fans-ot-win-after-epic-comeback-vs-stafford-ram",
-      "title": "Sam Darnold, Seahawks Stun NFL Fans with OT Win After Epic Comeback vs. Stafford, Rams",
-      "link": "https://bleacherreport.com/articles/25333587-sam-darnold-seahawks-stun-nfl-fans-ot-win-after-epic-comeback-vs-stafford-rams",
-      "source": "Bleacher Report",
-      "ts": 1766091720.0,
-      "published_iso": "2025-12-18T21:02:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf",
