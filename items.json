@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2025-12-19T17:09:42.456522+00:00",
-  "count": 5,
+  "updated_iso": "2025-12-19T17:35:27.805145+00:00",
+  "count": 6,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-seahawks-almost-identical-stats-170200643-html",
-      "title": "Rams, Seahawks have almost identical stats against each other in 2025",
-      "link": "https://sports.yahoo.com/articles/rams-seahawks-almost-identical-stats-170200643.html",
+      "id": "https-sports-yahoo-com-articles-seahawks-posts-hilarious-response-snapping-163350490-html",
+      "title": "Seahawks' posts hilarious response to snapping 0-172 streak after wild Rams comeback",
+      "link": "https://sports.yahoo.com/articles/seahawks-posts-hilarious-response-snapping-163350490.html",
       "source": "Yahoo Sports",
-      "ts": 1766135280.0,
-      "published_iso": "2025-12-19T09:08:00+00:00"
+      "ts": 1766134440.0,
+      "published_iso": "2025-12-19T08:54:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-rams-most-blame-insane-collapse-150624482-html",
@@ -41,6 +41,14 @@
       "source": "Rams Wire",
       "ts": 1765996560.0,
       "published_iso": "2025-12-17T18:36:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-12-17-nfl-week-16-rams-vs-seahawks-betting-odds-tips-trends-12",
+      "title": "Los Angeles Rams vs. Seattle Seahawks 2025 odds, tips and betting trends | Week 16",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/12/17/nfl-week-16-rams-vs-seahawks-betting-odds-tips-trends-12-18-2025/87819820007/",
+      "source": "Rams Wire",
+      "ts": 1765994220.0,
+      "published_iso": "2025-12-17T17:57:00+00:00"
     }
   ]
 }
