@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-12-19T20:40:16.295088+00:00",
-  "count": 4,
+  "updated_iso": "2025-12-19T21:09:05.282493+00:00",
+  "count": 5,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-nfl-announces-25-000-fine-195031306-html",
-      "title": "NFL announces $25,000 fine for Rams’ Puka Nacua",
-      "link": "https://sports.yahoo.com/articles/nfl-announces-25-000-fine-195031306.html",
+      "id": "https-bleacherreport-com-articles-25333905-seahawks-derick-hall-suspended-nfl-after-stepping-leg-rams-kevin-dotson",
+      "title": "Seahawks' Derick Hall Suspended by NFL After Stepping on Leg of Rams' Kevin Dotson",
+      "link": "https://bleacherreport.com/articles/25333905-seahawks-derick-hall-suspended-nfl-after-stepping-leg-rams-kevin-dotson",
+      "source": "Bleacher Report",
+      "ts": 1766149500.0,
+      "published_iso": "2025-12-19T13:05:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-seahawks-lb-suspended-1-game-204628126-html",
+      "title": "Seahawks LB suspended 1 game for stepping on Rams RG Kevin Dotson's ankle",
+      "link": "https://sports.yahoo.com/articles/seahawks-lb-suspended-1-game-204628126.html",
       "source": "Yahoo Sports",
-      "ts": 1766147760.0,
-      "published_iso": "2025-12-19T12:36:00+00:00"
+      "ts": 1766148840.0,
+      "published_iso": "2025-12-19T12:54:00+00:00"
     },
     {
       "id": "https-bleacherreport-com-articles-25333871-rams-puka-nacua-reportedly-fined-criticizing-nfl-refs-live-stream-video",
