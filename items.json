@@ -1,23 +1,7 @@
 {
-  "updated_iso": "2025-12-19T07:38:32.099361+00:00",
-  "count": 3,
+  "updated_iso": "2025-12-19T08:14:30.485263+00:00",
+  "count": 1,
   "items": [
-    {
-      "id": "https-cbssports-com-nfl-news-seahawks-overcome-16-point-deficit-to-stun-rams-38-37-in-ot-in-nfc-west-showdown",
-      "title": "Seahawks overcome 16-point deficit to stun Rams 38-37 in OT in NFC West showdown",
-      "link": "https://cbssports.com/nfl/news/seahawks-overcome-16-point-deficit-to-stun-rams-38-37-in-ot-in-nfc-west-showdown/",
-      "source": "CBS Sports",
-      "ts": 1766100600.0,
-      "published_iso": "2025-12-18T23:30:00+00:00"
-    },
-    {
-      "id": "https-latimes-com-sports-rams-live-rams-vs-seattle-seahawks-live-updates-how-to-watch-start-time-and-odds",
-      "title": "Rams collapse in fourth quarter, losing to Seahawks in overtime stunner",
-      "link": "https://latimes.com/sports/rams/live/rams-vs-seattle-seahawks-live-updates-how-to-watch-start-time-and-odds",
-      "source": "LA Times",
-      "ts": 1766092020.0,
-      "published_iso": "2025-12-18T21:07:00+00:00"
-    },
     {
       "id": "https-cbssports-com-nfl-news-seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf",
       "title": "Seahawks vs. Rams live updates: Seattle hosts Los Angeles in a battle for the NFC lead on 'TNF'",
