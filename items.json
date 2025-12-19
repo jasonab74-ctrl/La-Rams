@@ -1,23 +1,7 @@
 {
-  "updated_iso": "2025-12-19T06:51:00.400887+00:00",
-  "count": 4,
+  "updated_iso": "2025-12-19T07:12:46.739189+00:00",
+  "count": 2,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-sam-darnold-stats-seahawks-qb-055249917-html",
-      "title": "Sam Darnold stats: How Seahawks QB led comeback win over Rams to take NFC West lead",
-      "link": "https://sports.yahoo.com/articles/sam-darnold-stats-seahawks-qb-055249917.html",
-      "source": "Yahoo Sports",
-      "ts": 1766095980.0,
-      "published_iso": "2025-12-18T22:13:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-loss-seahawks-breaks-nfl-054027931-html",
-      "title": "Rams' loss to Seahawks breaks NFL record that stood for at least 50 years",
-      "link": "https://sports.yahoo.com/articles/rams-loss-seahawks-breaks-nfl-054027931.html",
-      "source": "Yahoo Sports",
-      "ts": 1766095980.0,
-      "published_iso": "2025-12-18T22:13:00+00:00"
-    },
     {
       "id": "https-latimes-com-sports-rams-live-rams-vs-seattle-seahawks-live-updates-how-to-watch-start-time-and-odds",
       "title": "Rams collapse in fourth quarter, losing to Seahawks in overtime stunner",
