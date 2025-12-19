@@ -1,14 +1,38 @@
 {
-  "updated_iso": "2025-12-19T03:51:05.703938+00:00",
-  "count": 3,
+  "updated_iso": "2025-12-19T04:24:17.279302+00:00",
+  "count": 6,
   "items": [
     {
+      "id": "https-sports-yahoo-com-articles-sam-darnold-turnover-problems-continue-035015765-html",
+      "title": "Sam Darnold turnover problems continue against the Rams",
+      "link": "https://sports.yahoo.com/articles/sam-darnold-turnover-problems-continue-035015765.html",
+      "source": "Yahoo Sports",
+      "ts": 1766089320.0,
+      "published_iso": "2025-12-18T20:22:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-seahawks-2-point-conversion-vs-040751477-html",
+      "title": "Seahawks 2-point conversion vs. Rams might be wildest in NFL history [VIDEO]",
+      "link": "https://sports.yahoo.com/articles/seahawks-2-point-conversion-vs-040751477.html",
+      "source": "Yahoo Sports",
+      "ts": 1766089140.0,
+      "published_iso": "2025-12-18T20:19:00+00:00"
+    },
+    {
       "id": "https-latimes-com-sports-rams-live-rams-vs-seattle-seahawks-live-updates-how-to-watch-start-time-and-odds",
-      "title": "Rams vs. Seahawks live updates: L.A. leads in the fourth quarter",
+      "title": "Rams vs. Seahawks live updates: Seattle strikes back to tie game in fourth quarter",
       "link": "https://latimes.com/sports/rams/live/rams-vs-seattle-seahawks-live-updates-how-to-watch-start-time-and-odds",
       "source": "LA Times",
-      "ts": 1766086500.0,
-      "published_iso": "2025-12-18T19:35:00+00:00"
+      "ts": 1766088360.0,
+      "published_iso": "2025-12-18T20:06:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-videos-harrison-mevis-puts-rams-back-on-top-with-41-yard-fg-vs-seahawks",
+      "title": "Harrison Mevis puts Rams back on top with 41-yard FG vs. Seahawks",
+      "link": "https://nfl.com/videos/harrison-mevis-puts-rams-back-on-top-with-41-yard-fg-vs-seahawks",
+      "source": "NFL.com",
+      "ts": 1766088120.0,
+      "published_iso": "2025-12-18T20:02:00+00:00"
     },
     {
       "id": "https-nfl-com-videos-stafford-s-38th-td-pass-of-2025-gives-rams-a-12-7-lead-vs-seahawks-on-tnf",
