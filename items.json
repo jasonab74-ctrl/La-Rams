@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-12-20T04:15:25.164254+00:00",
-  "count": 1,
+  "updated_iso": "2025-12-20T04:44:08.297597+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-los-angeles-rams-puka-nacua-slapped-25000-fine-nfl-4fecfe6d5726db7c9",
+      "title": "Los Angeles Rams' Puka Nacua slapped with $25,000 fine from NFL",
+      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/los-angeles-rams-puka-nacua-slapped-25000-fine-nfl/4fecfe6d5726db7c9898477b",
+      "source": "Sporting News",
+      "ts": 1766144520.0,
+      "published_iso": "2025-12-19T11:42:00+00:00"
+    },
     {
       "id": "https-cbssports-com-nfl-news-seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf",
       "title": "Seahawks vs. Rams score, takeaways: Sam Darnold rallies Seattle in OT, after huge games Los Angeles' stars",
