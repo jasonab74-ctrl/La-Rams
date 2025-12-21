@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-12-21T13:41:54.566807+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-21T14:08:23.688010+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-cbssports-com-nfl-news-seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf",
@@ -9,14 +9,6 @@
       "source": "CBS Sports",
       "ts": 1766110680.0,
       "published_iso": "2025-12-19T02:18:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-thursday-night-footba",
-      "title": "Los Angeles Rams at Seattle Seahawks: How to watch, listen to and live stream Thursday Night Football in Week 16",
-      "link": "https://therams.com/news/los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-thursday-night-football-in-week-16-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1765895820.0,
-      "published_iso": "2025-12-16T14:37:00+00:00"
     }
   ]
 }
