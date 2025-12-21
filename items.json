@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-12-21T22:08:59.051899+00:00",
-  "count": 1,
+  "updated_iso": "2025-12-21T22:39:35.487577+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-fire-ex-giant-chase-173342567-html",
+      "title": "Rams fire ex-Giant Chase Blackburn after special teams debacle in ‘TNF’ loss",
+      "link": "https://sports.yahoo.com/articles/rams-fire-ex-giant-chase-173342567.html",
+      "source": "Yahoo Sports",
+      "ts": 1766326080.0,
+      "published_iso": "2025-12-21T14:08:00+00:00"
+    },
     {
       "id": "https-cbssports-com-nfl-news-seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf",
       "title": "Seahawks vs. Rams score, takeaways: Sam Darnold rallies Seattle in OT, after huge games Los Angeles' stars",
@@ -9,6 +17,22 @@
       "source": "CBS Sports",
       "ts": 1766110680.0,
       "published_iso": "2025-12-19T02:18:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-12-17-nfl-week-16-rams-vs-seahawks-odds-lines-how-to-watch-12-",
+      "title": "Los Angeles Rams vs. Seattle Seahawks live stream, TV channel, start time, odds | Week 16 2025",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/12/17/nfl-week-16-rams-vs-seahawks-odds-lines-how-to-watch-12-18-2025/87819650007/",
+      "source": "Rams Wire",
+      "ts": 1765994220.0,
+      "published_iso": "2025-12-17T17:57:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-thursday-night-footba",
+      "title": "Los Angeles Rams at Seattle Seahawks: How to watch, listen to and live stream Thursday Night Football in Week 16",
+      "link": "https://therams.com/news/los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-thursday-night-football-in-week-16-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1765895820.0,
+      "published_iso": "2025-12-16T14:37:00+00:00"
     }
   ]
 }
