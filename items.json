@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2025-12-22T14:10:32.912744+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-22T14:41:45.744104+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-bleacherreport-com-articles-25335227-nfl-rumors-potential-rule-change-backward-passes-after-wild-rams-vs-seahawks",
+      "title": "NFL Rumors on Potential Rule Change for Backward Passes After Wild Rams vs. Seahawks",
+      "link": "https://bleacherreport.com/articles/25335227-nfl-rumors-potential-rule-change-backward-passes-after-wild-rams-vs-seahawks",
+      "source": "Bleacher Report",
+      "ts": 1766312460.0,
+      "published_iso": "2025-12-21T10:21:00+00:00"
+    }
+  ]
 }
