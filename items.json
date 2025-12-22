@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-12-22T02:53:37.000375+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-22T03:58:55.181881+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-si-com-fab-s-week-17-fantasy-football-waiver-wire-targets-add-rams-rb-blake-corum-01kd1w0x76bf",
+      "title": "Fab's Week 17 Fantasy Football Waiver Wire Targets: Add Rams RB Blake Corum",
+      "link": "https://si.com/fab-s-week-17-fantasy-football-waiver-wire-targets-add-rams-rb-blake-corum-01kd1w0x76bf",
+      "source": "Sports Illustrated",
+      "ts": 1766343480.0,
+      "published_iso": "2025-12-21T18:58:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-select-two-020224931-html",
       "title": "Los Angeles Rams Select Two LSU Tigers Stars In Latest NFL Mock Draft",
@@ -11,12 +19,12 @@
       "published_iso": "2025-12-21T18:32:00+00:00"
     },
     {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-face-uphill-climb-division-following-loss-seahawks",
-      "title": "Why Rams Face Uphill Climb for Division Following Loss to Seahawks",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-face-uphill-climb-division-following-loss-seahawks",
-      "source": "Sports Illustrated",
-      "ts": 1766325600.0,
-      "published_iso": "2025-12-21T14:00:00+00:00"
+      "id": "https-cbssports-com-nfl-news-seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf",
+      "title": "Seahawks vs. Rams score, takeaways: Sam Darnold rallies Seattle in OT, after huge games Los Angeles' stars",
+      "link": "https://cbssports.com/nfl/news/seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf/live/",
+      "source": "CBS Sports",
+      "ts": 1766110680.0,
+      "published_iso": "2025-12-19T02:18:00+00:00"
     }
   ]
 }
