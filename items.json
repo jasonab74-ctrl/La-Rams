@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-12-22T13:06:29.003540+00:00",
-  "count": 3,
+  "updated_iso": "2025-12-22T13:48:57.215915+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-special-teams-coach-following-134303078-html",
+      "title": "Who is the Rams' new special teams coach following Chase Blackburn's firing?",
+      "link": "https://sports.yahoo.com/articles/rams-special-teams-coach-following-134303078.html",
+      "source": "Yahoo Sports",
+      "ts": 1766382480.0,
+      "published_iso": "2025-12-22T05:48:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-select-two-020224931-html",
       "title": "Los Angeles Rams Select Two LSU Tigers Stars In Latest NFL Mock Draft",
