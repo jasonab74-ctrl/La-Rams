@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2025-12-22T14:41:45.744104+00:00",
-  "count": 1,
+  "updated_iso": "2025-12-22T15:10:30.454636+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-bleacherreport-com-articles-25335227-nfl-rumors-potential-rule-change-backward-passes-after-wild-rams-vs-seahawks",
-      "title": "NFL Rumors on Potential Rule Change for Backward Passes After Wild Rams vs. Seahawks",
-      "link": "https://bleacherreport.com/articles/25335227-nfl-rumors-potential-rule-change-backward-passes-after-wild-rams-vs-seahawks",
-      "source": "Bleacher Report",
-      "ts": 1766312460.0,
-      "published_iso": "2025-12-21T10:21:00+00:00"
+      "id": "https-sports-yahoo-com-articles-l-rams-news-playoff-picture-140244757-html",
+      "title": "L.A. Rams News: Playoff picture is clearing up",
+      "link": "https://sports.yahoo.com/articles/l-rams-news-playoff-picture-140244757.html",
+      "source": "Yahoo Sports",
+      "ts": 1766383920.0,
+      "published_iso": "2025-12-22T06:12:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-select-two-020224931-html",
+      "title": "Los Angeles Rams Select Two LSU Tigers Stars In Latest NFL Mock Draft",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-select-two-020224931.html",
+      "source": "Yahoo Sports",
+      "ts": 1766341920.0,
+      "published_iso": "2025-12-21T18:32:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf",
+      "title": "Seahawks vs. Rams score, takeaways: Sam Darnold rallies Seattle in OT, after huge games Los Angeles' stars",
+      "link": "https://cbssports.com/nfl/news/seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf/live/",
+      "source": "CBS Sports",
+      "ts": 1766110680.0,
+      "published_iso": "2025-12-19T02:18:00+00:00"
     }
   ]
 }
