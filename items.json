@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2025-12-22T17:09:22.735507+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-22T17:39:41.023361+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-playoff-seeding-could-impacted-170334374-html",
+      "title": "Rams' playoff seeding could be impacted by 49ers-Colts on MNF",
+      "link": "https://sports.yahoo.com/articles/rams-playoff-seeding-could-impacted-170334374.html",
+      "source": "Yahoo Sports",
+      "ts": 1766394420.0,
+      "published_iso": "2025-12-22T09:07:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-select-two-020224931-html",
+      "title": "Los Angeles Rams Select Two LSU Tigers Stars In Latest NFL Mock Draft",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-select-two-020224931.html",
+      "source": "Yahoo Sports",
+      "ts": 1766341920.0,
+      "published_iso": "2025-12-21T18:32:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf",
+      "title": "Seahawks vs. Rams score, takeaways: Sam Darnold rallies Seattle in OT, after huge games Los Angeles' stars",
+      "link": "https://cbssports.com/nfl/news/seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf/live/",
+      "source": "CBS Sports",
+      "ts": 1766110680.0,
+      "published_iso": "2025-12-19T02:18:00+00:00"
+    }
+  ]
 }
