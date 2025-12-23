@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-12-23T20:10:18.226895+00:00",
-  "count": 3,
+  "updated_iso": "2025-12-23T20:40:25.270964+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-shake-coaching-staff-prior-202300438-html",
+      "title": "Rams shake up coaching staff prior to Monday Night battle with Falcons",
+      "link": "https://sports.yahoo.com/articles/rams-shake-coaching-staff-prior-202300438.html",
+      "source": "Yahoo Sports",
+      "ts": 1766493420.0,
+      "published_iso": "2025-12-23T12:37:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-nfc-playoff-picture-rams-have-no-6-seed-entering-week-17-2025",
+      "title": "NFC playoff picture: Rams have No. 6 seed entering Week 17",
+      "link": "https://therams.com/news/nfc-playoff-picture-rams-have-no-6-seed-entering-week-17-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1766492280.0,
+      "published_iso": "2025-12-23T12:18:00+00:00"
+    },
     {
       "id": "https-foxsports-com-watch-fmc-rglb3i7gcsq6ugs7",
       "title": "Herd Hierarchy for Week 17: Bears stay put, Texans fall, Will the Rams be dethroned? | The Herd",
@@ -9,14 +25,6 @@
       "source": "FOX Sports",
       "ts": 1766488380.0,
       "published_iso": "2025-12-23T11:13:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-select-two-020224931-html",
-      "title": "Los Angeles Rams Select Two LSU Tigers Stars In Latest NFL Mock Draft",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-select-two-020224931.html",
-      "source": "Yahoo Sports",
-      "ts": 1766341920.0,
-      "published_iso": "2025-12-21T18:32:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf",
