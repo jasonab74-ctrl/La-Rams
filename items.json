@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-12-23T18:14:38.921069+00:00",
+  "updated_iso": "2025-12-23T18:50:22.888272+00:00",
   "count": 3,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-espn-analyst-wild-matthew-stafford-174409366-html",
-      "title": "ESPN analyst has wild Matthew Stafford MVP take that will frustrate Rams fans",
-      "link": "https://sports.yahoo.com/articles/espn-analyst-wild-matthew-stafford-174409366.html",
-      "source": "Yahoo Sports",
-      "ts": 1766484480.0,
-      "published_iso": "2025-12-23T10:08:00+00:00"
-    },
     {
       "id": "https-bleacherreport-com-articles-25337436-stafford-reacts-controversy-rams-loss-common-sense-should-override-rule",
       "title": "Stafford Reacts to Controversy from Rams Loss, 'Common Sense Should Override the Rule'",
@@ -17,6 +9,14 @@
       "source": "Bleacher Report",
       "ts": 1766479620.0,
       "published_iso": "2025-12-23T08:47:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-select-two-020224931-html",
+      "title": "Los Angeles Rams Select Two LSU Tigers Stars In Latest NFL Mock Draft",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-select-two-020224931.html",
+      "source": "Yahoo Sports",
+      "ts": 1766341920.0,
+      "published_iso": "2025-12-21T18:32:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf",
