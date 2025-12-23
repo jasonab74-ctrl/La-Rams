@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2025-12-23T16:47:58.847918+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-23T17:11:07.850824+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-davante-adams-return-week-17-151937165-html",
-      "title": "Will Davante Adams return in Week 17? Latest injury update on Rams wide receiver",
-      "link": "https://sports.yahoo.com/articles/davante-adams-return-week-17-151937165.html",
-      "source": "Yahoo Sports",
-      "ts": 1766475420.0,
-      "published_iso": "2025-12-23T07:37:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf",
-      "title": "Seahawks vs. Rams score, takeaways: Sam Darnold rallies Seattle in OT, after huge games Los Angeles' stars",
-      "link": "https://cbssports.com/nfl/news/seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf/live/",
-      "source": "CBS Sports",
-      "ts": 1766110680.0,
-      "published_iso": "2025-12-19T02:18:00+00:00"
+      "id": "https-bleacherreport-com-articles-25337436-stafford-reacts-controversy-rams-loss-common-sense-should-override-rule",
+      "title": "Stafford Reacts to Controversy from Rams Loss, 'Common Sense Should Override the Rule'",
+      "link": "https://bleacherreport.com/articles/25337436-stafford-reacts-controversy-rams-loss-common-sense-should-override-rule",
+      "source": "Bleacher Report",
+      "ts": 1766479620.0,
+      "published_iso": "2025-12-23T08:47:00+00:00"
     }
   ]
 }
