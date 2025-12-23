@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-12-23T23:08:57.486230+00:00",
+  "updated_iso": "2025-12-23T23:37:05.552034+00:00",
   "count": 4,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-rams-star-puka-nacua-believes-194134500-html",
-      "title": "Rams Star Puka Nacua Believes Concussions 'Aren't Real'",
-      "link": "https://sports.yahoo.com/articles/rams-star-puka-nacua-believes-194134500.html",
-      "source": "Yahoo Sports",
-      "ts": 1766501820.0,
-      "published_iso": "2025-12-23T14:57:00+00:00"
-    },
     {
       "id": "https-therams-com-news-first-look-rams-head-to-atlanta-for-monday-night-football-showdown-with-falcons-week-17-2025",
       "title": "First Look: Rams head to Atlanta for Monday Night Football showdown with Falcons",
@@ -19,20 +11,28 @@
       "published_iso": "2025-12-23T14:57:00+00:00"
     },
     {
-      "id": "https-cbssports-com-betting-news-nfl-predictions-nfc-west-implications-for-rams-vs-falcons-on-monday-night-football-from",
-      "title": "NFL predictions: NFC West implications for Rams vs. Falcons on Monday Night Football from proven model",
-      "link": "https://cbssports.com/betting/news/nfl-predictions-nfc-west-implications-for-rams-vs-falcons-on-monday-night-football-from-proven-model/",
-      "source": "CBS Sports",
-      "ts": 1766501520.0,
-      "published_iso": "2025-12-23T14:52:00+00:00"
+      "id": "https-sports-yahoo-com-articles-deserving-rams-players-were-snubbed-204605899-html",
+      "title": "Deserving Rams' players who were snubbed from Pro Bowl honors",
+      "link": "https://sports.yahoo.com/articles/deserving-rams-players-were-snubbed-204605899.html",
+      "source": "Yahoo Sports",
+      "ts": 1766496420.0,
+      "published_iso": "2025-12-23T13:27:00+00:00"
     },
     {
-      "id": "https-therams-com-news-nfc-playoff-picture-rams-have-no-6-seed-entering-week-17-2025",
-      "title": "NFC playoff picture: Rams have No. 6 seed entering Week 17",
-      "link": "https://therams.com/news/nfc-playoff-picture-rams-have-no-6-seed-entering-week-17-2025",
+      "id": "https-cbssports-com-nfl-news-seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf",
+      "title": "Seahawks vs. Rams score, takeaways: Sam Darnold rallies Seattle in OT, after huge games Los Angeles' stars",
+      "link": "https://cbssports.com/nfl/news/seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf/live/",
+      "source": "CBS Sports",
+      "ts": 1766110680.0,
+      "published_iso": "2025-12-19T02:18:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-thursday-night-footba",
+      "title": "Los Angeles Rams at Seattle Seahawks: How to watch, listen to and live stream Thursday Night Football in Week 16",
+      "link": "https://therams.com/news/los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-thursday-night-football-in-week-16-2025",
       "source": "Los Angeles Rams (Official)",
-      "ts": 1766492280.0,
-      "published_iso": "2025-12-23T12:18:00+00:00"
+      "ts": 1765895820.0,
+      "published_iso": "2025-12-16T14:37:00+00:00"
     }
   ]
 }
