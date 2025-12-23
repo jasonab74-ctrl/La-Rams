@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2025-12-23T18:50:22.888272+00:00",
-  "count": 3,
+  "updated_iso": "2025-12-23T19:09:56.189134+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-bleacherreport-com-articles-25337436-stafford-reacts-controversy-rams-loss-common-sense-should-override-rule",
-      "title": "Stafford Reacts to Controversy from Rams Loss, 'Common Sense Should Override the Rule'",
-      "link": "https://bleacherreport.com/articles/25337436-stafford-reacts-controversy-rams-loss-common-sense-should-override-rule",
-      "source": "Bleacher Report",
-      "ts": 1766479620.0,
-      "published_iso": "2025-12-23T08:47:00+00:00"
+      "id": "https-sports-yahoo-com-articles-week-17-nfl-picks-rams-190000099-html",
+      "title": "Week 17 NFL picks: Will Rams recapture #1 seed in the NFC?",
+      "link": "https://sports.yahoo.com/articles/week-17-nfl-picks-rams-190000099.html",
+      "source": "Yahoo Sports",
+      "ts": 1766488020.0,
+      "published_iso": "2025-12-23T11:07:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-select-two-020224931-html",
@@ -25,6 +25,14 @@
       "source": "CBS Sports",
       "ts": 1766110680.0,
       "published_iso": "2025-12-19T02:18:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-12-17-nfl-week-16-rams-vs-seahawks-betting-odds-tips-trends-12",
+      "title": "Los Angeles Rams vs. Seattle Seahawks 2025 odds, tips and betting trends | Week 16",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/12/17/nfl-week-16-rams-vs-seahawks-betting-odds-tips-trends-12-18-2025/87819820007/",
+      "source": "Rams Wire",
+      "ts": 1765994220.0,
+      "published_iso": "2025-12-17T17:57:00+00:00"
     }
   ]
 }
