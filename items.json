@@ -1,22 +1,30 @@
 {
-  "updated_iso": "2025-12-24T17:38:18.350802+00:00",
-  "count": 4,
+  "updated_iso": "2025-12-24T18:14:12.285909+00:00",
+  "count": 5,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-report-rams-shutdown-davante-adams-172034150-html",
-      "title": "Report: Rams will shutdown Davante Adams for final 2 games",
-      "link": "https://sports.yahoo.com/articles/report-rams-shutdown-davante-adams-172034150.html",
+      "id": "https-sports-yahoo-com-articles-rams-killer-instinct-fourth-quarter-180000811-html",
+      "title": "Rams need to find ‘killer instinct’ in fourth quarter",
+      "link": "https://sports.yahoo.com/articles/rams-killer-instinct-fourth-quarter-180000811.html",
       "source": "Yahoo Sports",
-      "ts": 1766568480.0,
-      "published_iso": "2025-12-24T09:28:00+00:00"
+      "ts": 1766570820.0,
+      "published_iso": "2025-12-24T10:07:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-ex-nfl-coach-says-rams-171113795-html",
+      "id": "https-bleacherreport-com-articles-25338430-rams-rumors-davante-adams-injury-timeline-return-amid-nfl-super-bowl-2026-pus",
+      "title": "Rams Rumors on Davante Adams' Injury, Timeline to Return amid NFL Super Bowl 2026 Push",
+      "link": "https://bleacherreport.com/articles/25338430-rams-rumors-davante-adams-injury-timeline-return-amid-nfl-super-bowl-2026-push",
+      "source": "Bleacher Report",
+      "ts": 1766569920.0,
+      "published_iso": "2025-12-24T09:52:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-12-24-rams-are-the-team-to-look-out-for-in-nfc-playoffs-per-ex",
       "title": "Ex-NFL coach says Rams are the team to 'look out for' in NFC playoffs",
-      "link": "https://sports.yahoo.com/articles/ex-nfl-coach-says-rams-171113795.html",
-      "source": "Yahoo Sports",
-      "ts": 1766568420.0,
-      "published_iso": "2025-12-24T09:27:00+00:00"
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/12/24/rams-are-the-team-to-look-out-for-in-nfc-playoffs-per-ex-nfl-coach/87908515007/",
+      "source": "Rams Wire",
+      "ts": 1766568120.0,
+      "published_iso": "2025-12-24T09:22:00+00:00"
     },
     {
       "id": "https-si-com-betting-rams-vs-falcons-prediction-odds-spread-injuries-trends-for-nfl-week-17-01kd5x14qnbn",
