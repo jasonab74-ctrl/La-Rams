@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-12-24T15:39:31.293680+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-24T16:12:04.721650+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-nfl-insider-reveals-concerning-rams-152629240-html",
+      "title": "NFL insider reveals concerning Rams' Davante Adams update",
+      "link": "https://sports.yahoo.com/articles/nfl-insider-reveals-concerning-rams-152629240.html",
+      "source": "Yahoo Sports",
+      "ts": 1766562480.0,
+      "published_iso": "2025-12-24T07:48:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf",
+      "title": "Seahawks vs. Rams score, takeaways: Sam Darnold rallies Seattle in OT, after huge games Los Angeles' stars",
+      "link": "https://cbssports.com/nfl/news/seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf/live/",
+      "source": "CBS Sports",
+      "ts": 1766110680.0,
+      "published_iso": "2025-12-19T02:18:00+00:00"
+    }
+  ]
 }
