@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-12-24T16:44:59.933294+00:00",
-  "count": 4,
+  "updated_iso": "2025-12-24T17:08:00.495074+00:00",
+  "count": 5,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-nfl-insider-reveals-concerning-rams-152629240-html",
-      "title": "NFL insider reveals concerning Rams' Davante Adams update",
-      "link": "https://sports.yahoo.com/articles/nfl-insider-reveals-concerning-rams-152629240.html",
+      "id": "https-sports-yahoo-com-articles-2-former-rams-pro-bowl-165319653-html",
+      "title": "2 former Rams make Pro Bowl as special teamers",
+      "link": "https://sports.yahoo.com/articles/2-former-rams-pro-bowl-165319653.html",
       "source": "Yahoo Sports",
-      "ts": 1766562480.0,
-      "published_iso": "2025-12-24T07:48:00+00:00"
+      "ts": 1766567100.0,
+      "published_iso": "2025-12-24T09:05:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-rams-vs-falcons-prediction-odds-spread-injuries-trends-for-nfl-week-17-01kd5x14qnbn",
+      "title": "Rams vs. Falcons Prediction, Odds, Spread, Injuries, Trends for NFL Week 17",
+      "link": "https://si.com/betting/rams-vs-falcons-prediction-odds-spread-injuries-trends-for-nfl-week-17-01kd5x14qnbn",
+      "source": "Sports Illustrated",
+      "ts": 1766566800.0,
+      "published_iso": "2025-12-24T09:00:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf",
