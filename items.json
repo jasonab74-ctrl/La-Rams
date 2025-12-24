@@ -1,5 +1,5 @@
 {
-  "updated_iso": "2025-12-24T19:31:50.275851+00:00",
+  "updated_iso": "2025-12-24T20:10:24.614627+00:00",
   "count": 4,
   "items": [
     {
@@ -9,14 +9,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1766572080.0,
       "published_iso": "2025-12-24T10:28:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25338430-rams-rumors-davante-adams-injury-timeline-return-amid-nfl-super-bowl-2026-pus",
-      "title": "Rams Rumors on Davante Adams' Injury, Timeline to Return amid NFL Super Bowl 2026 Push",
-      "link": "https://bleacherreport.com/articles/25338430-rams-rumors-davante-adams-injury-timeline-return-amid-nfl-super-bowl-2026-push",
-      "source": "Bleacher Report",
-      "ts": 1766569920.0,
-      "published_iso": "2025-12-24T09:52:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-12-24-rams-are-the-team-to-look-out-for-in-nfc-playoffs-per-ex",
@@ -33,6 +25,14 @@
       "source": "CBS Sports",
       "ts": 1766110680.0,
       "published_iso": "2025-12-19T02:18:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-thursday-night-footba",
+      "title": "Los Angeles Rams at Seattle Seahawks: How to watch, listen to and live stream Thursday Night Football in Week 16",
+      "link": "https://therams.com/news/los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-thursday-night-football-in-week-16-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1765895820.0,
+      "published_iso": "2025-12-16T14:37:00+00:00"
     }
   ]
 }
