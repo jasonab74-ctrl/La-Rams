@@ -1,5 +1,38 @@
 {
-  "updated_iso": "2025-12-24T21:08:39.945861+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-24T21:36:07.956057+00:00",
+  "count": 4,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-designate-cb-roger-mccreary-211615724-html",
+      "title": "Rams designate CB Roger McCreary to return from IR",
+      "link": "https://sports.yahoo.com/articles/rams-designate-cb-roger-mccreary-211615724.html",
+      "source": "Yahoo Sports",
+      "ts": 1766583180.0,
+      "published_iso": "2025-12-24T13:33:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-videos-rams-vs-falcons-preview-week-17",
+      "title": "Rams vs. Falcons preview | Week 17",
+      "link": "https://nfl.com/videos/rams-vs-falcons-preview-week-17",
+      "source": "NFL.com",
+      "ts": 1766579760.0,
+      "published_iso": "2025-12-24T12:36:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-atlanta-falcons-how-to-watch-listen-to-and-live-stream-monday-night-football-",
+      "title": "Los Angeles Rams at Atlanta Falcons: How to watch, listen to and live stream Monday Night Football in Week 17",
+      "link": "https://therams.com/news/los-angeles-rams-at-atlanta-falcons-how-to-watch-listen-to-and-live-stream-monday-night-football-in-week-17-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1766572080.0,
+      "published_iso": "2025-12-24T10:28:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf",
+      "title": "Seahawks vs. Rams score, takeaways: Sam Darnold rallies Seattle in OT, after huge games Los Angeles' stars",
+      "link": "https://cbssports.com/nfl/news/seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf/live/",
+      "source": "CBS Sports",
+      "ts": 1766110680.0,
+      "published_iso": "2025-12-19T02:18:00+00:00"
+    }
+  ]
 }
