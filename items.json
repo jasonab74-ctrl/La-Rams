@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-12-25T13:46:15.652432+00:00",
-  "count": 3,
+  "updated_iso": "2025-12-25T14:09:23.347968+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-therams-com-news-los-angeles-rams-at-atlanta-falcons-how-to-watch-listen-to-and-live-stream-monday-night-football-",
@@ -25,6 +25,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1765895820.0,
       "published_iso": "2025-12-16T14:37:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-lions-where-to-watch-pick-odds-prediction",
+      "title": "Rams vs. Lions prediction: Detroit will cover in a high-scoring game against a battle-tested Los Angeles squad",
+      "link": "https://cbssports.com/nfl/news/rams-vs-lions-where-to-watch-pick-odds-prediction/",
+      "source": "CBS Sports",
+      "ts": 1765626840.0,
+      "published_iso": "2025-12-13T11:54:00+00:00"
     }
   ]
 }
