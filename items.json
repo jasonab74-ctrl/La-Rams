@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2025-12-25T21:08:54.486909+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-25T21:36:24.229433+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-falcons-release-first-injury-report-211016674-html",
+      "title": "Falcons release first injury report vs. Rams: Latest on Drake London",
+      "link": "https://sports.yahoo.com/articles/falcons-release-first-injury-report-211016674.html",
+      "source": "Yahoo Sports",
+      "ts": 1766668680.0,
+      "published_iso": "2025-12-25T13:18:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-atlanta-falcons-how-to-watch-listen-to-and-live-stream-monday-night-football-",
+      "title": "Los Angeles Rams at Atlanta Falcons: How to watch, listen to and live stream Monday Night Football in Week 17",
+      "link": "https://therams.com/news/los-angeles-rams-at-atlanta-falcons-how-to-watch-listen-to-and-live-stream-monday-night-football-in-week-17-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1766572080.0,
+      "published_iso": "2025-12-24T10:28:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf",
+      "title": "Seahawks vs. Rams score, takeaways: Sam Darnold rallies Seattle in OT, after huge games Los Angeles' stars",
+      "link": "https://cbssports.com/nfl/news/seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf/live/",
+      "source": "CBS Sports",
+      "ts": 1766110680.0,
+      "published_iso": "2025-12-19T02:18:00+00:00"
+    }
+  ]
 }
