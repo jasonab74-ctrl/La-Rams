@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-12-25T02:48:11.646676+00:00",
-  "count": 4,
+  "updated_iso": "2025-12-25T03:54:06.256403+00:00",
+  "count": 3,
   "items": [
-    {
-      "id": "https-therams-com-audio-between-the-horns-ep-238-rams-seahawks-reactions-nfl-playoff-picture-monday-night-football-prep",
-      "title": "Ep. 238: Rams-Seahawks reactions, NFL playoff picture, Monday Night Football prep",
-      "link": "https://therams.com/audio/between-the-horns-ep-238-rams-seahawks-reactions-nfl-playoff-picture-monday-night-football-prep",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1766589000.0,
-      "published_iso": "2025-12-24T15:10:00+00:00"
-    },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-atlanta-falcons-how-to-watch-listen-to-and-live-stream-monday-night-football-",
       "title": "Los Angeles Rams at Atlanta Falcons: How to watch, listen to and live stream Monday Night Football in Week 17",
@@ -27,12 +19,12 @@
       "published_iso": "2025-12-19T02:18:00+00:00"
     },
     {
-      "id": "https-cbssports-com-nfl-news-rams-vs-lions-where-to-watch-pick-odds-prediction",
-      "title": "Rams vs. Lions prediction: Detroit will cover in a high-scoring game against a battle-tested Los Angeles squad",
-      "link": "https://cbssports.com/nfl/news/rams-vs-lions-where-to-watch-pick-odds-prediction/",
-      "source": "CBS Sports",
-      "ts": 1765626840.0,
-      "published_iso": "2025-12-13T11:54:00+00:00"
+      "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-thursday-night-footba",
+      "title": "Los Angeles Rams at Seattle Seahawks: How to watch, listen to and live stream Thursday Night Football in Week 16",
+      "link": "https://therams.com/news/los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-thursday-night-football-in-week-16-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1765895820.0,
+      "published_iso": "2025-12-16T14:37:00+00:00"
     }
   ]
 }
