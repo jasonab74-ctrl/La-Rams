@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-12-26T23:09:18.516616+00:00",
+  "updated_iso": "2025-12-26T23:37:13.654523+00:00",
   "count": 4,
   "items": [
-    {
-      "id": "https-therams-com-video-matthew-stafford-kyren-williams-head-to-head-rams-player-trivia-qb-1-on-1",
-      "title": "Matthew Stafford & Kyren Williams go head-to-head in Rams player trivia | QB 1 On 1",
-      "link": "https://therams.com/video/matthew-stafford-kyren-williams-head-to-head-rams-player-trivia-qb-1-on-1",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1766746500.0,
-      "published_iso": "2025-12-26T10:55:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-rams-sign-los-angeles-native-233543889-html",
       "title": "Rams sign Los Angeles native to free agent contract for 2nd time",
@@ -33,6 +25,14 @@
       "source": "CBS Sports",
       "ts": 1766110680.0,
       "published_iso": "2025-12-19T02:18:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-thursday-night-footba",
+      "title": "Los Angeles Rams at Seattle Seahawks: How to watch, listen to and live stream Thursday Night Football in Week 16",
+      "link": "https://therams.com/news/los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-thursday-night-football-in-week-16-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1765895820.0,
+      "published_iso": "2025-12-16T14:37:00+00:00"
     }
   ]
 }
