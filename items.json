@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-12-26T18:14:00.117193+00:00",
-  "count": 4,
+  "updated_iso": "2025-12-26T18:47:50.262303+00:00",
+  "count": 2,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-rams-vs-falcons-bold-predictions-155501665-html",
-      "title": "Rams vs. Falcons bold predictions for Week 17 Monday Night Football clash",
-      "link": "https://sports.yahoo.com/articles/rams-vs-falcons-bold-predictions-155501665.html",
-      "source": "Yahoo Sports",
-      "ts": 1766740440.0,
-      "published_iso": "2025-12-26T09:14:00+00:00"
-    },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-atlanta-falcons-how-to-watch-listen-to-and-live-stream-monday-night-football-",
       "title": "Los Angeles Rams at Atlanta Falcons: How to watch, listen to and live stream Monday Night Football in Week 17",
@@ -25,14 +17,6 @@
       "source": "CBS Sports",
       "ts": 1766110680.0,
       "published_iso": "2025-12-19T02:18:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-thursday-night-footba",
-      "title": "Los Angeles Rams at Seattle Seahawks: How to watch, listen to and live stream Thursday Night Football in Week 16",
-      "link": "https://therams.com/news/los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-thursday-night-football-in-week-16-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1765895820.0,
-      "published_iso": "2025-12-16T14:37:00+00:00"
     }
   ]
 }
