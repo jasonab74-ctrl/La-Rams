@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-12-27T06:14:52.438031+00:00",
-  "count": 7,
+  "updated_iso": "2025-12-27T06:49:32.222551+00:00",
+  "count": 5,
   "items": [
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-byron-young-speaks-career-pro-bowl-selection",
@@ -9,14 +9,6 @@
       "source": "Sports Illustrated",
       "ts": 1766782800.0,
       "published_iso": "2025-12-26T21:00:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-chris-shula-details-friendship-falcons-raheem-morris",
-      "title": "Rams Chris Shula Details Friendship With Falcons' Raheem Morris",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-chris-shula-details-friendship-falcons-raheem-morris",
-      "source": "Sports Illustrated",
-      "ts": 1766780940.0,
-      "published_iso": "2025-12-26T20:29:00+00:00"
     },
     {
       "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-sign-los-angeles-native-free-agent-contract-2nd-time-e59cf2a327",
@@ -33,14 +25,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1766572080.0,
       "published_iso": "2025-12-24T10:28:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf",
-      "title": "Seahawks vs. Rams score, takeaways: Sam Darnold rallies Seattle in OT, after huge games Los Angeles' stars",
-      "link": "https://cbssports.com/nfl/news/seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf/live/",
-      "source": "CBS Sports",
-      "ts": 1766110680.0,
-      "published_iso": "2025-12-19T02:18:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-12-17-nfl-week-16-rams-vs-seahawks-injury-report-12-18-2025-87",
