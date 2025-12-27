@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-12-27T20:39:24.605278+00:00",
+  "updated_iso": "2025-12-27T21:07:38.840395+00:00",
   "count": 5,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-rule-starter-list-adams-203911989-html",
+      "title": "Rams rule out starter, list Adams as Doubtful",
+      "link": "https://sports.yahoo.com/articles/rams-rule-starter-list-adams-203911989.html",
+      "source": "Yahoo Sports",
+      "ts": 1766840100.0,
+      "published_iso": "2025-12-27T12:55:00+00:00"
+    },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-jared-verse-reflects-second-pro-bowl-selection",
       "title": "Rams' Jared Verse Reflects On Second Pro Bowl Selection",
@@ -9,14 +17,6 @@
       "source": "Sports Illustrated",
       "ts": 1766836800.0,
       "published_iso": "2025-12-27T12:00:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-puka-nacua-discusses-comments-disparaging-referees",
-      "title": "Rams Puka Nacua Discusses Comments Disparaging NFL Referees",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-puka-nacua-discusses-comments-disparaging-referees",
-      "source": "Sports Illustrated",
-      "ts": 1766833260.0,
-      "published_iso": "2025-12-27T11:01:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-atlanta-falcons-how-to-watch-listen-to-and-live-stream-monday-night-football-",
