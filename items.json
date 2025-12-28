@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-12-28T10:41:44.706846+00:00",
-  "count": 4,
+  "updated_iso": "2025-12-28T11:08:08.073572+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-sign-los-angeles-native-233543889-html",
@@ -25,14 +25,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1765895820.0,
       "published_iso": "2025-12-16T14:37:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-playoff-picture-updated-chances-081002849-html",
-      "title": "Rams playoff picture: Updated chances for Los Angeles to make 2025 NFL postseason in Week 15",
-      "link": "https://sports.yahoo.com/articles/rams-playoff-picture-updated-chances-081002849.html",
-      "source": "Yahoo Sports",
-      "ts": 1765672620.0,
-      "published_iso": "2025-12-14T00:37:00+00:00"
     }
   ]
 }
