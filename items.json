@@ -1,23 +1,7 @@
 {
-  "updated_iso": "2025-12-28T00:53:59.912932+00:00",
-  "count": 5,
+  "updated_iso": "2025-12-28T02:59:44.555975+00:00",
+  "count": 2,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-coaching-ties-add-layer-rams-003200401-html",
-      "title": "Coaching ties add layer to Rams-Falcons Monday Night clash",
-      "link": "https://sports.yahoo.com/articles/coaching-ties-add-layer-rams-003200401.html",
-      "source": "Yahoo Sports",
-      "ts": 1766853360.0,
-      "published_iso": "2025-12-27T16:36:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-star-puka-nacua-appears-203445345-html",
-      "title": "Rams Star Puka Nacua Appears To Change Opinion Of NFL Refs",
-      "link": "https://sports.yahoo.com/articles/rams-star-puka-nacua-appears-203445345.html",
-      "source": "Yahoo Sports",
-      "ts": 1766850660.0,
-      "published_iso": "2025-12-27T15:51:00+00:00"
-    },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-atlanta-falcons-how-to-watch-listen-to-and-live-stream-monday-night-football-",
       "title": "Los Angeles Rams at Atlanta Falcons: How to watch, listen to and live stream Monday Night Football in Week 17",
@@ -33,14 +17,6 @@
       "source": "Rams Wire",
       "ts": 1765996560.0,
       "published_iso": "2025-12-17T18:36:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-thursday-night-footba",
-      "title": "Los Angeles Rams at Seattle Seahawks: How to watch, listen to and live stream Thursday Night Football in Week 16",
-      "link": "https://therams.com/news/los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-thursday-night-football-in-week-16-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1765895820.0,
-      "published_iso": "2025-12-16T14:37:00+00:00"
     }
   ]
 }
