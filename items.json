@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-12-28T08:12:31.732152+00:00",
-  "count": 4,
+  "updated_iso": "2025-12-28T08:44:50.894868+00:00",
+  "count": 5,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-puka-nacuas-first-public-comments-070530904-html",
@@ -25,6 +25,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1766572080.0,
       "published_iso": "2025-12-24T10:28:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2025-12-17-nfl-week-16-rams-vs-seahawks-injury-report-12-18-2025-87",
+      "title": "Los Angeles Rams vs. Seattle Seahawks injury report | Week 16 2025",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2025/12/17/nfl-week-16-rams-vs-seahawks-injury-report-12-18-2025/87820304007/",
+      "source": "Rams Wire",
+      "ts": 1765996560.0,
+      "published_iso": "2025-12-17T18:36:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-thursday-night-footba",
