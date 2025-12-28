@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2025-12-28T15:38:12.580284+00:00",
+  "updated_iso": "2025-12-28T16:10:39.812213+00:00",
   "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-vs-falcons-props-best-152400131-html",
-      "title": "Rams vs Falcons Props & Best Bets for Monday Night Football Week 17",
-      "link": "https://sports.yahoo.com/articles/rams-vs-falcons-props-best-152400131.html",
+      "id": "https-sports-yahoo-com-articles-seahawks-jaxon-smith-njigba-eerily-152421759-html",
+      "title": "Seahawks' Jaxon Smith-Njigba has eerily similar stats to Rams' Puka Nacua entering Week 17",
+      "link": "https://sports.yahoo.com/articles/seahawks-jaxon-smith-njigba-eerily-152421759.html",
       "source": "Yahoo Sports",
-      "ts": 1766907180.0,
-      "published_iso": "2025-12-28T07:33:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-sign-los-angeles-native-233543889-html",
-      "title": "Rams sign Los Angeles native to free agent contract for 2nd time",
-      "link": "https://sports.yahoo.com/articles/rams-sign-los-angeles-native-233543889.html",
-      "source": "Yahoo Sports",
-      "ts": 1766678460.0,
-      "published_iso": "2025-12-25T16:01:00+00:00"
+      "ts": 1766908440.0,
+      "published_iso": "2025-12-28T07:54:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-atlanta-falcons-how-to-watch-listen-to-and-live-stream-monday-night-football-",
@@ -25,6 +17,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1766572080.0,
       "published_iso": "2025-12-24T10:28:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf",
+      "title": "Seahawks vs. Rams score, takeaways: Sam Darnold rallies Seattle in OT, after huge games Los Angeles' stars",
+      "link": "https://cbssports.com/nfl/news/seahawks-vs-rams-live-updates-seattle-hosts-los-angeles-in-a-battle-for-the-nfc-lead-on-tnf/live/",
+      "source": "CBS Sports",
+      "ts": 1766110680.0,
+      "published_iso": "2025-12-19T02:18:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-thursday-night-footba",
