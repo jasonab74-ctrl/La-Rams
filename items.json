@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-12-29T06:55:53.253483+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-29T07:17:30.601959+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-therams-com-news-rams-vs-cardinals-week-18-2025-kickoff-date-time-tv-designation-fox",
+      "title": "Rams vs. Cardinals Week 18 kickoff date and time, TV designation set",
+      "link": "https://therams.com/news/rams-vs-cardinals-week-18-2025-kickoff-date-time-tv-designation-fox",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1766954640.0,
+      "published_iso": "2025-12-28T20:44:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-best-rams-vs-falcons-same-204500698-html",
+      "title": "Best Rams vs Falcons Same Game Parlay for Monday Night Football Week 17",
+      "link": "https://sports.yahoo.com/articles/best-rams-vs-falcons-same-204500698.html",
+      "source": "Yahoo Sports",
+      "ts": 1766926860.0,
+      "published_iso": "2025-12-28T13:01:00+00:00"
+    }
+  ]
 }
