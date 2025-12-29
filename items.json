@@ -1,30 +1,38 @@
 {
-  "updated_iso": "2025-12-29T13:09:32.298489+00:00",
-  "count": 3,
+  "updated_iso": "2025-12-29T13:51:35.297824+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-nfl-article-monday-night-football-how-to-watch-the-los-angeles-rams-vs-atlanta-falcons-nfl-game-t",
-      "title": "Monday Night Football: How to watch the Los Angeles Rams vs. Atlanta Falcons NFL game tonight",
-      "link": "https://sports.yahoo.com/nfl/article/monday-night-football-how-to-watch-the-los-angeles-rams-vs-atlanta-falcons-nfl-game-tonight-125523799.html",
-      "source": "Yahoo Sports",
-      "ts": 1766984760.0,
-      "published_iso": "2025-12-29T05:06:00+00:00"
+      "id": "https-cbssports-com-nfl-news-monday-night-football-prediction-odds-spread-time-rams-falcons-expert-picks",
+      "title": "'Monday Night Football' prediction, odds, spread, time: Rams vs. Falcons picks from expert on 28-10 run",
+      "link": "https://cbssports.com/nfl/news/monday-night-football-prediction-odds-spread-time-rams-falcons-expert-picks/",
+      "source": "CBS Sports",
+      "ts": 1766986920.0,
+      "published_iso": "2025-12-29T05:42:00+00:00"
     },
     {
-      "id": "https-si-com-betting-rams-vs-falcons-final-score-prediction-for-nfl-week-17-rams-primed-to-bounce-back",
-      "title": "Rams vs. Falcons Final Score Prediction for NFL Week 17 (Rams Primed to Bounce Back)",
-      "link": "https://si.com/betting/rams-vs-falcons-final-score-prediction-for-nfl-week-17-rams-primed-to-bounce-back",
+      "id": "https-cbssports-com-nfl-news-falcons-vs-rams-prediction-can-los-angeles-bounce-back-on-monday-night-football-after-devas",
+      "title": "Falcons vs. Rams prediction: Can Los Angeles bounce back on 'Monday Night Football' after devastating loss?",
+      "link": "https://cbssports.com/nfl/news/falcons-vs-rams-prediction-can-los-angeles-bounce-back-on-monday-night-football-after-devastating-loss/",
+      "source": "CBS Sports",
+      "ts": 1766986920.0,
+      "published_iso": "2025-12-29T05:42:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-rams-vs-falcons-best-anytime-touchdown-scorer-picks-for-monday-night-football-in-nfl-week-17",
+      "title": "Rams vs. Falcons Best Anytime Touchdown Scorer Picks for Monday Night Football in NFL Week 17",
+      "link": "https://si.com/betting/rams-vs-falcons-best-anytime-touchdown-scorer-picks-for-monday-night-football-in-nfl-week-17",
       "source": "Sports Illustrated",
-      "ts": 1766979720.0,
-      "published_iso": "2025-12-29T03:42:00+00:00"
+      "ts": 1766985900.0,
+      "published_iso": "2025-12-29T05:25:00+00:00"
     },
     {
-      "id": "https-therams-com-news-rams-vs-cardinals-week-18-2025-kickoff-date-time-tv-designation-fox",
-      "title": "Rams vs. Cardinals Week 18 kickoff date and time, TV designation set",
-      "link": "https://therams.com/news/rams-vs-cardinals-week-18-2025-kickoff-date-time-tv-designation-fox",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1766954640.0,
-      "published_iso": "2025-12-28T20:44:00+00:00"
+      "id": "https-sports-yahoo-com-articles-rams-vs-falcons-monday-night-131000266-html",
+      "title": "Rams vs. Falcons: Monday Night Football Finale Open Thread",
+      "link": "https://sports.yahoo.com/articles/rams-vs-falcons-monday-night-131000266.html",
+      "source": "Yahoo Sports",
+      "ts": 1766985240.0,
+      "published_iso": "2025-12-29T05:14:00+00:00"
     }
   ]
 }
