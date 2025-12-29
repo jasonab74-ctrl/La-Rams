@@ -1,7 +1,31 @@
 {
-  "updated_iso": "2025-12-29T13:51:35.297824+00:00",
-  "count": 4,
+  "updated_iso": "2025-12-29T14:11:35.802821+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-davante-adams-playing-tonight-latest-134919901-html",
+      "title": "Is Davante Adams playing tonight? Latest injury update on Rams WR for Week 17",
+      "link": "https://sports.yahoo.com/articles/davante-adams-playing-tonight-latest-134919901.html",
+      "source": "Yahoo Sports",
+      "ts": 1766988480.0,
+      "published_iso": "2025-12-29T06:08:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-nfl-dfs-picks-rams-falcons-daily-fantasy-lineups-draftkings-fanduel-monday-night-football",
+      "title": "NFL DFS picks, Rams vs. Falcons: Top daily Fantasy lineups, advice, stacks for 'Monday Night Football'",
+      "link": "https://cbssports.com/nfl/news/nfl-dfs-picks-rams-falcons-daily-fantasy-lineups-draftkings-fanduel-monday-night-football/",
+      "source": "CBS Sports",
+      "ts": 1766988480.0,
+      "published_iso": "2025-12-29T06:08:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-best-nfl-picks-and-predictions-today-how-to-bet-rams-vs-falcons-on-monday-night-football-in-nfl-wee",
+      "title": "Best NFL Picks and Predictions Today (How to Bet Rams vs. Falcons on Monday Night Football in NFL Week 17)",
+      "link": "https://si.com/betting/best-nfl-picks-and-predictions-today-how-to-bet-rams-vs-falcons-on-monday-night-football-in-nfl-week-17",
+      "source": "Sports Illustrated",
+      "ts": 1766986980.0,
+      "published_iso": "2025-12-29T05:43:00+00:00"
+    },
     {
       "id": "https-cbssports-com-nfl-news-monday-night-football-prediction-odds-spread-time-rams-falcons-expert-picks",
       "title": "'Monday Night Football' prediction, odds, spread, time: Rams vs. Falcons picks from expert on 28-10 run",
@@ -9,22 +33,6 @@
       "source": "CBS Sports",
       "ts": 1766986920.0,
       "published_iso": "2025-12-29T05:42:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-falcons-vs-rams-prediction-can-los-angeles-bounce-back-on-monday-night-football-after-devas",
-      "title": "Falcons vs. Rams prediction: Can Los Angeles bounce back on 'Monday Night Football' after devastating loss?",
-      "link": "https://cbssports.com/nfl/news/falcons-vs-rams-prediction-can-los-angeles-bounce-back-on-monday-night-football-after-devastating-loss/",
-      "source": "CBS Sports",
-      "ts": 1766986920.0,
-      "published_iso": "2025-12-29T05:42:00+00:00"
-    },
-    {
-      "id": "https-si-com-betting-rams-vs-falcons-best-anytime-touchdown-scorer-picks-for-monday-night-football-in-nfl-week-17",
-      "title": "Rams vs. Falcons Best Anytime Touchdown Scorer Picks for Monday Night Football in NFL Week 17",
-      "link": "https://si.com/betting/rams-vs-falcons-best-anytime-touchdown-scorer-picks-for-monday-night-football-in-nfl-week-17",
-      "source": "Sports Illustrated",
-      "ts": 1766985900.0,
-      "published_iso": "2025-12-29T05:25:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-rams-vs-falcons-monday-night-131000266-html",
