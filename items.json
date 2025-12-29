@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-12-29T16:11:49.402498+00:00",
+  "updated_iso": "2025-12-29T16:46:00.135926+00:00",
   "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-cardinals-vs-rams-week-18-161928013-html",
+      "title": "Cardinals vs. Rams Week 18 date, time set",
+      "link": "https://sports.yahoo.com/articles/cardinals-vs-rams-week-18-161928013.html",
+      "source": "Yahoo Sports",
+      "ts": 1766997060.0,
+      "published_iso": "2025-12-29T08:31:00+00:00"
+    },
     {
       "id": "https-bleacherreport-com-articles-25341575-matthew-stafford-total-g-says-rams-mcvay-amid-nfl-mvp-race-vs-drake-maye",
       "title": "Matthew Stafford is \"A Total 'G\" Says Rams' McVay amid NFL MVP Race vs. Drake Maye",
@@ -25,14 +33,6 @@
       "source": "Yahoo Sports",
       "ts": 1766991360.0,
       "published_iso": "2025-12-29T06:56:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-davante-adams-playing-tonight-latest-134919901-html",
-      "title": "Is Davante Adams playing tonight? Latest injury update on Rams WR for Week 17",
-      "link": "https://sports.yahoo.com/articles/davante-adams-playing-tonight-latest-134919901.html",
-      "source": "Yahoo Sports",
-      "ts": 1766988480.0,
-      "published_iso": "2025-12-29T06:08:00+00:00"
     }
   ]
 }
