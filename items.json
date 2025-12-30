@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-12-30T14:43:04.617737+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-30T15:10:22.828522+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-bleacherreport-com-articles-25343140-how-falcons-win-vs-rams-impacted-race-no-1-pick-2026-nfl-draft",
@@ -15,6 +15,14 @@
       "title": "L.A. Rams News: How should we feel about this team?",
       "link": "https://sports.yahoo.com/articles/l-rams-news-feel-team-135352604.html",
       "source": "Yahoo Sports",
+      "ts": 1767074520.0,
+      "published_iso": "2025-12-30T06:02:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-cardinals-vs-rams-predictions-early-135100544-html",
+      "title": "Cardinals vs Rams Predictions",
+      "link": "https://sports.yahoo.com/articles/cardinals-vs-rams-predictions-early-135100544.html",
+      "source": "Early Picks & Odds for Week 18",
       "ts": 1767074520.0,
       "published_iso": "2025-12-30T06:02:00+00:00"
     }
