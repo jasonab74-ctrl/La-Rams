@@ -1,14 +1,38 @@
 {
-  "updated_iso": "2025-12-30T11:09:29.064615+00:00",
-  "count": 1,
+  "updated_iso": "2025-12-30T11:37:22.207641+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-falcons-win-vs-rams-impacts-041435450-html",
+      "id": "https-latimes-com-sports-rams-story-2025-12-30-why-are-rams-struggling-so-much",
+      "title": "What happened to Rams? Why Sean McVay’s team is staggering as rest of NFC heats up",
+      "link": "https://latimes.com/sports/rams/story/2025-12-30/why-are-rams-struggling-so-much",
+      "source": "LA Times",
+      "ts": 1767063600.0,
+      "published_iso": "2025-12-30T03:00:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-falcons-win-vs-rams-impacts-041435347-html",
       "title": "How Falcons’ win vs. Rams impacts Panthers’ playoff push entering Week 18",
-      "link": "https://sports.yahoo.com/articles/falcons-win-vs-rams-impacts-041435450.html",
+      "link": "https://sports.yahoo.com/articles/falcons-win-vs-rams-impacts-041435347.html",
       "source": "Yahoo Sports",
       "ts": 1767061800.0,
       "published_iso": "2025-12-30T02:30:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-robinson-runs-195-yards-falcons-095959400-html",
+      "title": "Robinson runs for 195 yards as Falcons recover to upset Rams",
+      "link": "https://sports.yahoo.com/articles/robinson-runs-195-yards-falcons-095959400.html",
+      "source": "Yahoo Sports",
+      "ts": 1767060300.0,
+      "published_iso": "2025-12-30T02:05:00+00:00"
+    },
+    {
+      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-where-los-angeles-rams-sit-nfc-playoff-picture-after-winloss-vs-falc",
+      "title": "Where Los Angeles Rams sit in NFC playoff picture after loss vs. Falcons",
+      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/where-los-angeles-rams-sit-nfc-playoff-picture-after-winloss-vs-falcons/9ee965662f7ae9f0218f348d",
+      "source": "Sporting News",
+      "ts": 1767039060.0,
+      "published_iso": "2025-12-29T20:11:00+00:00"
     }
   ]
 }
