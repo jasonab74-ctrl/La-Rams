@@ -1,30 +1,46 @@
 {
-  "updated_iso": "2025-12-30T03:55:15.107136+00:00",
-  "count": 3,
+  "updated_iso": "2025-12-30T04:29:44.232992+00:00",
+  "count": 5,
   "items": [
     {
-      "id": "https-latimes-com-sports-rams-live-rams-atlanta-falcons-live-updates-watch-start-time-odds-score-highlights",
-      "title": "Rams vs. Falcons live updates: L.A. strikes back, scoring on blocked field goal",
-      "link": "https://latimes.com/sports/rams/live/rams-atlanta-falcons-live-updates-watch-start-time-odds-score-highlights",
-      "source": "LA Times",
-      "ts": 1767037140.0,
-      "published_iso": "2025-12-29T19:39:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-kyren-williams-playing-tonight-why-021257385-html",
-      "title": "Is Kyren Williams playing tonight? Why Rams RB had nightmare first half vs. Falcons",
-      "link": "https://sports.yahoo.com/articles/kyren-williams-playing-tonight-why-021257385.html",
+      "id": "https-sports-yahoo-com-articles-rams-cant-complete-comeback-vs-041352425-html",
+      "title": "Rams can't complete comeback vs. Falcons: Instant analysis of 27-24 loss",
+      "link": "https://sports.yahoo.com/articles/rams-cant-complete-comeback-vs-041352425.html",
       "source": "Yahoo Sports",
-      "ts": 1767036780.0,
-      "published_iso": "2025-12-29T19:33:00+00:00"
+      "ts": 1767040020.0,
+      "published_iso": "2025-12-29T20:27:00+00:00"
     },
     {
-      "id": "https-bleacherreport-com-articles-25342737-rams-matthew-stafford-makes-nfl-history-ties-brett-favres-pick-6-record-vs-fa",
-      "title": "Rams' Matthew Stafford Makes NFL History, Ties Brett Favre's Pick-6 Record vs. Falcons",
-      "link": "https://bleacherreport.com/articles/25342737-rams-matthew-stafford-makes-nfl-history-ties-brett-favres-pick-6-record-vs-falcons",
+      "id": "https-bleacherreport-com-articles-25342829-nfl-playoff-bracket-scenarios-2025-26-week-18-latest-standings-after-rams-vs-",
+      "title": "NFL Playoff Bracket Scenarios 2025-26 Week 18, Latest Standings After Rams vs. Falcons",
+      "link": "https://bleacherreport.com/articles/25342829-nfl-playoff-bracket-scenarios-2025-26-week-18-latest-standings-after-rams-vs-falcons",
       "source": "Bleacher Report",
-      "ts": 1767033360.0,
-      "published_iso": "2025-12-29T18:36:00+00:00"
+      "ts": 1767039480.0,
+      "published_iso": "2025-12-29T20:18:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-falcons-final-score-l-041122336-html",
+      "title": "Rams-Falcons final score: L.A. shows up too little too late",
+      "link": "https://sports.yahoo.com/articles/rams-falcons-final-score-l-041122336.html",
+      "source": "Yahoo Sports",
+      "ts": 1767039420.0,
+      "published_iso": "2025-12-29T20:17:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-falcons-onsi-news-falcons-lose-star-defender-against-rams-on-monday-night-football",
+      "title": "Falcons Lose Star Defender Against Rams on Monday Night Football",
+      "link": "https://si.com/nfl/falcons/onsi/news/falcons-lose-star-defender-against-rams-on-monday-night-football",
+      "source": "Sports Illustrated",
+      "ts": 1767039000.0,
+      "published_iso": "2025-12-29T20:10:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-news-rams-falcons-on-monday-night-football-what-we-learned-from-atlanta-s-27-24-win",
+      "title": "Rams-Falcons on 'Monday Night Football': What We Learned from Atlanta's 27-24 win",
+      "link": "https://nfl.com/news/rams-falcons-on-monday-night-football-what-we-learned-from-atlanta-s-27-24-win",
+      "source": "NFL.com",
+      "ts": 1767035400.0,
+      "published_iso": "2025-12-29T19:10:00+00:00"
     }
   ]
 }
