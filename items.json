@@ -1,22 +1,22 @@
 {
-  "updated_iso": "2025-12-30T02:48:59.581026+00:00",
-  "count": 4,
+  "updated_iso": "2025-12-30T03:55:15.107136+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-latimes-com-sports-rams-live-rams-atlanta-falcons-live-updates-watch-start-time-odds-score-highlights",
-      "title": "Rams vs. Falcons live updates: Atlanta shuts out L.A. in first half",
+      "title": "Rams vs. Falcons live updates: L.A. strikes back, scoring on blocked field goal",
       "link": "https://latimes.com/sports/rams/live/rams-atlanta-falcons-live-updates-watch-start-time-odds-score-highlights",
       "source": "LA Times",
-      "ts": 1767034020.0,
-      "published_iso": "2025-12-29T18:47:00+00:00"
+      "ts": 1767037140.0,
+      "published_iso": "2025-12-29T19:39:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-blake-corum-injury-latest-news-021639454-html",
-      "title": "Blake Corum injury update: Latest news on Rams RB's status in Week 17 game",
-      "link": "https://sports.yahoo.com/articles/blake-corum-injury-latest-news-021639454.html",
+      "id": "https-sports-yahoo-com-articles-kyren-williams-playing-tonight-why-021257385-html",
+      "title": "Is Kyren Williams playing tonight? Why Rams RB had nightmare first half vs. Falcons",
+      "link": "https://sports.yahoo.com/articles/kyren-williams-playing-tonight-why-021257385.html",
       "source": "Yahoo Sports",
-      "ts": 1767033780.0,
-      "published_iso": "2025-12-29T18:43:00+00:00"
+      "ts": 1767036780.0,
+      "published_iso": "2025-12-29T19:33:00+00:00"
     },
     {
       "id": "https-bleacherreport-com-articles-25342737-rams-matthew-stafford-makes-nfl-history-ties-brett-favres-pick-6-record-vs-fa",
@@ -25,14 +25,6 @@
       "source": "Bleacher Report",
       "ts": 1767033360.0,
       "published_iso": "2025-12-29T18:36:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-rb-exits-early-vs-022144130-html",
-      "title": "Rams RB exits early vs. Falcons with injury",
-      "link": "https://sports.yahoo.com/articles/rams-rb-exits-early-vs-022144130.html",
-      "source": "Yahoo Sports",
-      "ts": 1767033120.0,
-      "published_iso": "2025-12-29T18:32:00+00:00"
     }
   ]
 }
