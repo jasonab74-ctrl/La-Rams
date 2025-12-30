@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-12-30T09:43:27.634132+00:00",
+  "updated_iso": "2025-12-30T10:10:54.497440+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-see-questionable-missed-pass-053040248-html",
+      "title": "Rams see questionable missed pass interference call stall desperate final drive in ‘MNF’ loss to Falcons",
+      "link": "https://sports.yahoo.com/articles/rams-see-questionable-missed-pass-053040248.html",
+      "source": "Yahoo Sports",
+      "ts": 1767059700.0,
+      "published_iso": "2025-12-30T01:55:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-falcons-survive-scare-upset-rams-043715527-html",
       "title": "Falcons survive late scare, upset Rams 27-24 on Robinson’s record run",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1767055680.0,
       "published_iso": "2025-12-30T00:48:00+00:00"
-    },
-    {
-      "id": "https-latimes-com-0000019b-6e57-d1e4-a9df-fedf69990000-123",
-      "title": "Takeaways from Rams’ loss to Atlanta Falcons",
-      "link": "https://latimes.com/0000019b-6e57-d1e4-a9df-fedf69990000-123",
-      "source": "LA Times",
-      "ts": 1767055140.0,
-      "published_iso": "2025-12-30T00:39:00+00:00"
     }
   ]
 }
