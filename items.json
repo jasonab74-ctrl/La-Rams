@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-12-30T10:10:54.497440+00:00",
+  "updated_iso": "2025-12-30T10:44:42.859075+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-falcons-win-vs-rams-impacts-041435450-html",
+      "title": "How Falcons’ win vs. Rams impacts Panthers’ playoff push entering Week 18",
+      "link": "https://sports.yahoo.com/articles/falcons-win-vs-rams-impacts-041435450.html",
+      "source": "Yahoo Sports",
+      "ts": 1767061800.0,
+      "published_iso": "2025-12-30T02:30:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-see-questionable-missed-pass-053040248-html",
       "title": "Rams see questionable missed pass interference call stall desperate final drive in ‘MNF’ loss to Falcons",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1767059700.0,
       "published_iso": "2025-12-30T01:55:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-falcons-survive-scare-upset-rams-043715527-html",
-      "title": "Falcons survive late scare, upset Rams 27-24 on Robinson’s record run",
-      "link": "https://sports.yahoo.com/articles/falcons-survive-scare-upset-rams-043715527.html",
-      "source": "Yahoo Sports",
-      "ts": 1767055680.0,
-      "published_iso": "2025-12-30T00:48:00+00:00"
     }
   ]
 }
