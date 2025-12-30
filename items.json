@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2025-12-30T10:44:42.859075+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-30T11:09:29.064615+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-falcons-win-vs-rams-impacts-041435450-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1767061800.0,
       "published_iso": "2025-12-30T02:30:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-see-questionable-missed-pass-053040248-html",
-      "title": "Rams see questionable missed pass interference call stall desperate final drive in ‘MNF’ loss to Falcons",
-      "link": "https://sports.yahoo.com/articles/rams-see-questionable-missed-pass-053040248.html",
-      "source": "Yahoo Sports",
-      "ts": 1767059700.0,
-      "published_iso": "2025-12-30T01:55:00+00:00"
     }
   ]
 }
