@@ -1,22 +1,22 @@
 {
-  "updated_iso": "2025-12-30T18:14:56.778089+00:00",
+  "updated_iso": "2025-12-30T18:50:45.523570+00:00",
   "count": 2,
   "items": [
     {
-      "id": "https-cbssports-com-watch-nfl-video-monday-night-football-rams-at-falcons",
-      "title": "Monday Night Football Preview: Rams at Falcons",
-      "link": "https://cbssports.com/watch/nfl/video/monday-night-football-rams-at-falcons",
+      "id": "https-cbssports-com-nfl-news-ranking-nfl-head-coach-candidates",
+      "title": "Ranking NFL head coach candidates who aren't retreads: Both Rams coordinators could be hot names this cycle",
+      "link": "https://cbssports.com/nfl/news/ranking-nfl-head-coach-candidates/",
       "source": "CBS Sports",
-      "ts": 1767089460.0,
-      "published_iso": "2025-12-30T10:11:00+00:00"
+      "ts": 1767090900.0,
+      "published_iso": "2025-12-30T10:35:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-rams-rb-kyren-wiliams-reveals-155257980-html",
-      "title": "Rams RB Kyren Wiliams reveals what ‘saved season’ after injury scare vs. Falcons",
-      "link": "https://sports.yahoo.com/articles/rams-rb-kyren-wiliams-reveals-155257980.html",
+      "id": "https-sports-yahoo-com-articles-where-los-angeles-rams-sit-041114124-html",
+      "title": "Where Los Angeles Rams sit in NFC playoff picture after loss vs. Falcons",
+      "link": "https://sports.yahoo.com/articles/where-los-angeles-rams-sit-041114124.html",
       "source": "Yahoo Sports",
-      "ts": 1767085800.0,
-      "published_iso": "2025-12-30T09:10:00+00:00"
+      "ts": 1767040680.0,
+      "published_iso": "2025-12-29T20:38:00+00:00"
     }
   ]
 }
