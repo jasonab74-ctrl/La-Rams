@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2025-12-30T04:57:20.106839+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-30T05:18:47.594174+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-bleacherreport-com-articles-25342873-matthew-stafford-rams-starters-will-play-vs-cardinals-amid-nfl-playoff-race-h",
+      "title": "Matthew Stafford, Rams Starters Will Play vs. Cardinals Amid NFL Playoff Race, per HC",
+      "link": "https://bleacherreport.com/articles/25342873-matthew-stafford-rams-starters-will-play-vs-cardinals-amid-nfl-playoff-race-hc",
+      "source": "Bleacher Report",
+      "ts": 1767041220.0,
+      "published_iso": "2025-12-29T20:47:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-falcons-vs-rams-live-updates-score-higlights-mnf-live",
+      "title": "Matthew Stafford's MVP case takes major hit with three INTs as Bijan Robinson fuels Falcons' upset over Rams",
+      "link": "https://cbssports.com/nfl/news/falcons-vs-rams-live-updates-score-higlights-mnf/live/",
+      "source": "CBS Sports",
+      "ts": 1767041220.0,
+      "published_iso": "2025-12-29T20:47:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25342829-nfl-playoff-bracket-scenarios-2025-26-week-18-latest-standings-after-rams-vs-",
+      "title": "NFL Playoff Bracket Scenarios 2025-26 Week 18, Latest Standings After Rams vs. Falcons",
+      "link": "https://bleacherreport.com/articles/25342829-nfl-playoff-bracket-scenarios-2025-26-week-18-latest-standings-after-rams-vs-falcons",
+      "source": "Bleacher Report",
+      "ts": 1767039480.0,
+      "published_iso": "2025-12-29T20:18:00+00:00"
+    }
+  ]
 }
