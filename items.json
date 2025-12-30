@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2025-12-30T15:10:22.828522+00:00",
+  "updated_iso": "2025-12-30T15:41:13.428956+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-bleacherreport-com-articles-25343202-bijan-robinson-makes-nfl-history-sets-multiple-records-huge-game-vs-rams",
+      "title": "Bijan Robinson Makes NFL History, Sets Multiple Records With Huge Game vs. Rams",
+      "link": "https://bleacherreport.com/articles/25343202-bijan-robinson-makes-nfl-history-sets-multiple-records-huge-game-vs-rams",
+      "source": "Bleacher Report",
+      "ts": 1767079620.0,
+      "published_iso": "2025-12-30T07:27:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-videos-gmfb-reacts-to-falcons-week-17-upset-win-vs-rams",
+      "title": "'GMFB' reacts to Falcons Week 17 upset win vs. Rams",
+      "link": "https://nfl.com/videos/gmfb-reacts-to-falcons-week-17-upset-win-vs-rams",
+      "source": "NFL.com",
+      "ts": 1767079320.0,
+      "published_iso": "2025-12-30T07:22:00+00:00"
+    },
     {
       "id": "https-bleacherreport-com-articles-25343140-how-falcons-win-vs-rams-impacted-race-no-1-pick-2026-nfl-draft",
       "title": "How Falcons' Win vs. Rams Impacted Race for No. 1 Pick in 2026 NFL Draft",
@@ -9,22 +25,6 @@
       "source": "Bleacher Report",
       "ts": 1767076740.0,
       "published_iso": "2025-12-30T06:39:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-l-rams-news-feel-team-135352604-html",
-      "title": "L.A. Rams News: How should we feel about this team?",
-      "link": "https://sports.yahoo.com/articles/l-rams-news-feel-team-135352604.html",
-      "source": "Yahoo Sports",
-      "ts": 1767074520.0,
-      "published_iso": "2025-12-30T06:02:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-cardinals-vs-rams-predictions-early-135100544-html",
-      "title": "Cardinals vs Rams Predictions",
-      "link": "https://sports.yahoo.com/articles/cardinals-vs-rams-predictions-early-135100544.html",
-      "source": "Early Picks & Odds for Week 18",
-      "ts": 1767074520.0,
-      "published_iso": "2025-12-30T06:02:00+00:00"
     }
   ]
 }
