@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-12-30T22:09:05.403709+00:00",
-  "count": 3,
+  "updated_iso": "2025-12-30T22:40:54.884525+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-matthew-stafford-joins-brett-220115503-html",
+      "title": "Rams' Matthew Stafford joins Brett Favre in unfortunate NFL history",
+      "link": "https://sports.yahoo.com/articles/rams-matthew-stafford-joins-brett-220115503.html",
+      "source": "Yahoo Sports",
+      "ts": 1767105120.0,
+      "published_iso": "2025-12-30T14:32:00+00:00"
+    },
     {
       "id": "https-foxsports-com-watch-fmc-dpo1skrjp2yg6vmn",
       "title": "Nick WORRIED about his Rams after losing to Falcons Did Stafford drop the MVP to Maye? | FTF",
@@ -9,22 +17,6 @@
       "source": "FOX Sports",
       "ts": 1767103620.0,
       "published_iso": "2025-12-30T14:07:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-watch-fmc-zcklek6na3esnz0v",
-      "title": "Falcons beat Rams 27-24, Stafford throws 3 INTS, Are their Super Bowl hopes fading? | The Herd",
-      "link": "https://foxsports.com/watch/fmc-zcklek6na3esnz0v",
-      "source": "FOX Sports",
-      "ts": 1767100260.0,
-      "published_iso": "2025-12-30T13:11:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-where-los-angeles-rams-sit-041114124-html",
-      "title": "Where Los Angeles Rams sit in NFC playoff picture after loss vs. Falcons",
-      "link": "https://sports.yahoo.com/articles/where-los-angeles-rams-sit-041114124.html",
-      "source": "Yahoo Sports",
-      "ts": 1767040680.0,
-      "published_iso": "2025-12-29T20:38:00+00:00"
     }
   ]
 }
