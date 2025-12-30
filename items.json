@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2025-12-30T16:12:43.305205+00:00",
-  "count": 3,
+  "updated_iso": "2025-12-30T16:48:34.982256+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-tst-images-falcons-beat-rams-055728936-html",
-      "title": "TST Images: Falcons beat Rams, 27-24, in Atlanta",
-      "link": "https://sports.yahoo.com/articles/tst-images-falcons-beat-rams-055728936.html",
+      "id": "https-sports-yahoo-com-articles-rams-matthew-stafford-reveals-went-145906676-html",
+      "title": "Rams’ Matthew Stafford reveals what went wrong on all 3 interceptions vs. Falcons",
+      "link": "https://sports.yahoo.com/articles/rams-matthew-stafford-reveals-went-145906676.html",
       "source": "Yahoo Sports",
-      "ts": 1767081240.0,
-      "published_iso": "2025-12-30T07:54:00+00:00"
+      "ts": 1767082800.0,
+      "published_iso": "2025-12-30T08:20:00+00:00"
     },
     {
       "id": "https-bleacherreport-com-articles-25343202-bijan-robinson-makes-nfl-history-sets-multiple-records-huge-game-vs-rams",
@@ -17,14 +17,6 @@
       "source": "Bleacher Report",
       "ts": 1767079620.0,
       "published_iso": "2025-12-30T07:27:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25343140-how-falcons-win-vs-rams-impacted-race-no-1-pick-2026-nfl-draft",
-      "title": "How Falcons' Win vs. Rams Impacted Race for No. 1 Pick in 2026 NFL Draft",
-      "link": "https://bleacherreport.com/articles/25343140-how-falcons-win-vs-rams-impacted-race-no-1-pick-2026-nfl-draft",
-      "source": "Bleacher Report",
-      "ts": 1767076740.0,
-      "published_iso": "2025-12-30T06:39:00+00:00"
     }
   ]
 }
