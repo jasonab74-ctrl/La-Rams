@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2025-12-31T05:23:41.861111+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-31T05:44:29.974537+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-nfl-article-nfl-playoff-picture-week-18-2025-011601536-html",
+      "title": "NFL playoff picture: Falcons force Rams to sweat out securing No. 5 seed, improve Panthers' shot at NFC South crown",
+      "link": "https://sports.yahoo.com/nfl/article/nfl-playoff-picture-week-18-2025-011601536.html",
+      "source": "Yahoo Sports",
+      "ts": 1767125520.0,
+      "published_iso": "2025-12-30T20:12:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-cardinals-vs-rams-prediction-odds-spread-injuries-trends-for-nfl-week-18-01kds2qj5sj8",
+      "title": "Cardinals vs. Rams Prediction, Odds, Spread, Injuries, Trends for NFL Week 18",
+      "link": "https://si.com/betting/cardinals-vs-rams-prediction-odds-spread-injuries-trends-for-nfl-week-18-01kds2qj5sj8",
+      "source": "Sports Illustrated",
+      "ts": 1767122100.0,
+      "published_iso": "2025-12-30T19:15:00+00:00"
+    }
+  ]
 }
