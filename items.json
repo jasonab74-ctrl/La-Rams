@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2025-12-31T07:40:23.624337+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-31T08:14:19.703082+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-troy-aikman-brings-rams-linebacker-072142147-html",
+      "title": "Troy Aikman brings up Rams linebacker’s sister",
+      "link": "https://sports.yahoo.com/articles/troy-aikman-brings-rams-linebacker-072142147.html",
+      "source": "and her perfectly ironic name",
+      "ts": 1767139260.0,
+      "published_iso": "2025-12-31T00:01:00+00:00"
+    },
     {
       "id": "https-si-com-betting-cardinals-vs-rams-prediction-odds-spread-injuries-trends-for-nfl-week-18-01kds2qj5sj8",
       "title": "Cardinals vs. Rams Prediction, Odds, Spread, Injuries, Trends for NFL Week 18",
