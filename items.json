@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2025-12-31T20:10:28.909137+00:00",
-  "count": 5,
+  "updated_iso": "2025-12-31T20:40:55.574974+00:00",
+  "count": 4,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-chris-shula-one-other-rams-194358871-html",
-      "title": "Chris Shula, one other Rams assistant on NFL head coaching radars",
-      "link": "https://sports.yahoo.com/articles/chris-shula-one-other-rams-194358871.html",
-      "source": "Yahoo Sports",
-      "ts": 1767182160.0,
-      "published_iso": "2025-12-31T11:56:00+00:00"
-    },
     {
       "id": "https-therams-com-news-nfc-playoff-picture-2025-rams-remain-no-6-seed-but-no-5-seed-still-in-play-entering-week-18",
       "title": "NFC playoff picture: Rams remain No. 6 seed, but No. 5 seed still in play entering Week 18",
@@ -35,12 +27,12 @@
       "published_iso": "2025-12-31T11:24:00+00:00"
     },
     {
-      "id": "https-therams-com-news-los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-18-2025",
-      "title": "Los Angeles Rams vs. Arizona Cardinals: How to watch, listen to and live stream Week 18",
-      "link": "https://therams.com/news/los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-18-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1767179520.0,
-      "published_iso": "2025-12-31T11:12:00+00:00"
+      "id": "https-sports-yahoo-com-articles-where-los-angeles-rams-sit-041114124-html",
+      "title": "Where Los Angeles Rams sit in NFC playoff picture after loss vs. Falcons",
+      "link": "https://sports.yahoo.com/articles/where-los-angeles-rams-sit-041114124.html",
+      "source": "Yahoo Sports",
+      "ts": 1767040680.0,
+      "published_iso": "2025-12-29T20:38:00+00:00"
     }
   ]
 }
