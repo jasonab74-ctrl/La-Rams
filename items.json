@@ -1,7 +1,31 @@
 {
-  "updated_iso": "2025-12-31T19:32:33.858797+00:00",
-  "count": 2,
+  "updated_iso": "2025-12-31T20:10:28.909137+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-chris-shula-one-other-rams-194358871-html",
+      "title": "Chris Shula, one other Rams assistant on NFL head coaching radars",
+      "link": "https://sports.yahoo.com/articles/chris-shula-one-other-rams-194358871.html",
+      "source": "Yahoo Sports",
+      "ts": 1767182160.0,
+      "published_iso": "2025-12-31T11:56:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-nfc-playoff-picture-2025-rams-remain-no-6-seed-but-no-5-seed-still-in-play-entering-week-18",
+      "title": "NFC playoff picture: Rams remain No. 6 seed, but No. 5 seed still in play entering Week 18",
+      "link": "https://therams.com/news/nfc-playoff-picture-2025-rams-remain-no-6-seed-but-no-5-seed-still-in-play-entering-week-18",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1767182160.0,
+      "published_iso": "2025-12-31T11:56:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-videos-cardinals-vs-rams-preview-week-18",
+      "title": "Cardinals vs. Rams preview | Week 18",
+      "link": "https://nfl.com/videos/cardinals-vs-rams-preview-week-18",
+      "source": "NFL.com",
+      "ts": 1767181380.0,
+      "published_iso": "2025-12-31T11:43:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-nfl-insider-says-rams-likely-185725212-html",
       "title": "NFL insider says Rams likely losing defensive coordinator, Tennessee Titans top landing spot",
