@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2025-12-31T23:09:20.510049+00:00",
+  "updated_iso": "2025-12-31T23:37:19.905187+00:00",
   "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-injury-status-davante-adams-214855353-html",
-      "title": "Rams update injury status of Davante Adams, Blake Corum ahead of Week 18 vs. Cardinals",
-      "link": "https://sports.yahoo.com/articles/rams-injury-status-davante-adams-214855353.html",
+      "id": "https-sports-yahoo-com-articles-rams-film-review-could-terrance-232126865-html",
+      "title": "Rams Film Review: Could Terrance Ferguson be playoff ‘X-Factor’?",
+      "link": "https://sports.yahoo.com/articles/rams-film-review-could-terrance-232126865.html",
       "source": "Yahoo Sports",
-      "ts": 1767190740.0,
-      "published_iso": "2025-12-31T14:19:00+00:00"
+      "ts": 1767194820.0,
+      "published_iso": "2025-12-31T15:27:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-nfl-article-nfl-playoff-picture-week-18-2025-011601536-html",
@@ -27,12 +27,12 @@
       "published_iso": "2025-12-31T11:56:00+00:00"
     },
     {
-      "id": "https-therams-com-news-los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-18-2025",
-      "title": "Los Angeles Rams vs. Arizona Cardinals: How to watch, listen to and live stream Week 18",
-      "link": "https://therams.com/news/los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-18-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1767179520.0,
-      "published_iso": "2025-12-31T11:12:00+00:00"
+      "id": "https-nfl-com-videos-cardinals-vs-rams-preview-week-18",
+      "title": "Cardinals vs. Rams preview | Week 18",
+      "link": "https://nfl.com/videos/cardinals-vs-rams-preview-week-18",
+      "source": "NFL.com",
+      "ts": 1767181380.0,
+      "published_iso": "2025-12-31T11:43:00+00:00"
     }
   ]
 }
