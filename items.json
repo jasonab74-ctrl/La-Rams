@@ -1,5 +1,5 @@
 {
-  "updated_iso": "2025-12-31T08:48:26.119125+00:00",
+  "updated_iso": "2025-12-31T09:14:16.444805+00:00",
   "count": 3,
   "items": [
     {
@@ -11,20 +11,20 @@
       "published_iso": "2025-12-30T22:34:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-nfl-article-nfl-playoff-picture-week-18-2025-011601536-html",
-      "title": "NFL playoff picture: Falcons force Rams to sweat out securing No. 5 seed, improve Panthers' shot at NFC South crown",
-      "link": "https://sports.yahoo.com/nfl/article/nfl-playoff-picture-week-18-2025-011601536.html",
-      "source": "Yahoo Sports",
-      "ts": 1767125520.0,
-      "published_iso": "2025-12-30T20:12:00+00:00"
-    },
-    {
       "id": "https-sports-yahoo-com-articles-where-los-angeles-rams-sit-041114124-html",
       "title": "Where Los Angeles Rams sit in NFC playoff picture after loss vs. Falcons",
       "link": "https://sports.yahoo.com/articles/where-los-angeles-rams-sit-041114124.html",
       "source": "Yahoo Sports",
       "ts": 1767040680.0,
       "published_iso": "2025-12-29T20:38:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-monday-night-football-los-angeles-004500738-html",
+      "title": "Monday Night Football: Los Angeles Rams vs Atlanta Falcons",
+      "link": "https://sports.yahoo.com/articles/monday-night-football-los-angeles-004500738.html",
+      "source": "Yahoo Sports",
+      "ts": 1767027300.0,
+      "published_iso": "2025-12-29T16:55:00+00:00"
     }
   ]
 }
