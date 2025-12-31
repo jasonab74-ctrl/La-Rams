@@ -1,19 +1,19 @@
 {
-  "updated_iso": "2025-12-31T22:40:46.231717+00:00",
-  "count": 5,
+  "updated_iso": "2025-12-31T23:09:20.510049+00:00",
+  "count": 4,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-rams-te-tyler-higbee-designated-205822255-html",
-      "title": "Rams TE Tyler Higbee designated for IR return as playoffs draw near",
-      "link": "https://sports.yahoo.com/articles/rams-te-tyler-higbee-designated-205822255.html",
-      "source": "Yahoo Sports",
-      "ts": 1767191340.0,
-      "published_iso": "2025-12-31T14:29:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-rams-injury-status-davante-adams-214855353-html",
       "title": "Rams update injury status of Davante Adams, Blake Corum ahead of Week 18 vs. Cardinals",
       "link": "https://sports.yahoo.com/articles/rams-injury-status-davante-adams-214855353.html",
+      "source": "Yahoo Sports",
+      "ts": 1767190740.0,
+      "published_iso": "2025-12-31T14:19:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-nfl-article-nfl-playoff-picture-week-18-2025-011601536-html",
+      "title": "NFL playoff picture: Falcons force Rams to sweat out securing No. 5 seed, improve Panthers' shot at NFC South crown",
+      "link": "https://sports.yahoo.com/nfl/article/nfl-playoff-picture-week-18-2025-011601536.html",
       "source": "Yahoo Sports",
       "ts": 1767190740.0,
       "published_iso": "2025-12-31T14:19:00+00:00"
@@ -25,14 +25,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1767182160.0,
       "published_iso": "2025-12-31T11:56:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-videos-cardinals-vs-rams-preview-week-18",
-      "title": "Cardinals vs. Rams preview | Week 18",
-      "link": "https://nfl.com/videos/cardinals-vs-rams-preview-week-18",
-      "source": "NFL.com",
-      "ts": 1767181380.0,
-      "published_iso": "2025-12-31T11:43:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-18-2025",
