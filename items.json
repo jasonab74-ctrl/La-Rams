@@ -1,5 +1,46 @@
 {
-  "updated_iso": "2025-12-31T21:08:46.026359+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2025-12-31T21:36:31.541300+00:00",
+  "count": 5,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-great-news-injured-tight-205204767-html",
+      "title": "Rams get great news on injured tight end for Week 18, playoffs",
+      "link": "https://sports.yahoo.com/articles/rams-great-news-injured-tight-205204767.html",
+      "source": "Yahoo Sports",
+      "ts": 1767187020.0,
+      "published_iso": "2025-12-31T13:17:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-la-rams-aggressive-trade-matthew-175444524-html",
+      "title": "LA Rams make aggressive trade up for Matthew Stafford’s heir apparent, fill biggest roster holes in latest 2026 NFL mock draft",
+      "link": "https://sports.yahoo.com/articles/la-rams-aggressive-trade-matthew-175444524.html",
+      "source": "Yahoo Sports",
+      "ts": 1767186840.0,
+      "published_iso": "2025-12-31T13:14:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-nfc-playoff-picture-2025-rams-remain-no-6-seed-but-no-5-seed-still-in-play-entering-week-18",
+      "title": "NFC playoff picture: Rams remain No. 6 seed, but No. 5 seed still in play entering Week 18",
+      "link": "https://therams.com/news/nfc-playoff-picture-2025-rams-remain-no-6-seed-but-no-5-seed-still-in-play-entering-week-18",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1767182160.0,
+      "published_iso": "2025-12-31T11:56:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-videos-cardinals-vs-rams-preview-week-18",
+      "title": "Cardinals vs. Rams preview | Week 18",
+      "link": "https://nfl.com/videos/cardinals-vs-rams-preview-week-18",
+      "source": "NFL.com",
+      "ts": 1767181380.0,
+      "published_iso": "2025-12-31T11:43:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-18-2025",
+      "title": "Los Angeles Rams vs. Arizona Cardinals: How to watch, listen to and live stream Week 18",
+      "link": "https://therams.com/news/los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-18-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1767179520.0,
+      "published_iso": "2025-12-31T11:12:00+00:00"
+    }
+  ]
 }
