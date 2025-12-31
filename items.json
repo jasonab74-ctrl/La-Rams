@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2025-12-31T22:09:43.208544+00:00",
-  "count": 3,
+  "updated_iso": "2025-12-31T22:40:46.231717+00:00",
+  "count": 5,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-great-news-injured-tight-205204767-html",
-      "title": "Rams get great news on injured tight end for Week 18, playoffs",
-      "link": "https://sports.yahoo.com/articles/rams-great-news-injured-tight-205204767.html",
+      "id": "https-sports-yahoo-com-articles-rams-te-tyler-higbee-designated-205822255-html",
+      "title": "Rams TE Tyler Higbee designated for IR return as playoffs draw near",
+      "link": "https://sports.yahoo.com/articles/rams-te-tyler-higbee-designated-205822255.html",
       "source": "Yahoo Sports",
-      "ts": 1767187020.0,
-      "published_iso": "2025-12-31T13:17:00+00:00"
+      "ts": 1767191340.0,
+      "published_iso": "2025-12-31T14:29:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-injury-status-davante-adams-214855353-html",
+      "title": "Rams update injury status of Davante Adams, Blake Corum ahead of Week 18 vs. Cardinals",
+      "link": "https://sports.yahoo.com/articles/rams-injury-status-davante-adams-214855353.html",
+      "source": "Yahoo Sports",
+      "ts": 1767190740.0,
+      "published_iso": "2025-12-31T14:19:00+00:00"
     },
     {
       "id": "https-therams-com-news-nfc-playoff-picture-2025-rams-remain-no-6-seed-but-no-5-seed-still-in-play-entering-week-18",
@@ -25,6 +33,14 @@
       "source": "NFL.com",
       "ts": 1767181380.0,
       "published_iso": "2025-12-31T11:43:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-18-2025",
+      "title": "Los Angeles Rams vs. Arizona Cardinals: How to watch, listen to and live stream Week 18",
+      "link": "https://therams.com/news/los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-18-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1767179520.0,
+      "published_iso": "2025-12-31T11:12:00+00:00"
     }
   ]
 }
