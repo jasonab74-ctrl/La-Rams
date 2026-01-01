@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-01-01T21:09:00.056309+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-01T21:37:15.325901+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-agree-three-42-million-202240524-html",
-      "title": "Rams agree to three-year, $42 million extension with breakout safety",
-      "link": "https://sports.yahoo.com/articles/rams-agree-three-42-million-202240524.html",
+      "id": "https-sports-yahoo-com-nfl-article-nfl-playoff-picture-week-18-2025-011601536-html",
+      "title": "NFL playoff picture: Falcons force Rams to sweat out securing No. 5 seed, improve Panthers' shot at NFC South crown",
+      "link": "https://sports.yahoo.com/nfl/article/nfl-playoff-picture-week-18-2025-011601536.html",
       "source": "Yahoo Sports",
-      "ts": 1767271320.0,
-      "published_iso": "2026-01-01T12:42:00+00:00"
+      "ts": 1767272880.0,
+      "published_iso": "2026-01-01T13:08:00+00:00"
     },
     {
       "id": "https-bleacherreport-com-articles-25345595-quentin-lake-rams-agree-reported-42m-contract-extension-nfl-playoffs",
@@ -17,14 +17,6 @@
       "source": "Bleacher Report",
       "ts": 1767270120.0,
       "published_iso": "2026-01-01T12:22:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-where-los-angeles-rams-sit-041114124-html",
-      "title": "Where Los Angeles Rams sit in NFC playoff picture after loss vs. Falcons",
-      "link": "https://sports.yahoo.com/articles/where-los-angeles-rams-sit-041114124.html",
-      "source": "Yahoo Sports",
-      "ts": 1767040680.0,
-      "published_iso": "2025-12-29T20:38:00+00:00"
     }
   ]
 }
