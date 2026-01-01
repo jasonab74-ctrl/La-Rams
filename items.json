@@ -1,22 +1,5 @@
 {
-  "updated_iso": "2026-01-01T23:09:25.393099+00:00",
-  "count": 2,
-  "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-rams-cardinals-jared-verse-nate-225649436-html",
-      "title": "Rams-Cardinals: Jared Verse and Nate Landman must play better",
-      "link": "https://sports.yahoo.com/articles/rams-cardinals-jared-verse-nate-225649436.html",
-      "source": "Yahoo Sports",
-      "ts": 1767280080.0,
-      "published_iso": "2026-01-01T15:08:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25345595-quentin-lake-rams-agree-reported-42m-contract-extension-nfl-playoffs",
-      "title": "Quentin Lake, Rams Agree to Reported $42M Contract Extension Before NFL Playoffs",
-      "link": "https://bleacherreport.com/articles/25345595-quentin-lake-rams-agree-reported-42m-contract-extension-nfl-playoffs",
-      "source": "Bleacher Report",
-      "ts": 1767270120.0,
-      "published_iso": "2026-01-01T12:22:00+00:00"
-    }
-  ]
+  "updated_iso": "2026-01-01T23:38:26.865309+00:00",
+  "count": 0,
+  "items": []
 }
