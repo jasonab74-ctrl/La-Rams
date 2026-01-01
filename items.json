@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-01T05:46:24.035095+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-01T06:16:39.552347+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-falcons-promising-pass-rusher-avoids-045001712-html",
+      "title": "Falcons promising pass-rusher avoids serious injury after scary moment vs. Rams",
+      "link": "https://sports.yahoo.com/articles/falcons-promising-pass-rusher-avoids-045001712.html",
+      "source": "Yahoo Sports",
+      "ts": 1767218640.0,
+      "published_iso": "2025-12-31T22:04:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-injury-report-davante-adams-044522619-html",
       "title": "Rams injury report: Davante Adams DNP, Kyren Williams limited Wednesday",
@@ -17,22 +25,6 @@
       "source": "OC Register",
       "ts": 1767200400.0,
       "published_iso": "2025-12-31T17:00:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-nfl-article-nfl-playoff-picture-week-18-2025-011601536-html",
-      "title": "NFL playoff picture: Falcons force Rams to sweat out securing No. 5 seed, improve Panthers' shot at NFC South crown",
-      "link": "https://sports.yahoo.com/nfl/article/nfl-playoff-picture-week-18-2025-011601536.html",
-      "source": "Yahoo Sports",
-      "ts": 1767199620.0,
-      "published_iso": "2025-12-31T16:47:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-18-2025",
-      "title": "Los Angeles Rams vs. Arizona Cardinals: How to watch, listen to and live stream Week 18",
-      "link": "https://therams.com/news/los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-18-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1767179520.0,
-      "published_iso": "2025-12-31T11:12:00+00:00"
     }
   ]
 }
