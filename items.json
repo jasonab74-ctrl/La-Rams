@@ -1,38 +1,22 @@
 {
-  "updated_iso": "2025-12-31T23:37:19.905187+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-01T00:54:10.577590+00:00",
+  "count": 2,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-rams-film-review-could-terrance-232126865-html",
-      "title": "Rams Film Review: Could Terrance Ferguson be playoff ‘X-Factor’?",
-      "link": "https://sports.yahoo.com/articles/rams-film-review-could-terrance-232126865.html",
-      "source": "Yahoo Sports",
-      "ts": 1767194820.0,
-      "published_iso": "2025-12-31T15:27:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-nfl-article-nfl-playoff-picture-week-18-2025-011601536-html",
       "title": "NFL playoff picture: Falcons force Rams to sweat out securing No. 5 seed, improve Panthers' shot at NFC South crown",
       "link": "https://sports.yahoo.com/nfl/article/nfl-playoff-picture-week-18-2025-011601536.html",
       "source": "Yahoo Sports",
-      "ts": 1767190740.0,
-      "published_iso": "2025-12-31T14:19:00+00:00"
+      "ts": 1767198960.0,
+      "published_iso": "2025-12-31T16:36:00+00:00"
     },
     {
-      "id": "https-therams-com-news-nfc-playoff-picture-2025-rams-remain-no-6-seed-but-no-5-seed-still-in-play-entering-week-18",
-      "title": "NFC playoff picture: Rams remain No. 6 seed, but No. 5 seed still in play entering Week 18",
-      "link": "https://therams.com/news/nfc-playoff-picture-2025-rams-remain-no-6-seed-but-no-5-seed-still-in-play-entering-week-18",
+      "id": "https-therams-com-news-los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-18-2025",
+      "title": "Los Angeles Rams vs. Arizona Cardinals: How to watch, listen to and live stream Week 18",
+      "link": "https://therams.com/news/los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-18-2025",
       "source": "Los Angeles Rams (Official)",
-      "ts": 1767182160.0,
-      "published_iso": "2025-12-31T11:56:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-videos-cardinals-vs-rams-preview-week-18",
-      "title": "Cardinals vs. Rams preview | Week 18",
-      "link": "https://nfl.com/videos/cardinals-vs-rams-preview-week-18",
-      "source": "NFL.com",
-      "ts": 1767181380.0,
-      "published_iso": "2025-12-31T11:43:00+00:00"
+      "ts": 1767179520.0,
+      "published_iso": "2025-12-31T11:12:00+00:00"
     }
   ]
 }
