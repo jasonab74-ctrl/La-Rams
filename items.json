@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-01T04:30:05.435832+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-01T05:01:21.826160+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-injury-report-davante-adams-044522619-html",
+      "title": "Rams injury report: Davante Adams DNP, Kyren Williams limited Wednesday",
+      "link": "https://sports.yahoo.com/articles/rams-injury-report-davante-adams-044522619.html",
+      "source": "Yahoo Sports",
+      "ts": 1767214320.0,
+      "published_iso": "2025-12-31T20:52:00+00:00"
+    },
     {
       "id": "https-ocregister-com-2025-12-31-rams-open-tight-end-tyler-higbees-practice-window",
       "title": "Rams open tight end Tyler Higbee’s practice window",
@@ -11,20 +19,20 @@
       "published_iso": "2025-12-31T17:00:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-nfl-article-nfl-playoff-picture-week-18-2025-011601536-html",
-      "title": "NFL playoff picture: Falcons force Rams to sweat out securing No. 5 seed, improve Panthers' shot at NFC South crown",
-      "link": "https://sports.yahoo.com/nfl/article/nfl-playoff-picture-week-18-2025-011601536.html",
-      "source": "Yahoo Sports",
-      "ts": 1767199620.0,
-      "published_iso": "2025-12-31T16:47:00+00:00"
+      "id": "https-therams-com-news-nfc-playoff-picture-2025-rams-remain-no-6-seed-but-no-5-seed-still-in-play-entering-week-18",
+      "title": "NFC playoff picture: Rams remain No. 6 seed, but No. 5 seed still in play entering Week 18",
+      "link": "https://therams.com/news/nfc-playoff-picture-2025-rams-remain-no-6-seed-but-no-5-seed-still-in-play-entering-week-18",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1767182160.0,
+      "published_iso": "2025-12-31T11:56:00+00:00"
     },
     {
-      "id": "https-therams-com-news-los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-18-2025",
-      "title": "Los Angeles Rams vs. Arizona Cardinals: How to watch, listen to and live stream Week 18",
-      "link": "https://therams.com/news/los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-18-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1767179520.0,
-      "published_iso": "2025-12-31T11:12:00+00:00"
+      "id": "https-sports-yahoo-com-articles-nfl-insider-says-rams-likely-185725212-html",
+      "title": "NFL insider says Rams likely losing defensive coordinator, Tennessee Titans top landing spot",
+      "link": "https://sports.yahoo.com/articles/nfl-insider-says-rams-likely-185725212.html",
+      "source": "Yahoo Sports",
+      "ts": 1767180240.0,
+      "published_iso": "2025-12-31T11:24:00+00:00"
     }
   ]
 }
