@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2026-01-01T00:54:10.577590+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-01T03:01:05.853127+00:00",
+  "count": 5,
   "items": [
     {
-      "id": "https-sports-yahoo-com-nfl-article-nfl-playoff-picture-week-18-2025-011601536-html",
-      "title": "NFL playoff picture: Falcons force Rams to sweat out securing No. 5 seed, improve Panthers' shot at NFC South crown",
-      "link": "https://sports.yahoo.com/nfl/article/nfl-playoff-picture-week-18-2025-011601536.html",
+      "id": "https-ocregister-com-2025-12-31-rams-open-tight-end-tyler-higbees-practice-window",
+      "title": "Rams open tight end Tyler Higbee’s practice window",
+      "link": "https://ocregister.com/2025/12/31/rams-open-tight-end-tyler-higbees-practice-window/",
+      "source": "OC Register",
+      "ts": 1767200400.0,
+      "published_iso": "2025-12-31T17:00:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-nfc-playoff-picture-2025-rams-remain-no-6-seed-but-no-5-seed-still-in-play-entering-week-18",
+      "title": "NFC playoff picture: Rams remain No. 6 seed, but No. 5 seed still in play entering Week 18",
+      "link": "https://therams.com/news/nfc-playoff-picture-2025-rams-remain-no-6-seed-but-no-5-seed-still-in-play-entering-week-18",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1767182160.0,
+      "published_iso": "2025-12-31T11:56:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-nfl-insider-says-rams-likely-185725212-html",
+      "title": "NFL insider says Rams likely losing defensive coordinator, Tennessee Titans top landing spot",
+      "link": "https://sports.yahoo.com/articles/nfl-insider-says-rams-likely-185725212.html",
       "source": "Yahoo Sports",
-      "ts": 1767198960.0,
-      "published_iso": "2025-12-31T16:36:00+00:00"
+      "ts": 1767180240.0,
+      "published_iso": "2025-12-31T11:24:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-18-2025",
@@ -17,6 +33,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1767179520.0,
       "published_iso": "2025-12-31T11:12:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-where-los-angeles-rams-sit-041114124-html",
+      "title": "Where Los Angeles Rams sit in NFC playoff picture after loss vs. Falcons",
+      "link": "https://sports.yahoo.com/articles/where-los-angeles-rams-sit-041114124.html",
+      "source": "Yahoo Sports",
+      "ts": 1767040680.0,
+      "published_iso": "2025-12-29T20:38:00+00:00"
     }
   ]
 }
