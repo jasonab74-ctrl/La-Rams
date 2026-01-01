@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-01T07:39:31.147098+00:00",
+  "updated_iso": "2026-01-01T08:14:44.178211+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-ocregister-com-2025-12-31-rams-open-tight-end-tyler-higbees-practice-window",
+      "title": "Rams open tight end Tyler Higbee’s practice window",
+      "link": "https://ocregister.com/2025/12/31/rams-open-tight-end-tyler-higbees-practice-window/",
+      "source": "OC Register",
+      "ts": 1767224940.0,
+      "published_iso": "2025-12-31T23:49:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-injury-report-davante-adams-044522619-html",
       "title": "Rams injury report: Davante Adams DNP, Kyren Williams limited Wednesday",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1767214320.0,
       "published_iso": "2025-12-31T20:52:00+00:00"
-    },
-    {
-      "id": "https-ocregister-com-2025-12-31-rams-open-tight-end-tyler-higbees-practice-window",
-      "title": "Rams open tight end Tyler Higbee’s practice window",
-      "link": "https://ocregister.com/2025/12/31/rams-open-tight-end-tyler-higbees-practice-window/",
-      "source": "OC Register",
-      "ts": 1767200400.0,
-      "published_iso": "2025-12-31T17:00:00+00:00"
     }
   ]
 }
