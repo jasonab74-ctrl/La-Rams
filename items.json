@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-01T15:10:18.486491+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-01T15:39:33.194437+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-ocregister-com-2025-12-31-rams-open-tight-end-tyler-higbees-practice-window",
@@ -11,20 +11,12 @@
       "published_iso": "2025-12-31T23:49:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-where-los-angeles-rams-sit-041114124-html",
-      "title": "Where Los Angeles Rams sit in NFC playoff picture after loss vs. Falcons",
-      "link": "https://sports.yahoo.com/articles/where-los-angeles-rams-sit-041114124.html",
+      "id": "https-sports-yahoo-com-articles-rams-injury-report-davante-adams-044522619-html",
+      "title": "Rams injury report: Davante Adams DNP, Kyren Williams limited Wednesday",
+      "link": "https://sports.yahoo.com/articles/rams-injury-report-davante-adams-044522619.html",
       "source": "Yahoo Sports",
-      "ts": 1767040680.0,
-      "published_iso": "2025-12-29T20:38:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-monday-night-football-los-angeles-004500738-html",
-      "title": "Monday Night Football: Los Angeles Rams vs Atlanta Falcons",
-      "link": "https://sports.yahoo.com/articles/monday-night-football-los-angeles-004500738.html",
-      "source": "Yahoo Sports",
-      "ts": 1767027300.0,
-      "published_iso": "2025-12-29T16:55:00+00:00"
+      "ts": 1767214320.0,
+      "published_iso": "2025-12-31T20:52:00+00:00"
     }
   ]
 }
