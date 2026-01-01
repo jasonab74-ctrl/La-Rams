@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-01T20:41:53.884171+00:00",
+  "updated_iso": "2026-01-01T21:09:00.056309+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-agree-three-42-million-202240524-html",
+      "title": "Rams agree to three-year, $42 million extension with breakout safety",
+      "link": "https://sports.yahoo.com/articles/rams-agree-three-42-million-202240524.html",
+      "source": "Yahoo Sports",
+      "ts": 1767271320.0,
+      "published_iso": "2026-01-01T12:42:00+00:00"
+    },
     {
       "id": "https-bleacherreport-com-articles-25345595-quentin-lake-rams-agree-reported-42m-contract-extension-nfl-playoffs",
       "title": "Quentin Lake, Rams Agree to Reported $42M Contract Extension Before NFL Playoffs",
@@ -17,14 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1767040680.0,
       "published_iso": "2025-12-29T20:38:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-monday-night-football-los-angeles-004500738-html",
-      "title": "Monday Night Football: Los Angeles Rams vs Atlanta Falcons",
-      "link": "https://sports.yahoo.com/articles/monday-night-football-los-angeles-004500738.html",
-      "source": "Yahoo Sports",
-      "ts": 1767027300.0,
-      "published_iso": "2025-12-29T16:55:00+00:00"
     }
   ]
 }
