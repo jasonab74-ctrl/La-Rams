@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-01T10:43:27.840746+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-01T11:09:00.865225+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-ocregister-com-2025-12-31-rams-open-tight-end-tyler-higbees-practice-window",
@@ -17,6 +17,14 @@
       "source": "Yahoo Sports",
       "ts": 1767214320.0,
       "published_iso": "2025-12-31T20:52:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-18-2025",
+      "title": "Los Angeles Rams vs. Arizona Cardinals: How to watch, listen to and live stream Week 18",
+      "link": "https://therams.com/news/los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-18-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1767179520.0,
+      "published_iso": "2025-12-31T11:12:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-where-los-angeles-rams-sit-041114124-html",
