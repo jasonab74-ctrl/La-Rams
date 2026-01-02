@@ -1,22 +1,5 @@
 {
-  "updated_iso": "2026-01-02T08:14:16.645932+00:00",
-  "count": 2,
-  "items": [
-    {
-      "id": "https-foxsports-com-articles-nfl-rams-vs-cardinals-injury-report-week-18-2025",
-      "title": "Rams vs. Cardinals Injury Report",
-      "link": "https://foxsports.com/articles/nfl/rams-vs-cardinals-injury-report-week-18-2025",
-      "source": "Week 18, 2025",
-      "ts": 1767282180.0,
-      "published_iso": "2026-01-01T15:43:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25345595-quentin-lake-rams-agree-reported-42m-contract-extension-nfl-playoffs",
-      "title": "Quentin Lake, Rams Agree to Reported $42M Contract Extension Before NFL Playoffs",
-      "link": "https://bleacherreport.com/articles/25345595-quentin-lake-rams-agree-reported-42m-contract-extension-nfl-playoffs",
-      "source": "Bleacher Report",
-      "ts": 1767270120.0,
-      "published_iso": "2026-01-01T12:22:00+00:00"
-    }
-  ]
+  "updated_iso": "2026-01-02T08:48:20.571197+00:00",
+  "count": 0,
+  "items": []
 }
