@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-01-02T14:10:20.551542+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-02T14:41:39.386252+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-cardinals-picks-experts-love-142709001-html",
+      "title": "Rams-Cardinals picks: Experts love L.A. in regular-season finale",
+      "link": "https://sports.yahoo.com/articles/rams-cardinals-picks-experts-love-142709001.html",
+      "source": "Yahoo Sports",
+      "ts": 1767335700.0,
+      "published_iso": "2026-01-02T06:35:00+00:00"
+    }
+  ]
 }
