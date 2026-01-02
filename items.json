@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-01-02T17:38:32.369726+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-02T18:14:15.529953+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-nfl-article-nfl-playoff-picture-week-18-2025-011601536-html",
-      "title": "NFL playoff picture: Falcons force Rams to sweat out securing No. 5 seed, improve Panthers' shot at NFC South crown",
-      "link": "https://sports.yahoo.com/nfl/article/nfl-playoff-picture-week-18-2025-011601536.html",
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-mike-lafleur-addresses-offensive-failures-atlanta",
+      "title": "Rams' Mike LaFleur Addresses Offensive Failures in Atlanta",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-mike-lafleur-addresses-offensive-failures-atlanta",
+      "source": "Sports Illustrated",
+      "ts": 1767348660.0,
+      "published_iso": "2026-01-02T10:11:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-where-los-angeles-rams-sit-041114124-html",
+      "title": "Where Los Angeles Rams sit in NFC playoff picture after loss vs. Falcons",
+      "link": "https://sports.yahoo.com/articles/where-los-angeles-rams-sit-041114124.html",
       "source": "Yahoo Sports",
-      "ts": 1767342000.0,
-      "published_iso": "2026-01-02T08:20:00+00:00"
+      "ts": 1767040680.0,
+      "published_iso": "2025-12-29T20:38:00+00:00"
     }
   ]
 }
