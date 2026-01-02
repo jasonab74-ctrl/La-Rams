@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-01-02T21:07:25.630861+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-02T21:32:47.387184+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-mike-lafleur-addresses-offensive-failures-atlanta",
+      "title": "Rams' Mike LaFleur Addresses Offensive Failures in Atlanta",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-mike-lafleur-addresses-offensive-failures-atlanta",
+      "source": "Sports Illustrated",
+      "ts": 1767360600.0,
+      "published_iso": "2026-01-02T13:30:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25346999-rams-sean-mcvay-says-nfl-playoff-bracket-seeding-wont-impact-plan-play-starte",
+      "title": "Rams' Sean McVay Says NFL Playoff Bracket Seeding Won't Impact Plan to Play Starters",
+      "link": "https://bleacherreport.com/articles/25346999-rams-sean-mcvay-says-nfl-playoff-bracket-seeding-wont-impact-plan-play-starters",
+      "source": "Bleacher Report",
+      "ts": 1767359820.0,
+      "published_iso": "2026-01-02T13:17:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-nfl-article-nfl-playoff-picture-week-18-2025-011601536-html",
       "title": "NFL playoff picture: Falcons force Rams to sweat out securing No. 5 seed, improve Panthers' shot at NFC South crown",
@@ -9,14 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1767357840.0,
       "published_iso": "2026-01-02T12:44:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-announce-extension-star-defender-quentin-lake",
-      "title": "Rams Announce Big Move For Star Defender Quentin Lake",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-announce-extension-star-defender-quentin-lake",
-      "source": "Sports Illustrated",
-      "ts": 1767357000.0,
-      "published_iso": "2026-01-02T12:30:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-rams-vs-cardinals-week-18-where-to-watch-pick-odds-prediction",
