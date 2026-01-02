@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-01-02T04:36:20.331788+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-02T05:15:51.234943+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-nfl-article-nfl-playoff-picture-week-18-2025-011601536-html",
+      "title": "NFL playoff picture: Falcons force Rams to sweat out securing No. 5 seed, improve Panthers' shot at NFC South crown",
+      "link": "https://sports.yahoo.com/nfl/article/nfl-playoff-picture-week-18-2025-011601536.html",
+      "source": "Yahoo Sports",
+      "ts": 1767298620.0,
+      "published_iso": "2026-01-01T20:17:00+00:00"
+    }
+  ]
 }
