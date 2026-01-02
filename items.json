@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-02T23:09:02.390984+00:00",
+  "updated_iso": "2026-01-02T23:36:55.748685+00:00",
   "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-good-news-rams-two-losses-231636509-html",
+      "title": "The good news for the Rams after two losses? Their stars are close to full health",
+      "link": "https://sports.yahoo.com/articles/good-news-rams-two-losses-231636509.html",
+      "source": "Yahoo Sports",
+      "ts": 1767367800.0,
+      "published_iso": "2026-01-02T15:30:00+00:00"
+    },
     {
       "id": "https-bleacherreport-com-articles-25346999-rams-sean-mcvay-says-nfl-playoff-bracket-seeding-wont-impact-plan-play-starte",
       "title": "Rams' Sean McVay Says NFL Playoff Bracket Seeding Won't Impact Plan to Play Starters",
@@ -25,14 +33,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1767350460.0,
       "published_iso": "2026-01-02T10:41:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-where-los-angeles-rams-sit-041114124-html",
-      "title": "Where Los Angeles Rams sit in NFC playoff picture after loss vs. Falcons",
-      "link": "https://sports.yahoo.com/articles/where-los-angeles-rams-sit-041114124.html",
-      "source": "Yahoo Sports",
-      "ts": 1767040680.0,
-      "published_iso": "2025-12-29T20:38:00+00:00"
     }
   ]
 }
