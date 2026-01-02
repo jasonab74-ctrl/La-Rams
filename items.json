@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-01-01T23:38:26.865309+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-02T00:48:10.853619+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-wr-davante-adams-returns-231037966-html",
+      "title": "Rams WR Davante Adams returns to practice amid hamstring injury",
+      "link": "https://sports.yahoo.com/articles/rams-wr-davante-adams-returns-231037966.html",
+      "source": "Yahoo Sports",
+      "ts": 1767286020.0,
+      "published_iso": "2026-01-01T16:47:00+00:00"
+    }
+  ]
 }
