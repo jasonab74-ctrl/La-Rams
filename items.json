@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-01-02T19:03:51.024977+00:00",
+  "updated_iso": "2026-01-02T19:31:10.766189+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-sean-mcvay-makes-decision-rams-191946454-html",
+      "title": "Sean McVay makes decision on if Rams will play starters in Week 18",
+      "link": "https://sports.yahoo.com/articles/sean-mcvay-makes-decision-rams-191946454.html",
+      "source": "Yahoo Sports",
+      "ts": 1767353340.0,
+      "published_iso": "2026-01-02T11:29:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-nfl-article-nfl-playoff-picture-week-18-2025-011601536-html",
+      "title": "NFL playoff picture: Falcons force Rams to sweat out securing No. 5 seed, improve Panthers' shot at NFC South crown",
+      "link": "https://sports.yahoo.com/nfl/article/nfl-playoff-picture-week-18-2025-011601536.html",
+      "source": "Yahoo Sports",
+      "ts": 1767352200.0,
+      "published_iso": "2026-01-02T11:10:00+00:00"
+    },
     {
       "id": "https-therams-com-news-high-stakes-rams-cardinals-close-out-regular-season-sofi-game-preview",
       "title": "High stakes as Rams & Cardinals close out regular season at SoFi Stadium | Game Preview",
@@ -9,22 +25,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1767350460.0,
       "published_iso": "2026-01-02T10:41:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-where-los-angeles-rams-sit-041114124-html",
-      "title": "Where Los Angeles Rams sit in NFC playoff picture after loss vs. Falcons",
-      "link": "https://sports.yahoo.com/articles/where-los-angeles-rams-sit-041114124.html",
-      "source": "Yahoo Sports",
-      "ts": 1767040680.0,
-      "published_iso": "2025-12-29T20:38:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-monday-night-football-los-angeles-004500738-html",
-      "title": "Monday Night Football: Los Angeles Rams vs Atlanta Falcons",
-      "link": "https://sports.yahoo.com/articles/monday-night-football-los-angeles-004500738.html",
-      "source": "Yahoo Sports",
-      "ts": 1767027300.0,
-      "published_iso": "2025-12-29T16:55:00+00:00"
     }
   ]
 }
