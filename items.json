@@ -1,22 +1,30 @@
 {
-  "updated_iso": "2026-01-02T19:31:10.766189+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-02T20:10:26.632091+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-sean-mcvay-makes-decision-rams-191946454-html",
-      "title": "Sean McVay makes decision on if Rams will play starters in Week 18",
-      "link": "https://sports.yahoo.com/articles/sean-mcvay-makes-decision-rams-191946454.html",
+      "id": "https-sports-yahoo-com-articles-kyren-williams-injury-sean-mcvay-193156625-html",
+      "title": "Kyren Williams injury update: Sean McVay reveals whether Rams RB will play in Week 18",
+      "link": "https://sports.yahoo.com/articles/kyren-williams-injury-sean-mcvay-193156625.html",
       "source": "Yahoo Sports",
-      "ts": 1767353340.0,
-      "published_iso": "2026-01-02T11:29:00+00:00"
+      "ts": 1767355380.0,
+      "published_iso": "2026-01-02T12:03:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-nfl-article-nfl-playoff-picture-week-18-2025-011601536-html",
-      "title": "NFL playoff picture: Falcons force Rams to sweat out securing No. 5 seed, improve Panthers' shot at NFC South crown",
-      "link": "https://sports.yahoo.com/nfl/article/nfl-playoff-picture-week-18-2025-011601536.html",
+      "id": "https-sports-yahoo-com-articles-theres-possibility-rams-star-returns-194622514-html",
+      "title": "There's a 'possibility' this Rams star returns for the playoffs",
+      "link": "https://sports.yahoo.com/articles/theres-possibility-rams-star-returns-194622514.html",
       "source": "Yahoo Sports",
-      "ts": 1767352200.0,
-      "published_iso": "2026-01-02T11:10:00+00:00"
+      "ts": 1767354840.0,
+      "published_iso": "2026-01-02T11:54:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-cardinals-week-18-where-to-watch-pick-odds-prediction",
+      "title": "Rams vs. Cardinals prediction: Los Angeles starters roll over Arizona in get-right game before playoffs",
+      "link": "https://cbssports.com/nfl/news/rams-vs-cardinals-week-18-where-to-watch-pick-odds-prediction/",
+      "source": "CBS Sports",
+      "ts": 1767354480.0,
+      "published_iso": "2026-01-02T11:48:00+00:00"
     },
     {
       "id": "https-therams-com-news-high-stakes-rams-cardinals-close-out-regular-season-sofi-game-preview",
