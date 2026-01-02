@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-01-02T07:40:39.588961+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-02T08:14:16.645932+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-where-los-angeles-rams-sit-041114124-html",
-      "title": "Where Los Angeles Rams sit in NFC playoff picture after loss vs. Falcons",
-      "link": "https://sports.yahoo.com/articles/where-los-angeles-rams-sit-041114124.html",
-      "source": "Yahoo Sports",
-      "ts": 1767040680.0,
-      "published_iso": "2025-12-29T20:38:00+00:00"
+      "id": "https-foxsports-com-articles-nfl-rams-vs-cardinals-injury-report-week-18-2025",
+      "title": "Rams vs. Cardinals Injury Report",
+      "link": "https://foxsports.com/articles/nfl/rams-vs-cardinals-injury-report-week-18-2025",
+      "source": "Week 18, 2025",
+      "ts": 1767282180.0,
+      "published_iso": "2026-01-01T15:43:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25345595-quentin-lake-rams-agree-reported-42m-contract-extension-nfl-playoffs",
+      "title": "Quentin Lake, Rams Agree to Reported $42M Contract Extension Before NFL Playoffs",
+      "link": "https://bleacherreport.com/articles/25345595-quentin-lake-rams-agree-reported-42m-contract-extension-nfl-playoffs",
+      "source": "Bleacher Report",
+      "ts": 1767270120.0,
+      "published_iso": "2026-01-01T12:22:00+00:00"
     }
   ]
 }
