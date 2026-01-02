@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-01-02T10:42:22.825756+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-02T11:09:10.618403+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-foxsports-com-articles-nfl-rams-vs-cardinals-injury-report-week-18-2025",
-      "title": "Rams vs. Cardinals Injury Report",
-      "link": "https://foxsports.com/articles/nfl/rams-vs-cardinals-injury-report-week-18-2025",
-      "source": "Week 18, 2025",
-      "ts": 1767282180.0,
-      "published_iso": "2026-01-01T15:43:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-where-los-angeles-rams-sit-041114124-html",
-      "title": "Where Los Angeles Rams sit in NFC playoff picture after loss vs. Falcons",
-      "link": "https://sports.yahoo.com/articles/where-los-angeles-rams-sit-041114124.html",
+      "id": "https-sports-yahoo-com-nfl-article-nfl-playoff-picture-week-18-2025-011601536-html",
+      "title": "NFL playoff picture: Falcons force Rams to sweat out securing No. 5 seed, improve Panthers' shot at NFC South crown",
+      "link": "https://sports.yahoo.com/nfl/article/nfl-playoff-picture-week-18-2025-011601536.html",
       "source": "Yahoo Sports",
-      "ts": 1767040680.0,
-      "published_iso": "2025-12-29T20:38:00+00:00"
+      "ts": 1767320580.0,
+      "published_iso": "2026-01-02T02:23:00+00:00"
     }
   ]
 }
