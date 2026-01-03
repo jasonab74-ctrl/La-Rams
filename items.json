@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-03T19:01:21.202463+00:00",
-  "count": 5,
+  "updated_iso": "2026-01-03T19:31:28.011130+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-therams-com-news-3-keys-to-winning-for-the-rams-against-the-cardinals-in-week-18-2026",
@@ -17,22 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1767428520.0,
       "published_iso": "2026-01-03T08:22:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-2026-mock-draft-los-233158894-html",
-      "title": "Rams 2026 mock draft: Los Angeles predicted to select Alabama QB as Matthew Stafford's successor",
-      "link": "https://sports.yahoo.com/articles/rams-2026-mock-draft-los-233158894.html",
-      "source": "Yahoo Sports",
-      "ts": 1767369660.0,
-      "published_iso": "2026-01-02T16:01:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-articles-nfl-rams-vs-cardinals-injury-report-week-18-2025",
-      "title": "Rams vs. Cardinals Injury Report",
-      "link": "https://foxsports.com/articles/nfl/rams-vs-cardinals-injury-report-week-18-2025",
-      "source": "Week 18, 2025",
-      "ts": 1767368640.0,
-      "published_iso": "2026-01-02T15:44:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-rams-vs-cardinals-week-18-where-to-watch-pick-odds-prediction",
