@@ -1,5 +1,46 @@
 {
-  "updated_iso": "2026-01-03T11:33:09.065588+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-03T12:16:40.965527+00:00",
+  "count": 5,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-2026-mock-draft-los-233158894-html",
+      "title": "Rams 2026 mock draft: Los Angeles predicted to select Alabama QB as Matthew Stafford's successor",
+      "link": "https://sports.yahoo.com/articles/rams-2026-mock-draft-los-233158894.html",
+      "source": "Yahoo Sports",
+      "ts": 1767369660.0,
+      "published_iso": "2026-01-02T16:01:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-articles-nfl-rams-vs-cardinals-injury-report-week-18-2025",
+      "title": "Rams vs. Cardinals Injury Report",
+      "link": "https://foxsports.com/articles/nfl/rams-vs-cardinals-injury-report-week-18-2025",
+      "source": "Week 18, 2025",
+      "ts": 1767368640.0,
+      "published_iso": "2026-01-02T15:44:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25346999-rams-sean-mcvay-says-nfl-playoff-bracket-seeding-wont-impact-plan-play-starte",
+      "title": "Rams' Sean McVay Says NFL Playoff Bracket Seeding Won't Impact Plan to Play Starters",
+      "link": "https://bleacherreport.com/articles/25346999-rams-sean-mcvay-says-nfl-playoff-bracket-seeding-wont-impact-plan-play-starters",
+      "source": "Bleacher Report",
+      "ts": 1767359820.0,
+      "published_iso": "2026-01-02T13:17:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-kyren-williams-injury-sean-mcvay-193156625-html",
+      "title": "Kyren Williams injury update: Sean McVay reveals whether Rams RB will play in Week 18",
+      "link": "https://sports.yahoo.com/articles/kyren-williams-injury-sean-mcvay-193156625.html",
+      "source": "Yahoo Sports",
+      "ts": 1767355380.0,
+      "published_iso": "2026-01-02T12:03:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-cardinals-week-18-where-to-watch-pick-odds-prediction",
+      "title": "Rams vs. Cardinals prediction: Los Angeles starters roll over Arizona in get-right game before playoffs",
+      "link": "https://cbssports.com/nfl/news/rams-vs-cardinals-week-18-where-to-watch-pick-odds-prediction/",
+      "source": "CBS Sports",
+      "ts": 1767354480.0,
+      "published_iso": "2026-01-02T11:48:00+00:00"
+    }
+  ]
 }
