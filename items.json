@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-03T13:43:05.174863+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-03T14:08:11.746384+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-assistant-connected-steelers-potential-120001284-html",
@@ -9,22 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1767414780.0,
       "published_iso": "2026-01-03T04:33:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-articles-nfl-rams-vs-cardinals-injury-report-week-18-2025",
-      "title": "Rams vs. Cardinals Injury Report",
-      "link": "https://foxsports.com/articles/nfl/rams-vs-cardinals-injury-report-week-18-2025",
-      "source": "Week 18, 2025",
-      "ts": 1767368640.0,
-      "published_iso": "2026-01-02T15:44:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25346999-rams-sean-mcvay-says-nfl-playoff-bracket-seeding-wont-impact-plan-play-starte",
-      "title": "Rams' Sean McVay Says NFL Playoff Bracket Seeding Won't Impact Plan to Play Starters",
-      "link": "https://bleacherreport.com/articles/25346999-rams-sean-mcvay-says-nfl-playoff-bracket-seeding-wont-impact-plan-play-starters",
-      "source": "Bleacher Report",
-      "ts": 1767359820.0,
-      "published_iso": "2026-01-02T13:17:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-rams-vs-cardinals-week-18-where-to-watch-pick-odds-prediction",
