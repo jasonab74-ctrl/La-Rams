@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-03T08:12:53.810989+00:00",
-  "count": 6,
+  "updated_iso": "2026-01-03T08:45:46.464830+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-2026-mock-draft-los-233158894-html",
@@ -11,12 +11,12 @@
       "published_iso": "2026-01-02T16:01:00+00:00"
     },
     {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-mike-lafleur-addresses-offensive-failures-atlanta",
-      "title": "Rams' Mike LaFleur Addresses Offensive Failures in Atlanta",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-mike-lafleur-addresses-offensive-failures-atlanta",
-      "source": "Sports Illustrated",
-      "ts": 1767360600.0,
-      "published_iso": "2026-01-02T13:30:00+00:00"
+      "id": "https-foxsports-com-articles-nfl-rams-vs-cardinals-injury-report-week-18-2025",
+      "title": "Rams vs. Cardinals Injury Report",
+      "link": "https://foxsports.com/articles/nfl/rams-vs-cardinals-injury-report-week-18-2025",
+      "source": "Week 18, 2025",
+      "ts": 1767368640.0,
+      "published_iso": "2026-01-02T15:44:00+00:00"
     },
     {
       "id": "https-bleacherreport-com-articles-25346999-rams-sean-mcvay-says-nfl-playoff-bracket-seeding-wont-impact-plan-play-starte",
@@ -33,22 +33,6 @@
       "source": "CBS Sports",
       "ts": 1767354480.0,
       "published_iso": "2026-01-02T11:48:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-high-stakes-rams-cardinals-close-out-regular-season-sofi-game-preview",
-      "title": "High stakes as Rams & Cardinals close out regular season at SoFi Stadium | Game Preview",
-      "link": "https://therams.com/news/high-stakes-rams-cardinals-close-out-regular-season-sofi-game-preview",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1767350460.0,
-      "published_iso": "2026-01-02T10:41:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-where-los-angeles-rams-sit-041114124-html",
-      "title": "Where Los Angeles Rams sit in NFC playoff picture after loss vs. Falcons",
-      "link": "https://sports.yahoo.com/articles/where-los-angeles-rams-sit-041114124.html",
-      "source": "Yahoo Sports",
-      "ts": 1767040680.0,
-      "published_iso": "2025-12-29T20:38:00+00:00"
     }
   ]
 }
