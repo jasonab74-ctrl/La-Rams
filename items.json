@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-03T03:48:22.977558+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-03T04:22:12.802547+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-2026-mock-draft-los-233158894-html",
@@ -11,12 +11,20 @@
       "published_iso": "2026-01-02T16:01:00+00:00"
     },
     {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-mike-lafleur-addresses-offensive-failures-atlanta",
-      "title": "Rams' Mike LaFleur Addresses Offensive Failures in Atlanta",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-mike-lafleur-addresses-offensive-failures-atlanta",
-      "source": "Sports Illustrated",
-      "ts": 1767360600.0,
-      "published_iso": "2026-01-02T13:30:00+00:00"
+      "id": "https-bleacherreport-com-articles-25346999-rams-sean-mcvay-says-nfl-playoff-bracket-seeding-wont-impact-plan-play-starte",
+      "title": "Rams' Sean McVay Says NFL Playoff Bracket Seeding Won't Impact Plan to Play Starters",
+      "link": "https://bleacherreport.com/articles/25346999-rams-sean-mcvay-says-nfl-playoff-bracket-seeding-wont-impact-plan-play-starters",
+      "source": "Bleacher Report",
+      "ts": 1767359820.0,
+      "published_iso": "2026-01-02T13:17:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-cardinals-week-18-where-to-watch-pick-odds-prediction",
+      "title": "Rams vs. Cardinals prediction: Los Angeles starters roll over Arizona in get-right game before playoffs",
+      "link": "https://cbssports.com/nfl/news/rams-vs-cardinals-week-18-where-to-watch-pick-odds-prediction/",
+      "source": "CBS Sports",
+      "ts": 1767354480.0,
+      "published_iso": "2026-01-02T11:48:00+00:00"
     }
   ]
 }
