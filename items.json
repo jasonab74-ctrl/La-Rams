@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-03T09:38:18.771250+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-03T10:09:14.662150+00:00",
+  "count": 5,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-2026-mock-draft-los-233158894-html",
@@ -33,6 +33,14 @@
       "source": "CBS Sports",
       "ts": 1767354480.0,
       "published_iso": "2026-01-02T11:48:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-where-los-angeles-rams-sit-041114124-html",
+      "title": "Where Los Angeles Rams sit in NFC playoff picture after loss vs. Falcons",
+      "link": "https://sports.yahoo.com/articles/where-los-angeles-rams-sit-041114124.html",
+      "source": "Yahoo Sports",
+      "ts": 1767040680.0,
+      "published_iso": "2025-12-29T20:38:00+00:00"
     }
   ]
 }
