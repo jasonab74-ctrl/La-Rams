@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-03T12:16:40.965527+00:00",
-  "count": 5,
+  "updated_iso": "2026-01-03T13:03:14.318568+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-2026-mock-draft-los-233158894-html",
@@ -25,14 +25,6 @@
       "source": "Bleacher Report",
       "ts": 1767359820.0,
       "published_iso": "2026-01-02T13:17:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-kyren-williams-injury-sean-mcvay-193156625-html",
-      "title": "Kyren Williams injury update: Sean McVay reveals whether Rams RB will play in Week 18",
-      "link": "https://sports.yahoo.com/articles/kyren-williams-injury-sean-mcvay-193156625.html",
-      "source": "Yahoo Sports",
-      "ts": 1767355380.0,
-      "published_iso": "2026-01-02T12:03:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-rams-vs-cardinals-week-18-where-to-watch-pick-odds-prediction",
