@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-01-03T16:44:47.762868+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-03T17:07:42.239838+00:00",
+  "count": 6,
   "items": [
+    {
+      "id": "https-therams-com-news-top-rams-news-previews-and-predictions-for-rams-vs-cardinals-in-week-18-2025",
+      "title": "Top Rams News: Previews and predictions for Rams vs. Cardinals in Week 18",
+      "link": "https://therams.com/news/top-rams-news-previews-and-predictions-for-rams-vs-cardinals-in-week-18-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1767430980.0,
+      "published_iso": "2026-01-03T09:03:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-cardinals-vs-rams-predictions-picks-155800974-html",
+      "title": "Cardinals vs Rams Predictions, Picks & Best Bets for NFL Week 18",
+      "link": "https://sports.yahoo.com/articles/cardinals-vs-rams-predictions-picks-155800974.html",
+      "source": "Yahoo Sports",
+      "ts": 1767428520.0,
+      "published_iso": "2026-01-03T08:22:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-2026-mock-draft-los-233158894-html",
       "title": "Rams 2026 mock draft: Los Angeles predicted to select Alabama QB as Matthew Stafford's successor",
