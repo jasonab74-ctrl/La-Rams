@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-03T07:10:08.956917+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-03T07:36:08.999066+00:00",
+  "count": 5,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-la-rams-final-injury-report-055144241-html",
@@ -17,6 +17,14 @@
       "source": "Yahoo Sports",
       "ts": 1767369660.0,
       "published_iso": "2026-01-02T16:01:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-mike-lafleur-addresses-offensive-failures-atlanta",
+      "title": "Rams' Mike LaFleur Addresses Offensive Failures in Atlanta",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-mike-lafleur-addresses-offensive-failures-atlanta",
+      "source": "Sports Illustrated",
+      "ts": 1767360600.0,
+      "published_iso": "2026-01-02T13:30:00+00:00"
     },
     {
       "id": "https-bleacherreport-com-articles-25346999-rams-sean-mcvay-says-nfl-playoff-bracket-seeding-wont-impact-plan-play-starte",
