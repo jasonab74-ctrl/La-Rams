@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-01-03T07:36:08.999066+00:00",
-  "count": 5,
+  "updated_iso": "2026-01-03T08:12:53.810989+00:00",
+  "count": 6,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-la-rams-final-injury-report-055144241-html",
-      "title": "LA Rams final injury report: WR Davante Adams questionable",
-      "link": "https://sports.yahoo.com/articles/la-rams-final-injury-report-055144241.html",
-      "source": "Yahoo Sports",
-      "ts": 1767391260.0,
-      "published_iso": "2026-01-02T22:01:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-rams-2026-mock-draft-los-233158894-html",
       "title": "Rams 2026 mock draft: Los Angeles predicted to select Alabama QB as Matthew Stafford's successor",
@@ -41,6 +33,22 @@
       "source": "CBS Sports",
       "ts": 1767354480.0,
       "published_iso": "2026-01-02T11:48:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-high-stakes-rams-cardinals-close-out-regular-season-sofi-game-preview",
+      "title": "High stakes as Rams & Cardinals close out regular season at SoFi Stadium | Game Preview",
+      "link": "https://therams.com/news/high-stakes-rams-cardinals-close-out-regular-season-sofi-game-preview",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1767350460.0,
+      "published_iso": "2026-01-02T10:41:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-where-los-angeles-rams-sit-041114124-html",
+      "title": "Where Los Angeles Rams sit in NFC playoff picture after loss vs. Falcons",
+      "link": "https://sports.yahoo.com/articles/where-los-angeles-rams-sit-041114124.html",
+      "source": "Yahoo Sports",
+      "ts": 1767040680.0,
+      "published_iso": "2025-12-29T20:38:00+00:00"
     }
   ]
 }
