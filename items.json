@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-04T09:09:14.188106+00:00",
-  "count": 5,
+  "updated_iso": "2026-01-04T09:37:20.978175+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-clinch-no-5-seed-035727681-html",
@@ -17,14 +17,6 @@
       "source": "Sports Illustrated",
       "ts": 1767466920.0,
       "published_iso": "2026-01-03T19:02:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-arizona-cardinals-add-3-active-003039207-html",
-      "title": "Arizona Cardinals add 3 to active roster ahead of Week 18 game vs. Rams",
-      "link": "https://sports.yahoo.com/articles/arizona-cardinals-add-3-active-003039207.html",
-      "source": "Yahoo Sports",
-      "ts": 1767458820.0,
-      "published_iso": "2026-01-03T16:47:00+00:00"
     },
     {
       "id": "https-therams-com-news-top-rams-news-previews-and-predictions-for-rams-vs-cardinals-in-week-18-2025",
