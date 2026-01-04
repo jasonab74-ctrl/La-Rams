@@ -1,5 +1,38 @@
 {
-  "updated_iso": "2026-01-04T23:09:13.153339+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-04T23:37:23.243348+00:00",
+  "count": 4,
+  "items": [
+    {
+      "id": "https-latimes-com-sports-rams-live-rams-cardinals-live-updates-watch-start-time-odds-score-highlights",
+      "title": "Rams vs. Arizona Cardinals live updates: Cardinals trim Rams lead in third quarter",
+      "link": "https://latimes.com/sports/rams/live/rams-cardinals-live-updates-watch-start-time-odds-score-highlights",
+      "source": "LA Times",
+      "ts": 1767540660.0,
+      "published_iso": "2026-01-04T15:31:00+00:00"
+    },
+    {
+      "id": "https-therams-com-video-rams-puka-nacua-one-handed-2-yard-touchdown-catch-against-cardinals",
+      "title": "HIGHLIGHTS: Rams WR Puka Nacua with a one-handed 2-yard touchdown catch against the Cardinals",
+      "link": "https://therams.com/video/rams-puka-nacua-one-handed-2-yard-touchdown-catch-against-cardinals",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1767540360.0,
+      "published_iso": "2026-01-04T15:26:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-videos-mevis-42-yard-fg-lifts-rams-over-cardinals-by-3-early-in-the-second",
+      "title": "Mevis' 42-yard FG lifts Rams over Cardinals by 3 early in the second",
+      "link": "https://nfl.com/videos/mevis-42-yard-fg-lifts-rams-over-cardinals-by-3-early-in-the-second",
+      "source": "NFL.com",
+      "ts": 1767539520.0,
+      "published_iso": "2026-01-04T15:12:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-videos-chad-ryland-s-45-yard-fg-ties-score-in-cardinals-rams-at-3-apiece",
+      "title": "Chad Ryland's 45-yard FG ties score in Cardinals-Rams at 3 apiece",
+      "link": "https://nfl.com/videos/chad-ryland-s-45-yard-fg-ties-score-in-cardinals-rams-at-3-apiece",
+      "source": "NFL.com",
+      "ts": 1767538980.0,
+      "published_iso": "2026-01-04T15:03:00+00:00"
+    }
+  ]
 }
