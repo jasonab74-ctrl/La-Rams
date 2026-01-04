@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-01-04T20:10:35.573290+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-04T20:40:36.164246+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-therams-com-news-rams-cardinals-inactives-week-18-2025-davante-adams-terrance-ferguson-kevin-dotson",
+      "title": "Davante Adams, Terrance Ferguson and Kevin Dotson among Rams' inactives for Week 18 vs. Cardinals",
+      "link": "https://therams.com/news/rams-cardinals-inactives-week-18-2025-davante-adams-terrance-ferguson-kevin-dotson",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1767528960.0,
+      "published_iso": "2026-01-04T12:16:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-18-million-contract-projection-182945800-html",
+      "title": "Rams get $18 million contract projection on star free agent safety",
+      "link": "https://sports.yahoo.com/articles/rams-18-million-contract-projection-182945800.html",
+      "source": "Yahoo Sports",
+      "ts": 1767523560.0,
+      "published_iso": "2026-01-04T10:46:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-playoff-scenarios-rams-play-week-144410810-html",
       "title": "What playoff scenarios Rams have to play for in Week 18 with Matthew Stafford, other starters",
