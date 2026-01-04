@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-04T04:30:46.022625+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-04T05:16:55.316762+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-clinch-no-5-seed-035727681-html",
+      "title": "How Rams can clinch No. 5 seed Sunday after getting help from Seahawks",
+      "link": "https://sports.yahoo.com/articles/rams-clinch-no-5-seed-035727681.html",
+      "source": "Yahoo Sports",
+      "ts": 1767471420.0,
+      "published_iso": "2026-01-03T20:17:00+00:00"
+    },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-puka-nacua-reflects-dominant-season",
       "title": "Rams' Puka Nacua Reflects On His Dominant Season",
@@ -11,12 +19,20 @@
       "published_iso": "2026-01-03T19:02:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-rams-2026-mock-draft-los-233158894-html",
-      "title": "Rams 2026 mock draft: Los Angeles predicted to select Alabama QB as Matthew Stafford's successor",
-      "link": "https://sports.yahoo.com/articles/rams-2026-mock-draft-los-233158894.html",
-      "source": "Yahoo Sports",
-      "ts": 1767369660.0,
-      "published_iso": "2026-01-02T16:01:00+00:00"
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-sean-mcvay-details-final-preparations-before-regular-season-finale",
+      "title": "Rams Sean McVay Details Final Preparations Before Regular Season Finale",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-sean-mcvay-details-final-preparations-before-regular-season-finale",
+      "source": "Sports Illustrated",
+      "ts": 1767465540.0,
+      "published_iso": "2026-01-03T18:39:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-top-rams-news-previews-and-predictions-for-rams-vs-cardinals-in-week-18-2025",
+      "title": "Top Rams News: Previews and predictions for Rams vs. Cardinals in Week 18",
+      "link": "https://therams.com/news/top-rams-news-previews-and-predictions-for-rams-vs-cardinals-in-week-18-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1767430980.0,
+      "published_iso": "2026-01-03T09:03:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-rams-vs-cardinals-week-18-where-to-watch-pick-odds-prediction",
