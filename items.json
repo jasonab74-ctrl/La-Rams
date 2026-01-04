@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-01-04T06:51:00.840320+00:00",
+  "updated_iso": "2026-01-04T07:12:18.661930+00:00",
   "count": 4,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-rams-clinch-no-5-seed-035727681-html",
-      "title": "How Rams can clinch No. 5 seed Sunday after getting help from Seahawks",
-      "link": "https://sports.yahoo.com/articles/rams-clinch-no-5-seed-035727681.html",
-      "source": "Yahoo Sports",
-      "ts": 1767471420.0,
-      "published_iso": "2026-01-03T20:17:00+00:00"
-    },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-puka-nacua-reflects-dominant-season",
       "title": "Rams' Puka Nacua Reflects On His Dominant Season",
@@ -19,20 +11,28 @@
       "published_iso": "2026-01-03T19:02:00+00:00"
     },
     {
-      "id": "https-therams-com-news-top-rams-news-previews-and-predictions-for-rams-vs-cardinals-in-week-18-2025",
-      "title": "Top Rams News: Previews and predictions for Rams vs. Cardinals in Week 18",
-      "link": "https://therams.com/news/top-rams-news-previews-and-predictions-for-rams-vs-cardinals-in-week-18-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1767430980.0,
-      "published_iso": "2026-01-03T09:03:00+00:00"
+      "id": "https-sports-yahoo-com-articles-arizona-cardinals-add-3-active-003039207-html",
+      "title": "Arizona Cardinals add 3 to active roster ahead of Week 18 game vs. Rams",
+      "link": "https://sports.yahoo.com/articles/arizona-cardinals-add-3-active-003039207.html",
+      "source": "Yahoo Sports",
+      "ts": 1767458820.0,
+      "published_iso": "2026-01-03T16:47:00+00:00"
     },
     {
-      "id": "https-cbssports-com-nfl-news-rams-vs-cardinals-week-18-where-to-watch-pick-odds-prediction",
-      "title": "Rams vs. Cardinals prediction: Los Angeles starters roll over Arizona in get-right game before playoffs",
-      "link": "https://cbssports.com/nfl/news/rams-vs-cardinals-week-18-where-to-watch-pick-odds-prediction/",
-      "source": "CBS Sports",
-      "ts": 1767354480.0,
-      "published_iso": "2026-01-02T11:48:00+00:00"
+      "id": "https-foxsports-com-articles-nfl-how-to-watch-rams-vs-cardinals-time-tv-channel-and-live-stream-2025-week-18",
+      "title": "How to Watch Rams vs. Cardinals: Time, TV Channel and Live Stream",
+      "link": "https://foxsports.com/articles/nfl/how-to-watch-rams-vs-cardinals-time-tv-channel-and-live-stream-2025-week-18",
+      "source": "2025 Week 18",
+      "ts": 1767453840.0,
+      "published_iso": "2026-01-03T15:24:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-2026-mock-draft-los-233158894-html",
+      "title": "Rams 2026 mock draft: Los Angeles predicted to select Alabama QB as Matthew Stafford's successor",
+      "link": "https://sports.yahoo.com/articles/rams-2026-mock-draft-los-233158894.html",
+      "source": "Yahoo Sports",
+      "ts": 1767369660.0,
+      "published_iso": "2026-01-02T16:01:00+00:00"
     }
   ]
 }
