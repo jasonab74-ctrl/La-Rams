@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-04T21:08:10.001890+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-04T21:36:31.689015+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-cardinals-vs-rams-live-stream-211034541-html",
+      "title": "Cardinals vs. Rams live stream, updates, scoring, highlights",
+      "link": "https://sports.yahoo.com/articles/cardinals-vs-rams-live-stream-211034541.html",
+      "source": "Yahoo Sports",
+      "ts": 1767533580.0,
+      "published_iso": "2026-01-04T13:33:00+00:00"
+    },
     {
       "id": "https-therams-com-video-rams-cardinals-pregame-show-sofi-stadium-players-to-watch-game-predictions-week-18",
       "title": "Rams-Cardinals Pregame Show from SoFi Stadium | Players to watch, game predictions & more",
