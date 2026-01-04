@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-04T17:38:07.056522+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-04T18:13:27.706988+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-nfl-com-videos-what-s-your-biggest-concern-with-rams-heading-into-playoffs-nfl-gameday-morning",
@@ -17,6 +17,14 @@
       "source": "Yahoo Sports",
       "ts": 1767510420.0,
       "published_iso": "2026-01-04T07:07:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-playoff-picture-updated-seeding-100001433-html",
+      "title": "Rams playoff picture: Updated seeding scenarios for L.A. in 2026 NFL bracket",
+      "link": "https://sports.yahoo.com/articles/rams-playoff-picture-updated-seeding-100001433.html",
+      "source": "Yahoo Sports",
+      "ts": 1767493980.0,
+      "published_iso": "2026-01-04T02:33:00+00:00"
     }
   ]
 }
