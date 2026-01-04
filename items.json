@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-04T10:40:46.568401+00:00",
-  "count": 5,
+  "updated_iso": "2026-01-04T11:07:52.640864+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-playoff-picture-updated-seeding-100001433-html",
@@ -17,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1767471420.0,
       "published_iso": "2026-01-03T20:17:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-puka-nacua-reflects-dominant-season",
-      "title": "Rams' Puka Nacua Reflects On His Dominant Season",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-puka-nacua-reflects-dominant-season",
-      "source": "Sports Illustrated",
-      "ts": 1767466920.0,
-      "published_iso": "2026-01-03T19:02:00+00:00"
     },
     {
       "id": "https-therams-com-news-top-rams-news-previews-and-predictions-for-rams-vs-cardinals-in-week-18-2025",
