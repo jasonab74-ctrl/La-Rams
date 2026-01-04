@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-01-04T12:16:45.645786+00:00",
-  "count": 5,
+  "updated_iso": "2026-01-04T13:03:59.856416+00:00",
+  "count": 2,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-kyren-williams-blake-corum-injury-120000810-html",
-      "title": "Kyren Williams, Blake Corum injury news: Who will start at running back for Rams in Week 18",
-      "link": "https://sports.yahoo.com/articles/kyren-williams-blake-corum-injury-120000810.html",
-      "source": "Yahoo Sports",
-      "ts": 1767500040.0,
-      "published_iso": "2026-01-04T04:14:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-rams-playoff-picture-updated-seeding-100001433-html",
       "title": "Rams playoff picture: Updated seeding scenarios for L.A. in 2026 NFL bracket",
@@ -25,22 +17,6 @@
       "source": "Sports Illustrated",
       "ts": 1767466920.0,
       "published_iso": "2026-01-03T19:02:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-top-rams-news-previews-and-predictions-for-rams-vs-cardinals-in-week-18-2025",
-      "title": "Top Rams News: Previews and predictions for Rams vs. Cardinals in Week 18",
-      "link": "https://therams.com/news/top-rams-news-previews-and-predictions-for-rams-vs-cardinals-in-week-18-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1767430980.0,
-      "published_iso": "2026-01-03T09:03:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-rams-vs-cardinals-week-18-where-to-watch-pick-odds-prediction",
-      "title": "Rams vs. Cardinals prediction: Los Angeles starters roll over Arizona in get-right game before playoffs",
-      "link": "https://cbssports.com/nfl/news/rams-vs-cardinals-week-18-where-to-watch-pick-odds-prediction/",
-      "source": "CBS Sports",
-      "ts": 1767354480.0,
-      "published_iso": "2026-01-02T11:48:00+00:00"
     }
   ]
 }
