@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-04T00:54:14.695776+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-04T03:02:37.921130+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-sean-mcvay-details-final-preparations-before-regular-season-finale",
+      "title": "Rams Sean McVay Details Final Preparations Before Regular Season Finale",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-sean-mcvay-details-final-preparations-before-regular-season-finale",
+      "source": "Sports Illustrated",
+      "ts": 1767465540.0,
+      "published_iso": "2026-01-03T18:39:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-arizona-cardinals-add-3-active-003039207-html",
       "title": "Arizona Cardinals add 3 to active roster ahead of Week 18 game vs. Rams",
@@ -11,28 +19,12 @@
       "published_iso": "2026-01-03T16:47:00+00:00"
     },
     {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-sean-mcvay-details-final-preparations-before-regular-season-finale",
-      "title": "Rams Sean McVay Details Final Preparations Before Regular Season Finale",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-sean-mcvay-details-final-preparations-before-regular-season-finale",
-      "source": "Sports Illustrated",
-      "ts": 1767453600.0,
-      "published_iso": "2026-01-03T15:20:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-puka-nacua-reflects-dominant-season",
-      "title": "Rams' Puka Nacua Reflects On His Dominant Season",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-puka-nacua-reflects-dominant-season",
-      "source": "Sports Illustrated",
-      "ts": 1767453240.0,
-      "published_iso": "2026-01-03T15:14:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-2026-mock-draft-los-233158894-html",
-      "title": "Rams 2026 mock draft: Los Angeles predicted to select Alabama QB as Matthew Stafford's successor",
-      "link": "https://sports.yahoo.com/articles/rams-2026-mock-draft-los-233158894.html",
-      "source": "Yahoo Sports",
-      "ts": 1767369660.0,
-      "published_iso": "2026-01-02T16:01:00+00:00"
+      "id": "https-cbssports-com-nfl-news-rams-vs-cardinals-week-18-where-to-watch-pick-odds-prediction",
+      "title": "Rams vs. Cardinals prediction: Los Angeles starters roll over Arizona in get-right game before playoffs",
+      "link": "https://cbssports.com/nfl/news/rams-vs-cardinals-week-18-where-to-watch-pick-odds-prediction/",
+      "source": "CBS Sports",
+      "ts": 1767354480.0,
+      "published_iso": "2026-01-02T11:48:00+00:00"
     }
   ]
 }
