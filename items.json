@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-03T23:36:58.261891+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-04T00:54:14.695776+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-arizona-cardinals-add-3-active-003039207-html",
+      "title": "Arizona Cardinals add 3 to active roster ahead of Week 18 game vs. Rams",
+      "link": "https://sports.yahoo.com/articles/arizona-cardinals-add-3-active-003039207.html",
+      "source": "Yahoo Sports",
+      "ts": 1767458820.0,
+      "published_iso": "2026-01-03T16:47:00+00:00"
+    },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-sean-mcvay-details-final-preparations-before-regular-season-finale",
       "title": "Rams Sean McVay Details Final Preparations Before Regular Season Finale",
