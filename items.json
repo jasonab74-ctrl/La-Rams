@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-01-04T21:36:31.689015+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-04T22:09:15.181921+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-cardinals-vs-rams-live-stream-211034541-html",
-      "title": "Cardinals vs. Rams live stream, updates, scoring, highlights",
-      "link": "https://sports.yahoo.com/articles/cardinals-vs-rams-live-stream-211034541.html",
-      "source": "Yahoo Sports",
-      "ts": 1767533580.0,
-      "published_iso": "2026-01-04T13:33:00+00:00"
-    },
-    {
-      "id": "https-therams-com-video-rams-cardinals-pregame-show-sofi-stadium-players-to-watch-game-predictions-week-18",
-      "title": "Rams-Cardinals Pregame Show from SoFi Stadium | Players to watch, game predictions & more",
-      "link": "https://therams.com/video/rams-cardinals-pregame-show-sofi-stadium-players-to-watch-game-predictions-week-18",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1767530400.0,
-      "published_iso": "2026-01-04T12:40:00+00:00"
+      "id": "https-latimes-com-sports-rams-live-rams-cardinals-live-updates-watch-start-time-odds-score-highlights",
+      "title": "Rams vs. Arizona Cardinals live updates: Rams force fumble, hit field goal",
+      "link": "https://latimes.com/sports/rams/live/rams-cardinals-live-updates-watch-start-time-odds-score-highlights",
+      "source": "LA Times",
+      "ts": 1767534060.0,
+      "published_iso": "2026-01-04T13:41:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-rams-playoff-picture-updated-seeding-100001433-html",
