@@ -1,30 +1,22 @@
 {
-  "updated_iso": "2026-01-04T20:40:36.164246+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-04T21:08:10.001890+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-therams-com-news-rams-cardinals-inactives-week-18-2025-davante-adams-terrance-ferguson-kevin-dotson",
-      "title": "Davante Adams, Terrance Ferguson and Kevin Dotson among Rams' inactives for Week 18 vs. Cardinals",
-      "link": "https://therams.com/news/rams-cardinals-inactives-week-18-2025-davante-adams-terrance-ferguson-kevin-dotson",
+      "id": "https-therams-com-video-rams-cardinals-pregame-show-sofi-stadium-players-to-watch-game-predictions-week-18",
+      "title": "Rams-Cardinals Pregame Show from SoFi Stadium | Players to watch, game predictions & more",
+      "link": "https://therams.com/video/rams-cardinals-pregame-show-sofi-stadium-players-to-watch-game-predictions-week-18",
       "source": "Los Angeles Rams (Official)",
-      "ts": 1767528960.0,
-      "published_iso": "2026-01-04T12:16:00+00:00"
+      "ts": 1767530400.0,
+      "published_iso": "2026-01-04T12:40:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-rams-18-million-contract-projection-182945800-html",
-      "title": "Rams get $18 million contract projection on star free agent safety",
-      "link": "https://sports.yahoo.com/articles/rams-18-million-contract-projection-182945800.html",
+      "id": "https-sports-yahoo-com-articles-rams-playoff-picture-updated-seeding-100001433-html",
+      "title": "Rams playoff picture: Updated seeding scenarios for L.A. in 2026 NFL bracket",
+      "link": "https://sports.yahoo.com/articles/rams-playoff-picture-updated-seeding-100001433.html",
       "source": "Yahoo Sports",
-      "ts": 1767523560.0,
-      "published_iso": "2026-01-04T10:46:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-playoff-scenarios-rams-play-week-144410810-html",
-      "title": "What playoff scenarios Rams have to play for in Week 18 with Matthew Stafford, other starters",
-      "link": "https://sports.yahoo.com/articles/playoff-scenarios-rams-play-week-144410810.html",
-      "source": "Yahoo Sports",
-      "ts": 1767510420.0,
-      "published_iso": "2026-01-04T07:07:00+00:00"
+      "ts": 1767493980.0,
+      "published_iso": "2026-01-04T02:33:00+00:00"
     }
   ]
 }
