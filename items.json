@@ -1,38 +1,30 @@
 {
-  "updated_iso": "2026-01-05T00:53:31.360625+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-05T03:04:17.162325+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-latimes-com-sports-rams-live-rams-cardinals-live-updates-watch-start-time-odds-score-highlights",
-      "title": "Rams use fourth quarter surge to pull away for regular-season finale win over Cardinals",
-      "link": "https://latimes.com/sports/rams/live/rams-cardinals-live-updates-watch-start-time-odds-score-highlights",
-      "source": "LA Times",
-      "ts": 1767545220.0,
-      "published_iso": "2026-01-04T16:47:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-play-wild-001558916-html",
-      "title": "Who Los Angeles Rams will play in wild-card round of NFL playoffs",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-play-wild-001558916.html",
+      "id": "https-sports-yahoo-com-articles-sean-mcvay-gave-1-game-024426287-html",
+      "title": "Sean McVay gave out 1 game ball after Rams' win vs. Cardinals: 'Our (expletive) MVP'",
+      "link": "https://sports.yahoo.com/articles/sean-mcvay-gave-1-game-024426287.html",
       "source": "Yahoo Sports",
-      "ts": 1767544500.0,
-      "published_iso": "2026-01-04T16:35:00+00:00"
+      "ts": 1767552720.0,
+      "published_iso": "2026-01-04T18:52:00+00:00"
     },
     {
-      "id": "https-therams-com-video-rams-ahkello-witherspoon-intercepts-cardinals-jacoby-brissett-downfield-pass",
-      "title": "HIGHLIGHTS: Rams CB Ahkello Witherspoon intercepts Cardinals QB Jacoby Brissett's downfield pass",
-      "link": "https://therams.com/video/rams-ahkello-witherspoon-intercepts-cardinals-jacoby-brissett-downfield-pass",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1767541260.0,
-      "published_iso": "2026-01-04T15:41:00+00:00"
+      "id": "https-foxsports-com-watch-fmc-t9lsn8bijf9fydqv",
+      "title": "Look ahead to Rams' playoff matchup after Los Angeles clinch 5th seed in NFC | NFL on FOX",
+      "link": "https://foxsports.com/watch/fmc-t9lsn8bijf9fydqv",
+      "source": "FOX Sports",
+      "ts": 1767548640.0,
+      "published_iso": "2026-01-04T17:44:00+00:00"
     },
     {
-      "id": "https-nfl-com-videos-mevis-42-yard-fg-lifts-rams-over-cardinals-by-3-early-in-the-second",
-      "title": "Mevis' 42-yard FG lifts Rams over Cardinals by 3 early in the second",
-      "link": "https://nfl.com/videos/mevis-42-yard-fg-lifts-rams-over-cardinals-by-3-early-in-the-second",
-      "source": "NFL.com",
-      "ts": 1767539520.0,
-      "published_iso": "2026-01-04T15:12:00+00:00"
+      "id": "https-sports-yahoo-com-articles-tst-images-rams-defeat-cardinals-012244334-html",
+      "title": "TST Images: Rams Defeat Cardinals, 37-20, in Los Angeles",
+      "link": "https://sports.yahoo.com/articles/tst-images-rams-defeat-cardinals-012244334.html",
+      "source": "Yahoo Sports",
+      "ts": 1767548460.0,
+      "published_iso": "2026-01-04T17:41:00+00:00"
     }
   ]
 }
