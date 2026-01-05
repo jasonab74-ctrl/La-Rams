@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-01-05T15:43:53.668325+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-05T16:13:41.218256+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-49ers-learn-nfc-playoff-160038729-html",
+      "title": "Rams and 49ers learn their NFC playoff opponents after Week 18",
+      "link": "https://sports.yahoo.com/articles/rams-49ers-learn-nfc-playoff-160038729.html",
+      "source": "Yahoo Sports",
+      "ts": 1767600360.0,
+      "published_iso": "2026-01-05T08:06:00+00:00"
+    },
+    {
+      "id": "https-latimes-com-0000019b-8cfd-dcc2-ab9b-cdff74950000-123",
+      "title": "Takeaways from the Rams’ win over the Arizona Cardinals",
+      "link": "https://latimes.com/0000019b-8cfd-dcc2-ab9b-cdff74950000-123",
+      "source": "LA Times",
+      "ts": 1767569640.0,
+      "published_iso": "2026-01-04T23:34:00+00:00"
+    },
     {
       "id": "https-foxsports-com-watch-fmc-t9lsn8bijf9fydqv",
       "title": "Look ahead to Rams' playoff matchup after Los Angeles clinch 5th seed in NFC | NFL on FOX",
@@ -9,14 +25,6 @@
       "source": "FOX Sports",
       "ts": 1767548640.0,
       "published_iso": "2026-01-04T17:44:00+00:00"
-    },
-    {
-      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-who-los-angeles-rams-will-play-wild-card-round-nfl-playoffs-51f98aad",
-      "title": "Who Los Angeles Rams will play in wild-card round of NFL playoffs",
-      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/who-los-angeles-rams-will-play-wild-card-round-nfl-playoffs/51f98aadf7e10ea4308e0f8a",
-      "source": "Sporting News",
-      "ts": 1767543300.0,
-      "published_iso": "2026-01-04T16:15:00+00:00"
     }
   ]
 }
