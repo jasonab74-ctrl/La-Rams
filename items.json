@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-05T07:28:32.058691+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-05T07:47:53.172945+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-foxsports-com-watch-fmc-t9lsn8bijf9fydqv",
@@ -17,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1767548460.0,
       "published_iso": "2026-01-04T17:41:00+00:00"
-    },
-    {
-      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-who-los-angeles-rams-will-play-wild-card-round-nfl-playoffs-51f98aad",
-      "title": "Who Los Angeles Rams will play in wild-card round of NFL playoffs",
-      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/who-los-angeles-rams-will-play-wild-card-round-nfl-playoffs/51f98aadf7e10ea4308e0f8a",
-      "source": "Sporting News",
-      "ts": 1767543300.0,
-      "published_iso": "2026-01-04T16:15:00+00:00"
     }
   ]
 }
