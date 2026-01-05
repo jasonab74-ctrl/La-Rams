@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-05T08:52:51.061638+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-05T09:19:54.461502+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-panthers-host-rams-wild-card-025728617-html",
+      "title": "Panthers to host Rams in wild-card round of playoffs: Date, time announced",
+      "link": "https://sports.yahoo.com/articles/panthers-host-rams-wild-card-025728617.html",
+      "source": "Yahoo Sports",
+      "ts": 1767575280.0,
+      "published_iso": "2026-01-05T01:08:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-carolina-panthers-vs-los-angeles-073539059-html",
       "title": "Carolina Panthers vs Los Angeles Rams wild-card opening odds",
