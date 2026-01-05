@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-05T14:47:26.796379+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-05T15:12:09.284959+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-10-takeaways-rams-week-18-150000837-html",
+      "title": "10 takeaways from Rams Week 18 win vs. Cardinals",
+      "link": "https://sports.yahoo.com/articles/10-takeaways-rams-week-18-150000837.html",
+      "source": "Yahoo Sports",
+      "ts": 1767597000.0,
+      "published_iso": "2026-01-05T07:10:00+00:00"
+    },
     {
       "id": "https-latimes-com-0000019b-8cfd-dcc2-ab9b-cdff74950000-123",
       "title": "Takeaways from the Rams’ win over the Arizona Cardinals",
