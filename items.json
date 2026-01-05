@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2026-01-05T10:13:15.538667+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-05T10:47:59.600261+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-carolina-panthers-vs-los-angeles-073539059-html",
+      "title": "Carolina Panthers vs Los Angeles Rams wild-card opening odds",
+      "link": "https://sports.yahoo.com/articles/carolina-panthers-vs-los-angeles-073539059.html",
+      "source": "Yahoo Sports",
+      "ts": 1767570480.0,
+      "published_iso": "2026-01-04T23:48:00+00:00"
+    },
+    {
+      "id": "https-latimes-com-0000019b-8cfd-dcc2-ab9b-cdff74950000-123",
+      "title": "Takeaways from the Rams’ win over the Arizona Cardinals",
+      "link": "https://latimes.com/0000019b-8cfd-dcc2-ab9b-cdff74950000-123",
+      "source": "LA Times",
+      "ts": 1767569640.0,
+      "published_iso": "2026-01-04T23:34:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-watch-fmc-t9lsn8bijf9fydqv",
+      "title": "Look ahead to Rams' playoff matchup after Los Angeles clinch 5th seed in NFC | NFL on FOX",
+      "link": "https://foxsports.com/watch/fmc-t9lsn8bijf9fydqv",
+      "source": "FOX Sports",
+      "ts": 1767548640.0,
+      "published_iso": "2026-01-04T17:44:00+00:00"
+    }
+  ]
 }
