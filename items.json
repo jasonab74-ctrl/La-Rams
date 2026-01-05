@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-05T06:21:45.460237+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-05T06:59:59.974480+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-foxsports-com-watch-fmc-t9lsn8bijf9fydqv",
@@ -9,6 +9,14 @@
       "source": "FOX Sports",
       "ts": 1767548640.0,
       "published_iso": "2026-01-04T17:44:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-tst-images-rams-defeat-cardinals-012244334-html",
+      "title": "TST Images: Rams Defeat Cardinals, 37-20, in Los Angeles",
+      "link": "https://sports.yahoo.com/articles/tst-images-rams-defeat-cardinals-012244334.html",
+      "source": "Yahoo Sports",
+      "ts": 1767548460.0,
+      "published_iso": "2026-01-04T17:41:00+00:00"
     }
   ]
 }
