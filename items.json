@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-06T16:12:55.848944+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-06T16:51:30.164788+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-byron-young-dives-into-remarkable-season",
@@ -9,14 +9,6 @@
       "source": "Sports Illustrated",
       "ts": 1767685260.0,
       "published_iso": "2026-01-06T07:41:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-2026-nfl-playoff-bracket-projection-picks-super-bowl-winner",
-      "title": "2026 NFL playoff bracket projection: Rams overcome surprising Jaguars for Super Bowl title",
-      "link": "https://cbssports.com/nfl/news/2026-nfl-playoff-bracket-projection-picks-super-bowl-winner/",
-      "source": "CBS Sports",
-      "ts": 1767683880.0,
-      "published_iso": "2026-01-06T07:18:00+00:00"
     }
   ]
 }
