@@ -1,22 +1,30 @@
 {
-  "updated_iso": "2026-01-06T15:11:13.933407+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-06T15:42:22.997774+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-si-com-betting-rams-vs-panthers-prediction-odds-spread-injuries-trends-for-nfl-wild-card-round-01ke7qhcmx9b",
-      "title": "Rams vs. Panthers Prediction, Odds, Spread, Injuries, Trends for NFL Wild Card Round",
-      "link": "https://si.com/betting/rams-vs-panthers-prediction-odds-spread-injuries-trends-for-nfl-wild-card-round-01ke7qhcmx9b",
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-byron-young-dives-into-remarkable-season",
+      "title": "Rams' Byron Young Dives Into Remarkable Season",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-byron-young-dives-into-remarkable-season",
       "source": "Sports Illustrated",
-      "ts": 1767625260.0,
-      "published_iso": "2026-01-05T15:01:00+00:00"
+      "ts": 1767685260.0,
+      "published_iso": "2026-01-06T07:41:00+00:00"
     },
     {
-      "id": "https-bleacherreport-com-articles-25350058-nfl-exec-questions-matthew-staffords-rams-ability-win-2026-super-bowl",
-      "title": "NFL Exec Questions Matthew Stafford's Rams Ability to Win 2026 Super Bowl",
-      "link": "https://bleacherreport.com/articles/25350058-nfl-exec-questions-matthew-staffords-rams-ability-win-2026-super-bowl",
-      "source": "Bleacher Report",
-      "ts": 1767609360.0,
-      "published_iso": "2026-01-05T10:36:00+00:00"
+      "id": "https-cbssports-com-nfl-news-nfl-wild-card-weekend-early-bets-jump-on-the-rams-now-plus-an-anytime-touchdown-scorer-and-",
+      "title": "NFL Wild Card Weekend early bets: Jump on the Rams now, plus an anytime touchdown scorer and two totals",
+      "link": "https://cbssports.com/nfl/news/nfl-wild-card-weekend-early-bets-jump-on-the-rams-now-plus-an-anytime-touchdown-scorer-and-two-totals/",
+      "source": "CBS Sports",
+      "ts": 1767684240.0,
+      "published_iso": "2026-01-06T07:24:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-2026-nfl-playoff-bracket-projection-picks-super-bowl-winner",
+      "title": "2026 NFL playoff bracket projection: Rams overcome surprising Jaguars for Super Bowl title",
+      "link": "https://cbssports.com/nfl/news/2026-nfl-playoff-bracket-projection-picks-super-bowl-winner/",
+      "source": "CBS Sports",
+      "ts": 1767683880.0,
+      "published_iso": "2026-01-06T07:18:00+00:00"
     }
   ]
 }
