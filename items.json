@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-06T09:44:52.418497+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-06T10:11:15.077495+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-colby-parkinson-talks-franchise-record-setting-performance",
@@ -17,14 +17,6 @@
       "source": "Sports Illustrated",
       "ts": 1767638700.0,
       "published_iso": "2026-01-05T18:45:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25350058-nfl-exec-questions-matthew-staffords-rams-ability-win-2026-super-bowl",
-      "title": "NFL Exec Questions Matthew Stafford's Rams Ability to Win 2026 Super Bowl",
-      "link": "https://bleacherreport.com/articles/25350058-nfl-exec-questions-matthew-staffords-rams-ability-win-2026-super-bowl",
-      "source": "Bleacher Report",
-      "ts": 1767609360.0,
-      "published_iso": "2026-01-05T10:36:00+00:00"
     }
   ]
 }
