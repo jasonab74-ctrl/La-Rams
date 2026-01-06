@@ -1,38 +1,22 @@
 {
-  "updated_iso": "2026-01-05T23:38:33.207324+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-06T00:48:00.307602+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-jared-verse-basks-win-over-cardinals",
-      "title": "Rams' Jared Verse Basks In Win Over Cardinals",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-jared-verse-basks-win-over-cardinals",
-      "source": "Sports Illustrated",
-      "ts": 1767627060.0,
-      "published_iso": "2026-01-05T15:31:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-kyren-williams-talks-about-playoff-ambitions",
-      "title": "Rams' Kyren Williams Talks About Playoff Ambitions",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-kyren-williams-talks-about-playoff-ambitions",
-      "source": "Sports Illustrated",
-      "ts": 1767626760.0,
-      "published_iso": "2026-01-05T15:26:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-cheapest-tickets-cost-panthers-rams-190155002-html",
-      "title": "What do the cheapest tickets cost for the Panthers-Rams Wild Card game?",
-      "link": "https://sports.yahoo.com/articles/cheapest-tickets-cost-panthers-rams-190155002.html",
+      "id": "https-sports-yahoo-com-articles-panthers-vs-rams-nfl-wild-171326696-html",
+      "title": "Panthers vs. Rams NFL wild-card game: Where to get tickets, park + tailgate",
+      "link": "https://sports.yahoo.com/articles/panthers-vs-rams-nfl-wild-171326696.html",
       "source": "Yahoo Sports",
-      "ts": 1767626400.0,
-      "published_iso": "2026-01-05T15:20:00+00:00"
+      "ts": 1767631260.0,
+      "published_iso": "2026-01-05T16:41:00+00:00"
     },
     {
-      "id": "https-bleacherreport-com-articles-25350058-nfl-exec-questions-matthew-staffords-rams-ability-win-2026-super-bowl",
-      "title": "NFL Exec Questions Matthew Stafford's Rams Ability to Win 2026 Super Bowl",
-      "link": "https://bleacherreport.com/articles/25350058-nfl-exec-questions-matthew-staffords-rams-ability-win-2026-super-bowl",
-      "source": "Bleacher Report",
-      "ts": 1767609360.0,
-      "published_iso": "2026-01-05T10:36:00+00:00"
+      "id": "https-si-com-betting-rams-vs-panthers-prediction-odds-spread-injuries-trends-for-nfl-wild-card-round-01ke7qhcmx9b",
+      "title": "Rams vs. Panthers Prediction, Odds, Spread, Injuries, Trends for NFL Wild Card Round",
+      "link": "https://si.com/betting/rams-vs-panthers-prediction-odds-spread-injuries-trends-for-nfl-wild-card-round-01ke7qhcmx9b",
+      "source": "Sports Illustrated",
+      "ts": 1767625260.0,
+      "published_iso": "2026-01-05T15:01:00+00:00"
     }
   ]
 }
