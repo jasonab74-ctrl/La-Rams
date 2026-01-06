@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-06T02:50:39.504183+00:00",
+  "updated_iso": "2026-01-06T03:55:57.991562+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-colby-parkinson-talks-franchise-record-setting-performance",
+      "title": "Rams' Colby Parkinson Talks on Franchise Record-Setting Performance",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-colby-parkinson-talks-franchise-record-setting-performance",
+      "source": "Sports Illustrated",
+      "ts": 1767640500.0,
+      "published_iso": "2026-01-05T19:15:00+00:00"
+    },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-kyren-williams-talks-about-playoff-ambitions",
       "title": "Rams' Kyren Williams Talks About Playoff Ambitions",
@@ -9,14 +17,6 @@
       "source": "Sports Illustrated",
       "ts": 1767638700.0,
       "published_iso": "2026-01-05T18:45:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-colby-parkinson-talks-franchise-record-setting-performance",
-      "title": "Rams' Colby Parkinson Talks on Franchise Record-Setting Performance",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-colby-parkinson-talks-franchise-record-setting-performance",
-      "source": "Sports Illustrated",
-      "ts": 1767628500.0,
-      "published_iso": "2026-01-05T15:55:00+00:00"
     }
   ]
 }
