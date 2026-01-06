@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-01-06T22:09:50.860544+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-06T22:42:51.264836+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-weather-watch-saturday-forecast-means-212140170-html",
+      "title": "Weather Watch: What Saturday’s forecast means for Panthers-Rams Playoff Showdown",
+      "link": "https://sports.yahoo.com/articles/weather-watch-saturday-forecast-means-212140170.html",
+      "source": "Yahoo Sports",
+      "ts": 1767709740.0,
+      "published_iso": "2026-01-06T14:29:00+00:00"
+    }
+  ]
 }
