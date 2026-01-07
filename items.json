@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-07T14:46:29.790213+00:00",
+  "updated_iso": "2026-01-07T15:12:42.135836+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-sean-mcvay-details-first-steps-towards-panthers-matchup",
+      "title": "Rams' Sean McVay Details First Steps Towards Panthers Matchup",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-sean-mcvay-details-first-steps-towards-panthers-matchup",
+      "source": "Sports Illustrated",
+      "ts": 1767769200.0,
+      "published_iso": "2026-01-07T07:00:00+00:00"
+    },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-davante-adams-had-say-about-his-return-from-injury",
       "title": "What Rams' Davante Adams Had to Say About His Return From Injury",
@@ -9,14 +17,6 @@
       "source": "Sports Illustrated",
       "ts": 1767760800.0,
       "published_iso": "2026-01-07T04:40:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-articles-nfl-panthers-vs-rams-injury-report-nfc-wild-card-round-2026",
-      "title": "Panthers vs. Rams Injury Report",
-      "link": "https://foxsports.com/articles/nfl/panthers-vs-rams-injury-report-nfc-wild-card-round-2026",
-      "source": "NFC Wild Card Round, 2026",
-      "ts": 1767714240.0,
-      "published_iso": "2026-01-06T15:44:00+00:00"
     }
   ]
 }
