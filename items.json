@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-07T19:38:02.149273+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-07T20:11:24.835230+00:00",
+  "count": 5,
   "items": [
     {
       "id": "https-therams-com-news-los-angeles-rams-at-carolina-panthers-how-to-watch-listen-to-and-live-stream-the-wild-card-round",
@@ -33,6 +33,14 @@
       "source": "Yahoo Sports",
       "ts": 1767780240.0,
       "published_iso": "2026-01-07T10:04:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-articles-nfl-panthers-vs-rams-injury-report-nfc-wild-card-round-2026",
+      "title": "Panthers vs. Rams Injury Report",
+      "link": "https://foxsports.com/articles/nfl/panthers-vs-rams-injury-report-nfc-wild-card-round-2026",
+      "source": "NFC Wild Card Round, 2026",
+      "ts": 1767746640.0,
+      "published_iso": "2026-01-07T00:44:00+00:00"
     }
   ]
 }
