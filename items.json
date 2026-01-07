@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-01-07T13:10:28.341283+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-07T13:53:18.713615+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-offense-made-nfl-history-133101351-html",
+      "title": "Rams offense made NFL history in 2025",
+      "link": "https://sports.yahoo.com/articles/rams-offense-made-nfl-history-133101351.html",
+      "source": "Yahoo Sports",
+      "ts": 1767764280.0,
+      "published_iso": "2026-01-07T05:38:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-davante-adams-had-say-about-his-return-from-injury",
+      "title": "What Rams' Davante Adams Had to Say About His Return From Injury",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-davante-adams-had-say-about-his-return-from-injury",
+      "source": "Sports Illustrated",
+      "ts": 1767760800.0,
+      "published_iso": "2026-01-07T04:40:00+00:00"
+    }
+  ]
 }
