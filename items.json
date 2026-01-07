@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-01-07T21:09:56.896543+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-07T21:39:03.387868+00:00",
+  "count": 2,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-nfl-betting-article-2025-nfl-playoffs-betting-odds-los-angeles-rams-are-largest-road-favorites-in",
-      "title": "2025 NFL playoffs betting, odds: Los Angeles Rams are largest road favorites in the Super Bowl era",
-      "link": "https://sports.yahoo.com/nfl/betting/article/2025-nfl-playoffs-betting-odds-los-angeles-rams-are-largest-road-favorites-in-the-super-bowl-era-202750037.html",
-      "source": "Yahoo Sports",
-      "ts": 1767791160.0,
-      "published_iso": "2026-01-07T13:06:00+00:00"
-    },
     {
       "id": "https-nfl-com-videos-rams-vs-panthers-preview-wild-card-weekend",
       "title": "Rams vs. Panthers preview | Wild Card Weekend",
@@ -25,14 +17,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1767780300.0,
       "published_iso": "2026-01-07T10:05:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-davante-adams-had-say-about-his-return-from-injury",
-      "title": "What Rams' Davante Adams Had to Say About His Return From Injury",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-davante-adams-had-say-about-his-return-from-injury",
-      "source": "Sports Illustrated",
-      "ts": 1767772800.0,
-      "published_iso": "2026-01-07T08:00:00+00:00"
     }
   ]
 }
