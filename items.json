@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-07T21:39:03.387868+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-07T22:09:35.014621+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-nfl-com-videos-rams-vs-panthers-preview-wild-card-weekend",
@@ -9,14 +9,6 @@
       "source": "NFL.com",
       "ts": 1767782880.0,
       "published_iso": "2026-01-07T10:48:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-a-review-of-the-rams-fire-relief-efforts-one-year-after-the-start-of-the-devastating-wildfires-in",
-      "title": "A review of the Rams' fire relief efforts one year after the start of the devastating wildfires in Los Angeles",
-      "link": "https://therams.com/news/a-review-of-the-rams-fire-relief-efforts-one-year-after-the-start-of-the-devastating-wildfires-in-los-angeles",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1767780300.0,
-      "published_iso": "2026-01-07T10:05:00+00:00"
     }
   ]
 }
