@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-01-07T23:09:51.499139+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-07T23:38:38.026958+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-cbssports-com-nfl-news-cam-newton-carolina-panthers-pregame-drummer-rams",
+      "title": "Cam Newton to return to Carolina for first time since retirement as pregame drummer for Wild Card vs. Rams",
+      "link": "https://cbssports.com/nfl/news/cam-newton-carolina-panthers-pregame-drummer-rams/",
+      "source": "CBS Sports",
+      "ts": 1767797880.0,
+      "published_iso": "2026-01-07T14:58:00+00:00"
+    }
+  ]
 }
