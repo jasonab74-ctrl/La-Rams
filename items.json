@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-07T10:46:11.167575+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-07T11:09:57.669305+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-cbssports-com-nfl-news-rams-panthers-prediction-odds-time-nfl-wild-card-saturday-picks",
+      "title": "Rams vs. Panthers prediction, odds, start time: NFL Wild Card Saturday picks from 10,000 simulations",
+      "link": "https://cbssports.com/nfl/news/rams-panthers-prediction-odds-time-nfl-wild-card-saturday-picks/",
+      "source": "CBS Sports",
+      "ts": 1767754620.0,
+      "published_iso": "2026-01-07T02:57:00+00:00"
+    },
     {
       "id": "https-foxsports-com-articles-nfl-panthers-vs-rams-injury-report-nfc-wild-card-round-2026",
       "title": "Panthers vs. Rams Injury Report",
