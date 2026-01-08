@@ -1,30 +1,14 @@
 {
-  "updated_iso": "2026-01-08T20:43:28.942443+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-08T21:10:14.594829+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-coaches-could-rams-lose-offseason-202250067-html",
-      "title": "Which coaches could Rams lose this offseason?",
-      "link": "https://sports.yahoo.com/articles/coaches-could-rams-lose-offseason-202250067.html",
-      "source": "Yahoo Sports",
-      "ts": 1767875460.0,
-      "published_iso": "2026-01-08T12:31:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-news-rams-vs-panthers-three-must-know-storylines-wild-card-weekend",
-      "title": "Rams vs. Panthers: Three must-know storylines for Saturday's playoff game",
-      "link": "https://nfl.com/news/rams-vs-panthers-three-must-know-storylines-wild-card-weekend",
-      "source": "NFL.com",
-      "ts": 1767852060.0,
-      "published_iso": "2026-01-08T06:01:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-a-review-of-the-rams-fire-relief-efforts-one-year-after-the-start-of-the-devastating-wildfires-in",
-      "title": "A review of the Rams' fire relief efforts one year after the start of the devastating wildfires in Los Angeles",
-      "link": "https://therams.com/news/a-review-of-the-rams-fire-relief-efforts-one-year-after-the-start-of-the-devastating-wildfires-in-los-angeles",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1767780300.0,
-      "published_iso": "2026-01-07T10:05:00+00:00"
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-puka-nacua-talks-playoff-ambitions",
+      "title": "Puka Nacua Talks Rams' Playoff Ambitions",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-puka-nacua-talks-playoff-ambitions",
+      "source": "Sports Illustrated",
+      "ts": 1767855600.0,
+      "published_iso": "2026-01-08T07:00:00+00:00"
     }
   ]
 }
