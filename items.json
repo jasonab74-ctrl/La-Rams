@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-08T17:47:58.072267+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-08T18:14:02.764320+00:00",
+  "count": 5,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-panthers-la-more-talented-170000288-html",
@@ -11,20 +11,28 @@
       "published_iso": "2026-01-08T09:13:00+00:00"
     },
     {
-      "id": "https-nfl-com-videos-is-the-panthers-week-13-win-over-rams-a-big-deal-or-no-big-deal-gmfb",
-      "title": "Is the Panthers' Week 13 win over Rams a Big Deal or No Big Deal? | 'GMFB'",
-      "link": "https://nfl.com/videos/is-the-panthers-week-13-win-over-rams-a-big-deal-or-no-big-deal-gmfb",
-      "source": "NFL.com",
-      "ts": 1767862680.0,
-      "published_iso": "2026-01-08T08:58:00+00:00"
-    },
-    {
       "id": "https-sports-yahoo-com-articles-rams-vs-panthers-predictions-picks-160000474-html",
       "title": "Rams vs Panthers Predictions, Picks & Best Bets for Wild Card Weekend",
       "link": "https://sports.yahoo.com/articles/rams-vs-panthers-predictions-picks-160000474.html",
       "source": "Yahoo Sports",
       "ts": 1767860700.0,
       "published_iso": "2026-01-08T08:25:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-news-players-of-the-month-december-2025-trevor-lawrence-matthew-stafford",
+      "title": "Jaguars QB Trevor Lawrence, Rams QB Matthew Stafford highlight December/January Players of the Month",
+      "link": "https://nfl.com/news/players-of-the-month-december-2025-trevor-lawrence-matthew-stafford",
+      "source": "NFL.com",
+      "ts": 1767859200.0,
+      "published_iso": "2026-01-08T08:00:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-news-rams-vs-panthers-three-must-know-storylines-wild-card-weekend",
+      "title": "Rams vs. Panthers: Three must-know storylines for Saturday's playoff game",
+      "link": "https://nfl.com/news/rams-vs-panthers-three-must-know-storylines-wild-card-weekend",
+      "source": "NFL.com",
+      "ts": 1767852060.0,
+      "published_iso": "2026-01-08T06:01:00+00:00"
     },
     {
       "id": "https-therams-com-news-a-review-of-the-rams-fire-relief-efforts-one-year-after-the-start-of-the-devastating-wildfires-in",
