@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-01-08T08:15:05.503485+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-08T08:50:15.135597+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-therams-com-news-a-review-of-the-rams-fire-relief-efforts-one-year-after-the-start-of-the-devastating-wildfires-in",
+      "title": "A review of the Rams' fire relief efforts one year after the start of the devastating wildfires in Los Angeles",
+      "link": "https://therams.com/news/a-review-of-the-rams-fire-relief-efforts-one-year-after-the-start-of-the-devastating-wildfires-in-los-angeles",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1767780300.0,
+      "published_iso": "2026-01-07T10:05:00+00:00"
+    }
+  ]
 }
