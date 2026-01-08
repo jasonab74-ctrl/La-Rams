@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-01-08T14:48:21.878227+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-08T15:13:58.310388+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-more-concerned-rams-special-teams-150000044-html",
+      "title": "Should we be more concerned about Rams special teams into playoffs?",
+      "link": "https://sports.yahoo.com/articles/more-concerned-rams-special-teams-150000044.html",
+      "source": "Yahoo Sports",
+      "ts": 1767856260.0,
+      "published_iso": "2026-01-08T07:11:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-puka-nacua-talks-playoff-ambitions",
+      "title": "Puka Nacua Talks Rams' Playoff Ambitions",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-puka-nacua-talks-playoff-ambitions",
+      "source": "Sports Illustrated",
+      "ts": 1767855600.0,
+      "published_iso": "2026-01-08T07:00:00+00:00"
+    },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-chris-shula-details-defensive-approach-panthers-offense",
       "title": "Rams' Chris Shula Details Defensive Approach to Panthers Offense",
@@ -9,14 +25,6 @@
       "source": "Sports Illustrated",
       "ts": 1767847200.0,
       "published_iso": "2026-01-08T04:40:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-qb-matthew-stafford-earns-115713489-html",
-      "title": "Rams QB Matthew Stafford earns weekly honors after play vs. Cardinals",
-      "link": "https://sports.yahoo.com/articles/rams-qb-matthew-stafford-earns-115713489.html",
-      "source": "Yahoo Sports",
-      "ts": 1767845340.0,
-      "published_iso": "2026-01-08T04:09:00+00:00"
     },
     {
       "id": "https-therams-com-news-a-review-of-the-rams-fire-relief-efforts-one-year-after-the-start-of-the-devastating-wildfires-in",
