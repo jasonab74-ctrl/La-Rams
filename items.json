@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-08T13:10:59.195739+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-08T13:54:44.058955+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-chris-shula-details-defensive-approach-panthers-offense",
@@ -9,22 +9,6 @@
       "source": "Sports Illustrated",
       "ts": 1767847200.0,
       "published_iso": "2026-01-08T04:40:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-puka-nacua-talks-playoff-ambitions",
-      "title": "Puka Nacua Talks Rams' Playoff Ambitions",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-puka-nacua-talks-playoff-ambitions",
-      "source": "Sports Illustrated",
-      "ts": 1767843660.0,
-      "published_iso": "2026-01-08T03:41:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-a-review-of-the-rams-fire-relief-efforts-one-year-after-the-start-of-the-devastating-wildfires-in",
-      "title": "A review of the Rams' fire relief efforts one year after the start of the devastating wildfires in Los Angeles",
-      "link": "https://therams.com/news/a-review-of-the-rams-fire-relief-efforts-one-year-after-the-start-of-the-devastating-wildfires-in-los-angeles",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1767780300.0,
-      "published_iso": "2026-01-07T10:05:00+00:00"
     }
   ]
 }
