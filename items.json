@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-08T00:47:48.499591+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-08T02:50:17.735403+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-nfl-com-news-rams-qb-matthew-stafford-s-hope-for-rematch-vs-panthers-i-d-like-to-not-throw-it-to-their-team",
+      "title": "Rams QB Matthew Stafford's hope for rematch vs. Panthers: 'I'd like to not throw it to their team'",
+      "link": "https://nfl.com/news/rams-qb-matthew-stafford-s-hope-for-rematch-vs-panthers-i-d-like-to-not-throw-it-to-their-team",
+      "source": "NFL.com",
+      "ts": 1767804060.0,
+      "published_iso": "2026-01-07T16:41:00+00:00"
+    },
     {
       "id": "https-therams-com-news-a-review-of-the-rams-fire-relief-efforts-one-year-after-the-start-of-the-devastating-wildfires-in",
       "title": "A review of the Rams' fire relief efforts one year after the start of the devastating wildfires in Los Angeles",
