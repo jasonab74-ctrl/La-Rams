@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-08T17:17:06.542630+00:00",
-  "count": 5,
+  "updated_iso": "2026-01-08T17:47:58.072267+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-panthers-la-more-talented-170000288-html",
@@ -25,14 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1767860700.0,
       "published_iso": "2026-01-08T08:25:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-chris-shula-details-defensive-approach-panthers-offense",
-      "title": "Rams' Chris Shula Details Defensive Approach to Panthers Offense",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-chris-shula-details-defensive-approach-panthers-offense",
-      "source": "Sports Illustrated",
-      "ts": 1767859200.0,
-      "published_iso": "2026-01-08T08:00:00+00:00"
     },
     {
       "id": "https-therams-com-news-a-review-of-the-rams-fire-relief-efforts-one-year-after-the-start-of-the-devastating-wildfires-in",
