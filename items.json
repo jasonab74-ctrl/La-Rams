@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-09T22:09:44.004870+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-09T22:41:57.163074+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-best-rushing-team-nfl-222827769-html",
+      "title": "Rams are best rushing team in NFL on early downs",
+      "link": "https://sports.yahoo.com/articles/rams-best-rushing-team-nfl-222827769.html",
+      "source": "Yahoo Sports",
+      "ts": 1767969360.0,
+      "published_iso": "2026-01-09T14:36:00+00:00"
+    },
     {
       "id": "https-bleacherreport-com-articles-25354603-nfl-exec-cant-imagine-panthers-beating-rams-2026-nfl-playoff-bracket",
       "title": "NFL Exec 'Can't Imagine the Panthers Beating' Rams in 2026 NFL Playoff Bracket",
