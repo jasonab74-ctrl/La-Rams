@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-09T21:38:31.387441+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-09T22:09:44.004870+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-bleacherreport-com-articles-25354603-nfl-exec-cant-imagine-panthers-beating-rams-2026-nfl-playoff-bracket",
@@ -9,14 +9,6 @@
       "source": "Bleacher Report",
       "ts": 1767955920.0,
       "published_iso": "2026-01-09T10:52:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-watch-fmc-wqr9igj8wjvh8ntf",
-      "title": "Wild Card Blazin’ 5: Eagles, Rams cover, Will the Bears beat the Packers? | The Herd",
-      "link": "https://foxsports.com/watch/fmc-wqr9igj8wjvh8ntf",
-      "source": "FOX Sports",
-      "ts": 1767955680.0,
-      "published_iso": "2026-01-09T10:48:00+00:00"
     }
   ]
 }
