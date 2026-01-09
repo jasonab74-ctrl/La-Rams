@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-01-09T14:12:44.476430+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-09T14:45:32.247353+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-vs-panthers-nfl-playoff-141416513-html",
+      "title": "Rams vs. Panthers: NFL playoff picks, predictions from experts for wild-card showdown",
+      "link": "https://sports.yahoo.com/articles/rams-vs-panthers-nfl-playoff-141416513.html",
+      "source": "Yahoo Sports",
+      "ts": 1767940800.0,
+      "published_iso": "2026-01-09T06:40:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-09-rams-panthers-playoff-trailer-video-preview-88098771007",
+      "title": "Rams drop awesome hype video for playoff game vs. Panthers",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/01/09/rams-panthers-playoff-trailer-video-preview/88098771007/",
+      "source": "Rams Wire",
+      "ts": 1767939000.0,
+      "published_iso": "2026-01-09T06:10:00+00:00"
+    }
+  ]
 }
