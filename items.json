@@ -1,5 +1,54 @@
 {
-  "updated_iso": "2026-01-09T16:49:56.079423+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-09T17:13:54.083383+00:00",
+  "count": 6,
+  "items": [
+    {
+      "id": "https-therams-com-news-top-rams-news-previews-and-predictions-for-rams-at-panthers-in-the-wild-card-round-2026",
+      "title": "Top Rams News: Previews and predictions for Rams at Panthers in the Wild Card round",
+      "link": "https://therams.com/news/top-rams-news-previews-and-predictions-for-rams-at-panthers-in-the-wild-card-round-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1767949380.0,
+      "published_iso": "2026-01-09T09:03:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-best-rams-vs-panthers-same-154400033-html",
+      "title": "Best Rams vs Panthers Same Game Parlay for Wild Card Weekend",
+      "link": "https://sports.yahoo.com/articles/best-rams-vs-panthers-same-154400033.html",
+      "source": "Yahoo Sports",
+      "ts": 1767948720.0,
+      "published_iso": "2026-01-09T08:52:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-09-rams-panthers-wild-card-picks-who-do-experts-think-will-",
+      "title": "Rams-Panthers wild-card picks: Who do experts think will win?",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/01/09/rams-panthers-wild-card-picks-who-do-experts-think-will-win/88100750007/",
+      "source": "Rams Wire",
+      "ts": 1767946980.0,
+      "published_iso": "2026-01-09T08:23:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-09-2025-nfl-re-draft-should-the-rams-have-kept-their-first-",
+      "title": "2025 NFL re-draft: Should the Rams have kept their first-round pick?",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/01/09/2025-nfl-re-draft-should-the-rams-have-kept-their-first-round-pick/88101084007/",
+      "source": "Rams Wire",
+      "ts": 1767946860.0,
+      "published_iso": "2026-01-09T08:21:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-what-win-loss-means-panthers-playoff-game",
+      "title": "What a Win (and Loss) Means For Rams vs. Panthers Playoff Game",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-what-win-loss-means-panthers-playoff-game",
+      "source": "Sports Illustrated",
+      "ts": 1767944040.0,
+      "published_iso": "2026-01-09T07:34:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-key-matchups-panthers-wild-card-150054960-html",
+      "title": "Key matchups for Panthers' wild-card game vs. Rams",
+      "link": "https://sports.yahoo.com/articles/key-matchups-panthers-wild-card-150054960.html",
+      "source": "Yahoo Sports",
+      "ts": 1767942780.0,
+      "published_iso": "2026-01-09T07:13:00+00:00"
+    }
+  ]
 }
