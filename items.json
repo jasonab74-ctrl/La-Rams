@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-01-09T07:15:55.360472+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-09T07:42:20.149704+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-therams-com-news-rams-playoff-run-begins-with-wild-card-clash-in-carolina-game-preview",
-      "title": "Rams' playoff run begins with Wild Card clash in Carolina | Game Preview",
-      "link": "https://therams.com/news/rams-playoff-run-begins-with-wild-card-clash-in-carolina-game-preview",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1767887460.0,
-      "published_iso": "2026-01-08T15:51:00+00:00"
+      "id": "https-nfl-com-news-rams-vs-panthers-three-must-know-storylines-wild-card-weekend",
+      "title": "Rams vs. Panthers: Three must-know storylines for Saturday's playoff game",
+      "link": "https://nfl.com/news/rams-vs-panthers-three-must-know-storylines-wild-card-weekend",
+      "source": "NFL.com",
+      "ts": 1767852060.0,
+      "published_iso": "2026-01-08T06:01:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-cardinals-week-18-where-to-watch-pick-odds-prediction",
+      "title": "Rams vs. Cardinals prediction: Los Angeles starters roll over Arizona in get-right game before playoffs",
+      "link": "https://cbssports.com/nfl/news/rams-vs-cardinals-week-18-where-to-watch-pick-odds-prediction/",
+      "source": "CBS Sports",
+      "ts": 1767354480.0,
+      "published_iso": "2026-01-02T11:48:00+00:00"
     }
   ]
 }
