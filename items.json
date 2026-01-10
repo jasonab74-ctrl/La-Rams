@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-01-10T15:37:37.408157+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-10T16:10:23.119921+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-vs-panthers-predictions-picks-120000895-html",
+      "title": "Rams vs Panthers predictions: Picks, betting odds for NFL Wild Card game",
+      "link": "https://sports.yahoo.com/articles/rams-vs-panthers-predictions-picks-120000895.html",
+      "source": "Yahoo Sports",
+      "ts": 1768029420.0,
+      "published_iso": "2026-01-10T07:17:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-rams-vs-panthers-final-score-prediction-for-nfl-wild-card-weekend-can-carolina-pull-off-upset",
+      "title": "Rams vs. Panthers Final Score Prediction for NFL Wild Card Weekend (Can Carolina Pull Off Upset?)",
+      "link": "https://si.com/betting/rams-vs-panthers-final-score-prediction-for-nfl-wild-card-weekend-can-carolina-pull-off-upset",
+      "source": "Sports Illustrated",
+      "ts": 1768024800.0,
+      "published_iso": "2026-01-10T06:00:00+00:00"
+    }
+  ]
 }
