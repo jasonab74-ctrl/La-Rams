@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-01-10T00:46:46.206649+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-10T02:44:56.011244+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-panthers-activate-pro-bowler-off-220306505-html",
-      "title": "Panthers activate Pro Bowler off IR for Rams NFC Wild Card game",
-      "link": "https://sports.yahoo.com/articles/panthers-activate-pro-bowler-off-220306505.html",
+      "id": "https-sports-yahoo-com-articles-rams-prepare-wild-card-matchup-015400580-html",
+      "title": "Rams prepare for Wild Card Matchup with Panthers",
+      "link": "https://sports.yahoo.com/articles/rams-prepare-wild-card-matchup-015400580.html",
       "source": "Yahoo Sports",
-      "ts": 1767972000.0,
-      "published_iso": "2026-01-09T15:20:00+00:00"
+      "ts": 1767981840.0,
+      "published_iso": "2026-01-09T18:04:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-bolster-defense-vs-panthers-001621416-html",
+      "title": "Rams bolster defense vs. Panthers with last-minute transactions",
+      "link": "https://sports.yahoo.com/articles/rams-bolster-defense-vs-panthers-001621416.html",
+      "source": "Yahoo Sports",
+      "ts": 1767981480.0,
+      "published_iso": "2026-01-09T17:58:00+00:00"
     }
   ]
 }
