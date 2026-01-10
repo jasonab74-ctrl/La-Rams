@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-09T23:38:08.081202+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-10T00:46:46.206649+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-panthers-activate-pro-bowler-off-220306505-html",
@@ -9,22 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1767972000.0,
       "published_iso": "2026-01-09T15:20:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-panthers-rams-fans-trade-friendly-222017268-html",
-      "title": "Panthers, Rams fans trade friendly trash talk ahead of matchup",
-      "link": "https://sports.yahoo.com/articles/panthers-rams-fans-trade-friendly-222017268.html",
-      "source": "Yahoo Sports",
-      "ts": 1767971700.0,
-      "published_iso": "2026-01-09T15:15:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25354603-nfl-exec-cant-imagine-panthers-beating-rams-2026-nfl-playoff-bracket",
-      "title": "NFL Exec 'Can't Imagine the Panthers Beating' Rams in 2026 NFL Playoff Bracket",
-      "link": "https://bleacherreport.com/articles/25354603-nfl-exec-cant-imagine-panthers-beating-rams-2026-nfl-playoff-bracket",
-      "source": "Bleacher Report",
-      "ts": 1767955920.0,
-      "published_iso": "2026-01-09T10:52:00+00:00"
     }
   ]
 }
