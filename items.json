@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-10T19:07:19.253205+00:00",
+  "updated_iso": "2026-01-10T19:31:26.044519+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-dolphins-request-interview-rams-chris-191007896-html",
+      "title": "Dolphins request to interview Rams' Chris Shula for head coaching job",
+      "link": "https://sports.yahoo.com/articles/dolphins-request-interview-rams-chris-191007896.html",
+      "source": "Yahoo Sports",
+      "ts": 1768044120.0,
+      "published_iso": "2026-01-10T11:22:00+00:00"
+    },
     {
       "id": "https-cbssports-com-nfl-news-panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend-live",
       "title": "Panthers vs. Rams live updates: Carolina looks to pull off huge upset of Matthew Stafford and Los Angeles",
@@ -9,14 +17,6 @@
       "source": "CBS Sports",
       "ts": 1768041900.0,
       "published_iso": "2026-01-10T10:45:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-colby-parkinson-net-worth-2026-173049593-html",
-      "title": "What Is Colby Parkinson’s Net Worth in 2026? All About Rams TE’s Salary, Contract, Career Earnings & More",
-      "link": "https://sports.yahoo.com/articles/colby-parkinson-net-worth-2026-173049593.html",
-      "source": "Yahoo Sports",
-      "ts": 1768041600.0,
-      "published_iso": "2026-01-10T10:40:00+00:00"
     }
   ]
 }
