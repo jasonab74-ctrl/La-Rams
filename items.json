@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2026-01-10T20:09:29.567912+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-10T20:39:36.524568+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-panthers-vs-rams-weather-updates-194141935-html",
-      "title": "Panthers vs. Rams weather updates: Thunderstorms in forecast for playoff game",
-      "link": "https://sports.yahoo.com/articles/panthers-vs-rams-weather-updates-194141935.html",
+      "id": "https-cbssports-com-nfl-news-rams-panthers-prediction-odds-line-spread-time-nfl-wild-card-saturday-picks",
+      "title": "Rams vs. Panthers prediction, odds, time: NFL Wild Card Saturday picks from 10,000 simulations",
+      "link": "https://cbssports.com/nfl/news/rams-panthers-prediction-odds-line-spread-time-nfl-wild-card-saturday-picks/",
+      "source": "CBS Sports",
+      "ts": 1768048200.0,
+      "published_iso": "2026-01-10T12:30:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-matthew-stafford-puka-nacua-200016317-html",
+      "title": "Rams' Matthew Stafford and Puka Nacua named All-Pro ahead of playoffs",
+      "link": "https://sports.yahoo.com/articles/rams-matthew-stafford-puka-nacua-200016317.html",
       "source": "Yahoo Sports",
-      "ts": 1768046040.0,
-      "published_iso": "2026-01-10T11:54:00+00:00"
+      "ts": 1768047300.0,
+      "published_iso": "2026-01-10T12:15:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-nfl-live-rams-vs-panthers-wild-card-score-live-updates-bryce-young-looks-to-upset-mvp-favorite-ma",
+      "title": "Rams vs. Panthers wild card score, live updates: Bryce Young looks to upset MVP favorite Matthew Stafford once more in 2025",
+      "link": "https://sports.yahoo.com/nfl/live/rams-vs-panthers-wild-card-score-live-updates-bryce-young-looks-to-upset-mvp-favorite-matthew-stafford-once-more-in-2025-200028964.html",
+      "source": "Yahoo Sports",
+      "ts": 1768047060.0,
+      "published_iso": "2026-01-10T12:11:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend-live",
