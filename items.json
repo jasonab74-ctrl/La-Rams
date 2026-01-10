@@ -1,30 +1,14 @@
 {
-  "updated_iso": "2026-01-10T04:23:26.574497+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-10T04:50:30.148404+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-panthers-make-key-roster-moves-before-wild-card-showdown",
-      "title": "Rams-Panthers Make Key Roster Moves Before Wild Card Showdown",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-panthers-make-key-roster-moves-before-wild-card-showdown",
-      "source": "Sports Illustrated",
-      "ts": 1767987600.0,
-      "published_iso": "2026-01-09T19:40:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-bolster-defense-vs-panthers-001621416-html",
-      "title": "Rams bolster defense vs. Panthers with last-minute transactions",
-      "link": "https://sports.yahoo.com/articles/rams-bolster-defense-vs-panthers-001621416.html",
-      "source": "Yahoo Sports",
-      "ts": 1767981480.0,
-      "published_iso": "2026-01-09T17:58:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1759355460.0,
-      "published_iso": "2025-10-01T21:51:00+00:00"
+      "id": "https-foxsports-com-articles-nfl-panthers-vs-rams-injury-report-nfc-wild-card-round-2026",
+      "title": "Panthers vs. Rams Injury Report",
+      "link": "https://foxsports.com/articles/nfl/panthers-vs-rams-injury-report-nfc-wild-card-round-2026",
+      "source": "NFC Wild Card Round, 2026",
+      "ts": 1767955500.0,
+      "published_iso": "2026-01-09T10:45:00+00:00"
     }
   ]
 }
