@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-01-10T22:40:01.544520+00:00",
+  "updated_iso": "2026-01-10T23:09:08.271208+00:00",
   "count": 4,
   "items": [
+    {
+      "id": "https-latimes-com-sports-rams-live-rams-carolina-panthers-live-updates-watch-start-odds-score-highlights",
+      "title": "Rams vs. Panthers live updates: L.A. clings to lead in second quarter",
+      "link": "https://latimes.com/sports/rams/live/rams-carolina-panthers-live-updates-watch-start-odds-score-highlights",
+      "source": "LA Times",
+      "ts": 1768057320.0,
+      "published_iso": "2026-01-10T15:02:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-puka-nacua-stats-today-rams-222522147-html",
+      "title": "Puka Nacua stats today: Rams star WR turning in big playoff performance vs. Panthers",
+      "link": "https://sports.yahoo.com/articles/puka-nacua-stats-today-rams-222522147.html",
+      "source": "Yahoo Sports",
+      "ts": 1768056960.0,
+      "published_iso": "2026-01-10T14:56:00+00:00"
+    },
     {
       "id": "https-therams-com-video-rams-colby-parkinson-one-handed-catch-15-yard-pickup-against-the-panthers",
       "title": "HIGHLIGHTS: Rams TE Colby Parkinson's one-handed catch yields a 15-yard pickup against the Panthers",
@@ -11,28 +27,12 @@
       "published_iso": "2026-01-10T14:38:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-colby-parkinson-playing-today-why-215828960-html",
-      "title": "Is Colby Parkinson playing today? Why Rams TE is off to slow start in wild-card game",
-      "link": "https://sports.yahoo.com/articles/colby-parkinson-playing-today-why-215828960.html",
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-preparing-lose-202921976-html",
+      "title": "Los Angeles Rams preparing to lose multiple assistant coaches",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-preparing-lose-202921976.html",
       "source": "Yahoo Sports",
-      "ts": 1768054980.0,
-      "published_iso": "2026-01-10T14:23:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-davante-adams-playing-today-why-214416448-html",
-      "title": "Is Davante Adams playing today? Why Rams WR is off to slow start in wild-card game",
-      "link": "https://sports.yahoo.com/articles/davante-adams-playing-today-why-214416448.html",
-      "source": "Yahoo Sports",
-      "ts": 1768053960.0,
-      "published_iso": "2026-01-10T14:06:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend-live",
-      "title": "Panthers vs. Rams live updates: Carolina looks to pull off huge upset of Matthew Stafford and Los Angeles",
-      "link": "https://cbssports.com/nfl/news/panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend/live/",
-      "source": "CBS Sports",
-      "ts": 1768041900.0,
-      "published_iso": "2026-01-10T10:45:00+00:00"
+      "ts": 1768049340.0,
+      "published_iso": "2026-01-10T12:49:00+00:00"
     }
   ]
 }
