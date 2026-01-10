@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-01-10T16:10:23.119921+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-10T16:44:13.775823+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-vs-panthers-predictions-picks-120000895-html",
-      "title": "Rams vs Panthers predictions: Picks, betting odds for NFL Wild Card game",
-      "link": "https://sports.yahoo.com/articles/rams-vs-panthers-predictions-picks-120000895.html",
+      "id": "https-sports-yahoo-com-articles-rams-had-most-tds-negated-162949665-html",
+      "title": "Rams had most TDs negated by penalties in NFL",
+      "link": "https://sports.yahoo.com/articles/rams-had-most-tds-negated-162949665.html",
       "source": "Yahoo Sports",
-      "ts": 1768029420.0,
-      "published_iso": "2026-01-10T07:17:00+00:00"
+      "ts": 1768034580.0,
+      "published_iso": "2026-01-10T08:43:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-carolina-panthers-vs-rams-win-100000288-html",
+      "title": "Carolina Panthers vs. Rams: Who will win NFL playoff game? Our predictions, bets",
+      "link": "https://sports.yahoo.com/articles/carolina-panthers-vs-rams-win-100000288.html",
+      "source": "Yahoo Sports",
+      "ts": 1768033740.0,
+      "published_iso": "2026-01-10T08:29:00+00:00"
     },
     {
       "id": "https-si-com-betting-rams-vs-panthers-final-score-prediction-for-nfl-wild-card-weekend-can-carolina-pull-off-upset",
