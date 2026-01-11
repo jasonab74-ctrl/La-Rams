@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-01-11T16:10:27.083586+00:00",
-  "count": 6,
+  "updated_iso": "2026-01-11T16:44:37.146816+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-cbssports-com-nfl-news-matthew-stafford-injury-update-finger-rams-nfl-playoffs",
-      "title": "X-rays come back negative on Matthew Stafford's injured finger after Rams beat Panthers",
-      "link": "https://cbssports.com/nfl/news/matthew-stafford-injury-update-finger-rams-nfl-playoffs/",
-      "source": "CBS Sports",
-      "ts": 1768117560.0,
-      "published_iso": "2026-01-11T07:46:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25355675-bryce-young-praised-hc-canales-teammates-amid-panthers-contract-rumors-after-",
-      "title": "Bryce Young Praised by HC Canales, Teammates amid Panthers Contract Rumors After Loss to Rams",
-      "link": "https://bleacherreport.com/articles/25355675-bryce-young-praised-hc-canales-teammates-amid-panthers-contract-rumors-after-loss-rams",
-      "source": "Bleacher Report",
-      "ts": 1768116660.0,
-      "published_iso": "2026-01-11T07:31:00+00:00"
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-puka-nacua-talks-massive-performance-wild-card-win",
+      "title": "Rams Puka Nacua Talks Massive Performance in Wild Card Win",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-puka-nacua-talks-massive-performance-wild-card-win",
+      "source": "Sports Illustrated",
+      "ts": 1768120980.0,
+      "published_iso": "2026-01-11T08:43:00+00:00"
     },
     {
       "id": "https-bleacherreport-com-articles-25243969-matthew-stafford-injury-update-latest-rumors-rams-qb-amid-tight-timeline-retu",
@@ -25,30 +17,6 @@
       "source": "Bleacher Report",
       "ts": 1768116300.0,
       "published_iso": "2026-01-11T07:25:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-matthew-stafford-shares-injury-rams-115323351-html",
-      "title": "Matthew Stafford Shares Injury Update After Rams’ Playoff Win",
-      "link": "https://sports.yahoo.com/articles/matthew-stafford-shares-injury-rams-115323351.html",
-      "source": "Yahoo Sports",
-      "ts": 1768115460.0,
-      "published_iso": "2026-01-11T07:11:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-leaders-stepped-up-when-mattered-panthers",
-      "title": "How Rams' Leaders Stepped Up When it Mattered vs. Panthers",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-leaders-stepped-up-when-mattered-panthers",
-      "source": "Sports Illustrated",
-      "ts": 1768111260.0,
-      "published_iso": "2026-01-11T06:01:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-panthers-vs-rams-live-updates-200258278-html",
-      "title": "Los Angeles Rams defeat Carolina Panthers, move on in NFL playoffs",
-      "link": "https://sports.yahoo.com/articles/panthers-vs-rams-live-updates-200258278.html",
-      "source": "Yahoo Sports",
-      "ts": 1768102680.0,
-      "published_iso": "2026-01-11T03:38:00+00:00"
     }
   ]
 }
