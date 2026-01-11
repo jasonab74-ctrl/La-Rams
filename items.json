@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-11T06:51:18.377386+00:00",
-  "count": 5,
+  "updated_iso": "2026-01-11T07:11:55.508108+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-carolina-panthers-ickey-ekwonu-carted-233400979-html",
@@ -11,36 +11,12 @@
       "published_iso": "2026-01-10T22:33:00+00:00"
     },
     {
-      "id": "https-si-com-nfl-rams-onsi-rams-matthew-stafford-talks-game-winning-drive-against-panthers",
-      "title": "Rams Matthew Stafford Talks Game-Winning Drive Against Panthers",
-      "link": "https://si.com/nfl/rams/onsi/rams-matthew-stafford-talks-game-winning-drive-against-panthers",
-      "source": "Sports Illustrated",
-      "ts": 1768080900.0,
-      "published_iso": "2026-01-10T21:35:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-advance-nfc-divisional-round-004929166-html",
-      "title": "Rams advance to NFC Divisional Round after beating Panthers",
-      "link": "https://sports.yahoo.com/articles/rams-advance-nfc-divisional-round-004929166.html",
-      "source": "Yahoo Sports",
-      "ts": 1768080480.0,
-      "published_iso": "2026-01-10T21:28:00+00:00"
-    },
-    {
       "id": "https-si-com-nfl-rams-onsi-rams-sean-mcvay-talks-wild-card-result-against-panthers",
       "title": "Rams Sean McVay Talks Wild Card Result Against Panthers",
       "link": "https://si.com/nfl/rams/onsi/rams-sean-mcvay-talks-wild-card-result-against-panthers",
       "source": "Sports Illustrated",
       "ts": 1768079640.0,
       "published_iso": "2026-01-10T21:14:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-videos-rams-vs-panthers-highlights-wild-card-weekend",
-      "title": "Rams vs. Panthers highlights | Wild Card Weekend",
-      "link": "https://nfl.com/videos/rams-vs-panthers-highlights-wild-card-weekend",
-      "source": "NFL.com",
-      "ts": 1768067820.0,
-      "published_iso": "2026-01-10T17:57:00+00:00"
     }
   ]
 }
