@@ -1,22 +1,22 @@
 {
-  "updated_iso": "2026-01-11T07:11:55.508108+00:00",
+  "updated_iso": "2026-01-11T07:38:00.734816+00:00",
   "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-carolina-panthers-ickey-ekwonu-carted-233400979-html",
-      "title": "Carolina Panthers’ Ickey Ekwonu Carted Off the Field After Brutal Leg Injury in Rams Playoff Game",
-      "link": "https://sports.yahoo.com/articles/carolina-panthers-ickey-ekwonu-carted-233400979.html",
+      "id": "https-sports-yahoo-com-articles-matthew-stafford-battles-not-pleasant-030252466-html",
+      "title": "Matthew Stafford battles through ‘not pleasant’ finger injury in Rams’ latest worry",
+      "link": "https://sports.yahoo.com/articles/matthew-stafford-battles-not-pleasant-030252466.html",
       "source": "Yahoo Sports",
-      "ts": 1768084380.0,
-      "published_iso": "2026-01-10T22:33:00+00:00"
+      "ts": 1768087380.0,
+      "published_iso": "2026-01-10T23:23:00+00:00"
     },
     {
-      "id": "https-si-com-nfl-rams-onsi-rams-sean-mcvay-talks-wild-card-result-against-panthers",
-      "title": "Rams Sean McVay Talks Wild Card Result Against Panthers",
-      "link": "https://si.com/nfl/rams/onsi/rams-sean-mcvay-talks-wild-card-result-against-panthers",
-      "source": "Sports Illustrated",
-      "ts": 1768079640.0,
-      "published_iso": "2026-01-10T21:14:00+00:00"
+      "id": "https-sports-yahoo-com-articles-winners-losers-los-angeles-rams-005156659-html",
+      "title": "Winners, Losers from Los Angeles Rams’ Wild Card Round Win over Carolina Panthers",
+      "link": "https://sports.yahoo.com/articles/winners-losers-los-angeles-rams-005156659.html",
+      "source": "Yahoo Sports",
+      "ts": 1768065480.0,
+      "published_iso": "2026-01-10T17:18:00+00:00"
     }
   ]
 }
