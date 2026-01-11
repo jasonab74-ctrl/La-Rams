@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-01-11T22:40:29.419477+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-11T23:09:13.243320+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-cardinals-request-9th-name-head-210713041-html",
-      "title": "Cardinals request 9th name for head coach interview in Rams’ Mike LaFleur",
-      "link": "https://sports.yahoo.com/articles/cardinals-request-9th-name-head-210713041.html",
-      "source": "Yahoo Sports",
-      "ts": 1768139040.0,
-      "published_iso": "2026-01-11T13:44:00+00:00"
+      "id": "https-cbssports-com-nfl-news-nfl-playoffs-wild-card-weekend-record-three-game-winning-touchdowns",
+      "title": "Bears, Bills and Rams rewrite NFL playoff history with three wild late finishes on Wild Card Weekend",
+      "link": "https://cbssports.com/nfl/news/nfl-playoffs-wild-card-weekend-record-three-game-winning-touchdowns/",
+      "source": "CBS Sports",
+      "ts": 1768143240.0,
+      "published_iso": "2026-01-11T14:54:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-watch-vertical-fmc-icphvzn5qkg15db0",
+      "title": "'Total team effort' Matthew Stafford credits Rams' teammates for late comeback win over Panthers | NFL on FOX",
+      "link": "https://foxsports.com/watch-vertical/fmc-icphvzn5qkg15db0",
+      "source": "FOX Sports",
+      "ts": 1768134720.0,
+      "published_iso": "2026-01-11T12:32:00+00:00"
     },
     {
       "id": "https-nfl-com-news-rams-panthers-on-wild-card-weekend-saturday-what-we-learned-from-los-angeles-34-31-win",
@@ -17,6 +25,14 @@
       "source": "NFL.com",
       "ts": 1768066320.0,
       "published_iso": "2026-01-10T17:32:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend-live",
+      "title": "Rams escape upset-minded Panthers, score late TD to survive and advance to divisional round",
+      "link": "https://cbssports.com/nfl/news/panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend/live/",
+      "source": "CBS Sports",
+      "ts": 1768066020.0,
+      "published_iso": "2026-01-10T17:27:00+00:00"
     }
   ]
 }
