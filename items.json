@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-01-11T05:00:53.565117+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-11T05:44:29.471610+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-si-com-nfl-rams-onsi-rams-matthew-stafford-talks-game-winning-drive-against-panthers",
+      "title": "Rams Matthew Stafford Talks Game-Winning Drive Against Panthers",
+      "link": "https://si.com/nfl/rams/onsi/rams-matthew-stafford-talks-game-winning-drive-against-panthers",
+      "source": "Sports Illustrated",
+      "ts": 1768080900.0,
+      "published_iso": "2026-01-10T21:35:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-rams-sean-mcvay-talks-wild-card-result-against-panthers",
+      "title": "Rams Sean McVay Talks Wild Card Result Against Panthers",
+      "link": "https://si.com/nfl/rams/onsi/rams-sean-mcvay-talks-wild-card-result-against-panthers",
+      "source": "Sports Illustrated",
+      "ts": 1768079640.0,
+      "published_iso": "2026-01-10T21:14:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-davante-adams-says-little-bit-001825414-html",
       "title": "Davante Adams says ‘a little bit of everything’ bloodied by violent hit in Rams-Panthers game",
@@ -17,14 +33,6 @@
       "source": "Yahoo Sports",
       "ts": 1768077300.0,
       "published_iso": "2026-01-10T20:35:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-videos-rams-vs-panthers-highlights-wild-card-weekend",
-      "title": "Rams vs. Panthers highlights | Wild Card Weekend",
-      "link": "https://nfl.com/videos/rams-vs-panthers-highlights-wild-card-weekend",
-      "source": "NFL.com",
-      "ts": 1768067820.0,
-      "published_iso": "2026-01-10T17:57:00+00:00"
     }
   ]
 }
