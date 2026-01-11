@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-01-11T09:10:15.433462+00:00",
-  "count": 6,
+  "updated_iso": "2026-01-11T09:38:50.506711+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-2026-01-10-los-angeles-rams-nfl-playoff-schedule-scenarios-opponent-2026",
-      "title": "When do the Los Angeles Rams play next? NFL playoff schedule, scenarios",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/2026/01/10/los-angeles-rams-nfl-playoff-schedule-scenarios-opponent-2026-postseason-game/88086468007/",
-      "source": "Rams Wire",
-      "ts": 1768092900.0,
-      "published_iso": "2026-01-11T00:55:00+00:00"
+      "id": "https-sports-yahoo-com-articles-panthers-vs-rams-live-updates-200258278-html",
+      "title": "Los Angeles Rams defeat Carolina Panthers, move on in NFL playoffs",
+      "link": "https://sports.yahoo.com/articles/panthers-vs-rams-live-updates-200258278.html",
+      "source": "Yahoo Sports",
+      "ts": 1768095300.0,
+      "published_iso": "2026-01-11T01:35:00+00:00"
     },
     {
       "id": "https-si-com-nfl-rams-onsi-rams-matthew-stafford-talks-game-winning-drive-against-panthers",
@@ -25,22 +25,6 @@
       "source": "Sports Illustrated",
       "ts": 1768091580.0,
       "published_iso": "2026-01-11T00:33:00+00:00"
-    },
-    {
-      "id": "https-apnews-com-article-nfl-wild-card-weekend-fcec51bd8cf91133f368051ff60c3cbe",
-      "title": "Bears and Rams advance to divisional round with comeback wins to open NFL playoffs",
-      "link": "https://apnews.com/article/nfl-wild-card-weekend-fcec51bd8cf91133f368051ff60c3cbe",
-      "source": "AP News",
-      "ts": 1768078860.0,
-      "published_iso": "2026-01-10T21:01:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-videos-rams-vs-panthers-highlights-wild-card-weekend",
-      "title": "Rams vs. Panthers highlights | Wild Card Weekend",
-      "link": "https://nfl.com/videos/rams-vs-panthers-highlights-wild-card-weekend",
-      "source": "NFL.com",
-      "ts": 1768067820.0,
-      "published_iso": "2026-01-10T17:57:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-winners-losers-los-angeles-rams-005156659-html",
