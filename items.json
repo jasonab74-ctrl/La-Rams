@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-11T11:07:41.546029+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-11T11:34:04.773731+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-plaschke-matthew-stafford-proves-hes-110000916-html",
+      "title": "Plaschke: Matthew Stafford proves he's L.A.'s most important athlete in Rams' messy win",
+      "link": "https://sports.yahoo.com/articles/plaschke-matthew-stafford-proves-hes-110000916.html",
+      "source": "Yahoo Sports",
+      "ts": 1768101360.0,
+      "published_iso": "2026-01-11T03:16:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-panthers-vs-rams-live-updates-200258278-html",
       "title": "Los Angeles Rams defeat Carolina Panthers, move on in NFL playoffs",
@@ -19,12 +27,12 @@
       "published_iso": "2026-01-11T00:54:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-winners-losers-los-angeles-rams-005156659-html",
-      "title": "Winners, Losers from Los Angeles Rams’ Wild Card Round Win over Carolina Panthers",
-      "link": "https://sports.yahoo.com/articles/winners-losers-los-angeles-rams-005156659.html",
-      "source": "Yahoo Sports",
-      "ts": 1768065480.0,
-      "published_iso": "2026-01-10T17:18:00+00:00"
+      "id": "https-nfl-com-videos-rams-vs-panthers-highlights-wild-card-weekend",
+      "title": "Rams vs. Panthers highlights | Wild Card Weekend",
+      "link": "https://nfl.com/videos/rams-vs-panthers-highlights-wild-card-weekend",
+      "source": "NFL.com",
+      "ts": 1768067820.0,
+      "published_iso": "2026-01-10T17:57:00+00:00"
     }
   ]
 }
