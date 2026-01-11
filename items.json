@@ -1,5 +1,38 @@
 {
-  "updated_iso": "2026-01-11T13:04:33.935224+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-11T13:44:31.964935+00:00",
+  "count": 4,
+  "items": [
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-puka-nacua-talks-massive-performance-wild-card-win",
+      "title": "Rams Puka Nacua Talks Massive Performance in Wild Card Win",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-puka-nacua-talks-massive-performance-wild-card-win",
+      "source": "Sports Illustrated",
+      "ts": 1768109040.0,
+      "published_iso": "2026-01-11T05:24:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-panthers-vs-rams-live-updates-200258278-html",
+      "title": "Los Angeles Rams defeat Carolina Panthers, move on in NFL playoffs",
+      "link": "https://sports.yahoo.com/articles/panthers-vs-rams-live-updates-200258278.html",
+      "source": "Yahoo Sports",
+      "ts": 1768102680.0,
+      "published_iso": "2026-01-11T03:38:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-rams-matthew-stafford-talks-game-winning-drive-against-panthers",
+      "title": "Rams Matthew Stafford Talks Game-Winning Drive Against Panthers",
+      "link": "https://si.com/nfl/rams/onsi/rams-matthew-stafford-talks-game-winning-drive-against-panthers",
+      "source": "Sports Illustrated",
+      "ts": 1768092840.0,
+      "published_iso": "2026-01-11T00:54:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-game-recap-rams-hang-on-for-34-31-wild-card-playoff-road-win-over-panthers-advance-to-divisional-",
+      "title": "Game Recap: Rams hang on for 34-31 wild card playoff road win over Panthers, advance to divisional round",
+      "link": "https://therams.com/news/game-recap-rams-hang-on-for-34-31-wild-card-playoff-road-win-over-panthers-advance-to-divisional-round",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1768064520.0,
+      "published_iso": "2026-01-10T17:02:00+00:00"
+    }
+  ]
 }
