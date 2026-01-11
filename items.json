@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-11T20:10:27.662480+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-11T20:40:24.115455+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-foxsports-com-watch-vertical-fmc-icphvzn5qkg15db0",
+      "title": "'Total team effort' Matthew Stafford credits Rams' teammates for late comeback win over Panthers | NFL on FOX",
+      "link": "https://foxsports.com/watch-vertical/fmc-icphvzn5qkg15db0",
+      "source": "FOX Sports",
+      "ts": 1768134720.0,
+      "published_iso": "2026-01-11T12:32:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-panthers-retaining-ejiro-evero-dc-183852496-html",
       "title": "Panthers retaining Ejiro Evero as DC despite disastrous final drive in Rams loss",
