@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-11T17:38:10.312054+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-11T18:13:36.445826+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-leaders-stepped-up-when-mattered-panthers",
@@ -11,20 +11,12 @@
       "published_iso": "2026-01-11T09:35:00+00:00"
     },
     {
-      "id": "https-bleacherreport-com-articles-25243969-matthew-stafford-injury-update-latest-rumors-rams-qb-amid-tight-timeline-retu",
-      "title": "Matthew Stafford Injury Update, Latest Rumors on Rams QB amid Tight Timeline to Return amid Playoffs",
-      "link": "https://bleacherreport.com/articles/25243969-matthew-stafford-injury-update-latest-rumors-rams-qb-amid-tight-timeline-return-amid-playoffs",
-      "source": "Bleacher Report",
-      "ts": 1768116300.0,
-      "published_iso": "2026-01-11T07:25:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-news-rams-panthers-on-wild-card-weekend-saturday-what-we-learned-from-los-angeles-34-31-win",
-      "title": "Rams-Panthers on Wild Card Weekend Saturday: What We Learned from Los Angeles' 34-31 win",
-      "link": "https://nfl.com/news/rams-panthers-on-wild-card-weekend-saturday-what-we-learned-from-los-angeles-34-31-win",
-      "source": "NFL.com",
-      "ts": 1768066320.0,
-      "published_iso": "2026-01-10T17:32:00+00:00"
+      "id": "https-sports-yahoo-com-articles-panthers-vs-rams-live-updates-200258278-html",
+      "title": "Los Angeles Rams defeat Carolina Panthers, move on in NFL playoffs",
+      "link": "https://sports.yahoo.com/articles/panthers-vs-rams-live-updates-200258278.html",
+      "source": "Yahoo Sports",
+      "ts": 1768102680.0,
+      "published_iso": "2026-01-11T03:38:00+00:00"
     }
   ]
 }
