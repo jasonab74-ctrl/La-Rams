@@ -1,22 +1,38 @@
 {
-  "updated_iso": "2026-01-11T00:54:10.078136+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-11T03:01:46.710198+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-nfl-live-rams-vs-panthers-wild-card-score-live-updates-la-and-carolina-keep-things-close-heading-",
-      "title": "Rams vs. Panthers wild-card score, live updates: LA and Carolina keep things close heading into fourth quarter",
-      "link": "https://sports.yahoo.com/nfl/live/rams-vs-panthers-wild-card-score-live-updates-la-and-carolina-keep-things-close-heading-into-fourth-quarter-200028594.html",
+      "id": "https-sports-yahoo-com-articles-sean-mcvay-assigns-blame-rams-014432808-html",
+      "title": "Sean McVay Assigns Blame for Rams’ Struggles After Cutting It Close Against the Panthers",
+      "link": "https://sports.yahoo.com/articles/sean-mcvay-assigns-blame-rams-014432808.html",
       "source": "Yahoo Sports",
-      "ts": 1768062900.0,
-      "published_iso": "2026-01-10T16:35:00+00:00"
+      "ts": 1768070640.0,
+      "published_iso": "2026-01-10T18:44:00+00:00"
     },
     {
-      "id": "https-cbssports-com-nfl-news-panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend-live",
-      "title": "Panthers vs. Rams live updates: Carolina looks to pull off huge upset of Matthew Stafford and Los Angeles",
-      "link": "https://cbssports.com/nfl/news/panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend/live/",
-      "source": "CBS Sports",
-      "ts": 1768041900.0,
-      "published_iso": "2026-01-10T10:45:00+00:00"
+      "id": "https-bleacherreport-com-articles-25355449-matthew-stafford-explains-why-he-was-calm-during-rams-game-winning-drive-vs-p",
+      "title": "Matthew Stafford Explains Why He Was 'Calm' During Rams' Game-Winning Drive vs. Panthers",
+      "link": "https://bleacherreport.com/articles/25355449-matthew-stafford-explains-why-he-was-calm-during-rams-game-winning-drive-vs-panthers",
+      "source": "Bleacher Report",
+      "ts": 1768070520.0,
+      "published_iso": "2026-01-10T18:42:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-videos-rams-vs-panthers-highlights-wild-card-weekend",
+      "title": "Rams vs. Panthers highlights | Wild Card Weekend",
+      "link": "https://nfl.com/videos/rams-vs-panthers-highlights-wild-card-weekend",
+      "source": "NFL.com",
+      "ts": 1768067820.0,
+      "published_iso": "2026-01-10T17:57:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-news-rams-panthers-on-wild-card-weekend-saturday-what-we-learned-from-los-angeles-34-31-win",
+      "title": "Rams-Panthers on Wild Card Weekend Saturday: What We Learned from Los Angeles' 34-31 win",
+      "link": "https://nfl.com/news/rams-panthers-on-wild-card-weekend-saturday-what-we-learned-from-los-angeles-34-31-win",
+      "source": "NFL.com",
+      "ts": 1768066320.0,
+      "published_iso": "2026-01-10T17:32:00+00:00"
     }
   ]
 }
