@@ -1,22 +1,22 @@
 {
-  "updated_iso": "2026-01-11T04:30:02.084629+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-11T05:00:53.565117+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-dave-canales-explains-questionable-defense-021918046-html",
-      "title": "Dave Canales explains questionable defense vs. Matthew Stafford on Rams’ go-ahead drive",
-      "link": "https://sports.yahoo.com/articles/dave-canales-explains-questionable-defense-021918046.html",
+      "id": "https-sports-yahoo-com-articles-davante-adams-says-little-bit-001825414-html",
+      "title": "Davante Adams says ‘a little bit of everything’ bloodied by violent hit in Rams-Panthers game",
+      "link": "https://sports.yahoo.com/articles/davante-adams-says-little-bit-001825414.html",
       "source": "Yahoo Sports",
-      "ts": 1768076520.0,
-      "published_iso": "2026-01-10T20:22:00+00:00"
+      "ts": 1768078140.0,
+      "published_iso": "2026-01-10T20:49:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-puka-nacua-drops-potential-second-233922261-html",
-      "title": "Puka Nacua drops potential second touchdown in rough Rams miss",
-      "link": "https://sports.yahoo.com/articles/puka-nacua-drops-potential-second-233922261.html",
+      "id": "https-sports-yahoo-com-articles-why-rams-kobie-turner-wasn-031312082-html",
+      "title": "Why Rams’ Kobie Turner wasn’t worried after Panthers blocked punt led to TD",
+      "link": "https://sports.yahoo.com/articles/why-rams-kobie-turner-wasn-031312082.html",
       "source": "Yahoo Sports",
-      "ts": 1768074960.0,
-      "published_iso": "2026-01-10T19:56:00+00:00"
+      "ts": 1768077300.0,
+      "published_iso": "2026-01-10T20:35:00+00:00"
     },
     {
       "id": "https-nfl-com-videos-rams-vs-panthers-highlights-wild-card-weekend",
@@ -25,14 +25,6 @@
       "source": "NFL.com",
       "ts": 1768067820.0,
       "published_iso": "2026-01-10T17:57:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-news-rams-panthers-on-wild-card-weekend-saturday-what-we-learned-from-los-angeles-34-31-win",
-      "title": "Rams-Panthers on Wild Card Weekend Saturday: What We Learned from Los Angeles' 34-31 win",
-      "link": "https://nfl.com/news/rams-panthers-on-wild-card-weekend-saturday-what-we-learned-from-los-angeles-34-31-win",
-      "source": "NFL.com",
-      "ts": 1768066320.0,
-      "published_iso": "2026-01-10T17:32:00+00:00"
     }
   ]
 }
