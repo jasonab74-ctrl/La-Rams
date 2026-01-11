@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-11T10:09:32.860361+00:00",
-  "count": 5,
+  "updated_iso": "2026-01-11T10:42:07.094975+00:00",
+  "count": 7,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-panthers-vs-rams-live-updates-200258278-html",
@@ -27,6 +27,14 @@
       "published_iso": "2026-01-11T00:33:00+00:00"
     },
     {
+      "id": "https-apnews-com-article-nfl-wild-card-weekend-fcec51bd8cf91133f368051ff60c3cbe",
+      "title": "Bears and Rams advance to divisional round with comeback wins to open NFL playoffs",
+      "link": "https://apnews.com/article/nfl-wild-card-weekend-fcec51bd8cf91133f368051ff60c3cbe",
+      "source": "AP News",
+      "ts": 1768078860.0,
+      "published_iso": "2026-01-10T21:01:00+00:00"
+    },
+    {
       "id": "https-nfl-com-videos-rams-vs-panthers-highlights-wild-card-weekend",
       "title": "Rams vs. Panthers highlights | Wild Card Weekend",
       "link": "https://nfl.com/videos/rams-vs-panthers-highlights-wild-card-weekend",
@@ -41,6 +49,14 @@
       "source": "Yahoo Sports",
       "ts": 1768065480.0,
       "published_iso": "2026-01-10T17:18:00+00:00"
+    },
+    {
+      "id": "https-apnews-com-article-rams-panthers-score-da0a75fa53f976093d0cd72f0d04426d",
+      "title": "Stafford’s late TD pass to Parkinson lifts the Rams past the Panthers 34-31 in the wild-card round",
+      "link": "https://apnews.com/article/rams-panthers-score-da0a75fa53f976093d0cd72f0d04426d",
+      "source": "AP News",
+      "ts": 1768065360.0,
+      "published_iso": "2026-01-10T17:16:00+00:00"
     }
   ]
 }
