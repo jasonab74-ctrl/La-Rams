@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-01-11T15:38:18.208307+00:00",
-  "count": 5,
+  "updated_iso": "2026-01-11T16:10:27.083586+00:00",
+  "count": 6,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-browns-request-interview-rams-nate-152114464-html",
-      "title": "Browns request to interview Rams’ Nate Scheelhaase for head coaching job",
-      "link": "https://sports.yahoo.com/articles/browns-request-interview-rams-nate-152114464.html",
-      "source": "Yahoo Sports",
-      "ts": 1768116780.0,
-      "published_iso": "2026-01-11T07:33:00+00:00"
+      "id": "https-cbssports-com-nfl-news-matthew-stafford-injury-update-finger-rams-nfl-playoffs",
+      "title": "X-rays come back negative on Matthew Stafford's injured finger after Rams beat Panthers",
+      "link": "https://cbssports.com/nfl/news/matthew-stafford-injury-update-finger-rams-nfl-playoffs/",
+      "source": "CBS Sports",
+      "ts": 1768117560.0,
+      "published_iso": "2026-01-11T07:46:00+00:00"
     },
     {
       "id": "https-bleacherreport-com-articles-25355675-bryce-young-praised-hc-canales-teammates-amid-panthers-contract-rumors-after-",
@@ -41,6 +41,14 @@
       "source": "Sports Illustrated",
       "ts": 1768111260.0,
       "published_iso": "2026-01-11T06:01:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-panthers-vs-rams-live-updates-200258278-html",
+      "title": "Los Angeles Rams defeat Carolina Panthers, move on in NFL playoffs",
+      "link": "https://sports.yahoo.com/articles/panthers-vs-rams-live-updates-200258278.html",
+      "source": "Yahoo Sports",
+      "ts": 1768102680.0,
+      "published_iso": "2026-01-11T03:38:00+00:00"
     }
   ]
 }
