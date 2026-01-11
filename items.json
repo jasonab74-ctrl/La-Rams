@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-11T05:44:29.471610+00:00",
+  "updated_iso": "2026-01-11T06:14:58.302366+00:00",
   "count": 4,
   "items": [
+    {
+      "id": "https-cbssports-com-nfl-news-nfl-wild-card-overreactions-matt-lafleur-hot-seat-caleb-williams-clutch-rams-flaws",
+      "title": "NFL wild card overreactions: Is Matt LaFleur on hot seat after Packers' meltdown? Are Rams' flaws fatal?",
+      "link": "https://cbssports.com/nfl/news/nfl-wild-card-overreactions-matt-lafleur-hot-seat-caleb-williams-clutch-rams-flaws/",
+      "source": "CBS Sports",
+      "ts": 1768082520.0,
+      "published_iso": "2026-01-10T22:02:00+00:00"
+    },
     {
       "id": "https-si-com-nfl-rams-onsi-rams-matthew-stafford-talks-game-winning-drive-against-panthers",
       "title": "Rams Matthew Stafford Talks Game-Winning Drive Against Panthers",
@@ -11,28 +19,20 @@
       "published_iso": "2026-01-10T21:35:00+00:00"
     },
     {
+      "id": "https-sports-yahoo-com-articles-rams-advance-nfc-divisional-round-004929166-html",
+      "title": "Rams advance to NFC Divisional Round after beating Panthers",
+      "link": "https://sports.yahoo.com/articles/rams-advance-nfc-divisional-round-004929166.html",
+      "source": "Yahoo Sports",
+      "ts": 1768080480.0,
+      "published_iso": "2026-01-10T21:28:00+00:00"
+    },
+    {
       "id": "https-si-com-nfl-rams-onsi-rams-sean-mcvay-talks-wild-card-result-against-panthers",
       "title": "Rams Sean McVay Talks Wild Card Result Against Panthers",
       "link": "https://si.com/nfl/rams/onsi/rams-sean-mcvay-talks-wild-card-result-against-panthers",
       "source": "Sports Illustrated",
       "ts": 1768079640.0,
       "published_iso": "2026-01-10T21:14:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-davante-adams-says-little-bit-001825414-html",
-      "title": "Davante Adams says ‘a little bit of everything’ bloodied by violent hit in Rams-Panthers game",
-      "link": "https://sports.yahoo.com/articles/davante-adams-says-little-bit-001825414.html",
-      "source": "Yahoo Sports",
-      "ts": 1768078140.0,
-      "published_iso": "2026-01-10T20:49:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-why-rams-kobie-turner-wasn-031312082-html",
-      "title": "Why Rams’ Kobie Turner wasn’t worried after Panthers blocked punt led to TD",
-      "link": "https://sports.yahoo.com/articles/why-rams-kobie-turner-wasn-031312082.html",
-      "source": "Yahoo Sports",
-      "ts": 1768077300.0,
-      "published_iso": "2026-01-10T20:35:00+00:00"
     }
   ]
 }
