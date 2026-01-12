@@ -1,38 +1,14 @@
 {
-  "updated_iso": "2026-01-12T17:13:57.278940+00:00",
-  "count": 7,
+  "updated_iso": "2026-01-12T17:42:29.512363+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-12-rams-injury-updates-kevin-dotson-terrance-ferguson-josh-",
-      "title": "Rams injury updates: Good news on Kevin Dotson, 2 other key players",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/01/12/rams-injury-updates-kevin-dotson-terrance-ferguson-josh-wallace/88143317007/",
-      "source": "Rams Wire",
-      "ts": 1768207260.0,
-      "published_iso": "2026-01-12T08:41:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-bears-have-serious-beef-settle",
-      "title": "The Rams and Bears Have Serious Beef to Settle",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-bears-have-serious-beef-settle",
-      "source": "Sports Illustrated",
-      "ts": 1768204740.0,
-      "published_iso": "2026-01-12T07:59:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-12-rams-bears-preview-divisional-round-playoffs-88141430007",
-      "title": "Initial thoughts on Rams-Bears: LA has an edge, but some causes for concern",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/01/12/rams-bears-preview-divisional-round-playoffs/88141430007/",
-      "source": "Rams Wire",
-      "ts": 1768203360.0,
-      "published_iso": "2026-01-12T07:36:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-piling-in-head-coaching-interview-requests",
-      "title": "The Rams Are Piling In Head Coaching Interview Requests",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-piling-in-head-coaching-interview-requests",
-      "source": "Sports Illustrated",
-      "ts": 1768201200.0,
-      "published_iso": "2026-01-12T07:00:00+00:00"
+      "id": "https-sports-yahoo-com-articles-rams-qb-matthew-stafford-finger-161721184-html",
+      "title": "Rams QB Matthew Stafford’s finger sprain won’t keep him out of Bears game",
+      "link": "https://sports.yahoo.com/articles/rams-qb-matthew-stafford-finger-161721184.html",
+      "source": "Yahoo Sports",
+      "ts": 1768210620.0,
+      "published_iso": "2026-01-12T09:37:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-panthers-vs-rams-live-updates-200258278-html",
@@ -41,22 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1768198920.0,
       "published_iso": "2026-01-12T06:22:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-nfl-playoff-predictions-4-projections-133717887-html",
-      "title": "NFL Playoff Predictions: 4 Projections for Los Angeles Rams vs Chicago Bears",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-predictions-4-projections-133717887.html",
-      "source": "Yahoo Sports",
-      "ts": 1768198020.0,
-      "published_iso": "2026-01-12T06:07:00+00:00"
-    },
-    {
-      "id": "https-latimes-com-sports-rams-story-2026-01-12-10-greatest-moments-in-rams-history-since-their-return-to-la",
-      "title": "The 10 greatest moments in Rams history since their return to L.A.",
-      "link": "https://latimes.com/sports/rams/story/2026-01-12/10-greatest-moments-in-rams-history-since-their-return-to-la",
-      "source": "LA Times",
-      "ts": 1768187700.0,
-      "published_iso": "2026-01-12T03:15:00+00:00"
     }
   ]
 }
