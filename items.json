@@ -1,30 +1,5 @@
 {
-  "updated_iso": "2026-01-12T05:02:50.673077+00:00",
-  "count": 3,
-  "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-panthers-vs-rams-live-updates-200258278-html",
-      "title": "Los Angeles Rams defeat Carolina Panthers, move on in NFL playoffs",
-      "link": "https://sports.yahoo.com/articles/panthers-vs-rams-live-updates-200258278.html",
-      "source": "Yahoo Sports",
-      "ts": 1768154220.0,
-      "published_iso": "2026-01-11T17:57:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-articles-nfl-patriots-49ers-bills-bears-and-rams-advance-to-nfls-divisional-round",
-      "title": "Patriots, 49ers, Bills, Bears and Rams advance to NFL's divisional round",
-      "link": "https://foxsports.com/articles/nfl/patriots-49ers-bills-bears-and-rams-advance-to-nfls-divisional-round",
-      "source": "FOX Sports",
-      "ts": 1768145580.0,
-      "published_iso": "2026-01-11T15:33:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend-live",
-      "title": "Rams escape upset-minded Panthers, score late TD to survive and advance to divisional round",
-      "link": "https://cbssports.com/nfl/news/panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend/live/",
-      "source": "CBS Sports",
-      "ts": 1768066020.0,
-      "published_iso": "2026-01-10T17:27:00+00:00"
-    }
-  ]
+  "updated_iso": "2026-01-12T05:49:10.842084+00:00",
+  "count": 0,
+  "items": []
 }
