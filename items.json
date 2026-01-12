@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-12T11:11:06.924316+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-12T11:38:52.767160+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-latimes-com-sports-rams-story-2026-01-12-10-greatest-moments-in-rams-history-since-their-return-to-la",
+      "title": "The 10 greatest moments in Rams history since their return to L.A.",
+      "link": "https://latimes.com/sports/rams/story/2026-01-12/10-greatest-moments-in-rams-history-since-their-return-to-la",
+      "source": "LA Times",
+      "ts": 1768187700.0,
+      "published_iso": "2026-01-12T03:15:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-panthers-vs-rams-live-updates-200258278-html",
       "title": "Los Angeles Rams defeat Carolina Panthers, move on in NFL playoffs",
