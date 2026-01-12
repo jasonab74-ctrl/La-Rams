@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-12T14:50:00.903361+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-12T15:46:32.789300+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-panthers-vs-rams-live-updates-200258278-html",
@@ -17,6 +17,14 @@
       "source": "Yahoo Sports",
       "ts": 1768198020.0,
       "published_iso": "2026-01-12T06:07:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-to-face-bears-in-divisional-round-of-playoffs-2025",
+      "title": "Rams to face Bears in Divisional Round of playoffs",
+      "link": "https://therams.com/news/rams-to-face-bears-in-divisional-round-of-playoffs-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1768150200.0,
+      "published_iso": "2026-01-11T16:50:00+00:00"
     }
   ]
 }
