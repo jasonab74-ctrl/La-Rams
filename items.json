@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-01-12T17:42:29.512363+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-12T18:15:39.835179+00:00",
+  "count": 1,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-rams-qb-matthew-stafford-finger-161721184-html",
-      "title": "Rams QB Matthew Stafford’s finger sprain won’t keep him out of Bears game",
-      "link": "https://sports.yahoo.com/articles/rams-qb-matthew-stafford-finger-161721184.html",
-      "source": "Yahoo Sports",
-      "ts": 1768210620.0,
-      "published_iso": "2026-01-12T09:37:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-panthers-vs-rams-live-updates-200258278-html",
       "title": "Los Angeles Rams defeat Carolina Panthers, move on in NFL playoffs",
       "link": "https://sports.yahoo.com/articles/panthers-vs-rams-live-updates-200258278.html",
       "source": "Yahoo Sports",
-      "ts": 1768198920.0,
-      "published_iso": "2026-01-12T06:22:00+00:00"
+      "ts": 1768210920.0,
+      "published_iso": "2026-01-12T09:42:00+00:00"
     }
   ]
 }
