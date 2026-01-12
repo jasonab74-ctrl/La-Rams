@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-01-12T23:07:59.643387+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-12T23:32:52.928119+00:00",
+  "count": 6,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-much-cheapest-bears-rams-nfl-170245750-html",
-      "title": "How much are the cheapest Bears-Rams NFL Playoffs Divisional Round tickets?",
-      "link": "https://sports.yahoo.com/articles/much-cheapest-bears-rams-nfl-170245750.html",
-      "source": "Yahoo Sports",
-      "ts": 1768226520.0,
-      "published_iso": "2026-01-12T14:02:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-matthew-stafford-injury-update-finger-rams-nfl-playoffs",
-      "title": "Matthew Stafford injury update: Rams QB has sprained right index finger, but expected to play vs. Bears",
-      "link": "https://cbssports.com/nfl/news/matthew-stafford-injury-update-finger-rams-nfl-playoffs/",
-      "source": "CBS Sports",
-      "ts": 1768225920.0,
-      "published_iso": "2026-01-12T13:52:00+00:00"
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-list-whose-contracts-expire-after-the-season",
+      "title": "Full List of Rams Whose Contracts Expire After The Season",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-list-whose-contracts-expire-after-the-season",
+      "source": "Sports Illustrated",
+      "ts": 1768230420.0,
+      "published_iso": "2026-01-12T15:07:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-12-former-matthew-stafford-teammate-proposes-new-nickname-f",
@@ -27,12 +19,36 @@
       "published_iso": "2026-01-12T13:34:00+00:00"
     },
     {
+      "id": "https-apnews-com-article-la-rams-playoffs-ac6fb041f6ef3656a512029683e8e427",
+      "title": "Rams showed their vulnerabilities, but also their resilience in closer-than-expected playoff opener",
+      "link": "https://apnews.com/article/la-rams-playoffs-ac6fb041f6ef3656a512029683e8e427",
+      "source": "AP News",
+      "ts": 1768219620.0,
+      "published_iso": "2026-01-12T12:07:00+00:00"
+    },
+    {
       "id": "https-sports-yahoo-com-articles-panthers-vs-rams-live-updates-200258278-html",
       "title": "Los Angeles Rams defeat Carolina Panthers, move on in NFL playoffs",
       "link": "https://sports.yahoo.com/articles/panthers-vs-rams-live-updates-200258278.html",
       "source": "Yahoo Sports",
       "ts": 1768210920.0,
       "published_iso": "2026-01-12T09:42:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-nfl-playoff-predictions-4-projections-133717887-html",
+      "title": "NFL Playoff Predictions: 4 Projections for Los Angeles Rams vs Chicago Bears",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-predictions-4-projections-133717887.html",
+      "source": "Yahoo Sports",
+      "ts": 1768198020.0,
+      "published_iso": "2026-01-12T06:07:00+00:00"
+    },
+    {
+      "id": "https-latimes-com-sports-rams-story-2026-01-12-10-greatest-moments-in-rams-history-since-their-return-to-la",
+      "title": "The 10 greatest moments in Rams history since their return to L.A.",
+      "link": "https://latimes.com/sports/rams/story/2026-01-12/10-greatest-moments-in-rams-history-since-their-return-to-la",
+      "source": "LA Times",
+      "ts": 1768187700.0,
+      "published_iso": "2026-01-12T03:15:00+00:00"
     }
   ]
 }
