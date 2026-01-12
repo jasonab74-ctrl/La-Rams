@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-12T16:14:43.182280+00:00",
+  "updated_iso": "2026-01-12T16:49:56.305646+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-starting-cb-goes-back-161948276-html",
+      "title": "Rams starting CB goes back on injured reserve",
+      "link": "https://sports.yahoo.com/articles/rams-starting-cb-goes-back-161948276.html",
+      "source": "Yahoo Sports",
+      "ts": 1768206600.0,
+      "published_iso": "2026-01-12T08:30:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-panthers-vs-rams-live-updates-200258278-html",
       "title": "Los Angeles Rams defeat Carolina Panthers, move on in NFL playoffs",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1768198920.0,
       "published_iso": "2026-01-12T06:22:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-to-face-bears-in-divisional-round-of-playoffs-2025",
-      "title": "Rams to face Bears in Divisional Round of playoffs",
-      "link": "https://therams.com/news/rams-to-face-bears-in-divisional-round-of-playoffs-2025",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1768150200.0,
-      "published_iso": "2026-01-11T16:50:00+00:00"
     }
   ]
 }
