@@ -1,38 +1,5 @@
 {
-  "updated_iso": "2026-01-12T11:38:52.767160+00:00",
-  "count": 4,
-  "items": [
-    {
-      "id": "https-latimes-com-sports-rams-story-2026-01-12-10-greatest-moments-in-rams-history-since-their-return-to-la",
-      "title": "The 10 greatest moments in Rams history since their return to L.A.",
-      "link": "https://latimes.com/sports/rams/story/2026-01-12/10-greatest-moments-in-rams-history-since-their-return-to-la",
-      "source": "LA Times",
-      "ts": 1768187700.0,
-      "published_iso": "2026-01-12T03:15:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-panthers-vs-rams-live-updates-200258278-html",
-      "title": "Los Angeles Rams defeat Carolina Panthers, move on in NFL playoffs",
-      "link": "https://sports.yahoo.com/articles/panthers-vs-rams-live-updates-200258278.html",
-      "source": "Yahoo Sports",
-      "ts": 1768169880.0,
-      "published_iso": "2026-01-11T22:18:00+00:00"
-    },
-    {
-      "id": "https-yahoo-com-news-videos-bears-face-rams-divisional-round-043426632-html",
-      "title": "Bears to face Rams in divisional round of NFL playoffs",
-      "link": "https://yahoo.com/news/videos/bears-face-rams-divisional-round-043426632.html",
-      "source": "Yahoo",
-      "ts": 1768166880.0,
-      "published_iso": "2026-01-11T21:28:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend-live",
-      "title": "Rams escape upset-minded Panthers, score late TD to survive and advance to divisional round",
-      "link": "https://cbssports.com/nfl/news/panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend/live/",
-      "source": "CBS Sports",
-      "ts": 1768066020.0,
-      "published_iso": "2026-01-10T17:27:00+00:00"
-    }
-  ]
+  "updated_iso": "2026-01-12T12:20:52.367085+00:00",
+  "count": 0,
+  "items": []
 }
