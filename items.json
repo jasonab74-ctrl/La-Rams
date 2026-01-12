@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-01-12T06:19:16.843866+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-12T06:57:55.775229+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-continue-win-without-first-000803492-html",
-      "title": "Rams Continue to Win Without First-Round Draft Picks",
-      "link": "https://sports.yahoo.com/articles/rams-continue-win-without-first-000803492.html",
+      "id": "https-sports-yahoo-com-articles-panthers-vs-rams-live-updates-200258278-html",
+      "title": "Los Angeles Rams defeat Carolina Panthers, move on in NFL playoffs",
+      "link": "https://sports.yahoo.com/articles/panthers-vs-rams-live-updates-200258278.html",
       "source": "Yahoo Sports",
-      "ts": 1768159740.0,
-      "published_iso": "2026-01-11T19:29:00+00:00"
+      "ts": 1768169880.0,
+      "published_iso": "2026-01-11T22:18:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-videos-bears-face-rams-divisional-round-043426632-html",
+      "title": "Bears to face Rams in divisional round of NFL playoffs",
+      "link": "https://yahoo.com/news/videos/bears-face-rams-divisional-round-043426632.html",
+      "source": "Yahoo",
+      "ts": 1768166880.0,
+      "published_iso": "2026-01-11T21:28:00+00:00"
     }
   ]
 }
