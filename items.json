@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-01-13T16:16:09.690677+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-13T16:54:01.341203+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-cbssports-com-nfl-news-nfl-super-bowl-odds-update-seahawks-rams-still-on-top-afc-sees-shakeup-entering-divisional-",
+      "title": "NFL Super Bowl odds update: Seahawks, Rams still on top, AFC sees shakeup entering Divisional Round",
+      "link": "https://cbssports.com/nfl/news/nfl-super-bowl-odds-update-seahawks-rams-still-on-top-afc-sees-shakeup-entering-divisional-round/",
+      "source": "CBS Sports",
+      "ts": 1768293900.0,
+      "published_iso": "2026-01-13T08:45:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-news-matthew-stafford-not-worried-at-all-injured-finger-rams-bears-divisional-round",
+      "title": "Matthew Stafford 'not worried at all' about injured finger ahead of Rams' bout with Bears",
+      "link": "https://nfl.com/news/matthew-stafford-not-worried-at-all-injured-finger-rams-bears-divisional-round",
+      "source": "NFL.com",
+      "ts": 1768281060.0,
+      "published_iso": "2026-01-13T05:11:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-panthers-vs-rams-live-updates-200258278-html",
       "title": "Los Angeles Rams defeat Carolina Panthers, move on in NFL playoffs",
