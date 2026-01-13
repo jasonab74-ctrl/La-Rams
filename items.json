@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-13T18:51:26.679779+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-13T19:12:05.145226+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-si-com-betting-rams-vs-bears-prediction-odds-spread-injuries-trends-for-nfl-divisional-round",
@@ -9,6 +9,14 @@
       "source": "Sports Illustrated",
       "ts": 1768294800.0,
       "published_iso": "2026-01-13T09:00:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-panthers-vs-rams-live-updates-200258278-html",
+      "title": "Los Angeles Rams defeat Carolina Panthers, move on in NFL playoffs",
+      "link": "https://sports.yahoo.com/articles/panthers-vs-rams-live-updates-200258278.html",
+      "source": "Yahoo Sports",
+      "ts": 1768272240.0,
+      "published_iso": "2026-01-13T02:44:00+00:00"
     }
   ]
 }
