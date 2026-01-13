@@ -1,5 +1,46 @@
 {
-  "updated_iso": "2026-01-13T06:54:01.419029+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-13T07:15:39.621632+00:00",
+  "count": 5,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-nfl-divisional-playoff-schedule-rams-044718890-html",
+      "title": "NFL Divisional Playoff Schedule: Rams at Bears on Sunday at 5:30 p.m. CT",
+      "link": "https://sports.yahoo.com/articles/nfl-divisional-playoff-schedule-rams-044718890.html",
+      "source": "Yahoo Sports",
+      "ts": 1768251540.0,
+      "published_iso": "2026-01-12T20:59:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-sean-mcvay-celebrates-historic-anniversary",
+      "title": "Sean McVay Celebrates Historic Anniversary With Rams",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-sean-mcvay-celebrates-historic-anniversary",
+      "source": "Sports Illustrated",
+      "ts": 1768248000.0,
+      "published_iso": "2026-01-12T20:00:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-panthers-vs-rams-live-updates-200258278-html",
+      "title": "Los Angeles Rams defeat Carolina Panthers, move on in NFL playoffs",
+      "link": "https://sports.yahoo.com/articles/panthers-vs-rams-live-updates-200258278.html",
+      "source": "Yahoo Sports",
+      "ts": 1768247640.0,
+      "published_iso": "2026-01-12T19:54:00+00:00"
+    },
+    {
+      "id": "https-apnews-com-article-la-rams-playoffs-ac6fb041f6ef3656a512029683e8e427",
+      "title": "Rams showed their vulnerabilities, but also their resilience in closer-than-expected playoff opener",
+      "link": "https://apnews.com/article/la-rams-playoffs-ac6fb041f6ef3656a512029683e8e427",
+      "source": "AP News",
+      "ts": 1768219620.0,
+      "published_iso": "2026-01-12T12:07:00+00:00"
+    },
+    {
+      "id": "https-latimes-com-sports-rams-story-2026-01-12-10-greatest-moments-in-rams-history-since-their-return-to-la",
+      "title": "The 10 greatest moments in Rams history since their return to L.A.",
+      "link": "https://latimes.com/sports/rams/story/2026-01-12/10-greatest-moments-in-rams-history-since-their-return-to-la",
+      "source": "LA Times",
+      "ts": 1768187700.0,
+      "published_iso": "2026-01-12T03:15:00+00:00"
+    }
+  ]
 }
