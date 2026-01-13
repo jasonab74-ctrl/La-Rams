@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-13T04:31:37.651509+00:00",
+  "updated_iso": "2026-01-13T05:16:33.203073+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-nfl-divisional-playoff-schedule-rams-044718890-html",
+      "title": "NFL Divisional Playoff Schedule: Rams at Bears on Sunday at 5:30 p.m. CT",
+      "link": "https://sports.yahoo.com/articles/nfl-divisional-playoff-schedule-rams-044718890.html",
+      "source": "Yahoo Sports",
+      "ts": 1768251540.0,
+      "published_iso": "2026-01-12T20:59:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-panthers-vs-rams-live-updates-200258278-html",
       "title": "Los Angeles Rams defeat Carolina Panthers, move on in NFL playoffs",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1768247640.0,
       "published_iso": "2026-01-12T19:54:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-nfl-playoff-predictions-4-projections-133717887-html",
-      "title": "NFL Playoff Predictions: 4 Projections for Los Angeles Rams vs Chicago Bears",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-predictions-4-projections-133717887.html",
-      "source": "Yahoo Sports",
-      "ts": 1768198020.0,
-      "published_iso": "2026-01-12T06:07:00+00:00"
     }
   ]
 }
