@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-13T09:46:36.721878+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-13T10:11:41.162362+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-watch-chicago-bears-vs-los-041855962-html",
@@ -17,6 +17,14 @@
       "source": "Yahoo Sports",
       "ts": 1768247640.0,
       "published_iso": "2026-01-12T19:54:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend-live",
+      "title": "Rams escape upset-minded Panthers, score late TD to survive and advance to divisional round",
+      "link": "https://cbssports.com/nfl/news/panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend/live/",
+      "source": "CBS Sports",
+      "ts": 1768066020.0,
+      "published_iso": "2026-01-10T17:27:00+00:00"
     }
   ]
 }
