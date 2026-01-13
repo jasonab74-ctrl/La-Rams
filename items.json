@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-13T21:09:57.012092+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-13T21:40:04.992747+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-watch-rams-safety-quentin-lake-211751204-html",
+      "title": "Watch: Rams safety Quentin Lake mic'd for postseason return",
+      "link": "https://sports.yahoo.com/articles/watch-rams-safety-quentin-lake-211751204.html",
+      "source": "Yahoo Sports",
+      "ts": 1768311360.0,
+      "published_iso": "2026-01-13T13:36:00+00:00"
+    },
     {
       "id": "https-yahoo-com-news-videos-bears-vs-rams-expect-204036147-html",
       "title": "Bears vs. Rams: What to expect",
