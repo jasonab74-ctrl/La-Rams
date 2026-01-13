@@ -1,38 +1,14 @@
 {
-  "updated_iso": "2026-01-13T10:46:45.061576+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-13T11:10:29.118028+00:00",
+  "count": 1,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-watch-chicago-bears-vs-los-041855962-html",
-      "title": "How to watch Chicago Bears vs. Los Angeles Rams: NFC Divisional Round TV channel, live stream info, start time",
-      "link": "https://sports.yahoo.com/articles/watch-chicago-bears-vs-los-041855962.html",
-      "source": "Yahoo Sports",
-      "ts": 1768265100.0,
-      "published_iso": "2026-01-13T00:45:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-panthers-vs-rams-live-updates-200258278-html",
       "title": "Los Angeles Rams defeat Carolina Panthers, move on in NFL playoffs",
       "link": "https://sports.yahoo.com/articles/panthers-vs-rams-live-updates-200258278.html",
       "source": "Yahoo Sports",
-      "ts": 1768247640.0,
-      "published_iso": "2026-01-12T19:54:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-matthew-stafford-injury-update-finger-rams-nfl-playoffs",
-      "title": "Matthew Stafford injury update: Rams QB has sprained right index finger, but expected to play vs. Bears",
-      "link": "https://cbssports.com/nfl/news/matthew-stafford-injury-update-finger-rams-nfl-playoffs/",
-      "source": "CBS Sports",
-      "ts": 1768225920.0,
-      "published_iso": "2026-01-12T13:52:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend-live",
-      "title": "Rams escape upset-minded Panthers, score late TD to survive and advance to divisional round",
-      "link": "https://cbssports.com/nfl/news/panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend/live/",
-      "source": "CBS Sports",
-      "ts": 1768066020.0,
-      "published_iso": "2026-01-10T17:27:00+00:00"
+      "ts": 1768272240.0,
+      "published_iso": "2026-01-13T02:44:00+00:00"
     }
   ]
 }
