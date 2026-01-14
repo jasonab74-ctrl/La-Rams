@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-14T16:14:58.010269+00:00",
-  "count": 5,
+  "updated_iso": "2026-01-14T16:53:25.059662+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-browns-raiders-titans-predicted-clean-155434950-html",
@@ -9,38 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1768378380.0,
       "published_iso": "2026-01-14T08:13:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-bad-news-regarding-matthew-154037502-html",
-      "title": "Rams get bad news regarding Matthew Stafford before coldest playoff game",
-      "link": "https://sports.yahoo.com/articles/rams-bad-news-regarding-matthew-154037502.html",
-      "source": "Yahoo Sports",
-      "ts": 1768378200.0,
-      "published_iso": "2026-01-14T08:10:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-single-move-saved-season",
-      "title": "One Single Move Has Saved the Rams' Season",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-single-move-saved-season",
-      "source": "Sports Illustrated",
-      "ts": 1768377600.0,
-      "published_iso": "2026-01-14T08:00:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-14-rams-davante-adams-puka-nacua-teammates-stay-la-88176011",
-      "title": "Davante Adams' advice to Puka Nacua, teammates: Do whatever you can to stay with Rams",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/01/14/rams-davante-adams-puka-nacua-teammates-stay-la/88176011007/",
-      "source": "Rams Wire",
-      "ts": 1768376580.0,
-      "published_iso": "2026-01-14T07:43:00+00:00"
-    },
-    {
-      "id": "https-apnews-com-article-la-rams-playoffs-ac6fb041f6ef3656a512029683e8e427",
-      "title": "Rams showed their vulnerabilities, but also their resilience in closer-than-expected playoff opener",
-      "link": "https://apnews.com/article/la-rams-playoffs-ac6fb041f6ef3656a512029683e8e427",
-      "source": "AP News",
-      "ts": 1768219620.0,
-      "published_iso": "2026-01-12T12:07:00+00:00"
     }
   ]
 }
