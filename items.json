@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-01-14T18:16:57.431077+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-14T18:54:11.419200+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-matthew-stafford-announces-double-173953847-html",
+      "title": "Rams’ Matthew Stafford Announces Double Injury News Before Playoff Game vs. Bears",
+      "link": "https://sports.yahoo.com/articles/rams-matthew-stafford-announces-double-173953847.html",
+      "source": "Yahoo Sports",
+      "ts": 1768387260.0,
+      "published_iso": "2026-01-14T10:41:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-videos-rams-vs-bears-preview-nfc-divisional-round",
+      "title": "Rams vs. Bears preview | NFC Divisional Round",
+      "link": "https://nfl.com/videos/rams-vs-bears-preview-nfc-divisional-round",
+      "source": "NFL.com",
+      "ts": 1768385880.0,
+      "published_iso": "2026-01-14T10:18:00+00:00"
+    }
+  ]
 }
