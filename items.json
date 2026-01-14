@@ -1,23 +1,7 @@
 {
-  "updated_iso": "2026-01-14T17:17:40.289196+00:00",
-  "count": 5,
+  "updated_iso": "2026-01-14T17:47:35.711944+00:00",
+  "count": 1,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-rams-avoid-comeback-against-bears-165512558-html",
-      "title": "How can Rams avoid a comeback against the Bears?",
-      "link": "https://sports.yahoo.com/articles/rams-avoid-comeback-against-bears-165512558.html",
-      "source": "Yahoo Sports",
-      "ts": 1768381500.0,
-      "published_iso": "2026-01-14T09:05:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-betting-news-nfl-predictions-rams-vs-bears-among-best-spread-picks-you-can-make-for-divisional-playo",
-      "title": "NFL predictions: Rams vs. Bears among best spread picks you can make for Divisional Playoffs",
-      "link": "https://cbssports.com/betting/news/nfl-predictions-rams-vs-bears-among-best-spread-picks-you-can-make-for-divisional-playoffs/",
-      "source": "CBS Sports",
-      "ts": 1768381080.0,
-      "published_iso": "2026-01-14T08:58:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-browns-raiders-titans-predicted-clean-155434950-html",
       "title": "Browns, Raiders, Titans predicted to clean out Rams' staff with head coach hires",
@@ -25,22 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1768378380.0,
       "published_iso": "2026-01-14T08:13:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-14-rams-davante-adams-puka-nacua-teammates-stay-la-88176011",
-      "title": "Davante Adams' advice to Puka Nacua, teammates: Do whatever you can to stay with Rams",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/01/14/rams-davante-adams-puka-nacua-teammates-stay-la/88176011007/",
-      "source": "Rams Wire",
-      "ts": 1768376580.0,
-      "published_iso": "2026-01-14T07:43:00+00:00"
-    },
-    {
-      "id": "https-apnews-com-article-la-rams-playoffs-ac6fb041f6ef3656a512029683e8e427",
-      "title": "Rams showed their vulnerabilities, but also their resilience in closer-than-expected playoff opener",
-      "link": "https://apnews.com/article/la-rams-playoffs-ac6fb041f6ef3656a512029683e8e427",
-      "source": "AP News",
-      "ts": 1768219620.0,
-      "published_iso": "2026-01-12T12:07:00+00:00"
     }
   ]
 }
