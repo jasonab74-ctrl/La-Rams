@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-14T18:54:11.419200+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-14T19:10:22.111015+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-si-com-nfl-bears-onsi-news-rams-wr-davante-adams-does-not-want-to-play-in-bear-weather-this-weekend",
+      "title": "Rams WR Davante Adams does NOT want to play in ‘Bear Weather’ this weekend",
+      "link": "https://si.com/nfl/bears/onsi/news/rams-wr-davante-adams-does-not-want-to-play-in-bear-weather-this-weekend",
+      "source": "Sports Illustrated",
+      "ts": 1768387920.0,
+      "published_iso": "2026-01-14T10:52:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-matthew-stafford-announces-double-173953847-html",
       "title": "Rams’ Matthew Stafford Announces Double Injury News Before Playoff Game vs. Bears",
