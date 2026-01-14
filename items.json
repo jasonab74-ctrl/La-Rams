@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2026-01-14T15:14:26.182912+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-14T15:42:57.247863+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-panthers-vs-rams-live-updates-200258278-html",
+      "title": "Los Angeles Rams defeat Carolina Panthers, move on in NFL playoffs",
+      "link": "https://sports.yahoo.com/articles/panthers-vs-rams-live-updates-200258278.html",
+      "source": "Yahoo Sports",
+      "ts": 1768272240.0,
+      "published_iso": "2026-01-13T02:44:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-nfl-playoff-predictions-4-projections-133717887-html",
+      "title": "NFL Playoff Predictions: 4 Projections for Los Angeles Rams vs Chicago Bears",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-predictions-4-projections-133717887.html",
+      "source": "Yahoo Sports",
+      "ts": 1768198020.0,
+      "published_iso": "2026-01-12T06:07:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend-live",
+      "title": "Rams escape upset-minded Panthers, score late TD to survive and advance to divisional round",
+      "link": "https://cbssports.com/nfl/news/panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend/live/",
+      "source": "CBS Sports",
+      "ts": 1768066020.0,
+      "published_iso": "2026-01-10T17:27:00+00:00"
+    }
+  ]
 }
