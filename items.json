@@ -1,30 +1,46 @@
 {
-  "updated_iso": "2026-01-14T15:42:57.247863+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-14T16:14:58.010269+00:00",
+  "count": 5,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-panthers-vs-rams-live-updates-200258278-html",
-      "title": "Los Angeles Rams defeat Carolina Panthers, move on in NFL playoffs",
-      "link": "https://sports.yahoo.com/articles/panthers-vs-rams-live-updates-200258278.html",
+      "id": "https-sports-yahoo-com-articles-browns-raiders-titans-predicted-clean-155434950-html",
+      "title": "Browns, Raiders, Titans predicted to clean out Rams' staff with head coach hires",
+      "link": "https://sports.yahoo.com/articles/browns-raiders-titans-predicted-clean-155434950.html",
       "source": "Yahoo Sports",
-      "ts": 1768272240.0,
-      "published_iso": "2026-01-13T02:44:00+00:00"
+      "ts": 1768378380.0,
+      "published_iso": "2026-01-14T08:13:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-nfl-playoff-predictions-4-projections-133717887-html",
-      "title": "NFL Playoff Predictions: 4 Projections for Los Angeles Rams vs Chicago Bears",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-predictions-4-projections-133717887.html",
+      "id": "https-sports-yahoo-com-articles-rams-bad-news-regarding-matthew-154037502-html",
+      "title": "Rams get bad news regarding Matthew Stafford before coldest playoff game",
+      "link": "https://sports.yahoo.com/articles/rams-bad-news-regarding-matthew-154037502.html",
       "source": "Yahoo Sports",
-      "ts": 1768198020.0,
-      "published_iso": "2026-01-12T06:07:00+00:00"
+      "ts": 1768378200.0,
+      "published_iso": "2026-01-14T08:10:00+00:00"
     },
     {
-      "id": "https-cbssports-com-nfl-news-panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend-live",
-      "title": "Rams escape upset-minded Panthers, score late TD to survive and advance to divisional round",
-      "link": "https://cbssports.com/nfl/news/panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend/live/",
-      "source": "CBS Sports",
-      "ts": 1768066020.0,
-      "published_iso": "2026-01-10T17:27:00+00:00"
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-single-move-saved-season",
+      "title": "One Single Move Has Saved the Rams' Season",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-single-move-saved-season",
+      "source": "Sports Illustrated",
+      "ts": 1768377600.0,
+      "published_iso": "2026-01-14T08:00:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-14-rams-davante-adams-puka-nacua-teammates-stay-la-88176011",
+      "title": "Davante Adams' advice to Puka Nacua, teammates: Do whatever you can to stay with Rams",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/01/14/rams-davante-adams-puka-nacua-teammates-stay-la/88176011007/",
+      "source": "Rams Wire",
+      "ts": 1768376580.0,
+      "published_iso": "2026-01-14T07:43:00+00:00"
+    },
+    {
+      "id": "https-apnews-com-article-la-rams-playoffs-ac6fb041f6ef3656a512029683e8e427",
+      "title": "Rams showed their vulnerabilities, but also their resilience in closer-than-expected playoff opener",
+      "link": "https://apnews.com/article/la-rams-playoffs-ac6fb041f6ef3656a512029683e8e427",
+      "source": "AP News",
+      "ts": 1768219620.0,
+      "published_iso": "2026-01-12T12:07:00+00:00"
     }
   ]
 }
