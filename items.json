@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-14T22:44:05.526460+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-14T23:09:30.903178+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-steelers-request-head-coach-interview-193820557-html",
+      "title": "Steelers Request Head Coach Interview with Rising Rams DC",
+      "link": "https://sports.yahoo.com/articles/steelers-request-head-coach-interview-193820557.html",
+      "source": "Yahoo Sports",
+      "ts": 1768398960.0,
+      "published_iso": "2026-01-14T13:56:00+00:00"
+    },
     {
       "id": "https-nfl-com-videos-get-ready-for-rams-bears-divisional-playoffs",
       "title": "Get ready for Rams-Bears | Divisional Playoffs",
@@ -9,6 +17,14 @@
       "source": "NFL.com",
       "ts": 1768394100.0,
       "published_iso": "2026-01-14T12:35:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-chicago-bears-how-to-watch-listen-to-and-live-stream-the-divisional-round-202",
+      "title": "Los Angeles Rams at Chicago Bears: How to watch, listen to and live stream the divisional round",
+      "link": "https://therams.com/news/los-angeles-rams-at-chicago-bears-how-to-watch-listen-to-and-live-stream-the-divisional-round-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1768390380.0,
+      "published_iso": "2026-01-14T11:33:00+00:00"
     }
   ]
 }
