@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-14T13:12:13.530834+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-14T13:54:28.149753+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-panthers-vs-rams-live-updates-200258278-html",
@@ -9,6 +9,14 @@
       "source": "Yahoo Sports",
       "ts": 1768272240.0,
       "published_iso": "2026-01-13T02:44:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-nfl-playoff-predictions-4-projections-133717887-html",
+      "title": "NFL Playoff Predictions: 4 Projections for Los Angeles Rams vs Chicago Bears",
+      "link": "https://sports.yahoo.com/articles/nfl-playoff-predictions-4-projections-133717887.html",
+      "source": "Yahoo Sports",
+      "ts": 1768198020.0,
+      "published_iso": "2026-01-12T06:07:00+00:00"
     }
   ]
 }
