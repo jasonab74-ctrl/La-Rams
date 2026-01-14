@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-14T23:09:30.903178+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-14T23:33:30.862505+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-steelers-request-head-coach-interview-193820557-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1768398960.0,
       "published_iso": "2026-01-14T13:56:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-videos-get-ready-for-rams-bears-divisional-playoffs",
-      "title": "Get ready for Rams-Bears | Divisional Playoffs",
-      "link": "https://nfl.com/videos/get-ready-for-rams-bears-divisional-playoffs",
-      "source": "NFL.com",
-      "ts": 1768394100.0,
-      "published_iso": "2026-01-14T12:35:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-chicago-bears-how-to-watch-listen-to-and-live-stream-the-divisional-round-202",
