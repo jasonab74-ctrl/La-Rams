@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-14T21:10:08.884468+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-14T21:40:33.261949+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-nfl-com-videos-get-ready-for-rams-bears-divisional-playoffs",
@@ -9,14 +9,6 @@
       "source": "NFL.com",
       "ts": 1768394100.0,
       "published_iso": "2026-01-14T12:35:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-ben-johnson-viral-nsfw-clip-181823403-html",
-      "title": "Ben Johnson’s viral NSFW clip adds spice to Bears-Rams match-up",
-      "link": "https://sports.yahoo.com/articles/ben-johnson-viral-nsfw-clip-181823403.html",
-      "source": "Yahoo Sports",
-      "ts": 1768390560.0,
-      "published_iso": "2026-01-14T11:36:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-chicago-bears-how-to-watch-listen-to-and-live-stream-the-divisional-round-202",
