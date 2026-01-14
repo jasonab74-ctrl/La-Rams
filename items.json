@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-14T14:14:35.009345+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-14T14:48:01.420486+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-panthers-vs-rams-game-review-140000615-html",
+      "title": "Panthers vs Rams game review: Cover 3 nightmares",
+      "link": "https://sports.yahoo.com/articles/panthers-vs-rams-game-review-140000615.html",
+      "source": "Yahoo Sports",
+      "ts": 1768371660.0,
+      "published_iso": "2026-01-14T06:21:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-key-playoff-success-beware-105000825-html",
       "title": "Rams’ Key To Playoff Success: Beware Of Cardiac Caleb And the Comeback Bears!",
@@ -11,12 +19,12 @@
       "published_iso": "2026-01-14T06:10:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-panthers-vs-rams-live-updates-200258278-html",
-      "title": "Los Angeles Rams defeat Carolina Panthers, move on in NFL playoffs",
-      "link": "https://sports.yahoo.com/articles/panthers-vs-rams-live-updates-200258278.html",
-      "source": "Yahoo Sports",
-      "ts": 1768272240.0,
-      "published_iso": "2026-01-13T02:44:00+00:00"
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-single-move-saved-season",
+      "title": "One Single Move Has Saved the Rams' Season",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-single-move-saved-season",
+      "source": "Sports Illustrated",
+      "ts": 1768365600.0,
+      "published_iso": "2026-01-14T04:40:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend-live",
