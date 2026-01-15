@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-15T19:00:11.706477+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-15T19:25:14.142612+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-foxsports-com-watch-fmc-20gezvzu833ghwgj",
@@ -9,14 +9,6 @@
       "source": "FOX Sports",
       "ts": 1768474380.0,
       "published_iso": "2026-01-15T10:53:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-4-reasons-why-seahawks-rams-140530682-html",
-      "title": "4 reasons why Seahawks, Rams & 49ers made NFC West the NFL's best division ever",
-      "link": "https://sports.yahoo.com/articles/4-reasons-why-seahawks-rams-140530682.html",
-      "source": "Yahoo Sports",
-      "ts": 1768458480.0,
-      "published_iso": "2026-01-15T06:28:00+00:00"
     }
   ]
 }
