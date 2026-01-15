@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-15T12:19:53.825001+00:00",
+  "updated_iso": "2026-01-15T13:10:51.664843+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-cbssports-com-betting-news-nfl-playoffs-odds-picks-predictions-best-bets-for-texans-vs-patriots-rams-vs-bears-on-s",
+      "title": "NFL Playoffs: Odds, picks, predictions, best bets for Texans vs. Patriots, Rams vs. Bears on Sunday, Jan. 18",
+      "link": "https://cbssports.com/betting/news/nfl-playoffs-odds-picks-predictions-best-bets-for-texans-vs-patriots-rams-vs-bears-on-sunday-jan-18/",
+      "source": "CBS Sports",
+      "ts": 1768453380.0,
+      "published_iso": "2026-01-15T05:03:00+00:00"
+    },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-chicago-bears-how-to-watch-listen-to-and-live-stream-the-divisional-round-202",
       "title": "Los Angeles Rams at Chicago Bears: How to watch, listen to and live stream the divisional round",
@@ -9,14 +17,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1768390380.0,
       "published_iso": "2026-01-14T11:33:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-nfl-playoff-predictions-4-projections-133717887-html",
-      "title": "NFL Playoff Predictions: 4 Projections for Los Angeles Rams vs Chicago Bears",
-      "link": "https://sports.yahoo.com/articles/nfl-playoff-predictions-4-projections-133717887.html",
-      "source": "Yahoo Sports",
-      "ts": 1768198020.0,
-      "published_iso": "2026-01-12T06:07:00+00:00"
     },
     {
       "id": "https-foxsports-com-nfl-los-angeles-rams-team",
