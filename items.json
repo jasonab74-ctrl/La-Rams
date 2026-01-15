@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2026-01-15T15:13:16.506031+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-15T15:49:36.491266+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-ol-looking-revenge-against-153050548-html",
+      "title": "Rams OL looking for revenge against division rival who stepped on him",
+      "link": "https://sports.yahoo.com/articles/rams-ol-looking-revenge-against-153050548.html",
+      "source": "Yahoo Sports",
+      "ts": 1768463040.0,
+      "published_iso": "2026-01-15T07:44:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-3-keys-bears-offense-vs-153246795-html",
+      "title": "3 keys for Bears offense vs. Rams in divisional playoffs",
+      "link": "https://sports.yahoo.com/articles/3-keys-bears-offense-vs-153246795.html",
+      "source": "Yahoo Sports",
+      "ts": 1768462740.0,
+      "published_iso": "2026-01-15T07:39:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-chicago-bears-how-to-watch-listen-to-and-live-stream-the-divisional-round-202",
+      "title": "Los Angeles Rams at Chicago Bears: How to watch, listen to and live stream the divisional round",
+      "link": "https://therams.com/news/los-angeles-rams-at-chicago-bears-how-to-watch-listen-to-and-live-stream-the-divisional-round-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1768390380.0,
+      "published_iso": "2026-01-14T11:33:00+00:00"
+    }
+  ]
 }
