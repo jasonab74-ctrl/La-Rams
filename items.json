@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2026-01-15T03:58:47.022729+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-15T04:37:44.767697+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-sean-mcvay-issues-stern-statement-024632506-html",
-      "title": "Sean McVay Issues Stern Statement on Rams’ Struggles Amid Critical Matthew Stafford News",
-      "link": "https://sports.yahoo.com/articles/sean-mcvay-issues-stern-statement-024632506.html",
-      "source": "Yahoo Sports",
-      "ts": 1768420080.0,
-      "published_iso": "2026-01-14T19:48:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-14-steelers-request-interview-with-2-rams-assistants-chris-",
+      "title": "Steelers request head coach interviews with 2 Rams assistants",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/01/14/steelers-request-interview-with-2-rams-assistants-chris-sula-nate-scheelhaase-mike-tomlin/88181801007/",
+      "source": "Rams Wire",
+      "ts": 1768422000.0,
+      "published_iso": "2026-01-14T20:20:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-three-reasons-why-steelers-want-nate-scheelhaase",
+      "title": "Three Reasons Why the Steelers Want Rams' Nate Scheelhaase",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-three-reasons-why-steelers-want-nate-scheelhaase",
+      "source": "Sports Illustrated",
+      "ts": 1768418640.0,
+      "published_iso": "2026-01-14T19:24:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-detail-best-case-scenario-for-kevin-dotson",
+      "title": "Rams Detail Best Case Scenario For Kevin Dotson and Others",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-detail-best-case-scenario-for-kevin-dotson-",
+      "source": "Sports Illustrated",
+      "ts": 1768412580.0,
+      "published_iso": "2026-01-14T17:43:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-chicago-bears-how-to-watch-listen-to-and-live-stream-the-divisional-round-202",
