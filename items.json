@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-15T21:10:33.030321+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-15T21:39:46.635983+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-bears-injury-clouds-starting-clear-172500528-html",
+      "title": "Bears' Injury Clouds Starting to Clear After 1st Practice for Rams Clash",
+      "link": "https://sports.yahoo.com/articles/bears-injury-clouds-starting-clear-172500528.html",
+      "source": "Yahoo Sports",
+      "ts": 1768484160.0,
+      "published_iso": "2026-01-15T13:36:00+00:00"
+    },
     {
       "id": "https-si-com-nfl-rams-onsi-jacksonville-matthew-stafford-discusses-playoff-matchup-against-former-rival-bears",
       "title": "Rams' Matthew Stafford Discusses Playoff Matchup Against Former Rival Bears",
@@ -9,30 +17,6 @@
       "source": "Sports Illustrated",
       "ts": 1768480800.0,
       "published_iso": "2026-01-15T12:40:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-lions-onsi-news-ben-johnson-puka-nacua-reminds-him-amon-ra-st-brown",
-      "title": "Ben Johnson Says Rams Star WR Reminds Him of Lions Amon-Ra St. Brown",
-      "link": "https://si.com/nfl/lions/onsi/news/ben-johnson-puka-nacua-reminds-him-amon-ra-st-brown",
-      "source": "Sports Illustrated",
-      "ts": 1768480680.0,
-      "published_iso": "2026-01-15T12:38:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-vs-bears-weather-odds-201000368-html",
-      "title": "Rams vs Bears Weather & Odds Watch for NFL Divisional Round",
-      "link": "https://sports.yahoo.com/articles/rams-vs-bears-weather-odds-201000368.html",
-      "source": "Yahoo Sports",
-      "ts": 1768479720.0,
-      "published_iso": "2026-01-15T12:22:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-watch-fmc-20gezvzu833ghwgj",
-      "title": "Tom Brady on Matthew Stafford & Rams: How far can he take Los Angeles? | The Herd",
-      "link": "https://foxsports.com/watch/fmc-20gezvzu833ghwgj",
-      "source": "FOX Sports",
-      "ts": 1768474380.0,
-      "published_iso": "2026-01-15T10:53:00+00:00"
     }
   ]
 }
