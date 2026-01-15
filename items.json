@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-15T22:42:43.615837+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-15T23:10:24.541098+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-davante-adams-highlights-awaited-return-divisional-round",
@@ -11,28 +11,12 @@
       "published_iso": "2026-01-15T13:41:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-bears-injury-clouds-starting-clear-172500528-html",
-      "title": "Bears' Injury Clouds Starting to Clear After 1st Practice for Rams Clash",
-      "link": "https://sports.yahoo.com/articles/bears-injury-clouds-starting-clear-172500528.html",
-      "source": "Yahoo Sports",
-      "ts": 1768484160.0,
-      "published_iso": "2026-01-15T13:36:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-onsi-jacksonville-matthew-stafford-discusses-playoff-matchup-against-former-rival-bears",
-      "title": "Rams' Matthew Stafford Discusses Playoff Matchup Against Former Rival Bears",
-      "link": "https://si.com/nfl/rams/onsi/jacksonville-matthew-stafford-discusses-playoff-matchup-against-former-rival-bears",
-      "source": "Sports Illustrated",
-      "ts": 1768480800.0,
-      "published_iso": "2026-01-15T12:40:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-watch-fmc-20gezvzu833ghwgj",
-      "title": "Tom Brady on Matthew Stafford & Rams: How far can he take Los Angeles? | The Herd",
-      "link": "https://foxsports.com/watch/fmc-20gezvzu833ghwgj",
-      "source": "FOX Sports",
-      "ts": 1768474380.0,
-      "published_iso": "2026-01-15T10:53:00+00:00"
+      "id": "https-cbssports-com-nfl-news-panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend-live",
+      "title": "Rams escape upset-minded Panthers, score late TD to survive and advance to divisional round",
+      "link": "https://cbssports.com/nfl/news/panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend/live/",
+      "source": "CBS Sports",
+      "ts": 1768066020.0,
+      "published_iso": "2026-01-10T17:27:00+00:00"
     }
   ]
 }
