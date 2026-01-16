@@ -1,7 +1,31 @@
 {
-  "updated_iso": "2026-01-16T13:09:34.304890+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-16T13:52:32.586973+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-3-keys-bears-defense-vs-132941095-html",
+      "title": "3 keys for Bears defense vs. Rams in divisional playoffs",
+      "link": "https://sports.yahoo.com/articles/3-keys-bears-defense-vs-132941095.html",
+      "source": "Yahoo Sports",
+      "ts": 1768541760.0,
+      "published_iso": "2026-01-16T05:36:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-news-bears-dennis-allen-it-will-take-an-exceptional-effort-to-slow-rams-wrs-puka-nacua-davante-adams",
+      "title": "Bears' Dennis Allen: It will 'take an exceptional effort' to slow Rams WRs Puka Nacua, Davante Adams",
+      "link": "https://nfl.com/news/bears-dennis-allen-it-will-take-an-exceptional-effort-to-slow-rams-wrs-puka-nacua-davante-adams",
+      "source": "NFL.com",
+      "ts": 1768538340.0,
+      "published_iso": "2026-01-16T04:39:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-chris-shula-talks-about-stopping-bears-offense",
+      "title": "Rams Chris Shula Talks About Stopping Bears Offense",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-chris-shula-talks-about-stopping-bears-offense",
+      "source": "Sports Illustrated",
+      "ts": 1768535280.0,
+      "published_iso": "2026-01-16T03:48:00+00:00"
+    },
     {
       "id": "https-cbssports-com-nfl-news-panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend-live",
       "title": "Rams escape upset-minded Panthers, score late TD to survive and advance to divisional round",
@@ -9,14 +33,6 @@
       "source": "CBS Sports",
       "ts": 1768066020.0,
       "published_iso": "2026-01-10T17:27:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1759355460.0,
-      "published_iso": "2025-10-01T21:51:00+00:00"
     }
   ]
 }
