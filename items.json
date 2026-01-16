@@ -1,22 +1,5 @@
 {
-  "updated_iso": "2026-01-16T18:15:42.846923+00:00",
-  "count": 2,
-  "items": [
-    {
-      "id": "https-cbssports-com-nfl-news-rams-bears-weather-forecast-chicago-nfl-playoffs-wind-snow",
-      "title": "Rams vs. Bears weather: Frigid temperatures, heavy winds and snow in forecast for divisional round showdown",
-      "link": "https://cbssports.com/nfl/news/rams-bears-weather-forecast-chicago-nfl-playoffs-wind-snow/",
-      "source": "CBS Sports",
-      "ts": 1768557600.0,
-      "published_iso": "2026-01-16T10:00:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend-live",
-      "title": "Rams escape upset-minded Panthers, score late TD to survive and advance to divisional round",
-      "link": "https://cbssports.com/nfl/news/panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend/live/",
-      "source": "CBS Sports",
-      "ts": 1768066020.0,
-      "published_iso": "2026-01-10T17:27:00+00:00"
-    }
-  ]
+  "updated_iso": "2026-01-16T18:52:22.799892+00:00",
+  "count": 0,
+  "items": []
 }
