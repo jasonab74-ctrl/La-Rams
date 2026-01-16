@@ -1,23 +1,7 @@
 {
-  "updated_iso": "2026-01-16T03:56:40.780273+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-16T04:32:51.035924+00:00",
+  "count": 1,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-brad-biggs-bears-big-advantage-022700157-html",
-      "title": "Brad Biggs: Bears’ big advantage on special teams could be a difference maker vs. Rams",
-      "link": "https://sports.yahoo.com/articles/brad-biggs-bears-big-advantage-022700157.html",
-      "source": "Yahoo Sports",
-      "ts": 1768503360.0,
-      "published_iso": "2026-01-15T18:56:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-davante-adams-highlights-awaited-return-divisional-round",
-      "title": "Rams' Davante Adams Highlights Awaited Return to Divisional Round",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-davante-adams-highlights-awaited-return-divisional-round",
-      "source": "Sports Illustrated",
-      "ts": 1768496400.0,
-      "published_iso": "2026-01-15T17:00:00+00:00"
-    },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-chicago-bears-how-to-watch-listen-to-and-live-stream-the-divisional-round-202",
       "title": "Los Angeles Rams at Chicago Bears: How to watch, listen to and live stream the divisional round",
