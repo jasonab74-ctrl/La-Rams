@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-16T05:45:26.726945+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-16T06:16:45.310632+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-davante-adams-highlights-awaited-return-divisional-round",
@@ -11,20 +11,12 @@
       "published_iso": "2026-01-15T17:00:00+00:00"
     },
     {
-      "id": "https-therams-com-news-los-angeles-rams-at-chicago-bears-how-to-watch-listen-to-and-live-stream-the-divisional-round-202",
-      "title": "Los Angeles Rams at Chicago Bears: How to watch, listen to and live stream the divisional round",
-      "link": "https://therams.com/news/los-angeles-rams-at-chicago-bears-how-to-watch-listen-to-and-live-stream-the-divisional-round-2026",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1768390380.0,
-      "published_iso": "2026-01-14T11:33:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1759355460.0,
-      "published_iso": "2025-10-01T21:51:00+00:00"
+      "id": "https-cbssports-com-nfl-news-panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend-live",
+      "title": "Rams escape upset-minded Panthers, score late TD to survive and advance to divisional round",
+      "link": "https://cbssports.com/nfl/news/panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend/live/",
+      "source": "CBS Sports",
+      "ts": 1768066020.0,
+      "published_iso": "2026-01-10T17:27:00+00:00"
     }
   ]
 }
