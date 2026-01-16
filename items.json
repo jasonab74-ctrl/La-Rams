@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-16T20:39:34.849546+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-16T21:09:40.990214+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-therams-com-news-rams-thrive-advance-divisional-round-tussle-bears-game-preview",
@@ -9,6 +9,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1768565580.0,
       "published_iso": "2026-01-16T12:13:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-huge-news-key-offensive-191406680-html",
+      "title": "Rams get huge news on key offensive lineman for Bears playoff game",
+      "link": "https://sports.yahoo.com/articles/rams-huge-news-key-offensive-191406680.html",
+      "source": "Yahoo Sports",
+      "ts": 1768563240.0,
+      "published_iso": "2026-01-16T11:34:00+00:00"
     }
   ]
 }
