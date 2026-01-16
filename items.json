@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-16T15:43:06.898207+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-16T16:13:42.271517+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-caleb-williams-puts-locker-room-142605094-html",
@@ -11,12 +11,20 @@
       "published_iso": "2026-01-16T07:06:00+00:00"
     },
     {
-      "id": "https-nfl-com-news-rams-vs-bears-three-must-know-storylines-divisional-round",
-      "title": "Rams vs. Bears: Three must-know storylines for Sunday's Divisional Round game",
-      "link": "https://nfl.com/news/rams-vs-bears-three-must-know-storylines-divisional-round",
-      "source": "NFL.com",
-      "ts": 1768543200.0,
-      "published_iso": "2026-01-16T06:00:00+00:00"
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-chris-shula-talks-about-stopping-bears-offense",
+      "title": "Rams Chris Shula Talks About Stopping Bears Offense",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-chris-shula-talks-about-stopping-bears-offense",
+      "source": "Sports Illustrated",
+      "ts": 1768547160.0,
+      "published_iso": "2026-01-16T07:06:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-feel-playing-064349845-html",
+      "title": "How the Los Angeles Rams feel about playing in cold and snow in Chicago",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-feel-playing-064349845.html",
+      "source": "Yahoo Sports",
+      "ts": 1768518120.0,
+      "published_iso": "2026-01-15T23:02:00+00:00"
     }
   ]
 }
