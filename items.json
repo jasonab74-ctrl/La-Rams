@@ -1,5 +1,5 @@
 {
-  "updated_iso": "2026-01-16T15:12:11.181405+00:00",
+  "updated_iso": "2026-01-16T15:43:06.898207+00:00",
   "count": 2,
   "items": [
     {
@@ -11,12 +11,12 @@
       "published_iso": "2026-01-16T07:06:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-rams-greatest-show-turf-architect-132521397-html",
-      "title": "Rams’ Greatest Show on Turf architect goes full Kevin Garnett on Bears’ Ben Johnson, Caleb Williams",
-      "link": "https://sports.yahoo.com/articles/rams-greatest-show-turf-architect-132521397.html",
-      "source": "Yahoo Sports",
-      "ts": 1768545660.0,
-      "published_iso": "2026-01-16T06:41:00+00:00"
+      "id": "https-nfl-com-news-rams-vs-bears-three-must-know-storylines-divisional-round",
+      "title": "Rams vs. Bears: Three must-know storylines for Sunday's Divisional Round game",
+      "link": "https://nfl.com/news/rams-vs-bears-three-must-know-storylines-divisional-round",
+      "source": "NFL.com",
+      "ts": 1768543200.0,
+      "published_iso": "2026-01-16T06:00:00+00:00"
     }
   ]
 }
