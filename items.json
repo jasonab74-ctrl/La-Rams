@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-01-16T14:12:59.262995+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-16T14:45:45.428610+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-pittsburgh-steelers-begin-coaching-search-093355376-html",
+      "title": "Pittsburgh Steelers Will Begin Coaching Search by Interviewing Rams' Nate Scheelhaase",
+      "link": "https://sports.yahoo.com/articles/pittsburgh-steelers-begin-coaching-search-093355376.html",
+      "source": "Yahoo Sports",
+      "ts": 1768544160.0,
+      "published_iso": "2026-01-16T06:16:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-news-bears-dennis-allen-it-will-take-an-exceptional-effort-to-slow-rams-wrs-puka-nacua-davante-adams",
+      "title": "Bears' Dennis Allen: It will 'take an exceptional effort' to slow Rams WRs Puka Nacua, Davante Adams",
+      "link": "https://nfl.com/news/bears-dennis-allen-it-will-take-an-exceptional-effort-to-slow-rams-wrs-puka-nacua-davante-adams",
+      "source": "NFL.com",
+      "ts": 1768538340.0,
+      "published_iso": "2026-01-16T04:39:00+00:00"
+    }
+  ]
 }
