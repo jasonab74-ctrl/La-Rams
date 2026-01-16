@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-01-16T18:52:22.799892+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-16T19:11:33.439331+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-feel-playing-064349845-html",
+      "title": "How the Los Angeles Rams feel about playing in cold and snow in Chicago",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-feel-playing-064349845.html",
+      "source": "Yahoo Sports",
+      "ts": 1768518120.0,
+      "published_iso": "2026-01-15T23:02:00+00:00"
+    }
+  ]
 }
