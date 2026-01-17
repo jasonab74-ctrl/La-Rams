@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-17T15:38:16.713349+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-17T16:09:58.251631+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-three-things-know-chris-shula-124348979-html",
+      "title": "Three things to know about Chris Shula, the Rams assistant who interviewed for the Dolphins head coach vacancy on Friday",
+      "link": "https://sports.yahoo.com/articles/three-things-know-chris-shula-124348979.html",
+      "source": "Yahoo Sports",
+      "ts": 1768637340.0,
+      "published_iso": "2026-01-17T08:09:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-play-today-schedule-time-075001140-html",
       "title": "Do the Rams play today? Schedule, time, channel for next Los Angeles NFL playoff game",
