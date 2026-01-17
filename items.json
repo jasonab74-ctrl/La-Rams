@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-17T08:12:31.729670+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-17T08:44:33.579738+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-sean-mcvay-blunt-response-chicago-040157841-html",
+      "title": "Sean McVay’s blunt response to Chicago’s freezing temps for Rams-Bears game: ‘S–t doesn’t matter’",
+      "link": "https://sports.yahoo.com/articles/sean-mcvay-blunt-response-chicago-040157841.html",
+      "source": "Yahoo Sports",
+      "ts": 1768609380.0,
+      "published_iso": "2026-01-17T00:23:00+00:00"
+    },
     {
       "id": "https-therams-com-news-puka-nacua-pepsi-celebrate-los-angeles-local-eats-community",
       "title": "Puka Nacua & Pepsi celebrate Los Angeles Local Eats & community",
