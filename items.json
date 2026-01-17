@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-17T00:46:02.817402+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-17T02:43:35.259194+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-therams-com-news-puka-nacua-pepsi-celebrate-los-angeles-local-eats-community",
@@ -9,6 +9,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1768580160.0,
       "published_iso": "2026-01-16T16:16:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1759355460.0,
+      "published_iso": "2025-10-01T21:51:00+00:00"
     }
   ]
 }
