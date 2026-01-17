@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-01-17T07:36:11.105030+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-17T08:12:31.729670+00:00",
+  "count": 1,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-bogus-rams-rb-blake-corum-062343560-html",
-      "title": "“It’s Bogus”: Rams RB Blake Corum Says Chicago Weather Can’t Impact LA Offense in Divisional Round",
-      "link": "https://sports.yahoo.com/articles/bogus-rams-rb-blake-corum-062343560.html",
-      "source": "Yahoo Sports",
-      "ts": 1768603500.0,
-      "published_iso": "2026-01-16T22:45:00+00:00"
-    },
     {
       "id": "https-therams-com-news-puka-nacua-pepsi-celebrate-los-angeles-local-eats-community",
       "title": "Puka Nacua & Pepsi celebrate Los Angeles Local Eats & community",
@@ -17,22 +9,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1768580160.0,
       "published_iso": "2026-01-16T16:16:00+00:00"
-    },
-    {
-      "id": "https-yahoo-com-news-videos-tom-brady-matthew-stafford-rams-184011404-html",
-      "title": "Tom Brady on Matthew Stafford & Rams: How far can he take Los Angeles? | The Herd",
-      "link": "https://yahoo.com/news/videos/tom-brady-matthew-stafford-rams-184011404.html",
-      "source": "Yahoo",
-      "ts": 1768473540.0,
-      "published_iso": "2026-01-15T10:39:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1759355460.0,
-      "published_iso": "2025-10-01T21:51:00+00:00"
     }
   ]
 }
