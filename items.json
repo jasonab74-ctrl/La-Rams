@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-01-17T05:40:36.051613+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-17T06:14:32.078899+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-watch-los-angeles-rams-vs-161335478-html",
-      "title": "How to Watch Los Angeles Rams vs. Chicago Bears: Divisional Playoffs on NBC",
-      "link": "https://sports.yahoo.com/articles/watch-los-angeles-rams-vs-161335478.html",
+      "id": "https-sports-yahoo-com-articles-rams-arrive-freezing-chicago-bears-055649385-html",
+      "title": "Rams arrive in freezing Chicago as Bears amp up playoff hype",
+      "link": "https://sports.yahoo.com/articles/rams-arrive-freezing-chicago-bears-055649385.html",
       "source": "Yahoo Sports",
-      "ts": 1768596420.0,
-      "published_iso": "2026-01-16T20:47:00+00:00"
+      "ts": 1768601580.0,
+      "published_iso": "2026-01-16T22:13:00+00:00"
     },
     {
       "id": "https-therams-com-news-puka-nacua-pepsi-celebrate-los-angeles-local-eats-community",
@@ -17,6 +17,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1768580160.0,
       "published_iso": "2026-01-16T16:16:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1759355460.0,
+      "published_iso": "2025-10-01T21:51:00+00:00"
     }
   ]
 }
