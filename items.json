@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-17T14:08:48.683635+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-17T14:39:29.508177+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-vs-bears-props-best-130000987-html",
@@ -17,6 +17,14 @@
       "source": "Yahoo Sports",
       "ts": 1768608360.0,
       "published_iso": "2026-01-17T00:06:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-puka-nacua-pepsi-celebrate-los-angeles-local-eats-community",
+      "title": "Puka Nacua & Pepsi celebrate Los Angeles Local Eats & community",
+      "link": "https://therams.com/news/puka-nacua-pepsi-celebrate-los-angeles-local-eats-community",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1768580160.0,
+      "published_iso": "2026-01-16T16:16:00+00:00"
     }
   ]
 }
