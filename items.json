@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-01-17T07:10:02.925819+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-17T07:36:11.105030+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-watch-los-angeles-rams-vs-161335478-html",
-      "title": "How to Watch Los Angeles Rams vs. Chicago Bears: Divisional Playoffs on NBC",
-      "link": "https://sports.yahoo.com/articles/watch-los-angeles-rams-vs-161335478.html",
+      "id": "https-sports-yahoo-com-articles-bogus-rams-rb-blake-corum-062343560-html",
+      "title": "“It’s Bogus”: Rams RB Blake Corum Says Chicago Weather Can’t Impact LA Offense in Divisional Round",
+      "link": "https://sports.yahoo.com/articles/bogus-rams-rb-blake-corum-062343560.html",
       "source": "Yahoo Sports",
-      "ts": 1768596420.0,
-      "published_iso": "2026-01-16T20:47:00+00:00"
+      "ts": 1768603500.0,
+      "published_iso": "2026-01-16T22:45:00+00:00"
     },
     {
       "id": "https-therams-com-news-puka-nacua-pepsi-celebrate-los-angeles-local-eats-community",
@@ -17,6 +17,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1768580160.0,
       "published_iso": "2026-01-16T16:16:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-videos-tom-brady-matthew-stafford-rams-184011404-html",
+      "title": "Tom Brady on Matthew Stafford & Rams: How far can he take Los Angeles? | The Herd",
+      "link": "https://yahoo.com/news/videos/tom-brady-matthew-stafford-rams-184011404.html",
+      "source": "Yahoo",
+      "ts": 1768473540.0,
+      "published_iso": "2026-01-15T10:39:00+00:00"
     },
     {
       "id": "https-foxsports-com-nfl-los-angeles-rams-team",
