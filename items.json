@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-01-17T22:40:04.412971+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-17T23:09:03.856252+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-bears-rams-playoff-duel-elite-224700802-html",
+      "title": "In Bears-Rams playoff duel, elite play-callers Ben Johnson and Sean McVay take center stage",
+      "link": "https://sports.yahoo.com/articles/bears-rams-playoff-duel-elite-224700802.html",
+      "source": "Yahoo Sports",
+      "ts": 1768661880.0,
+      "published_iso": "2026-01-17T14:58:00+00:00"
+    }
+  ]
 }
