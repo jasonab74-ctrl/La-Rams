@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-17T05:10:54.241341+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-17T05:40:36.051613+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-watch-los-angeles-rams-vs-161335478-html",
@@ -17,14 +17,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1768580160.0,
       "published_iso": "2026-01-16T16:16:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1759355460.0,
-      "published_iso": "2025-10-01T21:51:00+00:00"
     }
   ]
 }
