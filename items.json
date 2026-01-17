@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-17T04:21:55.643343+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-17T04:48:42.158002+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-watch-los-angeles-rams-vs-161335478-html",
+      "title": "How to Watch Los Angeles Rams vs. Chicago Bears: Divisional Playoffs on NBC",
+      "link": "https://sports.yahoo.com/articles/watch-los-angeles-rams-vs-161335478.html",
+      "source": "Yahoo Sports",
+      "ts": 1768596420.0,
+      "published_iso": "2026-01-16T20:47:00+00:00"
+    },
     {
       "id": "https-therams-com-news-puka-nacua-pepsi-celebrate-los-angeles-local-eats-community",
       "title": "Puka Nacua & Pepsi celebrate Los Angeles Local Eats & community",
@@ -11,12 +19,12 @@
       "published_iso": "2026-01-16T16:16:00+00:00"
     },
     {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1759355460.0,
-      "published_iso": "2025-10-01T21:51:00+00:00"
+      "id": "https-cbssports-com-nfl-news-panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend-live",
+      "title": "Rams escape upset-minded Panthers, score late TD to survive and advance to divisional round",
+      "link": "https://cbssports.com/nfl/news/panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend/live/",
+      "source": "CBS Sports",
+      "ts": 1768066020.0,
+      "published_iso": "2026-01-10T17:27:00+00:00"
     }
   ]
 }
