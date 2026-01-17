@@ -1,38 +1,22 @@
 {
-  "updated_iso": "2026-01-17T19:01:16.238843+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-17T19:31:45.589190+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-nfl-divisional-round-deep-dive-174050454-html",
-      "title": "NFL Divisional Round Deep Dive: Odds & Predictions for Bills vs Broncos, Pats vs Texans & Rams vs Bears",
-      "link": "https://sports.yahoo.com/articles/nfl-divisional-round-deep-dive-174050454.html",
+      "id": "https-sports-yahoo-com-articles-rams-qb-injury-could-change-145054022-html",
+      "title": "Rams' QB Injury Could Change Math Against Bears",
+      "link": "https://sports.yahoo.com/articles/rams-qb-injury-could-change-145054022.html",
       "source": "Yahoo Sports",
-      "ts": 1768646700.0,
-      "published_iso": "2026-01-17T10:45:00+00:00"
+      "ts": 1768648620.0,
+      "published_iso": "2026-01-17T11:17:00+00:00"
     },
     {
-      "id": "https-cbssports-com-nfl-news-bears-rams-prediction-odds-time-2026-nfl-divisional-round-sunday-picks",
-      "title": "Bears vs. Rams prediction, odds, time: NFL divisional round Sunday picks from 10,000 simulations",
-      "link": "https://cbssports.com/nfl/news/bears-rams-prediction-odds-time-2026-nfl-divisional-round-sunday-picks/",
+      "id": "https-cbssports-com-nfl-news-panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend-live",
+      "title": "Rams escape upset-minded Panthers, score late TD to survive and advance to divisional round",
+      "link": "https://cbssports.com/nfl/news/panthers-vs-rams-live-updates-score-highlights-nfl-wild-card-weekend/live/",
       "source": "CBS Sports",
-      "ts": 1768646280.0,
-      "published_iso": "2026-01-17T10:38:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-play-today-schedule-time-075001140-html",
-      "title": "Do the Rams play today? Schedule, time, channel for next Los Angeles NFL playoff game",
-      "link": "https://sports.yahoo.com/articles/rams-play-today-schedule-time-075001140.html",
-      "source": "Yahoo Sports",
-      "ts": 1768608360.0,
-      "published_iso": "2026-01-17T00:06:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-puka-nacua-pepsi-celebrate-los-angeles-local-eats-community",
-      "title": "Puka Nacua & Pepsi celebrate Los Angeles Local Eats & community",
-      "link": "https://therams.com/news/puka-nacua-pepsi-celebrate-los-angeles-local-eats-community",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1768580160.0,
-      "published_iso": "2026-01-16T16:16:00+00:00"
+      "ts": 1768066020.0,
+      "published_iso": "2026-01-10T17:27:00+00:00"
     }
   ]
 }
