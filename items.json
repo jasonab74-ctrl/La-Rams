@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-01-17T20:39:35.225636+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-17T21:07:44.451452+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-chicago-bears-plan-protect-caleb-200700518-html",
-      "title": "Chicago Bears’ plan to protect Caleb Williams vs. LA Rams front could have All-Pro Joe Thuney at left tackle",
-      "link": "https://sports.yahoo.com/articles/chicago-bears-plan-protect-caleb-200700518.html",
+      "id": "https-sports-yahoo-com-articles-rams-play-today-schedule-time-075001140-html",
+      "title": "Do the Rams play today? Schedule, time, channel for next Los Angeles NFL playoff game",
+      "link": "https://sports.yahoo.com/articles/rams-play-today-schedule-time-075001140.html",
       "source": "Yahoo Sports",
-      "ts": 1768653360.0,
-      "published_iso": "2026-01-17T12:36:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-bears-rams-weather-updates-frigid-195402149-html",
-      "title": "Bears-Rams weather updates: How frigid Chicago forecast could make for one of coldest NFL playoff games",
-      "link": "https://sports.yahoo.com/articles/bears-rams-weather-updates-frigid-195402149.html",
-      "source": "Yahoo Sports",
-      "ts": 1768652400.0,
-      "published_iso": "2026-01-17T12:20:00+00:00"
+      "ts": 1768608360.0,
+      "published_iso": "2026-01-17T00:06:00+00:00"
     }
   ]
 }
