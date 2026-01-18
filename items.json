@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-01-18T18:13:01.113691+00:00",
-  "count": 5,
+  "updated_iso": "2026-01-18T18:46:25.653874+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-nfl-divisional-sunday-discussion-hate-180000451-html",
-      "title": "NFL Divisional Sunday Discussion: Hate-watching the Bears against Rams",
-      "link": "https://sports.yahoo.com/articles/nfl-divisional-sunday-discussion-hate-180000451.html",
+      "id": "https-sports-yahoo-com-articles-rams-vs-bears-predictions-best-183000962-html",
+      "title": "Rams vs Bears Predictions, Best Bets, Props & Odds for Sunday Night Football",
+      "link": "https://sports.yahoo.com/articles/rams-vs-bears-predictions-best-183000962.html",
       "source": "Yahoo Sports",
-      "ts": 1768730820.0,
-      "published_iso": "2026-01-18T10:07:00+00:00"
+      "ts": 1768732920.0,
+      "published_iso": "2026-01-18T10:42:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-watch-tonight-bears-vs-rams-170200652-html",
+      "title": "How to Watch Tonight’s Bears vs. Rams Playoff Game Online Without Cable",
+      "link": "https://sports.yahoo.com/articles/watch-tonight-bears-vs-rams-170200652.html",
+      "source": "Yahoo Sports",
+      "ts": 1768732020.0,
+      "published_iso": "2026-01-18T10:27:00+00:00"
     },
     {
       "id": "https-nfl-com-videos-warner-mccoy-on-who-has-the-red-zone-advantage-in-rams-bears-nfc-divisional-round-matchup",
@@ -17,30 +25,6 @@
       "source": "NFL.com",
       "ts": 1768729080.0,
       "published_iso": "2026-01-18T09:38:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25362474-updated-weather-forecast-bears-playoff-game-vs-rams-after-issuing-safety-advi",
-      "title": "Updated Weather Forecast for Bears' Playoff Game vs. Rams After Issuing Safety Advisory",
-      "link": "https://bleacherreport.com/articles/25362474-updated-weather-forecast-bears-playoff-game-vs-rams-after-issuing-safety-advisory",
-      "source": "Bleacher Report",
-      "ts": 1768728000.0,
-      "published_iso": "2026-01-18T09:20:00+00:00"
-    },
-    {
-      "id": "https-si-com-betting-rams-vs-bears-final-score-prediction-for-nfl-divisional-round-can-la-cover-in-chicago",
-      "title": "Rams vs. Bears Final Score Prediction for NFL Divisional Round (Can LA Cover in Chicago?)",
-      "link": "https://si.com/betting/rams-vs-bears-final-score-prediction-for-nfl-divisional-round-can-la-cover-in-chicago",
-      "source": "Sports Illustrated",
-      "ts": 1768719600.0,
-      "published_iso": "2026-01-18T07:00:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-2026-nfl-divisional-round-odds-predictions-rams-bears-expert-picks",
-      "title": "2026 NFL divisional round odds, predictions: Rams vs. Bears picks by expert on 28-10 run",
-      "link": "https://cbssports.com/nfl/news/2026-nfl-divisional-round-odds-predictions-rams-bears-expert-picks/",
-      "source": "CBS Sports",
-      "ts": 1768718760.0,
-      "published_iso": "2026-01-18T06:46:00+00:00"
     }
   ]
 }
