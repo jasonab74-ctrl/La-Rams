@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-18T00:53:35.764106+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-18T02:59:58.256521+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-play-today-schedule-time-075001140-html",
@@ -9,6 +9,14 @@
       "source": "Yahoo Sports",
       "ts": 1768608360.0,
       "published_iso": "2026-01-17T00:06:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-puka-nacua-pepsi-celebrate-los-angeles-local-eats-community",
+      "title": "Puka Nacua & Pepsi celebrate Los Angeles Local Eats & community",
+      "link": "https://therams.com/news/puka-nacua-pepsi-celebrate-los-angeles-local-eats-community",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1768580160.0,
+      "published_iso": "2026-01-16T16:16:00+00:00"
     }
   ]
 }
