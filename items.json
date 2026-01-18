@@ -1,30 +1,22 @@
 {
-  "updated_iso": "2026-01-18T14:08:23.967563+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-18T14:38:54.371582+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-cbssports-com-betting-news-rams-vs-bears-nfl-player-props-for-puka-nacua-colston-loveland-for-divisional-round-mat",
-      "title": "Rams vs. Bears: NFL player props for Puka Nacua, Colston Loveland for Divisional Round matchup",
-      "link": "https://cbssports.com/betting/news/rams-vs-bears-nfl-player-props-for-puka-nacua-colston-loveland-for-divisional-round-matchup/",
-      "source": "CBS Sports",
-      "ts": 1768716120.0,
-      "published_iso": "2026-01-18T06:02:00+00:00"
+      "id": "https-sports-yahoo-com-articles-keys-game-bears-punch-ticket-195829764-html",
+      "title": "Keys to the Game: How Bears Can Punch Their Ticket to NFC Championship vs. Rams",
+      "link": "https://sports.yahoo.com/articles/keys-game-bears-punch-ticket-195829764.html",
+      "source": "Yahoo Sports",
+      "ts": 1768717920.0,
+      "published_iso": "2026-01-18T06:32:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-bears-vs-rams-injuries-inactives-125418655-html",
-      "title": "Bears vs. Rams: Injuries, inactives and key matchups for Sunday’s NFC Divisional Round game at Soldier Field",
-      "link": "https://sports.yahoo.com/articles/bears-vs-rams-injuries-inactives-125418655.html",
+      "id": "https-sports-yahoo-com-articles-rams-vs-bears-time-channel-133800355-html",
+      "title": "Rams vs Bears: Time, Channel & Free Live Streaming Info for NFC Divisional Round",
+      "link": "https://sports.yahoo.com/articles/rams-vs-bears-time-channel-133800355.html",
       "source": "Yahoo Sports",
-      "ts": 1768716000.0,
-      "published_iso": "2026-01-18T06:00:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-chicago-bear-rams-playoff-game-133146945-html",
-      "title": "Chicago Bear-Rams playoff game: What to know as fans face subfreezing temps at Soldier Field",
-      "link": "https://sports.yahoo.com/articles/chicago-bear-rams-playoff-game-133146945.html",
-      "source": "Yahoo Sports",
-      "ts": 1768715040.0,
-      "published_iso": "2026-01-18T05:44:00+00:00"
+      "ts": 1768716720.0,
+      "published_iso": "2026-01-18T06:12:00+00:00"
     }
   ]
 }
