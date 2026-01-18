@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-01-18T08:45:02.343395+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-18T09:10:12.862736+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-channel-bears-vs-rams-today-073002267-html",
-      "title": "What channel is Bears vs. Rams on today? Live stream, time, TV schedule to watch NFL divisional playoff game",
-      "link": "https://sports.yahoo.com/articles/channel-bears-vs-rams-today-073002267.html",
+      "id": "https-sports-yahoo-com-articles-happened-matthew-staffords-finger-know-084002583-html",
+      "title": "What happened to Matthew Stafford's finger? What to know about Rams QB's hand injury suffered in playoffs",
+      "link": "https://sports.yahoo.com/articles/happened-matthew-staffords-finger-know-084002583.html",
       "source": "Yahoo Sports",
-      "ts": 1768694160.0,
-      "published_iso": "2026-01-17T23:56:00+00:00"
+      "ts": 1768698300.0,
+      "published_iso": "2026-01-18T01:05:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-puka-nacua-pepsi-celebrate-los-angeles-local-eats-community",
+      "title": "Puka Nacua & Pepsi celebrate Los Angeles Local Eats & community",
+      "link": "https://therams.com/news/puka-nacua-pepsi-celebrate-los-angeles-local-eats-community",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1768580160.0,
+      "published_iso": "2026-01-16T16:16:00+00:00"
     }
   ]
 }
