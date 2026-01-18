@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-01-18T09:38:43.382104+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-18T10:09:20.282564+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-bears-vs-rams-predictions-see-090150772-html",
-      "title": "Bears vs Rams predictions. See our picks for today's NFL playoff game",
-      "link": "https://sports.yahoo.com/articles/bears-vs-rams-predictions-see-090150772.html",
-      "source": "Yahoo Sports",
-      "ts": 1768698960.0,
-      "published_iso": "2026-01-18T01:16:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-puka-nacua-pepsi-celebrate-los-angeles-local-eats-community",
-      "title": "Puka Nacua & Pepsi celebrate Los Angeles Local Eats & community",
-      "link": "https://therams.com/news/puka-nacua-pepsi-celebrate-los-angeles-local-eats-community",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1768580160.0,
-      "published_iso": "2026-01-16T16:16:00+00:00"
+      "id": "https-yahoo-com-news-videos-tom-brady-matthew-stafford-rams-184011404-html",
+      "title": "Tom Brady on Matthew Stafford & Rams: How far can he take Los Angeles? | The Herd",
+      "link": "https://yahoo.com/news/videos/tom-brady-matthew-stafford-rams-184011404.html",
+      "source": "Yahoo",
+      "ts": 1768473540.0,
+      "published_iso": "2026-01-15T10:39:00+00:00"
     }
   ]
 }
