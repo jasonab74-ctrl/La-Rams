@@ -1,22 +1,22 @@
 {
-  "updated_iso": "2026-01-18T07:36:59.141861+00:00",
+  "updated_iso": "2026-01-18T08:12:57.252524+00:00",
   "count": 2,
   "items": [
     {
-      "id": "https-sportingnews-com-us-nfl-news-last-time-bears-rams-played-playoffs-1985-7e841b9c0d69b701ff7f4313",
-      "title": "Last time Bears played Rams in playoffs: Revisiting 1985 NFC Championship featuring iconic Chicago defense",
-      "link": "https://sportingnews.com/us/nfl/news/last-time-bears-rams-played-playoffs-1985/7e841b9c0d69b701ff7f4313",
-      "source": "Sporting News",
-      "ts": 1768692000.0,
-      "published_iso": "2026-01-17T23:20:00+00:00"
+      "id": "https-sports-yahoo-com-articles-channel-bears-vs-rams-today-073002267-html",
+      "title": "What channel is Bears vs. Rams on today? Live stream, time, TV schedule to watch NFL divisional playoff game",
+      "link": "https://sports.yahoo.com/articles/channel-bears-vs-rams-today-073002267.html",
+      "source": "Yahoo Sports",
+      "ts": 1768694160.0,
+      "published_iso": "2026-01-17T23:56:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-rams-play-today-schedule-time-075001140-html",
-      "title": "Do the Rams play today? Schedule, time, channel for next Los Angeles NFL playoff game",
-      "link": "https://sports.yahoo.com/articles/rams-play-today-schedule-time-075001140.html",
+      "id": "https-sports-yahoo-com-articles-last-time-bears-played-rams-072001248-html",
+      "title": "Last time Bears played Rams in playoffs: Revisiting 1985 NFC Championship featuring iconic Chicago defense",
+      "link": "https://sports.yahoo.com/articles/last-time-bears-played-rams-072001248.html",
       "source": "Yahoo Sports",
-      "ts": 1768608360.0,
-      "published_iso": "2026-01-17T00:06:00+00:00"
+      "ts": 1768693320.0,
+      "published_iso": "2026-01-17T23:42:00+00:00"
     }
   ]
 }
