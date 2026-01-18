@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2026-01-18T13:03:13.226437+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-18T13:43:47.984655+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-nfl-article-los-angeles-rams-vs-chicago-bears-how-to-watch-the-nfl-divisional-round-playoff-game-",
+      "title": "Los Angeles Rams vs. Chicago Bears: How to watch the NFL divisional round playoff game tonight",
+      "link": "https://sports.yahoo.com/nfl/article/los-angeles-rams-vs-chicago-bears-how-to-watch-the-nfl-divisional-round-playoff-game-tonight-130549096.html",
+      "source": "Yahoo Sports",
+      "ts": 1768713420.0,
+      "published_iso": "2026-01-18T05:17:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-bears-vs-rams-radio-coverage-120001096-html",
+      "title": "Bears vs. Rams radio coverage: Station, channel, streaming to listen live to NFL divisional playoff game broadcast",
+      "link": "https://sports.yahoo.com/articles/bears-vs-rams-radio-coverage-120001096.html",
+      "source": "Yahoo Sports",
+      "ts": 1768710420.0,
+      "published_iso": "2026-01-18T04:27:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-rams-vs-bears-final-score-prediction-for-nfl-divisional-round-can-la-cover-in-chicago",
+      "title": "Rams vs. Bears Final Score Prediction for NFL Divisional Round (Can LA Cover in Chicago?)",
+      "link": "https://si.com/betting/rams-vs-bears-final-score-prediction-for-nfl-divisional-round-can-la-cover-in-chicago",
+      "source": "Sports Illustrated",
+      "ts": 1768707360.0,
+      "published_iso": "2026-01-18T03:36:00+00:00"
+    }
+  ]
 }
