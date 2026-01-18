@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-01-18T07:11:04.473771+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-18T07:36:59.141861+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-bears-rams-kickoff-time-today-062001076-html",
-      "title": "Bears-Rams kickoff time today: TV channel, schedule, live stream to watch Sunday NFL divisional playoff game",
-      "link": "https://sports.yahoo.com/articles/bears-rams-kickoff-time-today-062001076.html",
+      "id": "https-sportingnews-com-us-nfl-news-last-time-bears-rams-played-playoffs-1985-7e841b9c0d69b701ff7f4313",
+      "title": "Last time Bears played Rams in playoffs: Revisiting 1985 NFC Championship featuring iconic Chicago defense",
+      "link": "https://sportingnews.com/us/nfl/news/last-time-bears-rams-played-playoffs-1985/7e841b9c0d69b701ff7f4313",
+      "source": "Sporting News",
+      "ts": 1768692000.0,
+      "published_iso": "2026-01-17T23:20:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-play-today-schedule-time-075001140-html",
+      "title": "Do the Rams play today? Schedule, time, channel for next Los Angeles NFL playoff game",
+      "link": "https://sports.yahoo.com/articles/rams-play-today-schedule-time-075001140.html",
       "source": "Yahoo Sports",
-      "ts": 1768690260.0,
-      "published_iso": "2026-01-17T22:51:00+00:00"
+      "ts": 1768608360.0,
+      "published_iso": "2026-01-17T00:06:00+00:00"
     }
   ]
 }
