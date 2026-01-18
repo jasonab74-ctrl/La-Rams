@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-01-18T06:50:23.006836+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-18T07:11:04.473771+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-bears-rams-kickoff-time-today-062001076-html",
+      "title": "Bears-Rams kickoff time today: TV channel, schedule, live stream to watch Sunday NFL divisional playoff game",
+      "link": "https://sports.yahoo.com/articles/bears-rams-kickoff-time-today-062001076.html",
+      "source": "Yahoo Sports",
+      "ts": 1768690260.0,
+      "published_iso": "2026-01-17T22:51:00+00:00"
+    }
+  ]
 }
