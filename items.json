@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-18T08:12:57.252524+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-18T08:45:02.343395+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-channel-bears-vs-rams-today-073002267-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1768694160.0,
       "published_iso": "2026-01-17T23:56:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-last-time-bears-played-rams-072001248-html",
-      "title": "Last time Bears played Rams in playoffs: Revisiting 1985 NFC Championship featuring iconic Chicago defense",
-      "link": "https://sports.yahoo.com/articles/last-time-bears-played-rams-072001248.html",
-      "source": "Yahoo Sports",
-      "ts": 1768693320.0,
-      "published_iso": "2026-01-17T23:42:00+00:00"
     }
   ]
 }
