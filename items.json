@@ -1,7 +1,31 @@
 {
-  "updated_iso": "2026-01-18T14:38:54.371582+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-18T15:08:38.813174+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-si-com-betting-rams-vs-bears-final-score-prediction-for-nfl-divisional-round-can-la-cover-in-chicago",
+      "title": "Rams vs. Bears Final Score Prediction for NFL Divisional Round (Can LA Cover in Chicago?)",
+      "link": "https://si.com/betting/rams-vs-bears-final-score-prediction-for-nfl-divisional-round-can-la-cover-in-chicago",
+      "source": "Sports Illustrated",
+      "ts": 1768719600.0,
+      "published_iso": "2026-01-18T07:00:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-2026-nfl-divisional-round-odds-predictions-rams-bears-expert-picks",
+      "title": "2026 NFL divisional round odds, predictions: Rams vs. Bears picks by expert on 28-10 run",
+      "link": "https://cbssports.com/nfl/news/2026-nfl-divisional-round-odds-predictions-rams-bears-expert-picks/",
+      "source": "CBS Sports",
+      "ts": 1768718760.0,
+      "published_iso": "2026-01-18T06:46:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-fanduel-promo-code-get-300-bonus-bets-texans-patriots-rams-bears-nfl-divisional-round-sunda",
+      "title": "FanDuel promo code: Get $300 in bonus bets for Texans-Patriots, Rams-Bears, NFL Divisional Round on Sunday",
+      "link": "https://cbssports.com/nfl/news/fanduel-promo-code-get-300-bonus-bets-texans-patriots-rams-bears-nfl-divisional-round-sunday/",
+      "source": "CBS Sports",
+      "ts": 1768718460.0,
+      "published_iso": "2026-01-18T06:41:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-keys-game-bears-punch-ticket-195829764-html",
       "title": "Keys to the Game: How Bears Can Punch Their Ticket to NFC Championship vs. Rams",
@@ -9,14 +33,6 @@
       "source": "Yahoo Sports",
       "ts": 1768717920.0,
       "published_iso": "2026-01-18T06:32:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-vs-bears-time-channel-133800355-html",
-      "title": "Rams vs Bears: Time, Channel & Free Live Streaming Info for NFC Divisional Round",
-      "link": "https://sports.yahoo.com/articles/rams-vs-bears-time-channel-133800355.html",
-      "source": "Yahoo Sports",
-      "ts": 1768716720.0,
-      "published_iso": "2026-01-18T06:12:00+00:00"
     }
   ]
 }
