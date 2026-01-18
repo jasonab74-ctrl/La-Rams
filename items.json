@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-01-18T20:10:23.217364+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-18T20:40:04.700962+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-matthew-stafford-odds-picks-predictions-120000031-html",
-      "title": "Matthew Stafford Odds, Picks & Predictions for Rams vs Bears Today",
-      "link": "https://sports.yahoo.com/articles/matthew-stafford-odds-picks-predictions-120000031.html",
-      "source": "Yahoo Sports",
-      "ts": 1768734960.0,
-      "published_iso": "2026-01-18T11:16:00+00:00"
-    },
-    {
-      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-los-angeles-rams-beat-2-former-usc-star-qbs-reach-super-bowl-ef62d03",
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-beat-2-190556371-html",
       "title": "Los Angeles Rams have to beat 2 former USC star QBs to reach Super Bowl",
-      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/los-angeles-rams-beat-2-former-usc-star-qbs-reach-super-bowl/ef62d03f3d76ffac3975f349",
-      "source": "Sporting News",
-      "ts": 1768734300.0,
-      "published_iso": "2026-01-18T11:05:00+00:00"
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-beat-2-190556371.html",
+      "source": "Yahoo Sports",
+      "ts": 1768735680.0,
+      "published_iso": "2026-01-18T11:28:00+00:00"
     }
   ]
 }
