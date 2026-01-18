@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2026-01-18T17:07:40.104103+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-18T17:38:43.946323+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-nfl-com-videos-warner-brandt-on-most-important-non-qb-in-rams-bears-divisional-matchup",
+      "title": "Warner, Brandt on most important non-QB in Rams-Bears divisional matchup",
+      "link": "https://nfl.com/videos/warner-brandt-on-most-important-non-qb-in-rams-bears-divisional-matchup",
+      "source": "NFL.com",
+      "ts": 1768728840.0,
+      "published_iso": "2026-01-18T09:34:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25362474-updated-weather-forecast-bears-playoff-game-vs-rams-after-issuing-safety-advi",
+      "title": "Updated Weather Forecast for Bears' Playoff Game vs. Rams After Issuing Safety Advisory",
+      "link": "https://bleacherreport.com/articles/25362474-updated-weather-forecast-bears-playoff-game-vs-rams-after-issuing-safety-advisory",
+      "source": "Bleacher Report",
+      "ts": 1768728000.0,
+      "published_iso": "2026-01-18T09:20:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-latest-rams-bears-weather-cold-170309469-html",
+      "title": "Latest Rams-Bears weather update: How cold and windy will it be in Chicago?",
+      "link": "https://sports.yahoo.com/articles/latest-rams-bears-weather-cold-170309469.html",
+      "source": "Yahoo Sports",
+      "ts": 1768727400.0,
+      "published_iso": "2026-01-18T09:10:00+00:00"
+    }
+  ]
 }
