@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-01-18T22:09:02.134981+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-18T22:40:14.684812+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-cbssports-com-nfl-news-nfl-picks-rams-vs-bears-sgp-for-divisional-round-playoff-game-features-dandre-swift-davante",
-      "title": "NFL picks: Rams vs. Bears SGP for Divisional Round playoff game features D'Andre Swift, Davante Adams",
-      "link": "https://cbssports.com/nfl/news/nfl-picks-rams-vs-bears-sgp-for-divisional-round-playoff-game-features-dandre-swift-davante-adams/",
-      "source": "CBS Sports",
-      "ts": 1768743660.0,
-      "published_iso": "2026-01-18T13:41:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-beat-2-190556371-html",
-      "title": "Los Angeles Rams have to beat 2 former USC star QBs to reach Super Bowl",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-beat-2-190556371.html",
+      "id": "https-sports-yahoo-com-nfl-live-rams-vs-bears-score-live-updates-caleb-williams-mvp-favorite-matthew-stafford-face-off-t",
+      "title": "Rams vs. Bears score, live updates: Caleb Williams, MVP favorite Matthew Stafford face off to close out divisional round",
+      "link": "https://sports.yahoo.com/nfl/live/rams-vs-bears-score-live-updates-caleb-williams-mvp-favorite-matthew-stafford-face-off-to-close-out-divisional-round-220021652.html",
       "source": "Yahoo Sports",
-      "ts": 1768735680.0,
-      "published_iso": "2026-01-18T11:28:00+00:00"
+      "ts": 1768745520.0,
+      "published_iso": "2026-01-18T14:12:00+00:00"
     }
   ]
 }
