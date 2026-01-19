@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-01-19T02:59:48.795876+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-19T04:11:25.152739+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-bleacherreport-com-articles-25362892-simone-biles-supports-husband-jonathan-owens-custom-jacket-rams-vs-bears-nfl-",
-      "title": "Simone Biles Supports Husband Jonathan Owens with Custom Jacket at Rams vs. Bears NFL Playoff Game",
-      "link": "https://bleacherreport.com/articles/25362892-simone-biles-supports-husband-jonathan-owens-custom-jacket-rams-vs-bears-nfl-playoff-game",
-      "source": "Bleacher Report",
-      "ts": 1768758720.0,
-      "published_iso": "2026-01-18T17:52:00+00:00"
+      "id": "https-sports-yahoo-com-articles-rams-bracing-nfl-punishment-decision-002342477-html",
+      "title": "Rams Bracing for NFL Punishment Decision Over Caleb Williams Incident",
+      "link": "https://sports.yahoo.com/articles/rams-bracing-nfl-punishment-decision-002342477.html",
+      "source": "Yahoo Sports",
+      "ts": 1768765920.0,
+      "published_iso": "2026-01-18T19:52:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-bears-vs-rams-live-updates-score-highlights-nfl-playoffs-live",
+      "title": "Rams survive Caleb Williams' late-game magic, outlast Bears in overtime to advance to NFC Championship Game",
+      "link": "https://cbssports.com/nfl/news/bears-vs-rams-live-updates-score-highlights-nfl-playoffs/live/",
+      "source": "CBS Sports",
+      "ts": 1768764420.0,
+      "published_iso": "2026-01-18T19:27:00+00:00"
     }
   ]
 }
