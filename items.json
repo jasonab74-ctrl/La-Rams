@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-01-19T13:14:54.283459+00:00",
+  "updated_iso": "2026-01-19T13:57:26.232643+00:00",
   "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-jaquan-brisker-bears-hit-hard-130000496-html",
-      "title": "Jaquan Brisker, Bears hit hard by reality of OT playoff loss to Rams",
-      "link": "https://sports.yahoo.com/articles/jaquan-brisker-bears-hit-hard-130000496.html",
-      "source": "Yahoo Sports",
-      "ts": 1768799400.0,
-      "published_iso": "2026-01-19T05:10:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25363197-rams-drop-weather-boy-meme-trolling-bears-fans-after-ot-win-chicagos-cold-wea",
-      "title": "Rams Drop 'Weather Boy' Meme Trolling Bears Fans After OT Win in Chicago's Cold Weather",
-      "link": "https://bleacherreport.com/articles/25363197-rams-drop-weather-boy-meme-trolling-bears-fans-after-ot-win-chicagos-cold-weather",
-      "source": "Bleacher Report",
-      "ts": 1768798560.0,
-      "published_iso": "2026-01-19T04:56:00+00:00"
+      "id": "https-cbssports-com-nfl-news-bears-caleb-williams-interception-miscommunication-dj-moore-rams-nfl",
+      "title": "Bears' Caleb Williams explains costly interception, 'miscommunication' with DJ Moore in OT loss to Rams",
+      "link": "https://cbssports.com/nfl/news/bears-caleb-williams-interception-miscommunication-dj-moore-rams-nfl/",
+      "source": "CBS Sports",
+      "ts": 1768801740.0,
+      "published_iso": "2026-01-19T05:49:00+00:00"
     },
     {
       "id": "https-bleacherreport-com-articles-25363196-rapper-freddie-gibbs-reacts-rams-meme-trolling-him-after-win-vs-bears-imma-ta",
@@ -25,6 +17,14 @@
       "source": "Bleacher Report",
       "ts": 1768797720.0,
       "published_iso": "2026-01-19T04:42:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-bears-vs-rams-live-updates-score-highlights-nfl-playoffs-live",
+      "title": "Rams survive Caleb Williams' late-game magic, outlast Bears in overtime to advance to NFC Championship Game",
+      "link": "https://cbssports.com/nfl/news/bears-vs-rams-live-updates-score-highlights-nfl-playoffs/live/",
+      "source": "CBS Sports",
+      "ts": 1768764420.0,
+      "published_iso": "2026-01-18T19:27:00+00:00"
     },
     {
       "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
