@@ -1,22 +1,38 @@
 {
-  "updated_iso": "2026-01-19T12:21:04.072797+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-19T13:14:54.283459+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-were-hopeful-theyd-another-120414808-html",
-      "title": "Rams 'were hopeful' they'd get another crack at the Seahawks",
-      "link": "https://sports.yahoo.com/articles/rams-were-hopeful-theyd-another-120414808.html",
+      "id": "https-sports-yahoo-com-articles-jaquan-brisker-bears-hit-hard-130000496-html",
+      "title": "Jaquan Brisker, Bears hit hard by reality of OT playoff loss to Rams",
+      "link": "https://sports.yahoo.com/articles/jaquan-brisker-bears-hit-hard-130000496.html",
       "source": "Yahoo Sports",
-      "ts": 1768796040.0,
-      "published_iso": "2026-01-19T04:14:00+00:00"
+      "ts": 1768799400.0,
+      "published_iso": "2026-01-19T05:10:00+00:00"
     },
     {
-      "id": "https-nfl-com-news-rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
-      "title": "Rams-Bears on Divisional Round Sunday: What We Learned from Los Angeles' 20-17 overtime win",
-      "link": "https://nfl.com/news/rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
-      "source": "NFL.com",
-      "ts": 1768759680.0,
-      "published_iso": "2026-01-18T18:08:00+00:00"
+      "id": "https-bleacherreport-com-articles-25363197-rams-drop-weather-boy-meme-trolling-bears-fans-after-ot-win-chicagos-cold-wea",
+      "title": "Rams Drop 'Weather Boy' Meme Trolling Bears Fans After OT Win in Chicago's Cold Weather",
+      "link": "https://bleacherreport.com/articles/25363197-rams-drop-weather-boy-meme-trolling-bears-fans-after-ot-win-chicagos-cold-weather",
+      "source": "Bleacher Report",
+      "ts": 1768798560.0,
+      "published_iso": "2026-01-19T04:56:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25363196-rapper-freddie-gibbs-reacts-rams-meme-trolling-him-after-win-vs-bears-imma-ta",
+      "title": "Rapper Freddie Gibbs Reacts to Rams' Meme Trolling Him After Win vs. Bears, 'Imma Take That One'",
+      "link": "https://bleacherreport.com/articles/25363196-rapper-freddie-gibbs-reacts-rams-meme-trolling-him-after-win-vs-bears-imma-take-one",
+      "source": "Bleacher Report",
+      "ts": 1768797720.0,
+      "published_iso": "2026-01-19T04:42:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
+      "title": "Rams vs. Bears Highlights: Los Angeles Advances on Game-Winning FG in Overtime",
+      "link": "https://foxsports.com/live-blog/nfl/rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
+      "source": "FOX Sports",
+      "ts": 1768745880.0,
+      "published_iso": "2026-01-18T14:18:00+00:00"
     }
   ]
 }
