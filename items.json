@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-19T05:51:03.782937+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-19T06:21:07.752652+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-takeaways-los-angeles-rams-ot-031706643-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1768771500.0,
       "published_iso": "2026-01-18T21:25:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-news-rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
-      "title": "Rams-Bears on Divisional Round Sunday: What We Learned from Los Angeles' 20-17 overtime win",
-      "link": "https://nfl.com/news/rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
-      "source": "NFL.com",
-      "ts": 1768759680.0,
-      "published_iso": "2026-01-18T18:08:00+00:00"
     }
   ]
 }
