@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-01-19T05:04:15.751908+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-19T05:51:03.782937+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-bleacherreport-com-articles-25362963-rams-poona-ford-shows-sock-video-after-using-cayenne-pepper-stay-warm-bears-p",
-      "title": "Rams' Poona Ford Shows Sock on Video After Using Cayenne Pepper to Stay Warm in Bears Playoff Game",
-      "link": "https://bleacherreport.com/articles/25362963-rams-poona-ford-shows-sock-video-after-using-cayenne-pepper-stay-warm-bears-playoff-game",
-      "source": "Bleacher Report",
-      "ts": 1768768800.0,
-      "published_iso": "2026-01-18T20:40:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-bears-vs-rams-live-updates-score-highlights-nfl-playoffs-live",
-      "title": "Rams survive Caleb Williams' late-game magic, outlast Bears in overtime to advance to NFC Championship Game",
-      "link": "https://cbssports.com/nfl/news/bears-vs-rams-live-updates-score-highlights-nfl-playoffs/live/",
-      "source": "CBS Sports",
-      "ts": 1768764420.0,
-      "published_iso": "2026-01-18T19:27:00+00:00"
+      "id": "https-sports-yahoo-com-articles-takeaways-los-angeles-rams-ot-031706643-html",
+      "title": "Takeaways from Los Angeles’ Rams OT Divisional Round Win vs Chicago Bears",
+      "link": "https://sports.yahoo.com/articles/takeaways-los-angeles-rams-ot-031706643.html",
+      "source": "Yahoo Sports",
+      "ts": 1768771500.0,
+      "published_iso": "2026-01-18T21:25:00+00:00"
     },
     {
       "id": "https-nfl-com-news-rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
@@ -25,14 +17,6 @@
       "source": "NFL.com",
       "ts": 1768759680.0,
       "published_iso": "2026-01-18T18:08:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
-      "title": "Rams vs. Bears Highlights: Los Angeles Advances on Game-Winning FG in Overtime",
-      "link": "https://foxsports.com/live-blog/nfl/rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
-      "source": "FOX Sports",
-      "ts": 1768745880.0,
-      "published_iso": "2026-01-18T14:18:00+00:00"
     }
   ]
 }
