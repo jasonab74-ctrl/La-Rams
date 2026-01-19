@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-19T15:45:48.212341+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-19T16:14:09.197020+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-cobie-durant-talks-multi-interception-performance-playoff-victory",
@@ -17,22 +17,6 @@
       "source": "NFL.com",
       "ts": 1768807800.0,
       "published_iso": "2026-01-19T07:30:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-davante-adams-talks-playoff-win-over-bears",
-      "title": "Rams' Davante Adams Talks Playoff Win Over Bears",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-davante-adams-talks-playoff-win-over-bears",
-      "source": "Sports Illustrated",
-      "ts": 1768805520.0,
-      "published_iso": "2026-01-19T06:52:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
-      "title": "Rams vs. Bears Highlights: Los Angeles Advances on Game-Winning FG in Overtime",
-      "link": "https://foxsports.com/live-blog/nfl/rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
-      "source": "FOX Sports",
-      "ts": 1768745880.0,
-      "published_iso": "2026-01-18T14:18:00+00:00"
     }
   ]
 }
