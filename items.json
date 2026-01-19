@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-19T20:11:06.982580+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-19T20:42:21.006656+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-puka-nacua-discusses-playoff-win-over-bears",
@@ -9,6 +9,22 @@
       "source": "Sports Illustrated",
       "ts": 1768824000.0,
       "published_iso": "2026-01-19T12:00:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-takeaways-los-angeles-rams-ot-031706643-html",
+      "title": "Takeaways from Los Angeles’ Rams OT Divisional Round Win vs Chicago Bears",
+      "link": "https://sports.yahoo.com/articles/takeaways-los-angeles-rams-ot-031706643.html",
+      "source": "Yahoo Sports",
+      "ts": 1768771500.0,
+      "published_iso": "2026-01-18T21:25:00+00:00"
+    },
+    {
+      "id": "https-apnews-com-article-rams-bears-score-8e97bcf5c6bdfa7510cf31d744b94955",
+      "title": "Rams shake off wild, late TD pass by Caleb Williams, beat Bears 20-17 in OT to reach NFC title game",
+      "link": "https://apnews.com/article/rams-bears-score-8e97bcf5c6bdfa7510cf31d744b94955",
+      "source": "AP News",
+      "ts": 1768771440.0,
+      "published_iso": "2026-01-18T21:24:00+00:00"
     },
     {
       "id": "https-nfl-com-news-rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
