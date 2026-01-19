@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-19T14:50:26.867492+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-19T15:14:44.787280+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-davante-adams-talks-playoff-win-over-bears",
+      "title": "Rams' Davante Adams Talks Playoff Win Over Bears",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-davante-adams-talks-playoff-win-over-bears",
+      "source": "Sports Illustrated",
+      "ts": 1768805520.0,
+      "published_iso": "2026-01-19T06:52:00+00:00"
+    },
     {
       "id": "https-nfl-com-news-rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
       "title": "Rams-Bears on Divisional Round Sunday: What We Learned from Los Angeles' 20-17 overtime win",
@@ -9,6 +17,14 @@
       "source": "NFL.com",
       "ts": 1768759680.0,
       "published_iso": "2026-01-18T18:08:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
+      "title": "Rams vs. Bears Highlights: Los Angeles Advances on Game-Winning FG in Overtime",
+      "link": "https://foxsports.com/live-blog/nfl/rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
+      "source": "FOX Sports",
+      "ts": 1768745880.0,
+      "published_iso": "2026-01-18T14:18:00+00:00"
     }
   ]
 }
