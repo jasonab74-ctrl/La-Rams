@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-19T21:38:30.326732+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-19T22:10:12.161233+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-harrison-mevis-discusses-game-winning-field-goal-over-chicago",
+      "title": "Rams' Harrison Mevis Discusses Game-Winning Field Goal Over Chicago",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-harrison-mevis-discusses-game-winning-field-goal-over-chicago",
+      "source": "Sports Illustrated",
+      "ts": 1768827600.0,
+      "published_iso": "2026-01-19T13:00:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-takeaways-los-angeles-rams-ot-031706643-html",
       "title": "Takeaways from Los Angeles’ Rams OT Divisional Round Win vs Chicago Bears",
