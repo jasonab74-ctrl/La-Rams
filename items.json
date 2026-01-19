@@ -1,22 +1,22 @@
 {
-  "updated_iso": "2026-01-19T08:17:44.177764+00:00",
+  "updated_iso": "2026-01-19T08:53:17.977489+00:00",
   "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-takeaways-los-angeles-rams-ot-031706643-html",
-      "title": "Takeaways from Los Angeles’ Rams OT Divisional Round Win vs Chicago Bears",
-      "link": "https://sports.yahoo.com/articles/takeaways-los-angeles-rams-ot-031706643.html",
-      "source": "Yahoo Sports",
-      "ts": 1768771500.0,
-      "published_iso": "2026-01-18T21:25:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-18-la-rams-chicago-bears-live-updates-score-highlights-8824",
+      "title": "Rams vs. Bears final score: LA wins thriller in overtime",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/01/18/la-rams-chicago-bears-live-updates-score-highlights/88245552007/",
+      "source": "Rams Wire",
+      "ts": 1768782120.0,
+      "published_iso": "2026-01-19T00:22:00+00:00"
     },
     {
-      "id": "https-nfl-com-news-rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
-      "title": "Rams-Bears on Divisional Round Sunday: What We Learned from Los Angeles' 20-17 overtime win",
-      "link": "https://nfl.com/news/rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
-      "source": "NFL.com",
-      "ts": 1768759680.0,
-      "published_iso": "2026-01-18T18:08:00+00:00"
+      "id": "https-cbssports-com-nfl-news-bears-vs-rams-live-updates-score-highlights-nfl-playoffs-live",
+      "title": "Rams survive Caleb Williams' late-game magic, outlast Bears in overtime to advance to NFC Championship Game",
+      "link": "https://cbssports.com/nfl/news/bears-vs-rams-live-updates-score-highlights-nfl-playoffs/live/",
+      "source": "CBS Sports",
+      "ts": 1768764420.0,
+      "published_iso": "2026-01-18T19:27:00+00:00"
     },
     {
       "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
