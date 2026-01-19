@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-01-19T22:42:32.696141+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-19T23:09:40.477575+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-seahawks-coach-announces-season-ending-194525948-html",
+      "title": "Seahawks Coach Announces Season-Ending News Before Rams Game",
+      "link": "https://sports.yahoo.com/articles/seahawks-coach-announces-season-ending-194525948.html",
+      "source": "Yahoo Sports",
+      "ts": 1768835280.0,
+      "published_iso": "2026-01-19T15:08:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-videos-bears-fans-heartbroken-ot-loss-041939051-html",
+      "title": "Bears fans heartbroken by OT loss against Rams after 4th-quarter comeback",
+      "link": "https://yahoo.com/news/videos/bears-fans-heartbroken-ot-loss-041939051.html",
+      "source": "Yahoo",
+      "ts": 1768834860.0,
+      "published_iso": "2026-01-19T15:01:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-takeaways-los-angeles-rams-ot-031706643-html",
       "title": "Takeaways from Los Angeles’ Rams OT Divisional Round Win vs Chicago Bears",
