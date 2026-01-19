@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-19T18:15:21.813378+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-19T18:51:59.948544+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-davante-adams-talks-playoff-win-over-bears",
@@ -11,12 +11,12 @@
       "published_iso": "2026-01-19T10:09:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-takeaways-los-angeles-rams-ot-031706643-html",
-      "title": "Takeaways from Los Angeles’ Rams OT Divisional Round Win vs Chicago Bears",
-      "link": "https://sports.yahoo.com/articles/takeaways-los-angeles-rams-ot-031706643.html",
+      "id": "https-sports-yahoo-com-articles-nfc-championship-2026-opening-odds-172737584-html",
+      "title": "NFC Championship 2026 opening odds: Seahawks favored over Rams, but just barely",
+      "link": "https://sports.yahoo.com/articles/nfc-championship-2026-opening-odds-172737584.html",
       "source": "Yahoo Sports",
-      "ts": 1768771500.0,
-      "published_iso": "2026-01-18T21:25:00+00:00"
+      "ts": 1768815300.0,
+      "published_iso": "2026-01-19T09:35:00+00:00"
     },
     {
       "id": "https-nfl-com-news-rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
@@ -25,6 +25,14 @@
       "source": "NFL.com",
       "ts": 1768759680.0,
       "published_iso": "2026-01-18T18:08:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
+      "title": "Rams vs. Bears Highlights: Los Angeles Advances on Game-Winning FG in Overtime",
+      "link": "https://foxsports.com/live-blog/nfl/rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
+      "source": "FOX Sports",
+      "ts": 1768745880.0,
+      "published_iso": "2026-01-18T14:18:00+00:00"
     }
   ]
 }
