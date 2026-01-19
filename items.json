@@ -1,23 +1,7 @@
 {
-  "updated_iso": "2026-01-19T14:20:50.893224+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-19T14:50:26.867492+00:00",
+  "count": 1,
   "items": [
-    {
-      "id": "https-cbssports-com-nfl-news-rams-sean-mcvay-bad-coaching-bears-nfl-playoffs",
-      "title": "Rams' Sean McVay critical of his own 'bad coaching' in playoff win over Bears: 'I have to be better'",
-      "link": "https://cbssports.com/nfl/news/rams-sean-mcvay-bad-coaching-bears-nfl-playoffs/",
-      "source": "CBS Sports",
-      "ts": 1768803540.0,
-      "published_iso": "2026-01-19T06:19:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-playoff-win-may-just-100001042-html",
-      "title": "Rams' playoff win may have just cost the Browns a head coach candidate",
-      "link": "https://sports.yahoo.com/articles/rams-playoff-win-may-just-100001042.html",
-      "source": "Yahoo Sports",
-      "ts": 1768802700.0,
-      "published_iso": "2026-01-19T06:05:00+00:00"
-    },
     {
       "id": "https-nfl-com-news-rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
       "title": "Rams-Bears on Divisional Round Sunday: What We Learned from Los Angeles' 20-17 overtime win",
