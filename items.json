@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-19T19:11:06.068936+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-19T19:36:29.739002+00:00",
+  "count": 5,
   "items": [
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-cobie-durant-talks-multi-interception-performance-playoff-victory",
@@ -19,12 +19,28 @@
       "published_iso": "2026-01-19T10:09:00+00:00"
     },
     {
+      "id": "https-apnews-com-article-rams-bears-score-8e97bcf5c6bdfa7510cf31d744b94955",
+      "title": "Rams shake off wild, late TD pass by Caleb Williams, beat Bears 20-17 in OT to reach NFC title game",
+      "link": "https://apnews.com/article/rams-bears-score-8e97bcf5c6bdfa7510cf31d744b94955",
+      "source": "AP News",
+      "ts": 1768771440.0,
+      "published_iso": "2026-01-18T21:24:00+00:00"
+    },
+    {
       "id": "https-nfl-com-news-rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
       "title": "Rams-Bears on Divisional Round Sunday: What We Learned from Los Angeles' 20-17 overtime win",
       "link": "https://nfl.com/news/rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
       "source": "NFL.com",
       "ts": 1768759680.0,
       "published_iso": "2026-01-18T18:08:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
+      "title": "Rams vs. Bears Highlights: Los Angeles Advances on Game-Winning FG in Overtime",
+      "link": "https://foxsports.com/live-blog/nfl/rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
+      "source": "FOX Sports",
+      "ts": 1768745880.0,
+      "published_iso": "2026-01-18T14:18:00+00:00"
     }
   ]
 }
