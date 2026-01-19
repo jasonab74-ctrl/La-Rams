@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-01-19T07:00:42.097121+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-19T07:46:03.267629+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-la-rams-troll-chicago-bears-062507199-html",
-      "title": "LA Rams troll Chicago Bears with Weenie Hut Jr post",
-      "link": "https://sports.yahoo.com/articles/la-rams-troll-chicago-bears-062507199.html",
-      "source": "Yahoo Sports",
-      "ts": 1768775760.0,
-      "published_iso": "2026-01-18T22:36:00+00:00"
+      "id": "https-nfl-com-news-sean-mcvay-rams-advance-to-nfc-championship-game-after-bears-rally-falls-short",
+      "title": "Sean McVay, Rams advance to NFC Championship Game after Bears' rally falls short",
+      "link": "https://nfl.com/news/sean-mcvay-rams-advance-to-nfc-championship-game-after-bears-rally-falls-short",
+      "source": "NFL.com",
+      "ts": 1768772220.0,
+      "published_iso": "2026-01-18T21:37:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-takeaways-los-angeles-rams-ot-031706643-html",
@@ -19,20 +19,12 @@
       "published_iso": "2026-01-18T21:25:00+00:00"
     },
     {
-      "id": "https-cbssports-com-nfl-news-bears-vs-rams-live-updates-score-highlights-nfl-playoffs-live",
-      "title": "Rams survive Caleb Williams' late-game magic, outlast Bears in overtime to advance to NFC Championship Game",
-      "link": "https://cbssports.com/nfl/news/bears-vs-rams-live-updates-score-highlights-nfl-playoffs/live/",
-      "source": "CBS Sports",
-      "ts": 1768764420.0,
-      "published_iso": "2026-01-18T19:27:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
-      "title": "Rams vs. Bears Highlights: Los Angeles Advances on Game-Winning FG in Overtime",
-      "link": "https://foxsports.com/live-blog/nfl/rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
-      "source": "FOX Sports",
-      "ts": 1768745880.0,
-      "published_iso": "2026-01-18T14:18:00+00:00"
+      "id": "https-nfl-com-news-rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
+      "title": "Rams-Bears on Divisional Round Sunday: What We Learned from Los Angeles' 20-17 overtime win",
+      "link": "https://nfl.com/news/rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
+      "source": "NFL.com",
+      "ts": 1768759680.0,
+      "published_iso": "2026-01-18T18:08:00+00:00"
     }
   ]
 }
