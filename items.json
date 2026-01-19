@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-19T16:14:09.197020+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-19T16:52:07.048260+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-puka-nacua-discusses-playoff-win-over-bears",
+      "title": "Rams' Puka Nacua Discusses Playoff Win Over the Bears",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-puka-nacua-discusses-playoff-win-over-bears",
+      "source": "Sports Illustrated",
+      "ts": 1768810260.0,
+      "published_iso": "2026-01-19T08:11:00+00:00"
+    },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-cobie-durant-talks-multi-interception-performance-playoff-victory",
       "title": "Rams' Cobie Durant Talks Multi-Interception Performance in Playoff Victory",
@@ -11,12 +19,28 @@
       "published_iso": "2026-01-19T07:40:00+00:00"
     },
     {
-      "id": "https-nfl-com-videos-gmfb-reacts-to-rams-nfc-divisional-round-win-vs-bears",
-      "title": "'GMFB' reacts to Rams NFC Divisional Round win vs. Bears",
-      "link": "https://nfl.com/videos/gmfb-reacts-to-rams-nfc-divisional-round-win-vs-bears",
+      "id": "https-sports-yahoo-com-articles-takeaways-los-angeles-rams-ot-031706643-html",
+      "title": "Takeaways from Los Angeles’ Rams OT Divisional Round Win vs Chicago Bears",
+      "link": "https://sports.yahoo.com/articles/takeaways-los-angeles-rams-ot-031706643.html",
+      "source": "Yahoo Sports",
+      "ts": 1768771500.0,
+      "published_iso": "2026-01-18T21:25:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-news-rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
+      "title": "Rams-Bears on Divisional Round Sunday: What We Learned from Los Angeles' 20-17 overtime win",
+      "link": "https://nfl.com/news/rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
       "source": "NFL.com",
-      "ts": 1768807800.0,
-      "published_iso": "2026-01-19T07:30:00+00:00"
+      "ts": 1768759680.0,
+      "published_iso": "2026-01-18T18:08:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
+      "title": "Rams vs. Bears Highlights: Los Angeles Advances on Game-Winning FG in Overtime",
+      "link": "https://foxsports.com/live-blog/nfl/rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
+      "source": "FOX Sports",
+      "ts": 1768745880.0,
+      "published_iso": "2026-01-18T14:18:00+00:00"
     }
   ]
 }
