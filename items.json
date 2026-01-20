@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-20T21:11:27.087116+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-20T21:40:08.225967+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-davante-adams-destined-decide-nfc-championship-game",
+      "title": "Rams' Davante Adams Is Destined to Decide NFC Championship Game",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-davante-adams-destined-decide-nfc-championship-game",
+      "source": "Sports Illustrated",
+      "ts": 1768915440.0,
+      "published_iso": "2026-01-20T13:24:00+00:00"
+    },
     {
       "id": "https-nfl-com-news-rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
       "title": "Rams-Bears on Divisional Round Sunday: What We Learned from Los Angeles' 20-17 overtime win",
