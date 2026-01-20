@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-01-19T23:39:07.081372+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-20T00:46:46.715726+00:00",
+  "count": 5,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-seahawks-coach-announces-season-ending-194525948-html",
-      "title": "Seahawks Coach Announces Season-Ending News Before Rams Game",
-      "link": "https://sports.yahoo.com/articles/seahawks-coach-announces-season-ending-194525948.html",
-      "source": "Yahoo Sports",
-      "ts": 1768835280.0,
-      "published_iso": "2026-01-19T15:08:00+00:00"
+      "id": "https-apnews-com-article-rams-bears-analysis-seahawks-8f76ea894a5143d9c57b4c81d3e3213b",
+      "title": "Rams’ clutch OT victory over Bears masked a poor performance at a bad time by the NFL’s top offense",
+      "link": "https://apnews.com/article/rams-bears-analysis-seahawks-8f76ea894a5143d9c57b4c81d3e3213b",
+      "source": "AP News",
+      "ts": 1768840500.0,
+      "published_iso": "2026-01-19T16:35:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25363825-joe-burrow-says-nfl-catch-rule-confusion-flabbergasts-me-after-bills-broncos-",
+      "title": "Joe Burrow Says NFL Catch Rule Confusion 'Flabbergasts Me' After Bills-Broncos, Rams-Bears Plays",
+      "link": "https://bleacherreport.com/articles/25363825-joe-burrow-says-nfl-catch-rule-confusion-flabbergasts-me-after-bills-broncos-rams-bears-plays",
+      "source": "Bleacher Report",
+      "ts": 1768838100.0,
+      "published_iso": "2026-01-19T15:55:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-takeaways-los-angeles-rams-ot-031706643-html",
@@ -25,6 +33,14 @@
       "source": "NFL.com",
       "ts": 1768759680.0,
       "published_iso": "2026-01-18T18:08:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
+      "title": "Rams vs. Bears Highlights: Los Angeles Advances on Game-Winning FG in Overtime",
+      "link": "https://foxsports.com/live-blog/nfl/rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
+      "source": "FOX Sports",
+      "ts": 1768745880.0,
+      "published_iso": "2026-01-18T14:18:00+00:00"
     }
   ]
 }
