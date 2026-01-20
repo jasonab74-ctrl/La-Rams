@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-20T05:00:33.593864+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-20T05:49:26.355613+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-kam-curl-talks-game-winning-interception-against-bears",
@@ -9,14 +9,6 @@
       "source": "Sports Illustrated",
       "ts": 1768855440.0,
       "published_iso": "2026-01-19T20:44:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-takeaways-los-angeles-rams-ot-031706643-html",
-      "title": "Takeaways from Los Angeles’ Rams OT Divisional Round Win vs Chicago Bears",
-      "link": "https://sports.yahoo.com/articles/takeaways-los-angeles-rams-ot-031706643.html",
-      "source": "Yahoo Sports",
-      "ts": 1768771500.0,
-      "published_iso": "2026-01-18T21:25:00+00:00"
     },
     {
       "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
