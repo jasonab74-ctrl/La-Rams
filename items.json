@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-01-20T00:46:46.715726+00:00",
-  "count": 5,
+  "updated_iso": "2026-01-20T02:53:45.935562+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-apnews-com-article-rams-bears-analysis-seahawks-8f76ea894a5143d9c57b4c81d3e3213b",
-      "title": "Rams’ clutch OT victory over Bears masked a poor performance at a bad time by the NFL’s top offense",
-      "link": "https://apnews.com/article/rams-bears-analysis-seahawks-8f76ea894a5143d9c57b4c81d3e3213b",
-      "source": "AP News",
-      "ts": 1768840500.0,
-      "published_iso": "2026-01-19T16:35:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25363825-joe-burrow-says-nfl-catch-rule-confusion-flabbergasts-me-after-bills-broncos-",
-      "title": "Joe Burrow Says NFL Catch Rule Confusion 'Flabbergasts Me' After Bills-Broncos, Rams-Bears Plays",
-      "link": "https://bleacherreport.com/articles/25363825-joe-burrow-says-nfl-catch-rule-confusion-flabbergasts-me-after-bills-broncos-rams-bears-plays",
-      "source": "Bleacher Report",
-      "ts": 1768838100.0,
-      "published_iso": "2026-01-19T15:55:00+00:00"
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-kam-curl-talks-game-winning-interception-against-bears",
+      "title": "Rams' Kam Curl Talks Game-Winning Interception Against Bears",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-kam-curl-talks-game-winning-interception-against-bears",
+      "source": "Sports Illustrated",
+      "ts": 1768843500.0,
+      "published_iso": "2026-01-19T17:25:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-takeaways-los-angeles-rams-ot-031706643-html",
@@ -25,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1768771500.0,
       "published_iso": "2026-01-18T21:25:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-news-rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
-      "title": "Rams-Bears on Divisional Round Sunday: What We Learned from Los Angeles' 20-17 overtime win",
-      "link": "https://nfl.com/news/rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
-      "source": "NFL.com",
-      "ts": 1768759680.0,
-      "published_iso": "2026-01-18T18:08:00+00:00"
     },
     {
       "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
