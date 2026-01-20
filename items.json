@@ -1,22 +1,22 @@
 {
-  "updated_iso": "2026-01-20T18:18:43.092294+00:00",
-  "count": 5,
+  "updated_iso": "2026-01-20T19:35:19.028064+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-nfc-championship-game-history-ahead-114025969-html",
-      "title": "NFC Championship Game history ahead of Rams-Seahawks showdown",
-      "link": "https://sports.yahoo.com/articles/nfc-championship-game-history-ahead-114025969.html",
+      "id": "https-sports-yahoo-com-articles-takeaways-los-angeles-rams-ot-031706643-html",
+      "title": "Takeaways from Los Angeles’ Rams OT Divisional Round Win vs Chicago Bears",
+      "link": "https://sports.yahoo.com/articles/takeaways-los-angeles-rams-ot-031706643.html",
       "source": "Yahoo Sports",
-      "ts": 1768900320.0,
-      "published_iso": "2026-01-20T09:12:00+00:00"
+      "ts": 1768771500.0,
+      "published_iso": "2026-01-18T21:25:00+00:00"
     },
     {
-      "id": "https-si-com-betting-rams-vs-seahawks-prediction-odds-spread-injuries-trends-for-nfc-championship-game-01kfce6wdy63",
-      "title": "Rams vs. Seahawks Prediction, Odds, Spread, Injuries, Trends for NFC Championship Game",
-      "link": "https://si.com/betting/rams-vs-seahawks-prediction-odds-spread-injuries-trends-for-nfc-championship-game-01kfce6wdy63",
-      "source": "Sports Illustrated",
-      "ts": 1768899600.0,
-      "published_iso": "2026-01-20T09:00:00+00:00"
+      "id": "https-cbssports-com-nfl-news-bears-vs-rams-live-updates-score-highlights-nfl-playoffs-live",
+      "title": "Rams survive Caleb Williams' late-game magic, outlast Bears in overtime to advance to NFC Championship Game",
+      "link": "https://cbssports.com/nfl/news/bears-vs-rams-live-updates-score-highlights-nfl-playoffs/live/",
+      "source": "CBS Sports",
+      "ts": 1768764420.0,
+      "published_iso": "2026-01-18T19:27:00+00:00"
     },
     {
       "id": "https-nfl-com-news-rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
@@ -25,14 +25,6 @@
       "source": "NFL.com",
       "ts": 1768759680.0,
       "published_iso": "2026-01-18T18:08:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
-      "title": "Rams vs. Bears Highlights: Los Angeles Advances on Game-Winning FG in Overtime",
-      "link": "https://foxsports.com/live-blog/nfl/rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
-      "source": "FOX Sports",
-      "ts": 1768745880.0,
-      "published_iso": "2026-01-18T14:18:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-17-nfl-playoff-divisional-rams-vs-bears-injury-report-1-18-",
