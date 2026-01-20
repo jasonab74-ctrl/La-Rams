@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-01-20T07:23:05.575044+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-20T07:45:47.743041+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
-      "title": "Rams vs. Bears Highlights: Los Angeles Advances on Game-Winning FG in Overtime",
-      "link": "https://foxsports.com/live-blog/nfl/rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
-      "source": "FOX Sports",
-      "ts": 1768745880.0,
-      "published_iso": "2026-01-18T14:18:00+00:00"
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-kam-curl-talks-game-winning-interception-against-bears",
+      "title": "Rams' Kam Curl Talks Game-Winning Interception Against Bears",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-kam-curl-talks-game-winning-interception-against-bears",
+      "source": "Sports Illustrated",
+      "ts": 1768855440.0,
+      "published_iso": "2026-01-19T20:44:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-bears-vs-rams-live-updates-score-highlights-nfl-playoffs-live",
+      "title": "Rams survive Caleb Williams' late-game magic, outlast Bears in overtime to advance to NFC Championship Game",
+      "link": "https://cbssports.com/nfl/news/bears-vs-rams-live-updates-score-highlights-nfl-playoffs/live/",
+      "source": "CBS Sports",
+      "ts": 1768764420.0,
+      "published_iso": "2026-01-18T19:27:00+00:00"
     }
   ]
 }
