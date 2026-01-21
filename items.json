@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-01-21T16:21:29.524749+00:00",
+  "updated_iso": "2026-01-21T17:33:37.994532+00:00",
   "count": 3,
   "items": [
     {
-      "id": "https-nfl-com-videos-get-ready-for-rams-seahawks-nfc-championship",
-      "title": "Get ready for Rams-Seahawks | NFC Championship",
-      "link": "https://nfl.com/videos/get-ready-for-rams-seahawks-nfc-championship",
-      "source": "NFL.com",
-      "ts": 1768981440.0,
-      "published_iso": "2026-01-21T07:44:00+00:00"
+      "id": "https-bleacherreport-com-articles-25365266-ben-johnson-explains-why-bears-are-back-square-one-after-nfl-playoff-loss-ram",
+      "title": "Ben Johnson Explains Why Bears Are 'Back to Square One' After NFL Playoff Loss to Rams",
+      "link": "https://bleacherreport.com/articles/25365266-ben-johnson-explains-why-bears-are-back-square-one-after-nfl-playoff-loss-rams",
+      "source": "Bleacher Report",
+      "ts": 1768984020.0,
+      "published_iso": "2026-01-21T08:27:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-bears-vs-rams-live-updates-score-highlights-nfl-playoffs-live",
+      "title": "Rams survive Caleb Williams' late-game magic, outlast Bears in overtime to advance to NFC Championship Game",
+      "link": "https://cbssports.com/nfl/news/bears-vs-rams-live-updates-score-highlights-nfl-playoffs/live/",
+      "source": "CBS Sports",
+      "ts": 1768764420.0,
+      "published_iso": "2026-01-18T19:27:00+00:00"
     },
     {
       "id": "https-nfl-com-news-rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
@@ -17,14 +25,6 @@
       "source": "NFL.com",
       "ts": 1768759680.0,
       "published_iso": "2026-01-18T18:08:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
-      "title": "Rams vs. Bears Highlights: Los Angeles Advances on Game-Winning FG in Overtime",
-      "link": "https://foxsports.com/live-blog/nfl/rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
-      "source": "FOX Sports",
-      "ts": 1768745880.0,
-      "published_iso": "2026-01-18T14:18:00+00:00"
     }
   ]
 }
