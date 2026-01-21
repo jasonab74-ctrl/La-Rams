@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-01-21T15:19:39.201838+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-21T15:53:27.930545+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-cbssports-com-nfl-news-bears-vs-rams-live-updates-score-highlights-nfl-playoffs-live",
-      "title": "Rams survive Caleb Williams' late-game magic, outlast Bears in overtime to advance to NFC Championship Game",
-      "link": "https://cbssports.com/nfl/news/bears-vs-rams-live-updates-score-highlights-nfl-playoffs/live/",
+      "id": "https-nfl-com-videos-get-ready-for-rams-seahawks-nfc-championship",
+      "title": "Get ready for Rams-Seahawks | NFC Championship",
+      "link": "https://nfl.com/videos/get-ready-for-rams-seahawks-nfc-championship",
+      "source": "NFL.com",
+      "ts": 1768981440.0,
+      "published_iso": "2026-01-21T07:44:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-nfc-championship-rams-qb-matthew-stafford-seahawks-super-bowl",
+      "title": "Matthew Stafford weary of Seahawks' defense as Rams near Super Bowl appearance",
+      "link": "https://cbssports.com/nfl/news/nfc-championship-rams-qb-matthew-stafford-seahawks-super-bowl/",
       "source": "CBS Sports",
-      "ts": 1768764420.0,
-      "published_iso": "2026-01-18T19:27:00+00:00"
+      "ts": 1768980300.0,
+      "published_iso": "2026-01-21T07:25:00+00:00"
     },
     {
       "id": "https-nfl-com-news-rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
@@ -17,6 +25,14 @@
       "source": "NFL.com",
       "ts": 1768759680.0,
       "published_iso": "2026-01-18T18:08:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
+      "title": "Rams vs. Bears Highlights: Los Angeles Advances on Game-Winning FG in Overtime",
+      "link": "https://foxsports.com/live-blog/nfl/rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
+      "source": "FOX Sports",
+      "ts": 1768745880.0,
+      "published_iso": "2026-01-18T14:18:00+00:00"
     }
   ]
 }
