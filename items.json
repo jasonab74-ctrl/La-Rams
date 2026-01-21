@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-01-21T13:14:52.248719+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-21T13:58:56.811514+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-nfl-com-news-seahawks-rb-kenneth-walker-iii-must-shoulder-the-load-in-nfc-championship-game-vs-rams",
-      "title": "Seahawks RB Kenneth Walker III must shoulder the load in NFC Championship Game vs. Rams",
-      "link": "https://nfl.com/news/seahawks-rb-kenneth-walker-iii-must-shoulder-the-load-in-nfc-championship-game-vs-rams",
-      "source": "NFL.com",
-      "ts": 1768964700.0,
-      "published_iso": "2026-01-21T03:05:00+00:00"
+      "id": "https-cbssports-com-nfl-news-rams-vs-seahawks-nfc-championship-five-trends",
+      "title": "Rams vs. Seahawks NFC Championship: Five trends from first two meetings and how they could impact Part 3",
+      "link": "https://cbssports.com/nfl/news/rams-vs-seahawks-nfc-championship-five-trends/",
+      "source": "CBS Sports",
+      "ts": 1768974960.0,
+      "published_iso": "2026-01-21T05:56:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-takeaways-los-angeles-rams-ot-031706643-html",
+      "title": "Takeaways from Los Angeles’ Rams OT Divisional Round Win vs Chicago Bears",
+      "link": "https://sports.yahoo.com/articles/takeaways-los-angeles-rams-ot-031706643.html",
+      "source": "Yahoo Sports",
+      "ts": 1768771500.0,
+      "published_iso": "2026-01-18T21:25:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-bears-vs-rams-live-updates-score-highlights-nfl-playoffs-live",
