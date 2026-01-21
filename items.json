@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-21T15:53:27.930545+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-21T16:21:29.524749+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-nfl-com-videos-get-ready-for-rams-seahawks-nfc-championship",
@@ -9,14 +9,6 @@
       "source": "NFL.com",
       "ts": 1768981440.0,
       "published_iso": "2026-01-21T07:44:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-nfc-championship-rams-qb-matthew-stafford-seahawks-super-bowl",
-      "title": "Matthew Stafford weary of Seahawks' defense as Rams near Super Bowl appearance",
-      "link": "https://cbssports.com/nfl/news/nfc-championship-rams-qb-matthew-stafford-seahawks-super-bowl/",
-      "source": "CBS Sports",
-      "ts": 1768980300.0,
-      "published_iso": "2026-01-21T07:25:00+00:00"
     },
     {
       "id": "https-nfl-com-news-rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
