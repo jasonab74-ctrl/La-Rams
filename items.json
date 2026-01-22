@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-22T12:21:50.882104+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-22T13:16:39.178375+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-sean-mcvay-issues-stern-warning-111528337-html",
@@ -17,14 +17,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1768995120.0,
       "published_iso": "2026-01-21T11:32:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1759355460.0,
-      "published_iso": "2025-10-01T21:51:00+00:00"
     }
   ]
 }
