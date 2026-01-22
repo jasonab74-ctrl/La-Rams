@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-01-22T13:58:47.664560+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-22T14:27:28.694573+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-nfl-article-rams-seahawks-nfc-championship-game-playoff-preview-after-2-thrilling-matchups-nfc-we",
-      "title": "Rams-Seahawks NFC championship game playoff preview: After 2 thrilling matchups, NFC West rivals meet again",
-      "link": "https://sports.yahoo.com/nfl/article/rams-seahawks-nfc-championship-game-playoff-preview-after-2-thrilling-matchups-nfc-west-rivals-meet-again-134449316.html",
-      "source": "Yahoo Sports",
-      "ts": 1769061360.0,
-      "published_iso": "2026-01-22T05:56:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-nfc-championship-cbs-sports-staff-predictions-seahawks-rams-nfl-playoffs",
-      "title": "NFC championship staff predictions: Seahawks vs. Rams final score picks, odds for NFL playoff game",
-      "link": "https://cbssports.com/nfl/news/nfc-championship-cbs-sports-staff-predictions-seahawks-rams-nfl-playoffs/",
-      "source": "CBS Sports",
-      "ts": 1769061360.0,
-      "published_iso": "2026-01-22T05:56:00+00:00"
+      "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-",
+      "title": "Los Angeles Rams at Seattle Seahawks: How to watch, listen to and live stream the NFC Championship Game",
+      "link": "https://therams.com/news/los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-game-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1768995120.0,
+      "published_iso": "2026-01-21T11:32:00+00:00"
     },
     {
       "id": "https-nfl-com-news-rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
@@ -27,12 +19,12 @@
       "published_iso": "2026-01-18T18:08:00+00:00"
     },
     {
-      "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
-      "title": "Rams vs. Bears Highlights: Los Angeles Advances on Game-Winning FG in Overtime",
-      "link": "https://foxsports.com/live-blog/nfl/rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
       "source": "FOX Sports",
-      "ts": 1768745880.0,
-      "published_iso": "2026-01-18T14:18:00+00:00"
+      "ts": 1759355460.0,
+      "published_iso": "2025-10-01T21:51:00+00:00"
     }
   ]
 }
