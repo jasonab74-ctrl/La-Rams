@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-01-22T20:46:45.253501+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-22T21:12:00.544150+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-foxsports-com-watch-fmc-ndx1bk2colcnm8n2",
-      "title": "Sam Darnold makes NFC Championship in 1st year with Seahawks, Can he beat the Rams? | The Herd",
-      "link": "https://foxsports.com/watch/fmc-ndx1bk2colcnm8n2",
-      "source": "FOX Sports",
-      "ts": 1769080920.0,
-      "published_iso": "2026-01-22T11:22:00+00:00"
+      "id": "https-sports-yahoo-com-articles-matthew-stafford-sends-strong-message-194029383-html",
+      "title": "Matthew Stafford Sends Strong Message on Overcoming Failures Against Seahawks as Rams QB Wins NFL MVP",
+      "link": "https://sports.yahoo.com/articles/matthew-stafford-sends-strong-message-194029383.html",
+      "source": "Yahoo Sports",
+      "ts": 1769085480.0,
+      "published_iso": "2026-01-22T12:38:00+00:00"
     },
     {
       "id": "https-nfl-com-news-rams-vs-seahawks-three-must-know-storylines-nfc-championship-game",
@@ -17,6 +17,22 @@
       "source": "NFL.com",
       "ts": 1769079600.0,
       "published_iso": "2026-01-22T11:00:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-",
+      "title": "Los Angeles Rams at Seattle Seahawks: How to watch, listen to and live stream the NFC Championship Game",
+      "link": "https://therams.com/news/los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-game-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1768995120.0,
+      "published_iso": "2026-01-21T11:32:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-news-rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
+      "title": "Rams-Bears on Divisional Round Sunday: What We Learned from Los Angeles' 20-17 overtime win",
+      "link": "https://nfl.com/news/rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
+      "source": "NFL.com",
+      "ts": 1768759680.0,
+      "published_iso": "2026-01-18T18:08:00+00:00"
     }
   ]
 }
