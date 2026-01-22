@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-22T11:41:21.821773+00:00",
-  "count": 5,
+  "updated_iso": "2026-01-22T12:21:50.882104+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-sean-mcvay-issues-stern-warning-111528337-html",
+      "title": "Sean McVay Issues Stern Warning to Rams Locker Room Amid Matthew Stafford’s Strong Message",
+      "link": "https://sports.yahoo.com/articles/sean-mcvay-issues-stern-warning-111528337.html",
+      "source": "Yahoo Sports",
+      "ts": 1769055480.0,
+      "published_iso": "2026-01-22T04:18:00+00:00"
+    },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-",
       "title": "Los Angeles Rams at Seattle Seahawks: How to watch, listen to and live stream the NFC Championship Game",
@@ -9,30 +17,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1768995120.0,
       "published_iso": "2026-01-21T11:32:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-news-rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
-      "title": "Rams-Bears on Divisional Round Sunday: What We Learned from Los Angeles' 20-17 overtime win",
-      "link": "https://nfl.com/news/rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
-      "source": "NFL.com",
-      "ts": 1768759680.0,
-      "published_iso": "2026-01-18T18:08:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
-      "title": "Rams vs. Bears Highlights: Los Angeles Advances on Game-Winning FG in Overtime",
-      "link": "https://foxsports.com/live-blog/nfl/rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
-      "source": "FOX Sports",
-      "ts": 1768745880.0,
-      "published_iso": "2026-01-18T14:18:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-play-today-schedule-time-075001140-html",
-      "title": "Do the Rams play today? Schedule, time, channel for next Los Angeles NFL playoff game",
-      "link": "https://sports.yahoo.com/articles/rams-play-today-schedule-time-075001140.html",
-      "source": "Yahoo Sports",
-      "ts": 1768608360.0,
-      "published_iso": "2026-01-17T00:06:00+00:00"
     },
     {
       "id": "https-foxsports-com-nfl-los-angeles-rams-team",
