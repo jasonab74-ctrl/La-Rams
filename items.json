@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-01-22T19:16:11.290859+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-22T19:41:08.500251+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-foxsports-com-watch-fmc-ndx1bk2colcnm8n2",
+      "title": "Sam Darnold makes NFC Championship in 1st year with Seahawks, Can he beat the Rams? | The Herd",
+      "link": "https://foxsports.com/watch/fmc-ndx1bk2colcnm8n2",
+      "source": "FOX Sports",
+      "ts": 1769080920.0,
+      "published_iso": "2026-01-22T11:22:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
+      "title": "Rams vs. Bears Highlights: Los Angeles Advances on Game-Winning FG in Overtime",
+      "link": "https://foxsports.com/live-blog/nfl/rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
+      "source": "FOX Sports",
+      "ts": 1768745880.0,
+      "published_iso": "2026-01-18T14:18:00+00:00"
+    }
+  ]
 }
