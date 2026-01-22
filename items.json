@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-01-22T22:11:01.831074+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-22T22:44:49.277189+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-bears-vs-rams-set-nfl-223000748-html",
+      "title": "Bears vs Rams Set An NFL Playoff Viewership Record",
+      "link": "https://sports.yahoo.com/articles/bears-vs-rams-set-nfl-223000748.html",
+      "source": "Yahoo Sports",
+      "ts": 1769092920.0,
+      "published_iso": "2026-01-22T14:42:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-seahawks-rams-meet-3rd-time-222333209-html",
+      "title": "Seahawks, Rams will meet for 3rd time this season as division foes play for Super Bowl berth",
+      "link": "https://sports.yahoo.com/articles/seahawks-rams-meet-3rd-time-222333209.html",
+      "source": "Yahoo Sports",
+      "ts": 1769092680.0,
+      "published_iso": "2026-01-22T14:38:00+00:00"
+    },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-matthew-stafford-shares-first-thoughts-seahawks-showdown",
       "title": "Rams' Matthew Stafford Shares First Thoughts on Seahawks Showdown",
