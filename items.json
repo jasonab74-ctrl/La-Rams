@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-22T16:18:37.431714+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-22T16:56:41.838450+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-nfl-com-videos-what-will-ultimately-decide-rams-seahawks-nfc-championship-game-gmfb",
+      "title": "What will ultimately decide Rams-Seahawks NFC Championship game? | 'GMFB'",
+      "link": "https://nfl.com/videos/what-will-ultimately-decide-rams-seahawks-nfc-championship-game-gmfb",
+      "source": "NFL.com",
+      "ts": 1769071740.0,
+      "published_iso": "2026-01-22T08:49:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-seahawks-used-last-rams-loss-160036166-html",
       "title": "Seahawks used last Rams loss to reinvigorate the team",
