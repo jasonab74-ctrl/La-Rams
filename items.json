@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-22T09:51:07.994513+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-22T10:15:02.172106+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-",
@@ -17,6 +17,14 @@
       "source": "NFL.com",
       "ts": 1768759680.0,
       "published_iso": "2026-01-18T18:08:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
+      "title": "Rams vs. Bears Highlights: Los Angeles Advances on Game-Winning FG in Overtime",
+      "link": "https://foxsports.com/live-blog/nfl/rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
+      "source": "FOX Sports",
+      "ts": 1768745880.0,
+      "published_iso": "2026-01-18T14:18:00+00:00"
     },
     {
       "id": "https-foxsports-com-nfl-los-angeles-rams-team",
