@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-21T23:43:42.514942+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-22T00:49:33.834648+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-",
+      "title": "Los Angeles Rams at Seattle Seahawks: How to watch, listen to and live stream the NFC Championship Game",
+      "link": "https://therams.com/news/los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-game-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1768995120.0,
+      "published_iso": "2026-01-21T11:32:00+00:00"
+    },
     {
       "id": "https-nfl-com-news-rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
       "title": "Rams-Bears on Divisional Round Sunday: What We Learned from Los Angeles' 20-17 overtime win",
