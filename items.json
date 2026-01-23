@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-01-23T16:53:19.436738+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-23T17:16:58.194844+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-seahawks-final-score-predictions-140000598-html",
+      "title": "Rams at Seahawks Final Score Predictions: Fierce rivalry matchup will send one NFC West team to the Super Bowl",
+      "link": "https://sports.yahoo.com/articles/rams-seahawks-final-score-predictions-140000598.html",
+      "source": "Yahoo Sports",
+      "ts": 1769159700.0,
+      "published_iso": "2026-01-23T09:15:00+00:00"
+    }
+  ]
 }
