@@ -1,30 +1,22 @@
 {
-  "updated_iso": "2026-01-23T20:44:25.033650+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-23T21:09:56.810962+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-true-rooting-guide-49ers-fans-201704357-html",
-      "title": "The true rooting guide for 49ers fans for Sunday’s Rams-Seahawks game",
-      "link": "https://sports.yahoo.com/articles/true-rooting-guide-49ers-fans-201704357.html",
+      "id": "https-sports-yahoo-com-articles-rams-oc-among-three-candidates-204447902-html",
+      "title": "Rams OC among three candidates for Cardinals' HC job",
+      "link": "https://sports.yahoo.com/articles/rams-oc-among-three-candidates-204447902.html",
       "source": "Yahoo Sports",
-      "ts": 1769171040.0,
-      "published_iso": "2026-01-23T12:24:00+00:00"
+      "ts": 1769173320.0,
+      "published_iso": "2026-01-23T13:02:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-rams-nfl-history-road-win-193151120-html",
-      "title": "How Rams can make NFL history with road win vs. Seahawks in NFC Championship",
-      "link": "https://sports.yahoo.com/articles/rams-nfl-history-road-win-193151120.html",
+      "id": "https-sports-yahoo-com-articles-rams-x-factor-receiver-vs-202552451-html",
+      "title": "Rams X factor receiver vs. Seahawks is not Puka Nacua or Davante Adams",
+      "link": "https://sports.yahoo.com/articles/rams-x-factor-receiver-vs-202552451.html",
       "source": "Yahoo Sports",
-      "ts": 1769169240.0,
-      "published_iso": "2026-01-23T11:54:00+00:00"
-    },
-    {
-      "id": "https-therams-com-video-rams-vs-seahawks-two-rivals-one-champion-2025-nfc-championship-game-trailer",
-      "title": "Rams vs. Seahawks: Two rivals, one champion | Game Trailer",
-      "link": "https://therams.com/video/rams-vs-seahawks-two-rivals-one-champion-2025-nfc-championship-game-trailer",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1769165880.0,
-      "published_iso": "2026-01-23T10:58:00+00:00"
+      "ts": 1769172420.0,
+      "published_iso": "2026-01-23T12:47:00+00:00"
     }
   ]
 }
