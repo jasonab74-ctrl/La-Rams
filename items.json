@@ -1,30 +1,22 @@
 {
-  "updated_iso": "2026-01-23T17:43:37.873444+00:00",
-  "count": 7,
+  "updated_iso": "2026-01-23T18:16:22.942162+00:00",
+  "count": 6,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-vs-seahawks-props-best-172400058-html",
-      "title": "Rams vs Seahawks Props & Best Bets for the NFC Championship Game",
-      "link": "https://sports.yahoo.com/articles/rams-vs-seahawks-props-best-172400058.html",
+      "id": "https-sports-yahoo-com-articles-5-key-victory-rams-avenge-180000414-html",
+      "title": "5 Key to Victory: Can Rams avenge Week 16 loss to Seahawks?",
+      "link": "https://sports.yahoo.com/articles/5-key-victory-rams-avenge-180000414.html",
       "source": "Yahoo Sports",
-      "ts": 1769161020.0,
-      "published_iso": "2026-01-23T09:37:00+00:00"
+      "ts": 1769163000.0,
+      "published_iso": "2026-01-23T10:10:00+00:00"
     },
     {
-      "id": "https-cbssports-com-nfl-news-nfl-conference-championship-picks-experts-square-off-on-patriots-at-broncos-rams-vs-seahawk",
-      "title": "NFL conference championship picks: Experts square off on Patriots at Broncos, Rams vs. Seahawks",
-      "link": "https://cbssports.com/nfl/news/nfl-conference-championship-picks-experts-square-off-on-patriots-at-broncos-rams-vs-seahawks/",
-      "source": "CBS Sports",
-      "ts": 1769160060.0,
-      "published_iso": "2026-01-23T09:21:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-seahawks-final-score-predictions-140000598-html",
-      "title": "Rams at Seahawks Final Score Predictions: Fierce rivalry matchup will send one NFC West team to the Super Bowl",
-      "link": "https://sports.yahoo.com/articles/rams-seahawks-final-score-predictions-140000598.html",
+      "id": "https-sports-yahoo-com-articles-kam-curl-explains-sean-mcvay-175125432-html",
+      "title": "Kam Curl explains how Sean McVay recruited him to Rams",
+      "link": "https://sports.yahoo.com/articles/kam-curl-explains-sean-mcvay-175125432.html",
       "source": "Yahoo Sports",
-      "ts": 1769159700.0,
-      "published_iso": "2026-01-23T09:15:00+00:00"
+      "ts": 1769162400.0,
+      "published_iso": "2026-01-23T10:00:00+00:00"
     },
     {
       "id": "https-si-com-betting-rams-vs-seahawks-prediction-odds-and-best-prop-bet-for-nfc-championship-game",
@@ -43,20 +35,20 @@
       "published_iso": "2026-01-23T08:51:00+00:00"
     },
     {
-      "id": "https-nfl-com-news-rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
-      "title": "Rams-Bears on Divisional Round Sunday: What We Learned from Los Angeles' 20-17 overtime win",
-      "link": "https://nfl.com/news/rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
-      "source": "NFL.com",
-      "ts": 1768759680.0,
-      "published_iso": "2026-01-18T18:08:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-23-rams-vs-seahawks-experts-make-nfc-championship-picks-883",
+      "title": "Rams vs. Seahawks: Experts make NFC championship picks",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/01/23/rams-vs-seahawks-experts-make-nfc-championship-picks/88317068007/",
+      "source": "Rams Wire",
+      "ts": 1769153940.0,
+      "published_iso": "2026-01-23T07:39:00+00:00"
     },
     {
-      "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
-      "title": "Rams vs. Bears Highlights: Los Angeles Advances on Game-Winning FG in Overtime",
-      "link": "https://foxsports.com/live-blog/nfl/rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
-      "source": "FOX Sports",
-      "ts": 1768745880.0,
-      "published_iso": "2026-01-18T14:18:00+00:00"
+      "id": "https-cbssports-com-nfl-news-bears-vs-rams-live-updates-score-highlights-nfl-playoffs-live",
+      "title": "Rams survive Caleb Williams' late-game magic, outlast Bears in overtime to advance to NFC Championship Game",
+      "link": "https://cbssports.com/nfl/news/bears-vs-rams-live-updates-score-highlights-nfl-playoffs/live/",
+      "source": "CBS Sports",
+      "ts": 1768764420.0,
+      "published_iso": "2026-01-18T19:27:00+00:00"
     }
   ]
 }
