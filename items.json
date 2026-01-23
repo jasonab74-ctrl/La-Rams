@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-23T10:12:31.082847+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-23T10:47:48.063991+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-nfl-com-news-rams-vs-seahawks-three-must-know-storylines-nfc-championship-game",
+      "title": "Rams vs. Seahawks: Three must-know storylines for Sunday's NFC Championship Game",
+      "link": "https://nfl.com/news/rams-vs-seahawks-three-must-know-storylines-nfc-championship-game",
+      "source": "NFL.com",
+      "ts": 1769079600.0,
+      "published_iso": "2026-01-22T11:00:00+00:00"
+    },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-",
       "title": "Los Angeles Rams at Seattle Seahawks: How to watch, listen to and live stream the NFC Championship Game",
@@ -9,6 +17,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1768995120.0,
       "published_iso": "2026-01-21T11:32:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-news-rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
+      "title": "Rams-Bears on Divisional Round Sunday: What We Learned from Los Angeles' 20-17 overtime win",
+      "link": "https://nfl.com/news/rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
+      "source": "NFL.com",
+      "ts": 1768759680.0,
+      "published_iso": "2026-01-18T18:08:00+00:00"
     },
     {
       "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
