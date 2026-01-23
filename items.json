@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2026-01-23T13:12:47.317171+00:00",
-  "count": 5,
+  "updated_iso": "2026-01-23T13:55:32.786038+00:00",
+  "count": 6,
   "items": [
     {
-      "id": "https-cbssports-com-nfl-news-nfl-championship-games-weather-betting-impact-of-forecast-for-patriots-vs-broncos-and-rams-",
-      "title": "NFL Championship Games weather: Betting impact of forecast for Patriots vs. Broncos and Rams vs. Seahawks",
-      "link": "https://cbssports.com/nfl/news/nfl-championship-games-weather-betting-impact-of-forecast-for-patriots-vs-broncos-and-rams-vs-seahawks/",
+      "id": "https-si-com-betting-rams-vs-seahawks-prediction-odds-and-best-prop-bet-for-nfc-championship-game",
+      "title": "Rams vs. Seahawks Prediction, Odds and Best Prop Bet for NFC Championship Game",
+      "link": "https://si.com/betting/rams-vs-seahawks-prediction-odds-and-best-prop-bet-for-nfc-championship-game",
+      "source": "Sports Illustrated",
+      "ts": 1769146680.0,
+      "published_iso": "2026-01-23T05:38:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-rams-seahawks-nfc-championship-expert-picks-odds-nfl-playoffs-best-bets-where-to-watch-tv-s",
+      "title": "Rams vs. Seahawks: NFC Championship expert picks, odds, NFL playoffs best bets, where to watch, TV, stream",
+      "link": "https://cbssports.com/nfl/news/rams-seahawks-nfc-championship-expert-picks-odds-nfl-playoffs-best-bets-where-to-watch-tv-stream/",
       "source": "CBS Sports",
-      "ts": 1769145060.0,
-      "published_iso": "2026-01-23T05:11:00+00:00"
+      "ts": 1769146560.0,
+      "published_iso": "2026-01-23T05:36:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-seahawks-combat-rams-matthew-stafford-130000127-html",
+      "title": "Seahawks work to combat Rams’ Matthew Stafford’s no-look passes in title game",
+      "link": "https://sports.yahoo.com/articles/seahawks-combat-rams-matthew-stafford-130000127.html",
+      "source": "Yahoo Sports",
+      "ts": 1769145540.0,
+      "published_iso": "2026-01-23T05:19:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-nfc-championship-predictions-seahawks-rams-130000726-html",
@@ -17,14 +33,6 @@
       "source": "Yahoo Sports",
       "ts": 1769145000.0,
       "published_iso": "2026-01-23T05:10:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-news-rams-defense-looking-forward-to-flashing-receiver-skills-vs-sam-darnold-seahawks",
-      "title": "Rams defense looking forward to flashing 'receiver skills' vs. Sam Darnold, Seahawks",
-      "link": "https://nfl.com/news/rams-defense-looking-forward-to-flashing-receiver-skills-vs-sam-darnold-seahawks",
-      "source": "NFL.com",
-      "ts": 1769138220.0,
-      "published_iso": "2026-01-23T03:17:00+00:00"
     },
     {
       "id": "https-nfl-com-news-rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
