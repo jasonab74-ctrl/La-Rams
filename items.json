@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-01-23T15:45:38.373418+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-23T16:15:16.476185+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-vs-seahawks-experts-nfc-152741724-html",
-      "title": "Rams vs. Seahawks: Experts make NFC championship picks",
-      "link": "https://sports.yahoo.com/articles/rams-vs-seahawks-experts-nfc-152741724.html",
+      "id": "https-sports-yahoo-com-articles-rams-vs-seahawks-nfc-west-155255539-html",
+      "title": "Rams vs. Seahawks NFC West trilogy will be cinema with Super Bowl berth on line",
+      "link": "https://sports.yahoo.com/articles/rams-vs-seahawks-nfc-west-155255539.html",
       "source": "Yahoo Sports",
-      "ts": 1769154060.0,
-      "published_iso": "2026-01-23T07:41:00+00:00"
+      "ts": 1769155320.0,
+      "published_iso": "2026-01-23T08:02:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-23-rams-named-best-landing-spot-kyler-murray-tua-tagovailoa",
@@ -17,14 +17,6 @@
       "source": "Rams Wire",
       "ts": 1769148780.0,
       "published_iso": "2026-01-23T06:13:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
-      "title": "Rams vs. Bears Highlights: Los Angeles Advances on Game-Winning FG in Overtime",
-      "link": "https://foxsports.com/live-blog/nfl/rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
-      "source": "FOX Sports",
-      "ts": 1768745880.0,
-      "published_iso": "2026-01-18T14:18:00+00:00"
     }
   ]
 }
