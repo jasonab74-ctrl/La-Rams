@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-23T19:15:22.601502+00:00",
-  "count": 5,
+  "updated_iso": "2026-01-23T19:38:29.557000+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-foxsports-com-watch-fmc-b1saz43zk42lom5r",
+      "title": "Tom Brady on Rams vs. Seahawks, Jarrett Stidham vs. Drake Maye, Indiana | FULL INTERVIEW | The Herd",
+      "link": "https://foxsports.com/watch/fmc-b1saz43zk42lom5r",
+      "source": "FOX Sports",
+      "ts": 1769167680.0,
+      "published_iso": "2026-01-23T11:28:00+00:00"
+    },
     {
       "id": "https-therams-com-news-rams-seahawks-iii-battle-seattle-super-bowl-berth-on-the-line-game-preview",
       "title": "Rams-Seahawks III: Battle in Seattle with a Super Bowl berth on the line | Game Preview",
@@ -9,22 +17,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1769166120.0,
       "published_iso": "2026-01-23T11:02:00+00:00"
-    },
-    {
-      "id": "https-therams-com-video-rams-vs-seahawks-two-rivals-one-champion-2025-nfc-championship-game-trailer",
-      "title": "Rams vs. Seahawks: Two rivals, one champion | Game Trailer",
-      "link": "https://therams.com/video/rams-vs-seahawks-two-rivals-one-champion-2025-nfc-championship-game-trailer",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1769165880.0,
-      "published_iso": "2026-01-23T10:58:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-5-key-victory-rams-avenge-180000414-html",
-      "title": "5 Key to Victory: Can Rams avenge Week 16 loss to Seahawks?",
-      "link": "https://sports.yahoo.com/articles/5-key-victory-rams-avenge-180000414.html",
-      "source": "Yahoo Sports",
-      "ts": 1769163000.0,
-      "published_iso": "2026-01-23T10:10:00+00:00"
     },
     {
       "id": "https-nfl-com-news-rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
