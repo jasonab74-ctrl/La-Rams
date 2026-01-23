@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-01-23T17:16:58.194844+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-23T17:43:37.873444+00:00",
+  "count": 7,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-vs-seahawks-props-best-172400058-html",
+      "title": "Rams vs Seahawks Props & Best Bets for the NFC Championship Game",
+      "link": "https://sports.yahoo.com/articles/rams-vs-seahawks-props-best-172400058.html",
+      "source": "Yahoo Sports",
+      "ts": 1769161020.0,
+      "published_iso": "2026-01-23T09:37:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-nfl-conference-championship-picks-experts-square-off-on-patriots-at-broncos-rams-vs-seahawk",
+      "title": "NFL conference championship picks: Experts square off on Patriots at Broncos, Rams vs. Seahawks",
+      "link": "https://cbssports.com/nfl/news/nfl-conference-championship-picks-experts-square-off-on-patriots-at-broncos-rams-vs-seahawks/",
+      "source": "CBS Sports",
+      "ts": 1769160060.0,
+      "published_iso": "2026-01-23T09:21:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-seahawks-final-score-predictions-140000598-html",
       "title": "Rams at Seahawks Final Score Predictions: Fierce rivalry matchup will send one NFC West team to the Super Bowl",
@@ -9,6 +25,38 @@
       "source": "Yahoo Sports",
       "ts": 1769159700.0,
       "published_iso": "2026-01-23T09:15:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-rams-vs-seahawks-prediction-odds-and-best-prop-bet-for-nfc-championship-game",
+      "title": "Rams vs. Seahawks Prediction, Odds and Best Prop Bet for NFC Championship Game",
+      "link": "https://si.com/betting/rams-vs-seahawks-prediction-odds-and-best-prop-bet-for-nfc-championship-game",
+      "source": "Sports Illustrated",
+      "ts": 1769158800.0,
+      "published_iso": "2026-01-23T09:00:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-23-why-rams-db-loves-playing-sam-darnold-seahawks-more-pick",
+      "title": "Why Rams DB loves playing Sam Darnold, Seahawks: 'More picks for me'",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/01/23/why-rams-db-loves-playing-sam-darnold-seahawks-more-picks-for-me/88318482007/",
+      "source": "Rams Wire",
+      "ts": 1769158260.0,
+      "published_iso": "2026-01-23T08:51:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-news-rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
+      "title": "Rams-Bears on Divisional Round Sunday: What We Learned from Los Angeles' 20-17 overtime win",
+      "link": "https://nfl.com/news/rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
+      "source": "NFL.com",
+      "ts": 1768759680.0,
+      "published_iso": "2026-01-18T18:08:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
+      "title": "Rams vs. Bears Highlights: Los Angeles Advances on Game-Winning FG in Overtime",
+      "link": "https://foxsports.com/live-blog/nfl/rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
+      "source": "FOX Sports",
+      "ts": 1768745880.0,
+      "published_iso": "2026-01-18T14:18:00+00:00"
     }
   ]
 }
