@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-01-23T18:54:51.838658+00:00",
+  "updated_iso": "2026-01-23T19:15:22.601502+00:00",
   "count": 5,
   "items": [
+    {
+      "id": "https-therams-com-news-rams-seahawks-iii-battle-seattle-super-bowl-berth-on-the-line-game-preview",
+      "title": "Rams-Seahawks III: Battle in Seattle with a Super Bowl berth on the line | Game Preview",
+      "link": "https://therams.com/news/rams-seahawks-iii-battle-seattle-super-bowl-berth-on-the-line-game-preview",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1769166120.0,
+      "published_iso": "2026-01-23T11:02:00+00:00"
+    },
+    {
+      "id": "https-therams-com-video-rams-vs-seahawks-two-rivals-one-champion-2025-nfc-championship-game-trailer",
+      "title": "Rams vs. Seahawks: Two rivals, one champion | Game Trailer",
+      "link": "https://therams.com/video/rams-vs-seahawks-two-rivals-one-champion-2025-nfc-championship-game-trailer",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1769165880.0,
+      "published_iso": "2026-01-23T10:58:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-5-key-victory-rams-avenge-180000414-html",
       "title": "5 Key to Victory: Can Rams avenge Week 16 loss to Seahawks?",
@@ -9,14 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1769163000.0,
       "published_iso": "2026-01-23T10:10:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-kam-curl-explains-sean-mcvay-175125432-html",
-      "title": "Kam Curl explains how Sean McVay recruited him to Rams",
-      "link": "https://sports.yahoo.com/articles/kam-curl-explains-sean-mcvay-175125432.html",
-      "source": "Yahoo Sports",
-      "ts": 1769162400.0,
-      "published_iso": "2026-01-23T10:00:00+00:00"
     },
     {
       "id": "https-nfl-com-news-rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
@@ -33,14 +41,6 @@
       "source": "FOX Sports",
       "ts": 1768745880.0,
       "published_iso": "2026-01-18T14:18:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1759355460.0,
-      "published_iso": "2025-10-01T21:51:00+00:00"
     }
   ]
 }
