@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-23T20:12:00.763219+00:00",
-  "count": 5,
+  "updated_iso": "2026-01-23T20:44:25.033650+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-true-rooting-guide-49ers-fans-201704357-html",
+      "title": "The true rooting guide for 49ers fans for Sunday’s Rams-Seahawks game",
+      "link": "https://sports.yahoo.com/articles/true-rooting-guide-49ers-fans-201704357.html",
+      "source": "Yahoo Sports",
+      "ts": 1769171040.0,
+      "published_iso": "2026-01-23T12:24:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-nfl-history-road-win-193151120-html",
       "title": "How Rams can make NFL history with road win vs. Seahawks in NFC Championship",
@@ -11,36 +19,12 @@
       "published_iso": "2026-01-23T11:54:00+00:00"
     },
     {
-      "id": "https-foxsports-com-watch-fmc-b1saz43zk42lom5r",
-      "title": "Tom Brady on Rams vs. Seahawks, Jarrett Stidham vs. Drake Maye, Indiana | FULL INTERVIEW | The Herd",
-      "link": "https://foxsports.com/watch/fmc-b1saz43zk42lom5r",
-      "source": "FOX Sports",
-      "ts": 1769167680.0,
-      "published_iso": "2026-01-23T11:28:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-seahawks-iii-battle-seattle-super-bowl-berth-on-the-line-game-preview",
-      "title": "Rams-Seahawks III: Battle in Seattle with a Super Bowl berth on the line | Game Preview",
-      "link": "https://therams.com/news/rams-seahawks-iii-battle-seattle-super-bowl-berth-on-the-line-game-preview",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1769166120.0,
-      "published_iso": "2026-01-23T11:02:00+00:00"
-    },
-    {
       "id": "https-therams-com-video-rams-vs-seahawks-two-rivals-one-champion-2025-nfc-championship-game-trailer",
       "title": "Rams vs. Seahawks: Two rivals, one champion | Game Trailer",
       "link": "https://therams.com/video/rams-vs-seahawks-two-rivals-one-champion-2025-nfc-championship-game-trailer",
       "source": "Los Angeles Rams (Official)",
       "ts": 1769165880.0,
       "published_iso": "2026-01-23T10:58:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
-      "title": "Rams vs. Bears Highlights: Los Angeles Advances on Game-Winning FG in Overtime",
-      "link": "https://foxsports.com/live-blog/nfl/rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
-      "source": "FOX Sports",
-      "ts": 1768745880.0,
-      "published_iso": "2026-01-18T14:18:00+00:00"
     }
   ]
 }
