@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-23T22:08:18.679168+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-23T22:41:11.706934+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-yahoo-com-news-videos-tom-brady-rams-vs-seahawks-191543181-html",
@@ -9,6 +9,14 @@
       "source": "Yahoo",
       "ts": 1769177040.0,
       "published_iso": "2026-01-23T14:04:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-seahawks-iii-battle-seattle-super-bowl-berth-on-the-line-game-preview",
+      "title": "Rams-Seahawks III: Battle in Seattle with a Super Bowl berth on the line | Game Preview",
+      "link": "https://therams.com/news/rams-seahawks-iii-battle-seattle-super-bowl-berth-on-the-line-game-preview",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1769166120.0,
+      "published_iso": "2026-01-23T11:02:00+00:00"
     }
   ]
 }
