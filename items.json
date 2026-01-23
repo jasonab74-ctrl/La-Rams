@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2026-01-23T11:11:25.069812+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-23T11:39:56.657594+00:00",
+  "count": 5,
   "items": [
     {
-      "id": "https-foxsports-com-articles-nfl-rams-rt-rob-havenstein-is-back-in-practice-after-a-2month-injury-absence-for-the-longti",
-      "title": "Rams RT Rob Havenstein is back in practice after a 2-month injury absence for the longtime starter",
-      "link": "https://foxsports.com/articles/nfl/rams-rt-rob-havenstein-is-back-in-practice-after-a-2month-injury-absence-for-the-longtime-starter",
-      "source": "FOX Sports",
-      "ts": 1769077080.0,
-      "published_iso": "2026-01-22T10:18:00+00:00"
+      "id": "https-sports-yahoo-com-articles-rams-chris-shula-breaks-silence-103000006-html",
+      "title": "Rams’ Chris Shula Breaks Silence on HC Interviews Amid Interest From Steelers for Vacant Job",
+      "link": "https://sports.yahoo.com/articles/rams-chris-shula-breaks-silence-103000006.html",
+      "source": "Yahoo Sports",
+      "ts": 1769138760.0,
+      "published_iso": "2026-01-23T03:26:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-news-rams-vs-seahawks-three-must-know-storylines-nfc-championship-game",
+      "title": "Rams vs. Seahawks: Three must-know storylines for Sunday's NFC Championship Game",
+      "link": "https://nfl.com/news/rams-vs-seahawks-three-must-know-storylines-nfc-championship-game",
+      "source": "NFL.com",
+      "ts": 1769079600.0,
+      "published_iso": "2026-01-22T11:00:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-",
+      "title": "Los Angeles Rams at Seattle Seahawks: How to watch, listen to and live stream the NFC Championship Game",
+      "link": "https://therams.com/news/los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-game-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1768995120.0,
+      "published_iso": "2026-01-21T11:32:00+00:00"
     },
     {
       "id": "https-nfl-com-news-rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
@@ -19,12 +35,12 @@
       "published_iso": "2026-01-18T18:08:00+00:00"
     },
     {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
+      "title": "Rams vs. Bears Highlights: Los Angeles Advances on Game-Winning FG in Overtime",
+      "link": "https://foxsports.com/live-blog/nfl/rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
       "source": "FOX Sports",
-      "ts": 1759355460.0,
-      "published_iso": "2025-10-01T21:51:00+00:00"
+      "ts": 1768745880.0,
+      "published_iso": "2026-01-18T14:18:00+00:00"
     }
   ]
 }
