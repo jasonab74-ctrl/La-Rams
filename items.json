@@ -1,38 +1,14 @@
 {
-  "updated_iso": "2026-01-23T21:39:23.154560+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-23T22:08:18.679168+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-nfl-conference-championship-picks-straight-164357240-html",
-      "title": "NFL Conference Championship picks straight-up and ATS: Predictions for Patriots-Broncos, Rams-Seahawks",
-      "link": "https://sports.yahoo.com/articles/nfl-conference-championship-picks-straight-164357240.html",
-      "source": "Yahoo Sports",
-      "ts": 1769173380.0,
-      "published_iso": "2026-01-23T13:03:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-oc-among-three-candidates-204447902-html",
-      "title": "Rams OC among three candidates for Cardinals' HC job",
-      "link": "https://sports.yahoo.com/articles/rams-oc-among-three-candidates-204447902.html",
-      "source": "Yahoo Sports",
-      "ts": 1769173320.0,
-      "published_iso": "2026-01-23T13:02:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-news-rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
-      "title": "Rams-Bears on Divisional Round Sunday: What We Learned from Los Angeles' 20-17 overtime win",
-      "link": "https://nfl.com/news/rams-bears-on-divisional-round-sunday-what-we-learned-from-los-angeles-20-17-overtime-win",
-      "source": "NFL.com",
-      "ts": 1768759680.0,
-      "published_iso": "2026-01-18T18:08:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
-      "title": "Rams vs. Bears Highlights: Los Angeles Advances on Game-Winning FG in Overtime",
-      "link": "https://foxsports.com/live-blog/nfl/rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
-      "source": "FOX Sports",
-      "ts": 1768745880.0,
-      "published_iso": "2026-01-18T14:18:00+00:00"
+      "id": "https-yahoo-com-news-videos-tom-brady-rams-vs-seahawks-191543181-html",
+      "title": "Tom Brady on Rams vs. Seahawks, Jarrett Stidham vs. Drake Maye, Indiana | FULL INTERVIEW | The Herd",
+      "link": "https://yahoo.com/news/videos/tom-brady-rams-vs-seahawks-191543181.html",
+      "source": "Yahoo",
+      "ts": 1769177040.0,
+      "published_iso": "2026-01-23T14:04:00+00:00"
     }
   ]
 }
