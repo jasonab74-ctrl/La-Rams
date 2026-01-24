@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-01-24T18:14:02.963544+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-24T18:49:05.705645+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-many-super-bowls-rams-won-070001942-html",
+      "title": "How many Super Bowls have the Rams won? History of Los Angeles' big game appearances",
+      "link": "https://sports.yahoo.com/articles/many-super-bowls-rams-won-070001942.html",
+      "source": "Yahoo Sports",
+      "ts": 1769210280.0,
+      "published_iso": "2026-01-23T23:18:00+00:00"
+    }
+  ]
 }
