@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-24T04:50:37.454139+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-24T05:12:18.381890+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-travis-kelce-gushes-aj-barner-041312454-html",
+      "title": "Travis Kelce Gushes About AJ Barner, Admits Seahawks Are a “F**king Tough Team to Beat” Before Rams’ Game",
+      "link": "https://sports.yahoo.com/articles/travis-kelce-gushes-aj-barner-041312454.html",
+      "source": "Yahoo Sports",
+      "ts": 1769201520.0,
+      "published_iso": "2026-01-23T20:52:00+00:00"
+    },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-",
       "title": "Los Angeles Rams at Seattle Seahawks: How to watch, listen to and live stream the NFC Championship Game",
@@ -17,6 +25,14 @@
       "source": "FOX Sports",
       "ts": 1768745880.0,
       "published_iso": "2026-01-18T14:18:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1759355460.0,
+      "published_iso": "2025-10-01T21:51:00+00:00"
     }
   ]
 }
