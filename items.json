@@ -1,14 +1,46 @@
 {
-  "updated_iso": "2026-01-24T07:10:57.981960+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-24T07:37:14.875054+00:00",
+  "count": 5,
   "items": [
     {
-      "id": "https-sportingnews-com-us-nfl-news-rams-super-bowls-history-los-angeles-big-game-appearances-4f0ce0b5e8f828654a2006ca",
+      "id": "https-sports-yahoo-com-articles-many-super-bowls-rams-won-070001942-html",
       "title": "How many Super Bowls have the Rams won? History of Los Angeles' big game appearances",
-      "link": "https://sportingnews.com/us/nfl/news/rams-super-bowls-history-los-angeles-big-game-appearances/4f0ce0b5e8f828654a2006ca",
-      "source": "Sporting News",
-      "ts": 1769209200.0,
-      "published_iso": "2026-01-23T23:00:00+00:00"
+      "link": "https://sports.yahoo.com/articles/many-super-bowls-rams-won-070001942.html",
+      "source": "Yahoo Sports",
+      "ts": 1769210280.0,
+      "published_iso": "2026-01-23T23:18:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-",
+      "title": "Los Angeles Rams at Seattle Seahawks: How to watch, listen to and live stream the NFC Championship Game",
+      "link": "https://therams.com/news/los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-game-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1768995120.0,
+      "published_iso": "2026-01-21T11:32:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
+      "title": "Rams vs. Bears Highlights: Los Angeles Advances on Game-Winning FG in Overtime",
+      "link": "https://foxsports.com/live-blog/nfl/rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
+      "source": "FOX Sports",
+      "ts": 1768745880.0,
+      "published_iso": "2026-01-18T14:18:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-play-today-schedule-time-075001140-html",
+      "title": "Do the Rams play today? Schedule, time, channel for next Los Angeles NFL playoff game",
+      "link": "https://sports.yahoo.com/articles/rams-play-today-schedule-time-075001140.html",
+      "source": "Yahoo Sports",
+      "ts": 1768608360.0,
+      "published_iso": "2026-01-17T00:06:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1759355460.0,
+      "published_iso": "2025-10-01T21:51:00+00:00"
     }
   ]
 }
