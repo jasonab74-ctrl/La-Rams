@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-01-24T22:40:14.156484+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-24T23:09:21.973328+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-ty-simpson-predicted-rams-first-181218085-html",
-      "title": "Ty Simpson Predicted to Be Rams' First-Round Pick as Matthew Stafford's Successor",
-      "link": "https://sports.yahoo.com/articles/ty-simpson-predicted-rams-first-181218085.html",
+      "id": "https-sports-yahoo-com-articles-seahawks-elevate-two-running-backs-223910125-html",
+      "title": "Seahawks elevate two running backs for NFC Championship Game vs. Rams",
+      "link": "https://sports.yahoo.com/articles/seahawks-elevate-two-running-backs-223910125.html",
       "source": "Yahoo Sports",
-      "ts": 1769261700.0,
-      "published_iso": "2026-01-24T13:35:00+00:00"
+      "ts": 1769266440.0,
+      "published_iso": "2026-01-24T14:54:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-seahawks-onsi-seahawks-news-seahawks-super-bowl-nemesis-picking-rams-for-nfc-championship",
+      "title": "Seahawks Super Bowl Nemesis Picking Rams for NFC Championship",
+      "link": "https://si.com/nfl/seahawks/onsi/seahawks-news/seahawks-super-bowl-nemesis-picking-rams-for-nfc-championship",
+      "source": "Sports Illustrated",
+      "ts": 1769264160.0,
+      "published_iso": "2026-01-24T14:16:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-24-rams-seahawks-aaron-donald-honorary-captain-88338081007",
