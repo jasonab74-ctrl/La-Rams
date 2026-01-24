@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-24T17:07:53.618702+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-24T17:39:06.641244+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-si-com-betting-nfl-conference-championship-best-bets-predictions-for-patriots-broncos-rams-seahawks",
+      "title": "NFL Conference Championship Best Bets (Predictions for Patriots-Broncos, Rams-Seahawks)",
+      "link": "https://si.com/betting/nfl-conference-championship-best-bets-predictions-for-patriots-broncos-rams-seahawks",
+      "source": "Sports Illustrated",
+      "ts": 1769246760.0,
+      "published_iso": "2026-01-24T09:26:00+00:00"
+    },
     {
       "id": "https-cbssports-com-nfl-news-rams-seahawks-where-to-watch-nfc-championship-game-score-prediction-sportsbook-promos-odds-",
       "title": "Rams vs. Seahawks: Where to watch NFC Championship Game, score prediction, sportsbook promos, odds, SGP",
@@ -9,6 +17,22 @@
       "source": "CBS Sports",
       "ts": 1769244240.0,
       "published_iso": "2026-01-24T08:44:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-2026-afc-nfc-championship-game-odds-expert-bracket-picks-score-predictions",
+      "title": "2026 AFC, NFC Championship Game odds, bracket picks, score predictions: Expert targeting Rams, Patriots",
+      "link": "https://cbssports.com/nfl/news/2026-afc-nfc-championship-game-odds-expert-bracket-picks-score-predictions/",
+      "source": "CBS Sports",
+      "ts": 1769243040.0,
+      "published_iso": "2026-01-24T08:24:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-many-super-bowls-rams-won-070001942-html",
+      "title": "How many Super Bowls have the Rams won? History of Los Angeles' big game appearances",
+      "link": "https://sports.yahoo.com/articles/many-super-bowls-rams-won-070001942.html",
+      "source": "Yahoo Sports",
+      "ts": 1769210280.0,
+      "published_iso": "2026-01-23T23:18:00+00:00"
     }
   ]
 }
