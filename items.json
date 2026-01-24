@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-24T23:09:21.973328+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-24T23:37:31.670172+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-seahawks-elevate-two-running-backs-223910125-html",
@@ -9,22 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1769266440.0,
       "published_iso": "2026-01-24T14:54:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-seahawks-onsi-seahawks-news-seahawks-super-bowl-nemesis-picking-rams-for-nfc-championship",
-      "title": "Seahawks Super Bowl Nemesis Picking Rams for NFC Championship",
-      "link": "https://si.com/nfl/seahawks/onsi/seahawks-news/seahawks-super-bowl-nemesis-picking-rams-for-nfc-championship",
-      "source": "Sports Illustrated",
-      "ts": 1769264160.0,
-      "published_iso": "2026-01-24T14:16:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-24-rams-seahawks-aaron-donald-honorary-captain-88338081007",
-      "title": "Rams bringing Aaron Donald to Seattle as honorary captain for NFC championship",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/01/24/rams-seahawks-aaron-donald-honorary-captain/88338081007/",
-      "source": "Rams Wire",
-      "ts": 1769253420.0,
-      "published_iso": "2026-01-24T11:17:00+00:00"
     }
   ]
 }
