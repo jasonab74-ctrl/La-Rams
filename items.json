@@ -1,31 +1,7 @@
 {
-  "updated_iso": "2026-01-24T02:47:48.572574+00:00",
-  "count": 5,
+  "updated_iso": "2026-01-24T03:53:35.656347+00:00",
+  "count": 4,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-done-aaron-donald-posts-message-015437877-html",
-      "title": "'Go get it done': Aaron Donald posts message for Rams before NFC championship",
-      "link": "https://sports.yahoo.com/articles/done-aaron-donald-posts-message-015437877.html",
-      "source": "Yahoo Sports",
-      "ts": 1769191440.0,
-      "published_iso": "2026-01-23T18:04:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-sean-mcvay-provides-rob-221015321-html",
-      "title": "Rams’ Sean McVay Provides Rob Havenstein Injury Update Ahead of Seahawks Matchup",
-      "link": "https://sports.yahoo.com/articles/rams-sean-mcvay-provides-rob-221015321.html",
-      "source": "Yahoo Sports",
-      "ts": 1769189820.0,
-      "published_iso": "2026-01-23T17:37:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-articles-nfl-sean-mcvay-turns-40-with-a-new-perspective-on-football-and-the-same-dreams-for-his-los-",
-      "title": "Sean McVay turns 40 with a new perspective on football and the same dreams for his Los Angeles Rams",
-      "link": "https://foxsports.com/articles/nfl/sean-mcvay-turns-40-with-a-new-perspective-on-football-and-the-same-dreams-for-his-los-angeles-rams",
-      "source": "FOX Sports",
-      "ts": 1769166900.0,
-      "published_iso": "2026-01-23T11:15:00+00:00"
-    },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-",
       "title": "Los Angeles Rams at Seattle Seahawks: How to watch, listen to and live stream the NFC Championship Game",
@@ -41,6 +17,22 @@
       "source": "FOX Sports",
       "ts": 1768745880.0,
       "published_iso": "2026-01-18T14:18:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-play-today-schedule-time-075001140-html",
+      "title": "Do the Rams play today? Schedule, time, channel for next Los Angeles NFL playoff game",
+      "link": "https://sports.yahoo.com/articles/rams-play-today-schedule-time-075001140.html",
+      "source": "Yahoo Sports",
+      "ts": 1768608360.0,
+      "published_iso": "2026-01-17T00:06:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1759355460.0,
+      "published_iso": "2025-10-01T21:51:00+00:00"
     }
   ]
 }
