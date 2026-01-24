@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-24T03:53:35.656347+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-24T04:25:16.742565+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-",
@@ -17,22 +17,6 @@
       "source": "FOX Sports",
       "ts": 1768745880.0,
       "published_iso": "2026-01-18T14:18:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-play-today-schedule-time-075001140-html",
-      "title": "Do the Rams play today? Schedule, time, channel for next Los Angeles NFL playoff game",
-      "link": "https://sports.yahoo.com/articles/rams-play-today-schedule-time-075001140.html",
-      "source": "Yahoo Sports",
-      "ts": 1768608360.0,
-      "published_iso": "2026-01-17T00:06:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1759355460.0,
-      "published_iso": "2025-10-01T21:51:00+00:00"
     }
   ]
 }
