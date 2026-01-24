@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-01-24T11:34:38.157776+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-24T12:16:54.075746+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-cbssports-com-nfl-news-nfl-picks-rams-vs-seahawks-sgp-for-nfc-championship-game-features-jaxon-smith-njigba-kyren-",
+      "title": "NFL picks: Rams vs. Seahawks SGP for NFC Championship Game features Jaxon Smith-Njigba, Kyren Williams",
+      "link": "https://cbssports.com/nfl/news/nfl-picks-rams-vs-seahawks-sgp-for-nfc-championship-game-features-jaxon-smith-njigba-kyren-williams/",
+      "source": "CBS Sports",
+      "ts": 1769220720.0,
+      "published_iso": "2026-01-24T02:12:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-",
+      "title": "Los Angeles Rams at Seattle Seahawks: How to watch, listen to and live stream the NFC Championship Game",
+      "link": "https://therams.com/news/los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-game-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1768995120.0,
+      "published_iso": "2026-01-21T11:32:00+00:00"
+    }
+  ]
 }
