@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-01-24T10:09:44.384630+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-24T10:42:00.208447+00:00",
+  "count": 2,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-many-super-bowls-rams-won-070001942-html",
-      "title": "How many Super Bowls have the Rams won? History of Los Angeles' big game appearances",
-      "link": "https://sports.yahoo.com/articles/many-super-bowls-rams-won-070001942.html",
-      "source": "Yahoo Sports",
-      "ts": 1769210280.0,
-      "published_iso": "2026-01-23T23:18:00+00:00"
-    },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-",
       "title": "Los Angeles Rams at Seattle Seahawks: How to watch, listen to and live stream the NFC Championship Game",
@@ -25,14 +17,6 @@
       "source": "FOX Sports",
       "ts": 1768745880.0,
       "published_iso": "2026-01-18T14:18:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1759355460.0,
-      "published_iso": "2025-10-01T21:51:00+00:00"
     }
   ]
 }
