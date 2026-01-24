@@ -1,5 +1,38 @@
 {
-  "updated_iso": "2026-01-24T20:10:00.212149+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-24T20:39:34.729978+00:00",
+  "count": 4,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-immediate-aaron-donald-announcement-200332483-html",
+      "title": "Rams Make Immediate Aaron Donald Announcement For NFC Championship Game vs. Seahawks",
+      "link": "https://sports.yahoo.com/articles/rams-immediate-aaron-donald-announcement-200332483.html",
+      "source": "Yahoo Sports",
+      "ts": 1769258160.0,
+      "published_iso": "2026-01-24T12:36:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-cardinals-reportedly-looking-rams-oc-200327280-html",
+      "title": "Cardinals reportedly 'looking' at Rams OC Mike LaFleur for head coach",
+      "link": "https://sports.yahoo.com/articles/cardinals-reportedly-looking-rams-oc-200327280.html",
+      "source": "Yahoo Sports",
+      "ts": 1769257020.0,
+      "published_iso": "2026-01-24T12:17:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-24-rams-seahawks-aaron-donald-honorary-captain-88338081007",
+      "title": "Rams bringing Aaron Donald to Seattle as honorary captain for NFC championship",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/01/24/rams-seahawks-aaron-donald-honorary-captain/88338081007/",
+      "source": "Rams Wire",
+      "ts": 1769253420.0,
+      "published_iso": "2026-01-24T11:17:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-24-rams-ranked-top-5-most-improved-offense-in-2025-88337808",
+      "title": "Rams ranked top-5 most-improved offense in 2025",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/01/24/rams-ranked-top-5-most-improved-offense-in-2025/88337808007/",
+      "source": "Rams Wire",
+      "ts": 1769251920.0,
+      "published_iso": "2026-01-24T10:52:00+00:00"
+    }
+  ]
 }
