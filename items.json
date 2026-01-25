@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-25T13:47:07.938357+00:00",
+  "updated_iso": "2026-01-25T14:09:02.082756+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-seahawks-worrying-sam-darnold-injury-133704380-html",
+      "title": "Seahawks get worrying Sam Darnold injury update involving oblique, Drew Lock before NFC Championship Game vs. Rams",
+      "link": "https://sports.yahoo.com/articles/seahawks-worrying-sam-darnold-injury-133704380.html",
+      "source": "Yahoo Sports",
+      "ts": 1769320560.0,
+      "published_iso": "2026-01-25T05:56:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-matt-hasselbeck-says-rams-vs-082005482-html",
       "title": "Matt Hasselbeck Says Rams Vs. Seahawks Is Unofficial Super Bowl",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1769319660.0,
       "published_iso": "2026-01-25T05:41:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-why-rams-linemans-helmet-big-130219698-html",
-      "title": "Why is Rams lineman's helmet big? Kevin Dotson's Guardian Cap explained",
-      "link": "https://sports.yahoo.com/articles/why-rams-linemans-helmet-big-130219698.html",
-      "source": "Yahoo Sports",
-      "ts": 1769318220.0,
-      "published_iso": "2026-01-25T05:17:00+00:00"
     }
   ]
 }
