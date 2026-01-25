@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-01-24T23:37:31.670172+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-25T00:54:51.302312+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-seahawks-elevate-two-running-backs-223910125-html",
-      "title": "Seahawks elevate two running backs for NFC Championship Game vs. Rams",
-      "link": "https://sports.yahoo.com/articles/seahawks-elevate-two-running-backs-223910125.html",
+      "id": "https-sports-yahoo-com-articles-nfl-decides-not-fine-rams-211852973-html",
+      "title": "NFL Decides Not to Fine Rams' Jared Verse After Controversial Hit on Caleb Williams",
+      "link": "https://sports.yahoo.com/articles/nfl-decides-not-fine-rams-211852973.html",
       "source": "Yahoo Sports",
-      "ts": 1769266440.0,
-      "published_iso": "2026-01-24T14:54:00+00:00"
+      "ts": 1769272980.0,
+      "published_iso": "2026-01-24T16:43:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-many-super-bowls-rams-won-070001942-html",
+      "title": "How many Super Bowls have the Rams won? History of Los Angeles' big game appearances",
+      "link": "https://sports.yahoo.com/articles/many-super-bowls-rams-won-070001942.html",
+      "source": "Yahoo Sports",
+      "ts": 1769210280.0,
+      "published_iso": "2026-01-23T23:18:00+00:00"
     }
   ]
 }
