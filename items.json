@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-25T16:11:15.238017+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-25T16:45:43.229815+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-seahawks-qb-sam-darnold-pain-151022406-html",
+      "title": "Seahawks QB Sam Darnold will get pain-killing shot for Rams game after failing to ‘let it rip’ in practice",
+      "link": "https://sports.yahoo.com/articles/seahawks-qb-sam-darnold-pain-151022406.html",
+      "source": "Yahoo Sports",
+      "ts": 1769329920.0,
+      "published_iso": "2026-01-25T08:32:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-seahawks-vs-rams-injury-report-154342561-html",
       "title": "Seahawks vs. Rams injury report has 1 player ruled out, 1 doubtful and 2 questionable",
@@ -9,22 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1769328420.0,
       "published_iso": "2026-01-25T08:07:00+00:00"
-    },
-    {
-      "id": "https-si-com-betting-best-nfl-picks-and-predictions-how-to-bet-rams-vs-seahawks-in-nfc-championship-game-01kfkhvz90s2",
-      "title": "Best NFL Picks and Predictions (How to Bet Rams vs. Seahawks in NFC Championship Game)",
-      "link": "https://si.com/betting/best-nfl-picks-and-predictions-how-to-bet-rams-vs-seahawks-in-nfc-championship-game-01kfkhvz90s2",
-      "source": "Sports Illustrated",
-      "ts": 1769328000.0,
-      "published_iso": "2026-01-25T08:00:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25368369-latest-nfl-rumors-puka-nacua-jaxon-smith-njigbas-contracts-after-rams-vs-seah",
-      "title": "Latest NFL Rumors on Puka Nacua, Jaxon Smith-Njigba's Contracts After Rams vs. Seahawks Title Game",
-      "link": "https://bleacherreport.com/articles/25368369-latest-nfl-rumors-puka-nacua-jaxon-smith-njigbas-contracts-after-rams-vs-seahawks-title-game",
-      "source": "Bleacher Report",
-      "ts": 1769324340.0,
-      "published_iso": "2026-01-25T06:59:00+00:00"
     }
   ]
 }
