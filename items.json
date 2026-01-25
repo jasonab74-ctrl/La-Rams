@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-01-25T23:09:27.339009+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-25T23:38:50.001850+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-seahawks-first-half-discussion-230000845-html",
-      "title": "Rams-Seahawks first half discussion: Championship Sunday",
-      "link": "https://sports.yahoo.com/articles/rams-seahawks-first-half-discussion-230000845.html",
+      "id": "https-sports-yahoo-com-articles-nfc-conference-championship-los-angeles-230000230-html",
+      "title": "NFC Conference Championship: Los Angeles Rams vs Seattle Seahawks",
+      "link": "https://sports.yahoo.com/articles/nfc-conference-championship-los-angeles-230000230.html",
       "source": "Yahoo Sports",
-      "ts": 1769353620.0,
-      "published_iso": "2026-01-25T15:07:00+00:00"
+      "ts": 1769353740.0,
+      "published_iso": "2026-01-25T15:09:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-seahawks-rams-nfc-championship-live-updates-score-highlights-live",
+      "title": "Seahawks vs. Rams live updates: Can Sam Darnold outduel Matthew Stafford with a Super Bowl trip on the line?",
+      "link": "https://cbssports.com/nfl/news/seahawks-rams-nfc-championship-live-updates-score-highlights/live/",
+      "source": "CBS Sports",
+      "ts": 1769349480.0,
+      "published_iso": "2026-01-25T13:58:00+00:00"
     },
     {
       "id": "https-foxsports-com-live-blog-nfl-rams-vs-seahawks-live-updates-score-nfc-championship-game",
