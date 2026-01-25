@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-25T11:07:45.912720+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-25T11:34:49.770616+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-puka-nacua-vs-jaxon-smith-103002312-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1769309760.0,
       "published_iso": "2026-01-25T02:56:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-why-did-rams-release-cooper-080001235-html",
-      "title": "Why did Rams release Cooper Kupp? How WR ended up on Seahawks after Los Angeles' decision to move on from star",
-      "link": "https://sports.yahoo.com/articles/why-did-rams-release-cooper-080001235.html",
-      "source": "Yahoo Sports",
-      "ts": 1769301300.0,
-      "published_iso": "2026-01-25T00:35:00+00:00"
     }
   ]
 }
