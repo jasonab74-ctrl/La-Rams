@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-01-25T07:12:28.978359+00:00",
+  "updated_iso": "2026-01-25T07:38:33.304372+00:00",
   "count": 3,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-jimmy-garrappolo-conference-championship-history-063001538-html",
-      "title": "Jimmy Garrappolo conference championship history: Rams QB advances to seventh championship game in NFL career",
-      "link": "https://sports.yahoo.com/articles/jimmy-garrappolo-conference-championship-history-063001538.html",
-      "source": "Yahoo Sports",
-      "ts": 1769295000.0,
-      "published_iso": "2026-01-24T22:50:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-why-rams-pass-rush-could-061626684-html",
       "title": "Why Rams' pass rush could control the NFC championship",
@@ -25,6 +17,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1768995120.0,
       "published_iso": "2026-01-21T11:32:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1759355460.0,
+      "published_iso": "2025-10-01T21:51:00+00:00"
     }
   ]
 }
