@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2026-01-25T06:15:39.391141+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-25T06:52:11.648740+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-why-rams-pass-rush-could-061626684-html",
+      "title": "Why Rams' pass rush could control the NFC championship",
+      "link": "https://sports.yahoo.com/articles/why-rams-pass-rush-could-061626684.html",
+      "source": "Yahoo Sports",
+      "ts": 1769293980.0,
+      "published_iso": "2026-01-24T22:33:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-overlooked-x-factor-seahawks-rams-054804570-html",
+      "title": "The overlooked X-Factor in Seahawks-Rams: Rashid Shaheed",
+      "link": "https://sports.yahoo.com/articles/overlooked-x-factor-seahawks-rams-054804570.html",
+      "source": "Yahoo Sports",
+      "ts": 1769293020.0,
+      "published_iso": "2026-01-24T22:17:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-24-rams-seahawks-aaron-donald-honorary-captain-88338081007",
+      "title": "Rams bringing Aaron Donald to Seattle as honorary captain for NFC championship",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/01/24/rams-seahawks-aaron-donald-honorary-captain/88338081007/",
+      "source": "Rams Wire",
+      "ts": 1769253420.0,
+      "published_iso": "2026-01-24T11:17:00+00:00"
+    }
+  ]
 }
