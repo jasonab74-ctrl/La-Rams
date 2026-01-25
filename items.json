@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-25T17:07:48.637763+00:00",
+  "updated_iso": "2026-01-25T17:39:19.488529+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-nfl-mvp-award-announced-patriots-165452989-html",
+      "title": "Who is NFL MVP? When award is announced for Patriots’ Drake Maye or Rams’ Matthew Stafford",
+      "link": "https://sports.yahoo.com/articles/nfl-mvp-award-announced-patriots-165452989.html",
+      "source": "Yahoo Sports",
+      "ts": 1769332500.0,
+      "published_iso": "2026-01-25T09:15:00+00:00"
+    },
     {
       "id": "https-si-com-onsi-athlete-lifestyle-relationships-matthew-stafford-wife-kelly-posts-private-jet-flex-with-rams-wags-for-",
       "title": "Matthew Stafford's Wife Kelly Posts Private Jet Flex With Rams WAGs for Seahawks NFCC",
@@ -9,14 +17,6 @@
       "source": "Sports Illustrated",
       "ts": 1769331000.0,
       "published_iso": "2026-01-25T08:50:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-why-did-rams-release-cooper-080001235-html",
-      "title": "Why did Rams release Cooper Kupp? How WR ended up on Seahawks after Los Angeles' decision to move on from star",
-      "link": "https://sports.yahoo.com/articles/why-did-rams-release-cooper-080001235.html",
-      "source": "Yahoo Sports",
-      "ts": 1769301300.0,
-      "published_iso": "2026-01-25T00:35:00+00:00"
     }
   ]
 }
