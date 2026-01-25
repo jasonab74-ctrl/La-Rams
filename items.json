@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-25T20:41:59.077986+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-25T21:08:37.006450+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-nfl-com-videos-pelissero-browns-interviewing-rams-pass-game-coordinator-nate-scheelhaase-for-hc-this-week-nfl-game",
@@ -9,14 +9,6 @@
       "source": "NFL.com",
       "ts": 1769344800.0,
       "published_iso": "2026-01-25T12:40:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-nfl-makes-punishment-decision-matthew-181722165-html",
-      "title": "NFL Makes Punishment Decision on Matthew Stafford’s Rams Following Incident vs. Bears",
-      "link": "https://sports.yahoo.com/articles/nfl-makes-punishment-decision-matthew-181722165.html",
-      "source": "Yahoo Sports",
-      "ts": 1769339460.0,
-      "published_iso": "2026-01-25T11:11:00+00:00"
     }
   ]
 }
