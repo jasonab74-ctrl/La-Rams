@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-25T20:11:01.294715+00:00",
+  "updated_iso": "2026-01-25T20:41:59.077986+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-nfl-com-videos-pelissero-browns-interviewing-rams-pass-game-coordinator-nate-scheelhaase-for-hc-this-week-nfl-game",
+      "title": "Pelissero: Browns interviewing Rams pass game coordinator Nate Scheelhaase for HC this week | 'NFL Game Day Morning'",
+      "link": "https://nfl.com/videos/pelissero-browns-interviewing-rams-pass-game-coordinator-nate-scheelhaase-for-hc-this-week-nfl-game-day-morning",
+      "source": "NFL.com",
+      "ts": 1769344800.0,
+      "published_iso": "2026-01-25T12:40:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-nfl-makes-punishment-decision-matthew-181722165-html",
       "title": "NFL Makes Punishment Decision on Matthew Stafford’s Rams Following Incident vs. Bears",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1769339460.0,
       "published_iso": "2026-01-25T11:11:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-24-nfl-playoff-championship-rams-vs-seahawks-odds-lines-how",
-      "title": "Los Angeles Rams vs. Seattle Seahawks live stream, TV channel, start time, odds | Playoff NFC Championship Game 2025",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/01/24/nfl-playoff-championship-rams-vs-seahawks-odds-lines-how-to-watch-1-25-2026/88343702007/",
-      "source": "Rams Wire",
-      "ts": 1769277300.0,
-      "published_iso": "2026-01-24T17:55:00+00:00"
     }
   ]
 }
