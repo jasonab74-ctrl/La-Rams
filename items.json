@@ -1,22 +1,30 @@
 {
-  "updated_iso": "2026-01-25T14:40:31.698743+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-25T15:09:01.948751+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-vs-seahawks-time-channel-141900923-html",
-      "title": "Rams vs Seahawks: Time, Channel & Free Live Streaming Info for the NFC Championship Game",
-      "link": "https://sports.yahoo.com/articles/rams-vs-seahawks-time-channel-141900923.html",
+      "id": "https-sports-yahoo-com-articles-matthew-stafford-odds-picks-predictions-162200880-html",
+      "title": "Matthew Stafford Odds, Picks & Predictions for Rams vs Seahawks Today",
+      "link": "https://sports.yahoo.com/articles/matthew-stafford-odds-picks-predictions-162200880.html",
       "source": "Yahoo Sports",
-      "ts": 1769322780.0,
-      "published_iso": "2026-01-25T06:33:00+00:00"
+      "ts": 1769324520.0,
+      "published_iso": "2026-01-25T07:02:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-cam-akers-set-surprising-role-134352889-html",
-      "title": "Cam Akers set for surprising role vs. Rams on Seahawks' injured RB depth chart",
-      "link": "https://sports.yahoo.com/articles/cam-akers-set-surprising-role-134352889.html",
+      "id": "https-bleacherreport-com-articles-25368369-latest-nfl-rumors-puka-nacua-jaxon-smith-njigbas-contracts-after-rams-vs-seah",
+      "title": "Latest NFL Rumors on Puka Nacua, Jaxon Smith-Njigba's Contracts After Rams vs. Seahawks Title Game",
+      "link": "https://bleacherreport.com/articles/25368369-latest-nfl-rumors-puka-nacua-jaxon-smith-njigbas-contracts-after-rams-vs-seahawks-title-game",
+      "source": "Bleacher Report",
+      "ts": 1769324340.0,
+      "published_iso": "2026-01-25T06:59:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-vs-seahawks-predictions-majority-141918210-html",
+      "title": "Rams vs. Seahawks predictions: Who majority of experts are picking for NFC title game",
+      "link": "https://sports.yahoo.com/articles/rams-vs-seahawks-predictions-majority-141918210.html",
       "source": "Yahoo Sports",
-      "ts": 1769321520.0,
-      "published_iso": "2026-01-25T06:12:00+00:00"
+      "ts": 1769323440.0,
+      "published_iso": "2026-01-25T06:44:00+00:00"
     }
   ]
 }
