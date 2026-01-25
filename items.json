@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-01-25T08:45:47.485662+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-25T09:10:46.881418+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-why-did-rams-release-cooper-080001235-html",
-      "title": "Why did Rams release Cooper Kupp? How WR ended up on Seahawks after Los Angeles' decision to move on from star",
-      "link": "https://sports.yahoo.com/articles/why-did-rams-release-cooper-080001235.html",
+      "id": "https-sports-yahoo-com-articles-rams-vs-seahawks-rivalry-history-083001835-html",
+      "title": "Rams vs. Seahawks rivalry history: Updated all-time record and best games from NFL's NFC West rivalry",
+      "link": "https://sports.yahoo.com/articles/rams-vs-seahawks-rivalry-history-083001835.html",
       "source": "Yahoo Sports",
-      "ts": 1769301300.0,
-      "published_iso": "2026-01-25T00:35:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-sam-darnold-could-seeing-ghosts-040645411-html",
-      "title": "Sam Darnold could be ‘seeing ghosts’ again if Rams stick to usual game plan",
-      "link": "https://sports.yahoo.com/articles/sam-darnold-could-seeing-ghosts-040645411.html",
-      "source": "Yahoo Sports",
-      "ts": 1769301120.0,
-      "published_iso": "2026-01-25T00:32:00+00:00"
+      "ts": 1769303040.0,
+      "published_iso": "2026-01-25T01:04:00+00:00"
     }
   ]
 }
