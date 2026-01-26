@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-01-26T08:53:51.407663+00:00",
-  "count": 5,
+  "updated_iso": "2026-01-26T09:22:12.702137+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-matthew-stafford-retirement-rumors-rams-080406687-html",
-      "title": "Matthew Stafford Retirement Rumors: Rams QB, Sean McVay On the Same Page After 52-TD Season",
-      "link": "https://sports.yahoo.com/articles/matthew-stafford-retirement-rumors-rams-080406687.html",
-      "source": "Yahoo Sports",
-      "ts": 1769387700.0,
-      "published_iso": "2026-01-26T00:35:00+00:00"
-    },
-    {
-      "id": "https-latimes-com-sports-rams-live-rams-seahawks-nfc-championship-live-updates-watch-odds-score-highlights",
-      "title": "Rams’ Super Bowl hopes shattered in heartbreaking NFC title game loss to Seattle",
-      "link": "https://latimes.com/sports/rams/live/rams-seahawks-nfc-championship-live-updates-watch-odds-score-highlights",
-      "source": "LA Times",
-      "ts": 1769382300.0,
-      "published_iso": "2026-01-25T23:05:00+00:00"
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-matthew-stafford-explains-heartache-nfc-title-loss",
+      "title": "Rams’ Matthew Stafford Explains Heartache of NFC Title Loss",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-matthew-stafford-explains-heartache-nfc-title-loss",
+      "source": "Sports Illustrated",
+      "ts": 1769390340.0,
+      "published_iso": "2026-01-26T01:19:00+00:00"
     },
     {
       "id": "https-yahoo-com-news-videos-watch-seahawks-celebrate-nfc-championship-041803807-html",
@@ -35,12 +27,12 @@
       "published_iso": "2026-01-25T19:04:00+00:00"
     },
     {
-      "id": "https-foxsports-com-watch-fmc-pb69g3sp7kn82s7q",
-      "title": "Rams vs. Seahawks Preview: How Los Angeles can overcome the crowd noise in Seattle NFL on FOX",
-      "link": "https://foxsports.com/watch/fmc-pb69g3sp7kn82s7q",
+      "id": "https-foxsports-com-live-blog-nfl-rams-vs-seahawks-live-updates-score-nfc-championship-game",
+      "title": "Rams vs. Seahawks Live Updates, Score, Highlights: Seattle Advances to Super Bowl LX",
+      "link": "https://foxsports.com/live-blog/nfl/rams-vs-seahawks-live-updates-score-nfc-championship-game",
       "source": "FOX Sports",
-      "ts": 1769355960.0,
-      "published_iso": "2026-01-25T15:46:00+00:00"
+      "ts": 1769350980.0,
+      "published_iso": "2026-01-25T14:23:00+00:00"
     }
   ]
 }
