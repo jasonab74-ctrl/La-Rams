@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2026-01-25T23:38:50.001850+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-26T00:53:40.295134+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-nfc-conference-championship-los-angeles-230000230-html",
-      "title": "NFC Conference Championship: Los Angeles Rams vs Seattle Seahawks",
-      "link": "https://sports.yahoo.com/articles/nfc-conference-championship-los-angeles-230000230.html",
+      "id": "https-foxsports-com-watch-vertical-fmc-4f1n7v12qw6pbtv4",
+      "title": "Seahawks' Jaxon Smith-Njigba makes INCREDIBLE one-handed catch vs. Rams | NFL Highlights",
+      "link": "https://foxsports.com/watch-vertical/fmc-4f1n7v12qw6pbtv4",
+      "source": "FOX Sports",
+      "ts": 1769358540.0,
+      "published_iso": "2026-01-25T16:29:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-browns-head-coach-candidate-nate-002015251-html",
+      "title": "Browns will fly to Los Angeles to interview Rams’ Nate Scheelhaase on Monday, and will be Rooney Rule-compliant by then",
+      "link": "https://sports.yahoo.com/articles/browns-head-coach-candidate-nate-002015251.html",
       "source": "Yahoo Sports",
-      "ts": 1769353740.0,
-      "published_iso": "2026-01-25T15:09:00+00:00"
+      "ts": 1769357460.0,
+      "published_iso": "2026-01-25T16:11:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-watch-fmc-pb69g3sp7kn82s7q",
+      "title": "Rams vs. Seahawks Preview: How Los Angeles can overcome the crowd noise in Seattle NFL on FOX",
+      "link": "https://foxsports.com/watch/fmc-pb69g3sp7kn82s7q",
+      "source": "FOX Sports",
+      "ts": 1769355960.0,
+      "published_iso": "2026-01-25T15:46:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-seahawks-rams-nfc-championship-live-updates-score-highlights-live",
@@ -17,14 +33,6 @@
       "source": "CBS Sports",
       "ts": 1769349480.0,
       "published_iso": "2026-01-25T13:58:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-live-blog-nfl-rams-vs-seahawks-live-updates-score-nfc-championship-game",
-      "title": "Rams vs. Seahawks Live Updates, Score, Highlights: NFC Championship Game",
-      "link": "https://foxsports.com/live-blog/nfl/rams-vs-seahawks-live-updates-score-nfc-championship-game",
-      "source": "FOX Sports",
-      "ts": 1769332380.0,
-      "published_iso": "2026-01-25T09:13:00+00:00"
     }
   ]
 }
