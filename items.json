@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-26T15:49:01.866801+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-26T16:17:45.831109+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-numbing-loss-rams-got-predictable-154654934-html",
+      "title": "In numbing loss, how Rams got there was predictable",
+      "link": "https://sports.yahoo.com/articles/numbing-loss-rams-got-predictable-154654934.html",
+      "source": "Yahoo Sports",
+      "ts": 1769414220.0,
+      "published_iso": "2026-01-26T07:57:00+00:00"
+    },
     {
       "id": "https-nfl-com-videos-matthew-stafford-speaks-on-future-with-rams-following-nfc-championship-game-to-seahawks",
       "title": "Matthew Stafford speaks on future with Rams following NFC Championship Game to Seahawks",
@@ -9,30 +17,6 @@
       "source": "NFL.com",
       "ts": 1769412960.0,
       "published_iso": "2026-01-26T07:36:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-ignore-defense-wr-ot-151228156-html",
-      "title": "Rams ignore defense for WR, OT in Daniel Jeremiah's first mock draft",
-      "link": "https://sports.yahoo.com/articles/rams-ignore-defense-wr-ot-151228156.html",
-      "source": "Yahoo Sports",
-      "ts": 1769412360.0,
-      "published_iso": "2026-01-26T07:26:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25369569-sean-payton-reportedly-questioned-bears-ben-johnson-not-kicking-fg-loss-rams",
-      "title": "Sean Payton Reportedly Questioned Bears' Ben Johnson Not Kicking FG in Loss to Rams",
-      "link": "https://bleacherreport.com/articles/25369569-sean-payton-reportedly-questioned-bears-ben-johnson-not-kicking-fg-loss-rams",
-      "source": "Bleacher Report",
-      "ts": 1769412360.0,
-      "published_iso": "2026-01-26T07:26:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-lose-nfc-championship-shohei-150209201-html",
-      "title": "Rams Lose NFC Championship, Shohei Ohtani Accepts NL MVP Award, & More LA Sports Report",
-      "link": "https://sports.yahoo.com/articles/rams-lose-nfc-championship-shohei-150209201.html",
-      "source": "Yahoo Sports",
-      "ts": 1769411460.0,
-      "published_iso": "2026-01-26T07:11:00+00:00"
     }
   ]
 }
