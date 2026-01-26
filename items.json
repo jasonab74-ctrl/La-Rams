@@ -1,22 +1,30 @@
 {
-  "updated_iso": "2026-01-26T16:17:45.831109+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-26T16:56:57.133342+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-numbing-loss-rams-got-predictable-154654934-html",
-      "title": "In numbing loss, how Rams got there was predictable",
-      "link": "https://sports.yahoo.com/articles/numbing-loss-rams-got-predictable-154654934.html",
-      "source": "Yahoo Sports",
-      "ts": 1769414220.0,
-      "published_iso": "2026-01-26T07:57:00+00:00"
+      "id": "https-bleacherreport-com-articles-25369759-rams-reportedly-urged-cooper-kupp-retire-warned-teams-lowball-contract-offers",
+      "title": "Rams Reportedly 'Urged' Cooper Kupp to Retire, Warned Teams to Lowball Contract Offers",
+      "link": "https://bleacherreport.com/articles/25369759-rams-reportedly-urged-cooper-kupp-retire-warned-teams-lowball-contract-offers",
+      "source": "Bleacher Report",
+      "ts": 1769417640.0,
+      "published_iso": "2026-01-26T08:54:00+00:00"
     },
     {
-      "id": "https-nfl-com-videos-matthew-stafford-speaks-on-future-with-rams-following-nfc-championship-game-to-seahawks",
-      "title": "Matthew Stafford speaks on future with Rams following NFC Championship Game to Seahawks",
-      "link": "https://nfl.com/videos/matthew-stafford-speaks-on-future-with-rams-following-nfc-championship-game-to-seahawks",
-      "source": "NFL.com",
-      "ts": 1769412960.0,
-      "published_iso": "2026-01-26T07:36:00+00:00"
+      "id": "https-sports-yahoo-com-articles-rams-qb-matthew-stafford-lost-152736422-html",
+      "title": "Rams QB Matthew Stafford lost in NFC Championship, but wife Kelly’s IG post shows he’s still winning",
+      "link": "https://sports.yahoo.com/articles/rams-qb-matthew-stafford-lost-152736422.html",
+      "source": "Yahoo Sports",
+      "ts": 1769416980.0,
+      "published_iso": "2026-01-26T08:43:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-videos-watch-seahawks-celebrate-nfc-championship-041803807-html",
+      "title": "Watch: Seahawks celebrate NFC championship win over Los Angeles Rams",
+      "link": "https://yahoo.com/news/videos/watch-seahawks-celebrate-nfc-championship-041803807.html",
+      "source": "Yahoo",
+      "ts": 1769381400.0,
+      "published_iso": "2026-01-25T22:50:00+00:00"
     }
   ]
 }
