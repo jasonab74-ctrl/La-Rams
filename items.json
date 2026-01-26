@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-26T09:22:12.702137+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-26T09:52:32.967315+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-matthew-stafford-explains-heartache-nfc-title-loss",
@@ -25,14 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1769367840.0,
       "published_iso": "2026-01-25T19:04:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-live-blog-nfl-rams-vs-seahawks-live-updates-score-nfc-championship-game",
-      "title": "Rams vs. Seahawks Live Updates, Score, Highlights: Seattle Advances to Super Bowl LX",
-      "link": "https://foxsports.com/live-blog/nfl/rams-vs-seahawks-live-updates-score-nfc-championship-game",
-      "source": "FOX Sports",
-      "ts": 1769350980.0,
-      "published_iso": "2026-01-25T14:23:00+00:00"
     }
   ]
 }
