@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-26T18:57:00.678894+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-26T19:18:11.083367+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-report-rams-urged-cooper-kupp-190131521-html",
+      "title": "Report: Rams urged Cooper Kupp to retire, cautioned teams about signing him in FA",
+      "link": "https://sports.yahoo.com/articles/report-rams-urged-cooper-kupp-190131521.html",
+      "source": "Yahoo Sports",
+      "ts": 1769425980.0,
+      "published_iso": "2026-01-26T11:13:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-dodgers-reliever-alex-vesia-183006758-html",
       "title": "Rams Give Dodgers Reliever Alex Vesia Heartfelt Gift in Memory of His Late Daughter",
