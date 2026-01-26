@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-26T11:12:25.623125+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-26T11:39:01.215477+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-latimes-com-sports-rams-story-2026-01-26-sean-mcvay-deserves-blame-rams-seahawks-nfc-championship",
+      "title": "Blame for Rams’ loss to Seahawks begins with Sean McVay",
+      "link": "https://latimes.com/sports/rams/story/2026-01-26/sean-mcvay-deserves-blame-rams-seahawks-nfc-championship",
+      "source": "LA Times",
+      "ts": 1769396400.0,
+      "published_iso": "2026-01-26T03:00:00+00:00"
+    },
     {
       "id": "https-yahoo-com-news-videos-coach-mike-macdonalds-pride-seahawks-081622680-html",
       "title": "Coach Mike Macdonald's pride after Seahawks' NFC championship win over Rams",
