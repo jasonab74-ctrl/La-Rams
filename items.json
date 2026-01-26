@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-01-26T19:41:38.789343+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-26T20:12:27.036450+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-seahawks-self-inflicted-errors-193937701-html",
+      "title": "Rams-Seahawks: Self inflicted errors end LA’s season in NFC Championship Game",
+      "link": "https://sports.yahoo.com/articles/rams-seahawks-self-inflicted-errors-193937701.html",
+      "source": "Yahoo Sports",
+      "ts": 1769428260.0,
+      "published_iso": "2026-01-26T11:51:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-seahawks-rams-australia-nfl-first-game-down-under-2026",
+      "title": "Could Seahawks-Rams take their rivalry to Australia? Seattle wants in on NFL's first game Down Under in 2026",
+      "link": "https://cbssports.com/nfl/news/seahawks-rams-australia-nfl-first-game-down-under-2026/",
+      "source": "CBS Sports",
+      "ts": 1769427240.0,
+      "published_iso": "2026-01-26T11:34:00+00:00"
+    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-26-rams-cooper-kupp-seahawks-retire-free-agency-88365195007",
       "title": "Report: Rams urged Cooper Kupp to retire, cautioned teams about signing him in FA",
