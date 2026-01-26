@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-26T14:21:14.251990+00:00",
+  "updated_iso": "2026-01-26T14:51:30.465414+00:00",
   "count": 4,
   "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-26-rams-kyren-williams-postseason-rushing-leaders-cam-akers",
+      "title": "Kyren Williams moves into 4th in Rams' postseason rushing yards",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/01/26/rams-kyren-williams-postseason-rushing-leaders-cam-akers-cullen-bryant/88358531007/",
+      "source": "Rams Wire",
+      "ts": 1769407920.0,
+      "published_iso": "2026-01-26T06:12:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-sean-mcvay-goes-ballistic-asked-140000911-html",
       "title": "Sean McVay goes ballistic when asked about Matthew Stafford’s LA Rams future",
@@ -25,14 +33,6 @@
       "source": "Bleacher Report",
       "ts": 1769406660.0,
       "published_iso": "2026-01-26T05:51:00+00:00"
-    },
-    {
-      "id": "https-yahoo-com-news-videos-sam-darnold-best-game-biggest-061304437-html",
-      "title": "Sam Darnold after his best game in the biggest game of his life, Seahawks' NFC championship win over Rams",
-      "link": "https://yahoo.com/news/videos/sam-darnold-best-game-biggest-061304437.html",
-      "source": "Yahoo",
-      "ts": 1769404680.0,
-      "published_iso": "2026-01-26T05:18:00+00:00"
     }
   ]
 }
