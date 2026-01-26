@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-26T12:21:19.558443+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-26T13:14:36.282044+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-latimes-com-sports-rams-live-rams-seahawks-nfc-championship-live-updates-watch-odds-score-highlights",
+      "title": "Rams’ Super Bowl hopes shattered in heartbreaking NFC title game loss to Seattle",
+      "link": "https://latimes.com/sports/rams/live/rams-seahawks-nfc-championship-live-updates-watch-odds-score-highlights",
+      "source": "LA Times",
+      "ts": 1769382300.0,
+      "published_iso": "2026-01-25T23:05:00+00:00"
+    },
     {
       "id": "https-yahoo-com-news-videos-watch-seahawks-celebrate-nfc-championship-041803807-html",
       "title": "Watch: Seahawks celebrate NFC championship win over Los Angeles Rams",
@@ -11,12 +19,12 @@
       "published_iso": "2026-01-25T22:50:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-browns-head-coach-candidate-nate-002015251-html",
-      "title": "Browns will fly to Los Angeles to interview Rams’ Nate Scheelhaase on Monday, and will be Rooney Rule-compliant by then",
-      "link": "https://sports.yahoo.com/articles/browns-head-coach-candidate-nate-002015251.html",
+      "id": "https-sports-yahoo-com-nfl-article-2026-nfl-offseason-preview-los-angeles-rams-plans-hinge-on-matthew-staffords-decision",
+      "title": "2026 NFL offseason preview: Los Angeles Rams' plans hinge on Matthew Stafford's decision",
+      "link": "https://sports.yahoo.com/nfl/article/2026-nfl-offseason-preview-los-angeles-rams-plans-hinge-on-matthew-staffords-decision-025347774.html",
       "source": "Yahoo Sports",
-      "ts": 1769357460.0,
-      "published_iso": "2026-01-25T16:11:00+00:00"
+      "ts": 1769367840.0,
+      "published_iso": "2026-01-25T19:04:00+00:00"
     }
   ]
 }
