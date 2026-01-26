@@ -1,30 +1,38 @@
 {
-  "updated_iso": "2026-01-26T20:12:27.036450+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-26T20:46:15.974155+00:00",
+  "count": 5,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-seahawks-self-inflicted-errors-193937701-html",
-      "title": "Rams-Seahawks: Self inflicted errors end LA’s season in NFC Championship Game",
-      "link": "https://sports.yahoo.com/articles/rams-seahawks-self-inflicted-errors-193937701.html",
+      "id": "https-sports-yahoo-com-articles-rams-rt-rob-havenstein-sounds-202750416-html",
+      "title": "Rams RT Rob Havenstein sounds unsure about his future",
+      "link": "https://sports.yahoo.com/articles/rams-rt-rob-havenstein-sounds-202750416.html",
       "source": "Yahoo Sports",
-      "ts": 1769428260.0,
-      "published_iso": "2026-01-26T11:51:00+00:00"
+      "ts": 1769431260.0,
+      "published_iso": "2026-01-26T12:41:00+00:00"
     },
     {
-      "id": "https-cbssports-com-nfl-news-seahawks-rams-australia-nfl-first-game-down-under-2026",
-      "title": "Could Seahawks-Rams take their rivalry to Australia? Seattle wants in on NFL's first game Down Under in 2026",
-      "link": "https://cbssports.com/nfl/news/seahawks-rams-australia-nfl-first-game-down-under-2026/",
-      "source": "CBS Sports",
-      "ts": 1769427240.0,
-      "published_iso": "2026-01-26T11:34:00+00:00"
+      "id": "https-bleacherreport-com-articles-25369975-matthew-staffords-wife-kelly-shares-video-qb-hugging-daughters-goodnight-afte",
+      "title": "Matthew Stafford's Wife Kelly Shares Video QB Hugging Daughters Goodnight After Rams' Loss",
+      "link": "https://bleacherreport.com/articles/25369975-matthew-staffords-wife-kelly-shares-video-qb-hugging-daughters-goodnight-after-rams-loss",
+      "source": "Bleacher Report",
+      "ts": 1769430180.0,
+      "published_iso": "2026-01-26T12:23:00+00:00"
     },
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-26-rams-cooper-kupp-seahawks-retire-free-agency-88365195007",
-      "title": "Report: Rams urged Cooper Kupp to retire, cautioned teams about signing him in FA",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/01/26/rams-cooper-kupp-seahawks-retire-free-agency/88365195007/",
-      "source": "Rams Wire",
-      "ts": 1769425980.0,
-      "published_iso": "2026-01-26T11:13:00+00:00"
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-kobie-turner-explains-injury-woes-nfc-championship-loss",
+      "title": "Rams' Kobie Turner Explains Injury Woes NFC Championship Loss",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-kobie-turner-explains-injury-woes-nfc-championship-loss",
+      "source": "Sports Illustrated",
+      "ts": 1769428800.0,
+      "published_iso": "2026-01-26T12:00:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25369759-rams-reportedly-urged-cooper-kupp-retire-warned-teams-lowball-contract-offers",
+      "title": "Rams Reportedly 'Urged' Cooper Kupp to Retire, Warned Teams to Lowball Contract Offers",
+      "link": "https://bleacherreport.com/articles/25369759-rams-reportedly-urged-cooper-kupp-retire-warned-teams-lowball-contract-offers",
+      "source": "Bleacher Report",
+      "ts": 1769417640.0,
+      "published_iso": "2026-01-26T08:54:00+00:00"
     },
     {
       "id": "https-yahoo-com-news-videos-watch-seahawks-celebrate-nfc-championship-041803807-html",
