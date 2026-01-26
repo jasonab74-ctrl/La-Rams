@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-01-26T13:57:05.696159+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-26T14:21:14.251990+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-sean-mcvay-goes-ballistic-asked-140000911-html",
+      "title": "Sean McVay goes ballistic when asked about Matthew Stafford’s LA Rams future",
+      "link": "https://sports.yahoo.com/articles/sean-mcvay-goes-ballistic-asked-140000911.html",
+      "source": "Yahoo Sports",
+      "ts": 1769407920.0,
+      "published_iso": "2026-01-26T06:12:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-seahawks-news-1-26-seahawks-140000760-html",
+      "title": "Seahawks News 1/26: Seahawks continue to bust ghosts, beat Rams in NFC title game",
+      "link": "https://sports.yahoo.com/articles/seahawks-news-1-26-seahawks-140000760.html",
+      "source": "Yahoo Sports",
+      "ts": 1769407680.0,
+      "published_iso": "2026-01-26T06:08:00+00:00"
+    },
     {
       "id": "https-bleacherreport-com-articles-25369526-seahawks-cooper-kupp-reacts-beating-rams-super-bowl-berth-after-being-release",
       "title": "Seahawks' Cooper Kupp Reacts to Beating Rams for Super Bowl Berth After Being Released by LA",
