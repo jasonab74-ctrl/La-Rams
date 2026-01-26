@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-26T09:52:32.967315+00:00",
+  "updated_iso": "2026-01-26T10:15:00.257416+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-latimes-com-0000019b-f989-dccc-a3bb-ffadba0c0000-123",
+      "title": "Takeaways from the Rams’ loss to Seattle in NFC championship",
+      "link": "https://latimes.com/0000019b-f989-dccc-a3bb-ffadba0c0000-123",
+      "source": "LA Times",
+      "ts": 1769390580.0,
+      "published_iso": "2026-01-26T01:23:00+00:00"
+    },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-matthew-stafford-explains-heartache-nfc-title-loss",
       "title": "Rams’ Matthew Stafford Explains Heartache of NFC Title Loss",
@@ -17,14 +25,6 @@
       "source": "Yahoo",
       "ts": 1769381400.0,
       "published_iso": "2026-01-25T22:50:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-nfl-article-2026-nfl-offseason-preview-los-angeles-rams-plans-hinge-on-matthew-staffords-decision",
-      "title": "2026 NFL offseason preview: Los Angeles Rams' plans hinge on Matthew Stafford's decision",
-      "link": "https://sports.yahoo.com/nfl/article/2026-nfl-offseason-preview-los-angeles-rams-plans-hinge-on-matthew-staffords-decision-025347774.html",
-      "source": "Yahoo Sports",
-      "ts": 1769367840.0,
-      "published_iso": "2026-01-25T19:04:00+00:00"
     }
   ]
 }
