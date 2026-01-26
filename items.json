@@ -1,30 +1,22 @@
 {
-  "updated_iso": "2026-01-26T13:14:36.282044+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-26T13:57:05.696159+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-latimes-com-sports-rams-live-rams-seahawks-nfc-championship-live-updates-watch-odds-score-highlights",
-      "title": "Rams’ Super Bowl hopes shattered in heartbreaking NFC title game loss to Seattle",
-      "link": "https://latimes.com/sports/rams/live/rams-seahawks-nfc-championship-live-updates-watch-odds-score-highlights",
-      "source": "LA Times",
-      "ts": 1769382300.0,
-      "published_iso": "2026-01-25T23:05:00+00:00"
+      "id": "https-bleacherreport-com-articles-25369526-seahawks-cooper-kupp-reacts-beating-rams-super-bowl-berth-after-being-release",
+      "title": "Seahawks' Cooper Kupp Reacts to Beating Rams for Super Bowl Berth After Being Released by LA",
+      "link": "https://bleacherreport.com/articles/25369526-seahawks-cooper-kupp-reacts-beating-rams-super-bowl-berth-after-being-released-la",
+      "source": "Bleacher Report",
+      "ts": 1769406660.0,
+      "published_iso": "2026-01-26T05:51:00+00:00"
     },
     {
-      "id": "https-yahoo-com-news-videos-watch-seahawks-celebrate-nfc-championship-041803807-html",
-      "title": "Watch: Seahawks celebrate NFC championship win over Los Angeles Rams",
-      "link": "https://yahoo.com/news/videos/watch-seahawks-celebrate-nfc-championship-041803807.html",
+      "id": "https-yahoo-com-news-videos-sam-darnold-best-game-biggest-061304437-html",
+      "title": "Sam Darnold after his best game in the biggest game of his life, Seahawks' NFC championship win over Rams",
+      "link": "https://yahoo.com/news/videos/sam-darnold-best-game-biggest-061304437.html",
       "source": "Yahoo",
-      "ts": 1769381400.0,
-      "published_iso": "2026-01-25T22:50:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-nfl-article-2026-nfl-offseason-preview-los-angeles-rams-plans-hinge-on-matthew-staffords-decision",
-      "title": "2026 NFL offseason preview: Los Angeles Rams' plans hinge on Matthew Stafford's decision",
-      "link": "https://sports.yahoo.com/nfl/article/2026-nfl-offseason-preview-los-angeles-rams-plans-hinge-on-matthew-staffords-decision-025347774.html",
-      "source": "Yahoo Sports",
-      "ts": 1769367840.0,
-      "published_iso": "2026-01-25T19:04:00+00:00"
+      "ts": 1769404680.0,
+      "published_iso": "2026-01-26T05:18:00+00:00"
     }
   ]
 }
