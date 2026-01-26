@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-01-26T10:15:00.257416+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-26T10:49:13.185958+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-latimes-com-0000019b-f989-dccc-a3bb-ffadba0c0000-123",
-      "title": "Takeaways from the Rams’ loss to Seattle in NFC championship",
-      "link": "https://latimes.com/0000019b-f989-dccc-a3bb-ffadba0c0000-123",
-      "source": "LA Times",
-      "ts": 1769390580.0,
-      "published_iso": "2026-01-26T01:23:00+00:00"
+      "id": "https-yahoo-com-news-videos-coach-mike-macdonalds-pride-seahawks-081622680-html",
+      "title": "Coach Mike Macdonald's pride after Seahawks' NFC championship win over Rams",
+      "link": "https://yahoo.com/news/videos/coach-mike-macdonalds-pride-seahawks-081622680.html",
+      "source": "Yahoo",
+      "ts": 1769394780.0,
+      "published_iso": "2026-01-26T02:33:00+00:00"
     },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-matthew-stafford-explains-heartache-nfc-title-loss",
@@ -25,6 +25,14 @@
       "source": "Yahoo",
       "ts": 1769381400.0,
       "published_iso": "2026-01-25T22:50:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-browns-head-coach-candidate-nate-002015251-html",
+      "title": "Browns will fly to Los Angeles to interview Rams’ Nate Scheelhaase on Monday, and will be Rooney Rule-compliant by then",
+      "link": "https://sports.yahoo.com/articles/browns-head-coach-candidate-nate-002015251.html",
+      "source": "Yahoo Sports",
+      "ts": 1769357460.0,
+      "published_iso": "2026-01-25T16:11:00+00:00"
     }
   ]
 }
