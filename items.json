@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-26T14:51:30.465414+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-26T15:17:12.299091+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-lose-nfc-championship-shohei-150209201-html",
+      "title": "Rams Lose NFC Championship, Shohei Ohtani Accepts NL MVP Award, & More LA Sports Report",
+      "link": "https://sports.yahoo.com/articles/rams-lose-nfc-championship-shohei-150209201.html",
+      "source": "Yahoo Sports",
+      "ts": 1769411460.0,
+      "published_iso": "2026-01-26T07:11:00+00:00"
+    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-26-rams-kyren-williams-postseason-rushing-leaders-cam-akers",
       "title": "Kyren Williams moves into 4th in Rams' postseason rushing yards",
@@ -11,28 +19,12 @@
       "published_iso": "2026-01-26T06:12:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-sean-mcvay-goes-ballistic-asked-140000911-html",
-      "title": "Sean McVay goes ballistic when asked about Matthew Stafford’s LA Rams future",
-      "link": "https://sports.yahoo.com/articles/sean-mcvay-goes-ballistic-asked-140000911.html",
-      "source": "Yahoo Sports",
-      "ts": 1769407920.0,
-      "published_iso": "2026-01-26T06:12:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-seahawks-news-1-26-seahawks-140000760-html",
-      "title": "Seahawks News 1/26: Seahawks continue to bust ghosts, beat Rams in NFC title game",
-      "link": "https://sports.yahoo.com/articles/seahawks-news-1-26-seahawks-140000760.html",
-      "source": "Yahoo Sports",
-      "ts": 1769407680.0,
-      "published_iso": "2026-01-26T06:08:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25369526-seahawks-cooper-kupp-reacts-beating-rams-super-bowl-berth-after-being-release",
-      "title": "Seahawks' Cooper Kupp Reacts to Beating Rams for Super Bowl Berth After Being Released by LA",
-      "link": "https://bleacherreport.com/articles/25369526-seahawks-cooper-kupp-reacts-beating-rams-super-bowl-berth-after-being-released-la",
-      "source": "Bleacher Report",
-      "ts": 1769406660.0,
-      "published_iso": "2026-01-26T05:51:00+00:00"
+      "id": "https-yahoo-com-news-videos-watch-seahawks-celebrate-nfc-championship-041803807-html",
+      "title": "Watch: Seahawks celebrate NFC championship win over Los Angeles Rams",
+      "link": "https://yahoo.com/news/videos/watch-seahawks-celebrate-nfc-championship-041803807.html",
+      "source": "Yahoo",
+      "ts": 1769381400.0,
+      "published_iso": "2026-01-25T22:50:00+00:00"
     }
   ]
 }
