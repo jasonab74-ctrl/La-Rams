@@ -1,22 +1,22 @@
 {
-  "updated_iso": "2026-01-26T19:18:11.083367+00:00",
+  "updated_iso": "2026-01-26T19:41:38.789343+00:00",
   "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-report-rams-urged-cooper-kupp-190131521-html",
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-26-rams-cooper-kupp-seahawks-retire-free-agency-88365195007",
       "title": "Report: Rams urged Cooper Kupp to retire, cautioned teams about signing him in FA",
-      "link": "https://sports.yahoo.com/articles/report-rams-urged-cooper-kupp-190131521.html",
-      "source": "Yahoo Sports",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/01/26/rams-cooper-kupp-seahawks-retire-free-agency/88365195007/",
+      "source": "Rams Wire",
       "ts": 1769425980.0,
       "published_iso": "2026-01-26T11:13:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-rams-dodgers-reliever-alex-vesia-183006758-html",
-      "title": "Rams Give Dodgers Reliever Alex Vesia Heartfelt Gift in Memory of His Late Daughter",
-      "link": "https://sports.yahoo.com/articles/rams-dodgers-reliever-alex-vesia-183006758.html",
-      "source": "Yahoo Sports",
-      "ts": 1769423880.0,
-      "published_iso": "2026-01-26T10:38:00+00:00"
+      "id": "https-yahoo-com-news-videos-watch-seahawks-celebrate-nfc-championship-041803807-html",
+      "title": "Watch: Seahawks celebrate NFC championship win over Los Angeles Rams",
+      "link": "https://yahoo.com/news/videos/watch-seahawks-celebrate-nfc-championship-041803807.html",
+      "source": "Yahoo",
+      "ts": 1769381400.0,
+      "published_iso": "2026-01-25T22:50:00+00:00"
     }
   ]
 }
