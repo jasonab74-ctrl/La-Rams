@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-26T10:49:13.185958+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-26T11:12:25.623125+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-yahoo-com-news-videos-coach-mike-macdonalds-pride-seahawks-081622680-html",
@@ -11,14 +11,6 @@
       "published_iso": "2026-01-26T02:33:00+00:00"
     },
     {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-matthew-stafford-explains-heartache-nfc-title-loss",
-      "title": "Rams’ Matthew Stafford Explains Heartache of NFC Title Loss",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-matthew-stafford-explains-heartache-nfc-title-loss",
-      "source": "Sports Illustrated",
-      "ts": 1769390340.0,
-      "published_iso": "2026-01-26T01:19:00+00:00"
-    },
-    {
       "id": "https-yahoo-com-news-videos-watch-seahawks-celebrate-nfc-championship-041803807-html",
       "title": "Watch: Seahawks celebrate NFC championship win over Los Angeles Rams",
       "link": "https://yahoo.com/news/videos/watch-seahawks-celebrate-nfc-championship-041803807.html",
@@ -27,12 +19,12 @@
       "published_iso": "2026-01-25T22:50:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-browns-head-coach-candidate-nate-002015251-html",
-      "title": "Browns will fly to Los Angeles to interview Rams’ Nate Scheelhaase on Monday, and will be Rooney Rule-compliant by then",
-      "link": "https://sports.yahoo.com/articles/browns-head-coach-candidate-nate-002015251.html",
+      "id": "https-sports-yahoo-com-nfl-article-2026-nfl-offseason-preview-los-angeles-rams-plans-hinge-on-matthew-staffords-decision",
+      "title": "2026 NFL offseason preview: Los Angeles Rams' plans hinge on Matthew Stafford's decision",
+      "link": "https://sports.yahoo.com/nfl/article/2026-nfl-offseason-preview-los-angeles-rams-plans-hinge-on-matthew-staffords-decision-025347774.html",
       "source": "Yahoo Sports",
-      "ts": 1769357460.0,
-      "published_iso": "2026-01-25T16:11:00+00:00"
+      "ts": 1769367840.0,
+      "published_iso": "2026-01-25T19:04:00+00:00"
     }
   ]
 }
