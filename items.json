@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-27T19:00:17.404206+00:00",
+  "updated_iso": "2026-01-27T19:44:41.956308+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-matthew-stafford-announces-immediate-plans-184239910-html",
+      "title": "Matthew Stafford Announces Immediate Plans on Rams Future After Sean McVay Snaps at QB’s Retirement Question",
+      "link": "https://sports.yahoo.com/articles/matthew-stafford-announces-immediate-plans-184239910.html",
+      "source": "Yahoo Sports",
+      "ts": 1769513880.0,
+      "published_iso": "2026-01-27T11:38:00+00:00"
+    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-27-rams-cobie-durant-terrible-secondary-88379187007",
       "title": "Cobie Durant wants to debunk narrative that Rams have ‘terrible secondary’ every year",
@@ -17,14 +25,6 @@
       "source": "Bleacher Report",
       "ts": 1769494260.0,
       "published_iso": "2026-01-27T06:11:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-disrespected-cooper-233125410-html",
-      "title": "Los Angeles Rams Disrespected Cooper Kupp Before Cutting Ties",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-disrespected-cooper-233125410.html",
-      "source": "Yahoo Sports",
-      "ts": 1769443320.0,
-      "published_iso": "2026-01-26T16:02:00+00:00"
     }
   ]
 }
