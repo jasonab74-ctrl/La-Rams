@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-01-27T12:21:01.750093+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-27T13:24:28.161476+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-",
-      "title": "Los Angeles Rams at Seattle Seahawks: How to watch, listen to and live stream the NFC Championship Game",
-      "link": "https://therams.com/news/los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-game-2026",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1768995120.0,
-      "published_iso": "2026-01-21T11:32:00+00:00"
+      "id": "https-sports-yahoo-com-articles-rams-president-slams-reporter-says-130237709-html",
+      "title": "Rams president slams reporter who says Chris Shula 'bombed' Steelers interview",
+      "link": "https://sports.yahoo.com/articles/rams-president-slams-reporter-says-130237709.html",
+      "source": "Yahoo Sports",
+      "ts": 1769491020.0,
+      "published_iso": "2026-01-27T05:17:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-24-nfl-playoff-championship-rams-vs-seahawks-odds-lines-how",
+      "title": "Los Angeles Rams vs. Seattle Seahawks live stream, TV channel, start time, odds | Playoff NFC Championship Game 2025",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/01/24/nfl-playoff-championship-rams-vs-seahawks-odds-lines-how-to-watch-1-25-2026/88343702007/",
+      "source": "Rams Wire",
+      "ts": 1769277300.0,
+      "published_iso": "2026-01-24T17:55:00+00:00"
     }
   ]
 }
