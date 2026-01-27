@@ -1,5 +1,38 @@
 {
-  "updated_iso": "2026-01-27T07:45:52.839150+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-27T08:15:58.676260+00:00",
+  "count": 4,
+  "items": [
+    {
+      "id": "https-yahoo-com-news-videos-ex-rams-mvp-cooper-kupp-042318008-html",
+      "title": "Ex-Rams MVP Cooper Kupp on 'incredible journey' back to Super Bowl with Seahawks",
+      "link": "https://yahoo.com/news/videos/ex-rams-mvp-cooper-kupp-042318008.html",
+      "source": "Yahoo",
+      "ts": 1769470020.0,
+      "published_iso": "2026-01-26T23:27:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-news-rams-wr-davante-adams-it-s-tough-to-talk-after-losing-fifth-career-nfc-championship-game",
+      "title": "Rams WR Davante Adams: 'It's tough to talk' after losing fifth career NFC Championship Game",
+      "link": "https://nfl.com/news/rams-wr-davante-adams-it-s-tough-to-talk-after-losing-fifth-career-nfc-championship-game",
+      "source": "NFL.com",
+      "ts": 1769407380.0,
+      "published_iso": "2026-01-26T06:03:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-videos-watch-seahawks-celebrate-nfc-championship-041803807-html",
+      "title": "Watch: Seahawks celebrate NFC championship win over Los Angeles Rams",
+      "link": "https://yahoo.com/news/videos/watch-seahawks-celebrate-nfc-championship-041803807.html",
+      "source": "Yahoo",
+      "ts": 1769381400.0,
+      "published_iso": "2026-01-25T22:50:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-",
+      "title": "Los Angeles Rams at Seattle Seahawks: How to watch, listen to and live stream the NFC Championship Game",
+      "link": "https://therams.com/news/los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-game-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1768995120.0,
+      "published_iso": "2026-01-21T11:32:00+00:00"
+    }
+  ]
 }
