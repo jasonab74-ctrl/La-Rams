@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-27T08:15:58.676260+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-27T08:53:35.538016+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-yahoo-com-news-videos-ex-rams-mvp-cooper-kupp-042318008-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo",
       "ts": 1769470020.0,
       "published_iso": "2026-01-26T23:27:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-news-rams-wr-davante-adams-it-s-tough-to-talk-after-losing-fifth-career-nfc-championship-game",
-      "title": "Rams WR Davante Adams: 'It's tough to talk' after losing fifth career NFC Championship Game",
-      "link": "https://nfl.com/news/rams-wr-davante-adams-it-s-tough-to-talk-after-losing-fifth-career-nfc-championship-game",
-      "source": "NFL.com",
-      "ts": 1769407380.0,
-      "published_iso": "2026-01-26T06:03:00+00:00"
     },
     {
       "id": "https-yahoo-com-news-videos-watch-seahawks-celebrate-nfc-championship-041803807-html",
