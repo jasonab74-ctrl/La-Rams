@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-01-27T04:05:57.756522+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-27T05:00:15.745278+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-seahawks-rams-coaches-nearly-had-234331055-html",
+      "title": "Seahawks, Rams coaches nearly had elevator rumble over Cooper Kupp fumble",
+      "link": "https://sports.yahoo.com/articles/seahawks-rams-coaches-nearly-had-234331055.html",
+      "source": "Yahoo Sports",
+      "ts": 1769458980.0,
+      "published_iso": "2026-01-26T20:23:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-videos-watch-seahawks-celebrate-nfc-championship-041803807-html",
+      "title": "Watch: Seahawks celebrate NFC championship win over Los Angeles Rams",
+      "link": "https://yahoo.com/news/videos/watch-seahawks-celebrate-nfc-championship-041803807.html",
+      "source": "Yahoo",
+      "ts": 1769381400.0,
+      "published_iso": "2026-01-25T22:50:00+00:00"
+    }
+  ]
 }
