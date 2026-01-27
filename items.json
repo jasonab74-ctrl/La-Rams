@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-27T22:11:22.738935+00:00",
+  "updated_iso": "2026-01-27T22:43:09.129495+00:00",
   "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-matthew-stafford-five-word-response-173533702-html",
+      "title": "Matthew Stafford’s five-word response on possible Rams return",
+      "link": "https://sports.yahoo.com/articles/matthew-stafford-five-word-response-173533702.html",
+      "source": "Yahoo Sports",
+      "ts": 1769523180.0,
+      "published_iso": "2026-01-27T14:13:00+00:00"
+    },
     {
       "id": "https-bleacherreport-com-articles-25333215-los-angeles-rams-2026-nfl-draft-pick-order-and-big-board-top-needs",
       "title": "Los Angeles Rams 2026 NFL Draft Pick Order and Big Board for Top Needs",
@@ -9,14 +17,6 @@
       "source": "Bleacher Report",
       "ts": 1769494260.0,
       "published_iso": "2026-01-27T06:11:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-disrespected-cooper-233125410-html",
-      "title": "Los Angeles Rams Disrespected Cooper Kupp Before Cutting Ties",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-disrespected-cooper-233125410.html",
-      "source": "Yahoo Sports",
-      "ts": 1769443320.0,
-      "published_iso": "2026-01-26T16:02:00+00:00"
     },
     {
       "id": "https-yahoo-com-news-videos-watch-seahawks-celebrate-nfc-championship-041803807-html",
