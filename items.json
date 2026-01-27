@@ -1,5 +1,5 @@
 {
-  "updated_iso": "2026-01-27T19:44:41.956308+00:00",
+  "updated_iso": "2026-01-27T20:11:27.420827+00:00",
   "count": 3,
   "items": [
     {
@@ -11,20 +11,20 @@
       "published_iso": "2026-01-27T11:38:00+00:00"
     },
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-27-rams-cobie-durant-terrible-secondary-88379187007",
-      "title": "Cobie Durant wants to debunk narrative that Rams have ‘terrible secondary’ every year",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/01/27/rams-cobie-durant-terrible-secondary/88379187007/",
-      "source": "Rams Wire",
-      "ts": 1769510040.0,
-      "published_iso": "2026-01-27T10:34:00+00:00"
-    },
-    {
       "id": "https-bleacherreport-com-articles-25333215-los-angeles-rams-2026-nfl-draft-pick-order-and-big-board-top-needs",
       "title": "Los Angeles Rams 2026 NFL Draft Pick Order and Big Board for Top Needs",
       "link": "https://bleacherreport.com/articles/25333215-los-angeles-rams-2026-nfl-draft-pick-order-and-big-board-top-needs",
       "source": "Bleacher Report",
       "ts": 1769494260.0,
       "published_iso": "2026-01-27T06:11:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-videos-watch-seahawks-celebrate-nfc-championship-041803807-html",
+      "title": "Watch: Seahawks celebrate NFC championship win over Los Angeles Rams",
+      "link": "https://yahoo.com/news/videos/watch-seahawks-celebrate-nfc-championship-041803807.html",
+      "source": "Yahoo",
+      "ts": 1769381400.0,
+      "published_iso": "2026-01-25T22:50:00+00:00"
     }
   ]
 }
