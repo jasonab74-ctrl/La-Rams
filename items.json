@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-01-27T20:11:27.420827+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-27T20:43:28.017482+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-matthew-stafford-announces-immediate-plans-184239910-html",
-      "title": "Matthew Stafford Announces Immediate Plans on Rams Future After Sean McVay Snaps at QB’s Retirement Question",
-      "link": "https://sports.yahoo.com/articles/matthew-stafford-announces-immediate-plans-184239910.html",
+      "id": "https-sports-yahoo-com-articles-rams-president-rips-report-chris-182109127-html",
+      "title": "Rams President Rips Report That Chris Shula Bombed Steelers Interview",
+      "link": "https://sports.yahoo.com/articles/rams-president-rips-report-chris-182109127.html",
       "source": "Yahoo Sports",
-      "ts": 1769513880.0,
-      "published_iso": "2026-01-27T11:38:00+00:00"
+      "ts": 1769517060.0,
+      "published_iso": "2026-01-27T12:31:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-27-rams-puka-nacua-kobie-turner-seahawks-micd-up-8837764300",
+      "title": "Mics caught an inspiring chat between Puka Nacua, Kobie Turner after Rams' loss",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/01/27/rams-puka-nacua-kobie-turner-seahawks-micd-up/88377643007/",
+      "source": "Rams Wire",
+      "ts": 1769515560.0,
+      "published_iso": "2026-01-27T12:06:00+00:00"
     },
     {
       "id": "https-bleacherreport-com-articles-25333215-los-angeles-rams-2026-nfl-draft-pick-order-and-big-board-top-needs",
