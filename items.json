@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-27T06:57:08.920837+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-27T07:21:45.661623+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-report-rams-seahawks-coaches-nearly-051432455-html",
+      "title": "Report: Rams, Seahawks coaches nearly came to blows in elevator",
+      "link": "https://sports.yahoo.com/articles/report-rams-seahawks-coaches-nearly-051432455.html",
+      "source": "Yahoo Sports",
+      "ts": 1769462820.0,
+      "published_iso": "2026-01-26T21:27:00+00:00"
+    },
     {
       "id": "https-yahoo-com-news-videos-watch-seahawks-celebrate-nfc-championship-041803807-html",
       "title": "Watch: Seahawks celebrate NFC championship win over Los Angeles Rams",
