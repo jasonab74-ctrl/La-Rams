@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-01-27T00:52:36.411568+00:00",
-  "count": 1,
+  "updated_iso": "2026-01-27T02:59:01.170193+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-free-agents-cut-candidates-194700699-html",
-      "title": "Rams free agents, cut candidates and trade chips who won't be back next season",
-      "link": "https://sports.yahoo.com/articles/rams-free-agents-cut-candidates-194700699.html",
+      "id": "https-si-com-nfl-seahawks-onsi-game-day-seahawks-jsn-make-rare-acccomplishment-in-first-half-of-nfc-championship-vs-rams",
+      "title": "Seahawks' JSN makes rare accomplishment in first half of NFC Championship vs. Rams",
+      "link": "https://si.com/nfl/seahawks/onsi/game-day/seahawks-jsn-make-rare-acccomplishment-in-first-half-of-nfc-championship-vs-rams-01kfvzwtmrrz",
+      "source": "Sports Illustrated",
+      "ts": 1769452140.0,
+      "published_iso": "2026-01-26T18:29:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-nfl-article-2026-nfl-offseason-preview-los-angeles-rams-plans-hinge-on-matthew-staffords-decision",
+      "title": "2026 NFL offseason preview: Los Angeles Rams' plans hinge on Matthew Stafford's decision",
+      "link": "https://sports.yahoo.com/nfl/article/2026-nfl-offseason-preview-los-angeles-rams-plans-hinge-on-matthew-staffords-decision-025347774.html",
       "source": "Yahoo Sports",
-      "ts": 1769445660.0,
-      "published_iso": "2026-01-26T16:41:00+00:00"
+      "ts": 1769367840.0,
+      "published_iso": "2026-01-25T19:04:00+00:00"
     }
   ]
 }
