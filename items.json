@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-28T12:21:51.190616+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-28T13:25:53.191681+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-28-nfl-analyst-predicts-rams-sign-this-starting-cb-in-free-",
+      "title": "NFL analyst predicts Rams sign this starting CB in free agency",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/01/28/nfl-analyst-predicts-rams-sign-this-starting-cb-in-free-agency/88384627007/",
+      "source": "Rams Wire",
+      "ts": 1769575320.0,
+      "published_iso": "2026-01-28T04:42:00+00:00"
+    },
     {
       "id": "https-bleacherreport-com-articles-25333215-los-angeles-rams-2026-nfl-draft-pick-order-and-big-board-top-needs",
       "title": "Los Angeles Rams 2026 NFL Draft Pick Order and Big Board for Top Needs",
@@ -11,12 +19,12 @@
       "published_iso": "2026-01-27T06:11:00+00:00"
     },
     {
-      "id": "https-yahoo-com-news-videos-watch-seahawks-celebrate-nfc-championship-041803807-html",
-      "title": "Watch: Seahawks celebrate NFC championship win over Los Angeles Rams",
-      "link": "https://yahoo.com/news/videos/watch-seahawks-celebrate-nfc-championship-041803807.html",
-      "source": "Yahoo",
-      "ts": 1769381400.0,
-      "published_iso": "2026-01-25T22:50:00+00:00"
+      "id": "https-sportingnews-com-us-nfl-news-why-did-rams-release-cooper-kupp-wr-seahawks-los-angeles-935a3b7e9ebef4581bf9f27a",
+      "title": "Why did Rams release Cooper Kupp? How WR ended up on Seahawks after Los Angeles' decision to move on from star",
+      "link": "https://sportingnews.com/us/nfl/news/why-did-rams-release-cooper-kupp-wr-seahawks-los-angeles/935a3b7e9ebef4581bf9f27a",
+      "source": "Sporting News",
+      "ts": 1769348580.0,
+      "published_iso": "2026-01-25T13:43:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-",
