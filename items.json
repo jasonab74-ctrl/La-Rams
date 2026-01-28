@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-01-28T17:02:35.385900+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-28T17:52:55.101819+00:00",
+  "count": 2,
   "items": [
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-key-defensive-back-will-be-attractive-free-agent",
-      "title": "Key Rams Defensive Back Will Be Attractive Free Agent",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-key-defensive-back-will-be-attractive-free-agent",
-      "source": "Sports Illustrated",
-      "ts": 1769588760.0,
-      "published_iso": "2026-01-28T08:26:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-sam-darnold-teams-ucla-bruin-131915130-html",
       "title": "Sam Darnold teams up with UCLA Bruin to knock out Los Angeles Rams",
@@ -25,14 +17,6 @@
       "source": "Bleacher Report",
       "ts": 1769494260.0,
       "published_iso": "2026-01-27T06:11:00+00:00"
-    },
-    {
-      "id": "https-yahoo-com-news-videos-watch-seahawks-celebrate-nfc-championship-041803807-html",
-      "title": "Watch: Seahawks celebrate NFC championship win over Los Angeles Rams",
-      "link": "https://yahoo.com/news/videos/watch-seahawks-celebrate-nfc-championship-041803807.html",
-      "source": "Yahoo",
-      "ts": 1769381400.0,
-      "published_iso": "2026-01-25T22:50:00+00:00"
     }
   ]
 }
