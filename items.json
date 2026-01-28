@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-28T15:54:41.769673+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-28T16:21:12.007906+00:00",
+  "count": 5,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-sam-darnold-teams-ucla-bruin-131915130-html",
@@ -25,6 +25,14 @@
       "source": "Yahoo",
       "ts": 1769381400.0,
       "published_iso": "2026-01-25T22:50:00+00:00"
+    },
+    {
+      "id": "https-sportingnews-com-us-nfl-news-why-did-rams-release-cooper-kupp-wr-seahawks-los-angeles-935a3b7e9ebef4581bf9f27a",
+      "title": "Why did Rams release Cooper Kupp? How WR ended up on Seahawks after Los Angeles' decision to move on from star",
+      "link": "https://sportingnews.com/us/nfl/news/why-did-rams-release-cooper-kupp-wr-seahawks-los-angeles/935a3b7e9ebef4581bf9f27a",
+      "source": "Sporting News",
+      "ts": 1769348580.0,
+      "published_iso": "2026-01-25T13:43:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-",
