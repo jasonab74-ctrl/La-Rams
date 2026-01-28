@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-28T16:21:12.007906+00:00",
-  "count": 5,
+  "updated_iso": "2026-01-28T17:02:35.385900+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-key-defensive-back-will-be-attractive-free-agent",
+      "title": "Key Rams Defensive Back Will Be Attractive Free Agent",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-key-defensive-back-will-be-attractive-free-agent",
+      "source": "Sports Illustrated",
+      "ts": 1769588760.0,
+      "published_iso": "2026-01-28T08:26:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-sam-darnold-teams-ucla-bruin-131915130-html",
       "title": "Sam Darnold teams up with UCLA Bruin to knock out Los Angeles Rams",
@@ -25,22 +33,6 @@
       "source": "Yahoo",
       "ts": 1769381400.0,
       "published_iso": "2026-01-25T22:50:00+00:00"
-    },
-    {
-      "id": "https-sportingnews-com-us-nfl-news-why-did-rams-release-cooper-kupp-wr-seahawks-los-angeles-935a3b7e9ebef4581bf9f27a",
-      "title": "Why did Rams release Cooper Kupp? How WR ended up on Seahawks after Los Angeles' decision to move on from star",
-      "link": "https://sportingnews.com/us/nfl/news/why-did-rams-release-cooper-kupp-wr-seahawks-los-angeles/935a3b7e9ebef4581bf9f27a",
-      "source": "Sporting News",
-      "ts": 1769348580.0,
-      "published_iso": "2026-01-25T13:43:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-",
-      "title": "Los Angeles Rams at Seattle Seahawks: How to watch, listen to and live stream the NFC Championship Game",
-      "link": "https://therams.com/news/los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-game-2026",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1768995120.0,
-      "published_iso": "2026-01-21T11:32:00+00:00"
     }
   ]
 }
