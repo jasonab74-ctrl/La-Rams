@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-28T05:49:12.460652+00:00",
-  "count": 2,
+  "updated_iso": "2026-01-28T06:18:54.691380+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-bleacherreport-com-articles-25333215-los-angeles-rams-2026-nfl-draft-pick-order-and-big-board-top-needs",
@@ -9,6 +9,14 @@
       "source": "Bleacher Report",
       "ts": 1769494260.0,
       "published_iso": "2026-01-27T06:11:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-videos-watch-seahawks-celebrate-nfc-championship-041803807-html",
+      "title": "Watch: Seahawks celebrate NFC championship win over Los Angeles Rams",
+      "link": "https://yahoo.com/news/videos/watch-seahawks-celebrate-nfc-championship-041803807.html",
+      "source": "Yahoo",
+      "ts": 1769381400.0,
+      "published_iso": "2026-01-25T22:50:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-",
