@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-28T18:21:22.628300+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-28T18:57:00.880948+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-mightve-found-special-teams-174745097-html",
@@ -25,6 +25,14 @@
       "source": "Bleacher Report",
       "ts": 1769494260.0,
       "published_iso": "2026-01-27T06:11:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-videos-watch-seahawks-celebrate-nfc-championship-041803807-html",
+      "title": "Watch: Seahawks celebrate NFC championship win over Los Angeles Rams",
+      "link": "https://yahoo.com/news/videos/watch-seahawks-celebrate-nfc-championship-041803807.html",
+      "source": "Yahoo",
+      "ts": 1769381400.0,
+      "published_iso": "2026-01-25T22:50:00+00:00"
     }
   ]
 }
