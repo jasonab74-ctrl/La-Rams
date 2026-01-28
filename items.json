@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-01-28T19:47:19.420835+00:00",
-  "count": 5,
+  "updated_iso": "2026-01-28T20:15:14.090087+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-early-look-rams-8-biggest-192953611-html",
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-28-rams-roster-needs-positions-2026-offseason-88399538007",
       "title": "Early look at Rams' 8 biggest roster needs for 2026",
-      "link": "https://sports.yahoo.com/articles/early-look-rams-8-biggest-192953611.html",
-      "source": "Yahoo Sports",
-      "ts": 1769600280.0,
-      "published_iso": "2026-01-28T11:38:00+00:00"
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/01/28/rams-roster-needs-positions-2026-offseason/88399538007/",
+      "source": "Rams Wire",
+      "ts": 1769600460.0,
+      "published_iso": "2026-01-28T11:41:00+00:00"
+    },
+    {
+      "id": "https-latimes-com-sports-rams-live-rams-seahawks-nfc-championship-live-updates-watch-odds-score-highlights",
+      "title": "Rams’ Super Bowl hopes shattered in heartbreaking NFC title game loss to Seattle",
+      "link": "https://latimes.com/sports/rams/live/rams-seahawks-nfc-championship-live-updates-watch-odds-score-highlights",
+      "source": "LA Times",
+      "ts": 1769592120.0,
+      "published_iso": "2026-01-28T09:22:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-sam-darnold-teams-ucla-bruin-131915130-html",
@@ -25,22 +33,6 @@
       "source": "Bleacher Report",
       "ts": 1769494260.0,
       "published_iso": "2026-01-27T06:11:00+00:00"
-    },
-    {
-      "id": "https-yahoo-com-news-videos-watch-seahawks-celebrate-nfc-championship-041803807-html",
-      "title": "Watch: Seahawks celebrate NFC championship win over Los Angeles Rams",
-      "link": "https://yahoo.com/news/videos/watch-seahawks-celebrate-nfc-championship-041803807.html",
-      "source": "Yahoo",
-      "ts": 1769381400.0,
-      "published_iso": "2026-01-25T22:50:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-",
-      "title": "Los Angeles Rams at Seattle Seahawks: How to watch, listen to and live stream the NFC Championship Game",
-      "link": "https://therams.com/news/los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-game-2026",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1768995120.0,
-      "published_iso": "2026-01-21T11:32:00+00:00"
     }
   ]
 }
