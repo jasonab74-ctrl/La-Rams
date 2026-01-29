@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-29T16:34:08.747165+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-29T17:27:31.232649+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-report-rams-hiring-bubba-ventrone-171632975-html",
+      "title": "Report: Rams hiring Bubba Ventrone as new special teams coordinator",
+      "link": "https://sports.yahoo.com/articles/report-rams-hiring-bubba-ventrone-171632975.html",
+      "source": "Yahoo Sports",
+      "ts": 1769678760.0,
+      "published_iso": "2026-01-29T09:26:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-set-retain-150000678-html",
       "title": "Los Angeles Rams Set to Retain Both Top Coordinators",
