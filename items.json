@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-29T07:32:02.320688+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-29T08:23:47.580959+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-sam-darnold-teams-ucla-bruin-131915130-html",
@@ -25,14 +25,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1768995120.0,
       "published_iso": "2026-01-21T11:32:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1759355460.0,
-      "published_iso": "2025-10-01T21:51:00+00:00"
     }
   ]
 }
