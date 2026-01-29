@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-29T22:14:29.946997+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-29T22:51:04.041744+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-therams-com-news-top-5-defensive-plays-from-rams-2025-season",
+      "title": "Top 5 defensive plays from Rams' 2025 season",
+      "link": "https://therams.com/news/top-5-defensive-plays-from-rams-2025-season",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1769688720.0,
+      "published_iso": "2026-01-29T12:12:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-set-retain-150000678-html",
       "title": "Los Angeles Rams Set to Retain Both Top Coordinators",
