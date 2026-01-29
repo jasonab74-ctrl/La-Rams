@@ -1,23 +1,7 @@
 {
-  "updated_iso": "2026-01-29T18:42:50.203098+00:00",
-  "count": 6,
+  "updated_iso": "2026-01-29T19:21:59.381112+00:00",
+  "count": 4,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-8-moves-rams-help-them-181848200-html",
-      "title": "8 moves Rams can make to help them win the Super Bowl next season",
-      "link": "https://sports.yahoo.com/articles/8-moves-rams-help-them-181848200.html",
-      "source": "Yahoo Sports",
-      "ts": 1769682660.0,
-      "published_iso": "2026-01-29T10:31:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-29-la-rams-bubba-ventrone-special-teams-browns-88415459007",
-      "title": "Report: Rams hiring Bubba Ventrone as new special teams coordinator",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/01/29/la-rams-bubba-ventrone-special-teams-browns/88415459007/",
-      "source": "Rams Wire",
-      "ts": 1769678940.0,
-      "published_iso": "2026-01-29T09:29:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-set-retain-150000678-html",
       "title": "Los Angeles Rams Set to Retain Both Top Coordinators",
@@ -43,12 +27,12 @@
       "published_iso": "2026-01-24T12:10:00+00:00"
     },
     {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1759355460.0,
-      "published_iso": "2025-10-01T21:51:00+00:00"
+      "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-",
+      "title": "Los Angeles Rams at Seattle Seahawks: How to watch, listen to and live stream the NFC Championship Game",
+      "link": "https://therams.com/news/los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-game-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1768995120.0,
+      "published_iso": "2026-01-21T11:32:00+00:00"
     }
   ]
 }
