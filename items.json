@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-29T20:50:42.070508+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-29T21:15:17.009055+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-therams-com-news-top-5-defensive-plays-from-rams-2025-season",
@@ -25,14 +25,6 @@
       "source": "Bleacher Report",
       "ts": 1769494260.0,
       "published_iso": "2026-01-27T06:11:00+00:00"
-    },
-    {
-      "id": "https-yahoo-com-entertainment-celebrity-articles-fianc-e-los-angeles-rams-200000801-html",
-      "title": "Fiancée of Los Angeles Rams Player Says Being a WAG Is 'Not for the Weak' (Exclusive)",
-      "link": "https://yahoo.com/entertainment/celebrity/articles/fianc-e-los-angeles-rams-200000801.html",
-      "source": "Yahoo",
-      "ts": 1769256600.0,
-      "published_iso": "2026-01-24T12:10:00+00:00"
     }
   ]
 }
