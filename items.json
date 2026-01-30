@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-30T11:46:20.756230+00:00",
-  "count": 3,
+  "updated_iso": "2026-01-30T12:26:23.850922+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-latimes-com-sports-rams-story-2026-01-30-rams-2025-season-what-went-right-wrong-in-super-bowl-pursuit",
+      "title": "From Super Bowl favorites to sideline: What happened to the Rams this season?",
+      "link": "https://latimes.com/sports/rams/story/2026-01-30/rams-2025-season-what-went-right-wrong-in-super-bowl-pursuit",
+      "source": "LA Times",
+      "ts": 1769745660.0,
+      "published_iso": "2026-01-30T04:01:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-set-retain-150000678-html",
       "title": "Los Angeles Rams Set to Retain Both Top Coordinators",
