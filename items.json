@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-30T18:26:08.837140+00:00",
+  "updated_iso": "2026-01-30T19:05:40.792350+00:00",
   "count": 5,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-5-rams-players-regressed-most-183620379-html",
+      "title": "5 Rams players who regressed the most in 2025",
+      "link": "https://sports.yahoo.com/articles/5-rams-players-regressed-most-183620379.html",
+      "source": "Yahoo Sports",
+      "ts": 1769770560.0,
+      "published_iso": "2026-01-30T10:56:00+00:00"
+    },
     {
       "id": "https-therams-com-video-best-fan-moments-rams-vs-seahawks-conference-championship-watch-party-sofi-stadium",
       "title": "Best fan moments from Rams vs. Seahawks Conference Championship Watch Party at SoFi Stadium",
@@ -9,14 +17,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1769766420.0,
       "published_iso": "2026-01-30T09:47:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-30-rams-rookie-draft-grades-from-2025-88432592007",
-      "title": "Grading every Rams rookie draft pick from 2025",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/01/30/rams-rookie-draft-grades-from-2025/88432592007/",
-      "source": "Rams Wire",
-      "ts": 1769765220.0,
-      "published_iso": "2026-01-30T09:27:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-matthew-stafford-gives-possible-retirement-120000972-html",
