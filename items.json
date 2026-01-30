@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-01-30T16:23:37.341680+00:00",
+  "updated_iso": "2026-01-30T17:03:35.009302+00:00",
   "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-waived-rams-kicker-thanks-fans-154252712-html",
-      "title": "Waived Rams Kicker Thanks Fans for the Memories",
-      "link": "https://sports.yahoo.com/articles/waived-rams-kicker-thanks-fans-154252712.html",
+      "id": "https-sports-yahoo-com-articles-matthew-stafford-gives-possible-retirement-120000972-html",
+      "title": "Matthew Stafford gives update on possible retirement from Los Angeles Rams and NFL",
+      "link": "https://sports.yahoo.com/articles/matthew-stafford-gives-possible-retirement-120000972.html",
       "source": "Yahoo Sports",
-      "ts": 1769759760.0,
-      "published_iso": "2026-01-30T07:56:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-4-players-could-bigger-roles-145746138-html",
-      "title": "4 players who could have bigger roles for the Rams in 2026",
-      "link": "https://sports.yahoo.com/articles/4-players-could-bigger-roles-145746138.html",
-      "source": "Yahoo Sports",
-      "ts": 1769756820.0,
-      "published_iso": "2026-01-30T07:07:00+00:00"
+      "ts": 1769747220.0,
+      "published_iso": "2026-01-30T04:27:00+00:00"
     },
     {
       "id": "https-bleacherreport-com-articles-25333215-los-angeles-rams-2026-nfl-draft-pick-order-and-big-board-top-needs",
@@ -33,6 +25,14 @@
       "source": "Yahoo",
       "ts": 1769256600.0,
       "published_iso": "2026-01-24T12:10:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1759355460.0,
+      "published_iso": "2025-10-01T21:51:00+00:00"
     }
   ]
 }
