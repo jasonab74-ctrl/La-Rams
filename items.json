@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-01-30T09:58:40.249243+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-30T10:30:15.740501+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-stafford-hangs-cleats-comes-next-024249233-html",
+      "title": "If Stafford hangs up his cleats, what comes next for McVay and the Rams?",
+      "link": "https://sports.yahoo.com/articles/stafford-hangs-cleats-comes-next-024249233.html",
+      "source": "Yahoo Sports",
+      "ts": 1769727720.0,
+      "published_iso": "2026-01-29T23:02:00+00:00"
+    }
+  ]
 }
