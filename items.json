@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-30T22:49:06.693705+00:00",
-  "count": 5,
+  "updated_iso": "2026-01-30T23:14:32.231697+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-matthew-stafford-gives-possible-retirement-120000972-html",
@@ -33,14 +33,6 @@
       "source": "Yahoo",
       "ts": 1769256600.0,
       "published_iso": "2026-01-24T12:10:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-",
-      "title": "Los Angeles Rams at Seattle Seahawks: How to watch, listen to and live stream the NFC Championship Game",
-      "link": "https://therams.com/news/los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-game-2026",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1768995120.0,
-      "published_iso": "2026-01-21T11:32:00+00:00"
     }
   ]
 }
