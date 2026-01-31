@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-31T19:38:15.380268+00:00",
-  "count": 5,
+  "updated_iso": "2026-01-31T20:11:22.413407+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-matthew-stafford-gives-possible-retirement-120000972-html",
@@ -25,14 +25,6 @@
       "source": "Bleacher Report",
       "ts": 1769494260.0,
       "published_iso": "2026-01-27T06:11:00+00:00"
-    },
-    {
-      "id": "https-yahoo-com-entertainment-celebrity-articles-fianc-e-los-angeles-rams-200000801-html",
-      "title": "Fiancée of Los Angeles Rams Player Says Being a WAG Is 'Not for the Weak' (Exclusive)",
-      "link": "https://yahoo.com/entertainment/celebrity/articles/fianc-e-los-angeles-rams-200000801.html",
-      "source": "Yahoo",
-      "ts": 1769256600.0,
-      "published_iso": "2026-01-24T12:10:00+00:00"
     },
     {
       "id": "https-foxsports-com-nfl-los-angeles-rams-team",
