@@ -1,38 +1,14 @@
 {
-  "updated_iso": "2026-01-31T23:10:34.126428+00:00",
-  "count": 4,
+  "updated_iso": "2026-01-31T23:41:33.745287+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-yahoo-com-entertainment-celebrity-articles-los-angeles-rams-wide-receiver-160625947-html",
-      "title": "Los Angeles Rams Wide Receiver Puka Nacua Publicly Shoots His Shot With Sydney Sweeney",
-      "link": "https://yahoo.com/entertainment/celebrity/articles/los-angeles-rams-wide-receiver-160625947.html",
-      "source": "Yahoo",
-      "ts": 1769870520.0,
-      "published_iso": "2026-01-31T14:42:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-did-rams-land-athletic-mock-220100410-html",
-      "title": "Who did Rams land in The Athletic’s mock draft?",
-      "link": "https://sports.yahoo.com/articles/did-rams-land-athletic-mock-220100410.html",
-      "source": "Yahoo Sports",
-      "ts": 1769869020.0,
-      "published_iso": "2026-01-31T14:17:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-matthew-stafford-gives-possible-retirement-120000972-html",
-      "title": "Matthew Stafford gives update on possible retirement from Los Angeles Rams and NFL",
-      "link": "https://sports.yahoo.com/articles/matthew-stafford-gives-possible-retirement-120000972.html",
-      "source": "Yahoo Sports",
-      "ts": 1769747220.0,
-      "published_iso": "2026-01-30T04:27:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25333215-los-angeles-rams-2026-nfl-draft-pick-order-and-big-board-top-needs",
-      "title": "Los Angeles Rams 2026 NFL Draft Pick Order and Big Board for Top Needs",
-      "link": "https://bleacherreport.com/articles/25333215-los-angeles-rams-2026-nfl-draft-pick-order-and-big-board-top-needs",
-      "source": "Bleacher Report",
-      "ts": 1769494260.0,
-      "published_iso": "2026-01-27T06:11:00+00:00"
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1759355460.0,
+      "published_iso": "2025-10-01T21:51:00+00:00"
     }
   ]
 }
