@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-01-31T22:45:12.787425+00:00",
-  "count": 5,
+  "updated_iso": "2026-01-31T23:10:34.126428+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-yahoo-com-entertainment-celebrity-articles-los-angeles-rams-wide-receiver-160625947-html",
@@ -33,14 +33,6 @@
       "source": "Bleacher Report",
       "ts": 1769494260.0,
       "published_iso": "2026-01-27T06:11:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1759355460.0,
-      "published_iso": "2025-10-01T21:51:00+00:00"
     }
   ]
 }
