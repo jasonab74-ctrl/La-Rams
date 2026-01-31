@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-01-31T06:22:57.140486+00:00",
+  "updated_iso": "2026-01-31T07:02:01.152051+00:00",
   "count": 4,
   "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-01-30-rams-go-mostly-defense-in-3-round-pff-mock-draft-8843753",
+      "title": "Rams go mostly defense in 3-round PFF mock draft",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/01/30/rams-go-mostly-defense-in-3-round-pff-mock-draft/88437536007/",
+      "source": "Rams Wire",
+      "ts": 1769796840.0,
+      "published_iso": "2026-01-30T18:14:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-matthew-stafford-gives-possible-retirement-120000972-html",
       "title": "Matthew Stafford gives update on possible retirement from Los Angeles Rams and NFL",
@@ -25,14 +33,6 @@
       "source": "Bleacher Report",
       "ts": 1769494260.0,
       "published_iso": "2026-01-27T06:11:00+00:00"
-    },
-    {
-      "id": "https-yahoo-com-entertainment-celebrity-articles-fianc-e-los-angeles-rams-200000801-html",
-      "title": "Fiancée of Los Angeles Rams Player Says Being a WAG Is 'Not for the Weak' (Exclusive)",
-      "link": "https://yahoo.com/entertainment/celebrity/articles/fianc-e-los-angeles-rams-200000801.html",
-      "source": "Yahoo",
-      "ts": 1769256600.0,
-      "published_iso": "2026-01-24T12:10:00+00:00"
     }
   ]
 }
