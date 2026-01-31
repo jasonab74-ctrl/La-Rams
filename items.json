@@ -1,5 +1,38 @@
 {
-  "updated_iso": "2026-01-31T15:11:03.330815+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-01-31T15:43:17.218873+00:00",
+  "count": 4,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-matthew-stafford-gives-possible-retirement-120000972-html",
+      "title": "Matthew Stafford gives update on possible retirement from Los Angeles Rams and NFL",
+      "link": "https://sports.yahoo.com/articles/matthew-stafford-gives-possible-retirement-120000972.html",
+      "source": "Yahoo Sports",
+      "ts": 1769747220.0,
+      "published_iso": "2026-01-30T04:27:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-sam-darnold-teams-ucla-bruin-131915130-html",
+      "title": "Sam Darnold teams up with UCLA Bruin to knock out Los Angeles Rams",
+      "link": "https://sports.yahoo.com/articles/sam-darnold-teams-ucla-bruin-131915130.html",
+      "source": "Yahoo Sports",
+      "ts": 1769578620.0,
+      "published_iso": "2026-01-28T05:37:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25333215-los-angeles-rams-2026-nfl-draft-pick-order-and-big-board-top-needs",
+      "title": "Los Angeles Rams 2026 NFL Draft Pick Order and Big Board for Top Needs",
+      "link": "https://bleacherreport.com/articles/25333215-los-angeles-rams-2026-nfl-draft-pick-order-and-big-board-top-needs",
+      "source": "Bleacher Report",
+      "ts": 1769494260.0,
+      "published_iso": "2026-01-27T06:11:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-entertainment-celebrity-articles-fianc-e-los-angeles-rams-200000801-html",
+      "title": "Fiancée of Los Angeles Rams Player Says Being a WAG Is 'Not for the Weak' (Exclusive)",
+      "link": "https://yahoo.com/entertainment/celebrity/articles/fianc-e-los-angeles-rams-200000801.html",
+      "source": "Yahoo",
+      "ts": 1769256600.0,
+      "published_iso": "2026-01-24T12:10:00+00:00"
+    }
+  ]
 }
