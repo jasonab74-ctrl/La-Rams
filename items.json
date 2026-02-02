@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-02-02T14:32:09.608522+00:00",
-  "count": 4,
+  "updated_iso": "2026-02-02T15:27:19.586503+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-foxsports-com-articles-nfl-arizona-cardinals-hire-los-angeles-rams-offensive-coordinator-mike-lafleur-as-head-coac",
-      "title": "Arizona Cardinals hire Los Angeles Rams offensive coordinator Mike LaFleur as head coach",
-      "link": "https://foxsports.com/articles/nfl/arizona-cardinals-hire-los-angeles-rams-offensive-coordinator-mike-lafleur-as-head-coach",
-      "source": "FOX Sports",
-      "ts": 1769930400.0,
-      "published_iso": "2026-02-01T07:20:00+00:00"
+      "id": "https-yahoo-com-entertainment-celebrity-articles-rams-qb-justin-herbert-famous-143538495-html",
+      "title": "Rams QB Justin Herbert’s famous girlfriend goes bra-free in black body-hugging gown",
+      "link": "https://yahoo.com/entertainment/celebrity/articles/rams-qb-justin-herbert-famous-143538495.html",
+      "source": "Yahoo",
+      "ts": 1770016020.0,
+      "published_iso": "2026-02-02T07:07:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-videos-garafolo-cardinals-hire-rams-oc-mike-lafleur-as-new-hc-gmfb",
+      "title": "Garafolo: Cardinals hire Rams OC Mike LaFleur as new HC | 'GMFB'",
+      "link": "https://nfl.com/videos/garafolo-cardinals-hire-rams-oc-mike-lafleur-as-new-hc-gmfb",
+      "source": "NFL.com",
+      "ts": 1770015360.0,
+      "published_iso": "2026-02-02T06:56:00+00:00"
     },
     {
       "id": "https-yahoo-com-entertainment-celebrity-articles-los-angeles-rams-wide-receiver-160625947-html",
@@ -17,22 +25,6 @@
       "source": "Yahoo",
       "ts": 1769870520.0,
       "published_iso": "2026-01-31T14:42:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-matthew-stafford-gives-possible-retirement-120000972-html",
-      "title": "Matthew Stafford gives update on possible retirement from Los Angeles Rams and NFL",
-      "link": "https://sports.yahoo.com/articles/matthew-stafford-gives-possible-retirement-120000972.html",
-      "source": "Yahoo Sports",
-      "ts": 1769747220.0,
-      "published_iso": "2026-01-30T04:27:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25333215-los-angeles-rams-2026-nfl-draft-pick-order-and-big-board-top-needs",
-      "title": "Los Angeles Rams 2026 NFL Draft Pick Order and Big Board for Top Needs",
-      "link": "https://bleacherreport.com/articles/25333215-los-angeles-rams-2026-nfl-draft-pick-order-and-big-board-top-needs",
-      "source": "Bleacher Report",
-      "ts": 1769494260.0,
-      "published_iso": "2026-01-27T06:11:00+00:00"
     }
   ]
 }
