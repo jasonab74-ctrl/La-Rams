@@ -1,38 +1,30 @@
 {
-  "updated_iso": "2026-02-02T18:01:15.615924+00:00",
-  "count": 4,
+  "updated_iso": "2026-02-02T23:16:01.322679+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-sean-mcvay-gm-les-snead-171334340-html",
-      "title": "Sean McVay, GM Les Snead agree to multiyear contract extensions with the Rams",
-      "link": "https://sports.yahoo.com/articles/sean-mcvay-gm-les-snead-171334340.html",
+      "id": "https-sports-yahoo-com-articles-rams-hc-sean-mcvay-absolutely-210241974-html",
+      "title": "Rams HC Sean McVay ‘absolutely’ expects Davante Adams back in 2026",
+      "link": "https://sports.yahoo.com/articles/rams-hc-sean-mcvay-absolutely-210241974.html",
       "source": "Yahoo Sports",
-      "ts": 1770024840.0,
-      "published_iso": "2026-02-02T09:34:00+00:00"
+      "ts": 1770042240.0,
+      "published_iso": "2026-02-02T14:24:00+00:00"
     },
     {
-      "id": "https-bleacherreport-com-articles-25384698-sean-mcvay-and-gm-les-snead-sign-rams-new-contracts-whats-next-matthew-staffo",
-      "title": "Sean McVay and GM Les Snead Sign Rams New Contracts, What's Next for Matthew Stafford?",
-      "link": "https://bleacherreport.com/articles/25384698-sean-mcvay-and-gm-les-snead-sign-rams-new-contracts-whats-next-matthew-stafford",
-      "source": "Bleacher Report",
-      "ts": 1770024000.0,
-      "published_iso": "2026-02-02T09:20:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-02-rams-injuries-matthew-stafford-byron-young-updates-offse",
+      "title": "Rams offseason injury updates: Good news on Matthew Stafford, Byron Young",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/02/rams-injuries-matthew-stafford-byron-young-updates-offseason/88480882007/",
+      "source": "Rams Wire",
+      "ts": 1770038580.0,
+      "published_iso": "2026-02-02T13:23:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-nfl-breaking-news-article-rams-announce-contract-extensions-for-hc-sean-mcvay-and-gm-les-snead-16",
-      "title": "Rams announce contract extensions for HC Sean McVay and GM Les Snead",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/rams-announce-contract-extensions-for-hc-sean-mcvay-and-gm-les-snead-164001289.html",
-      "source": "Yahoo Sports",
-      "ts": 1770022920.0,
-      "published_iso": "2026-02-02T09:02:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25384698-sean-mcvay-and-gm-les-snead-sign-rams-new-contracts-whats-next",
-      "title": "Sean McVay and GM Les Snead Sign Rams New Contracts, What's Next?",
-      "link": "https://bleacherreport.com/articles/25384698-sean-mcvay-and-gm-les-snead-sign-rams-new-contracts-whats-next",
-      "source": "Bleacher Report",
-      "ts": 1770021660.0,
-      "published_iso": "2026-02-02T08:41:00+00:00"
+      "id": "https-therams-com-news-rams-sign-general-manager-les-snead-and-head-coach-sean-mcvay-to-multi-year-contract-extensions-2",
+      "title": "Rams sign general manager Les Snead and head coach Sean McVay to multi-year contract extensions",
+      "link": "https://therams.com/news/rams-sign-general-manager-les-snead-and-head-coach-sean-mcvay-to-multi-year-contract-extensions-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1770021120.0,
+      "published_iso": "2026-02-02T08:32:00+00:00"
     }
   ]
 }
