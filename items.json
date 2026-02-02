@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-02-02T15:27:19.586503+00:00",
+  "updated_iso": "2026-02-02T15:56:26.085495+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-01-cardinals-rams-mike-lafleur-head-coach-hire-88381035007",
+      "title": "Cardinals hire Rams OC Mike LaFleur as next head coach",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/01/cardinals-rams-mike-lafleur-head-coach-hire/88381035007/",
+      "source": "Rams Wire",
+      "ts": 1770016980.0,
+      "published_iso": "2026-02-02T07:23:00+00:00"
+    },
     {
       "id": "https-yahoo-com-entertainment-celebrity-articles-rams-qb-justin-herbert-famous-143538495-html",
       "title": "Rams QB Justin Herbert’s famous girlfriend goes bra-free in black body-hugging gown",
@@ -9,14 +17,6 @@
       "source": "Yahoo",
       "ts": 1770016020.0,
       "published_iso": "2026-02-02T07:07:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-videos-garafolo-cardinals-hire-rams-oc-mike-lafleur-as-new-hc-gmfb",
-      "title": "Garafolo: Cardinals hire Rams OC Mike LaFleur as new HC | 'GMFB'",
-      "link": "https://nfl.com/videos/garafolo-cardinals-hire-rams-oc-mike-lafleur-as-new-hc-gmfb",
-      "source": "NFL.com",
-      "ts": 1770015360.0,
-      "published_iso": "2026-02-02T06:56:00+00:00"
     },
     {
       "id": "https-yahoo-com-entertainment-celebrity-articles-los-angeles-rams-wide-receiver-160625947-html",
