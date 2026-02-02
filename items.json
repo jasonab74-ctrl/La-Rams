@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-01T23:43:55.293177+00:00",
-  "count": 3,
+  "updated_iso": "2026-02-02T01:00:50.367894+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-foxsports-com-articles-nfl-arizona-cardinals-hire-los-angeles-rams-offensive-coordinator-mike-lafleur-as-head-coac",
@@ -25,6 +25,14 @@
       "source": "Yahoo Sports",
       "ts": 1769747220.0,
       "published_iso": "2026-01-30T04:27:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25333215-los-angeles-rams-2026-nfl-draft-pick-order-and-big-board-top-needs",
+      "title": "Los Angeles Rams 2026 NFL Draft Pick Order and Big Board for Top Needs",
+      "link": "https://bleacherreport.com/articles/25333215-los-angeles-rams-2026-nfl-draft-pick-order-and-big-board-top-needs",
+      "source": "Bleacher Report",
+      "ts": 1769494260.0,
+      "published_iso": "2026-01-27T06:11:00+00:00"
     }
   ]
 }
