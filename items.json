@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-02-03T19:37:24.935769+00:00",
-  "count": 2,
+  "updated_iso": "2026-02-03T20:22:07.629434+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-latimes-com-sports-rams-story-2026-02-02-rams-sign-sean-mcvay-les-snead-contract-extensions",
-      "title": "With Sean McVay and Les Snead re-signed, Rams wait on Matthew Stafford decision",
-      "link": "https://latimes.com/sports/rams/story/2026-02-02/rams-sign-sean-mcvay-les-snead-contract-extensions",
-      "source": "LA Times",
-      "ts": 1770022140.0,
-      "published_iso": "2026-02-02T08:49:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1759355460.0,
-      "published_iso": "2025-10-01T21:51:00+00:00"
+      "id": "https-therams-com-video-highlights-rams-top-5-most-improbable-completions-from-2025-season",
+      "title": "HIGHLIGHTS: Rams' top 5 most improbable completions from the 2025 season",
+      "link": "https://therams.com/video/highlights-rams-top-5-most-improbable-completions-from-2025-season",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1770119760.0,
+      "published_iso": "2026-02-03T11:56:00+00:00"
     }
   ]
 }
