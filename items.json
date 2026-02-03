@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-02-03T01:01:02.693729+00:00",
-  "count": 3,
+  "updated_iso": "2026-02-03T03:43:23.756127+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-nfl-com-videos-battista-rams-extend-sean-mcvay-les-snead-to-multi-year-deals-super-bowl-live",
-      "title": "Battista: Rams extend Sean McVay, Les Snead to multi-year deals | 'Super Bowl Live'",
-      "link": "https://nfl.com/videos/battista-rams-extend-sean-mcvay-les-snead-to-multi-year-deals-super-bowl-live",
-      "source": "NFL.com",
-      "ts": 1770047400.0,
-      "published_iso": "2026-02-02T15:50:00+00:00"
+      "id": "https-apnews-com-article-rams-sean-mcvay-les-snead-20fb0731b9813c12ad56ec49349bb3f8",
+      "title": "Coach Sean McVay and GM Les Snead agree to multiyear contract extensions with the Rams",
+      "link": "https://apnews.com/article/rams-sean-mcvay-les-snead-20fb0731b9813c12ad56ec49349bb3f8",
+      "source": "AP News",
+      "ts": 1770033600.0,
+      "published_iso": "2026-02-02T12:00:00+00:00"
     },
     {
       "id": "https-therams-com-news-rams-sign-general-manager-les-snead-and-head-coach-sean-mcvay-to-multi-year-contract-extensions-2",
@@ -17,14 +17,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1770021120.0,
       "published_iso": "2026-02-02T08:32:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1759355460.0,
-      "published_iso": "2025-10-01T21:51:00+00:00"
     }
   ]
 }
