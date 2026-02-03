@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-02-03T12:29:23.637112+00:00",
-  "count": 1,
+  "updated_iso": "2026-02-03T13:41:30.158673+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-revamp-secondary-pff-mock-123031230-html",
+      "title": "Rams revamp secondary in new PFF mock draft",
+      "link": "https://sports.yahoo.com/articles/rams-revamp-secondary-pff-mock-123031230.html",
+      "source": "Yahoo Sports",
+      "ts": 1770094500.0,
+      "published_iso": "2026-02-03T04:55:00+00:00"
+    },
     {
       "id": "https-foxsports-com-nfl-los-angeles-rams-team",
       "title": "LOS ANGELES RAMS NEWS",
