@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-02-02T23:48:21.305157+00:00",
-  "count": 2,
+  "updated_iso": "2026-02-03T01:01:02.693729+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-hc-sean-mcvay-absolutely-210241974-html",
-      "title": "Rams HC Sean McVay ‘absolutely’ expects Davante Adams back in 2026",
-      "link": "https://sports.yahoo.com/articles/rams-hc-sean-mcvay-absolutely-210241974.html",
-      "source": "Yahoo Sports",
-      "ts": 1770042240.0,
-      "published_iso": "2026-02-02T14:24:00+00:00"
+      "id": "https-nfl-com-videos-battista-rams-extend-sean-mcvay-les-snead-to-multi-year-deals-super-bowl-live",
+      "title": "Battista: Rams extend Sean McVay, Les Snead to multi-year deals | 'Super Bowl Live'",
+      "link": "https://nfl.com/videos/battista-rams-extend-sean-mcvay-les-snead-to-multi-year-deals-super-bowl-live",
+      "source": "NFL.com",
+      "ts": 1770047400.0,
+      "published_iso": "2026-02-02T15:50:00+00:00"
     },
     {
       "id": "https-therams-com-news-rams-sign-general-manager-les-snead-and-head-coach-sean-mcvay-to-multi-year-contract-extensions-2",
@@ -17,6 +17,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1770021120.0,
       "published_iso": "2026-02-02T08:32:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1759355460.0,
+      "published_iso": "2025-10-01T21:51:00+00:00"
     }
   ]
 }
