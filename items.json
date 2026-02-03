@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-02-03T11:04:11.122606+00:00",
-  "count": 3,
+  "updated_iso": "2026-02-03T11:52:47.552598+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-therams-com-news-rams-sign-general-manager-les-snead-and-head-coach-sean-mcvay-to-multi-year-contract-extensions-2",
-      "title": "Rams sign general manager Les Snead and head coach Sean McVay to multi-year contract extensions",
-      "link": "https://therams.com/news/rams-sign-general-manager-les-snead-and-head-coach-sean-mcvay-to-multi-year-contract-extensions-2026",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1770021120.0,
-      "published_iso": "2026-02-02T08:32:00+00:00"
+      "id": "https-apnews-com-article-rams-sean-mcvay-les-snead-20fb0731b9813c12ad56ec49349bb3f8",
+      "title": "Coach Sean McVay and GM Les Snead agree to multiyear contract extensions with the Rams",
+      "link": "https://apnews.com/article/rams-sean-mcvay-les-snead-20fb0731b9813c12ad56ec49349bb3f8",
+      "source": "AP News",
+      "ts": 1770033600.0,
+      "published_iso": "2026-02-02T12:00:00+00:00"
     },
     {
       "id": "https-yahoo-com-entertainment-celebrity-articles-los-angeles-rams-wide-receiver-160625947-html",
@@ -25,6 +25,14 @@
       "source": "Bleacher Report",
       "ts": 1769494260.0,
       "published_iso": "2026-01-27T06:11:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-",
+      "title": "Los Angeles Rams at Seattle Seahawks: How to watch, listen to and live stream the NFC Championship Game",
+      "link": "https://therams.com/news/los-angeles-rams-at-seattle-seahawks-how-to-watch-listen-to-and-live-stream-the-nfc-championship-game-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1768995120.0,
+      "published_iso": "2026-01-21T11:32:00+00:00"
     }
   ]
 }
