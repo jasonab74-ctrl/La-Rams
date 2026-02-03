@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-03T03:43:23.756127+00:00",
-  "count": 2,
+  "updated_iso": "2026-02-03T05:09:09.940755+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-apnews-com-article-rams-sean-mcvay-les-snead-20fb0731b9813c12ad56ec49349bb3f8",
@@ -17,6 +17,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1770021120.0,
       "published_iso": "2026-02-02T08:32:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-entertainment-celebrity-articles-los-angeles-rams-wide-receiver-160625947-html",
+      "title": "Los Angeles Rams Wide Receiver Puka Nacua Publicly Shoots His Shot With Sydney Sweeney",
+      "link": "https://yahoo.com/entertainment/celebrity/articles/los-angeles-rams-wide-receiver-160625947.html",
+      "source": "Yahoo",
+      "ts": 1769870520.0,
+      "published_iso": "2026-01-31T14:42:00+00:00"
     }
   ]
 }
