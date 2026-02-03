@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-03T23:17:06.391188+00:00",
-  "count": 4,
+  "updated_iso": "2026-02-03T23:47:29.398230+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-nfl-article-super-bowl-2026-221747288-html",
@@ -17,22 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1770126960.0,
       "published_iso": "2026-02-03T13:56:00+00:00"
-    },
-    {
-      "id": "https-therams-com-video-highlights-rams-top-5-most-improbable-completions-from-2025-season",
-      "title": "HIGHLIGHTS: Rams' top 5 most improbable completions from the 2025 season",
-      "link": "https://therams.com/video/highlights-rams-top-5-most-improbable-completions-from-2025-season",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1770119760.0,
-      "published_iso": "2026-02-03T11:56:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1766693400.0,
-      "published_iso": "2025-12-25T20:10:00+00:00"
     }
   ]
 }
