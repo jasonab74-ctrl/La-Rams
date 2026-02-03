@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-02-03T22:17:47.575362+00:00",
-  "count": 2,
+  "updated_iso": "2026-02-03T22:53:54.422086+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-nfl-article-super-bowl-2026-221747288-html",
+      "title": "Super Bowl 2026: Cooper Kupp, former Super Bowl hero, is back with Seahawks after Rams gave up on him",
+      "link": "https://sports.yahoo.com/nfl/article/super-bowl-2026-221747288.html",
+      "source": "Yahoo Sports",
+      "ts": 1770128940.0,
+      "published_iso": "2026-02-03T14:29:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-urged-upgrade-cb-room-212652433-html",
       "title": "Rams urged to upgrade CB room after Sam Darnold's 346-yard NFC Championship outing",
@@ -17,6 +25,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1770119760.0,
       "published_iso": "2026-02-03T11:56:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1766693400.0,
+      "published_iso": "2025-12-25T20:10:00+00:00"
     }
   ]
 }
