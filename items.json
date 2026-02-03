@@ -1,30 +1,22 @@
 {
-  "updated_iso": "2026-02-03T18:38:22.656786+00:00",
-  "count": 3,
+  "updated_iso": "2026-02-03T19:37:24.935769+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-cbssports-com-nfl-news-rams-super-bowl-mvp-seahawks-cooper-kupp",
-      "title": "From Rams' Super Bowl MVP to Seahawks' unsung hero: How Cooper Kupp embraced his new role in Seattle",
-      "link": "https://cbssports.com/nfl/news/rams-super-bowl-mvp-seahawks-cooper-kupp/",
-      "source": "CBS Sports",
-      "ts": 1770113340.0,
-      "published_iso": "2026-02-03T10:09:00+00:00"
+      "id": "https-latimes-com-sports-rams-story-2026-02-02-rams-sign-sean-mcvay-les-snead-contract-extensions",
+      "title": "With Sean McVay and Les Snead re-signed, Rams wait on Matthew Stafford decision",
+      "link": "https://latimes.com/sports/rams/story/2026-02-02/rams-sign-sean-mcvay-les-snead-contract-extensions",
+      "source": "LA Times",
+      "ts": 1770022140.0,
+      "published_iso": "2026-02-02T08:49:00+00:00"
     },
     {
-      "id": "https-apnews-com-article-rams-sean-mcvay-les-snead-20fb0731b9813c12ad56ec49349bb3f8",
-      "title": "Coach Sean McVay and GM Les Snead agree to multiyear contract extensions with the Rams",
-      "link": "https://apnews.com/article/rams-sean-mcvay-les-snead-20fb0731b9813c12ad56ec49349bb3f8",
-      "source": "AP News",
-      "ts": 1770033600.0,
-      "published_iso": "2026-02-02T12:00:00+00:00"
-    },
-    {
-      "id": "https-yahoo-com-entertainment-celebrity-articles-los-angeles-rams-wide-receiver-160625947-html",
-      "title": "Los Angeles Rams Wide Receiver Puka Nacua Publicly Shoots His Shot With Sydney Sweeney",
-      "link": "https://yahoo.com/entertainment/celebrity/articles/los-angeles-rams-wide-receiver-160625947.html",
-      "source": "Yahoo",
-      "ts": 1769870520.0,
-      "published_iso": "2026-01-31T14:42:00+00:00"
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1759355460.0,
+      "published_iso": "2025-10-01T21:51:00+00:00"
     }
   ]
 }
