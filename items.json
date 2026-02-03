@@ -1,5 +1,38 @@
 {
-  "updated_iso": "2026-02-03T07:58:08.065587+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-02-03T08:30:57.544742+00:00",
+  "count": 4,
+  "items": [
+    {
+      "id": "https-apnews-com-article-rams-sean-mcvay-les-snead-20fb0731b9813c12ad56ec49349bb3f8",
+      "title": "Coach Sean McVay and GM Les Snead agree to multiyear contract extensions with the Rams",
+      "link": "https://apnews.com/article/rams-sean-mcvay-les-snead-20fb0731b9813c12ad56ec49349bb3f8",
+      "source": "AP News",
+      "ts": 1770033600.0,
+      "published_iso": "2026-02-02T12:00:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-sign-general-manager-les-snead-and-head-coach-sean-mcvay-to-multi-year-contract-extensions-2",
+      "title": "Rams sign general manager Les Snead and head coach Sean McVay to multi-year contract extensions",
+      "link": "https://therams.com/news/rams-sign-general-manager-les-snead-and-head-coach-sean-mcvay-to-multi-year-contract-extensions-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1770021120.0,
+      "published_iso": "2026-02-02T08:32:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-entertainment-celebrity-articles-los-angeles-rams-wide-receiver-160625947-html",
+      "title": "Los Angeles Rams Wide Receiver Puka Nacua Publicly Shoots His Shot With Sydney Sweeney",
+      "link": "https://yahoo.com/entertainment/celebrity/articles/los-angeles-rams-wide-receiver-160625947.html",
+      "source": "Yahoo",
+      "ts": 1769870520.0,
+      "published_iso": "2026-01-31T14:42:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25333215-los-angeles-rams-2026-nfl-draft-pick-order-and-big-board-top-needs",
+      "title": "Los Angeles Rams 2026 NFL Draft Pick Order and Big Board for Top Needs",
+      "link": "https://bleacherreport.com/articles/25333215-los-angeles-rams-2026-nfl-draft-pick-order-and-big-board-top-needs",
+      "source": "Bleacher Report",
+      "ts": 1769494260.0,
+      "published_iso": "2026-01-27T06:11:00+00:00"
+    }
+  ]
 }
