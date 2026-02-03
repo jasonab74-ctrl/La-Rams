@@ -1,22 +1,22 @@
 {
-  "updated_iso": "2026-02-03T13:41:30.158673+00:00",
+  "updated_iso": "2026-02-03T14:35:48.796747+00:00",
   "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-revamp-secondary-pff-mock-123031230-html",
-      "title": "Rams revamp secondary in new PFF mock draft",
-      "link": "https://sports.yahoo.com/articles/rams-revamp-secondary-pff-mock-123031230.html",
+      "id": "https-sports-yahoo-com-articles-sean-mcvay-shares-matthew-stafford-113056519-html",
+      "title": "Sean McVay Shares Update on Matthew Stafford’s Retirement After Sending Messageto Rams QB",
+      "link": "https://sports.yahoo.com/articles/sean-mcvay-shares-matthew-stafford-113056519.html",
       "source": "Yahoo Sports",
-      "ts": 1770094500.0,
-      "published_iso": "2026-02-03T04:55:00+00:00"
+      "ts": 1770098760.0,
+      "published_iso": "2026-02-03T06:06:00+00:00"
     },
     {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1759355460.0,
-      "published_iso": "2025-10-01T21:51:00+00:00"
+      "id": "https-therams-com-news-rams-sign-general-manager-les-snead-and-head-coach-sean-mcvay-to-multi-year-contract-extensions-2",
+      "title": "Rams sign general manager Les Snead and head coach Sean McVay to multi-year contract extensions",
+      "link": "https://therams.com/news/rams-sign-general-manager-les-snead-and-head-coach-sean-mcvay-to-multi-year-contract-extensions-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1770021120.0,
+      "published_iso": "2026-02-02T08:32:00+00:00"
     }
   ]
 }
