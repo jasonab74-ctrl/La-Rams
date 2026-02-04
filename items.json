@@ -1,22 +1,22 @@
 {
-  "updated_iso": "2026-02-03T23:47:29.398230+00:00",
+  "updated_iso": "2026-02-04T00:56:27.643521+00:00",
   "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-nfl-article-super-bowl-2026-221747288-html",
-      "title": "Super Bowl 2026: Cooper Kupp, former Super Bowl hero, is back with Seahawks after Rams gave up on him",
-      "link": "https://sports.yahoo.com/nfl/article/super-bowl-2026-221747288.html",
+      "id": "https-sports-yahoo-com-articles-matthew-stafford-gives-possible-retirement-120000972-html",
+      "title": "Matthew Stafford gives update on possible retirement from Los Angeles Rams and NFL",
+      "link": "https://sports.yahoo.com/articles/matthew-stafford-gives-possible-retirement-120000972.html",
       "source": "Yahoo Sports",
-      "ts": 1770128940.0,
-      "published_iso": "2026-02-03T14:29:00+00:00"
+      "ts": 1769747220.0,
+      "published_iso": "2026-01-30T04:27:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-rams-urged-upgrade-cb-room-212652433-html",
-      "title": "Rams urged to upgrade CB room after Sam Darnold's 346-yard NFC Championship outing",
-      "link": "https://sports.yahoo.com/articles/rams-urged-upgrade-cb-room-212652433.html",
-      "source": "Yahoo Sports",
-      "ts": 1770126960.0,
-      "published_iso": "2026-02-03T13:56:00+00:00"
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1766693400.0,
+      "published_iso": "2025-12-25T20:10:00+00:00"
     }
   ]
 }
