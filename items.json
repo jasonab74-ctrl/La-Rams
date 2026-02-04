@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-02-04T21:51:17.596331+00:00",
+  "updated_iso": "2026-02-04T22:14:04.820564+00:00",
   "count": 2,
   "items": [
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-04-rams-les-snead-matthew-stafford-offseason-plan-885149820",
-      "title": "Rams GM Les Snead hints at going all-in if Matthew Stafford returns",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/04/rams-les-snead-matthew-stafford-offseason-plan/88514982007/",
-      "source": "Rams Wire",
-      "ts": 1770212400.0,
-      "published_iso": "2026-02-04T13:40:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-mike-lafleur-requests-interview-rams-204419452-html",
       "title": "Mike LaFleur requests to interview Rams' Aubrey Pleasant for Cardinals DC job",
@@ -17,6 +9,14 @@
       "source": "Yahoo Sports",
       "ts": 1770209400.0,
       "published_iso": "2026-02-04T12:50:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-matthew-stafford-gives-possible-retirement-120000972-html",
+      "title": "Matthew Stafford gives update on possible retirement from Los Angeles Rams and NFL",
+      "link": "https://sports.yahoo.com/articles/matthew-stafford-gives-possible-retirement-120000972.html",
+      "source": "Yahoo Sports",
+      "ts": 1769747220.0,
+      "published_iso": "2026-01-30T04:27:00+00:00"
     }
   ]
 }
