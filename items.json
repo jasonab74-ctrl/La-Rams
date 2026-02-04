@@ -1,5 +1,38 @@
 {
-  "updated_iso": "2026-02-04T04:53:52.061283+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-02-04T05:39:21.876457+00:00",
+  "count": 4,
+  "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-01-cardinals-rams-mike-lafleur-head-coach-hire-88381035007",
+      "title": "Cardinals hire Rams OC Mike LaFleur as next head coach",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/01/cardinals-rams-mike-lafleur-head-coach-hire/88381035007/",
+      "source": "Rams Wire",
+      "ts": 1770152940.0,
+      "published_iso": "2026-02-03T21:09:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-matthew-stafford-gives-possible-retirement-120000972-html",
+      "title": "Matthew Stafford gives update on possible retirement from Los Angeles Rams and NFL",
+      "link": "https://sports.yahoo.com/articles/matthew-stafford-gives-possible-retirement-120000972.html",
+      "source": "Yahoo Sports",
+      "ts": 1769747220.0,
+      "published_iso": "2026-01-30T04:27:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25333215-los-angeles-rams-2026-nfl-draft-pick-order-and-big-board-top-needs",
+      "title": "Los Angeles Rams 2026 NFL Draft Pick Order and Big Board for Top Needs",
+      "link": "https://bleacherreport.com/articles/25333215-los-angeles-rams-2026-nfl-draft-pick-order-and-big-board-top-needs",
+      "source": "Bleacher Report",
+      "ts": 1769494260.0,
+      "published_iso": "2026-01-27T06:11:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1766693400.0,
+      "published_iso": "2025-12-25T20:10:00+00:00"
+    }
+  ]
 }
