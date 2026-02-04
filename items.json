@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-02-04T22:14:04.820564+00:00",
-  "count": 2,
+  "updated_iso": "2026-02-04T22:49:19.165039+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-mike-lafleur-requests-interview-rams-204419452-html",
-      "title": "Mike LaFleur requests to interview Rams' Aubrey Pleasant for Cardinals DC job",
-      "link": "https://sports.yahoo.com/articles/mike-lafleur-requests-interview-rams-204419452.html",
+      "id": "https-sports-yahoo-com-articles-rams-could-lose-assistant-head-224206592-html",
+      "title": "Rams could lose assistant head coach",
+      "link": "https://sports.yahoo.com/articles/rams-could-lose-assistant-head-224206592.html",
       "source": "Yahoo Sports",
-      "ts": 1770209400.0,
-      "published_iso": "2026-02-04T12:50:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-matthew-stafford-gives-possible-retirement-120000972-html",
-      "title": "Matthew Stafford gives update on possible retirement from Los Angeles Rams and NFL",
-      "link": "https://sports.yahoo.com/articles/matthew-stafford-gives-possible-retirement-120000972.html",
-      "source": "Yahoo Sports",
-      "ts": 1769747220.0,
-      "published_iso": "2026-01-30T04:27:00+00:00"
+      "ts": 1770216420.0,
+      "published_iso": "2026-02-04T14:47:00+00:00"
     }
   ]
 }
