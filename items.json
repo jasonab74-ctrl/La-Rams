@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-02-04T21:24:50.564784+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-02-04T21:51:17.596331+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-04-rams-les-snead-matthew-stafford-offseason-plan-885149820",
+      "title": "Rams GM Les Snead hints at going all-in if Matthew Stafford returns",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/04/rams-les-snead-matthew-stafford-offseason-plan/88514982007/",
+      "source": "Rams Wire",
+      "ts": 1770212400.0,
+      "published_iso": "2026-02-04T13:40:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-mike-lafleur-requests-interview-rams-204419452-html",
+      "title": "Mike LaFleur requests to interview Rams' Aubrey Pleasant for Cardinals DC job",
+      "link": "https://sports.yahoo.com/articles/mike-lafleur-requests-interview-rams-204419452.html",
+      "source": "Yahoo Sports",
+      "ts": 1770209400.0,
+      "published_iso": "2026-02-04T12:50:00+00:00"
+    }
+  ]
 }
