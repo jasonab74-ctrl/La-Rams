@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-02-04T14:33:56.493557+00:00",
-  "count": 1,
+  "updated_iso": "2026-02-04T15:30:17.154547+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-todd-mcshay-calls-rams-best-135440555-html",
-      "title": "Todd McShay calls Rams best landing spot for these 2 QB prospects",
-      "link": "https://sports.yahoo.com/articles/todd-mcshay-calls-rams-best-135440555.html",
+      "id": "https-sports-yahoo-com-articles-rams-sean-mcvay-reveals-latest-150000609-html",
+      "title": "Rams’ Sean McVay Reveals Latest Update on Retirement Plans of Key Veterans",
+      "link": "https://sports.yahoo.com/articles/rams-sean-mcvay-reveals-latest-150000609.html",
       "source": "Yahoo Sports",
-      "ts": 1770185280.0,
-      "published_iso": "2026-02-04T06:08:00+00:00"
+      "ts": 1770189480.0,
+      "published_iso": "2026-02-04T07:18:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-matthew-stafford-gives-possible-retirement-120000972-html",
+      "title": "Matthew Stafford gives update on possible retirement from Los Angeles Rams and NFL",
+      "link": "https://sports.yahoo.com/articles/matthew-stafford-gives-possible-retirement-120000972.html",
+      "source": "Yahoo Sports",
+      "ts": 1769747220.0,
+      "published_iso": "2026-01-30T04:27:00+00:00"
     }
   ]
 }
