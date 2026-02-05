@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-02-05T06:12:51.828736+00:00",
-  "count": 2,
+  "updated_iso": "2026-02-05T07:29:43.662541+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-apnews-com-article-rams-sean-mcvay-les-snead-20fb0731b9813c12ad56ec49349bb3f8",
-      "title": "Coach Sean McVay and GM Les Snead agree to multiyear contract extensions with the Rams",
-      "link": "https://apnews.com/article/rams-sean-mcvay-les-snead-20fb0731b9813c12ad56ec49349bb3f8",
-      "source": "AP News",
-      "ts": 1770033600.0,
-      "published_iso": "2026-02-02T12:00:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-matthew-stafford-gives-possible-retirement-120000972-html",
-      "title": "Matthew Stafford gives update on possible retirement from Los Angeles Rams and NFL",
-      "link": "https://sports.yahoo.com/articles/matthew-stafford-gives-possible-retirement-120000972.html",
+      "id": "https-sports-yahoo-com-articles-rams-could-lose-assistant-head-224206592-html",
+      "title": "Rams could lose assistant head coach",
+      "link": "https://sports.yahoo.com/articles/rams-could-lose-assistant-head-224206592.html",
       "source": "Yahoo Sports",
-      "ts": 1769747220.0,
-      "published_iso": "2026-01-30T04:27:00+00:00"
+      "ts": 1770216420.0,
+      "published_iso": "2026-02-04T14:47:00+00:00"
     }
   ]
 }
