@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-02-05T16:07:13.891877+00:00",
-  "count": 2,
+  "updated_iso": "2026-02-05T17:12:41.397736+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-lowest-scoring-super-bowl-ever-163003017-html",
+      "title": "Lowest-scoring Super Bowl ever: Revisiting the 2019 Patriots vs. Rams snoozefest",
+      "link": "https://sports.yahoo.com/articles/lowest-scoring-super-bowl-ever-163003017.html",
+      "source": "Yahoo Sports",
+      "ts": 1770281940.0,
+      "published_iso": "2026-02-05T08:59:00+00:00"
+    },
     {
       "id": "https-yahoo-com-entertainment-celebrity-articles-los-angeles-rams-wide-receiver-160625947-html",
       "title": "Los Angeles Rams Wide Receiver Puka Nacua Publicly Shoots His Shot With Sydney Sweeney",
