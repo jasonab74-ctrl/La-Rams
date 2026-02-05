@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-02-05T17:12:41.397736+00:00",
-  "count": 3,
+  "updated_iso": "2026-02-05T18:06:55.926900+00:00",
+  "count": 1,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-lowest-scoring-super-bowl-ever-163003017-html",
-      "title": "Lowest-scoring Super Bowl ever: Revisiting the 2019 Patriots vs. Rams snoozefest",
-      "link": "https://sports.yahoo.com/articles/lowest-scoring-super-bowl-ever-163003017.html",
-      "source": "Yahoo Sports",
-      "ts": 1770281940.0,
-      "published_iso": "2026-02-05T08:59:00+00:00"
-    },
     {
       "id": "https-yahoo-com-entertainment-celebrity-articles-los-angeles-rams-wide-receiver-160625947-html",
       "title": "Los Angeles Rams Wide Receiver Puka Nacua Publicly Shoots His Shot With Sydney Sweeney",
@@ -17,14 +9,6 @@
       "source": "Yahoo",
       "ts": 1769870520.0,
       "published_iso": "2026-01-31T14:42:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-matthew-stafford-gives-possible-retirement-120000972-html",
-      "title": "Matthew Stafford gives update on possible retirement from Los Angeles Rams and NFL",
-      "link": "https://sports.yahoo.com/articles/matthew-stafford-gives-possible-retirement-120000972.html",
-      "source": "Yahoo Sports",
-      "ts": 1769747220.0,
-      "published_iso": "2026-01-30T04:27:00+00:00"
     }
   ]
 }
