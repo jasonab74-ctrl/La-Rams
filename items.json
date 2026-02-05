@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2026-02-05T18:06:55.926900+00:00",
-  "count": 1,
+  "updated_iso": "2026-02-05T19:10:07.042835+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-yahoo-com-entertainment-celebrity-articles-los-angeles-rams-wide-receiver-160625947-html",
-      "title": "Los Angeles Rams Wide Receiver Puka Nacua Publicly Shoots His Shot With Sydney Sweeney",
-      "link": "https://yahoo.com/entertainment/celebrity/articles/los-angeles-rams-wide-receiver-160625947.html",
-      "source": "Yahoo",
-      "ts": 1769870520.0,
-      "published_iso": "2026-01-31T14:42:00+00:00"
+      "id": "https-bleacherreport-com-articles-25389724-rams-vs-49ers-announced-historic-australia-game-2026-nfl-schedule-new-video",
+      "title": "Rams vs. 49ers Announced for Historic Australia Game on 2026 NFL Schedule in New Video",
+      "link": "https://bleacherreport.com/articles/25389724-rams-vs-49ers-announced-historic-australia-game-2026-nfl-schedule-new-video",
+      "source": "Bleacher Report",
+      "ts": 1770289620.0,
+      "published_iso": "2026-02-05T11:07:00+00:00"
+    },
+    {
+      "id": "https-latimes-com-sports-rams-story-2026-02-05-rams-will-play-san-francisco-49ers-in-australia-next-season",
+      "title": "Rams will play the San Francisco 49ers in Australia next season",
+      "link": "https://latimes.com/sports/rams/story/2026-02-05/rams-will-play-san-francisco-49ers-in-australia-next-season",
+      "source": "LA Times",
+      "ts": 1770288900.0,
+      "published_iso": "2026-02-05T10:55:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-melbourne-game-san-francisco-49ers-australia-2026",
+      "title": "Opponent confirmed for Los Angeles Rams Melbourne game",
+      "link": "https://therams.com/news/rams-melbourne-game-san-francisco-49ers-australia-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1770288720.0,
+      "published_iso": "2026-02-05T10:52:00+00:00"
     }
   ]
 }
