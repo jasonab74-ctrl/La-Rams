@@ -1,23 +1,7 @@
 {
-  "updated_iso": "2026-02-05T20:55:12.295589+00:00",
-  "count": 5,
+  "updated_iso": "2026-02-05T21:17:20.938821+00:00",
+  "count": 3,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-san-francisco-49ers-play-la-193446292-html",
-      "title": "The San Francisco 49ers will play the LA Rams in the first regular-season NFL game in Australia",
-      "link": "https://sports.yahoo.com/articles/san-francisco-49ers-play-la-193446292.html",
-      "source": "Yahoo Sports",
-      "ts": 1770292080.0,
-      "published_iso": "2026-02-05T11:48:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-nfl-breaking-news-article-49ers-rams-to-play-nfls-first-game-in-melbourne-australia-next-season-1",
-      "title": "49ers, Rams to play NFL's first game in Melbourne, Australia next season",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/49ers-rams-to-play-nfls-first-game-in-melbourne-australia-next-season-192449874.html",
-      "source": "Yahoo Sports",
-      "ts": 1770291960.0,
-      "published_iso": "2026-02-05T11:46:00+00:00"
-    },
     {
       "id": "https-bleacherreport-com-articles-25389724-rams-vs-49ers-announced-historic-australia-game-2026-nfl-schedule-new-video",
       "title": "Rams vs. 49ers Announced for Historic Australia Game on 2026 NFL Schedule in New Video",
