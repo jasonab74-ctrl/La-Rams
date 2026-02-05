@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-05T03:31:40.400196+00:00",
-  "count": 2,
+  "updated_iso": "2026-02-05T05:10:18.809863+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-could-lose-assistant-head-224206592-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1770216420.0,
       "published_iso": "2026-02-04T14:47:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-matthew-stafford-gives-possible-retirement-120000972-html",
-      "title": "Matthew Stafford gives update on possible retirement from Los Angeles Rams and NFL",
-      "link": "https://sports.yahoo.com/articles/matthew-stafford-gives-possible-retirement-120000972.html",
-      "source": "Yahoo Sports",
-      "ts": 1769747220.0,
-      "published_iso": "2026-01-30T04:27:00+00:00"
     }
   ]
 }
