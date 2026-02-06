@@ -1,5 +1,38 @@
 {
-  "updated_iso": "2026-02-06T20:54:46.255196+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-02-06T21:18:47.315371+00:00",
+  "count": 4,
+  "items": [
+    {
+      "id": "https-nfl-com-videos-rams-quentin-lake-joins-super-bowl-live-to-discuss-his-contract-extension",
+      "title": "Rams' Quentin Lake joins 'Super Bowl Live' to discuss his contract extension",
+      "link": "https://nfl.com/videos/rams-quentin-lake-joins-super-bowl-live-to-discuss-his-contract-extension",
+      "source": "NFL.com",
+      "ts": 1770382560.0,
+      "published_iso": "2026-02-06T12:56:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25390695-rams-puka-nacua-compares-giannis-myles-garrett-video-after-nba-trade-rumors-d",
+      "title": "Rams' Puka Nacua Compares Giannis to Myles Garrett in Video After NBA Trade Rumors at Deadline",
+      "link": "https://bleacherreport.com/articles/25390695-rams-puka-nacua-compares-giannis-myles-garrett-video-after-nba-trade-rumors-deadline",
+      "source": "Bleacher Report",
+      "ts": 1770380400.0,
+      "published_iso": "2026-02-06T12:20:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-matthew-stafford-back-whats-next-192535806-html",
+      "title": "With Matthew Stafford back, what's next for the Rams at QB this offseason?",
+      "link": "https://sports.yahoo.com/articles/matthew-stafford-back-whats-next-192535806.html",
+      "source": "Yahoo Sports",
+      "ts": 1770377580.0,
+      "published_iso": "2026-02-06T11:33:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-stories-nfl-rams-matthew-stafford-2025-nfl-mvp",
+      "title": "Los Angeles Rams: Matthew Stafford's 2025 NFL MVP Season By The Numbers",
+      "link": "https://foxsports.com/stories/nfl/rams-matthew-stafford-2025-nfl-mvp",
+      "source": "FOX Sports",
+      "ts": 1770353520.0,
+      "published_iso": "2026-02-06T04:52:00+00:00"
+    }
+  ]
 }
