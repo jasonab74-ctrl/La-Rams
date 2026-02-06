@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-02-05T23:44:43.128412+00:00",
-  "count": 3,
+  "updated_iso": "2026-02-06T00:56:47.750384+00:00",
+  "count": 4,
   "items": [
-    {
-      "id": "https-bleacherreport-com-articles-25389724-rams-vs-49ers-announced-historic-australia-game-2026-nfl-schedule-new-video",
-      "title": "Rams vs. 49ers Announced for Historic Australia Game on 2026 NFL Schedule in New Video",
-      "link": "https://bleacherreport.com/articles/25389724-rams-vs-49ers-announced-historic-australia-game-2026-nfl-schedule-new-video",
-      "source": "Bleacher Report",
-      "ts": 1770289620.0,
-      "published_iso": "2026-02-05T11:07:00+00:00"
-    },
     {
       "id": "https-therams-com-news-rams-melbourne-game-san-francisco-49ers-australia-2026",
       "title": "Opponent confirmed for Los Angeles Rams Melbourne game",
@@ -19,12 +11,28 @@
       "published_iso": "2026-02-05T10:52:00+00:00"
     },
     {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1733233920.0,
-      "published_iso": "2024-12-03T13:52:00+00:00"
+      "id": "https-nfl-com-news-49ers-to-play-rams-in-first-ever-game-in-melbourne-australia",
+      "title": "San Francisco 49ers to play Los Angeles Rams in first-ever game in Melbourne, Australia",
+      "link": "https://nfl.com/news/49ers-to-play-rams-in-first-ever-game-in-melbourne-australia",
+      "source": "NFL.com",
+      "ts": 1770285420.0,
+      "published_iso": "2026-02-05T09:57:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-matthew-stafford-gives-possible-retirement-120000972-html",
+      "title": "Matthew Stafford gives update on possible retirement from Los Angeles Rams and NFL",
+      "link": "https://sports.yahoo.com/articles/matthew-stafford-gives-possible-retirement-120000972.html",
+      "source": "Yahoo Sports",
+      "ts": 1769747220.0,
+      "published_iso": "2026-01-30T04:27:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-why-did-rams-release-cooper-080001235-html",
+      "title": "Why did Rams release Cooper Kupp? How WR ended up on Seahawks after Los Angeles' decision to move on from star",
+      "link": "https://sports.yahoo.com/articles/why-did-rams-release-cooper-080001235.html",
+      "source": "Yahoo Sports",
+      "ts": 1769301300.0,
+      "published_iso": "2026-01-25T00:35:00+00:00"
     }
   ]
 }
