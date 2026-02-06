@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-02-06T06:09:33.952954+00:00",
-  "count": 3,
+  "updated_iso": "2026-02-06T07:15:34.430602+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-qb-matthew-stafford-named-034714795-html",
-      "title": "Rams QB Matthew Stafford wins NFL MVP by one first-place vote",
-      "link": "https://sports.yahoo.com/articles/rams-qb-matthew-stafford-named-034714795.html",
+      "id": "https-sports-yahoo-com-nfl-breaking-news-article-nfl-mvp-matthew-stafford-says-hell-return-to-rams-in-2026-during-award-",
+      "title": "NFL MVP Matthew Stafford says he'll return to Rams in 2026 during award acceptance speech",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/nfl-mvp-matthew-stafford-says-hell-return-to-rams-in-2026-during-award-acceptance-speech-040557407.html",
       "source": "Yahoo Sports",
-      "ts": 1770323640.0,
-      "published_iso": "2026-02-05T20:34:00+00:00"
+      "ts": 1770325620.0,
+      "published_iso": "2026-02-05T21:07:00+00:00"
     },
     {
       "id": "https-therams-com-news-rams-melbourne-game-san-francisco-49ers-australia-2026",
@@ -17,14 +17,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1770288720.0,
       "published_iso": "2026-02-05T10:52:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-news-49ers-to-play-rams-in-first-ever-game-in-melbourne-australia",
-      "title": "San Francisco 49ers to play Los Angeles Rams in first-ever game in Melbourne, Australia",
-      "link": "https://nfl.com/news/49ers-to-play-rams-in-first-ever-game-in-melbourne-australia",
-      "source": "NFL.com",
-      "ts": 1770285420.0,
-      "published_iso": "2026-02-05T09:57:00+00:00"
     }
   ]
 }
