@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-02-06T09:31:13.620623+00:00",
+  "updated_iso": "2026-02-06T10:27:13.933117+00:00",
   "count": 2,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-jaxon-smith-njigba-named-nfl-034024850-html",
-      "title": "Jaxon Smith-Njigba named the NFL’s Offensive Player of the Year, beating Rams star Puka Nacua",
-      "link": "https://sports.yahoo.com/articles/jaxon-smith-njigba-named-nfl-034024850.html",
-      "source": "Yahoo Sports",
-      "ts": 1770336060.0,
-      "published_iso": "2026-02-06T00:01:00+00:00"
-    },
     {
       "id": "https-therams-com-news-rams-melbourne-game-san-francisco-49ers-australia-2026",
       "title": "Opponent confirmed for Los Angeles Rams Melbourne game",
@@ -17,6 +9,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1770288720.0,
       "published_iso": "2026-02-05T10:52:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-news-49ers-to-play-rams-in-first-ever-game-in-melbourne-australia",
+      "title": "San Francisco 49ers to play Los Angeles Rams in first-ever game in Melbourne, Australia",
+      "link": "https://nfl.com/news/49ers-to-play-rams-in-first-ever-game-in-melbourne-australia",
+      "source": "NFL.com",
+      "ts": 1770285420.0,
+      "published_iso": "2026-02-05T09:57:00+00:00"
     }
   ]
 }
