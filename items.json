@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-02-06T05:00:18.324796+00:00",
+  "updated_iso": "2026-02-06T06:09:33.952954+00:00",
   "count": 3,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-nfl-mvp-matthew-stafford-announces-043051530-html",
-      "title": "NFL MVP Matthew Stafford announces he'll return to play for Rams in 2026 season",
-      "link": "https://sports.yahoo.com/articles/nfl-mvp-matthew-stafford-announces-043051530.html",
-      "source": "Yahoo Sports",
-      "ts": 1770324840.0,
-      "published_iso": "2026-02-05T20:54:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-rams-qb-matthew-stafford-named-034714795-html",
       "title": "Rams QB Matthew Stafford wins NFL MVP by one first-place vote",
@@ -17,6 +9,14 @@
       "source": "Yahoo Sports",
       "ts": 1770323640.0,
       "published_iso": "2026-02-05T20:34:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-melbourne-game-san-francisco-49ers-australia-2026",
+      "title": "Opponent confirmed for Los Angeles Rams Melbourne game",
+      "link": "https://therams.com/news/rams-melbourne-game-san-francisco-49ers-australia-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1770288720.0,
+      "published_iso": "2026-02-05T10:52:00+00:00"
     },
     {
       "id": "https-nfl-com-news-49ers-to-play-rams-in-first-ever-game-in-melbourne-australia",
