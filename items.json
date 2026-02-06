@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-06T14:32:39.224829+00:00",
-  "count": 3,
+  "updated_iso": "2026-02-06T15:28:20.754875+00:00",
+  "count": 5,
   "items": [
     {
       "id": "https-si-com-nfl-commanders-onsi-news-washington-commanders-land-defensive-whisperer-known-for-coaching-aaron-donald-wit",
@@ -9,6 +9,22 @@
       "source": "Sports Illustrated",
       "ts": 1770359160.0,
       "published_iso": "2026-02-06T06:26:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-rams-matthew-stafford-states-playing-intention-for",
+      "title": "Matthew Stafford Makes Massive Announcement About His Rams Future",
+      "link": "https://si.com/nfl/rams/onsi/rams-matthew-stafford-states-playing-intention-for",
+      "source": "Sports Illustrated",
+      "ts": 1770355920.0,
+      "published_iso": "2026-02-06T05:32:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-06-rams-matthew-stafford-return-explanation-2026-8854420800",
+      "title": "Matthew Stafford explains his decision to return to the Rams in 2026",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/06/rams-matthew-stafford-return-explanation-2026/88544208007/",
+      "source": "Rams Wire",
+      "ts": 1770352980.0,
+      "published_iso": "2026-02-06T04:43:00+00:00"
     },
     {
       "id": "https-therams-com-news-rams-melbourne-game-san-francisco-49ers-australia-2026",
