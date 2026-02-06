@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-02-06T07:59:37.610312+00:00",
-  "count": 2,
+  "updated_iso": "2026-02-06T08:40:27.184880+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-jaxon-smith-njigba-named-nfl-034024850-html",
+      "title": "Jaxon Smith-Njigba named the NFL’s Offensive Player of the Year, beating Rams star Puka Nacua",
+      "link": "https://sports.yahoo.com/articles/jaxon-smith-njigba-named-nfl-034024850.html",
+      "source": "Yahoo Sports",
+      "ts": 1770336060.0,
+      "published_iso": "2026-02-06T00:01:00+00:00"
+    },
     {
       "id": "https-therams-com-news-rams-melbourne-game-san-francisco-49ers-australia-2026",
       "title": "Opponent confirmed for Los Angeles Rams Melbourne game",
