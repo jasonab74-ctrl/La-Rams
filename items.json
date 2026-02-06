@@ -1,22 +1,30 @@
 {
-  "updated_iso": "2026-02-06T03:27:14.879194+00:00",
-  "count": 2,
+  "updated_iso": "2026-02-06T05:00:18.324796+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-bleacherreport-com-articles-25389724-rams-vs-49ers-announced-historic-australia-game-2026-nfl-schedule-new-video",
-      "title": "Rams vs. 49ers Announced for Historic Australia Game on 2026 NFL Schedule in New Video",
-      "link": "https://bleacherreport.com/articles/25389724-rams-vs-49ers-announced-historic-australia-game-2026-nfl-schedule-new-video",
-      "source": "Bleacher Report",
-      "ts": 1770289620.0,
-      "published_iso": "2026-02-05T11:07:00+00:00"
+      "id": "https-sports-yahoo-com-articles-nfl-mvp-matthew-stafford-announces-043051530-html",
+      "title": "NFL MVP Matthew Stafford announces he'll return to play for Rams in 2026 season",
+      "link": "https://sports.yahoo.com/articles/nfl-mvp-matthew-stafford-announces-043051530.html",
+      "source": "Yahoo Sports",
+      "ts": 1770324840.0,
+      "published_iso": "2026-02-05T20:54:00+00:00"
     },
     {
-      "id": "https-therams-com-news-rams-melbourne-game-san-francisco-49ers-australia-2026",
-      "title": "Opponent confirmed for Los Angeles Rams Melbourne game",
-      "link": "https://therams.com/news/rams-melbourne-game-san-francisco-49ers-australia-2026",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1770288720.0,
-      "published_iso": "2026-02-05T10:52:00+00:00"
+      "id": "https-sports-yahoo-com-articles-rams-qb-matthew-stafford-named-034714795-html",
+      "title": "Rams QB Matthew Stafford wins NFL MVP by one first-place vote",
+      "link": "https://sports.yahoo.com/articles/rams-qb-matthew-stafford-named-034714795.html",
+      "source": "Yahoo Sports",
+      "ts": 1770323640.0,
+      "published_iso": "2026-02-05T20:34:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-news-49ers-to-play-rams-in-first-ever-game-in-melbourne-australia",
+      "title": "San Francisco 49ers to play Los Angeles Rams in first-ever game in Melbourne, Australia",
+      "link": "https://nfl.com/news/49ers-to-play-rams-in-first-ever-game-in-melbourne-australia",
+      "source": "NFL.com",
+      "ts": 1770285420.0,
+      "published_iso": "2026-02-05T09:57:00+00:00"
     }
   ]
 }
