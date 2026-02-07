@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-02-07T19:41:51.065878+00:00",
-  "count": 2,
+  "updated_iso": "2026-02-07T20:12:05.359169+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-stetson-bennett-named-los-angeles-114620031-html",
+      "title": "Stetson Bennett named as Los Angeles Rams cut candidate",
+      "link": "https://sports.yahoo.com/articles/stetson-bennett-named-los-angeles-114620031.html",
+      "source": "Yahoo Sports",
+      "ts": 1770436740.0,
+      "published_iso": "2026-02-07T03:59:00+00:00"
+    },
     {
       "id": "https-therams-com-news-rams-melbourne-game-san-francisco-49ers-australia-2026",
       "title": "Opponent confirmed for Los Angeles Rams Melbourne game",
