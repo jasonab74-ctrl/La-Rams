@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-02-07T22:50:29.632261+00:00",
-  "count": 3,
+  "updated_iso": "2026-02-07T23:16:30.074034+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-roster-news-sean-mcvay-194230095-html",
+      "title": "Rams Roster News: Sean McVay Close to Cutting Ties With Legendary GeorgiaBulldogs QB",
+      "link": "https://sports.yahoo.com/articles/rams-roster-news-sean-mcvay-194230095.html",
+      "source": "Yahoo Sports",
+      "ts": 1770474300.0,
+      "published_iso": "2026-02-07T14:25:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-stetson-bennett-named-los-angeles-114620031-html",
       "title": "Stetson Bennett named as Los Angeles Rams cut candidate",
