@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-02-08T23:18:09.343397+00:00",
+  "updated_iso": "2026-02-08T23:49:57.873609+00:00",
   "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-owner-confirms-stance-matthew-210457924-html",
+      "title": "Rams Owner Confirms Stance on Matthew Stafford’s Statue With a Strong Super BowlMessage",
+      "link": "https://sports.yahoo.com/articles/rams-owner-confirms-stance-matthew-210457924.html",
+      "source": "Yahoo Sports",
+      "ts": 1770565080.0,
+      "published_iso": "2026-02-08T15:38:00+00:00"
+    },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-leaders-reflects-on-missing-super-bowl-lx",
       "title": "Rams‘ Leaders Reflects On Missing Super Bowl LX",
@@ -9,14 +17,6 @@
       "source": "Sports Illustrated",
       "ts": 1770558720.0,
       "published_iso": "2026-02-08T13:52:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-08-rams-super-bowl-history-appearances-wins-88578830007",
-      "title": "How many Super Bowls have the Rams played in? Every appearance in team history",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/08/rams-super-bowl-history-appearances-wins/88578830007/",
-      "source": "Rams Wire",
-      "ts": 1770553260.0,
-      "published_iso": "2026-02-08T12:21:00+00:00"
     },
     {
       "id": "https-foxsports-com-stories-nfl-rams-matthew-stafford-2025-nfl-mvp",
