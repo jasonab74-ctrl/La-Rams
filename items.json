@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-02-09T18:08:39.188743+00:00",
-  "count": 1,
+  "updated_iso": "2026-02-09T19:43:03.577672+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-peter-schrager-rams-must-absolutely-192433141-html",
+      "title": "Peter Schrager: Rams must be 'absolutely sick' after watching Super Bowl",
+      "link": "https://sports.yahoo.com/articles/peter-schrager-rams-must-absolutely-192433141.html",
+      "source": "Yahoo Sports",
+      "ts": 1770636720.0,
+      "published_iso": "2026-02-09T11:32:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-mike-macdonald-makes-bold-cooper-142057467-html",
+      "title": "Mike Macdonald Makes Bold Cooper Kupp Claim After Rams Nearly Forced Seahawks WRInto Retirement",
+      "link": "https://sports.yahoo.com/articles/mike-macdonald-makes-bold-cooper-142057467.html",
+      "source": "Yahoo Sports",
+      "ts": 1770628440.0,
+      "published_iso": "2026-02-09T09:14:00+00:00"
+    },
     {
       "id": "https-therams-com-news-rams-melbourne-game-san-francisco-49ers-australia-2026",
       "title": "Opponent confirmed for Los Angeles Rams Melbourne game",
