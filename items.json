@@ -1,38 +1,14 @@
 {
-  "updated_iso": "2026-02-08T23:49:57.873609+00:00",
-  "count": 4,
+  "updated_iso": "2026-02-09T01:02:39.353946+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-owner-confirms-stance-matthew-210457924-html",
-      "title": "Rams Owner Confirms Stance on Matthew Stafford’s Statue With a Strong Super BowlMessage",
-      "link": "https://sports.yahoo.com/articles/rams-owner-confirms-stance-matthew-210457924.html",
+      "id": "https-sports-yahoo-com-articles-why-rams-released-cooper-kupp-210534639-html",
+      "title": "Why Rams released Cooper Kupp, paving way for Seahawks to sign veteran WR",
+      "link": "https://sports.yahoo.com/articles/why-rams-released-cooper-kupp-210534639.html",
       "source": "Yahoo Sports",
-      "ts": 1770565080.0,
-      "published_iso": "2026-02-08T15:38:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-leaders-reflects-on-missing-super-bowl-lx",
-      "title": "Rams‘ Leaders Reflects On Missing Super Bowl LX",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-leaders-reflects-on-missing-super-bowl-lx",
-      "source": "Sports Illustrated",
-      "ts": 1770558720.0,
-      "published_iso": "2026-02-08T13:52:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-stories-nfl-rams-matthew-stafford-2025-nfl-mvp",
-      "title": "Los Angeles Rams: Matthew Stafford's 2025 NFL MVP Season By The Numbers",
-      "link": "https://foxsports.com/stories/nfl/rams-matthew-stafford-2025-nfl-mvp",
-      "source": "FOX Sports",
-      "ts": 1770353520.0,
-      "published_iso": "2026-02-06T04:52:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-melbourne-game-san-francisco-49ers-australia-2026",
-      "title": "Opponent confirmed for Los Angeles Rams Melbourne game",
-      "link": "https://therams.com/news/rams-melbourne-game-san-francisco-49ers-australia-2026",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1770288720.0,
-      "published_iso": "2026-02-05T10:52:00+00:00"
+      "ts": 1770557220.0,
+      "published_iso": "2026-02-08T13:27:00+00:00"
     }
   ]
 }
