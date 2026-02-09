@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-02-09T15:16:03.212422+00:00",
-  "count": 3,
+  "updated_iso": "2026-02-09T16:28:50.175899+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-te-makes-surprise-appearance-135259281-html",
-      "title": "Rams TE makes surprise appearance in star-studded Super Bowl commercial",
-      "link": "https://sports.yahoo.com/articles/rams-te-makes-surprise-appearance-135259281.html",
+      "id": "https-sports-yahoo-com-articles-seahawks-rams-early-favorites-super-160500397-html",
+      "title": "Seahawks, Rams Early Favorites in Super Bowl LXI Odds",
+      "link": "https://sports.yahoo.com/articles/seahawks-rams-early-favorites-super-160500397.html",
       "source": "Yahoo Sports",
-      "ts": 1770617520.0,
-      "published_iso": "2026-02-09T06:12:00+00:00"
+      "ts": 1770625080.0,
+      "published_iso": "2026-02-09T08:18:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-09-super-bowl-commercial-tight-end-rams-colby-parkinson-885",
+      "title": "Rams TE makes surprise appearance in star-studded Super Bowl commercial",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/09/super-bowl-commercial-tight-end-rams-colby-parkinson/88587007007/",
+      "source": "Rams Wire",
+      "ts": 1770617100.0,
+      "published_iso": "2026-02-09T06:05:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-09-former-rams-exec-gives-his-roadmap-for-a-successful-la-o",
