@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2026-02-09T09:45:39.326207+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-02-09T10:44:22.256328+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-foxsports-com-stories-nfl-rams-matthew-stafford-2025-nfl-mvp",
+      "title": "Los Angeles Rams: Matthew Stafford's 2025 NFL MVP Season By The Numbers",
+      "link": "https://foxsports.com/stories/nfl/rams-matthew-stafford-2025-nfl-mvp",
+      "source": "FOX Sports",
+      "ts": 1770353520.0,
+      "published_iso": "2026-02-06T04:52:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-melbourne-game-san-francisco-49ers-australia-2026",
+      "title": "Opponent confirmed for Los Angeles Rams Melbourne game",
+      "link": "https://therams.com/news/rams-melbourne-game-san-francisco-49ers-australia-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1770288720.0,
+      "published_iso": "2026-02-05T10:52:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-why-did-rams-release-cooper-080001235-html",
+      "title": "Why did Rams release Cooper Kupp? How WR ended up on Seahawks after Los Angeles' decision to move on from star",
+      "link": "https://sports.yahoo.com/articles/why-did-rams-release-cooper-080001235.html",
+      "source": "Yahoo Sports",
+      "ts": 1769301300.0,
+      "published_iso": "2026-01-25T00:35:00+00:00"
+    }
+  ]
 }
