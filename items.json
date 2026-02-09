@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-02-09T12:37:05.393812+00:00",
-  "count": 3,
+  "updated_iso": "2026-02-09T14:05:28.376277+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-bleacherreport-com-articles-25392873-super-bowl-61-odds-rams-seahawks-open-favorites-win-2026-27-nfl-title",
-      "title": "Super Bowl 61 Odds, Rams, Seahawks Open as Favorites to Win 2026-27 NFL Title",
-      "link": "https://bleacherreport.com/articles/25392873-super-bowl-61-odds-rams-seahawks-open-favorites-win-2026-27-nfl-title",
-      "source": "Bleacher Report",
-      "ts": 1770581520.0,
-      "published_iso": "2026-02-08T20:12:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-09-rams-hypothetical-trade-maxx-crosby-byron-young-88579694",
+      "title": "Analyst proposes Rams hypothetical trade for Maxx Crosby",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/09/rams-hypothetical-trade-maxx-crosby-byron-young/88579694007/",
+      "source": "Rams Wire",
+      "ts": 1770615840.0,
+      "published_iso": "2026-02-09T05:44:00+00:00"
     },
     {
       "id": "https-therams-com-news-rams-melbourne-game-san-francisco-49ers-australia-2026",
@@ -17,14 +17,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1770288720.0,
       "published_iso": "2026-02-05T10:52:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-why-did-rams-release-cooper-080001235-html",
-      "title": "Why did Rams release Cooper Kupp? How WR ended up on Seahawks after Los Angeles' decision to move on from star",
-      "link": "https://sports.yahoo.com/articles/why-did-rams-release-cooper-080001235.html",
-      "source": "Yahoo Sports",
-      "ts": 1769301300.0,
-      "published_iso": "2026-01-25T00:35:00+00:00"
     }
   ]
 }
