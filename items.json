@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-02-09T14:05:28.376277+00:00",
-  "count": 2,
+  "updated_iso": "2026-02-09T15:16:03.212422+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-09-rams-hypothetical-trade-maxx-crosby-byron-young-88579694",
-      "title": "Analyst proposes Rams hypothetical trade for Maxx Crosby",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/09/rams-hypothetical-trade-maxx-crosby-byron-young/88579694007/",
+      "id": "https-sports-yahoo-com-articles-rams-te-makes-surprise-appearance-135259281-html",
+      "title": "Rams TE makes surprise appearance in star-studded Super Bowl commercial",
+      "link": "https://sports.yahoo.com/articles/rams-te-makes-surprise-appearance-135259281.html",
+      "source": "Yahoo Sports",
+      "ts": 1770617520.0,
+      "published_iso": "2026-02-09T06:12:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-09-former-rams-exec-gives-his-roadmap-for-a-successful-la-o",
+      "title": "Former Rams exec gives his roadmap for a successful LA offseason",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/09/former-rams-exec-gives-his-roadmap-for-a-successful-la-offseason/88553929007/",
       "source": "Rams Wire",
-      "ts": 1770615840.0,
-      "published_iso": "2026-02-09T05:44:00+00:00"
+      "ts": 1770613980.0,
+      "published_iso": "2026-02-09T05:13:00+00:00"
     },
     {
       "id": "https-therams-com-news-rams-melbourne-game-san-francisco-49ers-australia-2026",
