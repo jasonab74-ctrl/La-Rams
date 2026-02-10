@@ -1,22 +1,30 @@
 {
-  "updated_iso": "2026-02-10T21:31:34.461027+00:00",
+  "updated_iso": "2026-02-10T22:27:07.666317+00:00",
   "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-may-f-them-picks-201454850-html",
-      "title": "Rams may re-use “F them picks” model again this offseason",
-      "link": "https://sports.yahoo.com/articles/rams-may-f-them-picks-201454850.html",
+      "id": "https-sports-yahoo-com-articles-rams-offensive-tackle-rob-havenstein-214427674-html",
+      "title": "Rams offensive tackle Rob Havenstein retiring after 11 NFL seasons",
+      "link": "https://sports.yahoo.com/articles/rams-offensive-tackle-rob-havenstein-214427674.html",
       "source": "Yahoo Sports",
-      "ts": 1770726000.0,
-      "published_iso": "2026-02-10T12:20:00+00:00"
+      "ts": 1770732300.0,
+      "published_iso": "2026-02-10T14:05:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-rams-hire-tennessee-defensive-backs-190737128-html",
-      "title": "Rams to hire Tennessee defensive backs coach",
-      "link": "https://sports.yahoo.com/articles/rams-hire-tennessee-defensive-backs-190737128.html",
+      "id": "https-sports-yahoo-com-articles-rams-super-bowl-champion-148-212323712-html",
+      "title": "Rams Super Bowl champion with 148 career starts announces retirement",
+      "link": "https://sports.yahoo.com/articles/rams-super-bowl-champion-148-212323712.html",
       "source": "Yahoo Sports",
-      "ts": 1770722880.0,
-      "published_iso": "2026-02-10T11:28:00+00:00"
+      "ts": 1770730920.0,
+      "published_iso": "2026-02-10T13:42:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-news-rams-ot-rob-havenstein-sb-lvi-champion-and-longtime-starter-retires-after-11-seasons",
+      "title": "Rams OT Rob Havenstein, SB LVI champion and longtime starter, retires after 11 seasons",
+      "link": "https://nfl.com/news/rams-ot-rob-havenstein-sb-lvi-champion-and-longtime-starter-retires-after-11-seasons",
+      "source": "NFL.com",
+      "ts": 1770728040.0,
+      "published_iso": "2026-02-10T12:54:00+00:00"
     },
     {
       "id": "https-therams-com-news-rams-melbourne-game-san-francisco-49ers-australia-2026",
@@ -25,14 +33,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1770288720.0,
       "published_iso": "2026-02-05T10:52:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25333215-los-angeles-rams-2026-nfl-draft-pick-order-and-big-board-top-needs",
-      "title": "Los Angeles Rams 2026 NFL Draft Pick Order and Big Board for Top Needs",
-      "link": "https://bleacherreport.com/articles/25333215-los-angeles-rams-2026-nfl-draft-pick-order-and-big-board-top-needs",
-      "source": "Bleacher Report",
-      "ts": 1769494260.0,
-      "published_iso": "2026-01-27T06:11:00+00:00"
     }
   ]
 }
