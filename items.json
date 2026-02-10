@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-10T20:32:22.127991+00:00",
-  "count": 3,
+  "updated_iso": "2026-02-10T21:31:34.461027+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-may-f-them-picks-201454850-html",
@@ -25,6 +25,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1770288720.0,
       "published_iso": "2026-02-05T10:52:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25333215-los-angeles-rams-2026-nfl-draft-pick-order-and-big-board-top-needs",
+      "title": "Los Angeles Rams 2026 NFL Draft Pick Order and Big Board for Top Needs",
+      "link": "https://bleacherreport.com/articles/25333215-los-angeles-rams-2026-nfl-draft-pick-order-and-big-board-top-needs",
+      "source": "Bleacher Report",
+      "ts": 1769494260.0,
+      "published_iso": "2026-01-27T06:11:00+00:00"
     }
   ]
 }
