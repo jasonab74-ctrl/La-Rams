@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-10T08:35:26.254284+00:00",
-  "count": 2,
+  "updated_iso": "2026-02-10T09:45:49.140680+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-si-com-nfl-rams-onsi-three-reasons-why-the-cleveland-browns-want-aubrey-pleasant",
@@ -11,12 +11,20 @@
       "published_iso": "2026-02-09T21:26:00+00:00"
     },
     {
-      "id": "https-therams-com-news-rams-melbourne-game-san-francisco-49ers-australia-2026",
-      "title": "Opponent confirmed for Los Angeles Rams Melbourne game",
-      "link": "https://therams.com/news/rams-melbourne-game-san-francisco-49ers-australia-2026",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1770288720.0,
-      "published_iso": "2026-02-05T10:52:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-09-rams-super-bowl-seahawks-peter-schrager-88592836007",
+      "title": "Peter Schrager: Rams must be 'absolutely sick' after watching Super Bowl",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/09/rams-super-bowl-seahawks-peter-schrager/88592836007/",
+      "source": "Rams Wire",
+      "ts": 1770637740.0,
+      "published_iso": "2026-02-09T11:49:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-stetson-bennett-named-los-angeles-114620031-html",
+      "title": "Stetson Bennett named as Los Angeles Rams cut candidate",
+      "link": "https://sports.yahoo.com/articles/stetson-bennett-named-los-angeles-114620031.html",
+      "source": "Yahoo Sports",
+      "ts": 1770436740.0,
+      "published_iso": "2026-02-07T03:59:00+00:00"
     }
   ]
 }
