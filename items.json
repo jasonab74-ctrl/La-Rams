@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-10T06:51:39.572602+00:00",
-  "count": 1,
+  "updated_iso": "2026-02-10T07:49:35.501100+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-si-com-nfl-rams-onsi-three-reasons-why-the-cleveland-browns-want-aubrey-pleasant",
@@ -9,6 +9,14 @@
       "source": "Sports Illustrated",
       "ts": 1770672360.0,
       "published_iso": "2026-02-09T21:26:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-stetson-bennett-named-los-angeles-114620031-html",
+      "title": "Stetson Bennett named as Los Angeles Rams cut candidate",
+      "link": "https://sports.yahoo.com/articles/stetson-bennett-named-los-angeles-114620031.html",
+      "source": "Yahoo Sports",
+      "ts": 1770436740.0,
+      "published_iso": "2026-02-07T03:59:00+00:00"
     }
   ]
 }
