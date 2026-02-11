@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-02-11T19:47:10.839518+00:00",
+  "updated_iso": "2026-02-11T20:25:54.825198+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-pick-cb-emmanuel-forbes-164319676-html",
+      "title": "Should the Rams pick up CB Emmanuel Forbes Jr.'s fifth-year option?",
+      "link": "https://sports.yahoo.com/articles/rams-pick-cb-emmanuel-forbes-164319676.html",
+      "source": "Yahoo Sports",
+      "ts": 1770810480.0,
+      "published_iso": "2026-02-11T11:48:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-watch-rams-unveil-tribute-video-180013087-html",
       "title": "Watch: Rams unveil tribute video for retired OT Rob Havenstein",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1770804300.0,
       "published_iso": "2026-02-11T10:05:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-way-too-early-super-bowl-150205698-html",
-      "title": "Way-Too-Early Super Bowl LXI Favorites: Seahawks, Rams Lead the Pack",
-      "link": "https://sports.yahoo.com/articles/way-too-early-super-bowl-150205698.html",
-      "source": "Yahoo Sports",
-      "ts": 1770803280.0,
-      "published_iso": "2026-02-11T09:48:00+00:00"
     }
   ]
 }
