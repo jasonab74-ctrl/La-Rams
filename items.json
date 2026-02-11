@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-02-11T06:46:58.255897+00:00",
+  "updated_iso": "2026-02-11T07:44:17.448679+00:00",
   "count": 2,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-sean-mcvay-steals-former-ohio-031949841-html",
-      "title": "Sean McVay Steals Former Ohio State Coach In Biggest Hint at Rams’ Draft Plans",
-      "link": "https://sports.yahoo.com/articles/sean-mcvay-steals-former-ohio-031949841.html",
-      "source": "Yahoo Sports",
-      "ts": 1770761820.0,
-      "published_iso": "2026-02-10T22:17:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-expected-hire-tennessee-182221889-html",
       "title": "Los Angeles expected to hire Tennessee football assistant coach",
@@ -17,6 +9,14 @@
       "source": "Yahoo Sports",
       "ts": 1770720120.0,
       "published_iso": "2026-02-10T10:42:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-melbourne-game-san-francisco-49ers-australia-2026",
+      "title": "Opponent confirmed for Los Angeles Rams Melbourne game",
+      "link": "https://therams.com/news/rams-melbourne-game-san-francisco-49ers-australia-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1770288720.0,
+      "published_iso": "2026-02-05T10:52:00+00:00"
     }
   ]
 }
