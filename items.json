@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-02-11T20:25:54.825198+00:00",
-  "count": 2,
+  "updated_iso": "2026-02-11T20:59:51.863787+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-predicted-nfl-draft-history-202626252-html",
+      "title": "Rams predicted to make NFL Draft history with double-dip on Tennessee CBs in ESPN mock",
+      "link": "https://sports.yahoo.com/articles/rams-predicted-nfl-draft-history-202626252.html",
+      "source": "Yahoo Sports",
+      "ts": 1770814080.0,
+      "published_iso": "2026-02-11T12:48:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-free-agent-spotlight-kam-curl-brought-versatility-playmaking-to-rams-defense-during-career-year-i",
+      "title": "Free Agent Spotlight: Kam Curl brought versatility, playmaking to Rams' defense during career year in 2025",
+      "link": "https://therams.com/news/free-agent-spotlight-kam-curl-brought-versatility-playmaking-to-rams-defense-during-career-year-in-2025",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1770813660.0,
+      "published_iso": "2026-02-11T12:41:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-pick-cb-emmanuel-forbes-164319676-html",
       "title": "Should the Rams pick up CB Emmanuel Forbes Jr.'s fifth-year option?",
@@ -9,14 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1770810480.0,
       "published_iso": "2026-02-11T11:48:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-watch-rams-unveil-tribute-video-180013087-html",
-      "title": "Watch: Rams unveil tribute video for retired OT Rob Havenstein",
-      "link": "https://sports.yahoo.com/articles/watch-rams-unveil-tribute-video-180013087.html",
-      "source": "Yahoo Sports",
-      "ts": 1770804300.0,
-      "published_iso": "2026-02-11T10:05:00+00:00"
     }
   ]
 }
