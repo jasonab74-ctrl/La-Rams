@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-02-11T21:33:26.889389+00:00",
+  "updated_iso": "2026-02-11T22:18:03.084550+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-plan-tackle-rams-213348462-html",
+      "title": "What should plan be at right tackle for the Rams?",
+      "link": "https://sports.yahoo.com/articles/plan-tackle-rams-213348462.html",
+      "source": "Yahoo Sports",
+      "ts": 1770817080.0,
+      "published_iso": "2026-02-11T13:38:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-predicted-nfl-draft-history-202626252-html",
       "title": "Rams predicted to make NFL Draft history with double-dip on Tennessee CBs in ESPN mock",
@@ -17,14 +25,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1770813660.0,
       "published_iso": "2026-02-11T12:41:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-49ers-rams-historic-matchup-set-202130562-html",
-      "title": "49ers-Rams historic matchup set to take place in Week 1, per report",
-      "link": "https://sports.yahoo.com/articles/49ers-rams-historic-matchup-set-202130562.html",
-      "source": "Yahoo Sports",
-      "ts": 1770813480.0,
-      "published_iso": "2026-02-11T12:38:00+00:00"
     }
   ]
 }
