@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-11T23:20:36.037105+00:00",
-  "count": 5,
+  "updated_iso": "2026-02-11T23:50:15.768643+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-plan-tackle-rams-213348462-html",
@@ -33,14 +33,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1770288720.0,
       "published_iso": "2026-02-05T10:52:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
-      "title": "Rams vs. Bears Highlights: Los Angeles Advances on Game-Winning FG in Overtime",
-      "link": "https://foxsports.com/live-blog/nfl/rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
-      "source": "FOX Sports",
-      "ts": 1768745880.0,
-      "published_iso": "2026-01-18T14:18:00+00:00"
     }
   ]
 }
