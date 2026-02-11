@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-02-11T18:44:37.429009+00:00",
-  "count": 3,
+  "updated_iso": "2026-02-11T19:47:10.839518+00:00",
+  "count": 2,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-report-rams-49ers-game-australia-183336378-html",
-      "title": "Report: Rams-49ers game in Australia will be played Week 1",
-      "link": "https://sports.yahoo.com/articles/report-rams-49ers-game-australia-183336378.html",
-      "source": "Yahoo Sports",
-      "ts": 1770806280.0,
-      "published_iso": "2026-02-11T10:38:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-watch-rams-unveil-tribute-video-180013087-html",
       "title": "Watch: Rams unveil tribute video for retired OT Rob Havenstein",
@@ -19,12 +11,12 @@
       "published_iso": "2026-02-11T10:05:00+00:00"
     },
     {
-      "id": "https-therams-com-news-rams-melbourne-game-san-francisco-49ers-australia-2026",
-      "title": "Opponent confirmed for Los Angeles Rams Melbourne game",
-      "link": "https://therams.com/news/rams-melbourne-game-san-francisco-49ers-australia-2026",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1770288720.0,
-      "published_iso": "2026-02-05T10:52:00+00:00"
+      "id": "https-sports-yahoo-com-articles-way-too-early-super-bowl-150205698-html",
+      "title": "Way-Too-Early Super Bowl LXI Favorites: Seahawks, Rams Lead the Pack",
+      "link": "https://sports.yahoo.com/articles/way-too-early-super-bowl-150205698.html",
+      "source": "Yahoo Sports",
+      "ts": 1770803280.0,
+      "published_iso": "2026-02-11T09:48:00+00:00"
     }
   ]
 }
