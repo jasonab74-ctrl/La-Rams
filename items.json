@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-02-12T14:01:20.034924+00:00",
-  "count": 2,
+  "updated_iso": "2026-02-12T15:11:09.558571+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-kelly-stafford-makes-striking-statement-121518574-html",
+      "title": "Kelly Stafford Makes Striking Statement About Matthew Stafford in Message toRetired Rams Star Rob Havenstein",
+      "link": "https://sports.yahoo.com/articles/kelly-stafford-makes-striking-statement-121518574.html",
+      "source": "Yahoo Sports",
+      "ts": 1770879000.0,
+      "published_iso": "2026-02-12T06:50:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-2026-draft-prospect-profile-125431558-html",
       "title": "Rams 2026 Draft Prospect Profile: Cade Klubnik (QB, Clemson)",
