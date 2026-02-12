@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-12T20:21:03.592994+00:00",
-  "count": 1,
+  "updated_iso": "2026-02-12T20:55:40.795339+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-least-surprising-free-agency-191850594-html",
@@ -9,6 +9,14 @@
       "source": "Yahoo Sports",
       "ts": 1770895680.0,
       "published_iso": "2026-02-12T11:28:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-kelly-stafford-makes-striking-statement-121518574-html",
+      "title": "Kelly Stafford Makes Striking Statement About Matthew Stafford in Message toRetired Rams Star Rob Havenstein",
+      "link": "https://sports.yahoo.com/articles/kelly-stafford-makes-striking-statement-121518574.html",
+      "source": "Yahoo Sports",
+      "ts": 1770879000.0,
+      "published_iso": "2026-02-12T06:50:00+00:00"
     }
   ]
 }
