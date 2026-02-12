@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-12T15:11:09.558571+00:00",
-  "count": 3,
+  "updated_iso": "2026-02-12T16:13:15.085154+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-kelly-stafford-makes-striking-statement-121518574-html",
@@ -17,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1770872820.0,
       "published_iso": "2026-02-12T05:07:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-11-nfl-insider-doesnt-think-a-maxx-crosby-trade-makes-sense",
-      "title": "NFL insider doesn't think a Maxx Crosby trade makes sense for Rams",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/11/nfl-insider-doesnt-think-a-maxx-crosby-trade-makes-sense-for-rams/88631239007/",
-      "source": "Rams Wire",
-      "ts": 1770817440.0,
-      "published_iso": "2026-02-11T13:44:00+00:00"
     }
   ]
 }
