@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-12T21:22:53.599691+00:00",
-  "count": 3,
+  "updated_iso": "2026-02-12T21:54:36.146572+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-least-surprising-free-agency-191850594-html",
@@ -11,20 +11,12 @@
       "published_iso": "2026-02-12T11:28:00+00:00"
     },
     {
-      "id": "https-therams-com-news-rams-melbourne-game-san-francisco-49ers-australia-2026",
-      "title": "Opponent confirmed for Los Angeles Rams Melbourne game",
-      "link": "https://therams.com/news/rams-melbourne-game-san-francisco-49ers-australia-2026",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1770288720.0,
-      "published_iso": "2026-02-05T10:52:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
-      "title": "Rams vs. Bears Highlights: Los Angeles Advances on Game-Winning FG in Overtime",
-      "link": "https://foxsports.com/live-blog/nfl/rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
-      "source": "FOX Sports",
-      "ts": 1768745880.0,
-      "published_iso": "2026-01-18T14:18:00+00:00"
+      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-urged-invest-premium-position-cost-nfc-championship-78fc28afb6f",
+      "title": "Rams urged to finally invest in premium position that cost them NFC Championship",
+      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-urged-invest-premium-position-cost-nfc-championship/78fc28afb6fd562665a06973",
+      "source": "Sporting News",
+      "ts": 1770825600.0,
+      "published_iso": "2026-02-11T16:00:00+00:00"
     }
   ]
 }
