@@ -1,30 +1,14 @@
 {
-  "updated_iso": "2026-02-12T07:42:36.564026+00:00",
-  "count": 3,
+  "updated_iso": "2026-02-12T08:30:30.235673+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-los-angeles-expected-hire-tennessee-182221889-html",
-      "title": "Los Angeles expected to hire Tennessee football assistant coach",
-      "link": "https://sports.yahoo.com/articles/los-angeles-expected-hire-tennessee-182221889.html",
-      "source": "Yahoo Sports",
-      "ts": 1770720120.0,
-      "published_iso": "2026-02-10T10:42:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-melbourne-game-san-francisco-49ers-australia-2026",
-      "title": "Opponent confirmed for Los Angeles Rams Melbourne game",
-      "link": "https://therams.com/news/rams-melbourne-game-san-francisco-49ers-australia-2026",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1770288720.0,
-      "published_iso": "2026-02-05T10:52:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
-      "title": "Rams vs. Bears Highlights: Los Angeles Advances on Game-Winning FG in Overtime",
-      "link": "https://foxsports.com/live-blog/nfl/rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
-      "source": "FOX Sports",
-      "ts": 1768745880.0,
-      "published_iso": "2026-01-18T14:18:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-11-nfl-insider-doesnt-think-a-maxx-crosby-trade-makes-sense",
+      "title": "NFL insider doesn't think a Maxx Crosby trade makes sense for Rams",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/11/nfl-insider-doesnt-think-a-maxx-crosby-trade-makes-sense-for-rams/88631239007/",
+      "source": "Rams Wire",
+      "ts": 1770817440.0,
+      "published_iso": "2026-02-11T13:44:00+00:00"
     }
   ]
 }
