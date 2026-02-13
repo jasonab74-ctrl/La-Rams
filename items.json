@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-02-13T18:00:01.515313+00:00",
-  "count": 2,
+  "updated_iso": "2026-02-13T18:51:38.776794+00:00",
+  "count": 3,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-potential-dates-revealed-49ers-rams-150100708-html",
-      "title": "Potential dates revealed for 49ers-Rams game in Melbourne, Australia",
-      "link": "https://sports.yahoo.com/articles/potential-dates-revealed-49ers-rams-150100708.html",
-      "source": "Yahoo Sports",
-      "ts": 1770967020.0,
-      "published_iso": "2026-02-13T07:17:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-most-rams-defense-still-under-144527820-html",
       "title": "Most of Rams defense is still under contract for 2026",
@@ -17,6 +9,22 @@
       "source": "Yahoo Sports",
       "ts": 1770965460.0,
       "published_iso": "2026-02-13T06:51:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-field-yates-mocks-two-tennessee-133052514-html",
+      "title": "Field Yates mocks two Tennessee CBs to Rams in 2026 draft",
+      "link": "https://sports.yahoo.com/articles/field-yates-mocks-two-tennessee-133052514.html",
+      "source": "Yahoo Sports",
+      "ts": 1770961920.0,
+      "published_iso": "2026-02-13T05:52:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-melbourne-game-san-francisco-49ers-australia-2026",
+      "title": "Opponent confirmed for Los Angeles Rams Melbourne game",
+      "link": "https://therams.com/news/rams-melbourne-game-san-francisco-49ers-australia-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1770288720.0,
+      "published_iso": "2026-02-05T10:52:00+00:00"
     }
   ]
 }
