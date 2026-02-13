@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-02-13T13:41:34.160773+00:00",
-  "count": 1,
+  "updated_iso": "2026-02-13T14:32:34.473903+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-nfl-set-rare-wednesday-season-140000379-html",
+      "title": "NFL set to have rare Wednesday season opener due to Rams vs. 49ers in Australia",
+      "link": "https://sports.yahoo.com/articles/nfl-set-rare-wednesday-season-140000379.html",
+      "source": "Yahoo Sports",
+      "ts": 1770963300.0,
+      "published_iso": "2026-02-13T06:15:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-field-yates-mocks-two-tennessee-133052514-html",
+      "title": "Field Yates mocks two Tennessee CBs to Rams in 2026 draft",
+      "link": "https://sports.yahoo.com/articles/field-yates-mocks-two-tennessee-133052514.html",
+      "source": "Yahoo Sports",
+      "ts": 1770961920.0,
+      "published_iso": "2026-02-13T05:52:00+00:00"
+    },
     {
       "id": "https-therams-com-news-rams-melbourne-game-san-francisco-49ers-australia-2026",
       "title": "Opponent confirmed for Los Angeles Rams Melbourne game",
