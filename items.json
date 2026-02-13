@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-02-13T15:30:08.348060+00:00",
+  "updated_iso": "2026-02-13T16:07:24.486990+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-potential-dates-revealed-49ers-rams-150100708-html",
+      "title": "Potential dates revealed for 49ers-Rams game in Melbourne, Australia",
+      "link": "https://sports.yahoo.com/articles/potential-dates-revealed-49ers-rams-150100708.html",
+      "source": "Yahoo Sports",
+      "ts": 1770967020.0,
+      "published_iso": "2026-02-13T07:17:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-nfl-set-rare-wednesday-season-140000379-html",
       "title": "NFL set to have rare Wednesday season opener due to Rams vs. 49ers in Australia",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1770963300.0,
       "published_iso": "2026-02-13T06:15:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-field-yates-mocks-two-tennessee-133052514-html",
-      "title": "Field Yates mocks two Tennessee CBs to Rams in 2026 draft",
-      "link": "https://sports.yahoo.com/articles/field-yates-mocks-two-tennessee-133052514.html",
-      "source": "Yahoo Sports",
-      "ts": 1770961920.0,
-      "published_iso": "2026-02-13T05:52:00+00:00"
     }
   ]
 }
