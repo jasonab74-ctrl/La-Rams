@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-13T14:32:34.473903+00:00",
-  "count": 3,
+  "updated_iso": "2026-02-13T15:30:08.348060+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-nfl-set-rare-wednesday-season-140000379-html",
@@ -17,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1770961920.0,
       "published_iso": "2026-02-13T05:52:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-melbourne-game-san-francisco-49ers-australia-2026",
-      "title": "Opponent confirmed for Los Angeles Rams Melbourne game",
-      "link": "https://therams.com/news/rams-melbourne-game-san-francisco-49ers-australia-2026",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1770288720.0,
-      "published_iso": "2026-02-05T10:52:00+00:00"
     }
   ]
 }
