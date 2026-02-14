@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-14T22:10:30.250089+00:00",
-  "count": 2,
+  "updated_iso": "2026-02-14T22:46:36.277685+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-face-huge-tackle-rob-195835533-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1771072140.0,
       "published_iso": "2026-02-14T12:29:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-news-rams-safety-quentin-lake-explains-why-he-has-more-respect-for-seahawks-than-49ers",
-      "title": "Rams safety Quentin Lake explains why he has 'more respect' for NFC West rival Seahawks than 49ers",
-      "link": "https://nfl.com/news/rams-safety-quentin-lake-explains-why-he-has-more-respect-for-seahawks-than-49ers",
-      "source": "NFL.com",
-      "ts": 1771067940.0,
-      "published_iso": "2026-02-14T11:19:00+00:00"
     }
   ]
 }
