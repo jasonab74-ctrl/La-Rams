@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-02-14T18:16:27.278793+00:00",
-  "count": 3,
+  "updated_iso": "2026-02-14T18:56:30.314949+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-2026-draft-prospect-profile-120159856-html",
-      "title": "Rams 2026 Draft Prospect Profile: Taylen Green (QB, Arkansas)",
-      "link": "https://sports.yahoo.com/articles/rams-2026-draft-prospect-profile-120159856.html",
+      "id": "https-sports-yahoo-com-articles-pff-explains-why-rams-sign-153029053-html",
+      "title": "PFF explains why Rams should sign this CB in free agency",
+      "link": "https://sports.yahoo.com/articles/pff-explains-why-rams-sign-153029053.html",
       "source": "Yahoo Sports",
-      "ts": 1771043040.0,
-      "published_iso": "2026-02-14T04:24:00+00:00"
+      "ts": 1771055220.0,
+      "published_iso": "2026-02-14T07:47:00+00:00"
     },
     {
       "id": "https-bleacherreport-com-articles-25396757-rams-puka-nacua-reveals-top-3-cbs-hes-faced-during-nfl-career-video",
@@ -17,14 +17,6 @@
       "source": "Bleacher Report",
       "ts": 1770990960.0,
       "published_iso": "2026-02-13T13:56:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-live-blog-nfl-rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
-      "title": "Rams vs. Bears Highlights: Los Angeles Advances on Game-Winning FG in Overtime",
-      "link": "https://foxsports.com/live-blog/nfl/rams-vs-bears-live-updates-score-top-moments-from-nfc-divisional-round",
-      "source": "FOX Sports",
-      "ts": 1768745880.0,
-      "published_iso": "2026-01-18T14:18:00+00:00"
     }
   ]
 }
