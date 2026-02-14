@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-14T21:43:08.047639+00:00",
-  "count": 4,
+  "updated_iso": "2026-02-14T22:10:30.250089+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-face-huge-tackle-rob-195835533-html",
@@ -17,22 +17,6 @@
       "source": "NFL.com",
       "ts": 1771067940.0,
       "published_iso": "2026-02-14T11:19:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-14-2026-nfl-draft-top-10-prospect-falls-to-rams-in-new-pff-",
-      "title": "Top-10 draft prospect falls to Rams in new PFF mock draft",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/14/2026-nfl-draft-top-10-prospect-falls-to-rams-in-new-pff-mock-draft/88643739007/",
-      "source": "Rams Wire",
-      "ts": 1771055040.0,
-      "published_iso": "2026-02-14T07:44:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25396757-rams-puka-nacua-reveals-top-3-cbs-hes-faced-during-nfl-career-video",
-      "title": "Rams' Puka Nacua Reveals Top 3 CB's He's Faced During NFL Career in Video",
-      "link": "https://bleacherreport.com/articles/25396757-rams-puka-nacua-reveals-top-3-cbs-hes-faced-during-nfl-career-video",
-      "source": "Bleacher Report",
-      "ts": 1770990960.0,
-      "published_iso": "2026-02-13T13:56:00+00:00"
     }
   ]
 }
