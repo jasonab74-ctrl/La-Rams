@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-02-14T15:45:28.691829+00:00",
+  "updated_iso": "2026-02-14T16:14:19.744365+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-2026-draft-prospect-profile-120159856-html",
+      "title": "Rams 2026 Draft Prospect Profile: Taylen Green (QB, Arkansas)",
+      "link": "https://sports.yahoo.com/articles/rams-2026-draft-prospect-profile-120159856.html",
+      "source": "Yahoo Sports",
+      "ts": 1771043040.0,
+      "published_iso": "2026-02-14T04:24:00+00:00"
+    },
     {
       "id": "https-bleacherreport-com-articles-25396757-rams-puka-nacua-reveals-top-3-cbs-hes-faced-during-nfl-career-video",
       "title": "Rams' Puka Nacua Reveals Top 3 CB's He's Faced During NFL Career in Video",
@@ -9,14 +17,6 @@
       "source": "Bleacher Report",
       "ts": 1770990960.0,
       "published_iso": "2026-02-13T13:56:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-melbourne-game-san-francisco-49ers-australia-2026",
-      "title": "Opponent confirmed for Los Angeles Rams Melbourne game",
-      "link": "https://therams.com/news/rams-melbourne-game-san-francisco-49ers-australia-2026",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1770288720.0,
-      "published_iso": "2026-02-05T10:52:00+00:00"
     }
   ]
 }
