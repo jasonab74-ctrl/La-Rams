@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-14T19:17:01.406381+00:00",
-  "count": 2,
+  "updated_iso": "2026-02-14T19:41:11.637928+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-pff-explains-why-rams-sign-153029053-html",
@@ -17,6 +17,14 @@
       "source": "Rams Wire",
       "ts": 1771055040.0,
       "published_iso": "2026-02-14T07:44:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25396757-rams-puka-nacua-reveals-top-3-cbs-hes-faced-during-nfl-career-video",
+      "title": "Rams' Puka Nacua Reveals Top 3 CB's He's Faced During NFL Career in Video",
+      "link": "https://bleacherreport.com/articles/25396757-rams-puka-nacua-reveals-top-3-cbs-hes-faced-during-nfl-career-video",
+      "source": "Bleacher Report",
+      "ts": 1770990960.0,
+      "published_iso": "2026-02-13T13:56:00+00:00"
     }
   ]
 }
