@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-02-15T22:47:12.568418+00:00",
-  "count": 1,
+  "updated_iso": "2026-02-15T23:14:11.924172+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-isaac-bruce-offers-blunt-advice-210134957-html",
+      "title": "Isaac Bruce offers blunt advice for Rams WR Puka Nacua",
+      "link": "https://sports.yahoo.com/articles/isaac-bruce-offers-blunt-advice-210134957.html",
+      "source": "Yahoo Sports",
+      "ts": 1771161600.0,
+      "published_iso": "2026-02-15T13:20:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-7-round-2026-nfl-031142707-html",
       "title": "Rams 7-Round 2026 NFL Mock Draft: Los Angeles balances finding impact players with bracing for the future",
