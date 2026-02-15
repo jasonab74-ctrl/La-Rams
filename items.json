@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-15T07:52:40.517619+00:00",
-  "count": 1,
+  "updated_iso": "2026-02-15T08:18:02.520360+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-14-2026-nfl-draft-top-10-prospect-falls-to-rams-in-new-pff-",
@@ -9,6 +9,14 @@
       "source": "Rams Wire",
       "ts": 1771055040.0,
       "published_iso": "2026-02-14T07:44:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25396757-rams-puka-nacua-reveals-top-3-cbs-hes-faced-during-nfl-career-video",
+      "title": "Rams' Puka Nacua Reveals Top 3 CB's He's Faced During NFL Career in Video",
+      "link": "https://bleacherreport.com/articles/25396757-rams-puka-nacua-reveals-top-3-cbs-hes-faced-during-nfl-career-video",
+      "source": "Bleacher Report",
+      "ts": 1770990960.0,
+      "published_iso": "2026-02-13T13:56:00+00:00"
     }
   ]
 }
