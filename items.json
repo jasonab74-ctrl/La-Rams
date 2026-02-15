@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-15T17:47:22.693678+00:00",
-  "count": 1,
+  "updated_iso": "2026-02-15T18:17:49.566619+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-db-projected-receive-large-150232385-html",
@@ -9,6 +9,14 @@
       "source": "Yahoo Sports",
       "ts": 1771141320.0,
       "published_iso": "2026-02-15T07:42:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-2-offensive-players-2026-123117918-html",
+      "title": "Rams take 2 offensive players in new 2026 mock draft",
+      "link": "https://sports.yahoo.com/articles/rams-2-offensive-players-2026-123117918.html",
+      "source": "Yahoo Sports",
+      "ts": 1771130520.0,
+      "published_iso": "2026-02-15T04:42:00+00:00"
     }
   ]
 }
