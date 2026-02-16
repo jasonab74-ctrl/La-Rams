@@ -1,30 +1,14 @@
 {
-  "updated_iso": "2026-02-16T13:57:08.584632+00:00",
-  "count": 3,
+  "updated_iso": "2026-02-16T14:36:42.654677+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-2026-nfl-mock-draft-030453284-html",
-      "title": "Rams’ 2026 NFL Mock Draft roundup post Super Bowl as draft season ramps up",
-      "link": "https://sports.yahoo.com/articles/rams-2026-nfl-mock-draft-030453284.html",
+      "id": "https-sports-yahoo-com-articles-rams-only-nfl-team-still-142529353-html",
+      "title": "Rams are only NFL team still without an offensive coordinator",
+      "link": "https://sports.yahoo.com/articles/rams-only-nfl-team-still-142529353.html",
       "source": "Yahoo Sports",
-      "ts": 1771186740.0,
-      "published_iso": "2026-02-15T20:19:00+00:00"
-    },
-    {
-      "id": "https-si-com-betting-los-angeles-rams-2027-super-bowl-odds-can-rams-remain-a-top-contender",
-      "title": "Los Angeles Rams 2027 Super Bowl Odds: Can Rams Remain a Top Contender?",
-      "link": "https://si.com/betting/los-angeles-rams-2027-super-bowl-odds-can-rams-remain-a-top-contender",
-      "source": "Sports Illustrated",
-      "ts": 1771172220.0,
-      "published_iso": "2026-02-15T16:17:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-2-offensive-players-2026-123117918-html",
-      "title": "Rams take 2 offensive players in new 2026 mock draft",
-      "link": "https://sports.yahoo.com/articles/rams-2-offensive-players-2026-123117918.html",
-      "source": "Yahoo Sports",
-      "ts": 1771130520.0,
-      "published_iso": "2026-02-15T04:42:00+00:00"
+      "ts": 1771223520.0,
+      "published_iso": "2026-02-16T06:32:00+00:00"
     }
   ]
 }
