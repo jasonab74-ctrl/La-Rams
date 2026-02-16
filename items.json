@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-16T05:24:47.801283+00:00",
-  "count": 1,
+  "updated_iso": "2026-02-16T06:37:21.136876+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-2026-nfl-mock-draft-030453284-html",
@@ -9,6 +9,22 @@
       "source": "Yahoo Sports",
       "ts": 1771186740.0,
       "published_iso": "2026-02-15T20:19:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-los-angeles-rams-2027-super-bowl-odds-can-rams-remain-a-top-contender",
+      "title": "Los Angeles Rams 2027 Super Bowl Odds: Can Rams Remain a Top Contender?",
+      "link": "https://si.com/betting/los-angeles-rams-2027-super-bowl-odds-can-rams-remain-a-top-contender",
+      "source": "Sports Illustrated",
+      "ts": 1771172220.0,
+      "published_iso": "2026-02-15T16:17:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-2-offensive-players-2026-123117918-html",
+      "title": "Rams take 2 offensive players in new 2026 mock draft",
+      "link": "https://sports.yahoo.com/articles/rams-2-offensive-players-2026-123117918.html",
+      "source": "Yahoo Sports",
+      "ts": 1771130520.0,
+      "published_iso": "2026-02-15T04:42:00+00:00"
     }
   ]
 }
