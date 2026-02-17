@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-17T09:08:34.148927+00:00",
-  "count": 2,
+  "updated_iso": "2026-02-17T10:09:43.047570+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-nfl-com-videos-rams-wr-puka-nacua-does-laps-at-daytona-500-with-driver-bubba-wallace-the-insiders",
@@ -9,14 +9,6 @@
       "source": "NFL.com",
       "ts": 1771263660.0,
       "published_iso": "2026-02-16T17:41:00+00:00"
-    },
-    {
-      "id": "https-si-com-betting-los-angeles-rams-2027-super-bowl-odds-can-rams-remain-a-top-contender",
-      "title": "Los Angeles Rams 2027 Super Bowl Odds: Can Rams Remain a Top Contender?",
-      "link": "https://si.com/betting/los-angeles-rams-2027-super-bowl-odds-can-rams-remain-a-top-contender",
-      "source": "Sports Illustrated",
-      "ts": 1771172220.0,
-      "published_iso": "2026-02-15T16:17:00+00:00"
     }
   ]
 }
