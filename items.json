@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-02-17T14:41:06.787504+00:00",
-  "count": 1,
+  "updated_iso": "2026-02-17T15:38:52.980949+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-franchise-tag-anyone-145010943-html",
+      "title": "Will the Rams use the franchise tag on anyone this year?",
+      "link": "https://sports.yahoo.com/articles/rams-franchise-tag-anyone-145010943.html",
+      "source": "Yahoo Sports",
+      "ts": 1771312260.0,
+      "published_iso": "2026-02-17T07:11:00+00:00"
+    },
+    {
+      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-espn-links-rams-top-free-agent-corner-after-secondary-gets-exposed-a",
+      "title": "ESPN links Rams to top free agent corner after secondary gets exposed",
+      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/espn-links-rams-top-free-agent-corner-after-secondary-gets-exposed-alontae-taylor-new-orleans-saints/1c63203625b74d414cfaa7f0",
+      "source": "Sporting News",
+      "ts": 1771311900.0,
+      "published_iso": "2026-02-17T07:05:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-beef-offense-cbs-sports-132904361-html",
       "title": "Rams beef up offense in new CBS Sports mock draft",
