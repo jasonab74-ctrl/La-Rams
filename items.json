@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-17T21:00:12.077619+00:00",
-  "count": 1,
+  "updated_iso": "2026-02-17T21:36:34.695345+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-nfl-analyst-explains-why-doesnt-204002275-html",
@@ -9,6 +9,22 @@
       "source": "Yahoo Sports",
       "ts": 1771332960.0,
       "published_iso": "2026-02-17T12:56:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-17-rams-had-the-most-efficient-run-game-in-2025-across-mult",
+      "title": "Rams had the most efficient run game in 2025 across multiple metrics",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/17/rams-had-the-most-efficient-run-game-in-2025-across-multiple-metrics/88723676007/",
+      "source": "Rams Wire",
+      "ts": 1771330800.0,
+      "published_iso": "2026-02-17T12:20:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-los-angeles-rams-2027-super-bowl-odds-can-rams-remain-a-top-contender",
+      "title": "Los Angeles Rams 2027 Super Bowl Odds: Can Rams Remain a Top Contender?",
+      "link": "https://si.com/betting/los-angeles-rams-2027-super-bowl-odds-can-rams-remain-a-top-contender",
+      "source": "Sports Illustrated",
+      "ts": 1771172220.0,
+      "published_iso": "2026-02-15T16:17:00+00:00"
     }
   ]
 }
