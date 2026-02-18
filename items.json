@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-18T05:18:32.932644+00:00",
-  "count": 4,
+  "updated_iso": "2026-02-18T06:34:32.483738+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-therams-com-news-checking-in-on-the-rams-2025-draft-class-end-of-season-edition",
@@ -11,28 +11,12 @@
       "published_iso": "2026-02-17T15:33:00+00:00"
     },
     {
-      "id": "https-bleacherreport-com-articles-25397939-robert-woods-retires-nfl-super-bowl-56-champion-signs-1-day-contract-rams-pho",
-      "title": "Robert Woods Retires from NFL, Super Bowl 56 Champion Signs 1-Day Contract With Rams in Photo",
-      "link": "https://bleacherreport.com/articles/25397939-robert-woods-retires-nfl-super-bowl-56-champion-signs-1-day-contract-rams-photo",
-      "source": "Bleacher Report",
-      "ts": 1771340220.0,
-      "published_iso": "2026-02-17T14:57:00+00:00"
-    },
-    {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-mock-offseason-190550471-html",
       "title": "Los Angeles Rams Mock Offseason 1.0: The Rams can afford an all-in free agency splash for one more season with Matthew Stafford",
       "link": "https://sports.yahoo.com/articles/los-angeles-rams-mock-offseason-190550471.html",
       "source": "Yahoo Sports",
       "ts": 1771338660.0,
       "published_iso": "2026-02-17T14:31:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-17-rams-had-the-most-efficient-run-game-in-2025-across-mult",
-      "title": "Rams had the most efficient run game in 2025 across multiple metrics",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/17/rams-had-the-most-efficient-run-game-in-2025-across-multiple-metrics/88723676007/",
-      "source": "Rams Wire",
-      "ts": 1771330800.0,
-      "published_iso": "2026-02-17T12:20:00+00:00"
     }
   ]
 }
