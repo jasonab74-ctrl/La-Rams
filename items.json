@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-02-18T14:13:59.748196+00:00",
+  "updated_iso": "2026-02-18T15:09:04.314437+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-espn-analyst-says-rams-cb-145109440-html",
+      "title": "ESPN analyst says Rams CB could use a ‘change of scenery’ in 2026",
+      "link": "https://sports.yahoo.com/articles/espn-analyst-says-rams-cb-145109440.html",
+      "source": "Yahoo Sports",
+      "ts": 1771398060.0,
+      "published_iso": "2026-02-18T07:01:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-steelers-giants-rams-could-interest-132109145-html",
       "title": "Steelers, Giants and Rams could have interest in Eagles 26-year-old release candidate",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1771394100.0,
       "published_iso": "2026-02-18T05:55:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-mock-offseason-190550471-html",
-      "title": "Los Angeles Rams Mock Offseason 1.0: The Rams can afford an all-in free agency splash for one more season with Matthew Stafford",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-mock-offseason-190550471.html",
-      "source": "Yahoo Sports",
-      "ts": 1771338660.0,
-      "published_iso": "2026-02-17T14:31:00+00:00"
     }
   ]
 }
