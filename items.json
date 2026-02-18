@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-02-18T17:31:39.101263+00:00",
-  "count": 2,
+  "updated_iso": "2026-02-18T18:34:52.558607+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-free-agent-wish-list-170000820-html",
-      "title": "Rams free agent wish list: Who should LA target in free agency?",
-      "link": "https://sports.yahoo.com/articles/rams-free-agent-wish-list-170000820.html",
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-mock-offseason-190550471-html",
+      "title": "Los Angeles Rams Mock Offseason 1.0: The Rams can afford an all-in free agency splash for one more season with Matthew Stafford",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-mock-offseason-190550471.html",
       "source": "Yahoo Sports",
-      "ts": 1771406280.0,
-      "published_iso": "2026-02-18T09:18:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-nfc-north-team-identified-best-142301934-html",
-      "title": "NFC North team identified as best fit for Rams stud DB in free agency",
-      "link": "https://sports.yahoo.com/articles/nfc-north-team-identified-best-142301934.html",
-      "source": "Yahoo Sports",
-      "ts": 1771396680.0,
-      "published_iso": "2026-02-18T06:38:00+00:00"
+      "ts": 1771338660.0,
+      "published_iso": "2026-02-17T14:31:00+00:00"
     }
   ]
 }
