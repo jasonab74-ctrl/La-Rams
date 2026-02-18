@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-02-18T19:38:13.333061+00:00",
-  "count": 3,
+  "updated_iso": "2026-02-18T20:24:57.723606+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-therams-com-news-rams-re-sign-offensive-lineman-david-quessenberry-2026",
+      "title": "Rams re-sign OL David Quessenberry to one-year deal",
+      "link": "https://therams.com/news/rams-re-sign-offensive-lineman-david-quessenberry-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1771414920.0,
+      "published_iso": "2026-02-18T11:42:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-first-signing-offseason-bring-192626956-html",
       "title": "Rams make first signing of offseason, bring back veteran OT",
@@ -9,22 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1771414440.0,
       "published_iso": "2026-02-18T11:34:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-seahawks-star-db-says-nfc-182611966-html",
-      "title": "Seahawks star DB says NFC title game vs. Rams was 'definitely different'",
-      "link": "https://sports.yahoo.com/articles/seahawks-star-db-says-nfc-182611966.html",
-      "source": "Yahoo Sports",
-      "ts": 1771411320.0,
-      "published_iso": "2026-02-18T10:42:00+00:00"
-    },
-    {
-      "id": "https-si-com-betting-los-angeles-rams-2027-super-bowl-odds-can-rams-remain-a-top-contender",
-      "title": "Los Angeles Rams 2027 Super Bowl Odds: Can Rams Remain a Top Contender?",
-      "link": "https://si.com/betting/los-angeles-rams-2027-super-bowl-odds-can-rams-remain-a-top-contender",
-      "source": "Sports Illustrated",
-      "ts": 1771172220.0,
-      "published_iso": "2026-02-15T16:17:00+00:00"
     }
   ]
 }
