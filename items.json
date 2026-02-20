@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-20T19:50:18.909404+00:00",
-  "count": 1,
+  "updated_iso": "2026-02-20T20:16:27.744746+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-trio-rams-crack-pffs-2025-180004154-html",
@@ -9,6 +9,14 @@
       "source": "Yahoo Sports",
       "ts": 1771586700.0,
       "published_iso": "2026-02-20T11:25:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-instant-analysis-rams-unique-offensive-175124449-html",
+      "title": "Instant analysis of Rams' unique offensive coordinator setup",
+      "link": "https://sports.yahoo.com/articles/instant-analysis-rams-unique-offensive-175124449.html",
+      "source": "Yahoo Sports",
+      "ts": 1771586280.0,
+      "published_iso": "2026-02-20T11:18:00+00:00"
     }
   ]
 }
