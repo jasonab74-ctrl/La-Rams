@@ -1,5 +1,5 @@
 {
-  "updated_iso": "2026-02-20T21:12:53.828818+00:00",
+  "updated_iso": "2026-02-20T21:45:46.797019+00:00",
   "count": 2,
   "items": [
     {
@@ -11,12 +11,12 @@
       "published_iso": "2026-02-20T11:25:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-instant-analysis-rams-unique-offensive-175124449-html",
-      "title": "Instant analysis of Rams' unique offensive coordinator setup",
-      "link": "https://sports.yahoo.com/articles/instant-analysis-rams-unique-offensive-175124449.html",
-      "source": "Yahoo Sports",
-      "ts": 1771586280.0,
-      "published_iso": "2026-02-20T11:18:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-20-rams-kam-curl-free-agency-2026-88780084007",
+      "title": "Should Rams re-sign 2025 defensive snap leader in free agency?",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/20/rams-kam-curl-free-agency-2026/88780084007/",
+      "source": "Rams Wire",
+      "ts": 1771586040.0,
+      "published_iso": "2026-02-20T11:14:00+00:00"
     }
   ]
 }
