@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-02-20T17:27:40.111120+00:00",
-  "count": 1,
+  "updated_iso": "2026-02-20T18:00:26.876524+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-named-potential-landing-spot-170847288-html",
-      "title": "Rams named potential landing spot for Brandon Aubrey",
-      "link": "https://sports.yahoo.com/articles/rams-named-potential-landing-spot-170847288.html",
+      "id": "https-sports-yahoo-com-articles-bold-nfl-analyst-prediction-hints-143406630-html",
+      "title": "Bold NFL analyst prediction hints at Rams’ next QB",
+      "link": "https://sports.yahoo.com/articles/bold-nfl-analyst-prediction-hints-143406630.html",
       "source": "Yahoo Sports",
-      "ts": 1771579560.0,
-      "published_iso": "2026-02-20T09:26:00+00:00"
+      "ts": 1771570620.0,
+      "published_iso": "2026-02-20T06:57:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25399532-nate-scheelhaase-reportedly-named-rams-oc-whats-next-matthew-stafford-and-la",
+      "title": "Nate Scheelhaase Reportedly Named Rams OC, What's Next for Matthew Stafford and LA?",
+      "link": "https://bleacherreport.com/articles/25399532-nate-scheelhaase-reportedly-named-rams-oc-whats-next-matthew-stafford-and-la",
+      "source": "Bleacher Report",
+      "ts": 1771568880.0,
+      "published_iso": "2026-02-20T06:28:00+00:00"
     }
   ]
 }
