@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-02-20T18:00:26.876524+00:00",
-  "count": 2,
+  "updated_iso": "2026-02-20T19:08:53.236363+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-bold-nfl-analyst-prediction-hints-143406630-html",
-      "title": "Bold NFL analyst prediction hints at Rams’ next QB",
-      "link": "https://sports.yahoo.com/articles/bold-nfl-analyst-prediction-hints-143406630.html",
+      "id": "https-sports-yahoo-com-articles-rams-promoting-nate-scheelhaase-offensive-182020181-html",
+      "title": "Rams are promoting Nate Scheelhaase to offensive coordinator",
+      "link": "https://sports.yahoo.com/articles/rams-promoting-nate-scheelhaase-offensive-182020181.html",
       "source": "Yahoo Sports",
-      "ts": 1771570620.0,
-      "published_iso": "2026-02-20T06:57:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25399532-nate-scheelhaase-reportedly-named-rams-oc-whats-next-matthew-stafford-and-la",
-      "title": "Nate Scheelhaase Reportedly Named Rams OC, What's Next for Matthew Stafford and LA?",
-      "link": "https://bleacherreport.com/articles/25399532-nate-scheelhaase-reportedly-named-rams-oc-whats-next-matthew-stafford-and-la",
-      "source": "Bleacher Report",
-      "ts": 1771568880.0,
-      "published_iso": "2026-02-20T06:28:00+00:00"
+      "ts": 1771585380.0,
+      "published_iso": "2026-02-20T11:03:00+00:00"
     }
   ]
 }
