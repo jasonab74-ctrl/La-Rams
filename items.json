@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-02-21T09:49:29.128773+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-02-21T10:12:44.031880+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-former-illini-qb-named-rams-220211740-html",
+      "title": "Former Illini QB named Rams offensive coordinator after several NFL head coach interviews",
+      "link": "https://sports.yahoo.com/articles/former-illini-qb-named-rams-220211740.html",
+      "source": "Yahoo Sports",
+      "ts": 1771604880.0,
+      "published_iso": "2026-02-20T16:28:00+00:00"
+    }
+  ]
 }
