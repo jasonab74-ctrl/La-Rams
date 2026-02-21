@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-21T23:12:45.473883+00:00",
-  "count": 2,
+  "updated_iso": "2026-02-21T23:42:23.367370+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-exploit-nfl-market-inefficiency-202753975-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1771679160.0,
       "published_iso": "2026-02-21T13:06:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-sign-free-agent-db-173742993-html",
-      "title": "Should Rams re-sign free agent DB after amazing 3-INT postseason run?",
-      "link": "https://sports.yahoo.com/articles/rams-sign-free-agent-db-173742993.html",
-      "source": "Yahoo Sports",
-      "ts": 1771667760.0,
-      "published_iso": "2026-02-21T09:56:00+00:00"
     }
   ]
 }
