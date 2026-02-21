@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-21T06:26:45.149397+00:00",
-  "count": 2,
+  "updated_iso": "2026-02-21T07:04:29.707392+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-20-nfl-win-totals-rams-opponents-schedule-2026-88782458007",
@@ -9,14 +9,6 @@
       "source": "Rams Wire",
       "ts": 1771591440.0,
       "published_iso": "2026-02-20T12:44:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-20-rams-kam-curl-free-agency-2026-88780084007",
-      "title": "Should Rams re-sign 2025 defensive snap leader in free agency?",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/20/rams-kam-curl-free-agency-2026/88780084007/",
-      "source": "Rams Wire",
-      "ts": 1771586040.0,
-      "published_iso": "2026-02-20T11:14:00+00:00"
     }
   ]
 }
