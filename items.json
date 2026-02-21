@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-02-21T03:17:06.640592+00:00",
+  "updated_iso": "2026-02-21T04:49:44.990682+00:00",
   "count": 2,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-former-illini-qb-named-rams-220211740-html",
-      "title": "Former Illini QB named Rams offensive coordinator after several NFL head coach interviews",
-      "link": "https://sports.yahoo.com/articles/former-illini-qb-named-rams-220211740.html",
-      "source": "Yahoo Sports",
-      "ts": 1771604880.0,
-      "published_iso": "2026-02-20T16:28:00+00:00"
-    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-20-rams-kam-curl-free-agency-2026-88780084007",
       "title": "Should Rams re-sign 2025 defensive snap leader in free agency?",
@@ -17,6 +9,14 @@
       "source": "Rams Wire",
       "ts": 1771586040.0,
       "published_iso": "2026-02-20T11:14:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-20-rams-named-potential-landing-spot-for-brandon-aubrey-887",
+      "title": "Rams named potential landing spot for Brandon Aubrey",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/20/rams-named-potential-landing-spot-for-brandon-aubrey/88778467007/",
+      "source": "Rams Wire",
+      "ts": 1771579500.0,
+      "published_iso": "2026-02-20T09:25:00+00:00"
     }
   ]
 }
