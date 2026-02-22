@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-02-22T11:11:48.363775+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-02-22T11:40:39.315075+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-bleacherreport-com-articles-25399923-rams-reportedly-propose-nfl-rule-change-centered-seahawks-controversial-2-poi",
+      "title": "Rams Reportedly to Propose NFL Rule Change Centered on Seahawks' Controversial 2-Point Conversion",
+      "link": "https://bleacherreport.com/articles/25399923-rams-reportedly-propose-nfl-rule-change-centered-seahawks-controversial-2-point-conversion",
+      "source": "Bleacher Report",
+      "ts": 1771692780.0,
+      "published_iso": "2026-02-21T16:53:00+00:00"
+    }
+  ]
 }
