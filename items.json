@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-22T22:47:03.807697+00:00",
-  "count": 3,
+  "updated_iso": "2026-02-22T23:14:01.353184+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-therams-com-video-celebrations-that-defined-the-rams-2025-season",
@@ -17,14 +17,6 @@
       "source": "Rams Wire",
       "ts": 1771737480.0,
       "published_iso": "2026-02-22T05:18:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-request-nfl-rule-change-042919026-html",
-      "title": "Rams Request NFL Rule Change after Controversial Call vs. Seahawks",
-      "link": "https://sports.yahoo.com/articles/rams-request-nfl-rule-change-042919026.html",
-      "source": "Yahoo Sports",
-      "ts": 1771716900.0,
-      "published_iso": "2026-02-21T23:35:00+00:00"
     }
   ]
 }
