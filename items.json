@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-02-21T23:42:23.367370+00:00",
-  "count": 1,
+  "updated_iso": "2026-02-22T01:00:40.439777+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-bleacherreport-com-articles-25399923-rams-reportedly-propose-nfl-rule-change-centered-seahawks-controversial-2-poi",
+      "title": "Rams Reportedly to Propose NFL Rule Change Centered on Seahawks' Controversial 2-Point Conversion",
+      "link": "https://bleacherreport.com/articles/25399923-rams-reportedly-propose-nfl-rule-change-centered-seahawks-controversial-2-point-conversion",
+      "source": "Bleacher Report",
+      "ts": 1771692780.0,
+      "published_iso": "2026-02-21T16:53:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-exploit-nfl-market-inefficiency-202753975-html",
       "title": "How Rams can exploit a new NFL market inefficiency",
