@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-22T07:51:33.093010+00:00",
-  "count": 3,
+  "updated_iso": "2026-02-22T08:16:56.484386+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-controversial-call-rams-vs-seahawks-030750546-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1771717740.0,
       "published_iso": "2026-02-21T23:49:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-request-nfl-rule-change-042919026-html",
-      "title": "Rams Request NFL Rule Change after Controversial Call vs. Seahawks",
-      "link": "https://sports.yahoo.com/articles/rams-request-nfl-rule-change-042919026.html",
-      "source": "Yahoo Sports",
-      "ts": 1771716900.0,
-      "published_iso": "2026-02-21T23:35:00+00:00"
     },
     {
       "id": "https-bleacherreport-com-articles-25399923-rams-reportedly-propose-nfl-rule-change-centered-seahawks-controversial-2-poi",
