@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-22T05:10:14.253994+00:00",
-  "count": 2,
+  "updated_iso": "2026-02-22T06:06:53.571013+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-bleacherreport-com-articles-25399923-rams-reportedly-propose-nfl-rule-change-centered-seahawks-controversial-2-poi",
@@ -9,14 +9,6 @@
       "source": "Bleacher Report",
       "ts": 1771692780.0,
       "published_iso": "2026-02-21T16:53:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-exploit-nfl-market-inefficiency-202753975-html",
-      "title": "How Rams can exploit a new NFL market inefficiency",
-      "link": "https://sports.yahoo.com/articles/rams-exploit-nfl-market-inefficiency-202753975.html",
-      "source": "Yahoo Sports",
-      "ts": 1771679160.0,
-      "published_iso": "2026-02-21T13:06:00+00:00"
     }
   ]
 }
