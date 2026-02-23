@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-23T15:35:05.597193+00:00",
-  "count": 2,
+  "updated_iso": "2026-02-23T16:40:07.922263+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-every-nfc-playoff-team-biggest-113055234-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1771831200.0,
       "published_iso": "2026-02-23T07:20:00+00:00"
-    },
-    {
-      "id": "https-therams-com-video-celebrations-that-defined-the-rams-2025-season",
-      "title": "Celebrations that defined the Rams' 2025 season",
-      "link": "https://therams.com/video/celebrations-that-defined-the-rams-2025-season",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1771769400.0,
-      "published_iso": "2026-02-22T14:10:00+00:00"
     }
   ]
 }
