@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-02-24T08:31:38.461900+00:00",
-  "count": 1,
+  "updated_iso": "2026-02-24T09:38:36.875693+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-kc-native-nate-scheelhaase-promoted-022505094-html",
+      "title": "KC native Nate Scheelhaase promoted to Rams OC after NFL head coach interviews",
+      "link": "https://sports.yahoo.com/articles/kc-native-nate-scheelhaase-promoted-022505094.html",
+      "source": "Yahoo Sports",
+      "ts": 1771893840.0,
+      "published_iso": "2026-02-24T00:44:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-just-retired-pittsburgh-steelers-wide-235827498-html",
       "title": "Just-retired Pittsburgh Steelers wide receiver hired as coach by Rams",
