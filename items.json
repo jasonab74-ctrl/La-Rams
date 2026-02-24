@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-02-24T00:58:56.208716+00:00",
-  "count": 2,
+  "updated_iso": "2026-02-24T03:34:19.523633+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-offensive-free-agents-ranked-155905137-html",
-      "title": "Rams' offensive free agents ranked among last tiers by ESPN",
-      "link": "https://sports.yahoo.com/articles/rams-offensive-free-agents-ranked-155905137.html",
+      "id": "https-sports-yahoo-com-articles-just-retired-pittsburgh-steelers-wide-235827498-html",
+      "title": "Just-retired Pittsburgh Steelers wide receiver hired as coach by Rams",
+      "link": "https://sports.yahoo.com/articles/just-retired-pittsburgh-steelers-wide-235827498.html",
       "source": "Yahoo Sports",
-      "ts": 1771863480.0,
-      "published_iso": "2026-02-23T16:18:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-may-big-220318072-html",
-      "title": "Los Angeles Rams May Make Big Investment in Future Franchise QB",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-may-big-220318072.html",
-      "source": "Yahoo Sports",
-      "ts": 1771857960.0,
-      "published_iso": "2026-02-23T14:46:00+00:00"
+      "ts": 1771868460.0,
+      "published_iso": "2026-02-23T17:41:00+00:00"
     }
   ]
 }
