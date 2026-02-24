@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-24T22:20:14.899591+00:00",
-  "count": 3,
+  "updated_iso": "2026-02-24T22:56:29.614430+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-former-player-robert-woods-joins-215326460-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1771941720.0,
       "published_iso": "2026-02-24T14:02:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-seahawks-onsi-seahawks-news-rams-49ers-provide-stiff-competition-nfc-west-seattle-seahawks",
-      "title": "Rams, 49ers Provide Stiff Competition in NFC West For Seahawks",
-      "link": "https://si.com/nfl/seahawks/onsi/seahawks-news/rams-49ers-provide-stiff-competition-nfc-west-seattle-seahawks",
-      "source": "Sports Illustrated",
-      "ts": 1771941600.0,
-      "published_iso": "2026-02-24T14:00:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-aaron-donald-still-pushing-puka-193713832-html",
