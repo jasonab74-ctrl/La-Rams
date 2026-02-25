@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-02-24T23:51:27.533850+00:00",
+  "updated_iso": "2026-02-25T01:04:22.796248+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-49ers-stiff-competition-nfc-180005875-html",
+      "title": "Rams, 49ers Provide Stiff Competition in NFC West For Seahawks",
+      "link": "https://sports.yahoo.com/articles/rams-49ers-stiff-competition-nfc-180005875.html",
+      "source": "Yahoo Sports",
+      "ts": 1771943220.0,
+      "published_iso": "2026-02-24T14:27:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-former-player-robert-woods-joins-215326460-html",
       "title": "Former Player Robert Woods Joins Rams Coaching Staff",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1771941720.0,
       "published_iso": "2026-02-24T14:02:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-aaron-donald-still-pushing-puka-193713832-html",
-      "title": "How Aaron Donald is still pushing Puka Nacua, Rams to new levels despite retirement",
-      "link": "https://sports.yahoo.com/articles/aaron-donald-still-pushing-puka-193713832.html",
-      "source": "Yahoo Sports",
-      "ts": 1771938420.0,
-      "published_iso": "2026-02-24T13:07:00+00:00"
     }
   ]
 }
