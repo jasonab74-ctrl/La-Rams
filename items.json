@@ -1,22 +1,5 @@
 {
-  "updated_iso": "2026-02-25T06:36:05.633028+00:00",
-  "count": 2,
-  "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-major-decision-012822473-html",
-      "title": "Los Angeles Rams make major decision on their future",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-major-decision-012822473.html",
-      "source": "Yahoo Sports",
-      "ts": 1771609920.0,
-      "published_iso": "2026-02-20T17:52:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-09-2026-nfl-mock-draft-la-rams-full-7-rounds-88527188007",
-      "title": "Rams 2026 mock draft: Full 7-round projections for Los Angeles",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/09/2026-nfl-mock-draft-la-rams-full-7-rounds/88527188007/",
-      "source": "Rams Wire",
-      "ts": 1770612180.0,
-      "published_iso": "2026-02-09T04:43:00+00:00"
-    }
-  ]
+  "updated_iso": "2026-02-25T07:42:30.492918+00:00",
+  "count": 0,
+  "items": []
 }
