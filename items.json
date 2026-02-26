@@ -1,5 +1,5 @@
 {
-  "updated_iso": "2026-02-26T22:24:03.813741+00:00",
+  "updated_iso": "2026-02-26T22:57:18.006177+00:00",
   "count": 3,
   "items": [
     {
@@ -11,20 +11,20 @@
       "published_iso": "2026-02-26T13:14:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-rams-trade-anthony-richardson-pros-203310685-html",
-      "title": "Should the Rams trade for Anthony Richardson? Here are the pros and cons",
-      "link": "https://sports.yahoo.com/articles/rams-trade-anthony-richardson-pros-203310685.html",
-      "source": "Yahoo Sports",
-      "ts": 1772110560.0,
-      "published_iso": "2026-02-26T12:56:00+00:00"
-    },
-    {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-free-agent-120000209-html",
       "title": "Los Angeles Rams Free Agent Profile: Kam Curl's 2025 season could be enough to break recent Rams trend",
       "link": "https://sports.yahoo.com/articles/los-angeles-rams-free-agent-120000209.html",
       "source": "Yahoo Sports",
       "ts": 1772090640.0,
       "published_iso": "2026-02-26T07:24:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-26-2026-mock-draft-ex-nfl-player-picks-cb-and-wr-for-rams-i",
+      "title": "Ex-NFL player picks CB and WR for Rams in new 2026 mock draft",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/26/2026-mock-draft-ex-nfl-player-picks-cb-and-wr-for-rams-in-1st-round/88865691007/",
+      "source": "Rams Wire",
+      "ts": 1772082720.0,
+      "published_iso": "2026-02-26T05:12:00+00:00"
     }
   ]
 }
