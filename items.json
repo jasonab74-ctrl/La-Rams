@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-02-26T22:57:18.006177+00:00",
+  "updated_iso": "2026-02-26T23:22:25.904238+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-named-landing-spot-rocket-arm-qb-6eae9bb688328f9b7915b9be",
+      "title": "Rams named landing spot for rocket-arm QB",
+      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-named-landing-spot-rocket-arm-qb/6eae9bb688328f9b7915b9be",
+      "source": "Sporting News",
+      "ts": 1772117940.0,
+      "published_iso": "2026-02-26T14:59:00+00:00"
+    },
     {
       "id": "https-si-com-nfl-buccaneers-onsi-news-could-the-buccaneers-sign-this-rams-offensive-starter-in-2026",
       "title": "Could The Buccaneers Sign This Rams Offensive Starter in 2026?",
@@ -17,14 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1772090640.0,
       "published_iso": "2026-02-26T07:24:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-26-2026-mock-draft-ex-nfl-player-picks-cb-and-wr-for-rams-i",
-      "title": "Ex-NFL player picks CB and WR for Rams in new 2026 mock draft",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/26/2026-mock-draft-ex-nfl-player-picks-cb-and-wr-for-rams-in-1st-round/88865691007/",
-      "source": "Rams Wire",
-      "ts": 1772082720.0,
-      "published_iso": "2026-02-26T05:12:00+00:00"
     }
   ]
 }
