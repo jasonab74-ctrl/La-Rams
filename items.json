@@ -1,30 +1,22 @@
 {
-  "updated_iso": "2026-02-26T16:11:34.944449+00:00",
-  "count": 3,
+  "updated_iso": "2026-02-26T17:31:50.644522+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-urged-draft-cornerback-first-152347505-html",
-      "title": "Rams Urged to Draft Cornerback in First Round to Defend Strong NFC West Rival Offenses",
-      "link": "https://sports.yahoo.com/articles/rams-urged-draft-cornerback-first-152347505.html",
-      "source": "Yahoo Sports",
-      "ts": 1772091960.0,
-      "published_iso": "2026-02-26T07:46:00+00:00"
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-potential-first-round-pick-mansoor-delane-speaks-from-combine",
+      "title": "Potential Rams' First Round-Pick Mansoor Delane Speaks From NFL Combine",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-potential-first-round-pick-mansoor-delane-speaks-from-combine",
+      "source": "Sports Illustrated",
+      "ts": 1772097960.0,
+      "published_iso": "2026-02-26T09:26:00+00:00"
     },
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-26-2026-mock-draft-ex-nfl-player-picks-cb-and-wr-for-rams-i",
-      "title": "Ex-NFL player picks CB and WR for Rams in new 2026 mock draft",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/26/2026-mock-draft-ex-nfl-player-picks-cb-and-wr-for-rams-in-1st-round/88865691007/",
-      "source": "Rams Wire",
-      "ts": 1772082720.0,
-      "published_iso": "2026-02-26T05:12:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-former-player-robert-woods-joins-215326460-html",
-      "title": "Former Player Robert Woods Joins Rams Coaching Staff",
-      "link": "https://sports.yahoo.com/articles/former-player-robert-woods-joins-215326460.html",
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-free-agent-120000209-html",
+      "title": "Los Angeles Rams Free Agent Profile: Kam Curl's 2025 season could be enough to break recent Rams trend",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-free-agent-120000209.html",
       "source": "Yahoo Sports",
-      "ts": 1771941720.0,
-      "published_iso": "2026-02-24T14:02:00+00:00"
+      "ts": 1772090640.0,
+      "published_iso": "2026-02-26T07:24:00+00:00"
     }
   ]
 }
