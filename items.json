@@ -1,23 +1,7 @@
 {
-  "updated_iso": "2026-02-27T08:27:22.814270+00:00",
-  "count": 3,
+  "updated_iso": "2026-02-27T09:04:47.170194+00:00",
+  "count": 2,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-rams-sean-mcvay-earns-sparkling-055226332-html",
-      "title": "Rams’ Sean McVay earns sparkling A+ grade in leaked NFLPA report cards",
-      "link": "https://sports.yahoo.com/articles/rams-sean-mcvay-earns-sparkling-055226332.html",
-      "source": "Yahoo Sports",
-      "ts": 1772147760.0,
-      "published_iso": "2026-02-26T23:16:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-buccaneers-onsi-news-could-the-buccaneers-sign-this-rams-offensive-starter-in-2026",
-      "title": "Could The Buccaneers Sign This Rams Offensive Starter in 2026?",
-      "link": "https://si.com/nfl/buccaneers/onsi/news/could-the-buccaneers-sign-this-rams-offensive-starter-in-2026",
-      "source": "Sports Illustrated",
-      "ts": 1772125260.0,
-      "published_iso": "2026-02-26T17:01:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-free-agent-120000209-html",
       "title": "Los Angeles Rams Free Agent Profile: Kam Curl's 2025 season could be enough to break recent Rams trend",
@@ -25,6 +9,14 @@
       "source": "Yahoo Sports",
       "ts": 1772090640.0,
       "published_iso": "2026-02-26T07:24:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-26-2026-mock-draft-ex-nfl-player-picks-cb-and-wr-for-rams-i",
+      "title": "Ex-NFL player picks CB and WR for Rams in new 2026 mock draft",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/26/2026-mock-draft-ex-nfl-player-picks-cb-and-wr-for-rams-in-1st-round/88865691007/",
+      "source": "Rams Wire",
+      "ts": 1772082720.0,
+      "published_iso": "2026-02-26T05:12:00+00:00"
     }
   ]
 }
