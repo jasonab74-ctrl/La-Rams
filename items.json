@@ -1,5 +1,5 @@
 {
-  "updated_iso": "2026-02-27T23:13:46.430198+00:00",
+  "updated_iso": "2026-02-27T23:42:28.951532+00:00",
   "count": 6,
   "items": [
     {
@@ -17,14 +17,6 @@
       "source": "Sports Illustrated",
       "ts": 1772193480.0,
       "published_iso": "2026-02-27T11:58:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-projected-sign-6-foot-184331481-html",
-      "title": "Rams projected to sign 6-foot-2 Chiefs cornerback to address major need",
-      "link": "https://sports.yahoo.com/articles/rams-projected-sign-6-foot-184331481.html",
-      "source": "Yahoo Sports",
-      "ts": 1772190180.0,
-      "published_iso": "2026-02-27T11:03:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-27-nfl-combine-safeties-rams-watch-workout-88901619007",
@@ -49,6 +41,14 @@
       "source": "Rams Wire",
       "ts": 1772181840.0,
       "published_iso": "2026-02-27T08:44:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-sean-mcvay-receives-top-grade-162652060-html",
+      "title": "Sean McVay Receives Top Grade From Rams Players in Recent Survey",
+      "link": "https://sports.yahoo.com/articles/sean-mcvay-receives-top-grade-162652060.html",
+      "source": "Yahoo Sports",
+      "ts": 1772181720.0,
+      "published_iso": "2026-02-27T08:42:00+00:00"
     }
   ]
 }
