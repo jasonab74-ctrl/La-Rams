@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-02-27T20:16:08.830749+00:00",
+  "updated_iso": "2026-02-27T20:48:08.461786+00:00",
   "count": 5,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-heres-much-emmanuel-forbes-jr-202152211-html",
+      "title": "Here's how much Emmanuel Forbes Jr.'s 5th-year option will cost Rams in 2027",
+      "link": "https://sports.yahoo.com/articles/heres-much-emmanuel-forbes-jr-202152211.html",
+      "source": "Yahoo Sports",
+      "ts": 1772195820.0,
+      "published_iso": "2026-02-27T12:37:00+00:00"
+    },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-7-combine-questions-that-will-shape-draft-board",
       "title": "7 Combine Questions That Will Shape Rams' Draft Board",
@@ -11,12 +19,12 @@
       "published_iso": "2026-02-27T11:58:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-5-safeties-rams-watch-nfl-184742776-html",
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-27-nfl-combine-safeties-rams-watch-workout-88901619007",
       "title": "5 safeties for Rams to watch at NFL combine",
-      "link": "https://sports.yahoo.com/articles/5-safeties-rams-watch-nfl-184742776.html",
-      "source": "Yahoo Sports",
-      "ts": 1772190240.0,
-      "published_iso": "2026-02-27T11:04:00+00:00"
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/27/nfl-combine-safeties-rams-watch-workout/88901619007/",
+      "source": "Rams Wire",
+      "ts": 1772189880.0,
+      "published_iso": "2026-02-27T10:58:00+00:00"
     },
     {
       "id": "https-therams-com-news-free-agent-spotlight-ahkello-witherspoon-s-size-and-frame-made-him-valuable-matchup-piece-to-rams",
@@ -25,14 +33,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1772189880.0,
       "published_iso": "2026-02-27T10:58:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-27-2026-nfl-draft-pff-rams-ideal-haul-mccoy-simpson-8889886",
-      "title": "PFF predicts 'ideal draft haul' for Rams in first 3 rounds",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/27/2026-nfl-draft-pff-rams-ideal-haul-mccoy-simpson/88898868007/",
-      "source": "Rams Wire",
-      "ts": 1772181840.0,
-      "published_iso": "2026-02-27T08:44:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-sean-mcvay-receives-top-grade-162652060-html",
