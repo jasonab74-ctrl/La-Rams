@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-27T11:49:58.272128+00:00",
-  "count": 3,
+  "updated_iso": "2026-02-27T12:29:21.363259+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-named-landing-spot-rocket-225942407-html",
@@ -17,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1772090640.0,
       "published_iso": "2026-02-26T07:24:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-26-2026-mock-draft-ex-nfl-player-picks-cb-and-wr-for-rams-i",
-      "title": "Ex-NFL player picks CB and WR for Rams in new 2026 mock draft",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/26/2026-mock-draft-ex-nfl-player-picks-cb-and-wr-for-rams-in-1st-round/88865691007/",
-      "source": "Rams Wire",
-      "ts": 1772082720.0,
-      "published_iso": "2026-02-26T05:12:00+00:00"
     }
   ]
 }
