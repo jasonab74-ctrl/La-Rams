@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-28T09:14:38.726484+00:00",
-  "count": 3,
+  "updated_iso": "2026-02-28T09:43:59.058665+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-meet-usc-star-makai-013046527-html",
@@ -17,6 +17,14 @@
       "source": "Yahoo Sports",
       "ts": 1772195820.0,
       "published_iso": "2026-02-27T12:37:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-27-nfl-combine-safeties-rams-watch-workout-88901619007",
+      "title": "5 safeties for Rams to watch at NFL combine",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/27/nfl-combine-safeties-rams-watch-workout/88901619007/",
+      "source": "Rams Wire",
+      "ts": 1772189880.0,
+      "published_iso": "2026-02-27T10:58:00+00:00"
     },
     {
       "id": "https-therams-com-news-free-agent-spotlight-ahkello-witherspoon-s-size-and-frame-made-him-valuable-matchup-piece-to-rams",
