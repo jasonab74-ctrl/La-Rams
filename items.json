@@ -1,5 +1,5 @@
 {
-  "updated_iso": "2026-02-28T19:11:40.804463+00:00",
+  "updated_iso": "2026-02-28T19:38:15.260153+00:00",
   "count": 4,
   "items": [
     {
@@ -27,12 +27,12 @@
       "published_iso": "2026-02-28T06:14:00+00:00"
     },
     {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-7-combine-questions-that-will-shape-draft-board",
-      "title": "7 Combine Questions That Will Shape Rams' Draft Board",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-7-combine-questions-that-will-shape-draft-board",
-      "source": "Sports Illustrated",
-      "ts": 1772207400.0,
-      "published_iso": "2026-02-27T15:50:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-27-2026-nfl-draft-pff-rams-ideal-haul-mccoy-simpson-8889886",
+      "title": "PFF predicts 'ideal draft haul' for Rams in first 3 rounds",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/27/2026-nfl-draft-pff-rams-ideal-haul-mccoy-simpson/88898868007/",
+      "source": "Rams Wire",
+      "ts": 1772181840.0,
+      "published_iso": "2026-02-27T08:44:00+00:00"
     }
   ]
 }
