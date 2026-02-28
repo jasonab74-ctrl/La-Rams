@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-02-28T08:14:35.528541+00:00",
-  "count": 4,
+  "updated_iso": "2026-02-28T08:47:42.765212+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-meet-usc-star-makai-013046527-html",
+      "title": "Rams Meet With USC Star Makai Lemon at NFL Combine",
+      "link": "https://sports.yahoo.com/articles/rams-meet-usc-star-makai-013046527.html",
+      "source": "Yahoo Sports",
+      "ts": 1772214900.0,
+      "published_iso": "2026-02-27T17:55:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-heres-much-emmanuel-forbes-jr-202152211-html",
       "title": "Here's how much Emmanuel Forbes Jr.'s 5th-year option will cost Rams in 2027",
@@ -27,12 +35,12 @@
       "published_iso": "2026-02-27T10:58:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-pff-predicts-ideal-draft-haul-163045584-html",
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-27-2026-nfl-draft-pff-rams-ideal-haul-mccoy-simpson-8889886",
       "title": "PFF predicts 'ideal draft haul' for Rams in first 3 rounds",
-      "link": "https://sports.yahoo.com/articles/pff-predicts-ideal-draft-haul-163045584.html",
-      "source": "Yahoo Sports",
-      "ts": 1772182140.0,
-      "published_iso": "2026-02-27T08:49:00+00:00"
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/27/2026-nfl-draft-pff-rams-ideal-haul-mccoy-simpson/88898868007/",
+      "source": "Rams Wire",
+      "ts": 1772181840.0,
+      "published_iso": "2026-02-27T08:44:00+00:00"
     }
   ]
 }
