@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-28T06:59:19.315876+00:00",
-  "count": 6,
+  "updated_iso": "2026-02-28T07:25:26.676141+00:00",
+  "count": 5,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-meet-usc-star-makai-013046527-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1772214900.0,
       "published_iso": "2026-02-27T17:55:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-7-combine-questions-that-will-shape-draft-board",
-      "title": "7 Combine Questions That Will Shape Rams' Draft Board",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-7-combine-questions-that-will-shape-draft-board",
-      "source": "Sports Illustrated",
-      "ts": 1772207400.0,
-      "published_iso": "2026-02-27T15:50:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-heres-much-emmanuel-forbes-jr-202152211-html",
