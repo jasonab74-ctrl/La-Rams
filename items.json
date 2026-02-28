@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-02-28T11:37:37.419470+00:00",
-  "count": 5,
+  "updated_iso": "2026-02-28T12:19:30.854910+00:00",
+  "count": 2,
   "items": [
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-potential-top-prospect-carnell-tate-speaks-from-combine",
-      "title": "Potential Top Rams Prospect Carnell Tate Speaks From NFL Combine",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-potential-top-prospect-carnell-tate-speaks-from-combine",
-      "source": "Sports Illustrated",
-      "ts": 1772222400.0,
-      "published_iso": "2026-02-27T20:00:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-rams-meet-usc-star-makai-013046527-html",
       "title": "Rams Meet With USC Star Makai Lemon at NFL Combine",
@@ -19,28 +11,12 @@
       "published_iso": "2026-02-27T17:55:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-heres-much-emmanuel-forbes-jr-202152211-html",
-      "title": "Here's how much Emmanuel Forbes Jr.'s 5th-year option will cost Rams in 2027",
-      "link": "https://sports.yahoo.com/articles/heres-much-emmanuel-forbes-jr-202152211.html",
-      "source": "Yahoo Sports",
-      "ts": 1772195820.0,
-      "published_iso": "2026-02-27T12:37:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-27-nfl-combine-safeties-rams-watch-workout-88901619007",
-      "title": "5 safeties for Rams to watch at NFL combine",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/27/nfl-combine-safeties-rams-watch-workout/88901619007/",
-      "source": "Rams Wire",
-      "ts": 1772189880.0,
-      "published_iso": "2026-02-27T10:58:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-27-2026-nfl-draft-pff-rams-ideal-haul-mccoy-simpson-8889886",
-      "title": "PFF predicts 'ideal draft haul' for Rams in first 3 rounds",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/27/2026-nfl-draft-pff-rams-ideal-haul-mccoy-simpson/88898868007/",
-      "source": "Rams Wire",
-      "ts": 1772181840.0,
-      "published_iso": "2026-02-27T08:44:00+00:00"
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-7-combine-questions-that-will-shape-draft-board",
+      "title": "7 Combine Questions That Will Shape Rams' Draft Board",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-7-combine-questions-that-will-shape-draft-board",
+      "source": "Sports Illustrated",
+      "ts": 1772207400.0,
+      "published_iso": "2026-02-27T15:50:00+00:00"
     }
   ]
 }
