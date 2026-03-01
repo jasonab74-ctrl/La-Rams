@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-01T03:58:30.763447+00:00",
-  "count": 3,
+  "updated_iso": "2026-03-01T05:15:39.285853+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-nfl-free-agency-cardinals-eye-005120287-html",
@@ -17,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1772259240.0,
       "published_iso": "2026-02-28T06:14:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-27-2026-nfl-draft-pff-rams-ideal-haul-mccoy-simpson-8889886",
-      "title": "PFF predicts 'ideal draft haul' for Rams in first 3 rounds",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/27/2026-nfl-draft-pff-rams-ideal-haul-mccoy-simpson/88898868007/",
-      "source": "Rams Wire",
-      "ts": 1772181840.0,
-      "published_iso": "2026-02-27T08:44:00+00:00"
     }
   ]
 }
