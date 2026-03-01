@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-01T16:47:43.747490+00:00",
-  "count": 3,
+  "updated_iso": "2026-03-01T17:13:04.859613+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-free-agent-110000095-html",
@@ -17,14 +17,6 @@
       "source": "Rams Wire",
       "ts": 1772181840.0,
       "published_iso": "2026-02-27T08:44:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-sean-mcvay-receives-top-grade-162652060-html",
-      "title": "Sean McVay Receives Top Grade From Rams Players in Recent Survey",
-      "link": "https://sports.yahoo.com/articles/sean-mcvay-receives-top-grade-162652060.html",
-      "source": "Yahoo Sports",
-      "ts": 1772181720.0,
-      "published_iso": "2026-02-27T08:42:00+00:00"
     }
   ]
 }
