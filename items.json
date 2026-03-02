@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-02T21:24:03.251249+00:00",
-  "count": 4,
+  "updated_iso": "2026-03-02T21:54:09.430566+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-crazy-another-oregon-te-211401134-html",
+      "title": "Would the Rams be crazy to take another Oregon TE with their top pick?",
+      "link": "https://sports.yahoo.com/articles/rams-crazy-another-oregon-te-211401134.html",
+      "source": "Yahoo Sports",
+      "ts": 1772458440.0,
+      "published_iso": "2026-03-02T13:34:00+00:00"
+    },
     {
       "id": "https-therams-com-news-rams-2026-nfl-mock-draft-roundup-cornerbacks-offensive-skill-players-common-projections-in-round-",
       "title": "Rams 2026 NFL Mock Draft Roundup: Cornerbacks, offensive skill players common projections in Round 1 after combine",
@@ -19,12 +27,12 @@
       "published_iso": "2026-03-02T11:18:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-rams-again-named-ideal-landing-204512013-html",
-      "title": "Rams again named as ideal landing spot for Matthew Stafford successor",
-      "link": "https://sports.yahoo.com/articles/rams-again-named-ideal-landing-204512013.html",
-      "source": "Yahoo Sports",
-      "ts": 1772369880.0,
-      "published_iso": "2026-03-01T12:58:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-02-nfl-mock-draft-rams-denzel-boston-ty-simpson-88942077007",
+      "title": "Rams add big WR, polarizing QB in USA TODAY's new mock draft",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/02/nfl-mock-draft-rams-denzel-boston-ty-simpson/88942077007/",
+      "source": "Rams Wire",
+      "ts": 1772431800.0,
+      "published_iso": "2026-03-02T06:10:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-free-agent-110000095-html",
