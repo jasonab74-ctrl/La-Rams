@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-03-02T16:00:24.928434+00:00",
+  "updated_iso": "2026-03-02T17:09:04.937439+00:00",
   "count": 3,
   "items": [
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-02-nfl-mock-draft-rams-denzel-boston-ty-simpson-88942077007",
+      "id": "https-sports-yahoo-com-articles-rams-add-big-wr-polarizing-135737723-html",
       "title": "Rams add big WR, polarizing QB in USA TODAY's new mock draft",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/02/nfl-mock-draft-rams-denzel-boston-ty-simpson/88942077007/",
-      "source": "Rams Wire",
-      "ts": 1772431800.0,
-      "published_iso": "2026-03-02T06:10:00+00:00"
+      "link": "https://sports.yahoo.com/articles/rams-add-big-wr-polarizing-135737723.html",
+      "source": "Yahoo Sports",
+      "ts": 1772432400.0,
+      "published_iso": "2026-03-02T06:20:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-rams-again-named-ideal-landing-204512013-html",
@@ -19,12 +19,12 @@
       "published_iso": "2026-03-01T12:58:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-free-agent-120000209-html",
-      "title": "Los Angeles Rams Free Agent Profile: Kam Curl's 2025 season could be enough to break recent Rams trend",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-free-agent-120000209.html",
-      "source": "Yahoo Sports",
-      "ts": 1772090640.0,
-      "published_iso": "2026-02-26T07:24:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-09-2026-nfl-mock-draft-la-rams-full-7-rounds-88527188007",
+      "title": "Rams 2026 mock draft: Full 7-round projections for Los Angeles",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/09/2026-nfl-mock-draft-la-rams-full-7-rounds/88527188007/",
+      "source": "Rams Wire",
+      "ts": 1770612180.0,
+      "published_iso": "2026-02-09T04:43:00+00:00"
     }
   ]
 }
