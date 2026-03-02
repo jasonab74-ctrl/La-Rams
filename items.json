@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-02T06:08:56.284704+00:00",
-  "count": 4,
+  "updated_iso": "2026-03-02T07:29:31.299870+00:00",
+  "count": 5,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-again-named-ideal-landing-204512013-html",
@@ -33,6 +33,14 @@
       "source": "Yahoo Sports",
       "ts": 1772259240.0,
       "published_iso": "2026-02-28T06:14:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-09-2026-nfl-mock-draft-la-rams-full-7-rounds-88527188007",
+      "title": "Rams 2026 mock draft: Full 7-round projections for Los Angeles",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/09/2026-nfl-mock-draft-la-rams-full-7-rounds/88527188007/",
+      "source": "Rams Wire",
+      "ts": 1770612180.0,
+      "published_iso": "2026-02-09T04:43:00+00:00"
     }
   ]
 }
