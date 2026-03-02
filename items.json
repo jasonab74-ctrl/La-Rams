@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-02T23:13:36.184653+00:00",
-  "count": 5,
+  "updated_iso": "2026-03-02T23:45:55.570785+00:00",
+  "count": 6,
   "items": [
+    {
+      "id": "https-yahoo-com-entertainment-celebrity-articles-rams-star-puka-nacua-influencer-185453372-html",
+      "title": "Rams star Puka Nacua, influencer Sara Saffari spark dating rumors",
+      "link": "https://yahoo.com/entertainment/celebrity/articles/rams-star-puka-nacua-influencer-185453372.html",
+      "source": "Yahoo",
+      "ts": 1772465040.0,
+      "published_iso": "2026-03-02T15:24:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-mock-draft-post-nfl-220012144-html",
       "title": "Rams Mock Draft: Post-NFL Combine edition",
