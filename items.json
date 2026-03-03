@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-03T09:28:55.345372+00:00",
-  "count": 5,
+  "updated_iso": "2026-03-03T10:05:25.925473+00:00",
+  "count": 6,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-draft-alabama-qb-ty-234338523-html",
@@ -9,6 +9,14 @@
       "source": "Yahoo Sports",
       "ts": 1772478300.0,
       "published_iso": "2026-03-02T19:05:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-tender-exclusive-rights-free-agents-justin-dedich-harrison-mevis-and-xavier-smith-2026",
+      "title": "Rams tender exclusive rights free agents Justin Dedich, Harrison Mevis and Xavier Smith",
+      "link": "https://therams.com/news/rams-tender-exclusive-rights-free-agents-justin-dedich-harrison-mevis-and-xavier-smith-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1772469060.0,
+      "published_iso": "2026-03-02T16:31:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-rams-mock-draft-post-nfl-220012144-html",
