@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-03T16:31:55.132761+00:00",
-  "count": 5,
+  "updated_iso": "2026-03-03T17:33:11.007098+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-bleacherreport-com-articles-25402519-sara-saffari-denies-puka-nacua-dating-rumors-social-media-post-after-videos-r",
+      "title": "Sara Saffari Denies Puka Nacua Dating Rumors in Social Media Post After Videos With Rams WR",
+      "link": "https://bleacherreport.com/articles/25402519-sara-saffari-denies-puka-nacua-dating-rumors-social-media-post-after-videos-rams-wr",
+      "source": "Bleacher Report",
+      "ts": 1772529000.0,
+      "published_iso": "2026-03-03T09:10:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-could-caleb-downs-fall-rams-125939541-html",
       "title": "Could Caleb Downs fall to the Rams due to a reported knee issue?",
@@ -9,30 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1772514660.0,
       "published_iso": "2026-03-03T05:11:00+00:00"
-    },
-    {
-      "id": "https-yahoo-com-entertainment-celebrity-articles-la-rams-puka-nacua-ignites-114637066-html",
-      "title": "LA Rams’ Puka Nacua Ignites Dating Rumors With Influencer Sara Saffari",
-      "link": "https://yahoo.com/entertainment/celebrity/articles/la-rams-puka-nacua-ignites-114637066.html",
-      "source": "Yahoo",
-      "ts": 1772511780.0,
-      "published_iso": "2026-03-03T04:23:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-draft-alabama-qb-ty-234338523-html",
-      "title": "Rams to Draft Alabama QB Ty Simpson as Future Replacement for Matthew Stafford",
-      "link": "https://sports.yahoo.com/articles/rams-draft-alabama-qb-ty-234338523.html",
-      "source": "Yahoo Sports",
-      "ts": 1772478300.0,
-      "published_iso": "2026-03-02T19:05:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-fantasy-football-news-rams-harrison-mevis-gets-tender-from-los-angeles",
-      "title": "Rams' Harrison Mevis: Gets tender from Los Angeles",
-      "link": "https://cbssports.com/fantasy/football/news/rams-harrison-mevis-gets-tender-from-los-angeles/",
-      "source": "CBS Sports",
-      "ts": 1772454360.0,
-      "published_iso": "2026-03-02T12:26:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-02-nfl-free-agency-rams-predictions-curl-higbee-atwell-8894",
