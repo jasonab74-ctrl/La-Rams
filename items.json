@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-03T01:01:21.557313+00:00",
-  "count": 6,
+  "updated_iso": "2026-03-03T03:42:36.658824+00:00",
+  "count": 7,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-draft-alabama-qb-ty-234338523-html",
+      "title": "Rams to Draft Alabama QB Ty Simpson as Future Replacement for Matthew Stafford",
+      "link": "https://sports.yahoo.com/articles/rams-draft-alabama-qb-ty-234338523.html",
+      "source": "Yahoo Sports",
+      "ts": 1772478300.0,
+      "published_iso": "2026-03-02T19:05:00+00:00"
+    },
     {
       "id": "https-therams-com-news-rams-tender-exclusive-rights-free-agents-justin-dedich-harrison-mevis-and-xavier-smith-2026",
       "title": "Rams tender exclusive rights free agents Justin Dedich, Harrison Mevis and Xavier Smith",
@@ -27,6 +35,14 @@
       "published_iso": "2026-03-02T12:55:00+00:00"
     },
     {
+      "id": "https-cbssports-com-fantasy-football-news-rams-harrison-mevis-gets-tender-from-los-angeles",
+      "title": "Rams' Harrison Mevis: Gets tender from Los Angeles",
+      "link": "https://cbssports.com/fantasy/football/news/rams-harrison-mevis-gets-tender-from-los-angeles/",
+      "source": "CBS Sports",
+      "ts": 1772454360.0,
+      "published_iso": "2026-03-02T12:26:00+00:00"
+    },
+    {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-02-nfl-free-agency-rams-predictions-curl-higbee-atwell-8894",
       "title": "Stay or go? Predicting fate of Rams' free agents in 2026",
       "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/02/nfl-free-agency-rams-predictions-curl-higbee-atwell/88946408007/",
@@ -35,20 +51,12 @@
       "published_iso": "2026-03-02T11:18:00+00:00"
     },
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-02-nfl-mock-draft-rams-denzel-boston-ty-simpson-88942077007",
-      "title": "Rams add big WR, polarizing QB in USA TODAY's new mock draft",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/02/nfl-mock-draft-rams-denzel-boston-ty-simpson/88942077007/",
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-02-rams-among-teams-keeping-tabs-maxx-crosby-trade-88942157",
+      "title": "Report: Rams among teams 'keeping tabs' on Maxx Crosby trade",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/02/rams-among-teams-keeping-tabs-maxx-crosby-trade/88942157007/",
       "source": "Rams Wire",
-      "ts": 1772431800.0,
-      "published_iso": "2026-03-02T06:10:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-free-agent-110000095-html",
-      "title": "Los Angeles Rams Free Agent Profile: Rams have little incentive to keep Tutu Atwell around despite former draft status",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-free-agent-110000095.html",
-      "source": "Yahoo Sports",
-      "ts": 1772259240.0,
-      "published_iso": "2026-02-28T06:14:00+00:00"
+      "ts": 1772434080.0,
+      "published_iso": "2026-03-02T06:48:00+00:00"
     }
   ]
 }
