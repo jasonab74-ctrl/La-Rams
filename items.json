@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-03-03T20:52:55.217825+00:00",
-  "count": 3,
+  "updated_iso": "2026-03-03T21:21:58.567834+00:00",
+  "count": 2,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-chiefs-may-trade-cornerback-trent-160952565-html",
-      "title": "Chiefs May Trade Cornerback Trent McDuffie to Rams Amid Offseason Changes",
-      "link": "https://sports.yahoo.com/articles/chiefs-may-trade-cornerback-trent-160952565.html",
-      "source": "Yahoo Sports",
-      "ts": 1772538420.0,
-      "published_iso": "2026-03-03T11:47:00+00:00"
-    },
     {
       "id": "https-bleacherreport-com-articles-25402547-matthew-stafford-rams-have-had-great-dialogue-amid-contract-rumors-sean-mcvay",
       "title": "Matthew Stafford, Rams Have Had 'Great Dialogue' amid Contract Rumors, Sean McVay Says",
@@ -19,12 +11,12 @@
       "published_iso": "2026-03-03T11:14:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-sean-mcvay-just-said-matthew-170505805-html",
-      "title": "What Sean McVay just said about Matthew Stafford’s Rams contract status as free agency nears",
-      "link": "https://sports.yahoo.com/articles/sean-mcvay-just-said-matthew-170505805.html",
+      "id": "https-sports-yahoo-com-articles-rams-linked-54-million-chiefs-153153526-html",
+      "title": "Rams linked to $54 million Chiefs Super Bowl champion CB amid major need",
+      "link": "https://sports.yahoo.com/articles/rams-linked-54-million-chiefs-153153526.html",
       "source": "Yahoo Sports",
-      "ts": 1772534580.0,
-      "published_iso": "2026-03-03T10:43:00+00:00"
+      "ts": 1772527020.0,
+      "published_iso": "2026-03-03T08:37:00+00:00"
     }
   ]
 }
