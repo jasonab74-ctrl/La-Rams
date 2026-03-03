@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-03T13:37:20.648665+00:00",
-  "count": 6,
+  "updated_iso": "2026-03-03T14:34:28.894104+00:00",
+  "count": 5,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-could-caleb-downs-fall-rams-125939541-html",
@@ -41,14 +41,6 @@
       "source": "Rams Wire",
       "ts": 1772450280.0,
       "published_iso": "2026-03-02T11:18:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-02-rams-among-teams-keeping-tabs-maxx-crosby-trade-88942157",
-      "title": "Report: Rams among teams 'keeping tabs' on Maxx Crosby trade",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/02/rams-among-teams-keeping-tabs-maxx-crosby-trade/88942157007/",
-      "source": "Rams Wire",
-      "ts": 1772434080.0,
-      "published_iso": "2026-03-02T06:48:00+00:00"
     }
   ]
 }
