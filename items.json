@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-03T22:50:20.861301+00:00",
-  "count": 4,
+  "updated_iso": "2026-03-03T23:14:19.082529+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-gm-revealed-potential-trade-223000041-html",
+      "title": "Rams GM revealed as potential trade partner for Chiefs’ Trent McDuffie",
+      "link": "https://sports.yahoo.com/articles/rams-gm-revealed-potential-trade-223000041.html",
+      "source": "Yahoo Sports",
+      "ts": 1772549580.0,
+      "published_iso": "2026-03-03T14:53:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-ready-big-roster-moves-221400287-html",
       "title": "Rams Ready to Make Big Roster Moves to Maximize Time with MVP Stafford",
@@ -17,22 +25,6 @@
       "source": "Bleacher Report",
       "ts": 1772536440.0,
       "published_iso": "2026-03-03T11:14:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-03-rams-matthew-stafford-contract-raise-sean-mcvay-88961595",
-      "title": "Rams, Matthew Stafford have had 'great dialogue' about QB's contract situation",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/03/rams-matthew-stafford-contract-raise-sean-mcvay/88961595007/",
-      "source": "Rams Wire",
-      "ts": 1772531460.0,
-      "published_iso": "2026-03-03T09:51:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-linked-54-million-chiefs-153153526-html",
-      "title": "Rams linked to $54 million Chiefs Super Bowl champion CB amid major need",
-      "link": "https://sports.yahoo.com/articles/rams-linked-54-million-chiefs-153153526.html",
-      "source": "Yahoo Sports",
-      "ts": 1772527020.0,
-      "published_iso": "2026-03-03T08:37:00+00:00"
     }
   ]
 }
