@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-03T19:30:27.056222+00:00",
-  "count": 2,
+  "updated_iso": "2026-03-03T20:20:02.824071+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-want-jimmy-garoppolo-back-190350248-html",
@@ -17,6 +17,14 @@
       "source": "Bleacher Report",
       "ts": 1772536440.0,
       "published_iso": "2026-03-03T11:14:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-sean-mcvay-just-said-matthew-170505805-html",
+      "title": "What Sean McVay just said about Matthew Stafford’s Rams contract status as free agency nears",
+      "link": "https://sports.yahoo.com/articles/sean-mcvay-just-said-matthew-170505805.html",
+      "source": "Yahoo Sports",
+      "ts": 1772534580.0,
+      "published_iso": "2026-03-03T10:43:00+00:00"
     }
   ]
 }
