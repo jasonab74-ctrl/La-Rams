@@ -1,30 +1,46 @@
 {
-  "updated_iso": "2026-03-04T16:47:04.419392+00:00",
-  "count": 3,
+  "updated_iso": "2026-03-04T17:28:48.972813+00:00",
+  "count": 5,
   "items": [
     {
-      "id": "https-yahoo-com-entertainment-celebrity-articles-puka-nacua-dating-explaining-rumors-160752406-html",
-      "title": "Who is Puka Nacua dating? Explaining rumors connecting Rams star WR to Overtime Megan, Sara Saffari",
-      "link": "https://yahoo.com/entertainment/celebrity/articles/puka-nacua-dating-explaining-rumors-160752406.html",
-      "source": "Yahoo",
-      "ts": 1772612580.0,
-      "published_iso": "2026-03-04T08:23:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-04-rams-chiefs-trent-mcduffie-trade-cornerback-88978155007",
-      "title": "Rams and All-Pro CB Trent McDuffie look like a perfect trade match",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/04/rams-chiefs-trent-mcduffie-trade-cornerback/88978155007/",
-      "source": "Rams Wire",
-      "ts": 1772606820.0,
-      "published_iso": "2026-03-04T06:47:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-trent-mcduffie-slot-merchant-doesn-043217579-html",
-      "title": "Trent McDuffie is a slot merchant and doesn’t make sense for Rams",
-      "link": "https://sports.yahoo.com/articles/trent-mcduffie-slot-merchant-doesn-043217579.html",
+      "id": "https-sports-yahoo-com-articles-rams-chiefs-pull-off-blockbuster-170100960-html",
+      "title": "Rams, Chiefs pull off blockbuster trade involving cornerback Trent McDuffie",
+      "link": "https://sports.yahoo.com/articles/rams-chiefs-pull-off-blockbuster-170100960.html",
       "source": "Yahoo Sports",
-      "ts": 1772570640.0,
-      "published_iso": "2026-03-03T20:44:00+00:00"
+      "ts": 1772616420.0,
+      "published_iso": "2026-03-04T09:27:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-agree-trade-chiefs-pro-165758938-html",
+      "title": "Rams agree to trade with Chiefs for All-Pro CB involving 1st round pick",
+      "link": "https://sports.yahoo.com/articles/rams-agree-trade-chiefs-pro-165758938.html",
+      "source": "Yahoo Sports",
+      "ts": 1772616360.0,
+      "published_iso": "2026-03-04T09:26:00+00:00"
+    },
+    {
+      "id": "https-ocregister-com-2026-03-04-rams-trade-for-chiefs-cb-trent-mcduffie-in-blockbuster-deal",
+      "title": "Rams trade for Chiefs CB Trent McDuffie in blockbuster deal",
+      "link": "https://ocregister.com/2026/03/04/rams-trade-for-chiefs-cb-trent-mcduffie-in-blockbuster-deal/",
+      "source": "OC Register",
+      "ts": 1772616060.0,
+      "published_iso": "2026-03-04T09:21:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25402860-trent-mcduffie-reportedly-traded-rams-chiefs-no-29-pick-2026-nfl-draft",
+      "title": "Trent McDuffie Reportedly Traded to Rams from Chiefs for No. 29 Pick in 2026 NFL Draft",
+      "link": "https://bleacherreport.com/articles/25402860-trent-mcduffie-reportedly-traded-rams-chiefs-no-29-pick-2026-nfl-draft",
+      "source": "Bleacher Report",
+      "ts": 1772614740.0,
+      "published_iso": "2026-03-04T08:59:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-04-la-rams-free-agency-cap-space-team-needs-88959800007",
+      "title": "Rams free agency primer: Top needs, cap space, pending FAs and more",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/04/la-rams-free-agency-cap-space-team-needs/88959800007/",
+      "source": "Rams Wire",
+      "ts": 1772614080.0,
+      "published_iso": "2026-03-04T08:48:00+00:00"
     }
   ]
 }
