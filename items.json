@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-04T23:18:25.760841+00:00",
-  "count": 1,
+  "updated_iso": "2026-03-04T23:48:35.586538+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-kansas-city-chiefs-trade-trent-173115716-html",
+      "title": "Kansas City Chiefs trade Trent McDuffie to Los Angeles Rams for four draft picks",
+      "link": "https://sports.yahoo.com/articles/kansas-city-chiefs-trade-trent-173115716.html",
+      "source": "Yahoo Sports",
+      "ts": 1772639220.0,
+      "published_iso": "2026-03-04T15:47:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-tyrann-mathieu-184828806-html",
       "title": "Los Angeles Rams: Tyrann Mathieu Gives His Thoughts About the Trent McDuffie Trade",
@@ -9,6 +17,14 @@
       "source": "Yahoo Sports",
       "ts": 1772633340.0,
       "published_iso": "2026-03-04T14:09:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-04-la-rams-free-agency-cap-space-team-needs-88959800007",
+      "title": "Rams free agency primer: Top needs, cap space, pending FAs and more",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/04/la-rams-free-agency-cap-space-team-needs/88959800007/",
+      "source": "Rams Wire",
+      "ts": 1772614080.0,
+      "published_iso": "2026-03-04T08:48:00+00:00"
     }
   ]
 }
