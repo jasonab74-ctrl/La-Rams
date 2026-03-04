@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-04T22:18:15.149392+00:00",
-  "count": 4,
+  "updated_iso": "2026-03-04T22:53:35.655441+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-tyrann-mathieu-184828806-html",
@@ -11,28 +11,12 @@
       "published_iso": "2026-03-04T14:09:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-nfl-trade-grades-chiefs-ship-174600513-html",
-      "title": "NFL trade grades: Chiefs ship Trent McDuffie to Rams in surprise blockbuster",
-      "link": "https://sports.yahoo.com/articles/nfl-trade-grades-chiefs-ship-174600513.html",
-      "source": "Yahoo Sports",
-      "ts": 1772632500.0,
-      "published_iso": "2026-03-04T13:55:00+00:00"
-    },
-    {
       "id": "https-yahoo-com-news-videos-chiefs-trade-trent-mcduffie-rams-183715151-html",
       "title": "Chiefs trade Trent McDuffie to the Rams, Should the Bears trade for Maxx Crosby? | The Herd",
       "link": "https://yahoo.com/news/videos/chiefs-trade-trent-mcduffie-rams-183715151.html",
       "source": "Yahoo",
       "ts": 1772630820.0,
       "published_iso": "2026-03-04T13:27:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-04-la-rams-free-agency-cap-space-team-needs-88959800007",
-      "title": "Rams free agency primer: Top needs, cap space, pending FAs and more",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/04/la-rams-free-agency-cap-space-team-needs/88959800007/",
-      "source": "Rams Wire",
-      "ts": 1772614080.0,
-      "published_iso": "2026-03-04T08:48:00+00:00"
     }
   ]
 }
