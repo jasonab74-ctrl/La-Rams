@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-04T14:29:26.139353+00:00",
+  "updated_iso": "2026-03-04T15:04:14.043193+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-04-rams-chiefs-trent-mcduffie-trade-cornerback-88978155007",
+      "title": "Rams and All-Pro CB Trent McDuffie look like a perfect trade match",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/04/rams-chiefs-trent-mcduffie-trade-cornerback/88978155007/",
+      "source": "Rams Wire",
+      "ts": 1772606820.0,
+      "published_iso": "2026-03-04T06:47:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-trent-mcduffie-slot-merchant-doesn-043217579-html",
       "title": "Trent McDuffie is a slot merchant and doesn’t make sense for Rams",
@@ -17,14 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1772549580.0,
       "published_iso": "2026-03-03T14:53:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-03-rams-matthew-stafford-contract-raise-sean-mcvay-88961595",
-      "title": "Rams, Matthew Stafford have had 'great dialogue' about QB's contract situation",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/03/rams-matthew-stafford-contract-raise-sean-mcvay/88961595007/",
-      "source": "Rams Wire",
-      "ts": 1772531460.0,
-      "published_iso": "2026-03-03T09:51:00+00:00"
     }
   ]
 }
