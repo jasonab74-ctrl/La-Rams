@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-04T00:57:45.124807+00:00",
+  "updated_iso": "2026-03-04T03:22:56.024687+00:00",
   "count": 4,
   "items": [
+    {
+      "id": "https-nfl-com-videos-wyche-rams-biggest-need-this-offseason-is-a-cb-the-insiders",
+      "title": "Wyche: Rams' biggest need this offseason is a CB | 'The Insiders'",
+      "link": "https://nfl.com/videos/wyche-rams-biggest-need-this-offseason-is-a-cb-the-insiders",
+      "source": "NFL.com",
+      "ts": 1772558160.0,
+      "published_iso": "2026-03-03T17:16:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-sean-mcvay-issues-blunt-message-210012723-html",
       "title": "Sean McVay Issues Blunt Message on Ruthless Decision Against Rams Coach",
@@ -25,14 +33,6 @@
       "source": "Bleacher Report",
       "ts": 1772536440.0,
       "published_iso": "2026-03-03T11:14:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-03-rams-matthew-stafford-contract-raise-sean-mcvay-88961595",
-      "title": "Rams, Matthew Stafford have had 'great dialogue' about QB's contract situation",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/03/rams-matthew-stafford-contract-raise-sean-mcvay/88961595007/",
-      "source": "Rams Wire",
-      "ts": 1772531460.0,
-      "published_iso": "2026-03-03T09:51:00+00:00"
     }
   ]
 }
