@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-04T10:02:27.171716+00:00",
-  "count": 3,
+  "updated_iso": "2026-03-04T10:59:42.435099+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-trent-mcduffie-slot-merchant-doesn-043217579-html",
@@ -11,12 +11,12 @@
       "published_iso": "2026-03-03T20:44:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-sean-mcvay-issues-blunt-message-210012723-html",
-      "title": "Sean McVay Issues Blunt Message on Ruthless Decision Against Rams Coach",
-      "link": "https://sports.yahoo.com/articles/sean-mcvay-issues-blunt-message-210012723.html",
+      "id": "https-sports-yahoo-com-articles-rams-gm-revealed-potential-trade-223000041-html",
+      "title": "Rams GM revealed as potential trade partner for Chiefs’ Trent McDuffie",
+      "link": "https://sports.yahoo.com/articles/rams-gm-revealed-potential-trade-223000041.html",
       "source": "Yahoo Sports",
-      "ts": 1772552640.0,
-      "published_iso": "2026-03-03T15:44:00+00:00"
+      "ts": 1772549580.0,
+      "published_iso": "2026-03-03T14:53:00+00:00"
     },
     {
       "id": "https-bleacherreport-com-articles-25402547-matthew-stafford-rams-have-had-great-dialogue-amid-contract-rumors-sean-mcvay",
@@ -25,6 +25,14 @@
       "source": "Bleacher Report",
       "ts": 1772536440.0,
       "published_iso": "2026-03-03T11:14:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-03-rams-matthew-stafford-contract-raise-sean-mcvay-88961595",
+      "title": "Rams, Matthew Stafford have had 'great dialogue' about QB's contract situation",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/03/rams-matthew-stafford-contract-raise-sean-mcvay/88961595007/",
+      "source": "Rams Wire",
+      "ts": 1772531460.0,
+      "published_iso": "2026-03-03T09:51:00+00:00"
     }
   ]
 }
