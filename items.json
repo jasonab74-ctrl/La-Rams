@@ -1,14 +1,38 @@
 {
-  "updated_iso": "2026-03-04T18:02:45.332365+00:00",
+  "updated_iso": "2026-03-04T19:09:17.683843+00:00",
   "count": 5,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-trent-mcduffie-trade-grades-rams-173231838-html",
-      "title": "Trent McDuffie trade grades for Rams and Chiefs’ blockbuster deal",
-      "link": "https://sports.yahoo.com/articles/trent-mcduffie-trade-grades-rams-173231838.html",
+      "id": "https-sports-yahoo-com-articles-won-trent-mcduffie-trade-grading-184435240-html",
+      "title": "Who won the Trent McDuffie trade? Grading blockbuster Rams-Chiefs deal",
+      "link": "https://sports.yahoo.com/articles/won-trent-mcduffie-trade-grading-184435240.html",
       "source": "Yahoo Sports",
-      "ts": 1772617440.0,
-      "published_iso": "2026-03-04T09:44:00+00:00"
+      "ts": 1772622120.0,
+      "published_iso": "2026-03-04T11:02:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-5-things-know-los-angeles-175450632-html",
+      "title": "5 things to know about new Los Angeles Ram DB Trent McDuffie",
+      "link": "https://sports.yahoo.com/articles/5-things-know-los-angeles-175450632.html",
+      "source": "Yahoo Sports",
+      "ts": 1772619600.0,
+      "published_iso": "2026-03-04T10:20:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-04-trent-mcduffie-trade-rams-chiefs-analysis-88982374007",
+      "title": "Instant analysis of Rams' big trade for Chiefs CB Trent McDuffie",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/04/trent-mcduffie-trade-rams-chiefs-analysis/88982374007/",
+      "source": "Rams Wire",
+      "ts": 1772619060.0,
+      "published_iso": "2026-03-04T10:11:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25402877-f-them-picks-nfl-insiders-fans-react-blockbuster-trent-mcduffie-trade-between",
+      "title": "'F Them Picks,' NFL Insiders, Fans React to Blockbuster Trent McDuffie Trade Between Rams, Chiefs",
+      "link": "https://bleacherreport.com/articles/25402877-f-them-picks-nfl-insiders-fans-react-blockbuster-trent-mcduffie-trade-between-rams-chiefs",
+      "source": "Bleacher Report",
+      "ts": 1772616900.0,
+      "published_iso": "2026-03-04T09:35:00+00:00"
     },
     {
       "id": "https-ocregister-com-2026-03-04-rams-trade-for-chiefs-cb-trent-mcduffie-in-blockbuster-deal",
@@ -17,30 +41,6 @@
       "source": "OC Register",
       "ts": 1772616060.0,
       "published_iso": "2026-03-04T09:21:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25402860-trent-mcduffie-reportedly-traded-rams-chiefs-no-29-pick-2026-nfl-draft",
-      "title": "Trent McDuffie Reportedly Traded to Rams from Chiefs for No. 29 Pick in 2026 NFL Draft",
-      "link": "https://bleacherreport.com/articles/25402860-trent-mcduffie-reportedly-traded-rams-chiefs-no-29-pick-2026-nfl-draft",
-      "source": "Bleacher Report",
-      "ts": 1772614740.0,
-      "published_iso": "2026-03-04T08:59:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-04-la-rams-free-agency-cap-space-team-needs-88959800007",
-      "title": "Rams free agency primer: Top needs, cap space, pending FAs and more",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/04/la-rams-free-agency-cap-space-team-needs/88959800007/",
-      "source": "Rams Wire",
-      "ts": 1772614080.0,
-      "published_iso": "2026-03-04T08:48:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-news-chiefs-expected-to-trade-cb-trent-mcduffie-to-rams-for-multiple-draft-picks",
-      "title": "Chiefs expected to trade CB Trent McDuffie to Rams for multiple draft picks, including 2026 first-rounder",
-      "link": "https://nfl.com/news/chiefs-expected-to-trade-cb-trent-mcduffie-to-rams-for-multiple-draft-picks",
-      "source": "NFL.com",
-      "ts": 1772611260.0,
-      "published_iso": "2026-03-04T08:01:00+00:00"
     }
   ]
 }
