@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-03-04T21:53:27.611672+00:00",
+  "updated_iso": "2026-03-04T22:18:15.149392+00:00",
   "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-tyrann-mathieu-184828806-html",
+      "title": "Los Angeles Rams: Tyrann Mathieu Gives His Thoughts About the Trent McDuffie Trade",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-tyrann-mathieu-184828806.html",
+      "source": "Yahoo Sports",
+      "ts": 1772633340.0,
+      "published_iso": "2026-03-04T14:09:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-nfl-trade-grades-chiefs-ship-174600513-html",
+      "title": "NFL trade grades: Chiefs ship Trent McDuffie to Rams in surprise blockbuster",
+      "link": "https://sports.yahoo.com/articles/nfl-trade-grades-chiefs-ship-174600513.html",
+      "source": "Yahoo Sports",
+      "ts": 1772632500.0,
+      "published_iso": "2026-03-04T13:55:00+00:00"
+    },
     {
       "id": "https-yahoo-com-news-videos-chiefs-trade-trent-mcduffie-rams-183715151-html",
       "title": "Chiefs trade Trent McDuffie to the Rams, Should the Bears trade for Maxx Crosby? | The Herd",
@@ -9,22 +25,6 @@
       "source": "Yahoo",
       "ts": 1772630820.0,
       "published_iso": "2026-03-04T13:27:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-nfc-west-watch-chiefs-trade-184333619-html",
-      "title": "NFC West Watch: Chiefs trade CB Trent McDuffie to Los Angeles Rams",
-      "link": "https://sports.yahoo.com/articles/nfc-west-watch-chiefs-trade-184333619.html",
-      "source": "Yahoo Sports",
-      "ts": 1772622240.0,
-      "published_iso": "2026-03-04T11:04:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-5-things-know-los-angeles-175450632-html",
-      "title": "5 things to know about new Los Angeles Ram DB Trent McDuffie",
-      "link": "https://sports.yahoo.com/articles/5-things-know-los-angeles-175450632.html",
-      "source": "Yahoo Sports",
-      "ts": 1772619600.0,
-      "published_iso": "2026-03-04T10:20:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-04-la-rams-free-agency-cap-space-team-needs-88959800007",
