@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-05T17:57:56.336030+00:00",
+  "updated_iso": "2026-03-05T19:03:56.592746+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-nfl-ian-rapoport-links-kyler-181348244-html",
+      "title": "NFL’s Ian Rapoport links Kyler Murray to Los Angeles Rams after release from Cardinals",
+      "link": "https://sports.yahoo.com/articles/nfl-ian-rapoport-links-kyler-181348244.html",
+      "source": "Yahoo Sports",
+      "ts": 1772706900.0,
+      "published_iso": "2026-03-05T10:35:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-expected-120-million-plus-173005190-html",
       "title": "Rams expected to make $120 million-plus Trent McDuffie contract decision after Chiefs trade",
@@ -17,14 +25,6 @@
       "source": "Rams Wire",
       "ts": 1772692140.0,
       "published_iso": "2026-03-05T06:29:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-tyrann-mathieu-184828806-html",
-      "title": "Los Angeles Rams: Tyrann Mathieu Gives His Thoughts About the Trent McDuffie Trade",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-tyrann-mathieu-184828806.html",
-      "source": "Yahoo Sports",
-      "ts": 1772633340.0,
-      "published_iso": "2026-03-04T14:09:00+00:00"
     }
   ]
 }
