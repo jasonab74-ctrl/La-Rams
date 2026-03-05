@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-05T15:37:40.585903+00:00",
-  "count": 2,
+  "updated_iso": "2026-03-05T17:57:56.336030+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-expected-120-million-plus-173005190-html",
+      "title": "Rams expected to make $120 million-plus Trent McDuffie contract decision after Chiefs trade",
+      "link": "https://sports.yahoo.com/articles/rams-expected-120-million-plus-173005190.html",
+      "source": "Yahoo Sports",
+      "ts": 1772704020.0,
+      "published_iso": "2026-03-05T09:47:00+00:00"
+    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-05-nfl-mock-draft-rams-trent-mcduffie-chiefs-88996620007",
       "title": "Rams 3-round mock draft: How Trent McDuffie trade changes things for LA",
