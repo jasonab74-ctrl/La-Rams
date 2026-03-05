@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-03-05T01:00:06.375992+00:00",
+  "updated_iso": "2026-03-05T03:28:46.160320+00:00",
   "count": 3,
   "items": [
     {
-      "id": "https-nfl-com-videos-the-insiders-react-to-chiefs-trade-of-cb-trent-mcduffie-to-rams-for-29th-pick",
-      "title": "'The Insiders' react to Chiefs trade of CB Trent McDuffie to Rams for 29th pick",
-      "link": "https://nfl.com/videos/the-insiders-react-to-chiefs-trade-of-cb-trent-mcduffie-to-rams-for-29th-pick",
-      "source": "NFL.com",
-      "ts": 1772643120.0,
-      "published_iso": "2026-03-04T16:52:00+00:00"
+      "id": "https-ocregister-com-2026-03-04-rams-trade-for-chiefs-cb-trent-mcduffie-in-blockbuster-deal",
+      "title": "Rams trade for Chiefs CB Trent McDuffie in blockbuster deal",
+      "link": "https://ocregister.com/2026/03/04/rams-trade-for-chiefs-cb-trent-mcduffie-in-blockbuster-deal/",
+      "source": "OC Register",
+      "ts": 1772641020.0,
+      "published_iso": "2026-03-04T16:17:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-f-them-picks-strategy-rings-true-trent-mcduffie-trade",
+      "title": "Rams ‘F--- Them Picks’ Strategy Still Rings (Somewhat) True After Trent McDuffie Trade",
+      "link": "https://si.com/nfl/rams-f-them-picks-strategy-rings-true-trent-mcduffie-trade",
+      "source": "Sports Illustrated",
+      "ts": 1772640180.0,
+      "published_iso": "2026-03-04T16:03:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-tyrann-mathieu-184828806-html",
@@ -17,14 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1772633340.0,
       "published_iso": "2026-03-04T14:09:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-04-la-rams-free-agency-cap-space-team-needs-88959800007",
-      "title": "Rams free agency primer: Top needs, cap space, pending FAs and more",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/04/la-rams-free-agency-cap-space-team-needs/88959800007/",
-      "source": "Rams Wire",
-      "ts": 1772614080.0,
-      "published_iso": "2026-03-04T08:48:00+00:00"
     }
   ]
 }
