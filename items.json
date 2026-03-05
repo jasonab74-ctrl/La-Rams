@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-03-05T22:18:12.313362+00:00",
-  "count": 2,
+  "updated_iso": "2026-03-05T23:31:42.993832+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-accomplish-offseason-191235633-html",
-      "title": "What do the Rams need to accomplish this offseason?",
-      "link": "https://sports.yahoo.com/articles/rams-accomplish-offseason-191235633.html",
+      "id": "https-sports-yahoo-com-articles-nfl-ian-rapoport-links-kyler-181348244-html",
+      "title": "NFL’s Ian Rapoport links Kyler Murray to Los Angeles Rams after release from Cardinals",
+      "link": "https://sports.yahoo.com/articles/nfl-ian-rapoport-links-kyler-181348244.html",
       "source": "Yahoo Sports",
-      "ts": 1772713620.0,
-      "published_iso": "2026-03-05T12:27:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-breaking-down-rams-past-10-173121199-html",
-      "title": "Breaking Down the Rams’ Past 10 First-Round Draft Picks After Sending the 29th Pick to the Chiefs",
-      "link": "https://sports.yahoo.com/articles/breaking-down-rams-past-10-173121199.html",
-      "source": "Yahoo Sports",
-      "ts": 1772712600.0,
-      "published_iso": "2026-03-05T12:10:00+00:00"
+      "ts": 1772709180.0,
+      "published_iso": "2026-03-05T11:13:00+00:00"
     }
   ]
 }
