@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-05T23:31:42.993832+00:00",
-  "count": 1,
+  "updated_iso": "2026-03-06T01:04:26.394674+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-former-rams-wide-receiver-announces-210654900-html",
+      "title": "Former Rams wide receiver announces immediate retirement from NFL at 27",
+      "link": "https://sports.yahoo.com/articles/former-rams-wide-receiver-announces-210654900.html",
+      "source": "Yahoo Sports",
+      "ts": 1772717100.0,
+      "published_iso": "2026-03-05T13:25:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-nfl-ian-rapoport-links-kyler-181348244-html",
       "title": "NFL’s Ian Rapoport links Kyler Murray to Los Angeles Rams after release from Cardinals",
