@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-03-06T17:56:11.411662+00:00",
-  "count": 1,
+  "updated_iso": "2026-03-06T18:30:25.252956+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-kam-curl-returning-los-angeles-172735286-html",
+      "title": "S Kam Curl is returning to the Los Angeles Rams with a 3-year, $36 million deal, AP source says",
+      "link": "https://sports.yahoo.com/articles/kam-curl-returning-los-angeles-172735286.html",
+      "source": "Yahoo Sports",
+      "ts": 1772791620.0,
+      "published_iso": "2026-03-06T10:07:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-agree-terms-safety-kam-133734367-html",
+      "title": "Rams agree to terms with safety Kam Curl to keep him in Los Angeles",
+      "link": "https://sports.yahoo.com/articles/rams-agree-terms-safety-kam-133734367.html",
+      "source": "Yahoo Sports",
+      "ts": 1772791620.0,
+      "published_iso": "2026-03-06T10:07:00+00:00"
+    },
     {
       "id": "https-nfl-com-videos-rapoport-rams-kam-curl-agree-to-three-year-36m-deal-ahead-of-free-agency-gmfb",
       "title": "Rapoport: Rams, Kam Curl agree to three-year, $36M deal ahead of free agency | 'GMFB'",
