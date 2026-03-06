@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-06T23:16:26.332591+00:00",
-  "count": 3,
+  "updated_iso": "2026-03-06T23:45:48.709071+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-stefon-diggs-expected-join-los-182507433-html",
@@ -11,20 +11,12 @@
       "published_iso": "2026-03-06T14:46:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-scheme-shift-could-coming-rams-201851087-html",
-      "title": "A scheme shift could be coming for the Rams after adding Trent McDuffie",
-      "link": "https://sports.yahoo.com/articles/scheme-shift-could-coming-rams-201851087.html",
+      "id": "https-sports-yahoo-com-articles-kam-curl-returning-los-angeles-172735286-html",
+      "title": "S Kam Curl is returning to the Los Angeles Rams with a 3-year, $36 million deal, AP source says",
+      "link": "https://sports.yahoo.com/articles/kam-curl-returning-los-angeles-172735286.html",
       "source": "Yahoo Sports",
-      "ts": 1772800980.0,
-      "published_iso": "2026-03-06T12:43:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-06-rams-free-agency-rumors-news-tracker-2026-89020524007",
-      "title": "Rams 2026 free agency tracker: Latest news, rumors and signings",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/06/rams-free-agency-rumors-news-tracker-2026/89020524007/",
-      "source": "Rams Wire",
-      "ts": 1772797080.0,
-      "published_iso": "2026-03-06T11:38:00+00:00"
+      "ts": 1772791620.0,
+      "published_iso": "2026-03-06T10:07:00+00:00"
     }
   ]
 }
