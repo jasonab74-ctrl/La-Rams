@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-06T07:09:59.321198+00:00",
-  "count": 1,
+  "updated_iso": "2026-03-06T07:54:47.808699+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-nfl-ian-rapoport-links-kyler-181348244-html",
@@ -9,6 +9,14 @@
       "source": "Yahoo Sports",
       "ts": 1772744760.0,
       "published_iso": "2026-03-05T21:06:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-sign-key-pass-catcher-014558929-html",
+      "title": "Rams sign key pass-catcher to $8 million contract extension",
+      "link": "https://sports.yahoo.com/articles/rams-sign-key-pass-catcher-014558929.html",
+      "source": "Yahoo Sports",
+      "ts": 1772738520.0,
+      "published_iso": "2026-03-05T19:22:00+00:00"
     }
   ]
 }
