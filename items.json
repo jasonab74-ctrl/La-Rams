@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-07T05:58:42.771717+00:00",
-  "count": 2,
+  "updated_iso": "2026-03-07T06:36:00.476907+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-kam-curl-returning-los-angeles-172735286-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1772791620.0,
       "published_iso": "2026-03-06T10:07:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1597287420.0,
-      "published_iso": "2020-08-13T02:57:00+00:00"
     }
   ]
 }
