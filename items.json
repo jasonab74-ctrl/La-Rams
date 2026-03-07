@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-03-07T13:11:10.551483+00:00",
-  "count": 2,
+  "updated_iso": "2026-03-07T13:51:53.647579+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-kam-curl-returning-los-angeles-172735286-html",
-      "title": "S Kam Curl is returning to the Los Angeles Rams with a 3-year, $36 million deal, AP source says",
-      "link": "https://sports.yahoo.com/articles/kam-curl-returning-los-angeles-172735286.html",
+      "id": "https-sports-yahoo-com-articles-cried-every-day-sobbed-cooper-103053112-html",
+      "title": "“I Cried Every Day, Sobbed”: Cooper Kupp’s Wife Anna Reveals Struggles After Rams Release & Seahawks Move",
+      "link": "https://sports.yahoo.com/articles/cried-every-day-sobbed-cooper-103053112.html",
       "source": "Yahoo Sports",
-      "ts": 1772791620.0,
-      "published_iso": "2026-03-06T10:07:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1597287420.0,
-      "published_iso": "2020-08-13T02:57:00+00:00"
+      "ts": 1772860500.0,
+      "published_iso": "2026-03-07T05:15:00+00:00"
     }
   ]
 }
