@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-07T15:41:20.642026+00:00",
-  "count": 1,
+  "updated_iso": "2026-03-07T16:13:17.510946+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-could-reach-feat-2026-150000460-html",
@@ -9,6 +9,22 @@
       "source": "Yahoo Sports",
       "ts": 1772867460.0,
       "published_iso": "2026-03-07T07:11:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-07-rams-trent-mcduffie-highlights-video-chiefs-89035889007",
+      "title": "Watch highlights of new Rams CB Trent McDuffie",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/07/rams-trent-mcduffie-highlights-video-chiefs/89035889007/",
+      "source": "Rams Wire",
+      "ts": 1772862960.0,
+      "published_iso": "2026-03-07T05:56:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-cried-every-day-sobbed-cooper-103053112-html",
+      "title": "“I Cried Every Day, Sobbed”: Cooper Kupp’s Wife Anna Reveals Struggles After Rams Release & Seahawks Move",
+      "link": "https://sports.yahoo.com/articles/cried-every-day-sobbed-cooper-103053112.html",
+      "source": "Yahoo Sports",
+      "ts": 1772860500.0,
+      "published_iso": "2026-03-07T05:15:00+00:00"
     }
   ]
 }
