@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-03-07T17:42:05.206509+00:00",
+  "updated_iso": "2026-03-07T18:16:17.560153+00:00",
   "count": 3,
   "items": [
     {
-      "id": "https-espn-com-nfl-story-id-48133083-rams-darious-williams-retires-cb-overhaul-continues",
-      "title": "Rams' Darious Williams retires as CB overhaul continues",
-      "link": "https://espn.com/nfl/story/_/id/48133083/rams-darious-williams-retires-cb-overhaul-continues",
-      "source": "ESPN",
-      "ts": 1772875140.0,
-      "published_iso": "2026-03-07T09:19:00+00:00"
+      "id": "https-sports-yahoo-com-articles-rams-closing-stetson-bennett-decision-173326293-html",
+      "title": "Rams closing in on Stetson Bennett decision",
+      "link": "https://sports.yahoo.com/articles/rams-closing-stetson-bennett-decision-173326293.html",
+      "source": "Yahoo Sports",
+      "ts": 1772877480.0,
+      "published_iso": "2026-03-07T09:58:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-super-bowl-174207905-html",
+      "title": "Los Angeles Rams Super Bowl champion cornerback informs team of future",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-super-bowl-174207905.html",
+      "source": "Yahoo Sports",
+      "ts": 1772876880.0,
+      "published_iso": "2026-03-07T09:48:00+00:00"
     },
     {
       "id": "https-therams-com-news-rams-place-cornerback-darious-williams-on-reserve-retired-list",
@@ -17,14 +25,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1772872740.0,
       "published_iso": "2026-03-07T08:39:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-could-reach-feat-2026-150000460-html",
-      "title": "Rams could reach feat in 2026 not even GSOT attained",
-      "link": "https://sports.yahoo.com/articles/rams-could-reach-feat-2026-150000460.html",
-      "source": "Yahoo Sports",
-      "ts": 1772867460.0,
-      "published_iso": "2026-03-07T07:11:00+00:00"
     }
   ]
 }
