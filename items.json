@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-03-07T17:11:17.700787+00:00",
-  "count": 5,
+  "updated_iso": "2026-03-07T17:42:05.206509+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-biggest-need-hasnt-changed-trent-mcduffie-chiefs-trade-0b50ce27",
-      "title": "Rams' biggest need hasn't changed even after Trent McDuffie Chiefs' trade",
-      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-biggest-need-hasnt-changed-trent-mcduffie-chiefs-trade/0b50ce27dd35e33e762a2db6",
-      "source": "Sporting News",
-      "ts": 1772872920.0,
-      "published_iso": "2026-03-07T08:42:00+00:00"
+      "id": "https-espn-com-nfl-story-id-48133083-rams-darious-williams-retires-cb-overhaul-continues",
+      "title": "Rams' Darious Williams retires as CB overhaul continues",
+      "link": "https://espn.com/nfl/story/_/id/48133083/rams-darious-williams-retires-cb-overhaul-continues",
+      "source": "ESPN",
+      "ts": 1772875140.0,
+      "published_iso": "2026-03-07T09:19:00+00:00"
     },
     {
       "id": "https-therams-com-news-rams-place-cornerback-darious-williams-on-reserve-retired-list",
@@ -25,22 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1772867460.0,
       "published_iso": "2026-03-07T07:11:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-cried-every-day-sobbed-cooper-103053112-html",
-      "title": "“I Cried Every Day, Sobbed”: Cooper Kupp’s Wife Anna Reveals Struggles After Rams Release & Seahawks Move",
-      "link": "https://sports.yahoo.com/articles/cried-every-day-sobbed-cooper-103053112.html",
-      "source": "Yahoo Sports",
-      "ts": 1772860500.0,
-      "published_iso": "2026-03-07T05:15:00+00:00"
-    },
-    {
-      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-expected-cut-ties-10-million-speedy-wr-six-catch-season-a758cfb",
-      "title": "Rams expected to cut ties with $10 million speedy WR after six-catch season",
-      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-expected-cut-ties-10-million-speedy-wr-six-catch-season/a758cfbb5093b392f6a08c4a",
-      "source": "Sporting News",
-      "ts": 1772812800.0,
-      "published_iso": "2026-03-06T16:00:00+00:00"
     }
   ]
 }
