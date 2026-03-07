@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-03-07T11:09:41.396055+00:00",
-  "count": 3,
+  "updated_iso": "2026-03-07T11:39:02.535143+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-star-puka-nacua-rams-082401721-html",
-      "title": "Rams star Puka Nacua in Vegas for UFC 326 action",
-      "link": "https://sports.yahoo.com/articles/rams-star-puka-nacua-rams-082401721.html",
+      "id": "https-sports-yahoo-com-articles-kam-curl-returning-los-angeles-172735286-html",
+      "title": "S Kam Curl is returning to the Los Angeles Rams with a 3-year, $36 million deal, AP source says",
+      "link": "https://sports.yahoo.com/articles/kam-curl-returning-los-angeles-172735286.html",
       "source": "Yahoo Sports",
-      "ts": 1772852340.0,
-      "published_iso": "2026-03-07T02:59:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-09-2026-nfl-mock-draft-la-rams-full-7-rounds-88527188007",
-      "title": "Rams 2026 mock draft: Full 7-round projections for Los Angeles",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/09/2026-nfl-mock-draft-la-rams-full-7-rounds/88527188007/",
-      "source": "Rams Wire",
-      "ts": 1770612180.0,
-      "published_iso": "2026-02-09T04:43:00+00:00"
+      "ts": 1772791620.0,
+      "published_iso": "2026-03-06T10:07:00+00:00"
     },
     {
       "id": "https-foxsports-com-nfl-los-angeles-rams-team",
