@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-07T16:13:17.510946+00:00",
-  "count": 3,
+  "updated_iso": "2026-03-07T16:47:01.997794+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-therams-com-news-rams-place-cornerback-darious-williams-on-reserve-retired-list",
+      "title": "Rams place cornerback Darious Williams on Reserve/Retired List",
+      "link": "https://therams.com/news/rams-place-cornerback-darious-williams-on-reserve-retired-list",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1772872740.0,
+      "published_iso": "2026-03-07T08:39:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-could-reach-feat-2026-150000460-html",
       "title": "Rams could reach feat in 2026 not even GSOT attained",
@@ -11,20 +19,20 @@
       "published_iso": "2026-03-07T07:11:00+00:00"
     },
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-07-rams-trent-mcduffie-highlights-video-chiefs-89035889007",
-      "title": "Watch highlights of new Rams CB Trent McDuffie",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/07/rams-trent-mcduffie-highlights-video-chiefs/89035889007/",
-      "source": "Rams Wire",
-      "ts": 1772862960.0,
-      "published_iso": "2026-03-07T05:56:00+00:00"
-    },
-    {
       "id": "https-sports-yahoo-com-articles-cried-every-day-sobbed-cooper-103053112-html",
       "title": "“I Cried Every Day, Sobbed”: Cooper Kupp’s Wife Anna Reveals Struggles After Rams Release & Seahawks Move",
       "link": "https://sports.yahoo.com/articles/cried-every-day-sobbed-cooper-103053112.html",
       "source": "Yahoo Sports",
       "ts": 1772860500.0,
       "published_iso": "2026-03-07T05:15:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1597287420.0,
+      "published_iso": "2020-08-13T02:57:00+00:00"
     }
   ]
 }
