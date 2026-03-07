@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-07T21:10:03.157446+00:00",
-  "count": 3,
+  "updated_iso": "2026-03-07T21:39:54.669921+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-apnews-com-article-rams-los-angeles-darious-williams-retiro-d0374f4b2460d6b2b15c2166f4f7b28d",
@@ -17,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1772877300.0,
       "published_iso": "2026-03-07T09:55:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-could-reach-feat-2026-150000460-html",
-      "title": "Rams could reach feat in 2026 not even GSOT attained",
-      "link": "https://sports.yahoo.com/articles/rams-could-reach-feat-2026-150000460.html",
-      "source": "Yahoo Sports",
-      "ts": 1772867460.0,
-      "published_iso": "2026-03-07T07:11:00+00:00"
     }
   ]
 }
