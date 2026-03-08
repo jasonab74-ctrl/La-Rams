@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-08T23:11:56.879091+00:00",
-  "count": 6,
+  "updated_iso": "2026-03-08T23:42:21.422841+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-08-rams-trent-mcduffie-contract-news-update-89057900007",
@@ -19,14 +19,6 @@
       "published_iso": "2026-03-08T15:20:00+00:00"
     },
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-08-la-rams-free-agency-draft-offseason-moves-89054676007",
-      "title": "Rams have set themselves up perfectly for free agency and the draft",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/08/la-rams-free-agency-draft-offseason-moves/89054676007/",
-      "source": "Rams Wire",
-      "ts": 1772968680.0,
-      "published_iso": "2026-03-08T11:18:00+00:00"
-    },
-    {
       "id": "https-apnews-com-article-rams-los-angeles-darious-williams-retiro-d0374f4b2460d6b2b15c2166f4f7b28d",
       "title": "Darious Williams se retira tras 8 años de carrera y un anillo de Super Bowl con los Rams",
       "link": "https://apnews.com/article/rams-los-angeles-darious-williams-retiro-d0374f4b2460d6b2b15c2166f4f7b28d",
@@ -41,14 +33,6 @@
       "source": "Yahoo Sports",
       "ts": 1772876880.0,
       "published_iso": "2026-03-07T09:48:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-place-cornerback-darious-williams-on-reserve-retired-list",
-      "title": "Rams place cornerback Darious Williams on Reserve/Retired List",
-      "link": "https://therams.com/news/rams-place-cornerback-darious-williams-on-reserve-retired-list",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1772872740.0,
-      "published_iso": "2026-03-07T08:39:00+00:00"
     }
   ]
 }
