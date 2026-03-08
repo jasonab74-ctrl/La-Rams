@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-08T10:12:58.605555+00:00",
-  "count": 2,
+  "updated_iso": "2026-03-08T10:46:51.320615+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-07-rams-roster-needs-positions-ranking-free-agency-89035957",
@@ -9,14 +9,6 @@
       "source": "Rams Wire",
       "ts": 1772865000.0,
       "published_iso": "2026-03-07T06:30:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-kam-curl-returning-los-angeles-172735286-html",
-      "title": "S Kam Curl is returning to the Los Angeles Rams with a 3-year, $36 million deal, AP source says",
-      "link": "https://sports.yahoo.com/articles/kam-curl-returning-los-angeles-172735286.html",
-      "source": "Yahoo Sports",
-      "ts": 1772791620.0,
-      "published_iso": "2026-03-06T10:07:00+00:00"
     }
   ]
 }
