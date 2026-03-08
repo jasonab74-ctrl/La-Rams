@@ -1,14 +1,38 @@
 {
-  "updated_iso": "2026-03-08T22:11:04.961368+00:00",
-  "count": 3,
+  "updated_iso": "2026-03-08T22:45:43.124969+00:00",
+  "count": 6,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-expected-big-contract-decisions-141700953-html",
-      "title": "Rams expected to make big contract decisions on Puka Nacua, other 2023 draft picks",
-      "link": "https://sports.yahoo.com/articles/rams-expected-big-contract-decisions-141700953.html",
+      "id": "https-sports-yahoo-com-articles-rams-trent-mcduffie-progressing-toward-223308178-html",
+      "title": "Rams, Trent McDuffie progressing toward deal worth over $30M per year",
+      "link": "https://sports.yahoo.com/articles/rams-trent-mcduffie-progressing-toward-223308178.html",
       "source": "Yahoo Sports",
-      "ts": 1772955240.0,
-      "published_iso": "2026-03-08T07:34:00+00:00"
+      "ts": 1772984520.0,
+      "published_iso": "2026-03-08T15:42:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25404374-trent-mcduffie-rumors-reveal-rams-contract-talks-possible-record-setting-deal",
+      "title": "Trent McDuffie Rumors Reveal Rams Contract Talks for Possible Record-Setting Deal After Chiefs Trade",
+      "link": "https://bleacherreport.com/articles/25404374-trent-mcduffie-rumors-reveal-rams-contract-talks-possible-record-setting-deal-after-chiefs-trade",
+      "source": "Bleacher Report",
+      "ts": 1772983200.0,
+      "published_iso": "2026-03-08T15:20:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-news-rams-trent-mcduffie-working-toward-extension-that-would-make-him-highest-paid-cornerback",
+      "title": "Rams, Trent McDuffie working toward extension that would make him highest-paid cornerback",
+      "link": "https://nfl.com/news/rams-trent-mcduffie-working-toward-extension-that-would-make-him-highest-paid-cornerback",
+      "source": "NFL.com",
+      "ts": 1772982780.0,
+      "published_iso": "2026-03-08T15:13:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-08-la-rams-free-agency-draft-offseason-moves-89054676007",
+      "title": "Rams have set themselves up perfectly for free agency and the draft",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/08/la-rams-free-agency-draft-offseason-moves/89054676007/",
+      "source": "Rams Wire",
+      "ts": 1772968680.0,
+      "published_iso": "2026-03-08T11:18:00+00:00"
     },
     {
       "id": "https-apnews-com-article-rams-los-angeles-darious-williams-retiro-d0374f4b2460d6b2b15c2166f4f7b28d",
