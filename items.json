@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-08T14:13:47.134703+00:00",
-  "count": 3,
+  "updated_iso": "2026-03-08T14:46:42.508690+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-expected-big-contract-decisions-141700953-html",
+      "title": "Rams expected to make big contract decisions on Puka Nacua, other 2023 draft picks",
+      "link": "https://sports.yahoo.com/articles/rams-expected-big-contract-decisions-141700953.html",
+      "source": "Yahoo Sports",
+      "ts": 1772955240.0,
+      "published_iso": "2026-03-08T07:34:00+00:00"
+    },
     {
       "id": "https-apnews-com-article-rams-los-angeles-darious-williams-retiro-d0374f4b2460d6b2b15c2166f4f7b28d",
       "title": "Darious Williams se retira tras 8 años de carrera y un anillo de Super Bowl con los Rams",
@@ -9,22 +17,6 @@
       "source": "AP News",
       "ts": 1772883360.0,
       "published_iso": "2026-03-07T11:36:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-super-bowl-174207905-html",
-      "title": "Los Angeles Rams Super Bowl champion cornerback informs team of future",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-super-bowl-174207905.html",
-      "source": "Yahoo Sports",
-      "ts": 1772876880.0,
-      "published_iso": "2026-03-07T09:48:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-kam-curl-returning-los-angeles-172735286-html",
-      "title": "S Kam Curl is returning to the Los Angeles Rams with a 3-year, $36 million deal, AP source says",
-      "link": "https://sports.yahoo.com/articles/kam-curl-returning-los-angeles-172735286.html",
-      "source": "Yahoo Sports",
-      "ts": 1772791620.0,
-      "published_iso": "2026-03-06T10:07:00+00:00"
     }
   ]
 }
