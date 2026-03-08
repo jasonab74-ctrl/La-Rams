@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-03-08T22:45:43.124969+00:00",
+  "updated_iso": "2026-03-08T23:11:56.879091+00:00",
   "count": 6,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-trent-mcduffie-progressing-toward-223308178-html",
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-08-rams-trent-mcduffie-contract-news-update-89057900007",
       "title": "Rams, Trent McDuffie progressing toward deal worth over $30M per year",
-      "link": "https://sports.yahoo.com/articles/rams-trent-mcduffie-progressing-toward-223308178.html",
-      "source": "Yahoo Sports",
-      "ts": 1772984520.0,
-      "published_iso": "2026-03-08T15:42:00+00:00"
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/08/rams-trent-mcduffie-contract-news-update/89057900007/",
+      "source": "Rams Wire",
+      "ts": 1772985120.0,
+      "published_iso": "2026-03-08T15:52:00+00:00"
     },
     {
       "id": "https-bleacherreport-com-articles-25404374-trent-mcduffie-rumors-reveal-rams-contract-talks-possible-record-setting-deal",
@@ -17,14 +17,6 @@
       "source": "Bleacher Report",
       "ts": 1772983200.0,
       "published_iso": "2026-03-08T15:20:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-news-rams-trent-mcduffie-working-toward-extension-that-would-make-him-highest-paid-cornerback",
-      "title": "Rams, Trent McDuffie working toward extension that would make him highest-paid cornerback",
-      "link": "https://nfl.com/news/rams-trent-mcduffie-working-toward-extension-that-would-make-him-highest-paid-cornerback",
-      "source": "NFL.com",
-      "ts": 1772982780.0,
-      "published_iso": "2026-03-08T15:13:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-08-la-rams-free-agency-draft-offseason-moves-89054676007",
@@ -41,6 +33,14 @@
       "source": "AP News",
       "ts": 1772883360.0,
       "published_iso": "2026-03-07T11:36:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-super-bowl-174207905-html",
+      "title": "Los Angeles Rams Super Bowl champion cornerback informs team of future",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-super-bowl-174207905.html",
+      "source": "Yahoo Sports",
+      "ts": 1772876880.0,
+      "published_iso": "2026-03-07T09:48:00+00:00"
     },
     {
       "id": "https-therams-com-news-rams-place-cornerback-darious-williams-on-reserve-retired-list",
