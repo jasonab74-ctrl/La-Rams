@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-08T20:45:34.253360+00:00",
-  "count": 4,
+  "updated_iso": "2026-03-08T21:11:53.701562+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-expected-big-contract-decisions-141700953-html",
@@ -25,14 +25,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1772872740.0,
       "published_iso": "2026-03-07T08:39:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-stefon-diggs-expected-join-los-182507433-html",
-      "title": "Stefon Diggs Expected to Join Los Angeles Rams After Patriots Release",
-      "link": "https://sports.yahoo.com/articles/stefon-diggs-expected-join-los-182507433.html",
-      "source": "Yahoo Sports",
-      "ts": 1772808360.0,
-      "published_iso": "2026-03-06T14:46:00+00:00"
     }
   ]
 }
