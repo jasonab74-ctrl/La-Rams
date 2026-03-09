@@ -1,14 +1,38 @@
 {
-  "updated_iso": "2026-03-09T16:43:20.157321+00:00",
-  "count": 1,
+  "updated_iso": "2026-03-09T17:37:51.594526+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-09-rams-trent-mcduffie-contract-details-fifth-year-option-8",
-      "title": "This key distinction with Trent McDuffie's contract is good news for Rams",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/09/rams-trent-mcduffie-contract-details-fifth-year-option/89063846007/",
-      "source": "Rams Wire",
-      "ts": 1773040740.0,
-      "published_iso": "2026-03-09T07:19:00+00:00"
+      "id": "https-sports-yahoo-com-articles-why-rams-signing-cornerback-jaylen-164410944-html",
+      "title": "Why Rams are signing cornerback Jaylen Watson in free agency",
+      "link": "https://sports.yahoo.com/articles/why-rams-signing-cornerback-jaylen-164410944.html",
+      "source": "Yahoo Sports",
+      "ts": 1773051360.0,
+      "published_iso": "2026-03-09T10:16:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25404639-jaylen-watson-rams-reportedly-agree-free-agent-contract-after-trent-mcduffie-",
+      "title": "Jaylen Watson, Rams Reportedly Agree to Free-Agent Contract After Trent McDuffie Trade With Chiefs",
+      "link": "https://bleacherreport.com/articles/25404639-jaylen-watson-rams-reportedly-agree-free-agent-contract-after-trent-mcduffie-trade-chiefs",
+      "source": "Bleacher Report",
+      "ts": 1773051240.0,
+      "published_iso": "2026-03-09T10:14:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-nfl-world-reacts-rams-signing-165934383-html",
+      "title": "NFL world reacts to Rams signing CB Jaylen Watson",
+      "link": "https://sports.yahoo.com/articles/nfl-world-reacts-rams-signing-165934383.html",
+      "source": "Yahoo Sports",
+      "ts": 1773050640.0,
+      "published_iso": "2026-03-09T10:04:00+00:00"
+    },
+    {
+      "id": "https-latimes-com-sports-rams-story-2026-03-09-rams-chiefs-cornerback-jaylen-watson-agrees-to-deal",
+      "title": "Rams agree to deal with former Chiefs cornerback Jaylen Watson",
+      "link": "https://latimes.com/sports/rams/story/2026-03-09/rams-chiefs-cornerback-jaylen-watson-agrees-to-deal",
+      "source": "LA Times",
+      "ts": 1773050400.0,
+      "published_iso": "2026-03-09T10:00:00+00:00"
     }
   ]
 }
