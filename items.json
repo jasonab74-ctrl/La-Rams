@@ -1,31 +1,7 @@
 {
-  "updated_iso": "2026-03-09T01:00:22.619909+00:00",
-  "count": 4,
+  "updated_iso": "2026-03-09T03:43:21.878385+00:00",
+  "count": 2,
   "items": [
-    {
-      "id": "https-bleacherreport-com-articles-25402903-trent-mcduffie-rams-reportedly-agree-historic-contract-after-chiefs-trade-upd",
-      "title": "Trent McDuffie, Rams Reportedly Agree to Historic Contract After Chiefs Trade, Updated Salary Cap",
-      "link": "https://bleacherreport.com/articles/25402903-trent-mcduffie-rams-reportedly-agree-historic-contract-after-chiefs-trade-updated-salary-cap",
-      "source": "Bleacher Report",
-      "ts": 1772990280.0,
-      "published_iso": "2026-03-08T17:18:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-08-rams-trent-mcduffie-contract-news-update-89057900007",
-      "title": "Rams, Trent McDuffie progressing toward deal worth over $30M per year",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/08/rams-trent-mcduffie-contract-news-update/89057900007/",
-      "source": "Rams Wire",
-      "ts": 1772985120.0,
-      "published_iso": "2026-03-08T15:52:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25404374-trent-mcduffie-rumors-reveal-rams-contract-talks-possible-record-setting-deal",
-      "title": "Trent McDuffie Rumors Reveal Rams Contract Talks for Possible Record-Setting Deal After Chiefs Trade",
-      "link": "https://bleacherreport.com/articles/25404374-trent-mcduffie-rumors-reveal-rams-contract-talks-possible-record-setting-deal-after-chiefs-trade",
-      "source": "Bleacher Report",
-      "ts": 1772983200.0,
-      "published_iso": "2026-03-08T15:20:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-super-bowl-174207905-html",
       "title": "Los Angeles Rams Super Bowl champion cornerback informs team of future",
@@ -33,6 +9,14 @@
       "source": "Yahoo Sports",
       "ts": 1772876880.0,
       "published_iso": "2026-03-07T09:48:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-place-cornerback-darious-williams-on-reserve-retired-list",
+      "title": "Rams place cornerback Darious Williams on Reserve/Retired List",
+      "link": "https://therams.com/news/rams-place-cornerback-darious-williams-on-reserve-retired-list",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1772872740.0,
+      "published_iso": "2026-03-07T08:39:00+00:00"
     }
   ]
 }
