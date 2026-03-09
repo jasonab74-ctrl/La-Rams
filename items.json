@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-03-09T09:07:09.546145+00:00",
-  "count": 3,
+  "updated_iso": "2026-03-09T10:10:15.658575+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-ocregister-com-2026-03-08-rams-trent-mcduffie-finishing-up-extension-to-make-him-the-highest-paid-cb-in-nfl-ap-sou",
       "title": "Trent McDuffie reportedly agrees to extension with Rams to become NFL’s highest-paid CB",
       "link": "https://ocregister.com/2026/03/08/rams-trent-mcduffie-finishing-up-extension-to-make-him-the-highest-paid-cb-in-nfl-ap-source-says/",
       "source": "OC Register",
-      "ts": 1773000180.0,
-      "published_iso": "2026-03-08T20:03:00+00:00"
+      "ts": 1773025500.0,
+      "published_iso": "2026-03-09T03:05:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-super-bowl-174207905-html",
@@ -17,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1772876880.0,
       "published_iso": "2026-03-07T09:48:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-place-cornerback-darious-williams-on-reserve-retired-list",
-      "title": "Rams place cornerback Darious Williams on Reserve/Retired List",
-      "link": "https://therams.com/news/rams-place-cornerback-darious-williams-on-reserve-retired-list",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1772872740.0,
-      "published_iso": "2026-03-07T08:39:00+00:00"
     }
   ]
 }
