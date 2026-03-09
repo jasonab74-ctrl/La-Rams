@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-03-09T20:18:58.250040+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-03-09T20:55:27.760598+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-free-agency-100000612-html",
+      "title": "Los Angeles Rams free agency predictions: Les Snead goes big to avoid going home to set up another Super Bowl run",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-free-agency-100000612.html",
+      "source": "Yahoo Sports",
+      "ts": 1773040860.0,
+      "published_iso": "2026-03-09T07:21:00+00:00"
+    }
+  ]
 }
