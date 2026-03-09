@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-08T23:42:21.422841+00:00",
+  "updated_iso": "2026-03-09T01:00:22.619909+00:00",
   "count": 4,
   "items": [
+    {
+      "id": "https-bleacherreport-com-articles-25402903-trent-mcduffie-rams-reportedly-agree-historic-contract-after-chiefs-trade-upd",
+      "title": "Trent McDuffie, Rams Reportedly Agree to Historic Contract After Chiefs Trade, Updated Salary Cap",
+      "link": "https://bleacherreport.com/articles/25402903-trent-mcduffie-rams-reportedly-agree-historic-contract-after-chiefs-trade-updated-salary-cap",
+      "source": "Bleacher Report",
+      "ts": 1772990280.0,
+      "published_iso": "2026-03-08T17:18:00+00:00"
+    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-08-rams-trent-mcduffie-contract-news-update-89057900007",
       "title": "Rams, Trent McDuffie progressing toward deal worth over $30M per year",
@@ -17,14 +25,6 @@
       "source": "Bleacher Report",
       "ts": 1772983200.0,
       "published_iso": "2026-03-08T15:20:00+00:00"
-    },
-    {
-      "id": "https-apnews-com-article-rams-los-angeles-darious-williams-retiro-d0374f4b2460d6b2b15c2166f4f7b28d",
-      "title": "Darious Williams se retira tras 8 años de carrera y un anillo de Super Bowl con los Rams",
-      "link": "https://apnews.com/article/rams-los-angeles-darious-williams-retiro-d0374f4b2460d6b2b15c2166f4f7b28d",
-      "source": "AP News",
-      "ts": 1772883360.0,
-      "published_iso": "2026-03-07T11:36:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-super-bowl-174207905-html",
