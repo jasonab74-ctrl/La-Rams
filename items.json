@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-09T11:52:32.293433+00:00",
-  "count": 4,
+  "updated_iso": "2026-03-09T12:30:48.398033+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-emory-hunt-explains-why-zach-075817314-html",
@@ -17,22 +17,6 @@
       "source": "OC Register",
       "ts": 1773025500.0,
       "published_iso": "2026-03-09T03:05:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-super-bowl-174207905-html",
-      "title": "Los Angeles Rams Super Bowl champion cornerback informs team of future",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-super-bowl-174207905.html",
-      "source": "Yahoo Sports",
-      "ts": 1772876880.0,
-      "published_iso": "2026-03-07T09:48:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-place-cornerback-darious-williams-on-reserve-retired-list",
-      "title": "Rams place cornerback Darious Williams on Reserve/Retired List",
-      "link": "https://therams.com/news/rams-place-cornerback-darious-williams-on-reserve-retired-list",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1772872740.0,
-      "published_iso": "2026-03-07T08:39:00+00:00"
     }
   ]
 }
