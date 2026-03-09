@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-09T10:10:15.658575+00:00",
-  "count": 2,
+  "updated_iso": "2026-03-09T11:06:29.727702+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-emory-hunt-explains-why-zach-075817314-html",
+      "title": "Emory Hunt Explains Why Zach Wilson to the Los Angeles Rams Makes Sense in Free Agency",
+      "link": "https://sports.yahoo.com/articles/emory-hunt-explains-why-zach-075817314.html",
+      "source": "Yahoo Sports",
+      "ts": 1773025920.0,
+      "published_iso": "2026-03-09T03:12:00+00:00"
+    },
     {
       "id": "https-ocregister-com-2026-03-08-rams-trent-mcduffie-finishing-up-extension-to-make-him-the-highest-paid-cb-in-nfl-ap-sou",
       "title": "Trent McDuffie reportedly agrees to extension with Rams to become NFL’s highest-paid CB",
@@ -17,6 +25,14 @@
       "source": "Yahoo Sports",
       "ts": 1772876880.0,
       "published_iso": "2026-03-07T09:48:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-place-cornerback-darious-williams-on-reserve-retired-list",
+      "title": "Rams place cornerback Darious Williams on Reserve/Retired List",
+      "link": "https://therams.com/news/rams-place-cornerback-darious-williams-on-reserve-retired-list",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1772872740.0,
+      "published_iso": "2026-03-07T08:39:00+00:00"
     }
   ]
 }
