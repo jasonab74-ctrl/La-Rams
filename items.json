@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-10T11:04:27.616401+00:00",
+  "updated_iso": "2026-03-10T11:50:57.035678+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-latimes-com-sports-newsletter-2026-03-10-rams-free-agency-moves-super-bowl-run",
+      "title": "Rams make it clear they want to win the Super Bowl next season",
+      "link": "https://latimes.com/sports/newsletter/2026-03-10/rams-free-agency-moves-super-bowl-run",
+      "source": "LA Times",
+      "ts": 1773117000.0,
+      "published_iso": "2026-03-10T04:30:00+00:00"
+    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-09-rams-nfl-draft-compensatory-picks-free-agency-8907204300",
       "title": "Rams receive 2 compensatory picks in 2026 draft for free-agent losses",
@@ -9,14 +17,6 @@
       "source": "Rams Wire",
       "ts": 1773064680.0,
       "published_iso": "2026-03-09T13:58:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1597287420.0,
-      "published_iso": "2020-08-13T02:57:00+00:00"
     }
   ]
 }
