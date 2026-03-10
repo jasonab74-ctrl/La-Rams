@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-03-10T10:03:52.748254+00:00",
+  "updated_iso": "2026-03-10T11:04:27.616401+00:00",
   "count": 2,
   "items": [
-    {
-      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-linked-long-term-davante-adams-replacement-standout-64dc8632b90",
-      "title": "Los Angeles Rams linked to long-term Davante Adams replacement in form of LA standout",
-      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-linked-long-term-davante-adams-replacement-standout/64dc8632b9088c0422f8af34",
-      "source": "Sporting News",
-      "ts": 1773075600.0,
-      "published_iso": "2026-03-09T17:00:00+00:00"
-    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-09-rams-nfl-draft-compensatory-picks-free-agency-8907204300",
       "title": "Rams receive 2 compensatory picks in 2026 draft for free-agent losses",
@@ -17,6 +9,14 @@
       "source": "Rams Wire",
       "ts": 1773064680.0,
       "published_iso": "2026-03-09T13:58:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1597287420.0,
+      "published_iso": "2020-08-13T02:57:00+00:00"
     }
   ]
 }
