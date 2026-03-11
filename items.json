@@ -1,22 +1,30 @@
 {
-  "updated_iso": "2026-03-11T20:54:05.765118+00:00",
-  "count": 2,
+  "updated_iso": "2026-03-11T21:19:38.003120+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-11-free-agency-rams-keir-thomas-re-sign-contract-8910583000",
-      "title": "Rams are re-signing OLB Keir Thomas to 1-year deal",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/11/free-agency-rams-keir-thomas-re-sign-contract/89105830007/",
-      "source": "Rams Wire",
-      "ts": 1773236220.0,
-      "published_iso": "2026-03-11T13:37:00+00:00"
+      "id": "https-therams-com-news-5-things-to-know-about-new-rams-cb-trent-mcduffie",
+      "title": "5 things to know about new Rams CB Trent McDuffie",
+      "link": "https://therams.com/news/5-things-to-know-about-new-rams-cb-trent-mcduffie",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1773238620.0,
+      "published_iso": "2026-03-11T14:17:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-super-bowl-174207905-html",
-      "title": "Los Angeles Rams Super Bowl champion cornerback informs team of future",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-super-bowl-174207905.html",
+      "id": "https-therams-com-news-5-things-to-know-about-new-rams-cb-jaylen-watson",
+      "title": "5 things to know about new Rams CB Jaylen Watson",
+      "link": "https://therams.com/news/5-things-to-know-about-new-rams-cb-jaylen-watson",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1773237780.0,
+      "published_iso": "2026-03-11T14:03:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-signing-olb-keir-thomas-202033717-html",
+      "title": "Rams are re-signing OLB Keir Thomas to 1-year deal",
+      "link": "https://sports.yahoo.com/articles/rams-signing-olb-keir-thomas-202033717.html",
       "source": "Yahoo Sports",
-      "ts": 1772876880.0,
-      "published_iso": "2026-03-07T09:48:00+00:00"
+      "ts": 1773237420.0,
+      "published_iso": "2026-03-11T13:57:00+00:00"
     }
   ]
 }
