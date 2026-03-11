@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-03-11T19:33:58.256037+00:00",
+  "updated_iso": "2026-03-11T20:20:45.860102+00:00",
   "count": 2,
   "items": [
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-11-rams-kam-curl-free-agency-trent-mcduffie-jaylen-watson-8",
-      "title": "Kam Curl: Rams have 'good chance' to be No. 1 defense after big CB moves",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/11/rams-kam-curl-free-agency-trent-mcduffie-jaylen-watson/89098261007/",
-      "source": "Rams Wire",
-      "ts": 1773216180.0,
-      "published_iso": "2026-03-11T08:03:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-2026-offseason-110500970-html",
       "title": "Los Angeles Rams 2026 Offseason Outlook",
@@ -17,6 +9,14 @@
       "source": "Yahoo Sports",
       "ts": 1773042060.0,
       "published_iso": "2026-03-09T07:41:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-super-bowl-174207905-html",
+      "title": "Los Angeles Rams Super Bowl champion cornerback informs team of future",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-super-bowl-174207905.html",
+      "source": "Yahoo Sports",
+      "ts": 1772876880.0,
+      "published_iso": "2026-03-07T09:48:00+00:00"
     }
   ]
 }
