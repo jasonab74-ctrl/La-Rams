@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-10T23:46:17.690218+00:00",
-  "count": 3,
+  "updated_iso": "2026-03-11T00:56:21.158958+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-therams-com-video-highlights-kam-curl-top-plays-from-his-rams-career",
@@ -17,14 +17,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1773160260.0,
       "published_iso": "2026-03-10T16:31:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-los-angeles-rams",
-      "title": "Los Angeles Rams",
-      "link": "https://bleacherreport.com/los-angeles-rams",
-      "source": "Bleacher Report",
-      "ts": 1773086760.0,
-      "published_iso": "2026-03-09T20:06:00+00:00"
     }
   ]
 }
