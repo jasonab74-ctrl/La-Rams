@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-03-12T22:48:35.178829+00:00",
-  "count": 3,
+  "updated_iso": "2026-03-12T23:15:54.949677+00:00",
+  "count": 1,
   "items": [
-    {
-      "id": "https-therams-com-video-trent-mcduffie-jaylen-watson-signing-rams-working-with-sean-mcvay-team-culture",
-      "title": "Trent McDuffie & Jaylen Watson on signing with the Rams, working with Sean McVay & team culture",
-      "link": "https://therams.com/video/trent-mcduffie-jaylen-watson-signing-rams-working-with-sean-mcvay-team-culture",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1773326820.0,
-      "published_iso": "2026-03-12T14:47:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-former-lions-special-teams-ace-205356563-html",
       "title": "Former Lions Special Teams Ace Grant Stuard Lands With Rams",
@@ -17,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1773325920.0,
       "published_iso": "2026-03-12T14:32:00+00:00"
-    },
-    {
-      "id": "https-latimes-com-sports-rams-liveblog-rams-new-orleans-saints-live-updates-start-time-score-highlights",
-      "title": "Rams fend off Saints’ late rally to stay in control of their playoff destiny",
-      "link": "https://latimes.com/sports/rams/liveblog/rams-new-orleans-saints-live-updates-start-time-score-highlights",
-      "source": "LA Times",
-      "ts": 1703189700.0,
-      "published_iso": "2023-12-21T20:15:00+00:00"
     }
   ]
 }
