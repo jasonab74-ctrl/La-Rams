@@ -1,22 +1,5 @@
 {
-  "updated_iso": "2026-03-12T06:37:37.080961+00:00",
-  "count": 2,
-  "items": [
-    {
-      "id": "https-latimes-com-sports-rams-liveblog-los-angeles-rams-arizona-cardinals-live-updates",
-      "title": "Rams dominate in 34-11 wild-card playoff win over Arizona Cardinals",
-      "link": "https://latimes.com/sports/rams/liveblog/los-angeles-rams-arizona-cardinals-live-updates",
-      "source": "LA Times",
-      "ts": 1642450980.0,
-      "published_iso": "2022-01-17T20:23:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1597287420.0,
-      "published_iso": "2020-08-13T02:57:00+00:00"
-    }
-  ]
+  "updated_iso": "2026-03-12T07:37:38.669908+00:00",
+  "count": 0,
+  "items": []
 }
