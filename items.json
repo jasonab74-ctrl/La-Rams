@@ -1,7 +1,31 @@
 {
-  "updated_iso": "2026-03-13T15:31:22.782464+00:00",
-  "count": 1,
+  "updated_iso": "2026-03-13T16:24:08.044810+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-bleacherreport-com-articles-25406485-new-aj-brown-trade-rumors-reveal-talks-remain-alive-rams-monitor-eagles-wr",
+      "title": "New A.J. Brown Trade Rumors Reveal Talks Remain Alive as Rams 'Monitor' Eagles WR",
+      "link": "https://bleacherreport.com/articles/25406485-new-aj-brown-trade-rumors-reveal-talks-remain-alive-rams-monitor-eagles-wr",
+      "source": "Bleacher Report",
+      "ts": 1773393060.0,
+      "published_iso": "2026-03-13T09:11:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-13-rams-cb-trent-mcduffie-willing-to-play-any-position-seco",
+      "title": "New Rams CB Trent McDuffie willing to play any position in secondary",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/13/rams-cb-trent-mcduffie-willing-to-play-any-position-secondary/89134250007/",
+      "source": "Rams Wire",
+      "ts": 1773383520.0,
+      "published_iso": "2026-03-13T06:32:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-taking-clear-approach-on-defense-this-offseason",
+      "title": "The Rams Are Taking a Clear Approach on Defense This Offseason",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-taking-clear-approach-on-defense-this-offseason",
+      "source": "Sports Illustrated",
+      "ts": 1773334800.0,
+      "published_iso": "2026-03-12T17:00:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-super-bowl-174207905-html",
       "title": "Los Angeles Rams Super Bowl champion cornerback informs team of future",
@@ -9,6 +33,14 @@
       "source": "Yahoo Sports",
       "ts": 1772876880.0,
       "published_iso": "2026-03-07T09:48:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-los-angeles-rams",
+      "title": "Los Angeles Rams",
+      "link": "https://bleacherreport.com/los-angeles-rams",
+      "source": "Bleacher Report",
+      "ts": 1747555920.0,
+      "published_iso": "2025-05-18T08:12:00+00:00"
     }
   ]
 }
