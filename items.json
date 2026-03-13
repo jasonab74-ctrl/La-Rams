@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-03-13T22:48:15.896452+00:00",
-  "count": 3,
+  "updated_iso": "2026-03-13T23:16:06.766020+00:00",
+  "count": 1,
   "items": [
-    {
-      "id": "https-si-com-nfl-rams-onsi-the-most-underrated-move-los-angeles-made-in-free-agency-so-far",
-      "title": "The Most Underrated Move the Rams Made in Free Agency So Far",
-      "link": "https://si.com/nfl/rams/onsi/the-most-underrated-move-los-angeles-made-in-free-agency-so-far",
-      "source": "Sports Illustrated",
-      "ts": 1773414000.0,
-      "published_iso": "2026-03-13T15:00:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-super-bowl-174207905-html",
       "title": "Los Angeles Rams Super Bowl champion cornerback informs team of future",
@@ -17,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1772876880.0,
       "published_iso": "2026-03-07T09:48:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-los-angeles-rams",
-      "title": "Los Angeles Rams",
-      "link": "https://bleacherreport.com/los-angeles-rams",
-      "source": "Bleacher Report",
-      "ts": 1747555920.0,
-      "published_iso": "2025-05-18T08:12:00+00:00"
     }
   ]
 }
