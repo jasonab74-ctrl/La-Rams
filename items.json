@@ -1,30 +1,22 @@
 {
-  "updated_iso": "2026-03-13T18:24:40.564546+00:00",
-  "count": 3,
+  "updated_iso": "2026-03-13T19:04:49.106681+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-cowboys-address-cornerback-breakout-rams-154449286-html",
-      "title": "Cowboys address cornerback need with breakout Rams defender",
-      "link": "https://sports.yahoo.com/articles/cowboys-address-cornerback-breakout-rams-154449286.html",
+      "id": "https-therams-com-news-free-agency-approach-creates-intrigue-for-pick-no-13-for-rams-in-2026-nfl-draft",
+      "title": "Free agency approach creates intrigue for pick No. 13 for Rams in 2026 NFL Draft",
+      "link": "https://therams.com/news/free-agency-approach-creates-intrigue-for-pick-no-13-for-rams-in-2026-nfl-draft",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1773403200.0,
+      "published_iso": "2026-03-13T12:00:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-super-bowl-174207905-html",
+      "title": "Los Angeles Rams Super Bowl champion cornerback informs team of future",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-super-bowl-174207905.html",
       "source": "Yahoo Sports",
-      "ts": 1773396240.0,
-      "published_iso": "2026-03-13T10:04:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25406485-new-aj-brown-trade-rumors-reveal-talks-remain-alive-rams-monitor-eagles-wr",
-      "title": "New A.J. Brown Trade Rumors Reveal Talks Remain Alive as Rams 'Monitor' Eagles WR",
-      "link": "https://bleacherreport.com/articles/25406485-new-aj-brown-trade-rumors-reveal-talks-remain-alive-rams-monitor-eagles-wr",
-      "source": "Bleacher Report",
-      "ts": 1773393060.0,
-      "published_iso": "2026-03-13T09:11:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-news-trent-mcduffie-rams-make-difference-super-bowl-push-jaylen-watson",
-      "title": "Trent McDuffie, NFL's highest-paid CB, aims to make difference in Rams' Super Bowl push",
-      "link": "https://nfl.com/news/trent-mcduffie-rams-make-difference-super-bowl-push-jaylen-watson",
-      "source": "NFL.com",
-      "ts": 1773388740.0,
-      "published_iso": "2026-03-13T07:59:00+00:00"
+      "ts": 1772876880.0,
+      "published_iso": "2026-03-07T09:48:00+00:00"
     }
   ]
 }
