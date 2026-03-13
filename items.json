@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-13T17:03:09.375091+00:00",
-  "count": 3,
+  "updated_iso": "2026-03-13T17:55:01.216846+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-still-involved-j-brown-151045115-html",
@@ -9,22 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1773394620.0,
       "published_iso": "2026-03-13T09:37:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25406485-new-aj-brown-trade-rumors-reveal-talks-remain-alive-rams-monitor-eagles-wr",
-      "title": "New A.J. Brown Trade Rumors Reveal Talks Remain Alive as Rams 'Monitor' Eagles WR",
-      "link": "https://bleacherreport.com/articles/25406485-new-aj-brown-trade-rumors-reveal-talks-remain-alive-rams-monitor-eagles-wr",
-      "source": "Bleacher Report",
-      "ts": 1773393060.0,
-      "published_iso": "2026-03-13T09:11:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-news-trent-mcduffie-rams-make-difference-super-bowl-push-jaylen-watson",
-      "title": "Trent McDuffie, NFL's highest-paid CB, aims to make difference in Rams' Super Bowl push",
-      "link": "https://nfl.com/news/trent-mcduffie-rams-make-difference-super-bowl-push-jaylen-watson",
-      "source": "NFL.com",
-      "ts": 1773388740.0,
-      "published_iso": "2026-03-13T07:59:00+00:00"
     }
   ]
 }
