@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-03-13T12:29:09.094722+00:00",
-  "count": 1,
+  "updated_iso": "2026-03-13T13:38:34.087976+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-clear-path-attacking-draft-after-opening-days-of-free-agency",
+      "title": "Rams Have Clear Path to Attacking Draft After Opening Days of Free Agency",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-clear-path-attacking-draft-after-opening-days-of-free-agency",
+      "source": "Sports Illustrated",
+      "ts": 1773379560.0,
+      "published_iso": "2026-03-13T05:26:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-taking-clear-approach-on-defense-this-offseason",
+      "title": "The Rams Are Taking a Clear Approach on Defense This Offseason",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-taking-clear-approach-on-defense-this-offseason",
+      "source": "Sports Illustrated",
+      "ts": 1773334800.0,
+      "published_iso": "2026-03-12T17:00:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-super-bowl-174207905-html",
       "title": "Los Angeles Rams Super Bowl champion cornerback informs team of future",
