@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-14T04:55:29.405033+00:00",
+  "updated_iso": "2026-03-14T05:37:26.156137+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-colts-quarterback-trade-rumor-could-231524120-html",
+      "title": "Colts quarterback trade rumor could lead to deal with Packers, Lions or Rams",
+      "link": "https://sports.yahoo.com/articles/colts-quarterback-trade-rumor-could-231524120.html",
+      "source": "Yahoo Sports",
+      "ts": 1773438000.0,
+      "published_iso": "2026-03-13T21:40:00+00:00"
+    },
     {
       "id": "https-bleacherreport-com-articles-25406485-new-aj-brown-rumors-reveal-eagles-current-stance-trade-amid-patriots-rams-tal",
       "title": "New A.J. Brown Rumors Reveal Eagles' Current Stance on Trade Amid Patriots, Rams Talks",
@@ -9,14 +17,6 @@
       "source": "Bleacher Report",
       "ts": 1773428100.0,
       "published_iso": "2026-03-13T18:55:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-super-bowl-174207905-html",
-      "title": "Los Angeles Rams Super Bowl champion cornerback informs team of future",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-super-bowl-174207905.html",
-      "source": "Yahoo Sports",
-      "ts": 1772876880.0,
-      "published_iso": "2026-03-07T09:48:00+00:00"
     }
   ]
 }
