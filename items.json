@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-14T00:57:55.236216+00:00",
+  "updated_iso": "2026-03-14T03:24:00.972672+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-bleacherreport-com-articles-25406485-new-aj-brown-rumors-reveal-eagles-current-stance-trade-amid-patriots-rams-tal",
+      "title": "New A.J. Brown Rumors Reveal Eagles' Current Stance on Trade Amid Patriots, Rams Talks",
+      "link": "https://bleacherreport.com/articles/25406485-new-aj-brown-rumors-reveal-eagles-current-stance-trade-amid-patriots-rams-talks",
+      "source": "Bleacher Report",
+      "ts": 1773428100.0,
+      "published_iso": "2026-03-13T18:55:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-super-bowl-174207905-html",
       "title": "Los Angeles Rams Super Bowl champion cornerback informs team of future",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1772876880.0,
       "published_iso": "2026-03-07T09:48:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-los-angeles-rams",
-      "title": "Los Angeles Rams",
-      "link": "https://bleacherreport.com/los-angeles-rams",
-      "source": "Bleacher Report",
-      "ts": 1747555920.0,
-      "published_iso": "2025-05-18T08:12:00+00:00"
     }
   ]
 }
