@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-15T14:00:14.714502+00:00",
+  "updated_iso": "2026-03-15T14:31:09.840470+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-2026-nfl-draft-day-140000426-html",
+      "title": "Rams 2026 NFL Draft: These day 3 prospects fit the culture",
+      "link": "https://sports.yahoo.com/articles/rams-2026-nfl-draft-day-140000426.html",
+      "source": "Yahoo Sports",
+      "ts": 1773558420.0,
+      "published_iso": "2026-03-15T07:07:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-biggest-unexpected-puka-nacua-002409169-html",
       "title": "Rams' biggest need has unexpected Puka Nacua and Davante Adams impact",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1773510900.0,
       "published_iso": "2026-03-14T17:55:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-eagles-set-bait-patriots-j-004457393-html",
-      "title": "Eagles Set Bait for Patriots on A.J. Brown With Rams Also Emerging as Suitors: Report",
-      "link": "https://sports.yahoo.com/articles/eagles-set-bait-patriots-j-004457393.html",
-      "source": "Yahoo Sports",
-      "ts": 1773492180.0,
-      "published_iso": "2026-03-14T12:43:00+00:00"
     }
   ]
 }
