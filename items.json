@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-03-15T20:14:32.221309+00:00",
-  "count": 2,
+  "updated_iso": "2026-03-15T20:49:29.980398+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-eagles-trade-rumor-reveals-rams-182438534-html",
-      "title": "Eagles trade rumor reveals Rams' stance on acquiring $96 million star WR",
-      "link": "https://sports.yahoo.com/articles/eagles-trade-rumor-reveals-rams-182438534.html",
+      "id": "https-sports-yahoo-com-articles-rams-explored-trading-18m-star-200646030-html",
+      "title": "Rams explored trading $18M star WR amid A.J. Brown pursuit",
+      "link": "https://sports.yahoo.com/articles/rams-explored-trading-18m-star-200646030.html",
       "source": "Yahoo Sports",
-      "ts": 1773575700.0,
-      "published_iso": "2026-03-15T11:55:00+00:00"
+      "ts": 1773581040.0,
+      "published_iso": "2026-03-15T13:24:00+00:00"
     },
     {
       "id": "https-bleacherreport-com-articles-25407090-new-davante-adams-trade-rumors-amid-aj-brown-interest-surrounding-rams-eagles",
@@ -17,6 +17,14 @@
       "source": "Bleacher Report",
       "ts": 1773574920.0,
       "published_iso": "2026-03-15T11:42:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-los-angeles-rams",
+      "title": "Los Angeles Rams",
+      "link": "https://bleacherreport.com/los-angeles-rams",
+      "source": "Bleacher Report",
+      "ts": 1747114740.0,
+      "published_iso": "2025-05-13T05:39:00+00:00"
     }
   ]
 }
