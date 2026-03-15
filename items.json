@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-03-15T22:50:55.611059+00:00",
-  "count": 3,
+  "updated_iso": "2026-03-15T23:17:25.439939+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-easier-time-shopping-davante-220745711-html",
-      "title": "Rams should have easier time shopping Davante Adams now",
-      "link": "https://sports.yahoo.com/articles/rams-easier-time-shopping-davante-220745711.html",
+      "id": "https-sports-yahoo-com-articles-rams-rumors-la-considered-moving-214316127-html",
+      "title": "Rams rumors: LA considered moving Davante Adams amid AJ Brown trade talks",
+      "link": "https://sports.yahoo.com/articles/rams-rumors-la-considered-moving-214316127.html",
       "source": "Yahoo Sports",
-      "ts": 1773588720.0,
-      "published_iso": "2026-03-15T15:32:00+00:00"
+      "ts": 1773590760.0,
+      "published_iso": "2026-03-15T16:06:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-report-rams-considered-surprising-davante-190521325-html",
@@ -17,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1773588660.0,
       "published_iso": "2026-03-15T15:31:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25407090-new-davante-adams-trade-rumors-amid-aj-brown-interest-surrounding-rams-eagles",
-      "title": "New Davante Adams Trade Rumors amid A.J. Brown Interest Surrounding Rams, Eagles in NFL Free Agency",
-      "link": "https://bleacherreport.com/articles/25407090-new-davante-adams-trade-rumors-amid-aj-brown-interest-surrounding-rams-eagles-nfl-free-agency",
-      "source": "Bleacher Report",
-      "ts": 1773574920.0,
-      "published_iso": "2026-03-15T11:42:00+00:00"
     }
   ]
 }
