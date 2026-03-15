@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-15T18:21:09.175095+00:00",
+  "updated_iso": "2026-03-15T19:01:24.642576+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-eagles-trade-rumor-reveals-rams-182438534-html",
+      "title": "Eagles trade rumor reveals Rams' stance on acquiring $96 million star WR",
+      "link": "https://sports.yahoo.com/articles/eagles-trade-rumor-reveals-rams-182438534.html",
+      "source": "Yahoo Sports",
+      "ts": 1773575700.0,
+      "published_iso": "2026-03-15T11:55:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-biggest-unexpected-puka-nacua-002409169-html",
       "title": "Rams' biggest need has unexpected Puka Nacua and Davante Adams impact",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1773510900.0,
       "published_iso": "2026-03-14T17:55:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-los-angeles-rams",
-      "title": "Los Angeles Rams",
-      "link": "https://bleacherreport.com/los-angeles-rams",
-      "source": "Bleacher Report",
-      "ts": 1747114740.0,
-      "published_iso": "2025-05-13T05:39:00+00:00"
     }
   ]
 }
