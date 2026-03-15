@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-15T11:44:17.285542+00:00",
-  "count": 2,
+  "updated_iso": "2026-03-15T12:23:46.813100+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-biggest-unexpected-puka-nacua-002409169-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1773510900.0,
       "published_iso": "2026-03-14T17:55:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-eagles-set-bait-patriots-j-004457393-html",
-      "title": "Eagles Set Bait for Patriots on A.J. Brown With Rams Also Emerging as Suitors: Report",
-      "link": "https://sports.yahoo.com/articles/eagles-set-bait-patriots-j-004457393.html",
-      "source": "Yahoo Sports",
-      "ts": 1773492180.0,
-      "published_iso": "2026-03-14T12:43:00+00:00"
     }
   ]
 }
