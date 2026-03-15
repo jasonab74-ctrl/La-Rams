@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-03-15T22:13:58.217256+00:00",
+  "updated_iso": "2026-03-15T22:50:55.611059+00:00",
   "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-explored-trading-18m-star-200646030-html",
-      "title": "Rams explored trading $18M star WR amid A.J. Brown pursuit",
-      "link": "https://sports.yahoo.com/articles/rams-explored-trading-18m-star-200646030.html",
+      "id": "https-sports-yahoo-com-articles-rams-easier-time-shopping-davante-220745711-html",
+      "title": "Rams should have easier time shopping Davante Adams now",
+      "link": "https://sports.yahoo.com/articles/rams-easier-time-shopping-davante-220745711.html",
       "source": "Yahoo Sports",
-      "ts": 1773581040.0,
-      "published_iso": "2026-03-15T13:24:00+00:00"
+      "ts": 1773588720.0,
+      "published_iso": "2026-03-15T15:32:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-report-rams-considered-surprising-davante-190521325-html",
+      "title": "Report: Rams Considered Surprising Davante Adams Trade",
+      "link": "https://sports.yahoo.com/articles/report-rams-considered-surprising-davante-190521325.html",
+      "source": "Yahoo Sports",
+      "ts": 1773588660.0,
+      "published_iso": "2026-03-15T15:31:00+00:00"
     },
     {
       "id": "https-bleacherreport-com-articles-25407090-new-davante-adams-trade-rumors-amid-aj-brown-interest-surrounding-rams-eagles",
@@ -17,14 +25,6 @@
       "source": "Bleacher Report",
       "ts": 1773574920.0,
       "published_iso": "2026-03-15T11:42:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-los-angeles-rams",
-      "title": "Los Angeles Rams",
-      "link": "https://bleacherreport.com/los-angeles-rams",
-      "source": "Bleacher Report",
-      "ts": 1747114740.0,
-      "published_iso": "2025-05-13T05:39:00+00:00"
     }
   ]
 }
