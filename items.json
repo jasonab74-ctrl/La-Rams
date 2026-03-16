@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-16T22:27:54.912989+00:00",
-  "count": 2,
+  "updated_iso": "2026-03-16T22:55:36.889074+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-therams-com-video-inside-trent-mcduffie-s-first-day-with-the-rams",
+      "title": "Inside Trent McDuffie's first day with the Rams",
+      "link": "https://therams.com/video/inside-trent-mcduffie-s-first-day-with-the-rams",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1773675120.0,
+      "published_iso": "2026-03-16T15:32:00+00:00"
+    },
     {
       "id": "https-therams-com-news-rams-sign-ilb-grant-stuard-two-two-year-deal-nfl-free-agency-2026",
       "title": "Rams sign ILB Grant Stuard to two-year deal",
