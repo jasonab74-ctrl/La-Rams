@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-03-16T23:47:35.127619+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-03-17T01:00:51.939046+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-patriots-rams-trade-davante-adams-195756254-html",
+      "title": "This Patriots-Rams trade for Davante Adams would take Drake Maye to the next level",
+      "link": "https://sports.yahoo.com/articles/patriots-rams-trade-davante-adams-195756254.html",
+      "source": "Yahoo Sports",
+      "ts": 1773681300.0,
+      "published_iso": "2026-03-16T17:15:00+00:00"
+    }
+  ]
 }
