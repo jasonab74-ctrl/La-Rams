@@ -1,7 +1,31 @@
 {
-  "updated_iso": "2026-03-17T18:42:42.586446+00:00",
-  "count": 2,
+  "updated_iso": "2026-03-17T19:45:40.879479+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-ocregister-com-2026-03-17-rams-mock-draft-2-0-need-for-speed-at-receiver",
+      "title": "Rams mock draft 2.0: Need for speed at receiver",
+      "link": "https://ocregister.com/2026/03/17/rams-mock-draft-2-0-need-for-speed-at-receiver/",
+      "source": "OC Register",
+      "ts": 1773751320.0,
+      "published_iso": "2026-03-17T12:42:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-trade-rumor-bad-news-190236721-html",
+      "title": "Rams trade rumor is bad news for Patriots, Chiefs, Giants, Raiders",
+      "link": "https://sports.yahoo.com/articles/rams-trade-rumor-bad-news-190236721.html",
+      "source": "Yahoo Sports",
+      "ts": 1773750120.0,
+      "published_iso": "2026-03-17T12:22:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-used-less-draft-capital-183921043-html",
+      "title": "Rams have used less draft capital on this position than any NFL team since 2022",
+      "link": "https://sports.yahoo.com/articles/rams-used-less-draft-capital-183921043.html",
+      "source": "Yahoo Sports",
+      "ts": 1773749280.0,
+      "published_iso": "2026-03-17T12:08:00+00:00"
+    },
     {
       "id": "https-bleacherreport-com-articles-25407913-davante-adams-trade-rumors-downplayed-adam-schefter-amid-aj-brown-rams-buzz",
       "title": "Davante Adams Trade Rumors Downplayed by Adam Schefter amid A.J. Brown, Rams Buzz",
@@ -9,14 +33,6 @@
       "source": "Bleacher Report",
       "ts": 1773743160.0,
       "published_iso": "2026-03-17T10:26:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-trade-rumor-reveals-los-144001537-html",
-      "title": "Rams trade rumor reveals Los Angeles' interest in cutting ties with $44 million star receiver",
-      "link": "https://sports.yahoo.com/articles/rams-trade-rumor-reveals-los-144001537.html",
-      "source": "Yahoo Sports",
-      "ts": 1773648780.0,
-      "published_iso": "2026-03-16T08:13:00+00:00"
     }
   ]
 }
