@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-18T08:33:33.972696+00:00",
+  "updated_iso": "2026-03-18T09:39:48.092291+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-therams-com-news-rams-2026-nfl-draft-picks-set",
+      "title": "Rams' 2026 NFL Draft picks set",
+      "link": "https://therams.com/news/rams-2026-nfl-draft-picks-set",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1773758160.0,
+      "published_iso": "2026-03-17T14:36:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-predicted-sign-205510718-html",
       "title": "Los Angeles Rams predicted to sign player who once was drafted to be Lamar Jackson’s WR1",
@@ -11,20 +19,12 @@
       "published_iso": "2026-03-16T14:15:00+00:00"
     },
     {
-      "id": "https-si-com-nfl-rams-onsi-what-los-angeles-benefitted-from-in-2025",
-      "title": "What the Rams Benefitted From in 2025",
-      "link": "https://si.com/nfl/rams/onsi/what-los-angeles-benefitted-from-in-2025",
-      "source": "Sports Illustrated",
-      "ts": 1772380800.0,
-      "published_iso": "2026-03-01T16:00:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-02-09-2026-nfl-mock-draft-la-rams-full-7-rounds-88527188007",
-      "title": "Rams 2026 mock draft: Full 7-round projections for Los Angeles",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/02/09/2026-nfl-mock-draft-la-rams-full-7-rounds/88527188007/",
-      "source": "Rams Wire",
-      "ts": 1770612180.0,
-      "published_iso": "2026-02-09T04:43:00+00:00"
+      "id": "https-sports-yahoo-com-articles-rams-trade-rumor-reveals-los-144001537-html",
+      "title": "Rams trade rumor reveals Los Angeles' interest in cutting ties with $44 million star receiver",
+      "link": "https://sports.yahoo.com/articles/rams-trade-rumor-reveals-los-144001537.html",
+      "source": "Yahoo Sports",
+      "ts": 1773648780.0,
+      "published_iso": "2026-03-16T08:13:00+00:00"
     }
   ]
 }
