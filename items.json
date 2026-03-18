@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2026-03-18T18:40:08.901668+00:00",
-  "count": 1,
+  "updated_iso": "2026-03-18T19:39:48.029326+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-4-things-know-rams-special-175603809-html",
-      "title": "4 things to know about Rams' new special teams ace Grant Stuard",
-      "link": "https://sports.yahoo.com/articles/4-things-know-rams-special-175603809.html",
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-predicted-sign-205510718-html",
+      "title": "Los Angeles Rams predicted to sign player who once was drafted to be Lamar Jackson’s WR1",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-predicted-sign-205510718.html",
       "source": "Yahoo Sports",
-      "ts": 1773832920.0,
-      "published_iso": "2026-03-18T11:22:00+00:00"
+      "ts": 1773670500.0,
+      "published_iso": "2026-03-16T14:15:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-trade-rumor-reveals-los-144001537-html",
+      "title": "Rams trade rumor reveals Los Angeles' interest in cutting ties with $44 million star receiver",
+      "link": "https://sports.yahoo.com/articles/rams-trade-rumor-reveals-los-144001537.html",
+      "source": "Yahoo Sports",
+      "ts": 1773648780.0,
+      "published_iso": "2026-03-16T08:13:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-los-angeles-rams",
+      "title": "Los Angeles Rams",
+      "link": "https://bleacherreport.com/los-angeles-rams",
+      "source": "Bleacher Report",
+      "ts": 1747555920.0,
+      "published_iso": "2025-05-18T08:12:00+00:00"
     }
   ]
 }
