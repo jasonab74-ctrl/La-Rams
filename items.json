@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-18T21:34:46.218087+00:00",
-  "count": 1,
+  "updated_iso": "2026-03-18T22:20:15.483140+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-predicted-sign-205510718-html",
+      "title": "Los Angeles Rams predicted to sign player who once was drafted to be Lamar Jackson’s WR1",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-predicted-sign-205510718.html",
+      "source": "Yahoo Sports",
+      "ts": 1773670500.0,
+      "published_iso": "2026-03-16T14:15:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-trade-rumor-reveals-los-144001537-html",
       "title": "Rams trade rumor reveals Los Angeles' interest in cutting ties with $44 million star receiver",
