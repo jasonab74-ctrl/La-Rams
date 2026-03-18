@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-18T15:43:12.669867+00:00",
+  "updated_iso": "2026-03-18T16:46:14.622672+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-18-nfl-free-agency-rams-calais-campbell-best-fit-8921002200",
+      "title": "Rams named best fit for 6-time Pro Bowl D-lineman in free agency",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/18/nfl-free-agency-rams-calais-campbell-best-fit/89210022007/",
+      "source": "Rams Wire",
+      "ts": 1773825120.0,
+      "published_iso": "2026-03-18T09:12:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-predicted-sign-205510718-html",
       "title": "Los Angeles Rams predicted to sign player who once was drafted to be Lamar Jackson’s WR1",
@@ -11,20 +19,12 @@
       "published_iso": "2026-03-16T14:15:00+00:00"
     },
     {
-      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-trade-rumor-reveals-los-angeles-interest-cutting-ties-44-millio",
+      "id": "https-sports-yahoo-com-articles-rams-trade-rumor-reveals-los-144001537-html",
       "title": "Rams trade rumor reveals Los Angeles' interest in cutting ties with $44 million star receiver",
-      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-trade-rumor-reveals-los-angeles-interest-cutting-ties-44-million-star-receiver/b33f0c4171ef4da24ba89dce",
-      "source": "Sporting News",
-      "ts": 1773646800.0,
-      "published_iso": "2026-03-16T07:40:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-7-round-los-angeles-rams-100000765-html",
-      "title": "7-Round Los Angeles Rams mock draft: What are the next steps for the Rams after free agency?",
-      "link": "https://sports.yahoo.com/articles/7-round-los-angeles-rams-100000765.html",
+      "link": "https://sports.yahoo.com/articles/rams-trade-rumor-reveals-los-144001537.html",
       "source": "Yahoo Sports",
-      "ts": 1773642000.0,
-      "published_iso": "2026-03-16T06:20:00+00:00"
+      "ts": 1773648780.0,
+      "published_iso": "2026-03-16T08:13:00+00:00"
     }
   ]
 }
