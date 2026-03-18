@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-18T23:19:52.024704+00:00",
-  "count": 4,
+  "updated_iso": "2026-03-18T23:48:10.834454+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-therams-com-news-seven-million-minutes-reading-rams-readers-thousands-young-readers-los-angeles",
@@ -9,14 +9,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1773846600.0,
       "published_iso": "2026-03-18T15:10:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-2026-nfl-draft-picks-set",
-      "title": "Rams' 2026 NFL Draft picks set",
-      "link": "https://therams.com/news/rams-2026-nfl-draft-picks-set",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1773758160.0,
-      "published_iso": "2026-03-17T14:36:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-predicted-sign-205510718-html",
