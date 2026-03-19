@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-19T21:00:32.672959+00:00",
-  "count": 5,
+  "updated_iso": "2026-03-19T21:51:16.433909+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-si-com-nfl-seahawks-onsi-seahawks-news-seahawks-continue-embarrassing-rams-with-two-point-rule-proposals",
@@ -25,22 +25,6 @@
       "source": "Bleacher Report",
       "ts": 1773910080.0,
       "published_iso": "2026-03-19T08:48:00+00:00"
-    },
-    {
-      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-trade-rumor-reveals-los-angeles-interest-cutting-ties-44-millio",
-      "title": "Rams trade rumor reveals Los Angeles' interest in cutting ties with $44 million star receiver",
-      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-trade-rumor-reveals-los-angeles-interest-cutting-ties-44-million-star-receiver/b33f0c4171ef4da24ba89dce",
-      "source": "Sporting News",
-      "ts": 1773646800.0,
-      "published_iso": "2026-03-16T07:40:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-7-round-los-angeles-rams-100000765-html",
-      "title": "7-Round Los Angeles Rams mock draft: What are the next steps for the Rams after free agency?",
-      "link": "https://sports.yahoo.com/articles/7-round-los-angeles-rams-100000765.html",
-      "source": "Yahoo Sports",
-      "ts": 1773642000.0,
-      "published_iso": "2026-03-16T06:20:00+00:00"
     }
   ]
 }
