@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-19T09:05:34.745466+00:00",
-  "count": 2,
+  "updated_iso": "2026-03-19T10:03:59.355810+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-therams-com-news-seven-million-minutes-reading-rams-readers-thousands-young-readers-los-angeles",
+      "title": "Seven million minutes of reading: Rams Readers inspires thousands of young readers across Los Angeles & beyond",
+      "link": "https://therams.com/news/seven-million-minutes-reading-rams-readers-thousands-young-readers-los-angeles",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1773846600.0,
+      "published_iso": "2026-03-18T15:10:00+00:00"
+    },
     {
       "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-trade-rumor-reveals-los-angeles-interest-cutting-ties-44-millio",
       "title": "Rams trade rumor reveals Los Angeles' interest in cutting ties with $44 million star receiver",
