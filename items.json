@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-03-19T15:40:18.013454+00:00",
-  "count": 4,
+  "updated_iso": "2026-03-19T16:43:03.909548+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-todd-mcshay-free-agency-shapes-140000339-html",
-      "title": "Todd McShay: How free agency shapes Rams draft plans",
-      "link": "https://sports.yahoo.com/articles/todd-mcshay-free-agency-shapes-140000339.html",
+      "id": "https-sports-yahoo-com-articles-course-rams-president-endorses-browns-143732978-html",
+      "title": "Of course Rams president endorses Browns’ draft pick trade proposal",
+      "link": "https://sports.yahoo.com/articles/course-rams-president-endorses-browns-143732978.html",
       "source": "Yahoo Sports",
-      "ts": 1773908460.0,
-      "published_iso": "2026-03-19T08:21:00+00:00"
+      "ts": 1773910740.0,
+      "published_iso": "2026-03-19T08:59:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25408560-rams-exec-rips-seahawks-controversial-2-point-conversion-after-la-withdrew-ru",
+      "title": "Rams Exec Rips Seahawks' Controversial 2-Point Conversion After LA Withdrew Rule-Change Proposal",
+      "link": "https://bleacherreport.com/articles/25408560-rams-exec-rips-seahawks-controversial-2-point-conversion-after-la-withdrew-rule-change-proposal",
+      "source": "Bleacher Report",
+      "ts": 1773910080.0,
+      "published_iso": "2026-03-19T08:48:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-sean-mcvay-rams-reportedly-ditch-112032876-html",
@@ -17,22 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1773908160.0,
       "published_iso": "2026-03-19T08:16:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-kevin-demoff-voices-intriguing-opinion-expanding-ability-trade-picks",
-      "title": "Rams' Kevin Demoff Voices Intriguing Opinion On Expanding Ability To Trade Picks",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-kevin-demoff-voices-intriguing-opinion-expanding-ability-trade-picks",
-      "source": "Sports Illustrated",
-      "ts": 1773897060.0,
-      "published_iso": "2026-03-19T05:11:00+00:00"
-    },
-    {
-      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-trade-rumor-reveals-los-angeles-interest-cutting-ties-44-millio",
-      "title": "Rams trade rumor reveals Los Angeles' interest in cutting ties with $44 million star receiver",
-      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-trade-rumor-reveals-los-angeles-interest-cutting-ties-44-million-star-receiver/b33f0c4171ef4da24ba89dce",
-      "source": "Sporting News",
-      "ts": 1773646800.0,
-      "published_iso": "2026-03-16T07:40:00+00:00"
     }
   ]
 }
