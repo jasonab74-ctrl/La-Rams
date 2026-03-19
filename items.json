@@ -1,30 +1,38 @@
 {
-  "updated_iso": "2026-03-19T14:48:15.975133+00:00",
-  "count": 3,
+  "updated_iso": "2026-03-19T15:40:18.013454+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-trent-mcduffies-girlfriend-gabby-shares-141826050-html",
-      "title": "Trent McDuffie's girlfriend Gabby shares emotional message after Rams trade",
-      "link": "https://sports.yahoo.com/articles/trent-mcduffies-girlfriend-gabby-shares-141826050.html",
+      "id": "https-sports-yahoo-com-articles-todd-mcshay-free-agency-shapes-140000339-html",
+      "title": "Todd McShay: How free agency shapes Rams draft plans",
+      "link": "https://sports.yahoo.com/articles/todd-mcshay-free-agency-shapes-140000339.html",
       "source": "Yahoo Sports",
-      "ts": 1773906300.0,
-      "published_iso": "2026-03-19T07:45:00+00:00"
+      "ts": 1773908460.0,
+      "published_iso": "2026-03-19T08:21:00+00:00"
     },
     {
-      "id": "https-therams-com-news-rams-2026-nfl-draft-picks-set",
-      "title": "Rams' 2026 NFL Draft picks set",
-      "link": "https://therams.com/news/rams-2026-nfl-draft-picks-set",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1773758160.0,
-      "published_iso": "2026-03-17T14:36:00+00:00"
+      "id": "https-sports-yahoo-com-articles-sean-mcvay-rams-reportedly-ditch-112032876-html",
+      "title": "Sean McVay & Rams Reportedly Ditch Major Rule Proposal Despite Massive Controversy Against Seahawks",
+      "link": "https://sports.yahoo.com/articles/sean-mcvay-rams-reportedly-ditch-112032876.html",
+      "source": "Yahoo Sports",
+      "ts": 1773908160.0,
+      "published_iso": "2026-03-19T08:16:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-rams-trade-rumor-reveals-los-144001537-html",
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-kevin-demoff-voices-intriguing-opinion-expanding-ability-trade-picks",
+      "title": "Rams' Kevin Demoff Voices Intriguing Opinion On Expanding Ability To Trade Picks",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-kevin-demoff-voices-intriguing-opinion-expanding-ability-trade-picks",
+      "source": "Sports Illustrated",
+      "ts": 1773897060.0,
+      "published_iso": "2026-03-19T05:11:00+00:00"
+    },
+    {
+      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-trade-rumor-reveals-los-angeles-interest-cutting-ties-44-millio",
       "title": "Rams trade rumor reveals Los Angeles' interest in cutting ties with $44 million star receiver",
-      "link": "https://sports.yahoo.com/articles/rams-trade-rumor-reveals-los-144001537.html",
-      "source": "Yahoo Sports",
-      "ts": 1773648780.0,
-      "published_iso": "2026-03-16T08:13:00+00:00"
+      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-trade-rumor-reveals-los-angeles-interest-cutting-ties-44-million-star-receiver/b33f0c4171ef4da24ba89dce",
+      "source": "Sporting News",
+      "ts": 1773646800.0,
+      "published_iso": "2026-03-16T07:40:00+00:00"
     }
   ]
 }
