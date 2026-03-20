@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-03-20T20:18:17.906430+00:00",
-  "count": 5,
+  "updated_iso": "2026-03-20T20:53:42.675274+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-matthew-stafford-didn-t-tell-190000984-html",
-      "title": "Matthew Stafford Didn’t Tell Rams Teammates He Was Returning Until MVP Speech",
-      "link": "https://sports.yahoo.com/articles/matthew-stafford-didn-t-tell-190000984.html",
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-trade-idea-200640663-html",
+      "title": "Los Angeles Rams trade idea moves on from draft-pick for starting quarterback to replace Matthew Stafford long-term",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-trade-idea-200640663.html",
       "source": "Yahoo Sports",
-      "ts": 1774010520.0,
-      "published_iso": "2026-03-20T12:42:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-20-nfl-rankings-rams-pff-best-weaknesses-89244880007",
-      "title": "PFF calls Rams top team in NFL: 'Virtually no weaknesses'",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/20/nfl-rankings-rams-pff-best-weaknesses/89244880007/",
-      "source": "Rams Wire",
-      "ts": 1774008240.0,
-      "published_iso": "2026-03-20T12:04:00+00:00"
+      "ts": 1774013820.0,
+      "published_iso": "2026-03-20T13:37:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-20-nfl-mock-draft-rams-makai-lemon-jeremiyah-love-892462090",
@@ -27,20 +19,12 @@
       "published_iso": "2026-03-20T11:36:00+00:00"
     },
     {
-      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-trade-rumor-reveals-los-angeles-interest-cutting-ties-44-millio",
+      "id": "https-sports-yahoo-com-articles-rams-trade-rumor-reveals-los-144001537-html",
       "title": "Rams trade rumor reveals Los Angeles' interest in cutting ties with $44 million star receiver",
-      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-trade-rumor-reveals-los-angeles-interest-cutting-ties-44-million-star-receiver/b33f0c4171ef4da24ba89dce",
-      "source": "Sporting News",
-      "ts": 1773646800.0,
-      "published_iso": "2026-03-16T07:40:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-los-angeles-rams",
-      "title": "Los Angeles Rams",
-      "link": "https://bleacherreport.com/los-angeles-rams",
-      "source": "Bleacher Report",
-      "ts": 1747555920.0,
-      "published_iso": "2025-05-18T08:12:00+00:00"
+      "link": "https://sports.yahoo.com/articles/rams-trade-rumor-reveals-los-144001537.html",
+      "source": "Yahoo Sports",
+      "ts": 1773648780.0,
+      "published_iso": "2026-03-16T08:13:00+00:00"
     }
   ]
 }
