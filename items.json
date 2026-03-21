@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-21T11:41:50.911239+00:00",
+  "updated_iso": "2026-03-21T12:20:56.688516+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-21-nfl-mock-draft-rams-take-ot-with-first-round-pick-892459",
+      "title": "Rams take offensive lineman with first-round pick in new mock draft",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/21/nfl-mock-draft-rams-take-ot-with-first-round-pick/89245966007/",
+      "source": "Rams Wire",
+      "ts": 1774070040.0,
+      "published_iso": "2026-03-21T05:14:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-trade-idea-200640663-html",
       "title": "Los Angeles Rams trade idea moves on from draft-pick for starting quarterback to replace Matthew Stafford long-term",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1774013820.0,
       "published_iso": "2026-03-20T13:37:00+00:00"
-    },
-    {
-      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-trade-rumor-reveals-los-angeles-interest-cutting-ties-44-millio",
-      "title": "Rams trade rumor reveals Los Angeles' interest in cutting ties with $44 million star receiver",
-      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-trade-rumor-reveals-los-angeles-interest-cutting-ties-44-million-star-receiver/b33f0c4171ef4da24ba89dce",
-      "source": "Sporting News",
-      "ts": 1773646800.0,
-      "published_iso": "2026-03-16T07:40:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-7-round-los-angeles-rams-100000765-html",
