@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-21T14:15:52.584667+00:00",
+  "updated_iso": "2026-03-21T14:48:29.222059+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-add-true-offensive-tackle-140200649-html",
+      "title": "Should the Rams add a “true” offensive tackle?",
+      "link": "https://sports.yahoo.com/articles/rams-add-true-offensive-tackle-140200649.html",
+      "source": "Yahoo Sports",
+      "ts": 1774077720.0,
+      "published_iso": "2026-03-21T07:22:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-trade-idea-200640663-html",
       "title": "Los Angeles Rams trade idea moves on from draft-pick for starting quarterback to replace Matthew Stafford long-term",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1774013820.0,
       "published_iso": "2026-03-20T13:37:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-7-round-los-angeles-rams-100000765-html",
-      "title": "7-Round Los Angeles Rams mock draft: What are the next steps for the Rams after free agency?",
-      "link": "https://sports.yahoo.com/articles/7-round-los-angeles-rams-100000765.html",
-      "source": "Yahoo Sports",
-      "ts": 1773642000.0,
-      "published_iso": "2026-03-16T06:20:00+00:00"
     }
   ]
 }
