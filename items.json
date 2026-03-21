@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-03-21T17:15:09.898679+00:00",
+  "updated_iso": "2026-03-21T17:46:08.094718+00:00",
   "count": 2,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-rams-trade-124m-extension-chiefs-163210750-html",
-      "title": "Rams trade and $124M extension for Chiefs' All-Pro CB called top-10 best offseason move",
-      "link": "https://sports.yahoo.com/articles/rams-trade-124m-extension-chiefs-163210750.html",
-      "source": "Yahoo Sports",
-      "ts": 1774086960.0,
-      "published_iso": "2026-03-21T09:56:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-trade-idea-200640663-html",
       "title": "Los Angeles Rams trade idea moves on from draft-pick for starting quarterback to replace Matthew Stafford long-term",
@@ -17,6 +9,14 @@
       "source": "Yahoo Sports",
       "ts": 1774013820.0,
       "published_iso": "2026-03-20T13:37:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-los-angeles-rams",
+      "title": "Los Angeles Rams",
+      "link": "https://bleacherreport.com/los-angeles-rams",
+      "source": "Bleacher Report",
+      "ts": 1747293300.0,
+      "published_iso": "2025-05-15T07:15:00+00:00"
     }
   ]
 }
