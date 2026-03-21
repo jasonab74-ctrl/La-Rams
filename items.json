@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-21T21:43:06.862069+00:00",
-  "count": 3,
+  "updated_iso": "2026-03-21T22:10:58.906636+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-trade-idea-200640663-html",
@@ -17,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1773642000.0,
       "published_iso": "2026-03-16T06:20:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-los-angeles-rams",
-      "title": "Los Angeles Rams",
-      "link": "https://bleacherreport.com/los-angeles-rams",
-      "source": "Bleacher Report",
-      "ts": 1747293300.0,
-      "published_iso": "2025-05-15T07:15:00+00:00"
     }
   ]
 }
