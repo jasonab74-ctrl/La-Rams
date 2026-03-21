@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-21T19:17:10.072856+00:00",
+  "updated_iso": "2026-03-21T19:42:11.011720+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-mock-draft-picks-vibing-191715701-html",
+      "title": "Which Rams mock draft picks are you vibing with the most?",
+      "link": "https://sports.yahoo.com/articles/rams-mock-draft-picks-vibing-191715701.html",
+      "source": "Yahoo Sports",
+      "ts": 1774096020.0,
+      "published_iso": "2026-03-21T12:27:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-trade-idea-200640663-html",
       "title": "Los Angeles Rams trade idea moves on from draft-pick for starting quarterback to replace Matthew Stafford long-term",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1774013820.0,
       "published_iso": "2026-03-20T13:37:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-7-round-los-angeles-rams-100000765-html",
-      "title": "7-Round Los Angeles Rams mock draft: What are the next steps for the Rams after free agency?",
-      "link": "https://sports.yahoo.com/articles/7-round-los-angeles-rams-100000765.html",
-      "source": "Yahoo Sports",
-      "ts": 1773642000.0,
-      "published_iso": "2026-03-16T06:20:00+00:00"
     },
     {
       "id": "https-bleacherreport-com-los-angeles-rams",
