@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-22T20:48:01.260844+00:00",
-  "count": 2,
+  "updated_iso": "2026-03-22T21:15:00.333361+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-expected-draft-wr-omar-173000600-html",
+      "title": "Rams Expected to Draft WR Omar Cooper Jr. as Potential Replacement for Adams in 2026",
+      "link": "https://sports.yahoo.com/articles/rams-expected-draft-wr-omar-173000600.html",
+      "source": "Yahoo Sports",
+      "ts": 1774188180.0,
+      "published_iso": "2026-03-22T14:03:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-rising-offensive-star-4-201352593-html",
       "title": "Rams take rising offensive star in new 4-round mock draft",
