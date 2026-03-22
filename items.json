@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-22T10:14:43.496988+00:00",
-  "count": 2,
+  "updated_iso": "2026-03-22T10:50:03.905644+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-trade-idea-200640663-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1774013820.0,
       "published_iso": "2026-03-20T13:37:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-7-round-los-angeles-rams-100000765-html",
-      "title": "7-Round Los Angeles Rams mock draft: What are the next steps for the Rams after free agency?",
-      "link": "https://sports.yahoo.com/articles/7-round-los-angeles-rams-100000765.html",
-      "source": "Yahoo Sports",
-      "ts": 1773642000.0,
-      "published_iso": "2026-03-16T06:20:00+00:00"
     }
   ]
 }
