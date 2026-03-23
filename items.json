@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-23T20:58:38.676652+00:00",
-  "count": 3,
+  "updated_iso": "2026-03-23T21:32:47.318227+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-expected-sign-10-time-173239522-html",
@@ -17,14 +17,6 @@
       "source": "Rams Wire",
       "ts": 1774267740.0,
       "published_iso": "2026-03-23T12:09:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-23-rams-mock-draft-experts-projections-2026-89284897007",
-      "title": "Rams mock draft roundup: 2 positions emerging as top targets for LA",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/23/rams-mock-draft-experts-projections-2026/89284897007/",
-      "source": "Rams Wire",
-      "ts": 1774254000.0,
-      "published_iso": "2026-03-23T08:20:00+00:00"
     }
   ]
 }
