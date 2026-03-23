@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-23T16:41:49.170542+00:00",
+  "updated_iso": "2026-03-23T17:40:53.528376+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-facing-puka-nacua-decision-141712368-html",
+      "title": "Rams Facing Puka Nacua Decision After Breaking News on Monday",
+      "link": "https://sports.yahoo.com/articles/rams-facing-puka-nacua-decision-141712368.html",
+      "source": "Yahoo Sports",
+      "ts": 1774262280.0,
+      "published_iso": "2026-03-23T10:38:00+00:00"
+    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-23-rams-mock-draft-experts-projections-2026-89284897007",
       "title": "Rams mock draft roundup: 2 positions emerging as top targets for LA",
@@ -9,14 +17,6 @@
       "source": "Rams Wire",
       "ts": 1774254000.0,
       "published_iso": "2026-03-23T08:20:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-trade-idea-200640663-html",
-      "title": "Los Angeles Rams trade idea moves on from draft-pick for starting quarterback to replace Matthew Stafford long-term",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-trade-idea-200640663.html",
-      "source": "Yahoo Sports",
-      "ts": 1774013820.0,
-      "published_iso": "2026-03-20T13:37:00+00:00"
     }
   ]
 }
