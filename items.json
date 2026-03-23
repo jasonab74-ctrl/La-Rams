@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-23T12:35:57.389582+00:00",
-  "count": 3,
+  "updated_iso": "2026-03-23T14:05:22.649313+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-wise-invest-premium-position-100000379-html",
+      "title": "The Rams would be wise to invest at premium position around Matthew Stafford in the 2026 NFL Draft, even if it means moving on from fan-favorite starters",
+      "link": "https://sports.yahoo.com/articles/rams-wise-invest-premium-position-100000379.html",
+      "source": "Yahoo Sports",
+      "ts": 1774247160.0,
+      "published_iso": "2026-03-23T06:26:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-trade-idea-200640663-html",
       "title": "Los Angeles Rams trade idea moves on from draft-pick for starting quarterback to replace Matthew Stafford long-term",
@@ -9,22 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1774013820.0,
       "published_iso": "2026-03-20T13:37:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-trade-rumor-reveals-los-144001537-html",
-      "title": "Rams trade rumor reveals Los Angeles' interest in cutting ties with $44 million star receiver",
-      "link": "https://sports.yahoo.com/articles/rams-trade-rumor-reveals-los-144001537.html",
-      "source": "Yahoo Sports",
-      "ts": 1773648780.0,
-      "published_iso": "2026-03-16T08:13:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-los-angeles-rams",
-      "title": "Los Angeles Rams",
-      "link": "https://bleacherreport.com/los-angeles-rams",
-      "source": "Bleacher Report",
-      "ts": 1747204440.0,
-      "published_iso": "2025-05-14T06:34:00+00:00"
     }
   ]
 }
