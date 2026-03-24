@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-03-24T23:19:36.998837+00:00",
-  "count": 1,
+  "updated_iso": "2026-03-24T23:51:15.961566+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-stetson-bennett-part-rams-lingering-160143150-html",
-      "title": "Stetson Bennett part of Rams' 'lingering weakness' according to ESPN",
-      "link": "https://sports.yahoo.com/articles/stetson-bennett-part-rams-lingering-160143150.html",
+      "id": "https-sports-yahoo-com-articles-rams-puka-nacua-accused-biting-233259665-html",
+      "title": "Rams’ Puka Nacua accused of biting woman, making antisemitic remark; NFL star denies allegations",
+      "link": "https://sports.yahoo.com/articles/rams-puka-nacua-accused-biting-233259665.html",
       "source": "Yahoo Sports",
-      "ts": 1774344360.0,
-      "published_iso": "2026-03-24T09:26:00+00:00"
+      "ts": 1774370700.0,
+      "published_iso": "2026-03-24T16:45:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-sign-defensive-232616390-html",
+      "title": "Los Angeles Rams re-sign defensive end Larrell Murchison",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-sign-defensive-232616390.html",
+      "source": "Yahoo Sports",
+      "ts": 1774284180.0,
+      "published_iso": "2026-03-23T16:43:00+00:00"
     }
   ]
 }
