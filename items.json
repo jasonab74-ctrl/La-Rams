@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-23T23:51:58.476839+00:00",
-  "count": 2,
+  "updated_iso": "2026-03-24T00:57:18.686735+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-sign-defensive-232616390-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1774284180.0,
       "published_iso": "2026-03-23T16:43:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-23-nfl-free-agency-best-available-rams-sign-89289054007",
-      "title": "7 remaining free agents the Rams could consider signing",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/23/nfl-free-agency-best-available-rams-sign/89289054007/",
-      "source": "Rams Wire",
-      "ts": 1774267740.0,
-      "published_iso": "2026-03-23T12:09:00+00:00"
     }
   ]
 }
