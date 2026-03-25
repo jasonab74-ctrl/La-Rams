@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-25T20:25:29.075130+00:00",
-  "count": 3,
+  "updated_iso": "2026-03-25T20:58:28.029581+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-nfl-game-australia-air-49ers-192118334-html",
@@ -17,14 +17,6 @@
       "source": "Bleacher Report",
       "ts": 1774441560.0,
       "published_iso": "2026-03-25T12:26:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-san-francisco-49ers-game-friday-september-11-melbourne-australia",
-      "title": "Rams vs. San Francisco 49ers game set for Friday, September 11 in Melbourne, Australia",
-      "link": "https://therams.com/news/rams-san-francisco-49ers-game-friday-september-11-melbourne-australia",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1774440300.0,
-      "published_iso": "2026-03-25T12:05:00+00:00"
     }
   ]
 }
