@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-03-25T15:39:26.921840+00:00",
-  "count": 2,
+  "updated_iso": "2026-03-25T16:51:08.714324+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-espn-analyst-loved-fearlessness-rams-131624362-html",
-      "title": "ESPN analyst loved the 'fearlessness' of Rams' offseason moves",
-      "link": "https://sports.yahoo.com/articles/espn-analyst-loved-fearlessness-rams-131624362.html",
+      "id": "https-sports-yahoo-com-articles-rams-running-options-backup-qb-145705576-html",
+      "title": "Rams running out of options as backup QB market is ‘beginning to dry up’",
+      "link": "https://sports.yahoo.com/articles/rams-running-options-backup-qb-145705576.html",
       "source": "Yahoo Sports",
-      "ts": 1774420140.0,
-      "published_iso": "2026-03-25T06:29:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-puka-nacua-faces-legal-action-130000342-html",
-      "title": "Puka Nacua faces legal action after woman claims LA Rams star ‘bit her’",
-      "link": "https://sports.yahoo.com/articles/puka-nacua-faces-legal-action-130000342.html",
-      "source": "Yahoo Sports",
-      "ts": 1774419300.0,
-      "published_iso": "2026-03-25T06:15:00+00:00"
+      "ts": 1774430760.0,
+      "published_iso": "2026-03-25T09:26:00+00:00"
     }
   ]
 }
