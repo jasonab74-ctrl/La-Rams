@@ -1,22 +1,22 @@
 {
-  "updated_iso": "2026-03-25T18:39:24.170195+00:00",
+  "updated_iso": "2026-03-25T19:36:57.928929+00:00",
   "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-sign-running-back-kickoff-172220510-html",
-      "title": "Rams re-sign running back and kickoff returner",
-      "link": "https://sports.yahoo.com/articles/rams-sign-running-back-kickoff-172220510.html",
+      "id": "https-sports-yahoo-com-articles-nfl-game-australia-air-49ers-192118334-html",
+      "title": "When will NFL game in Australia air here? 49ers-Rams details revealed",
+      "link": "https://sports.yahoo.com/articles/nfl-game-australia-air-49ers-192118334.html",
       "source": "Yahoo Sports",
-      "ts": 1774435080.0,
-      "published_iso": "2026-03-25T10:38:00+00:00"
+      "ts": 1774441980.0,
+      "published_iso": "2026-03-25T12:33:00+00:00"
     },
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-25-nfl-rams-ronnie-rivers-free-agency-signing-89317762007",
-      "title": "Rams re-sign backup RB to 1-year deal",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/25/nfl-rams-ronnie-rivers-free-agency-signing/89317762007/",
-      "source": "Rams Wire",
-      "ts": 1774434600.0,
-      "published_iso": "2026-03-25T10:30:00+00:00"
+      "id": "https-therams-com-news-rams-san-francisco-49ers-game-friday-september-11-melbourne-australia",
+      "title": "Rams vs. San Francisco 49ers game set for Friday, September 11 in Melbourne, Australia",
+      "link": "https://therams.com/news/rams-san-francisco-49ers-game-friday-september-11-melbourne-australia",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1774440300.0,
+      "published_iso": "2026-03-25T12:05:00+00:00"
     }
   ]
 }
