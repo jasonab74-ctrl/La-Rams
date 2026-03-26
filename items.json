@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-03-26T14:16:58.631647+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-03-26T15:46:40.305659+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-t-j-houshmandzadeh-urges-rams-133152982-html",
+      "title": "T. J. Houshmandzadeh Urges Rams to Draft a Receiver and Deny Puka Nacua a Big Paycheck",
+      "link": "https://sports.yahoo.com/articles/t-j-houshmandzadeh-urges-rams-133152982.html",
+      "source": "Yahoo Sports",
+      "ts": 1774509300.0,
+      "published_iso": "2026-03-26T07:15:00+00:00"
+    }
+  ]
 }
