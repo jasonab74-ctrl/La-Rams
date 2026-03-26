@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-03-26T20:54:18.561501+00:00",
-  "count": 2,
+  "updated_iso": "2026-03-26T21:20:09.707213+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-cb-ahkello-witherspoon-leaves-rams-203313783-html",
-      "title": "CB Ahkello Witherspoon leaves Rams for NFC East team",
-      "link": "https://sports.yahoo.com/articles/cb-ahkello-witherspoon-leaves-rams-203313783.html",
+      "id": "https-sports-yahoo-com-articles-rams-potential-myles-garrett-team-203128904-html",
+      "title": "Are Rams a potential Myles Garrett team?",
+      "link": "https://sports.yahoo.com/articles/rams-potential-myles-garrett-team-203128904.html",
       "source": "Yahoo Sports",
       "ts": 1774532880.0,
       "published_iso": "2026-03-26T13:48:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-26-nfl-draft-7-round-mock-rams-wr-qb-future-89335130007",
-      "title": "New 7-round mock draft has Rams finding WR and QB of the future",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/26/nfl-draft-7-round-mock-rams-wr-qb-future/89335130007/",
-      "source": "Rams Wire",
-      "ts": 1774525680.0,
-      "published_iso": "2026-03-26T11:48:00+00:00"
     }
   ]
 }
