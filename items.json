@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-03-26T22:52:47.870593+00:00",
+  "updated_iso": "2026-03-26T23:18:26.078710+00:00",
   "count": 2,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-commanders-sign-former-rams-49ers-221343879-html",
-      "title": "Commanders sign former Rams, 49ers cornerback",
-      "link": "https://sports.yahoo.com/articles/commanders-sign-former-rams-49ers-221343879.html",
-      "source": "Yahoo Sports",
-      "ts": 1774539480.0,
-      "published_iso": "2026-03-26T15:38:00+00:00"
-    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-26-nfl-draft-7-round-mock-rams-wr-qb-future-89335130007",
       "title": "New 7-round mock draft has Rams finding WR and QB of the future",
@@ -17,6 +9,14 @@
       "source": "Rams Wire",
       "ts": 1774525680.0,
       "published_iso": "2026-03-26T11:48:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-report-rams-private-workout-big-174449973-html",
+      "title": "Report: Rams to have private workout with Big 12 WR",
+      "link": "https://sports.yahoo.com/articles/report-rams-private-workout-big-174449973.html",
+      "source": "Yahoo Sports",
+      "ts": 1774523280.0,
+      "published_iso": "2026-03-26T11:08:00+00:00"
     }
   ]
 }
