@@ -1,22 +1,30 @@
 {
-  "updated_iso": "2026-03-27T15:12:23.683670+00:00",
-  "count": 2,
+  "updated_iso": "2026-03-27T16:09:43.617734+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-27-rams-kyren-williams-blake-corum-ranked-no-1-rb-duo-89346",
-      "title": "Rams' Kyren Williams and Blake Corum ranked No. 1 RB duo",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/27/rams-kyren-williams-blake-corum-ranked-no-1-rb-duo/89346164007/",
-      "source": "Rams Wire",
-      "ts": 1774593720.0,
-      "published_iso": "2026-03-27T06:42:00+00:00"
+      "id": "https-sports-yahoo-com-nfl-betting-article-nfl-betting-odds-lines-overunders-for-all-32-teams-ravens-rams-have-nfls-high",
+      "title": "NFL betting, odds, lines: Over/unders for all 32 teams; Ravens, Rams have NFL's highest season win total",
+      "link": "https://sports.yahoo.com/nfl/betting/article/nfl-betting-odds-lines-overunders-for-all-32-teams-ravens-rams-have-nfls-highest-season-win-total-172458901.html",
+      "source": "Yahoo Sports",
+      "ts": 1774602240.0,
+      "published_iso": "2026-03-27T09:04:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-civil-lawsuit-filed-against-puka-234739506-html",
-      "title": "A civil lawsuit was filed against Puka Nacua. Here are the allegations — and the Rams receiver’s response",
-      "link": "https://sports.yahoo.com/articles/civil-lawsuit-filed-against-puka-234739506.html",
+      "id": "https-sports-yahoo-com-articles-rams-looking-trade-not-back-154633228-html",
+      "title": "Rams should be looking to trade up, not back in NFL Draft",
+      "link": "https://sports.yahoo.com/articles/rams-looking-trade-not-back-154633228.html",
       "source": "Yahoo Sports",
-      "ts": 1774544460.0,
-      "published_iso": "2026-03-26T17:01:00+00:00"
+      "ts": 1774601760.0,
+      "published_iso": "2026-03-27T08:56:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-27-rams-2026-draft-meeting-tracker-prospects-89334782007",
+      "title": "Rams 2026 pre-draft meetings tracker: Every prospect LA has met with",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/27/rams-2026-draft-meeting-tracker-prospects/89334782007/",
+      "source": "Rams Wire",
+      "ts": 1774589940.0,
+      "published_iso": "2026-03-27T05:39:00+00:00"
     }
   ]
 }
