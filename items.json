@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-03-26T23:53:01.634107+00:00",
-  "count": 1,
+  "updated_iso": "2026-03-27T01:07:09.435240+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-cb-ahkello-witherspoon-leaves-rams-203313783-html",
-      "title": "CB Ahkello Witherspoon leaves Rams for NFC East team",
-      "link": "https://sports.yahoo.com/articles/cb-ahkello-witherspoon-leaves-rams-203313783.html",
+      "id": "https-sports-yahoo-com-articles-civil-lawsuit-filed-against-puka-234739506-html",
+      "title": "A civil lawsuit was filed against Puka Nacua. Here are the allegations — and the Rams receiver’s response",
+      "link": "https://sports.yahoo.com/articles/civil-lawsuit-filed-against-puka-234739506.html",
       "source": "Yahoo Sports",
-      "ts": 1774532880.0,
-      "published_iso": "2026-03-26T13:48:00+00:00"
+      "ts": 1774544460.0,
+      "published_iso": "2026-03-26T17:01:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-26-nfl-draft-7-round-mock-rams-wr-qb-future-89335130007",
+      "title": "New 7-round mock draft has Rams finding WR and QB of the future",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/26/nfl-draft-7-round-mock-rams-wr-qb-future/89335130007/",
+      "source": "Rams Wire",
+      "ts": 1774525680.0,
+      "published_iso": "2026-03-26T11:48:00+00:00"
     }
   ]
 }
