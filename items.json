@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-03-27T18:07:06.758649+00:00",
-  "count": 1,
+  "updated_iso": "2026-03-27T19:13:22.229705+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-2026-nfl-draft-edge-prospect-184813928-html",
+      "title": "2026 NFL draft edge prospect says he met with Rams twice",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-draft-edge-prospect-184813928.html",
+      "source": "Yahoo Sports",
+      "ts": 1774613100.0,
+      "published_iso": "2026-03-27T12:05:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-27-rams-49ers-tickets-australia-waiting-list-fans-893508970",
+      "title": "Demand for Rams-49ers tickets in Australia is already off the charts",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/27/rams-49ers-tickets-australia-waiting-list-fans/89350897007/",
+      "source": "Rams Wire",
+      "ts": 1774611360.0,
+      "published_iso": "2026-03-27T11:36:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-former-nfl-star-warns-puka-173000362-html",
       "title": "Former NFL star warns Puka Nacua of Los Angeles Rams’ 2026 NFL Draft plans",
