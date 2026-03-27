@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-03-27T17:13:36.149694+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-03-27T18:07:06.758649+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-former-nfl-star-warns-puka-173000362-html",
+      "title": "Former NFL star warns Puka Nacua of Los Angeles Rams’ 2026 NFL Draft plans",
+      "link": "https://sports.yahoo.com/articles/former-nfl-star-warns-puka-173000362.html",
+      "source": "Yahoo Sports",
+      "ts": 1774608420.0,
+      "published_iso": "2026-03-27T10:47:00+00:00"
+    }
+  ]
 }
