@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-03-28T14:02:36.781724+00:00",
-  "count": 2,
+  "updated_iso": "2026-03-28T14:55:41.770419+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-former-nfl-star-warns-puka-173000362-html",
-      "title": "Former NFL star warns Puka Nacua of Los Angeles Rams’ 2026 NFL Draft plans",
-      "link": "https://sports.yahoo.com/articles/former-nfl-star-warns-puka-173000362.html",
-      "source": "Yahoo Sports",
-      "ts": 1774608420.0,
-      "published_iso": "2026-03-27T10:47:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1597287420.0,
-      "published_iso": "2020-08-13T02:57:00+00:00"
+      "id": "https-therams-com-news-rams-san-francisco-49ers-game-friday-september-11-melbourne-australia",
+      "title": "Rams vs. San Francisco 49ers game set for Friday, September 11 in Melbourne, Australia",
+      "link": "https://therams.com/news/rams-san-francisco-49ers-game-friday-september-11-melbourne-australia",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1774440300.0,
+      "published_iso": "2026-03-25T12:05:00+00:00"
     }
   ]
 }
