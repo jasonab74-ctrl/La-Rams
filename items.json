@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-28T11:47:56.856985+00:00",
-  "count": 1,
+  "updated_iso": "2026-03-28T12:26:36.961565+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-27-nfl-draft-espn-analyst-doesnt-see-rams-as-a-fit-for-this",
+      "title": "ESPN analyst doesn't see why Rams would be fit for this QB prospect",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/27/nfl-draft-espn-analyst-doesnt-see-rams-as-a-fit-for-this-qb-prospect/89350805007/",
+      "source": "Rams Wire",
+      "ts": 1774610460.0,
+      "published_iso": "2026-03-27T11:21:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-former-nfl-star-warns-puka-173000362-html",
       "title": "Former NFL star warns Puka Nacua of Los Angeles Rams’ 2026 NFL Draft plans",
@@ -9,6 +17,14 @@
       "source": "Yahoo Sports",
       "ts": 1774608420.0,
       "published_iso": "2026-03-27T10:47:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1597287420.0,
+      "published_iso": "2020-08-13T02:57:00+00:00"
     }
   ]
 }
