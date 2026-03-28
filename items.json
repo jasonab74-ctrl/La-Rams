@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-28T08:33:23.549956+00:00",
-  "count": 2,
+  "updated_iso": "2026-03-28T09:25:04.494632+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-27-nfl-draft-espn-analyst-doesnt-see-rams-as-a-fit-for-this",
@@ -17,6 +17,14 @@
       "source": "Yahoo Sports",
       "ts": 1774608420.0,
       "published_iso": "2026-03-27T10:47:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1597287420.0,
+      "published_iso": "2020-08-13T02:57:00+00:00"
     }
   ]
 }
