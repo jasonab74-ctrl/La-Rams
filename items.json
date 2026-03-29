@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-29T10:57:48.643153+00:00",
-  "count": 2,
+  "updated_iso": "2026-03-29T11:23:38.882478+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-draft-pedigree-round-round-140300106-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1774743300.0,
       "published_iso": "2026-03-29T00:15:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-27-nfl-draft-espn-analyst-doesnt-see-rams-as-a-fit-for-this",
-      "title": "ESPN analyst doesn't see why Rams would be fit for this QB prospect",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/27/nfl-draft-espn-analyst-doesnt-see-rams-as-a-fit-for-this-qb-prospect/89350805007/",
-      "source": "Rams Wire",
-      "ts": 1774610460.0,
-      "published_iso": "2026-03-27T11:21:00+00:00"
     }
   ]
 }
