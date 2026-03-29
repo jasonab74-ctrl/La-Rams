@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-29T20:17:45.545133+00:00",
+  "updated_iso": "2026-03-29T20:53:35.586052+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-most-overpaid-player-9-200641000-html",
+      "title": "Rams' most overpaid player is their $9.1 million TE highlighting GM masterclass",
+      "link": "https://sports.yahoo.com/articles/rams-most-overpaid-player-9-200641000.html",
+      "source": "Yahoo Sports",
+      "ts": 1774790880.0,
+      "published_iso": "2026-03-29T13:28:00+00:00"
+    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-29-nfl-draft-rams-crucial-preview-2026-89351773007",
       "title": "NFL analyst explains why 2026 draft is 'crucial' for Rams",
@@ -9,14 +17,6 @@
       "source": "Rams Wire",
       "ts": 1774787520.0,
       "published_iso": "2026-03-29T12:32:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-former-nfl-star-warns-puka-173000362-html",
-      "title": "Former NFL star warns Puka Nacua of Los Angeles Rams’ 2026 NFL Draft plans",
-      "link": "https://sports.yahoo.com/articles/former-nfl-star-warns-puka-173000362.html",
-      "source": "Yahoo Sports",
-      "ts": 1774608420.0,
-      "published_iso": "2026-03-27T10:47:00+00:00"
     }
   ]
 }
