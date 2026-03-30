@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2026-03-30T18:42:04.352438+00:00",
-  "count": 1,
+  "updated_iso": "2026-03-30T19:44:52.215990+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-4-round-los-angeles-rams-100000367-html",
-      "title": "4-Round Los Angeles Rams NFL Mock Draft: Putting the tea leaves together to build best Rams' roster in years",
-      "link": "https://sports.yahoo.com/articles/4-round-los-angeles-rams-100000367.html",
+      "id": "https-sports-yahoo-com-articles-rams-sean-mcvay-defends-puka-190224306-html",
+      "title": "Rams’ Sean McVay Defends Puka Nacua Amid Controversy",
+      "link": "https://sports.yahoo.com/articles/rams-sean-mcvay-defends-puka-190224306.html",
       "source": "Yahoo Sports",
-      "ts": 1774851600.0,
-      "published_iso": "2026-03-30T06:20:00+00:00"
+      "ts": 1774872480.0,
+      "published_iso": "2026-03-30T12:08:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-hc-sean-mcvay-explains-181325339-html",
+      "title": "Rams HC Sean McVay explains what he likes most about QB Ty Simpson",
+      "link": "https://sports.yahoo.com/articles/rams-hc-sean-mcvay-explains-181325339.html",
+      "source": "Yahoo Sports",
+      "ts": 1774869540.0,
+      "published_iso": "2026-03-30T11:19:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25412462-kirk-cousins-rams-contract-talks-revealed-sean-mcvay-amid-jimmy-garoppolos-nf",
+      "title": "Kirk Cousins, Rams Contract Talks Revealed by Sean McVay Amid Jimmy Garoppolo's NFL Free Agency",
+      "link": "https://bleacherreport.com/articles/25412462-kirk-cousins-rams-contract-talks-revealed-sean-mcvay-amid-jimmy-garoppolos-nfl-free-agency",
+      "source": "Bleacher Report",
+      "ts": 1774866840.0,
+      "published_iso": "2026-03-30T10:34:00+00:00"
     }
   ]
 }
