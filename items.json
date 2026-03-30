@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-03-30T15:46:59.435931+00:00",
-  "count": 5,
+  "updated_iso": "2026-03-30T16:43:23.907171+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-sean-mcvay-says-rams-eyeing-152049782-html",
-      "title": "Sean McVay says Rams are eyeing these 2 backup QBs in free agency",
-      "link": "https://sports.yahoo.com/articles/sean-mcvay-says-rams-eyeing-152049782.html",
+      "id": "https-sports-yahoo-com-articles-rams-considered-trading-away-davante-154219427-html",
+      "title": "Rams considered trading away Davante Adams, Sean McVay confirms",
+      "link": "https://sports.yahoo.com/articles/rams-considered-trading-away-davante-154219427.html",
       "source": "Yahoo Sports",
-      "ts": 1774859940.0,
-      "published_iso": "2026-03-30T08:39:00+00:00"
+      "ts": 1774861080.0,
+      "published_iso": "2026-03-30T08:58:00+00:00"
     },
     {
       "id": "https-bleacherreport-com-articles-25412409-davante-adams-trade-rumors-discussed-privately-between-rams-mcvay-and-star-wr",
@@ -17,30 +17,6 @@
       "source": "Bleacher Report",
       "ts": 1774859340.0,
       "published_iso": "2026-03-30T08:29:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-4-round-los-angeles-rams-100000367-html",
-      "title": "4-Round Los Angeles Rams NFL Mock Draft: Putting the tea leaves together to build best Rams' roster in years",
-      "link": "https://sports.yahoo.com/articles/4-round-los-angeles-rams-100000367.html",
-      "source": "Yahoo Sports",
-      "ts": 1774851600.0,
-      "published_iso": "2026-03-30T06:20:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-30-rams-espn-round-mock-draft-spencer-fano-drew-allar-89383",
-      "title": "Rams pick 5 consecutive offensive players in ESPN's 7-round mock draft",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/30/rams-espn-round-mock-draft-spencer-fano-drew-allar/89383972007/",
-      "source": "Rams Wire",
-      "ts": 1774851360.0,
-      "published_iso": "2026-03-30T06:16:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-03-29-nfl-draft-rams-crucial-preview-2026-89351773007",
-      "title": "NFL analyst explains why 2026 draft is 'crucial' for Rams",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/03/29/nfl-draft-rams-crucial-preview-2026/89351773007/",
-      "source": "Rams Wire",
-      "ts": 1774787520.0,
-      "published_iso": "2026-03-29T12:32:00+00:00"
     }
   ]
 }
