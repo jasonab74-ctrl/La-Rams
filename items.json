@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2026-03-31T05:57:28.605331+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-03-31T07:04:54.849441+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-sean-mcvay-directly-invites-004357093-html",
+      "title": "Rams’ Sean McVay directly invites old friend Kirk Cousins to sign with LA",
+      "link": "https://sports.yahoo.com/articles/rams-sean-mcvay-directly-invites-004357093.html",
+      "source": "Yahoo Sports",
+      "ts": 1774900440.0,
+      "published_iso": "2026-03-30T19:54:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-2026-nfl-002028172-html",
+      "title": "Los Angeles Rams 2026 NFL Draft Preview",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-2026-nfl-002028172.html",
+      "source": "Yahoo Sports",
+      "ts": 1774891620.0,
+      "published_iso": "2026-03-30T17:27:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25412462-kirk-cousins-rams-contract-talks-revealed-sean-mcvay-amid-jimmy-garoppolos-nf",
+      "title": "Kirk Cousins, Rams Contract Talks Revealed by Sean McVay Amid Jimmy Garoppolo's NFL Free Agency",
+      "link": "https://bleacherreport.com/articles/25412462-kirk-cousins-rams-contract-talks-revealed-sean-mcvay-amid-jimmy-garoppolos-nfl-free-agency",
+      "source": "Bleacher Report",
+      "ts": 1774866840.0,
+      "published_iso": "2026-03-30T10:34:00+00:00"
+    }
+  ]
 }
