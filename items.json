@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2026-04-01T19:49:02.724548+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-04-01T20:31:36.794818+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-bleacherreport-com-articles-25413699-why-f-them-picks-rams-gm-wouldve-backed-browns-proposal-nfl-draft-pick-trades",
+      "title": "Why the 'F Them Picks' Rams GM Would've Backed Browns' Proposal on NFL Draft Pick Trades",
+      "link": "https://bleacherreport.com/articles/25413699-why-f-them-picks-rams-gm-wouldve-backed-browns-proposal-nfl-draft-pick-trades",
+      "source": "Bleacher Report",
+      "ts": 1775048760.0,
+      "published_iso": "2026-04-01T13:06:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-among-few-nfl-teams-190016676-html",
+      "title": "Rams among few NFL teams with zero void-year hits after 2027",
+      "link": "https://sports.yahoo.com/articles/rams-among-few-nfl-teams-190016676.html",
+      "source": "Yahoo Sports",
+      "ts": 1775045700.0,
+      "published_iso": "2026-04-01T12:15:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25413089-kyle-shanahan-accuses-rams-using-49ers-game-australia-combat-crowds-reveals-r",
+      "title": "Kyle Shanahan Accuses Rams of Using 49ers Game in Australia to Combat Crowds, Reveals Revenge Plans",
+      "link": "https://bleacherreport.com/articles/25413089-kyle-shanahan-accuses-rams-using-49ers-game-australia-combat-crowds-reveals-revenge-plans",
+      "source": "Bleacher Report",
+      "ts": 1774973760.0,
+      "published_iso": "2026-03-31T16:16:00+00:00"
+    }
+  ]
 }
