@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-03-31T23:53:47.893175+00:00",
+  "updated_iso": "2026-04-01T01:15:43.264618+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-panthers-could-trade-rams-star-200003237-html",
+      "title": "The Panthers Could and Should Trade for Rams Star Davante Adams",
+      "link": "https://sports.yahoo.com/articles/panthers-could-trade-rams-star-200003237.html",
+      "source": "Yahoo Sports",
+      "ts": 1774976820.0,
+      "published_iso": "2026-03-31T17:07:00+00:00"
+    },
     {
       "id": "https-bleacherreport-com-articles-25413089-kyle-shanahan-accuses-rams-using-49ers-game-australia-combat-crowds-reveals-r",
       "title": "Kyle Shanahan Accuses Rams of Using 49ers Game in Australia to Combat Crowds, Reveals Revenge Plans",
@@ -17,14 +25,6 @@
       "source": "Rams Wire",
       "ts": 1774942500.0,
       "published_iso": "2026-03-31T07:35:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-2026-nfl-002028172-html",
-      "title": "Los Angeles Rams 2026 NFL Draft Preview",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-2026-nfl-002028172.html",
-      "source": "Yahoo Sports",
-      "ts": 1774891620.0,
-      "published_iso": "2026-03-30T17:27:00+00:00"
     }
   ]
 }
