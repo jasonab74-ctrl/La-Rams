@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-04-02T10:39:44.879694+00:00",
+  "updated_iso": "2026-04-02T11:35:51.841480+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-star-puka-103000851-html",
+      "title": "Los Angeles Rams star Puka Nacua is now in rehab amid biting allegations",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-star-puka-103000851.html",
+      "source": "Yahoo Sports",
+      "ts": 1775102040.0,
+      "published_iso": "2026-04-02T03:54:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-puka-nacua-attorney-provides-personal-044445624-html",
       "title": "Puka Nacua’s Attorney Provides Personal Update on Rams WR Amid Controversy",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1775091180.0,
       "published_iso": "2026-04-02T00:53:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25413699-why-f-them-picks-rams-gm-wouldve-backed-browns-proposal-nfl-draft-pick-trades",
-      "title": "Why the 'F Them Picks' Rams GM Would've Backed Browns' Proposal on NFL Draft Pick Trades",
-      "link": "https://bleacherreport.com/articles/25413699-why-f-them-picks-rams-gm-wouldve-backed-browns-proposal-nfl-draft-pick-trades",
-      "source": "Bleacher Report",
-      "ts": 1775048760.0,
-      "published_iso": "2026-04-01T13:06:00+00:00"
     }
   ]
 }
