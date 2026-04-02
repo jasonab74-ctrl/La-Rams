@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-04-02T05:53:20.209456+00:00",
-  "count": 1,
+  "updated_iso": "2026-04-02T06:57:12.086660+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-nfl-com-news-attorney-says-rams-wr-puka-nacua-in-rehab",
-      "title": "Attorney says Rams WR Puka Nacua in rehab",
-      "link": "https://nfl.com/news/attorney-says-rams-wr-puka-nacua-in-rehab",
-      "source": "NFL.com",
-      "ts": 1775071620.0,
-      "published_iso": "2026-04-01T19:27:00+00:00"
+      "id": "https-sports-yahoo-com-nfl-breaking-news-article-rams-puka-nacua-reportedly-enters-holistic-care-facility-to-focus-on-pe",
+      "title": "Rams' Puka Nacua enters holistic care facility to 'focus on personal growth,' lawyer confirms",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/rams-puka-nacua-reportedly-enters-holistic-care-facility-to-focus-on-personal-growth-amid-off-field-concerns-lawyer-confirms-235523923.html",
+      "source": "Yahoo Sports",
+      "ts": 1775082540.0,
+      "published_iso": "2026-04-01T22:29:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25413699-why-f-them-picks-rams-gm-wouldve-backed-browns-proposal-nfl-draft-pick-trades",
+      "title": "Why the 'F Them Picks' Rams GM Would've Backed Browns' Proposal on NFL Draft Pick Trades",
+      "link": "https://bleacherreport.com/articles/25413699-why-f-them-picks-rams-gm-wouldve-backed-browns-proposal-nfl-draft-pick-trades",
+      "source": "Bleacher Report",
+      "ts": 1775048760.0,
+      "published_iso": "2026-04-01T13:06:00+00:00"
     }
   ]
 }
