@@ -1,5 +1,5 @@
 {
-  "updated_iso": "2026-04-02T11:35:51.841480+00:00",
+  "updated_iso": "2026-04-02T12:41:22.857022+00:00",
   "count": 2,
   "items": [
     {
@@ -11,12 +11,12 @@
       "published_iso": "2026-04-02T03:54:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-puka-nacua-attorney-provides-personal-044445624-html",
-      "title": "Puka Nacua’s Attorney Provides Personal Update on Rams WR Amid Controversy",
-      "link": "https://sports.yahoo.com/articles/puka-nacua-attorney-provides-personal-044445624.html",
-      "source": "Yahoo Sports",
-      "ts": 1775091180.0,
-      "published_iso": "2026-04-02T00:53:00+00:00"
+      "id": "https-nfl-com-news-attorney-says-rams-wr-puka-nacua-in-rehab",
+      "title": "Attorney says Rams WR Puka Nacua in rehab",
+      "link": "https://nfl.com/news/attorney-says-rams-wr-puka-nacua-in-rehab",
+      "source": "NFL.com",
+      "ts": 1775071620.0,
+      "published_iso": "2026-04-01T19:27:00+00:00"
     }
   ]
 }
