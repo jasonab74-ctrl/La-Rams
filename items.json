@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-01T23:53:05.753689+00:00",
-  "count": 1,
+  "updated_iso": "2026-04-02T01:05:58.966456+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-bleacherreport-com-articles-25413699-why-f-them-picks-rams-gm-wouldve-backed-browns-proposal-nfl-draft-pick-trades",
@@ -9,6 +9,14 @@
       "source": "Bleacher Report",
       "ts": 1775048760.0,
       "published_iso": "2026-04-01T13:06:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-01-rams-among-nfl-teams-zero-void-year-hits-after-2027-8942",
+      "title": "Rams among few NFL teams with zero void-year hits after 2027",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/01/rams-among-nfl-teams-zero-void-year-hits-after-2027/89424069007/",
+      "source": "Rams Wire",
+      "ts": 1775045460.0,
+      "published_iso": "2026-04-01T12:11:00+00:00"
     }
   ]
 }
