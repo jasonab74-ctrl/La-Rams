@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-04-02T19:39:37.137723+00:00",
-  "count": 3,
+  "updated_iso": "2026-04-02T20:21:52.204655+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-si-com-betting-prediction-market-nfl-rams-emerge-favorites-select-omar-cooper-jr-2026-nfl-draft",
+      "title": "Rams Emerge as Favorites to Select Omar Cooper Jr. in the 2026 NFL Draft",
+      "link": "https://si.com/betting/prediction-market/nfl/rams-emerge-favorites-select-omar-cooper-jr-2026-nfl-draft",
+      "source": "Sports Illustrated",
+      "ts": 1775135760.0,
+      "published_iso": "2026-04-02T13:16:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-depth-chart-where-la-172050472-html",
       "title": "Where the Rams roster stands as draft gets closer",
@@ -9,22 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1775129400.0,
       "published_iso": "2026-04-02T11:30:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-gm-thinks-163000426-html",
-      "title": "What Los Angeles Rams GM thinks of Sean McVay’s plea to sign Kirk Cousins",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-gm-thinks-163000426.html",
-      "source": "Yahoo Sports",
-      "ts": 1775123460.0,
-      "published_iso": "2026-04-02T09:51:00+00:00"
-    },
-    {
-      "id": "https-si-com-betting-prediction-market-nfl-rams-emerge-favorites-select-omar-cooper-jr-2026-nfl-draft",
-      "title": "Rams Emerge as Favorites to Select Omar Cooper Jr. in the 2026 NFL Draft",
-      "link": "https://si.com/betting/prediction-market/nfl/rams-emerge-favorites-select-omar-cooper-jr-2026-nfl-draft",
-      "source": "Sports Illustrated",
-      "ts": 1775122920.0,
-      "published_iso": "2026-04-02T09:42:00+00:00"
     }
   ]
 }
