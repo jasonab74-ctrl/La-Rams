@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-04-02T14:13:35.813474+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-04-02T15:30:53.268336+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-think-2026-draft-class-141905426-html",
+      "title": "Rams think 2026 draft class 'might be a little thin' in later rounds",
+      "link": "https://sports.yahoo.com/articles/rams-think-2026-draft-class-141905426.html",
+      "source": "Yahoo Sports",
+      "ts": 1775115960.0,
+      "published_iso": "2026-04-02T07:46:00+00:00"
+    }
+  ]
 }
