@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-04-04T22:52:28.088969+00:00",
-  "count": 3,
+  "updated_iso": "2026-04-04T23:19:02.307504+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-connected-trade-get-lamar-jackson-another-mvp-award-c05f431fe6d",
+      "title": "Rams connected to surprising trade that would get Lamar Jackson another MVP award",
+      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-connected-trade-get-lamar-jackson-another-mvp-award/c05f431fe6de27f81491a164",
+      "source": "Sporting News",
+      "ts": 1775318160.0,
+      "published_iso": "2026-04-04T15:56:00+00:00"
+    },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-top-playmaker-could-be-slipping-right-into-hands",
       "title": "One Top Playmaker Could Be Slipping Right Into the Rams' Hands",
@@ -17,6 +25,14 @@
       "source": "Rams Wire",
       "ts": 1775286780.0,
       "published_iso": "2026-04-04T07:13:00+00:00"
+    },
+    {
+      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-linked-qb-trade-matthew-stafford-landing-no-4-pick-378ab508c89b",
+      "title": "Rams linked to intriguing QB trade behind Matthew Stafford by landing recent No. 4 pick",
+      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-linked-qb-trade-matthew-stafford-landing-no-4-pick/378ab508c89b7f8de623678e",
+      "source": "Sporting News",
+      "ts": 1775235600.0,
+      "published_iso": "2026-04-03T17:00:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-gm-thinks-163000426-html",
