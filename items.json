@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-04-05T16:59:13.566286+00:00",
-  "count": 2,
+  "updated_iso": "2026-04-05T17:28:56.733700+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-nfl-exec-shares-rams-trade-161253439-html",
+      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-nfl-exec-take-rams-trade-trent-mcduffie-i-dont-mind-it-df61ca0e7f0db",
       "title": "NFL exec shares take on Rams trade for Trent McDuffie: 'I don't mind it'",
-      "link": "https://sports.yahoo.com/articles/nfl-exec-shares-rams-trade-161253439.html",
-      "source": "Yahoo Sports",
-      "ts": 1775381640.0,
-      "published_iso": "2026-04-05T09:34:00+00:00"
+      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/nfl-exec-take-rams-trade-trent-mcduffie-i-dont-mind-it/df61ca0e7f0db7bfe7588d75",
+      "source": "Sporting News",
+      "ts": 1775380320.0,
+      "published_iso": "2026-04-05T09:12:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-04-rams-make-1st-round-trade-to-pick-up-wr-in-5-round-mock-",
@@ -17,6 +17,14 @@
       "source": "Rams Wire",
       "ts": 1775286780.0,
       "published_iso": "2026-04-04T07:13:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-gm-thinks-163000426-html",
+      "title": "What Los Angeles Rams GM thinks of Sean McVay’s plea to sign Kirk Cousins",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-gm-thinks-163000426.html",
+      "source": "Yahoo Sports",
+      "ts": 1775123460.0,
+      "published_iso": "2026-04-02T09:51:00+00:00"
     }
   ]
 }
