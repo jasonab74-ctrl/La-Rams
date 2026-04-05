@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-05T21:19:37.717095+00:00",
-  "count": 3,
+  "updated_iso": "2026-04-05T21:51:12.873498+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-04-rams-make-1st-round-trade-to-pick-up-wr-in-5-round-mock-",
@@ -17,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1775123460.0,
       "published_iso": "2026-04-02T09:51:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-los-angeles-rams",
-      "title": "Los Angeles Rams",
-      "link": "https://bleacherreport.com/los-angeles-rams",
-      "source": "Bleacher Report",
-      "ts": 1747204440.0,
-      "published_iso": "2025-05-14T06:34:00+00:00"
     }
   ]
 }
