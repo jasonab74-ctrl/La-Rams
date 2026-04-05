@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-04-05T20:18:17.183297+00:00",
+  "updated_iso": "2026-04-05T20:54:17.181823+00:00",
   "count": 3,
   "items": [
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-top-playmaker-could-be-slipping-right-into-hands",
-      "title": "One Top Playmaker Could Be Slipping Right Into the Rams' Hands",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-top-playmaker-could-be-slipping-right-into-hands",
-      "source": "Sports Illustrated",
-      "ts": 1775300400.0,
-      "published_iso": "2026-04-04T11:00:00+00:00"
-    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-04-rams-make-1st-round-trade-to-pick-up-wr-in-5-round-mock-",
       "title": "Rams make first-round trade to pick up WR in 5-round mock draft",
@@ -25,6 +17,14 @@
       "source": "Yahoo Sports",
       "ts": 1775123460.0,
       "published_iso": "2026-04-02T09:51:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-los-angeles-rams",
+      "title": "Los Angeles Rams",
+      "link": "https://bleacherreport.com/los-angeles-rams",
+      "source": "Bleacher Report",
+      "ts": 1747204440.0,
+      "published_iso": "2025-05-14T06:34:00+00:00"
     }
   ]
 }
