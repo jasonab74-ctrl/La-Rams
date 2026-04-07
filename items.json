@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-04-07T16:42:33.895921+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-04-07T17:45:03.984669+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-bleacherreport-com-articles-25415445-rams-get-star-wr-makai-lemon-schragers-new-nfl-mock-draft-amid-davante-adams-",
+      "title": "Rams Get Star WR Makai Lemon in Schrager's New NFL Mock Draft amid Davante Adams, A.J. Brown Rumors",
+      "link": "https://bleacherreport.com/articles/25415445-rams-get-star-wr-makai-lemon-schragers-new-nfl-mock-draft-amid-davante-adams-aj-brown-rumors",
+      "source": "Bleacher Report",
+      "ts": 1775549880.0,
+      "published_iso": "2026-04-07T08:18:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-07-2026-nfl-draft-rams-show-interest-in-disruptive-dt-89498",
+      "title": "Rams show interest in disruptive Georgia DT Christen Miller",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/07/2026-nfl-draft-rams-show-interest-in-disruptive-dt/89498745007/",
+      "source": "Rams Wire",
+      "ts": 1775547480.0,
+      "published_iso": "2026-04-07T07:38:00+00:00"
+    }
+  ]
 }
