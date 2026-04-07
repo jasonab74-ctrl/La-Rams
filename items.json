@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-04-07T18:42:30.391952+00:00",
+  "updated_iso": "2026-04-07T19:47:01.322439+00:00",
   "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-mcshay-rams-interest-qb-ty-180752488-html",
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-07-nfl-draft-rams-ty-simpson-alabama-todd-mcshay-interest-8",
       "title": "McShay: Rams have interest in QB Ty Simpson, 'but probably on their terms'",
-      "link": "https://sports.yahoo.com/articles/mcshay-rams-interest-qb-ty-180752488.html",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/07/nfl-draft-rams-ty-simpson-alabama-todd-mcshay-interest/89502495007/",
+      "source": "Rams Wire",
+      "ts": 1775560140.0,
+      "published_iso": "2026-04-07T11:09:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-2026-nfl-draft-guide-131731754-html",
+      "title": "Rams 2026 NFL Draft guide: Number of picks, biggest needs, draft history, and more",
+      "link": "https://sports.yahoo.com/articles/rams-2026-nfl-draft-guide-131731754.html",
       "source": "Yahoo Sports",
-      "ts": 1775561100.0,
-      "published_iso": "2026-04-07T11:25:00+00:00"
+      "ts": 1775558580.0,
+      "published_iso": "2026-04-07T10:43:00+00:00"
     },
     {
       "id": "https-bleacherreport-com-articles-25415445-rams-get-star-wr-makai-lemon-schragers-new-nfl-mock-draft-amid-davante-adams-",
@@ -17,14 +25,6 @@
       "source": "Bleacher Report",
       "ts": 1775549880.0,
       "published_iso": "2026-04-07T08:18:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-07-2026-nfl-draft-rams-show-interest-in-disruptive-dt-89498",
-      "title": "Rams show interest in disruptive Georgia DT Christen Miller",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/07/2026-nfl-draft-rams-show-interest-in-disruptive-dt/89498745007/",
-      "source": "Rams Wire",
-      "ts": 1775547480.0,
-      "published_iso": "2026-04-07T07:38:00+00:00"
     }
   ]
 }
