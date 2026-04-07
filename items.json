@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-04-07T17:45:03.984669+00:00",
-  "count": 2,
+  "updated_iso": "2026-04-07T18:42:30.391952+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-mcshay-rams-interest-qb-ty-180752488-html",
+      "title": "McShay: Rams have interest in QB Ty Simpson, 'but probably on their terms'",
+      "link": "https://sports.yahoo.com/articles/mcshay-rams-interest-qb-ty-180752488.html",
+      "source": "Yahoo Sports",
+      "ts": 1775561100.0,
+      "published_iso": "2026-04-07T11:25:00+00:00"
+    },
     {
       "id": "https-bleacherreport-com-articles-25415445-rams-get-star-wr-makai-lemon-schragers-new-nfl-mock-draft-amid-davante-adams-",
       "title": "Rams Get Star WR Makai Lemon in Schrager's New NFL Mock Draft amid Davante Adams, A.J. Brown Rumors",
