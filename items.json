@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-04-07T23:02:49.089943+00:00",
-  "count": 2,
+  "updated_iso": "2026-04-07T23:57:09.454932+00:00",
+  "count": 3,
   "items": [
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-07-nfl-draft-rams-ty-simpson-alabama-todd-mcshay-interest-8",
-      "title": "McShay: Rams have interest in QB Ty Simpson, 'but probably on their terms'",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/07/nfl-draft-rams-ty-simpson-alabama-todd-mcshay-interest/89502495007/",
-      "source": "Rams Wire",
-      "ts": 1775560140.0,
-      "published_iso": "2026-04-07T11:09:00+00:00"
-    },
     {
       "id": "https-bleacherreport-com-articles-25415445-rams-get-star-wr-makai-lemon-schragers-new-nfl-mock-draft-amid-davante-adams-",
       "title": "Rams Get Star WR Makai Lemon in Schrager's New NFL Mock Draft amid Davante Adams, A.J. Brown Rumors",
@@ -17,6 +9,22 @@
       "source": "Bleacher Report",
       "ts": 1775549880.0,
       "published_iso": "2026-04-07T08:18:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-07-2026-nfl-draft-rams-show-interest-in-disruptive-dt-89498",
+      "title": "Rams show interest in disruptive Georgia DT Christen Miller",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/07/2026-nfl-draft-rams-show-interest-in-disruptive-dt/89498745007/",
+      "source": "Rams Wire",
+      "ts": 1775547480.0,
+      "published_iso": "2026-04-07T07:38:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-07-2026-draft-rams-meet-te-eli-stowers-89498615007",
+      "title": "Rams meet with highly-touted TE prospect ahead of 2026 draft",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/07/2026-draft-rams-meet-te-eli-stowers/89498615007/",
+      "source": "Rams Wire",
+      "ts": 1775547000.0,
+      "published_iso": "2026-04-07T07:30:00+00:00"
     }
   ]
 }
