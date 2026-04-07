@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-07T19:47:01.322439+00:00",
-  "count": 3,
+  "updated_iso": "2026-04-07T20:32:37.556008+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-07-nfl-draft-rams-ty-simpson-alabama-todd-mcshay-interest-8",
@@ -25,6 +25,14 @@
       "source": "Bleacher Report",
       "ts": 1775549880.0,
       "published_iso": "2026-04-07T08:18:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-07-2026-draft-rams-meet-te-eli-stowers-89498615007",
+      "title": "Rams meet with highly-touted TE prospect ahead of 2026 draft",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/07/2026-draft-rams-meet-te-eli-stowers/89498615007/",
+      "source": "Rams Wire",
+      "ts": 1775547000.0,
+      "published_iso": "2026-04-07T07:30:00+00:00"
     }
   ]
 }
