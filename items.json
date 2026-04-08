@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-08T23:05:42.744355+00:00",
-  "count": 3,
+  "updated_iso": "2026-04-08T23:55:39.711007+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-surprising-wr-no-13-181701857-html",
@@ -9,6 +9,14 @@
       "source": "Yahoo Sports",
       "ts": 1775647440.0,
       "published_iso": "2026-04-08T11:24:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-3-reasons-should-pursue-trade-dexter-lawrence",
+      "title": "3 Reasons The Rams Should Pursue a Trade For Dexter Lawrence",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-3-reasons-should-pursue-trade-dexter-lawrence",
+      "source": "Sports Illustrated",
+      "ts": 1775631780.0,
+      "published_iso": "2026-04-08T07:03:00+00:00"
     },
     {
       "id": "https-bleacherreport-com-articles-25415054-new-rams-mock-draft-expert-roundup-1st-round-pick",
