@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-04-08T17:55:22.984425+00:00",
-  "count": 5,
+  "updated_iso": "2026-04-08T18:58:44.278569+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-ex-nfl-gm-mike-mayock-154330235-html",
-      "title": "Ex-NFL GM Mike Mayock names 2 perfect draft fits for Rams in Round 1",
-      "link": "https://sports.yahoo.com/articles/ex-nfl-gm-mike-mayock-154330235.html",
+      "id": "https-sports-yahoo-com-articles-rams-surprising-wr-no-13-181701857-html",
+      "title": "Rams take surprising WR at No. 13 in new mock draft",
+      "link": "https://sports.yahoo.com/articles/rams-surprising-wr-no-13-181701857.html",
       "source": "Yahoo Sports",
-      "ts": 1775638320.0,
-      "published_iso": "2026-04-08T08:52:00+00:00"
+      "ts": 1775647440.0,
+      "published_iso": "2026-04-08T11:24:00+00:00"
     },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-3-reasons-should-pursue-trade-dexter-lawrence",
@@ -27,20 +27,12 @@
       "published_iso": "2026-04-08T04:02:00+00:00"
     },
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-07-nfl-draft-rams-ty-simpson-alabama-todd-mcshay-interest-8",
-      "title": "McShay: Rams have interest in QB Ty Simpson, 'but probably on their terms'",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/07/nfl-draft-rams-ty-simpson-alabama-todd-mcshay-interest/89502495007/",
-      "source": "Rams Wire",
-      "ts": 1775560140.0,
-      "published_iso": "2026-04-07T11:09:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25415445-rams-get-star-wr-makai-lemon-schragers-new-nfl-mock-draft-amid-davante-adams-",
-      "title": "Rams Get Star WR Makai Lemon in Schrager's New NFL Mock Draft amid Davante Adams, A.J. Brown Rumors",
-      "link": "https://bleacherreport.com/articles/25415445-rams-get-star-wr-makai-lemon-schragers-new-nfl-mock-draft-amid-davante-adams-aj-brown-rumors",
+      "id": "https-bleacherreport-com-los-angeles-rams",
+      "title": "Los Angeles Rams",
+      "link": "https://bleacherreport.com/los-angeles-rams",
       "source": "Bleacher Report",
-      "ts": 1775549880.0,
-      "published_iso": "2026-04-07T08:18:00+00:00"
+      "ts": 1747204440.0,
+      "published_iso": "2025-05-14T06:34:00+00:00"
     }
   ]
 }
