@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-04-08T09:55:31.645257+00:00",
-  "count": 3,
+  "updated_iso": "2026-04-08T10:46:26.461923+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-3-reasons-should-pursue-trade-dexter-lawrence",
+      "title": "3 Reasons The Rams Should Pursue a Trade For Dexter Lawrence",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-3-reasons-should-pursue-trade-dexter-lawrence",
+      "source": "Sports Illustrated",
+      "ts": 1775618400.0,
+      "published_iso": "2026-04-08T03:20:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-2026-nfl-mock-draft-los-225409310-html",
       "title": "2026 NFL Mock Draft: Los Angeles Rams go cornerback",
