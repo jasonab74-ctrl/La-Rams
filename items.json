@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-08T22:27:11.322668+00:00",
-  "count": 4,
+  "updated_iso": "2026-04-08T23:05:42.744355+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-surprising-wr-no-13-181701857-html",
@@ -11,14 +11,6 @@
       "published_iso": "2026-04-08T11:24:00+00:00"
     },
     {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-3-reasons-should-pursue-trade-dexter-lawrence",
-      "title": "3 Reasons The Rams Should Pursue a Trade For Dexter Lawrence",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-3-reasons-should-pursue-trade-dexter-lawrence",
-      "source": "Sports Illustrated",
-      "ts": 1775631780.0,
-      "published_iso": "2026-04-08T07:03:00+00:00"
-    },
-    {
       "id": "https-bleacherreport-com-articles-25415054-new-rams-mock-draft-expert-roundup-1st-round-pick",
       "title": "New Rams Mock Draft Expert Roundup for 1st-Round Pick",
       "link": "https://bleacherreport.com/articles/25415054-new-rams-mock-draft-expert-roundup-1st-round-pick",
@@ -27,12 +19,12 @@
       "published_iso": "2026-04-08T04:02:00+00:00"
     },
     {
-      "id": "https-bleacherreport-com-los-angeles-rams",
-      "title": "Los Angeles Rams",
-      "link": "https://bleacherreport.com/los-angeles-rams",
+      "id": "https-bleacherreport-com-articles-25415445-rams-get-star-wr-makai-lemon-schragers-new-nfl-mock-draft-amid-davante-adams-",
+      "title": "Rams Get Star WR Makai Lemon in Schrager's New NFL Mock Draft amid Davante Adams, A.J. Brown Rumors",
+      "link": "https://bleacherreport.com/articles/25415445-rams-get-star-wr-makai-lemon-schragers-new-nfl-mock-draft-amid-davante-adams-aj-brown-rumors",
       "source": "Bleacher Report",
-      "ts": 1747204440.0,
-      "published_iso": "2025-05-14T06:34:00+00:00"
+      "ts": 1775549880.0,
+      "published_iso": "2026-04-07T08:18:00+00:00"
     }
   ]
 }
