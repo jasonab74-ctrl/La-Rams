@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-04-08T16:48:45.648964+00:00",
+  "updated_iso": "2026-04-08T17:55:22.984425+00:00",
   "count": 5,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-ex-nfl-gm-mike-mayock-154330235-html",
+      "title": "Ex-NFL GM Mike Mayock names 2 perfect draft fits for Rams in Round 1",
+      "link": "https://sports.yahoo.com/articles/ex-nfl-gm-mike-mayock-154330235.html",
+      "source": "Yahoo Sports",
+      "ts": 1775638320.0,
+      "published_iso": "2026-04-08T08:52:00+00:00"
+    },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-3-reasons-should-pursue-trade-dexter-lawrence",
       "title": "3 Reasons The Rams Should Pursue a Trade For Dexter Lawrence",
@@ -17,14 +25,6 @@
       "source": "Bleacher Report",
       "ts": 1775620920.0,
       "published_iso": "2026-04-08T04:02:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-2026-nfl-mock-draft-los-225409310-html",
-      "title": "2026 NFL Mock Draft: Los Angeles Rams go cornerback",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-mock-draft-los-225409310.html",
-      "source": "Yahoo Sports",
-      "ts": 1775578020.0,
-      "published_iso": "2026-04-07T16:07:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-07-nfl-draft-rams-ty-simpson-alabama-todd-mcshay-interest-8",
