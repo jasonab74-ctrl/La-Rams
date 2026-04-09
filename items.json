@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-04-09T01:05:51.516710+00:00",
+  "updated_iso": "2026-04-09T04:05:39.974053+00:00",
   "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-aren-t-talking-rams-second-002728499-html",
-      "title": "We aren’t talking about Rams’ second round pick enough",
-      "link": "https://sports.yahoo.com/articles/aren-t-talking-rams-second-002728499.html",
-      "source": "Yahoo Sports",
-      "ts": 1775670000.0,
-      "published_iso": "2026-04-08T17:40:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-08-rams-kc-concepcion-mock-draft-first-round-89519513007",
+      "id": "https-sports-yahoo-com-articles-rams-surprising-wr-no-13-181701857-html",
       "title": "Rams take surprising WR at No. 13 in new mock draft",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/08/rams-kc-concepcion-mock-draft-first-round/89519513007/",
-      "source": "Rams Wire",
-      "ts": 1775647140.0,
-      "published_iso": "2026-04-08T11:19:00+00:00"
+      "link": "https://sports.yahoo.com/articles/rams-surprising-wr-no-13-181701857.html",
+      "source": "Yahoo Sports",
+      "ts": 1775647440.0,
+      "published_iso": "2026-04-08T11:24:00+00:00"
     },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-3-reasons-should-pursue-trade-dexter-lawrence",
@@ -33,6 +25,14 @@
       "source": "Bleacher Report",
       "ts": 1775620920.0,
       "published_iso": "2026-04-08T04:02:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25415445-rams-get-star-wr-makai-lemon-schragers-new-nfl-mock-draft-amid-davante-adams-",
+      "title": "Rams Get Star WR Makai Lemon in Schrager's New NFL Mock Draft amid Davante Adams, A.J. Brown Rumors",
+      "link": "https://bleacherreport.com/articles/25415445-rams-get-star-wr-makai-lemon-schragers-new-nfl-mock-draft-amid-davante-adams-aj-brown-rumors",
+      "source": "Bleacher Report",
+      "ts": 1775549880.0,
+      "published_iso": "2026-04-07T08:18:00+00:00"
     }
   ]
 }
