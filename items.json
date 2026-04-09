@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-04-09T18:43:04.377503+00:00",
+  "updated_iso": "2026-04-09T19:55:18.787200+00:00",
   "count": 5,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-nfl-insider-floats-jimmy-garoppolo-181043971-html",
-      "title": "NFL insider floats Jimmy Garoppolo as potential 'bridge quarterback' for Rams",
-      "link": "https://sports.yahoo.com/articles/nfl-insider-floats-jimmy-garoppolo-181043971.html",
+      "id": "https-sports-yahoo-com-articles-much-impact-first-round-wide-184103472-html",
+      "title": "How much of an impact would first-round wide receiver have for Rams?",
+      "link": "https://sports.yahoo.com/articles/much-impact-first-round-wide-184103472.html",
       "source": "Yahoo Sports",
-      "ts": 1775733540.0,
-      "published_iso": "2026-04-09T11:19:00+00:00"
+      "ts": 1775735760.0,
+      "published_iso": "2026-04-09T11:56:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-09-rams-jimmy-garoppolo-free-agency-matthew-stafford-895345",
+      "title": "NFL insider floats Jimmy Garoppolo as potential 'bridge quarterback' for Rams",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/09/rams-jimmy-garoppolo-free-agency-matthew-stafford/89534511007/",
+      "source": "Rams Wire",
+      "ts": 1775733180.0,
+      "published_iso": "2026-04-09T11:13:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-09-rams-marcus-peters-chiefs-trade-2018-reflect-89534815007",
@@ -25,14 +33,6 @@
       "source": "Yahoo Sports",
       "ts": 1775719500.0,
       "published_iso": "2026-04-09T07:25:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25415054-new-rams-mock-draft-expert-roundup-1st-round-pick",
-      "title": "New Rams Mock Draft Expert Roundup for 1st-Round Pick",
-      "link": "https://bleacherreport.com/articles/25415054-new-rams-mock-draft-expert-roundup-1st-round-pick",
-      "source": "Bleacher Report",
-      "ts": 1775620920.0,
-      "published_iso": "2026-04-08T04:02:00+00:00"
     },
     {
       "id": "https-bleacherreport-com-articles-25415445-rams-get-star-wr-makai-lemon-schragers-new-nfl-mock-draft-amid-davante-adams-",
