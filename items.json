@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-04-09T10:58:45.028013+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-04-09T11:53:10.212953+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-08-rams-kc-concepcion-mock-draft-first-round-89519513007",
+      "title": "Rams take surprising WR at No. 13 in new mock draft",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/08/rams-kc-concepcion-mock-draft-first-round/89519513007/",
+      "source": "Rams Wire",
+      "ts": 1775647140.0,
+      "published_iso": "2026-04-08T11:19:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25415054-new-rams-mock-draft-expert-roundup-1st-round-pick",
+      "title": "New Rams Mock Draft Expert Roundup for 1st-Round Pick",
+      "link": "https://bleacherreport.com/articles/25415054-new-rams-mock-draft-expert-roundup-1st-round-pick",
+      "source": "Bleacher Report",
+      "ts": 1775620920.0,
+      "published_iso": "2026-04-08T04:02:00+00:00"
+    }
+  ]
 }
