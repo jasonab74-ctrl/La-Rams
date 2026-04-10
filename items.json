@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-10T12:39:18.128997+00:00",
-  "count": 4,
+  "updated_iso": "2026-04-10T14:07:45.344382+00:00",
+  "count": 5,
   "items": [
     {
       "id": "https-therams-com-news-rams-block-party-nfl-draft-zillow-hollywood-park-inglewood",
@@ -19,20 +19,28 @@
       "published_iso": "2026-04-09T11:13:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-rams-land-davante-adams-replacement-162634357-html",
-      "title": "Rams land Davante Adams replacement in first round of latest ESPN NFL mock draft",
-      "link": "https://sports.yahoo.com/articles/rams-land-davante-adams-replacement-162634357.html",
-      "source": "Yahoo Sports",
-      "ts": 1775727840.0,
-      "published_iso": "2026-04-09T09:44:00+00:00"
-    },
-    {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-2026-nfl-201104270-html",
       "title": "Los Angeles Rams 2026 NFL Draft Big Board: The Rams will have plenty of options to boost the roster atop the draft",
       "link": "https://sports.yahoo.com/articles/los-angeles-rams-2026-nfl-201104270.html",
       "source": "Yahoo Sports",
       "ts": 1775719500.0,
       "published_iso": "2026-04-09T07:25:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-2026-nfl-mock-draft-los-225409310-html",
+      "title": "2026 NFL Mock Draft: Los Angeles Rams go cornerback",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-mock-draft-los-225409310.html",
+      "source": "Yahoo Sports",
+      "ts": 1775578020.0,
+      "published_iso": "2026-04-07T16:07:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25415445-rams-get-star-wr-makai-lemon-schragers-new-nfl-mock-draft-amid-davante-adams-",
+      "title": "Rams Get Star WR Makai Lemon in Schrager's New NFL Mock Draft amid Davante Adams, A.J. Brown Rumors",
+      "link": "https://bleacherreport.com/articles/25415445-rams-get-star-wr-makai-lemon-schragers-new-nfl-mock-draft-amid-davante-adams-aj-brown-rumors",
+      "source": "Bleacher Report",
+      "ts": 1775549880.0,
+      "published_iso": "2026-04-07T08:18:00+00:00"
     }
   ]
 }
