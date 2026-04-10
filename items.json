@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-04-10T17:10:45.710918+00:00",
-  "count": 5,
+  "updated_iso": "2026-04-10T18:04:28.915045+00:00",
+  "count": 6,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-versatile-te-prospect-could-perfect-162715225-html",
-      "title": "Versatile TE prospect could be perfect weapon for Rams' offense",
-      "link": "https://sports.yahoo.com/articles/versatile-te-prospect-could-perfect-162715225.html",
-      "source": "Yahoo Sports",
-      "ts": 1775813880.0,
-      "published_iso": "2026-04-10T09:38:00+00:00"
+      "id": "https-therams-com-news-an-analytical-view-of-the-rams-overhaul-at-cornerback-where-do-trent-mcduffie-and-jaylen-watson-r",
+      "title": "An analytical view of the Rams' overhaul at cornerback: Where do Trent McDuffie and Jaylen Watson rank league-wide and among Rams corners in recent years?",
+      "link": "https://therams.com/news/an-analytical-view-of-the-rams-overhaul-at-cornerback-where-do-trent-mcduffie-and-jaylen-watson-rank-league-wide-and-among-rams-corners-in-recent-years",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1775817180.0,
+      "published_iso": "2026-04-10T10:33:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-10-rams-offseason-trade-ideas-veterans-richardson-jeudy-col",
+      "title": "3 bold trade ideas for the Rams this offseason",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/10/rams-offseason-trade-ideas-veterans-richardson-jeudy-coleman/89551244007/",
+      "source": "Rams Wire",
+      "ts": 1775815680.0,
+      "published_iso": "2026-04-10T10:08:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-rams-family-connection-one-top-154406432-html",
@@ -35,12 +43,12 @@
       "published_iso": "2026-04-09T11:13:00+00:00"
     },
     {
-      "id": "https-bleacherreport-com-articles-25415445-rams-get-star-wr-makai-lemon-schragers-new-nfl-mock-draft-amid-davante-adams-",
-      "title": "Rams Get Star WR Makai Lemon in Schrager's New NFL Mock Draft amid Davante Adams, A.J. Brown Rumors",
-      "link": "https://bleacherreport.com/articles/25415445-rams-get-star-wr-makai-lemon-schragers-new-nfl-mock-draft-amid-davante-adams-aj-brown-rumors",
-      "source": "Bleacher Report",
-      "ts": 1775549880.0,
-      "published_iso": "2026-04-07T08:18:00+00:00"
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-2026-nfl-201104270-html",
+      "title": "Los Angeles Rams 2026 NFL Draft Big Board: The Rams will have plenty of options to boost the roster atop the draft",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-2026-nfl-201104270.html",
+      "source": "Yahoo Sports",
+      "ts": 1775719500.0,
+      "published_iso": "2026-04-09T07:25:00+00:00"
     }
   ]
 }
