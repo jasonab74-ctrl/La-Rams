@@ -1,30 +1,14 @@
 {
-  "updated_iso": "2026-04-10T19:15:02.793829+00:00",
-  "count": 5,
+  "updated_iso": "2026-04-10T19:58:51.184316+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-wide-receiver-necessity-rams-nfl-190000056-html",
-      "title": "Wide receiver a necessity for Rams in NFL draft",
-      "link": "https://sports.yahoo.com/articles/wide-receiver-necessity-rams-nfl-190000056.html",
-      "source": "Yahoo Sports",
-      "ts": 1775823240.0,
-      "published_iso": "2026-04-10T12:14:00+00:00"
-    },
-    {
-      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-early-round-target-position-might-not-viable-13-overall-9c301ea",
-      "title": "Rams' early-round target is position that might not be viable at 13th overall",
-      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-early-round-target-position-might-not-viable-13-overall/9c301ea9eeea53c2c0ba2376",
+      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-linked-son-eagles-all-pro-linebacker-2026-nfl-draft-32e638ad57a",
+      "title": "Rams linked to son of Eagles All-Pro linebacker in 2026 NFL Draft",
+      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-linked-son-eagles-all-pro-linebacker-2026-nfl-draft/32e638ad57a838bd67ea0468",
       "source": "Sporting News",
-      "ts": 1775822160.0,
-      "published_iso": "2026-04-10T11:56:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-10-nfl-rams-australia-49ers-schedule-2026-89554294007",
-      "title": "Rams-49ers won't be the last game the NFL plays in Australia",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/10/nfl-rams-australia-49ers-schedule-2026/89554294007/",
-      "source": "Rams Wire",
-      "ts": 1775818620.0,
-      "published_iso": "2026-04-10T10:57:00+00:00"
+      "ts": 1775825040.0,
+      "published_iso": "2026-04-10T12:44:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-10-rams-offseason-trade-ideas-veterans-richardson-jeudy-col",
@@ -35,12 +19,12 @@
       "published_iso": "2026-04-10T10:08:00+00:00"
     },
     {
-      "id": "https-therams-com-news-rams-block-party-nfl-draft-zillow-hollywood-park-inglewood",
-      "title": "Los Angeles Rams and Zillow welcome fans to their block for first ever fan facing NFL Draft Experience at Hollywood Park in Inglewood, CA",
-      "link": "https://therams.com/news/rams-block-party-nfl-draft-zillow-hollywood-park-inglewood",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1775746920.0,
-      "published_iso": "2026-04-09T15:02:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-10-rams-nfl-draft-colton-hood-roderick-89549727007",
+      "title": "Rams have family connection to one of the top CBs in the 2026 draft",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/10/rams-nfl-draft-colton-hood-roderick/89549727007/",
+      "source": "Rams Wire",
+      "ts": 1775810760.0,
+      "published_iso": "2026-04-10T08:46:00+00:00"
     }
   ]
 }
