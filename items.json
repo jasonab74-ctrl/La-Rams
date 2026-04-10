@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2026-04-10T18:04:28.915045+00:00",
-  "count": 6,
+  "updated_iso": "2026-04-10T19:15:02.793829+00:00",
+  "count": 5,
   "items": [
     {
-      "id": "https-therams-com-news-an-analytical-view-of-the-rams-overhaul-at-cornerback-where-do-trent-mcduffie-and-jaylen-watson-r",
-      "title": "An analytical view of the Rams' overhaul at cornerback: Where do Trent McDuffie and Jaylen Watson rank league-wide and among Rams corners in recent years?",
-      "link": "https://therams.com/news/an-analytical-view-of-the-rams-overhaul-at-cornerback-where-do-trent-mcduffie-and-jaylen-watson-rank-league-wide-and-among-rams-corners-in-recent-years",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1775817180.0,
-      "published_iso": "2026-04-10T10:33:00+00:00"
+      "id": "https-sports-yahoo-com-articles-wide-receiver-necessity-rams-nfl-190000056-html",
+      "title": "Wide receiver a necessity for Rams in NFL draft",
+      "link": "https://sports.yahoo.com/articles/wide-receiver-necessity-rams-nfl-190000056.html",
+      "source": "Yahoo Sports",
+      "ts": 1775823240.0,
+      "published_iso": "2026-04-10T12:14:00+00:00"
+    },
+    {
+      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-early-round-target-position-might-not-viable-13-overall-9c301ea",
+      "title": "Rams' early-round target is position that might not be viable at 13th overall",
+      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-early-round-target-position-might-not-viable-13-overall/9c301ea9eeea53c2c0ba2376",
+      "source": "Sporting News",
+      "ts": 1775822160.0,
+      "published_iso": "2026-04-10T11:56:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-10-nfl-rams-australia-49ers-schedule-2026-89554294007",
+      "title": "Rams-49ers won't be the last game the NFL plays in Australia",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/10/nfl-rams-australia-49ers-schedule-2026/89554294007/",
+      "source": "Rams Wire",
+      "ts": 1775818620.0,
+      "published_iso": "2026-04-10T10:57:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-10-rams-offseason-trade-ideas-veterans-richardson-jeudy-col",
@@ -19,36 +35,12 @@
       "published_iso": "2026-04-10T10:08:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-rams-family-connection-one-top-154406432-html",
-      "title": "Rams have family connection to one of the top CBs in the 2026 draft",
-      "link": "https://sports.yahoo.com/articles/rams-family-connection-one-top-154406432.html",
-      "source": "Yahoo Sports",
-      "ts": 1775811180.0,
-      "published_iso": "2026-04-10T08:53:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-celebrate-womens-history-month-2026-elevating-the-future-flag-football",
-      "title": "Los Angeles Rams celebrate Women's History Month by elevating the future of flag football",
-      "link": "https://therams.com/news/rams-celebrate-womens-history-month-2026-elevating-the-future-flag-football",
+      "id": "https-therams-com-news-rams-block-party-nfl-draft-zillow-hollywood-park-inglewood",
+      "title": "Los Angeles Rams and Zillow welcome fans to their block for first ever fan facing NFL Draft Experience at Hollywood Park in Inglewood, CA",
+      "link": "https://therams.com/news/rams-block-party-nfl-draft-zillow-hollywood-park-inglewood",
       "source": "Los Angeles Rams (Official)",
-      "ts": 1775808720.0,
-      "published_iso": "2026-04-10T08:12:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-09-rams-jimmy-garoppolo-free-agency-matthew-stafford-895345",
-      "title": "NFL insider floats Jimmy Garoppolo as potential 'bridge quarterback' for Rams",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/09/rams-jimmy-garoppolo-free-agency-matthew-stafford/89534511007/",
-      "source": "Rams Wire",
-      "ts": 1775733180.0,
-      "published_iso": "2026-04-09T11:13:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-2026-nfl-201104270-html",
-      "title": "Los Angeles Rams 2026 NFL Draft Big Board: The Rams will have plenty of options to boost the roster atop the draft",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-2026-nfl-201104270.html",
-      "source": "Yahoo Sports",
-      "ts": 1775719500.0,
-      "published_iso": "2026-04-09T07:25:00+00:00"
+      "ts": 1775746920.0,
+      "published_iso": "2026-04-09T15:02:00+00:00"
     }
   ]
 }
