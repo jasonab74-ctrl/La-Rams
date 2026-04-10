@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-10T19:58:51.184316+00:00",
-  "count": 3,
+  "updated_iso": "2026-04-10T20:33:02.637572+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-linked-son-eagles-all-pro-linebacker-2026-nfl-draft-32e638ad57a",
@@ -17,14 +17,6 @@
       "source": "Rams Wire",
       "ts": 1775815680.0,
       "published_iso": "2026-04-10T10:08:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-10-rams-nfl-draft-colton-hood-roderick-89549727007",
-      "title": "Rams have family connection to one of the top CBs in the 2026 draft",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/10/rams-nfl-draft-colton-hood-roderick/89549727007/",
-      "source": "Rams Wire",
-      "ts": 1775810760.0,
-      "published_iso": "2026-04-10T08:46:00+00:00"
     }
   ]
 }
