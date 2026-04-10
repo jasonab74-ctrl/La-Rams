@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-04-10T15:10:25.055072+00:00",
-  "count": 4,
+  "updated_iso": "2026-04-10T16:11:02.128635+00:00",
+  "count": 5,
   "items": [
     {
-      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-bold-prediction-espn-95-edge-rams-interesting-draft-choice-311f9c5c8",
-      "title": "Bold prediction from ESPN on 9.5 edge could give Rams interesting draft choice",
-      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/bold-prediction-espn-95-edge-rams-interesting-draft-choice/311f9c5c88d70eed4255c9b5",
-      "source": "Sporting News",
-      "ts": 1775804760.0,
-      "published_iso": "2026-04-10T07:06:00+00:00"
+      "id": "https-sports-yahoo-com-articles-rams-family-connection-one-top-154406432-html",
+      "title": "Rams have family connection to one of the top CBs in the 2026 draft",
+      "link": "https://sports.yahoo.com/articles/rams-family-connection-one-top-154406432.html",
+      "source": "Yahoo Sports",
+      "ts": 1775811180.0,
+      "published_iso": "2026-04-10T08:53:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-celebrate-womens-history-month-2026-elevating-the-future-flag-football",
+      "title": "Los Angeles Rams celebrate Women's History Month by elevating the future of flag football",
+      "link": "https://therams.com/news/rams-celebrate-womens-history-month-2026-elevating-the-future-flag-football",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1775808720.0,
+      "published_iso": "2026-04-10T08:12:00+00:00"
     },
     {
       "id": "https-therams-com-news-rams-block-party-nfl-draft-zillow-hollywood-park-inglewood",
