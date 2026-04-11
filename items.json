@@ -1,5 +1,46 @@
 {
-  "updated_iso": "2026-04-11T11:27:00.495612+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-04-11T11:51:17.148382+00:00",
+  "count": 5,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-why-trading-j-j-mccarthy-113036912-html",
+      "title": "Why trading for J.J. McCarthy wouldn't make sense for the Rams",
+      "link": "https://sports.yahoo.com/articles/why-trading-j-j-mccarthy-113036912.html",
+      "source": "Yahoo Sports",
+      "ts": 1775882520.0,
+      "published_iso": "2026-04-11T04:42:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-news-should-rams-be-done-trading-for-a-cornerback-01knw0c4rtxv",
+      "title": "Should Rams Trade For Another Cornerback?",
+      "link": "https://si.com/nfl/rams/onsi/news/should-rams-be-done-trading-for-a-cornerback-01knw0c4rtxv",
+      "source": "Sports Illustrated",
+      "ts": 1775828100.0,
+      "published_iso": "2026-04-10T13:35:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-10-rams-offseason-trade-ideas-veterans-richardson-jeudy-col",
+      "title": "3 bold trade ideas for the Rams this offseason",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/10/rams-offseason-trade-ideas-veterans-richardson-jeudy-coleman/89551244007/",
+      "source": "Rams Wire",
+      "ts": 1775815680.0,
+      "published_iso": "2026-04-10T10:08:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-10-rams-nfl-draft-colton-hood-roderick-89549727007",
+      "title": "Rams have family connection to one of the top CBs in the 2026 draft",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/10/rams-nfl-draft-colton-hood-roderick/89549727007/",
+      "source": "Rams Wire",
+      "ts": 1775810760.0,
+      "published_iso": "2026-04-10T08:46:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-block-party-nfl-draft-zillow-hollywood-park-inglewood",
+      "title": "Los Angeles Rams and Zillow welcome fans to their block for first ever fan facing NFL Draft Experience at Hollywood Park in Inglewood, CA",
+      "link": "https://therams.com/news/rams-block-party-nfl-draft-zillow-hollywood-park-inglewood",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1775746920.0,
+      "published_iso": "2026-04-09T15:02:00+00:00"
+    }
+  ]
 }
