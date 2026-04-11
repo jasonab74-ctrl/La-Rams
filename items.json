@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-11T06:34:37.692268+00:00",
-  "count": 3,
+  "updated_iso": "2026-04-11T07:40:32.948736+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-tread-lightly-201446518-html",
@@ -17,14 +17,6 @@
       "source": "Rams Wire",
       "ts": 1775810760.0,
       "published_iso": "2026-04-10T08:46:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-09-rams-jimmy-garoppolo-free-agency-matthew-stafford-895345",
-      "title": "NFL insider floats Jimmy Garoppolo as potential 'bridge quarterback' for Rams",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/09/rams-jimmy-garoppolo-free-agency-matthew-stafford/89534511007/",
-      "source": "Rams Wire",
-      "ts": 1775733180.0,
-      "published_iso": "2026-04-09T11:13:00+00:00"
     }
   ]
 }
