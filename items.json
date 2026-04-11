@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-11T20:55:05.187532+00:00",
-  "count": 2,
+  "updated_iso": "2026-04-11T21:20:43.363550+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-11-rams-jj-mccarthy-trade-analysis-89552489007",
@@ -9,14 +9,6 @@
       "source": "Rams Wire",
       "ts": 1775882460.0,
       "published_iso": "2026-04-11T04:41:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-2026-nfl-201104270-html",
-      "title": "Los Angeles Rams 2026 NFL Draft Big Board: The Rams will have plenty of options to boost the roster atop the draft",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-2026-nfl-201104270.html",
-      "source": "Yahoo Sports",
-      "ts": 1775719500.0,
-      "published_iso": "2026-04-09T07:25:00+00:00"
     }
   ]
 }
