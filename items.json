@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-04-11T13:35:15.274510+00:00",
-  "count": 2,
+  "updated_iso": "2026-04-11T14:25:51.878053+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-11-rams-kevin-dotson-contract-extension-2026-89558705007",
+      "title": "Rams would be wise to extend Kevin Dotson this offseason",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/11/rams-kevin-dotson-contract-extension-2026/89558705007/",
+      "source": "Rams Wire",
+      "ts": 1775889300.0,
+      "published_iso": "2026-04-11T06:35:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-11-rams-jj-mccarthy-trade-analysis-89552489007",
+      "title": "Why trading for J.J. McCarthy wouldn't make sense for the Rams",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/11/rams-jj-mccarthy-trade-analysis/89552489007/",
+      "source": "Rams Wire",
+      "ts": 1775882460.0,
+      "published_iso": "2026-04-11T04:41:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-tread-lightly-201446518-html",
       "title": "The Los Angeles Rams need to tread lightly at the top of the 2026 NFL Draft to avoid repeating Les Snead's biggest mistake",
@@ -11,12 +27,20 @@
       "published_iso": "2026-04-10T13:58:00+00:00"
     },
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-09-rams-jimmy-garoppolo-free-agency-matthew-stafford-895345",
-      "title": "NFL insider floats Jimmy Garoppolo as potential 'bridge quarterback' for Rams",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/09/rams-jimmy-garoppolo-free-agency-matthew-stafford/89534511007/",
-      "source": "Rams Wire",
-      "ts": 1775733180.0,
-      "published_iso": "2026-04-09T11:13:00+00:00"
+      "id": "https-therams-com-news-rams-celebrate-womens-history-month-2026-elevating-the-future-flag-football",
+      "title": "Los Angeles Rams celebrate Women's History Month by elevating the future of flag football",
+      "link": "https://therams.com/news/rams-celebrate-womens-history-month-2026-elevating-the-future-flag-football",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1775808720.0,
+      "published_iso": "2026-04-10T08:12:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-block-party-nfl-draft-zillow-hollywood-park-inglewood",
+      "title": "Los Angeles Rams and Zillow welcome fans to their block for first ever fan facing NFL Draft Experience at Hollywood Park in Inglewood, CA",
+      "link": "https://therams.com/news/rams-block-party-nfl-draft-zillow-hollywood-park-inglewood",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1775746920.0,
+      "published_iso": "2026-04-09T15:02:00+00:00"
     }
   ]
 }
