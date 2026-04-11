@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2026-04-11T21:20:43.363550+00:00",
-  "count": 1,
+  "updated_iso": "2026-04-11T21:53:04.640024+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-11-rams-jj-mccarthy-trade-analysis-89552489007",
-      "title": "Why trading for J.J. McCarthy wouldn't make sense for the Rams",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/11/rams-jj-mccarthy-trade-analysis/89552489007/",
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-11-rams-kevin-dotson-contract-extension-2026-89558705007",
+      "title": "Rams would be wise to extend Kevin Dotson this offseason",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/11/rams-kevin-dotson-contract-extension-2026/89558705007/",
       "source": "Rams Wire",
-      "ts": 1775882460.0,
-      "published_iso": "2026-04-11T04:41:00+00:00"
+      "ts": 1775889300.0,
+      "published_iso": "2026-04-11T06:35:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-why-trading-j-j-mccarthy-113036912-html",
+      "title": "Why trading for J.J. McCarthy wouldn't make sense for the Rams",
+      "link": "https://sports.yahoo.com/articles/why-trading-j-j-mccarthy-113036912.html",
+      "source": "Yahoo Sports",
+      "ts": 1775882520.0,
+      "published_iso": "2026-04-11T04:42:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-los-angeles-rams",
+      "title": "Los Angeles Rams",
+      "link": "https://bleacherreport.com/los-angeles-rams",
+      "source": "Bleacher Report",
+      "ts": 1747204440.0,
+      "published_iso": "2025-05-14T06:34:00+00:00"
     }
   ]
 }
