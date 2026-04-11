@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-04-11T05:21:11.420435+00:00",
-  "count": 2,
+  "updated_iso": "2026-04-11T06:34:37.692268+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-safety-quentin-lake-shocking-005056605-html",
-      "title": "Rams safety Quentin Lake has shocking reaction to 49ers fans taking over SoFi Stadium",
-      "link": "https://sports.yahoo.com/articles/rams-safety-quentin-lake-shocking-005056605.html",
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-tread-lightly-201446518-html",
+      "title": "The Los Angeles Rams need to tread lightly at the top of the 2026 NFL Draft to avoid repeating Les Snead's biggest mistake",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-tread-lightly-201446518.html",
       "source": "Yahoo Sports",
-      "ts": 1775859120.0,
-      "published_iso": "2026-04-10T22:12:00+00:00"
+      "ts": 1775829480.0,
+      "published_iso": "2026-04-10T13:58:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-10-rams-nfl-draft-colton-hood-roderick-89549727007",
+      "title": "Rams have family connection to one of the top CBs in the 2026 draft",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/10/rams-nfl-draft-colton-hood-roderick/89549727007/",
+      "source": "Rams Wire",
+      "ts": 1775810760.0,
+      "published_iso": "2026-04-10T08:46:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-09-rams-jimmy-garoppolo-free-agency-matthew-stafford-895345",
