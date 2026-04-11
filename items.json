@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-11T14:25:51.878053+00:00",
-  "count": 5,
+  "updated_iso": "2026-04-11T14:59:08.946730+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-11-rams-kevin-dotson-contract-extension-2026-89558705007",
@@ -25,22 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1775829480.0,
       "published_iso": "2026-04-10T13:58:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-celebrate-womens-history-month-2026-elevating-the-future-flag-football",
-      "title": "Los Angeles Rams celebrate Women's History Month by elevating the future of flag football",
-      "link": "https://therams.com/news/rams-celebrate-womens-history-month-2026-elevating-the-future-flag-football",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1775808720.0,
-      "published_iso": "2026-04-10T08:12:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-block-party-nfl-draft-zillow-hollywood-park-inglewood",
-      "title": "Los Angeles Rams and Zillow welcome fans to their block for first ever fan facing NFL Draft Experience at Hollywood Park in Inglewood, CA",
-      "link": "https://therams.com/news/rams-block-party-nfl-draft-zillow-hollywood-park-inglewood",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1775746920.0,
-      "published_iso": "2026-04-09T15:02:00+00:00"
     }
   ]
 }
