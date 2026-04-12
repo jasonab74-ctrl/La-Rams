@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-04-11T23:54:48.200859+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-04-12T01:15:15.543061+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-11-rams-kevin-dotson-contract-extension-2026-89558705007",
+      "title": "Rams would be wise to extend Kevin Dotson this offseason",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/11/rams-kevin-dotson-contract-extension-2026/89558705007/",
+      "source": "Rams Wire",
+      "ts": 1775889300.0,
+      "published_iso": "2026-04-11T06:35:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-2026-nfl-201104270-html",
+      "title": "Los Angeles Rams 2026 NFL Draft Big Board: The Rams will have plenty of options to boost the roster atop the draft",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-2026-nfl-201104270.html",
+      "source": "Yahoo Sports",
+      "ts": 1775719500.0,
+      "published_iso": "2026-04-09T07:25:00+00:00"
+    }
+  ]
 }
