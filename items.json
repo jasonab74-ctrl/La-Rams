@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-12T17:55:56.731231+00:00",
-  "count": 3,
+  "updated_iso": "2026-04-12T18:32:02.722922+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-seahawks-fans-only-enjoy-rams-130004357-html",
@@ -11,20 +11,28 @@
       "published_iso": "2026-04-12T10:31:00+00:00"
     },
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-12-rams-terrance-ferguson-offense-versatility-sean-mcvay-89",
-      "title": "Terrance Ferguson's versatility can take Rams offense to new level in 2026",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/12/rams-terrance-ferguson-offense-versatility-sean-mcvay/89558373007/",
-      "source": "Rams Wire",
-      "ts": 1775977800.0,
-      "published_iso": "2026-04-12T07:10:00+00:00"
-    },
-    {
       "id": "https-sports-yahoo-com-articles-omar-cooper-jr-could-j-123037469-html",
       "title": "Omar Cooper Jr. could be an A.J. Brown-type target for Rams",
       "link": "https://sports.yahoo.com/articles/omar-cooper-jr-could-j-123037469.html",
       "source": "Yahoo Sports",
       "ts": 1775972340.0,
       "published_iso": "2026-04-12T05:39:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-11-rams-jj-mccarthy-trade-analysis-89552489007",
+      "title": "Why trading for J.J. McCarthy wouldn't make sense for the Rams",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/11/rams-jj-mccarthy-trade-analysis/89552489007/",
+      "source": "Rams Wire",
+      "ts": 1775882460.0,
+      "published_iso": "2026-04-11T04:41:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-block-party-nfl-draft-zillow-hollywood-park-inglewood",
+      "title": "Los Angeles Rams and Zillow welcome fans to their block for first ever fan facing NFL Draft Experience at Hollywood Park in Inglewood, CA",
+      "link": "https://therams.com/news/rams-block-party-nfl-draft-zillow-hollywood-park-inglewood",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1775746920.0,
+      "published_iso": "2026-04-09T15:02:00+00:00"
     }
   ]
 }
