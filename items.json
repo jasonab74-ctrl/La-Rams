@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-04-12T18:32:02.722922+00:00",
-  "count": 4,
+  "updated_iso": "2026-04-12T19:30:49.289877+00:00",
+  "count": 2,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-seahawks-fans-only-enjoy-rams-130004357-html",
-      "title": "Seahawks fans can only enjoy the Rams' Puka Nacua dilemma",
-      "link": "https://sports.yahoo.com/articles/seahawks-fans-only-enjoy-rams-130004357.html",
-      "source": "Yahoo Sports",
-      "ts": 1775989860.0,
-      "published_iso": "2026-04-12T10:31:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-omar-cooper-jr-could-j-123037469-html",
       "title": "Omar Cooper Jr. could be an A.J. Brown-type target for Rams",
@@ -25,14 +17,6 @@
       "source": "Rams Wire",
       "ts": 1775882460.0,
       "published_iso": "2026-04-11T04:41:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-block-party-nfl-draft-zillow-hollywood-park-inglewood",
-      "title": "Los Angeles Rams and Zillow welcome fans to their block for first ever fan facing NFL Draft Experience at Hollywood Park in Inglewood, CA",
-      "link": "https://therams.com/news/rams-block-party-nfl-draft-zillow-hollywood-park-inglewood",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1775746920.0,
-      "published_iso": "2026-04-09T15:02:00+00:00"
     }
   ]
 }
