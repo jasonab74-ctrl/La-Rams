@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-04-12T17:01:06.887618+00:00",
-  "count": 2,
+  "updated_iso": "2026-04-12T17:55:56.731231+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-seahawks-fans-only-enjoy-rams-130004357-html",
+      "title": "Seahawks fans can only enjoy the Rams' Puka Nacua dilemma",
+      "link": "https://sports.yahoo.com/articles/seahawks-fans-only-enjoy-rams-130004357.html",
+      "source": "Yahoo Sports",
+      "ts": 1775989860.0,
+      "published_iso": "2026-04-12T10:31:00+00:00"
+    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-12-rams-terrance-ferguson-offense-versatility-sean-mcvay-89",
       "title": "Terrance Ferguson's versatility can take Rams offense to new level in 2026",
