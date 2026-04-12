@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-04-12T12:32:17.593251+00:00",
-  "count": 1,
+  "updated_iso": "2026-04-12T13:51:22.398290+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-omar-cooper-jr-could-j-123037469-html",
+      "title": "Omar Cooper Jr. could be an A.J. Brown-type target for Rams",
+      "link": "https://sports.yahoo.com/articles/omar-cooper-jr-could-j-123037469.html",
+      "source": "Yahoo Sports",
+      "ts": 1775972340.0,
+      "published_iso": "2026-04-12T05:39:00+00:00"
+    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-11-rams-jj-mccarthy-trade-analysis-89552489007",
       "title": "Why trading for J.J. McCarthy wouldn't make sense for the Rams",
@@ -9,6 +17,14 @@
       "source": "Rams Wire",
       "ts": 1775882460.0,
       "published_iso": "2026-04-11T04:41:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-10-rams-offseason-trade-ideas-veterans-richardson-jeudy-col",
+      "title": "3 bold trade ideas for the Rams this offseason",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/10/rams-offseason-trade-ideas-veterans-richardson-jeudy-coleman/89551244007/",
+      "source": "Rams Wire",
+      "ts": 1775815680.0,
+      "published_iso": "2026-04-10T10:08:00+00:00"
     }
   ]
 }
