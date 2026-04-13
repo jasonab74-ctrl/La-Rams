@@ -1,5 +1,38 @@
 {
-  "updated_iso": "2026-04-13T22:32:25.876638+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-04-13T23:32:14.237762+00:00",
+  "count": 4,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-3-round-mock-draft-230000134-html",
+      "title": "Rams 3-round mock draft",
+      "link": "https://sports.yahoo.com/articles/rams-3-round-mock-draft-230000134.html",
+      "source": "Yahoo Sports",
+      "ts": 1776097020.0,
+      "published_iso": "2026-04-13T16:17:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-13-2025-re-draft-rams-dont-trade-back-still-take-tight-end-",
+      "title": "Rams don't trade back, still take a TE in 2025 re-draft",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/13/2025-re-draft-rams-dont-trade-back-still-take-tight-end/89594178007/",
+      "source": "Rams Wire",
+      "ts": 1776080160.0,
+      "published_iso": "2026-04-13T11:36:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-2026-nfl-mock-draft-roundup-latest-projections-one-week-before-draft-week-highlight-receiver",
+      "title": "Rams 2026 NFL Mock Draft Roundup: Latest projections one week before draft week highlight receivers",
+      "link": "https://therams.com/news/rams-2026-nfl-mock-draft-roundup-latest-projections-one-week-before-draft-week-highlight-receivers",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1776075600.0,
+      "published_iso": "2026-04-13T10:20:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-nfl-altering-trade-idea-142002073-html",
+      "title": "Rams NFL-altering trade idea sends first-round pick to Eagles for $96 million star",
+      "link": "https://sports.yahoo.com/articles/rams-nfl-altering-trade-idea-142002073.html",
+      "source": "Yahoo Sports",
+      "ts": 1776068580.0,
+      "published_iso": "2026-04-13T08:23:00+00:00"
+    }
+  ]
 }
