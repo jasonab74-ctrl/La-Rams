@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-13T07:05:34.805162+00:00",
-  "count": 1,
+  "updated_iso": "2026-04-13T09:15:03.447152+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-making-case-texas-m-wide-234542209-html",
@@ -9,6 +9,22 @@
       "source": "Yahoo Sports",
       "ts": 1776014820.0,
       "published_iso": "2026-04-12T17:27:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-12-rams-terrance-ferguson-offense-versatility-sean-mcvay-89",
+      "title": "Terrance Ferguson's versatility can take Rams offense to new level in 2026",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/12/rams-terrance-ferguson-offense-versatility-sean-mcvay/89558373007/",
+      "source": "Rams Wire",
+      "ts": 1775977800.0,
+      "published_iso": "2026-04-12T07:10:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-12-nfl-draft-rams-omar-cooper-aj-brown-trade-89558073007",
+      "title": "Omar Cooper Jr. could be an A.J. Brown-type target for Rams",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/12/nfl-draft-rams-omar-cooper-aj-brown-trade/89558073007/",
+      "source": "Rams Wire",
+      "ts": 1775971980.0,
+      "published_iso": "2026-04-12T05:33:00+00:00"
     }
   ]
 }
