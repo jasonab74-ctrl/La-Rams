@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-04-14T12:53:56.374526+00:00",
-  "count": 4,
+  "updated_iso": "2026-04-14T14:43:46.913977+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-todd-mcshay-shares-intel-wrs-132805739-html",
+      "title": "Todd McShay shares intel on which WRs teams think Rams could target",
+      "link": "https://sports.yahoo.com/articles/todd-mcshay-shares-intel-wrs-132805739.html",
+      "source": "Yahoo Sports",
+      "ts": 1776148380.0,
+      "published_iso": "2026-04-14T06:33:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-ex-chiefs-db-marcus-peters-120041741-html",
       "title": "Ex-Chiefs DB Marcus Peters shares frustration from 2018 trade to Rams",
@@ -17,22 +25,6 @@
       "source": "Rams Wire",
       "ts": 1776143520.0,
       "published_iso": "2026-04-14T05:12:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-14-rams-president-kevin-demoff-shares-touching-tribute-to-d",
-      "title": "Rams president Kevin Demoff shares touching tribute to Dave McGinnis",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/14/rams-president-kevin-demoff-shares-touching-tribute-to-dave-mcginnis/89601971007/",
-      "source": "Rams Wire",
-      "ts": 1776143280.0,
-      "published_iso": "2026-04-14T05:08:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-nfl-altering-trade-idea-142002073-html",
-      "title": "Rams NFL-altering trade idea sends first-round pick to Eagles for $96 million star",
-      "link": "https://sports.yahoo.com/articles/rams-nfl-altering-trade-idea-142002073.html",
-      "source": "Yahoo Sports",
-      "ts": 1776068580.0,
-      "published_iso": "2026-04-13T08:23:00+00:00"
     }
   ]
 }
