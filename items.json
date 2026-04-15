@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-04-15T19:01:33.363663+00:00",
-  "count": 2,
+  "updated_iso": "2026-04-15T20:11:26.676653+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-ideal-los-angeles-rams-7-184545670-html",
+      "title": "Ideal Los Angeles Rams 7-round 2026 NFL Mock Draft: Les Snead sets the Rams up for Super Bowl run by reinforcing offense",
+      "link": "https://sports.yahoo.com/articles/ideal-los-angeles-rams-7-184545670.html",
+      "source": "Yahoo Sports",
+      "ts": 1776255480.0,
+      "published_iso": "2026-04-15T12:18:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-legend-aaron-donald-announces-103033485-html",
       "title": "Rams Legend Aaron Donald Announces New Advocacy Role With NFL’s $50B Broadcasting Partner",
@@ -11,12 +19,20 @@
       "published_iso": "2026-04-15T11:43:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-report-rams-reveal-logo-uniforms-122432723-html",
-      "title": "Report: Rams to reveal new logo and uniforms on Thursday",
-      "link": "https://sports.yahoo.com/articles/report-rams-reveal-logo-uniforms-122432723.html",
-      "source": "Yahoo Sports",
-      "ts": 1776231000.0,
-      "published_iso": "2026-04-15T05:30:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-15-dane-bruglers-7-round-mock-draft-breaking-down-every-ram",
+      "title": "Breaking down every Rams pick in Dane Brugler’s 7-round mock draft",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/15/dane-bruglers-7-round-mock-draft-breaking-down-every-rams-pick/89621380007/",
+      "source": "Rams Wire",
+      "ts": 1776231480.0,
+      "published_iso": "2026-04-15T05:38:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-los-angeles-rams",
+      "title": "Los Angeles Rams",
+      "link": "https://bleacherreport.com/los-angeles-rams",
+      "source": "Bleacher Report",
+      "ts": 1747204440.0,
+      "published_iso": "2025-05-14T06:34:00+00:00"
     }
   ]
 }
