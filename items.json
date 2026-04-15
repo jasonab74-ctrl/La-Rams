@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-15T20:11:26.676653+00:00",
-  "count": 4,
+  "updated_iso": "2026-04-15T21:10:17.959281+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-ideal-los-angeles-rams-7-184545670-html",
@@ -25,14 +25,6 @@
       "source": "Rams Wire",
       "ts": 1776231480.0,
       "published_iso": "2026-04-15T05:38:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-los-angeles-rams",
-      "title": "Los Angeles Rams",
-      "link": "https://bleacherreport.com/los-angeles-rams",
-      "source": "Bleacher Report",
-      "ts": 1747204440.0,
-      "published_iso": "2025-05-14T06:34:00+00:00"
     }
   ]
 }
