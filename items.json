@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2026-04-15T16:50:03.702589+00:00",
-  "count": 2,
+  "updated_iso": "2026-04-15T17:56:38.489291+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-breaking-down-every-rams-pick-123543620-html",
-      "title": "Breaking down every Rams pick in Dane Brugler’s 7-round mock draft",
-      "link": "https://sports.yahoo.com/articles/breaking-down-every-rams-pick-123543620.html",
+      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-could-rams-target-offensive-tackle-13-insider-weighs-245f1b9a6cd76eb",
+      "title": "Could Rams target offensive tackle at 13? Insider weighs in",
+      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/could-rams-target-offensive-tackle-13-insider-weighs/245f1b9a6cd76ebd507c0a8f",
+      "source": "Sporting News",
+      "ts": 1776249540.0,
+      "published_iso": "2026-04-15T10:39:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-josiah-trotter-upgrade-rams-lb-164741206-html",
+      "title": "Josiah Trotter would upgrade Rams' LB unit for foreseeable future",
+      "link": "https://sports.yahoo.com/articles/josiah-trotter-upgrade-rams-lb-164741206.html",
       "source": "Yahoo Sports",
-      "ts": 1776232020.0,
-      "published_iso": "2026-04-15T05:47:00+00:00"
+      "ts": 1776247140.0,
+      "published_iso": "2026-04-15T09:59:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-15-dane-bruglers-7-round-mock-draft-breaking-down-every-ram",
+      "title": "Breaking down every Rams pick in Dane Brugler’s 7-round mock draft",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/15/dane-bruglers-7-round-mock-draft-breaking-down-every-rams-pick/89621380007/",
+      "source": "Rams Wire",
+      "ts": 1776231480.0,
+      "published_iso": "2026-04-15T05:38:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-report-rams-reveal-logo-uniforms-122432723-html",
