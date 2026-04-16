@@ -1,38 +1,54 @@
 {
-  "updated_iso": "2026-04-16T14:49:44.753915+00:00",
-  "count": 4,
+  "updated_iso": "2026-04-16T16:13:33.855048+00:00",
+  "count": 6,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-giving-jimmy-lake-pieces-130810576-html",
-      "title": "Rams are giving Jimmy Lake the pieces to a premier secondary",
-      "link": "https://sports.yahoo.com/articles/rams-giving-jimmy-lake-pieces-130810576.html",
+      "id": "https-sports-yahoo-com-articles-fans-react-rams-refreshed-uniforms-153454908-html",
+      "title": "Fans react to Rams' refreshed uniforms and logos",
+      "link": "https://sports.yahoo.com/articles/fans-react-rams-refreshed-uniforms-153454908.html",
       "source": "Yahoo Sports",
-      "ts": 1776320880.0,
-      "published_iso": "2026-04-16T06:28:00+00:00"
+      "ts": 1776329760.0,
+      "published_iso": "2026-04-16T08:56:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-ideal-los-angeles-rams-7-184545670-html",
-      "title": "Ideal Los Angeles Rams 7-round 2026 NFL Mock Draft: Les Snead sets the Rams up for Super Bowl run by reinforcing offense",
-      "link": "https://sports.yahoo.com/articles/ideal-los-angeles-rams-7-184545670.html",
+      "id": "https-sports-yahoo-com-articles-rams-officially-reveal-updated-uniforms-151917183-html",
+      "title": "Rams officially reveal updated uniforms and logos",
+      "link": "https://sports.yahoo.com/articles/rams-officially-reveal-updated-uniforms-151917183.html",
       "source": "Yahoo Sports",
-      "ts": 1776255480.0,
-      "published_iso": "2026-04-15T12:18:00+00:00"
+      "ts": 1776328020.0,
+      "published_iso": "2026-04-16T08:27:00+00:00"
     },
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-15-dane-bruglers-7-round-mock-draft-breaking-down-every-ram",
-      "title": "Breaking down every Rams pick in Dane Brugler’s 7-round mock draft",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/15/dane-bruglers-7-round-mock-draft-breaking-down-every-rams-pick/89621380007/",
-      "source": "Rams Wire",
-      "ts": 1776231480.0,
-      "published_iso": "2026-04-15T05:38:00+00:00"
+      "id": "https-nfl-com-news-rams-reveal-new-uniforms-brand-refresh-ahead-of-2026-season",
+      "title": "Rams reveal new uniforms, brand refresh ahead of 2026 season",
+      "link": "https://nfl.com/news/rams-reveal-new-uniforms-brand-refresh-ahead-of-2026-season",
+      "source": "NFL.com",
+      "ts": 1776327420.0,
+      "published_iso": "2026-04-16T08:17:00+00:00"
     },
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-15-la-rams-new-logo-uniform-release-report-89621641007",
-      "title": "Report: Rams to reveal new logo and uniforms on Thursday",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/15/la-rams-new-logo-uniform-release-report/89621641007/",
+      "id": "https-bleacherreport-com-articles-25418610-rams-reveal-new-uniforms-logo-2026-nfl-season-video-photos-featuring-matthew-",
+      "title": "Rams Reveal New Uniforms, Logo for 2026 NFL Season in Video, Photos Featuring Matthew Stafford",
+      "link": "https://bleacherreport.com/articles/25418610-rams-reveal-new-uniforms-logo-2026-nfl-season-video-photos-featuring-matthew-stafford",
+      "source": "Bleacher Report",
+      "ts": 1776327240.0,
+      "published_iso": "2026-04-16T08:14:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-unveil-uniform-brand-refresh-ahead-of-2026-season",
+      "title": "Rams unveil uniform & brand refresh ahead of 2026 season",
+      "link": "https://therams.com/news/rams-unveil-uniform-brand-refresh-ahead-of-2026-season",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1776326580.0,
+      "published_iso": "2026-04-16T08:03:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-16-ex-rams-starter-wants-the-rams-to-trade-for-dexter-lawre",
+      "title": "Ex-Rams starter has a dream trade idea for L.A.",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/16/ex-rams-starter-wants-the-rams-to-trade-for-dexter-lawrence/89635003007/",
       "source": "Rams Wire",
-      "ts": 1776230760.0,
-      "published_iso": "2026-04-15T05:26:00+00:00"
+      "ts": 1776324840.0,
+      "published_iso": "2026-04-16T07:34:00+00:00"
     }
   ]
 }
