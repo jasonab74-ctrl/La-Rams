@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-04-16T00:02:52.393651+00:00",
-  "count": 3,
+  "updated_iso": "2026-04-16T03:50:00.863495+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-15-nfl-draft-analyst-thinks-center-logan-jones-is-a-great-f",
+      "title": "NFL analyst thinks OL prospect is a great fit for Rams",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/15/nfl-draft-analyst-thinks-center-logan-jones-is-a-great-fit-for-rams/89632244007/",
+      "source": "Rams Wire",
+      "ts": 1776274320.0,
+      "published_iso": "2026-04-15T17:32:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-ideal-los-angeles-rams-7-184545670-html",
       "title": "Ideal Los Angeles Rams 7-round 2026 NFL Mock Draft: Les Snead sets the Rams up for Super Bowl run by reinforcing offense",
@@ -11,20 +19,20 @@
       "published_iso": "2026-04-15T12:18:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-rams-legend-aaron-donald-announces-103033485-html",
-      "title": "Rams Legend Aaron Donald Announces New Advocacy Role With NFL’s $50B Broadcasting Partner",
-      "link": "https://sports.yahoo.com/articles/rams-legend-aaron-donald-announces-103033485.html",
-      "source": "Yahoo Sports",
-      "ts": 1776253380.0,
-      "published_iso": "2026-04-15T11:43:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-15-dane-bruglers-7-round-mock-draft-breaking-down-every-ram",
+      "title": "Breaking down every Rams pick in Dane Brugler’s 7-round mock draft",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/15/dane-bruglers-7-round-mock-draft-breaking-down-every-rams-pick/89621380007/",
+      "source": "Rams Wire",
+      "ts": 1776231480.0,
+      "published_iso": "2026-04-15T05:38:00+00:00"
     },
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-15-la-rams-new-logo-uniform-release-report-89621641007",
+      "id": "https-sports-yahoo-com-articles-report-rams-reveal-logo-uniforms-122432723-html",
       "title": "Report: Rams to reveal new logo and uniforms on Thursday",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/15/la-rams-new-logo-uniform-release-report/89621641007/",
-      "source": "Rams Wire",
-      "ts": 1776230760.0,
-      "published_iso": "2026-04-15T05:26:00+00:00"
+      "link": "https://sports.yahoo.com/articles/report-rams-reveal-logo-uniforms-122432723.html",
+      "source": "Yahoo Sports",
+      "ts": 1776231000.0,
+      "published_iso": "2026-04-15T05:30:00+00:00"
     }
   ]
 }
