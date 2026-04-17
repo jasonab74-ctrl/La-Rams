@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-04-17T12:07:38.695744+00:00",
-  "count": 2,
+  "updated_iso": "2026-04-17T14:00:41.698792+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-predicted-land-potential-matthew-081455575-html",
-      "title": "Rams Predicted To Land Potential Matthew Stafford Replacement in 2026 NFL Draft",
-      "link": "https://sports.yahoo.com/articles/rams-predicted-land-potential-matthew-081455575.html",
+      "id": "https-sports-yahoo-com-articles-rams-could-potential-qb-target-124539219-html",
+      "title": "How the Rams could take a potential QB target from Mike LaFleur and the Cardinals",
+      "link": "https://sports.yahoo.com/articles/rams-could-potential-qb-target-124539219.html",
       "source": "Yahoo Sports",
-      "ts": 1776400020.0,
-      "published_iso": "2026-04-17T04:27:00+00:00"
+      "ts": 1776405240.0,
+      "published_iso": "2026-04-17T05:54:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-16-rams-new-uniforms-logos-reveal-2026-89621435007",
+      "title": "Rams officially reveal updated uniforms and logos",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/16/rams-new-uniforms-logos-reveal-2026/89621435007/",
+      "source": "Rams Wire",
+      "ts": 1776327600.0,
+      "published_iso": "2026-04-16T08:20:00+00:00"
     },
     {
       "id": "https-therams-com-news-rams-unveil-uniform-brand-refresh-ahead-of-2026-season",
