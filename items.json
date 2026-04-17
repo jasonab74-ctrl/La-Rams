@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2026-04-17T00:01:08.693896+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-04-17T03:47:54.465470+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-aren-t-done-uniform-012650837-html",
+      "title": "Rams aren’t done with uniform changes this year",
+      "link": "https://sports.yahoo.com/articles/rams-aren-t-done-uniform-012650837.html",
+      "source": "Yahoo Sports",
+      "ts": 1776364740.0,
+      "published_iso": "2026-04-16T18:39:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-16-rams-new-uniforms-logos-reveal-2026-89621435007",
+      "title": "Rams officially reveal updated uniforms and logos",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/16/rams-new-uniforms-logos-reveal-2026/89621435007/",
+      "source": "Rams Wire",
+      "ts": 1776327600.0,
+      "published_iso": "2026-04-16T08:20:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-unveil-uniform-brand-refresh-ahead-of-2026-season",
+      "title": "Rams unveil uniform & brand refresh ahead of 2026 season",
+      "link": "https://therams.com/news/rams-unveil-uniform-brand-refresh-ahead-of-2026-season",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1776326580.0,
+      "published_iso": "2026-04-16T08:03:00+00:00"
+    }
+  ]
 }
