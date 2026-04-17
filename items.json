@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-17T05:55:59.496281+00:00",
-  "count": 3,
+  "updated_iso": "2026-04-17T07:17:55.281870+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-aren-t-done-uniform-012650837-html",
@@ -11,12 +11,20 @@
       "published_iso": "2026-04-16T18:39:00+00:00"
     },
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-16-exclusive-first-look-at-rams-zillow-draft-house-for-2026",
-      "title": "Exclusive first look at Rams’ Zillow Draft House for 2026",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/16/exclusive-first-look-at-rams-zillow-draft-house-for-2026/89647140007/",
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-16-rams-new-uniforms-logos-reveal-2026-89621435007",
+      "title": "Rams officially reveal updated uniforms and logos",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/16/rams-new-uniforms-logos-reveal-2026/89621435007/",
       "source": "Rams Wire",
-      "ts": 1776344280.0,
-      "published_iso": "2026-04-16T12:58:00+00:00"
+      "ts": 1776327600.0,
+      "published_iso": "2026-04-16T08:20:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25418610-rams-reveal-new-uniforms-logo-2026-nfl-season-video-photos-featuring-matthew-",
+      "title": "Rams Reveal New Uniforms, Logo for 2026 NFL Season in Video, Photos Featuring Matthew Stafford",
+      "link": "https://bleacherreport.com/articles/25418610-rams-reveal-new-uniforms-logo-2026-nfl-season-video-photos-featuring-matthew-stafford",
+      "source": "Bleacher Report",
+      "ts": 1776327240.0,
+      "published_iso": "2026-04-16T08:14:00+00:00"
     },
     {
       "id": "https-therams-com-news-rams-unveil-uniform-brand-refresh-ahead-of-2026-season",
