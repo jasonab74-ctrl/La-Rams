@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-18T19:31:57.565143+00:00",
-  "count": 4,
+  "updated_iso": "2026-04-18T20:21:55.362761+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-18-nfl-draft-jordyn-tyson-rams-workout-first-round-89671598",
@@ -11,28 +11,20 @@
       "published_iso": "2026-04-18T12:25:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-not-going-1000s-workers-threaten-123205866-html",
-      "title": "“We’re Not Going to Work”: 1000s of Workers Threaten Strike Against Rams Owner Stan Kroenke Over Poor Working Conditions",
-      "link": "https://sports.yahoo.com/articles/not-going-1000s-workers-threaten-123205866.html",
-      "source": "Yahoo Sports",
-      "ts": 1776512760.0,
-      "published_iso": "2026-04-18T11:46:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-guard-position-rams-150100517-html",
-      "title": "Is guard a position of need for the Rams?",
-      "link": "https://sports.yahoo.com/articles/guard-position-rams-150100517.html",
-      "source": "Yahoo Sports",
-      "ts": 1776499920.0,
-      "published_iso": "2026-04-18T08:12:00+00:00"
-    },
-    {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-18-rams-trade-back-in-round-1-still-get-top-wr-in-7-round-m",
       "title": "Rams trade back in Round 1, still get top WR in 7-round mock draft",
       "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/18/rams-trade-back-in-round-1-still-get-top-wr-in-7-round-mock-draft/89661814007/",
       "source": "Rams Wire",
       "ts": 1776493860.0,
       "published_iso": "2026-04-18T06:31:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-unveil-uniform-brand-refresh-ahead-of-2026-season",
+      "title": "Rams unveil uniform & brand refresh ahead of 2026 season",
+      "link": "https://therams.com/news/rams-unveil-uniform-brand-refresh-ahead-of-2026-season",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1776326580.0,
+      "published_iso": "2026-04-16T08:03:00+00:00"
     }
   ]
 }
