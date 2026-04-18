@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-04-18T14:31:42.084957+00:00",
+  "updated_iso": "2026-04-18T15:26:33.206065+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-guard-position-rams-150100517-html",
+      "title": "Is guard a position of need for the Rams?",
+      "link": "https://sports.yahoo.com/articles/guard-position-rams-150100517.html",
+      "source": "Yahoo Sports",
+      "ts": 1776499920.0,
+      "published_iso": "2026-04-18T08:12:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-1-ot-rams-could-target-140105975-html",
       "title": "1 OT the Rams could target in each round of the draft",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1776496140.0,
       "published_iso": "2026-04-18T07:09:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-17-rams-a-top-team-to-watch-for-a-draft-day-trade-up-per-nf",
-      "title": "Rams a top team to watch for a draft-day trade-up, per NFL insider",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/17/rams-a-top-team-to-watch-for-a-draft-day-trade-up-per-nfl-insider/89660349007/",
-      "source": "Rams Wire",
-      "ts": 1776416700.0,
-      "published_iso": "2026-04-17T09:05:00+00:00"
     },
     {
       "id": "https-therams-com-news-rams-unveil-uniform-brand-refresh-ahead-of-2026-season",
