@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-04-18T06:04:20.597582+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-04-18T07:37:43.888707+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-17-rams-a-top-team-to-watch-for-a-draft-day-trade-up-per-nf",
+      "title": "Rams a top team to watch for a draft-day trade-up, per NFL insider",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/17/rams-a-top-team-to-watch-for-a-draft-day-trade-up-per-nfl-insider/89660349007/",
+      "source": "Rams Wire",
+      "ts": 1776416700.0,
+      "published_iso": "2026-04-17T09:05:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-unveil-uniform-brand-refresh-ahead-of-2026-season",
+      "title": "Rams unveil uniform & brand refresh ahead of 2026 season",
+      "link": "https://therams.com/news/rams-unveil-uniform-brand-refresh-ahead-of-2026-season",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1776326580.0,
+      "published_iso": "2026-04-16T08:03:00+00:00"
+    }
+  ]
 }
