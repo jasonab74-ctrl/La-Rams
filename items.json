@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-04-18T22:20:38.566310+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-04-18T22:59:34.175496+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-18-nfl-draft-jordyn-tyson-rams-workout-first-round-89671598",
+      "title": "Jordyn Tyson's rising stock could take him out of Rams' reach",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/18/nfl-draft-jordyn-tyson-rams-workout-first-round/89671598007/",
+      "source": "Rams Wire",
+      "ts": 1776515100.0,
+      "published_iso": "2026-04-18T12:25:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-18-rams-trade-back-in-round-1-still-get-top-wr-in-7-round-m",
+      "title": "Rams trade back in Round 1, still get top WR in 7-round mock draft",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/18/rams-trade-back-in-round-1-still-get-top-wr-in-7-round-mock-draft/89661814007/",
+      "source": "Rams Wire",
+      "ts": 1776493860.0,
+      "published_iso": "2026-04-18T06:31:00+00:00"
+    }
+  ]
 }
