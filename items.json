@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-04-18T11:53:27.592195+00:00",
-  "count": 1,
+  "updated_iso": "2026-04-18T12:32:12.282742+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-17-nfl-draft-rams-cornerback-target-each-round-89659708007",
-      "title": "1 cornerback the Rams could target in each round of the draft",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/17/nfl-draft-rams-cornerback-target-each-round/89659708007/",
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-17-rams-a-top-team-to-watch-for-a-draft-day-trade-up-per-nf",
+      "title": "Rams a top team to watch for a draft-day trade-up, per NFL insider",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/17/rams-a-top-team-to-watch-for-a-draft-day-trade-up-per-nfl-insider/89660349007/",
       "source": "Rams Wire",
-      "ts": 1776418740.0,
-      "published_iso": "2026-04-17T09:39:00+00:00"
+      "ts": 1776416700.0,
+      "published_iso": "2026-04-17T09:05:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-unveil-uniform-brand-refresh-ahead-of-2026-season",
+      "title": "Rams unveil uniform & brand refresh ahead of 2026 season",
+      "link": "https://therams.com/news/rams-unveil-uniform-brand-refresh-ahead-of-2026-season",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1776326580.0,
+      "published_iso": "2026-04-16T08:03:00+00:00"
     }
   ]
 }
