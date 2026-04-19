@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2026-04-19T10:27:46.064427+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-04-19T11:05:14.777747+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-drop-friday-inspired-nfl-195110165-html",
+      "title": "Rams drop ‘Friday’-inspired NFL Draft hype video with Ice Cube, Chris Tucker ties",
+      "link": "https://sports.yahoo.com/articles/rams-drop-friday-inspired-nfl-195110165.html",
+      "source": "Yahoo Sports",
+      "ts": 1776533340.0,
+      "published_iso": "2026-04-18T17:29:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-1-ot-rams-could-target-140105975-html",
+      "title": "1 OT the Rams could target in each round of the draft",
+      "link": "https://sports.yahoo.com/articles/1-ot-rams-could-target-140105975.html",
+      "source": "Yahoo Sports",
+      "ts": 1776496140.0,
+      "published_iso": "2026-04-18T07:09:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-unveil-uniform-brand-refresh-ahead-of-2026-season",
+      "title": "Rams unveil uniform & brand refresh ahead of 2026 season",
+      "link": "https://therams.com/news/rams-unveil-uniform-brand-refresh-ahead-of-2026-season",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1776326580.0,
+      "published_iso": "2026-04-16T08:03:00+00:00"
+    }
+  ]
 }
