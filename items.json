@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-04-19T12:31:33.763093+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-04-19T13:50:53.949722+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-19-rams-sean-mcvay-coach-facts-surprise-89577379007",
+      "title": "3 facts about Rams coach Sean McVay that might surprise you",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/19/rams-sean-mcvay-coach-facts-surprise/89577379007/",
+      "source": "Rams Wire",
+      "ts": 1776573240.0,
+      "published_iso": "2026-04-19T04:34:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-latest-nfl-blockbuster-news-could-110000673-html",
+      "title": "Latest NFL blockbuster news could spell trouble for the Los Angeles Rams' plans atop the 2026 NFL Draft",
+      "link": "https://sports.yahoo.com/articles/latest-nfl-blockbuster-news-could-110000673.html",
+      "source": "Yahoo Sports",
+      "ts": 1776572400.0,
+      "published_iso": "2026-04-19T04:20:00+00:00"
+    }
+  ]
 }
