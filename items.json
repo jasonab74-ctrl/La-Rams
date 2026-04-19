@@ -1,30 +1,14 @@
 {
-  "updated_iso": "2026-04-19T04:26:38.589231+00:00",
-  "count": 5,
+  "updated_iso": "2026-04-19T06:11:34.500737+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-drop-friday-inspired-nfl-195110165-html",
-      "title": "Rams drop ‘Friday’-inspired NFL Draft hype video with Ice Cube, Chris Tucker ties",
-      "link": "https://sports.yahoo.com/articles/rams-drop-friday-inspired-nfl-195110165.html",
-      "source": "Yahoo Sports",
-      "ts": 1776533340.0,
-      "published_iso": "2026-04-18T17:29:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-pay-tribute-movie-friday-224950054-html",
-      "title": "Rams pay tribute to the movie 'Friday' in newly released draft video",
-      "link": "https://sports.yahoo.com/articles/rams-pay-tribute-movie-friday-224950054.html",
-      "source": "Yahoo Sports",
-      "ts": 1776528300.0,
-      "published_iso": "2026-04-18T16:05:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-18-nfl-draft-jordyn-tyson-rams-workout-first-round-89671598",
-      "title": "Jordyn Tyson's rising stock could take him out of Rams' reach",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/18/nfl-draft-jordyn-tyson-rams-workout-first-round/89671598007/",
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-18-2026-nfl-draft-1-ot-the-rams-could-target-in-each-round-",
+      "title": "1 OT the Rams could target in each round of the draft",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/18/2026-nfl-draft-1-ot-the-rams-could-target-in-each-round/89663919007/",
       "source": "Rams Wire",
-      "ts": 1776515100.0,
-      "published_iso": "2026-04-18T12:25:00+00:00"
+      "ts": 1776495780.0,
+      "published_iso": "2026-04-18T07:03:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-18-rams-trade-back-in-round-1-still-get-top-wr-in-7-round-m",
@@ -33,14 +17,6 @@
       "source": "Rams Wire",
       "ts": 1776493860.0,
       "published_iso": "2026-04-18T06:31:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-unveil-uniform-brand-refresh-ahead-of-2026-season",
-      "title": "Rams unveil uniform & brand refresh ahead of 2026 season",
-      "link": "https://therams.com/news/rams-unveil-uniform-brand-refresh-ahead-of-2026-season",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1776326580.0,
-      "published_iso": "2026-04-16T08:03:00+00:00"
     }
   ]
 }
