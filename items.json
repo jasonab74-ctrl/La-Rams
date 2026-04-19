@@ -1,30 +1,46 @@
 {
-  "updated_iso": "2026-04-19T11:05:14.777747+00:00",
-  "count": 3,
+  "updated_iso": "2026-04-19T11:54:06.981961+00:00",
+  "count": 5,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-drop-friday-inspired-nfl-195110165-html",
-      "title": "Rams drop ‘Friday’-inspired NFL Draft hype video with Ice Cube, Chris Tucker ties",
-      "link": "https://sports.yahoo.com/articles/rams-drop-friday-inspired-nfl-195110165.html",
+      "id": "https-sports-yahoo-com-articles-3-facts-rams-coach-sean-113033496-html",
+      "title": "3 facts about Rams coach Sean McVay that might surprise you",
+      "link": "https://sports.yahoo.com/articles/3-facts-rams-coach-sean-113033496.html",
       "source": "Yahoo Sports",
-      "ts": 1776533340.0,
-      "published_iso": "2026-04-18T17:29:00+00:00"
+      "ts": 1776573480.0,
+      "published_iso": "2026-04-19T04:38:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-1-ot-rams-could-target-140105975-html",
-      "title": "1 OT the Rams could target in each round of the draft",
-      "link": "https://sports.yahoo.com/articles/1-ot-rams-could-target-140105975.html",
+      "id": "https-sports-yahoo-com-articles-latest-nfl-blockbuster-news-could-110000673-html",
+      "title": "Latest NFL blockbuster news could spell trouble for the Los Angeles Rams' plans atop the 2026 NFL Draft",
+      "link": "https://sports.yahoo.com/articles/latest-nfl-blockbuster-news-could-110000673.html",
       "source": "Yahoo Sports",
-      "ts": 1776496140.0,
-      "published_iso": "2026-04-18T07:09:00+00:00"
+      "ts": 1776572400.0,
+      "published_iso": "2026-04-19T04:20:00+00:00"
     },
     {
-      "id": "https-therams-com-news-rams-unveil-uniform-brand-refresh-ahead-of-2026-season",
-      "title": "Rams unveil uniform & brand refresh ahead of 2026 season",
-      "link": "https://therams.com/news/rams-unveil-uniform-brand-refresh-ahead-of-2026-season",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1776326580.0,
-      "published_iso": "2026-04-16T08:03:00+00:00"
+      "id": "https-bleacherreport-com-articles-25418259-new-rams-nfl-mock-draft-expert-roundup-1st-round-pick",
+      "title": "New Rams NFL Mock Draft Expert Roundup for 1st-Round Pick",
+      "link": "https://bleacherreport.com/articles/25418259-new-rams-nfl-mock-draft-expert-roundup-1st-round-pick",
+      "source": "Bleacher Report",
+      "ts": 1776571320.0,
+      "published_iso": "2026-04-19T04:02:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-18-nfl-draft-jordyn-tyson-rams-workout-first-round-89671598",
+      "title": "Jordyn Tyson's rising stock could take him out of Rams' reach",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/18/nfl-draft-jordyn-tyson-rams-workout-first-round/89671598007/",
+      "source": "Rams Wire",
+      "ts": 1776515100.0,
+      "published_iso": "2026-04-18T12:25:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-18-rams-trade-back-in-round-1-still-get-top-wr-in-7-round-m",
+      "title": "Rams trade back in Round 1, still get top WR in 7-round mock draft",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/18/rams-trade-back-in-round-1-still-get-top-wr-in-7-round-mock-draft/89661814007/",
+      "source": "Rams Wire",
+      "ts": 1776493860.0,
+      "published_iso": "2026-04-18T06:31:00+00:00"
     }
   ]
 }
