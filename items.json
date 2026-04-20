@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2026-04-20T20:33:01.721470+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-04-20T21:35:18.062568+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-consider-alternate-201559274-html",
+      "title": "The Los Angeles Rams should consider alternate backup plans after the latest Jimmy Garoppolo news",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-consider-alternate-201559274.html",
+      "source": "Yahoo Sports",
+      "ts": 1776694920.0,
+      "published_iso": "2026-04-20T14:22:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-just-got-192959715-html",
+      "title": "The Los Angeles Rams just got the best possible news for the future of the team ahead of the 2026 NFL Draft",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-just-got-192959715.html",
+      "source": "Yahoo Sports",
+      "ts": 1776690060.0,
+      "published_iso": "2026-04-20T13:01:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-20-nfl-draft-trade-options-rams-89704473007",
+      "title": "Analyst offers hypothetical trade-up and trade-down options for Rams",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/20/nfl-draft-trade-options-rams/89704473007/",
+      "source": "Rams Wire",
+      "ts": 1776686760.0,
+      "published_iso": "2026-04-20T12:06:00+00:00"
+    }
+  ]
 }
