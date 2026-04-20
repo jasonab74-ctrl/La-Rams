@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2026-04-20T14:16:46.550979+00:00",
-  "count": 1,
+  "updated_iso": "2026-04-20T15:49:04.968562+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-how-rams-trade-trent-mcduffie-negative-impact-ty-simpson-dfcc1be6594",
-      "title": "How Rams' trade for Trent McDuffie had negative impact on Ty Simpson in NFL Draft",
-      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/how-rams-trade-trent-mcduffie-negative-impact-ty-simpson/dfcc1be6594b8f7d79e5b87e",
-      "source": "Sporting News",
-      "ts": 1776618060.0,
-      "published_iso": "2026-04-19T17:01:00+00:00"
+      "id": "https-sports-yahoo-com-articles-rams-reportedly-couldve-made-bold-140556923-html",
+      "title": "Rams reportedly could've made bold Ty Simpson decision with 29th pick if not for trade",
+      "link": "https://sports.yahoo.com/articles/rams-reportedly-couldve-made-bold-140556923.html",
+      "source": "Yahoo Sports",
+      "ts": 1776673140.0,
+      "published_iso": "2026-04-20T08:19:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-final-los-angeles-rams-7-122100584-html",
+      "title": "Final Los Angeles Rams 7-round 2026 NFL mock draft and UDFA projections locks the Rams in as Super Bowl favorites",
+      "link": "https://sports.yahoo.com/articles/final-los-angeles-rams-7-122100584.html",
+      "source": "Yahoo Sports",
+      "ts": 1776666180.0,
+      "published_iso": "2026-04-20T06:23:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-unveil-uniform-brand-refresh-ahead-of-2026-season",
+      "title": "Rams unveil uniform & brand refresh ahead of 2026 season",
+      "link": "https://therams.com/news/rams-unveil-uniform-brand-refresh-ahead-of-2026-season",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1776326580.0,
+      "published_iso": "2026-04-16T08:03:00+00:00"
     }
   ]
 }
