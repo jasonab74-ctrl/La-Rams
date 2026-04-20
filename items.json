@@ -1,14 +1,46 @@
 {
-  "updated_iso": "2026-04-20T07:07:58.588504+00:00",
-  "count": 1,
+  "updated_iso": "2026-04-20T09:21:36.798783+00:00",
+  "count": 5,
   "items": [
     {
-      "id": "https-therams-com-news-rams-unveil-uniform-brand-refresh-ahead-of-2026-season",
-      "title": "Rams unveil uniform & brand refresh ahead of 2026 season",
-      "link": "https://therams.com/news/rams-unveil-uniform-brand-refresh-ahead-of-2026-season",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1776326580.0,
-      "published_iso": "2026-04-16T08:03:00+00:00"
+      "id": "https-sports-yahoo-com-articles-rams-2026-nfl-mock-draft-044936991-html",
+      "title": "Rams’ 2026 NFL Mock Draft for all 7 picks",
+      "link": "https://sports.yahoo.com/articles/rams-2026-nfl-mock-draft-044936991.html",
+      "source": "Yahoo Sports",
+      "ts": 1776650820.0,
+      "published_iso": "2026-04-20T02:07:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-interesting-links-204447466-html",
+      "title": "The Los Angeles Rams have some interesting links to a top prospect in the 2026 NFL Draft, and it could ruin every mock draft",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-interesting-links-204447466.html",
+      "source": "Yahoo Sports",
+      "ts": 1776608820.0,
+      "published_iso": "2026-04-19T14:27:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-rams-draft-plans-giants-dexter-lawrence-trade-impact-2026-nfl-draft",
+      "title": "Did Giants’ Blockbuster Trade Shake Up Rams’ Draft Board?",
+      "link": "https://si.com/nfl/rams/onsi/rams-draft-plans-giants-dexter-lawrence-trade-impact-2026-nfl-draft",
+      "source": "Sports Illustrated",
+      "ts": 1776600120.0,
+      "published_iso": "2026-04-19T12:02:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-19-rams-sean-mcvay-coach-facts-surprise-89577379007",
+      "title": "3 facts about Rams coach Sean McVay that might surprise you",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/19/rams-sean-mcvay-coach-facts-surprise/89577379007/",
+      "source": "Rams Wire",
+      "ts": 1776573240.0,
+      "published_iso": "2026-04-19T04:34:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25418259-new-rams-nfl-mock-draft-expert-roundup-1st-round-pick",
+      "title": "New Rams NFL Mock Draft Expert Roundup for 1st-Round Pick",
+      "link": "https://bleacherreport.com/articles/25418259-new-rams-nfl-mock-draft-expert-roundup-1st-round-pick",
+      "source": "Bleacher Report",
+      "ts": 1776571320.0,
+      "published_iso": "2026-04-19T04:02:00+00:00"
     }
   ]
 }
