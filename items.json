@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-04-21T11:56:20.546468+00:00",
-  "count": 4,
+  "updated_iso": "2026-04-21T13:00:18.150644+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-ocregister-com-2026-04-20-rams-wr-puka-nacua-reports-for-start-of-team-offseason-program",
-      "title": "Rams WR Puka Nacua reports for start of team offseason program",
-      "link": "https://ocregister.com/2026/04/20/rams-wr-puka-nacua-reports-for-start-of-team-offseason-program/",
-      "source": "OC Register",
-      "ts": 1776725340.0,
-      "published_iso": "2026-04-20T22:49:00+00:00"
+      "id": "https-sports-yahoo-com-articles-three-final-bold-los-angeles-120000266-html",
+      "title": "Three final bold Los Angeles Rams Predictions for the 2026 NFL draft as priorities and draft plans begin to take shape",
+      "link": "https://sports.yahoo.com/articles/three-final-bold-los-angeles-120000266.html",
+      "source": "Yahoo Sports",
+      "ts": 1776747600.0,
+      "published_iso": "2026-04-21T05:00:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-just-got-192959715-html",
@@ -19,20 +19,12 @@
       "published_iso": "2026-04-20T13:01:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-final-los-angeles-rams-7-122100584-html",
-      "title": "Final Los Angeles Rams 7-round 2026 NFL mock draft and UDFA projections locks the Rams in as Super Bowl favorites",
-      "link": "https://sports.yahoo.com/articles/final-los-angeles-rams-7-122100584.html",
-      "source": "Yahoo Sports",
-      "ts": 1776666180.0,
-      "published_iso": "2026-04-20T06:23:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-unveil-uniform-brand-refresh-ahead-of-2026-season",
-      "title": "Rams unveil uniform & brand refresh ahead of 2026 season",
-      "link": "https://therams.com/news/rams-unveil-uniform-brand-refresh-ahead-of-2026-season",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1776326580.0,
-      "published_iso": "2026-04-16T08:03:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-20-nfl-draft-trade-options-rams-89704473007",
+      "title": "Analyst offers hypothetical trade-up and trade-down options for Rams",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/20/nfl-draft-trade-options-rams/89704473007/",
+      "source": "Rams Wire",
+      "ts": 1776686760.0,
+      "published_iso": "2026-04-20T12:06:00+00:00"
     }
   ]
 }
