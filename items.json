@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2026-04-21T18:52:44.997759+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-04-21T19:56:42.088306+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-matthew-stafford-contract-hints-183000545-html",
+      "title": "Rams’ Matthew Stafford Contract Update Hints at Career Beyond 2026",
+      "link": "https://sports.yahoo.com/articles/rams-matthew-stafford-contract-hints-183000545.html",
+      "source": "Yahoo Sports",
+      "ts": 1776775140.0,
+      "published_iso": "2026-04-21T12:39:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-matthew-stafford-los-angeles-rams-173000293-html",
+      "title": "Matthew Stafford and Los Angeles Rams’ stance on new contract revealed",
+      "link": "https://sports.yahoo.com/articles/matthew-stafford-los-angeles-rams-173000293.html",
+      "source": "Yahoo Sports",
+      "ts": 1776772020.0,
+      "published_iso": "2026-04-21T11:47:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25420637-cowboys-rams-eagles-make-major-trades-new-nfl-mock-draft-conor-orr",
+      "title": "Cowboys, Rams, Eagles Make Major Trades Up in New NFL Mock Draft from Conor Orr",
+      "link": "https://bleacherreport.com/articles/25420637-cowboys-rams-eagles-make-major-trades-new-nfl-mock-draft-conor-orr",
+      "source": "Bleacher Report",
+      "ts": 1776762600.0,
+      "published_iso": "2026-04-21T09:10:00+00:00"
+    }
+  ]
 }
