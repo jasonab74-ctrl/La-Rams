@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-04-21T01:15:27.452436+00:00",
-  "count": 2,
+  "updated_iso": "2026-04-21T04:23:17.606709+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-contract-extension-between-rams-matthew-032839290-html",
+      "title": "Contract extension between Rams & Matthew Stafford is imminent",
+      "link": "https://sports.yahoo.com/articles/contract-extension-between-rams-matthew-032839290.html",
+      "source": "Yahoo Sports",
+      "ts": 1776717480.0,
+      "published_iso": "2026-04-20T20:38:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-just-got-192959715-html",
       "title": "The Los Angeles Rams just got the best possible news for the future of the team ahead of the 2026 NFL Draft",
@@ -11,12 +19,12 @@
       "published_iso": "2026-04-20T13:01:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-final-los-angeles-rams-7-122100584-html",
-      "title": "Final Los Angeles Rams 7-round 2026 NFL mock draft and UDFA projections locks the Rams in as Super Bowl favorites",
-      "link": "https://sports.yahoo.com/articles/final-los-angeles-rams-7-122100584.html",
-      "source": "Yahoo Sports",
-      "ts": 1776666180.0,
-      "published_iso": "2026-04-20T06:23:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-20-nfl-draft-trade-options-rams-89704473007",
+      "title": "Analyst offers hypothetical trade-up and trade-down options for Rams",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/20/nfl-draft-trade-options-rams/89704473007/",
+      "source": "Rams Wire",
+      "ts": 1776686760.0,
+      "published_iso": "2026-04-20T12:06:00+00:00"
     }
   ]
 }
