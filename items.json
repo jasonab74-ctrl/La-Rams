@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-04-21T20:39:58.419390+00:00",
-  "count": 2,
+  "updated_iso": "2026-04-21T21:34:32.386091+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-top-200-195211367-html",
+      "title": "Los Angeles Rams Top-200 2026 NFL Draft Defensive Big Board: Rams can complete defensive rebuild across the NFL Draft",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-top-200-195211367.html",
+      "source": "Yahoo Sports",
+      "ts": 1776779820.0,
+      "published_iso": "2026-04-21T13:57:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-top-200-190000704-html",
       "title": "Los Angeles Rams Top-200 Offensive 2026 NFL Draft Horizontal Big Board: Rams have multiple options to retool offense around Stafford",
@@ -11,12 +19,12 @@
       "published_iso": "2026-04-21T13:12:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-matthew-stafford-los-angeles-rams-173000293-html",
-      "title": "Matthew Stafford and Los Angeles Rams’ stance on new contract revealed",
-      "link": "https://sports.yahoo.com/articles/matthew-stafford-los-angeles-rams-173000293.html",
-      "source": "Yahoo Sports",
-      "ts": 1776772020.0,
-      "published_iso": "2026-04-21T11:47:00+00:00"
+      "id": "https-bleacherreport-com-articles-25420637-cowboys-rams-eagles-make-major-trades-new-nfl-mock-draft-conor-orr",
+      "title": "Cowboys, Rams, Eagles Make Major Trades Up in New NFL Mock Draft from Conor Orr",
+      "link": "https://bleacherreport.com/articles/25420637-cowboys-rams-eagles-make-major-trades-new-nfl-mock-draft-conor-orr",
+      "source": "Bleacher Report",
+      "ts": 1776762600.0,
+      "published_iso": "2026-04-21T09:10:00+00:00"
     }
   ]
 }
