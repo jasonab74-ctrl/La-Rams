@@ -1,5 +1,5 @@
 {
-  "updated_iso": "2026-04-21T13:00:18.150644+00:00",
+  "updated_iso": "2026-04-21T14:46:47.421040+00:00",
   "count": 3,
   "items": [
     {
@@ -7,8 +7,16 @@
       "title": "Three final bold Los Angeles Rams Predictions for the 2026 NFL draft as priorities and draft plans begin to take shape",
       "link": "https://sports.yahoo.com/articles/three-final-bold-los-angeles-120000266.html",
       "source": "Yahoo Sports",
-      "ts": 1776747600.0,
-      "published_iso": "2026-04-21T05:00:00+00:00"
+      "ts": 1776751200.0,
+      "published_iso": "2026-04-21T06:00:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-21-report-eagles-wanted-2027-draft-picks-from-rams-for-aj-b",
+      "title": "Report: Eagles wanted 'picks in future years' from Rams for AJ Brown",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/21/report-eagles-wanted-2027-draft-picks-from-rams-for-aj-brown/89712805007/",
+      "source": "Rams Wire",
+      "ts": 1776749040.0,
+      "published_iso": "2026-04-21T05:24:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-just-got-192959715-html",
@@ -17,14 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1776690060.0,
       "published_iso": "2026-04-20T13:01:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-20-nfl-draft-trade-options-rams-89704473007",
-      "title": "Analyst offers hypothetical trade-up and trade-down options for Rams",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/20/nfl-draft-trade-options-rams/89704473007/",
-      "source": "Rams Wire",
-      "ts": 1776686760.0,
-      "published_iso": "2026-04-20T12:06:00+00:00"
     }
   ]
 }
