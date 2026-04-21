@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-21T22:28:13.160066+00:00",
-  "count": 3,
+  "updated_iso": "2026-04-21T23:05:01.288948+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-top-200-195211367-html",
@@ -17,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1776777120.0,
       "published_iso": "2026-04-21T13:12:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25420637-cowboys-rams-eagles-make-major-trades-new-nfl-mock-draft-conor-orr",
-      "title": "Cowboys, Rams, Eagles Make Major Trades Up in New NFL Mock Draft from Conor Orr",
-      "link": "https://bleacherreport.com/articles/25420637-cowboys-rams-eagles-make-major-trades-new-nfl-mock-draft-conor-orr",
-      "source": "Bleacher Report",
-      "ts": 1776762600.0,
-      "published_iso": "2026-04-21T09:10:00+00:00"
     }
   ]
 }
