@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-04-21T14:46:47.421040+00:00",
-  "count": 3,
+  "updated_iso": "2026-04-21T16:01:01.904786+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-why-los-angeles-rams-not-153000330-html",
+      "title": "Why the Los Angeles Rams will not draft Ty Simpson, explains NFL expert",
+      "link": "https://sports.yahoo.com/articles/why-los-angeles-rams-not-153000330.html",
+      "source": "Yahoo Sports",
+      "ts": 1776761400.0,
+      "published_iso": "2026-04-21T08:50:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-three-final-bold-los-angeles-120000266-html",
       "title": "Three final bold Los Angeles Rams Predictions for the 2026 NFL draft as priorities and draft plans begin to take shape",
@@ -19,12 +27,12 @@
       "published_iso": "2026-04-21T05:24:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-just-got-192959715-html",
-      "title": "The Los Angeles Rams just got the best possible news for the future of the team ahead of the 2026 NFL Draft",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-just-got-192959715.html",
-      "source": "Yahoo Sports",
-      "ts": 1776690060.0,
-      "published_iso": "2026-04-20T13:01:00+00:00"
+      "id": "https-therams-com-news-rams-unveil-uniform-brand-refresh-ahead-of-2026-season",
+      "title": "Rams unveil uniform & brand refresh ahead of 2026 season",
+      "link": "https://therams.com/news/rams-unveil-uniform-brand-refresh-ahead-of-2026-season",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1776326580.0,
+      "published_iso": "2026-04-16T08:03:00+00:00"
     }
   ]
 }
