@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-22T08:11:54.578173+00:00",
-  "count": 2,
+  "updated_iso": "2026-04-22T09:56:28.413053+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-top-200-195211367-html",
@@ -17,6 +17,14 @@
       "source": "Yahoo Sports",
       "ts": 1776777120.0,
       "published_iso": "2026-04-21T13:12:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-articles-nfl-jimmy-garoppolo-considering-retirement-but-the-rams-hope-hell-return-as-matthew-staffor",
+      "title": "Jimmy Garoppolo considering retirement, but the Rams hope he'll return as Matthew Stafford's backup",
+      "link": "https://foxsports.com/articles/nfl/jimmy-garoppolo-considering-retirement-but-the-rams-hope-hell-return-as-matthew-staffords-backup",
+      "source": "FOX Sports",
+      "ts": 1776769500.0,
+      "published_iso": "2026-04-21T11:05:00+00:00"
     }
   ]
 }
