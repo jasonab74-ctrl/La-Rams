@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-04-22T22:35:43.390520+00:00",
-  "count": 1,
+  "updated_iso": "2026-04-22T23:35:34.392125+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-linked-trade-suprise-first-225647714-html",
+      "title": "Rams Linked to Trade, Suprise First Round Pick in NFL Draft",
+      "link": "https://sports.yahoo.com/articles/rams-linked-trade-suprise-first-225647714.html",
+      "source": "Yahoo Sports",
+      "ts": 1776874380.0,
+      "published_iso": "2026-04-22T16:13:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-three-rams-players-could-themselves-181210727-html",
+      "title": "Three Rams players who could find themselves saying goodbye to Los Angeles after the 2026 NFL Draft",
+      "link": "https://sports.yahoo.com/articles/three-rams-players-could-themselves-181210727.html",
+      "source": "Yahoo Sports",
+      "ts": 1776874260.0,
+      "published_iso": "2026-04-22T16:11:00+00:00"
+    },
     {
       "id": "https-bleacherreport-com-articles-25421066-jets-rams-trade-star-wrs-top-10-new-nfl-mock-draft-2026-top-beat-reporters",
       "title": "Jets, Rams Trade for Star WRs in Top 10 in New NFL Mock Draft 2026 from Top Beat Reporters",
