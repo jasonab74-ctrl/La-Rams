@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-04-23T19:45:34.340352+00:00",
+  "updated_iso": "2026-04-23T20:41:01.507470+00:00",
   "count": 5,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-linked-alabama-prospect-not-200503912-html",
+      "title": "Rams linked to Alabama prospect not named Ty Simpson after Round 1 of NFL Draft",
+      "link": "https://sports.yahoo.com/articles/rams-linked-alabama-prospect-not-200503912.html",
+      "source": "Yahoo Sports",
+      "ts": 1776950760.0,
+      "published_iso": "2026-04-23T13:26:00+00:00"
+    },
     {
       "id": "https-bleacherreport-com-articles-25421622-sean-mcvay-talks-jimmy-garoppolo-nfl-retirement-rumors-possibility-rams-draft",
       "title": "Sean McVay Talks Jimmy Garoppolo NFL Retirement Rumors, Possibility of Rams Drafting a QB",
@@ -33,14 +41,6 @@
       "source": "Rams Wire",
       "ts": 1776929820.0,
       "published_iso": "2026-04-23T07:37:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-draft-picks-140651183-html",
-      "title": "Los Angeles Rams draft picks tracker: Updated list of 2026 selections, next pick predictions",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-draft-picks-140651183.html",
-      "source": "Yahoo Sports",
-      "ts": 1776929340.0,
-      "published_iso": "2026-04-23T07:29:00+00:00"
     }
   ]
 }
