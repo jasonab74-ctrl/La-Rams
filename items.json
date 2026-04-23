@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-04-23T18:00:44.816669+00:00",
+  "updated_iso": "2026-04-23T19:45:34.340352+00:00",
   "count": 5,
   "items": [
+    {
+      "id": "https-bleacherreport-com-articles-25421622-sean-mcvay-talks-jimmy-garoppolo-nfl-retirement-rumors-possibility-rams-draft",
+      "title": "Sean McVay Talks Jimmy Garoppolo NFL Retirement Rumors, Possibility of Rams Drafting a QB",
+      "link": "https://bleacherreport.com/articles/25421622-sean-mcvay-talks-jimmy-garoppolo-nfl-retirement-rumors-possibility-rams-drafting-qb",
+      "source": "Bleacher Report",
+      "ts": 1776947820.0,
+      "published_iso": "2026-04-23T12:37:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-rumors-insider-drops-sneaky-150545830-html",
+      "title": "Rams rumors: Insider drops sneaky hint on potential NFL Draft trade up",
+      "link": "https://sports.yahoo.com/articles/rams-rumors-insider-drops-sneaky-150545830.html",
+      "source": "Yahoo Sports",
+      "ts": 1776946680.0,
+      "published_iso": "2026-04-23T12:18:00+00:00"
+    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-23-rams-nfl-draft-things-must-do-picks-89738848007",
       "title": "7 things the Rams must do in the 2026 draft",
@@ -11,12 +27,12 @@
       "published_iso": "2026-04-23T10:28:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-luxury-block-why-la-rams-171214877-html",
-      "title": "Luxury block: Why the LA Rams could grab an offensive tackle at 13",
-      "link": "https://sports.yahoo.com/articles/luxury-block-why-la-rams-171214877.html",
-      "source": "Yahoo Sports",
-      "ts": 1776939660.0,
-      "published_iso": "2026-04-23T10:21:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-23-nfl-draft-pick-order-rams-full-list-2026-89750102007",
+      "title": "Full order of Rams' picks in 2026 NFL Draft: Here's when LA is on the clock",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/23/nfl-draft-pick-order-rams-full-list-2026/89750102007/",
+      "source": "Rams Wire",
+      "ts": 1776929820.0,
+      "published_iso": "2026-04-23T07:37:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-draft-picks-140651183-html",
@@ -25,22 +41,6 @@
       "source": "Yahoo Sports",
       "ts": 1776929340.0,
       "published_iso": "2026-04-23T07:29:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-23-2026-nfl-draft-rams-pick-time-13th-overall-round-1-89748",
-      "title": "What time will the Rams pick tonight in Round 1 of the 2026 NFL Draft?",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/23/2026-nfl-draft-rams-pick-time-13th-overall-round-1/89748346007/",
-      "source": "Rams Wire",
-      "ts": 1776924480.0,
-      "published_iso": "2026-04-23T06:08:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-celebrate-earth-day-ongoing-commitment-providing-resources-local-schools",
-      "title": "Rams celebrate Earth Day through ongoing commitment to providing resources in local schools",
-      "link": "https://therams.com/news/rams-celebrate-earth-day-ongoing-commitment-providing-resources-local-schools",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1776894480.0,
-      "published_iso": "2026-04-22T21:48:00+00:00"
     }
   ]
 }
