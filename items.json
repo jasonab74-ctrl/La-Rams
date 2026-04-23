@@ -1,14 +1,38 @@
 {
-  "updated_iso": "2026-04-23T12:53:44.018246+00:00",
-  "count": 4,
+  "updated_iso": "2026-04-23T15:04:25.980182+00:00",
+  "count": 5,
   "items": [
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-23-rams-mock-draft-7-rounds-projections-89746536007",
-      "title": "7-round Rams mock draft: LA goes offense early, doubles up on OL",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/23/rams-mock-draft-7-rounds-projections/89746536007/",
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-23-nfl-draft-pick-order-rams-full-list-2026-89750102007",
+      "title": "Full order of Rams' picks in 2026 NFL Draft: Here's when LA is on the clock",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/23/nfl-draft-pick-order-rams-full-list-2026/89750102007/",
       "source": "Rams Wire",
-      "ts": 1776921840.0,
-      "published_iso": "2026-04-23T05:24:00+00:00"
+      "ts": 1776929820.0,
+      "published_iso": "2026-04-23T07:37:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-draft-picks-140651183-html",
+      "title": "Los Angeles Rams draft picks tracker: Updated list of 2026 selections, next pick predictions",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-draft-picks-140651183.html",
+      "source": "Yahoo Sports",
+      "ts": 1776929340.0,
+      "published_iso": "2026-04-23T07:29:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-23-nfl-draft-makai-lemon-rams-fit-perfect-89749158007",
+      "title": "Makai Lemon would love to play for the Rams: 'It'd be a perfect fit'",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/23/nfl-draft-makai-lemon-rams-fit-perfect/89749158007/",
+      "source": "Rams Wire",
+      "ts": 1776927000.0,
+      "published_iso": "2026-04-23T06:50:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-nfl-draft-123952894-html",
+      "title": "Los Angeles Rams NFL draft picks: Number, rounds, overall position",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-nfl-draft-123952894.html",
+      "source": "Yahoo Sports",
+      "ts": 1776923820.0,
+      "published_iso": "2026-04-23T05:57:00+00:00"
     },
     {
       "id": "https-bleacherreport-com-articles-25421434-rams-reportedly-love-star-wr-prospect-following-aj-brown-davante-adams-trade-",
@@ -17,22 +41,6 @@
       "source": "Bleacher Report",
       "ts": 1776884220.0,
       "published_iso": "2026-04-22T18:57:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-three-rams-players-could-themselves-181210727-html",
-      "title": "Three Rams players who could find themselves saying goodbye to Los Angeles after the 2026 NFL Draft",
-      "link": "https://sports.yahoo.com/articles/three-rams-players-could-themselves-181210727.html",
-      "source": "Yahoo Sports",
-      "ts": 1776874260.0,
-      "published_iso": "2026-04-22T16:11:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-top-200-195211367-html",
-      "title": "Los Angeles Rams Top-200 2026 NFL Draft Defensive Big Board: Rams can complete defensive rebuild across the NFL Draft",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-top-200-195211367.html",
-      "source": "Yahoo Sports",
-      "ts": 1776779820.0,
-      "published_iso": "2026-04-21T13:57:00+00:00"
     }
   ]
 }
