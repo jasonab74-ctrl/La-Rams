@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2026-04-23T08:14:23.131238+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-04-23T10:00:17.157600+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-could-prioritize-defense-early-055619124-html",
+      "title": "Rams could prioritize defense early in draft, says NFL GM",
+      "link": "https://sports.yahoo.com/articles/rams-could-prioritize-defense-early-055619124.html",
+      "source": "Yahoo Sports",
+      "ts": 1776905100.0,
+      "published_iso": "2026-04-23T00:45:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25421434-rams-reportedly-love-star-wr-prospect-following-aj-brown-davante-adams-trade-",
+      "title": "Rams Reportedly 'Love' This Star WR Prospect Following A.J. Brown, Davante Adams Trade Rumors",
+      "link": "https://bleacherreport.com/articles/25421434-rams-reportedly-love-star-wr-prospect-following-aj-brown-davante-adams-trade-rumors",
+      "source": "Bleacher Report",
+      "ts": 1776884220.0,
+      "published_iso": "2026-04-22T18:57:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-top-200-195211367-html",
+      "title": "Los Angeles Rams Top-200 2026 NFL Draft Defensive Big Board: Rams can complete defensive rebuild across the NFL Draft",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-top-200-195211367.html",
+      "source": "Yahoo Sports",
+      "ts": 1776779820.0,
+      "published_iso": "2026-04-21T13:57:00+00:00"
+    }
+  ]
 }
