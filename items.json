@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-04-23T20:41:01.507470+00:00",
-  "count": 5,
+  "updated_iso": "2026-04-23T21:34:46.661617+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-23-la-rams-2026-nfl-draft-tracker-picks-trades-analysis-897",
+      "title": "Rams 2026 NFL Draft tracker: Pick-by-pick analysis",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/23/la-rams-2026-nfl-draft-tracker-picks-trades-analysis/89754576007/",
+      "source": "Rams Wire",
+      "ts": 1776954720.0,
+      "published_iso": "2026-04-23T14:32:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-linked-alabama-prospect-not-200503912-html",
       "title": "Rams linked to Alabama prospect not named Ty Simpson after Round 1 of NFL Draft",
@@ -19,28 +27,12 @@
       "published_iso": "2026-04-23T12:37:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-rams-rumors-insider-drops-sneaky-150545830-html",
-      "title": "Rams rumors: Insider drops sneaky hint on potential NFL Draft trade up",
-      "link": "https://sports.yahoo.com/articles/rams-rumors-insider-drops-sneaky-150545830.html",
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-draft-picks-140651183-html",
+      "title": "Los Angeles Rams draft picks tracker: Updated list of 2026 selections, next pick predictions",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-draft-picks-140651183.html",
       "source": "Yahoo Sports",
-      "ts": 1776946680.0,
-      "published_iso": "2026-04-23T12:18:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-23-rams-nfl-draft-things-must-do-picks-89738848007",
-      "title": "7 things the Rams must do in the 2026 draft",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/23/rams-nfl-draft-things-must-do-picks/89738848007/",
-      "source": "Rams Wire",
-      "ts": 1776940080.0,
-      "published_iso": "2026-04-23T10:28:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-23-nfl-draft-pick-order-rams-full-list-2026-89750102007",
-      "title": "Full order of Rams' picks in 2026 NFL Draft: Here's when LA is on the clock",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/23/nfl-draft-pick-order-rams-full-list-2026/89750102007/",
-      "source": "Rams Wire",
-      "ts": 1776929820.0,
-      "published_iso": "2026-04-23T07:37:00+00:00"
+      "ts": 1776929340.0,
+      "published_iso": "2026-04-23T07:29:00+00:00"
     }
   ]
 }
