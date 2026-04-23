@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-04-23T15:04:25.980182+00:00",
+  "updated_iso": "2026-04-23T16:55:33.250154+00:00",
   "count": 5,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-turn-nfl-draft-hype-150048887-html",
+      "title": "Rams Turn NFL Draft Hype into LA Classic with 'Friday' Homage",
+      "link": "https://sports.yahoo.com/articles/rams-turn-nfl-draft-hype-150048887.html",
+      "source": "Yahoo Sports",
+      "ts": 1776933900.0,
+      "published_iso": "2026-04-23T08:45:00+00:00"
+    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-23-nfl-draft-pick-order-rams-full-list-2026-89750102007",
       "title": "Full order of Rams' picks in 2026 NFL Draft: Here's when LA is on the clock",
@@ -19,20 +27,12 @@
       "published_iso": "2026-04-23T07:29:00+00:00"
     },
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-23-nfl-draft-makai-lemon-rams-fit-perfect-89749158007",
-      "title": "Makai Lemon would love to play for the Rams: 'It'd be a perfect fit'",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/23/nfl-draft-makai-lemon-rams-fit-perfect/89749158007/",
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-23-2026-nfl-draft-rams-pick-time-13th-overall-round-1-89748",
+      "title": "What time will the Rams pick tonight in Round 1 of the 2026 NFL Draft?",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/23/2026-nfl-draft-rams-pick-time-13th-overall-round-1/89748346007/",
       "source": "Rams Wire",
-      "ts": 1776927000.0,
-      "published_iso": "2026-04-23T06:50:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-nfl-draft-123952894-html",
-      "title": "Los Angeles Rams NFL draft picks: Number, rounds, overall position",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-nfl-draft-123952894.html",
-      "source": "Yahoo Sports",
-      "ts": 1776923820.0,
-      "published_iso": "2026-04-23T05:57:00+00:00"
+      "ts": 1776924480.0,
+      "published_iso": "2026-04-23T06:08:00+00:00"
     },
     {
       "id": "https-bleacherreport-com-articles-25421434-rams-reportedly-love-star-wr-prospect-following-aj-brown-davante-adams-trade-",
