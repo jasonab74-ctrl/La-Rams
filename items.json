@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-04-24T23:06:34.328401+00:00",
-  "count": 2,
+  "updated_iso": "2026-04-24T23:58:59.700903+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-bleacherreport-com-articles-25422028-everything-rams-ty-simpson-said-about-2026-nfl-draft-pick-matthew-stafford-mo",
+      "title": "Everything Rams' Ty Simpson Said About 2026 NFL Draft Pick, Matthew Stafford, More",
+      "link": "https://bleacherreport.com/articles/25422028-everything-rams-ty-simpson-said-about-2026-nfl-draft-pick-matthew-stafford-more",
+      "source": "Bleacher Report",
+      "ts": 1777047960.0,
+      "published_iso": "2026-04-24T16:26:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-videos-rapoport-decodes-sean-mcvay-s-demeanor-following-rams-taking-qb-ty-simpson-with-13th-overall-pick-n",
+      "title": "Rapoport decodes Sean McVay's demeanor following Rams taking QB Ty Simpson with 13th overall pick | 'NFL Draft Kickoff'",
+      "link": "https://nfl.com/videos/rapoport-decodes-sean-mcvay-s-demeanor-following-rams-taking-qb-ty-simpson-with-13th-overall-pick-nfl-draft-kickoff",
+      "source": "NFL.com",
+      "ts": 1777047360.0,
+      "published_iso": "2026-04-24T16:16:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-dan-orlovsky-makes-stance-clear-195429726-html",
       "title": "Dan Orlovsky Makes Stance Clear on Rams’ Decision to Draft Ty Simpson",
