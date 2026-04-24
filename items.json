@@ -1,5 +1,38 @@
 {
-  "updated_iso": "2026-04-24T16:42:18.697312+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-04-24T17:40:58.380177+00:00",
+  "count": 4,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-hc-sean-mcvay-didnt-172016628-html",
+      "title": "Rams HC Sean McVay didn't seem happy with their draft pick Ty Simpson",
+      "link": "https://sports.yahoo.com/articles/rams-hc-sean-mcvay-didnt-172016628.html",
+      "source": "Yahoo Sports",
+      "ts": 1777026960.0,
+      "published_iso": "2026-04-24T10:36:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25421929-new-nfl-rumors-sean-mcvays-reactions-rams-ty-simpson-draft-pick-trending-vide",
+      "title": "New NFL Rumors on Sean McVay's Reactions to Rams' Ty Simpson Draft Pick in Trending Videos",
+      "link": "https://bleacherreport.com/articles/25421929-new-nfl-rumors-sean-mcvays-reactions-rams-ty-simpson-draft-pick-trending-videos",
+      "source": "Bleacher Report",
+      "ts": 1777026960.0,
+      "published_iso": "2026-04-24T10:36:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-saying-ty-025214231-html",
+      "title": "What are Los Angeles Rams saying after Ty Simpson selection in NFL Draft?",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-saying-ty-025214231.html",
+      "source": "Yahoo Sports",
+      "ts": 1777015860.0,
+      "published_iso": "2026-04-24T07:31:00+00:00"
+    },
+    {
+      "id": "https-latimes-com-sports-newsletter-2026-04-24-rams-nfl-draft",
+      "title": "Rams take a quarterback with first-round pick in NFL draft",
+      "link": "https://latimes.com/sports/newsletter/2026-04-24/rams-nfl-draft",
+      "source": "LA Times",
+      "ts": 1777004700.0,
+      "published_iso": "2026-04-24T04:25:00+00:00"
+    }
+  ]
 }
