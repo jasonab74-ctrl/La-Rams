@@ -1,22 +1,30 @@
 {
-  "updated_iso": "2026-04-24T14:11:36.067917+00:00",
-  "count": 3,
+  "updated_iso": "2026-04-24T15:42:22.409456+00:00",
+  "count": 5,
   "items": [
     {
-      "id": "https-bleacherreport-com-articles-25421899-new-nfl-rumors-reveal-why-rams-picked-ty-simpson-amid-cardinals-links-2026-nf",
-      "title": "New NFL Rumors Reveal Why Rams Picked Ty Simpson amid Cardinals Links in 2026 NFL Draft",
-      "link": "https://bleacherreport.com/articles/25421899-new-nfl-rumors-reveal-why-rams-picked-ty-simpson-amid-cardinals-links-2026-nfl-draft",
-      "source": "Bleacher Report",
-      "ts": 1777014120.0,
-      "published_iso": "2026-04-24T07:02:00+00:00"
+      "id": "https-si-com-fannation-college-cfb-hq-news-dan-orlovsky-takes-firm-stand-los-angeles-rams-draft-ty-simpson",
+      "title": "Dan Orlovsky Takes Firm Stand After Rams Draft Ty Simpson",
+      "link": "https://si.com/fannation/college/cfb-hq/news/dan-orlovsky-takes-firm-stand-los-angeles-rams-draft-ty-simpson",
+      "source": "Sports Illustrated",
+      "ts": 1777018740.0,
+      "published_iso": "2026-04-24T08:19:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-sean-mcvay-left-baffled-los-134816454-html",
-      "title": "Sean McVay left baffled after Los Angeles Rams’ absurd 2026 NFL Draft pick",
-      "link": "https://sports.yahoo.com/articles/sean-mcvay-left-baffled-los-134816454.html",
+      "id": "https-si-com-nfl-video-albert-breer-on-ty-simpson-to-rams-ohio-state-s-big-day-irish-rb-duo-01kpzy22neb2beg8yfme",
+      "title": "Albert Breer on Ty Simpson To Rams, Ohio State’s Big Day, Irish RB Duo",
+      "link": "https://si.com/nfl/video/albert-breer-on-ty-simpson-to-rams-ohio-state-s-big-day-irish-rb-duo-01kpzy22neb2beg8yfme",
+      "source": "Sports Illustrated",
+      "ts": 1777018320.0,
+      "published_iso": "2026-04-24T08:12:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-saying-ty-025214231-html",
+      "title": "What are Los Angeles Rams saying after Ty Simpson selection in NFL Draft?",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-saying-ty-025214231.html",
       "source": "Yahoo Sports",
-      "ts": 1777013880.0,
-      "published_iso": "2026-04-24T06:58:00+00:00"
+      "ts": 1777015860.0,
+      "published_iso": "2026-04-24T07:31:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-plenty-opportunities-110000214-html",
@@ -25,6 +33,14 @@
       "source": "Yahoo Sports",
       "ts": 1777006380.0,
       "published_iso": "2026-04-24T04:53:00+00:00"
+    },
+    {
+      "id": "https-latimes-com-sports-newsletter-2026-04-24-rams-nfl-draft",
+      "title": "Rams take a quarterback with first-round pick in NFL draft",
+      "link": "https://latimes.com/sports/newsletter/2026-04-24/rams-nfl-draft",
+      "source": "LA Times",
+      "ts": 1777004700.0,
+      "published_iso": "2026-04-24T04:25:00+00:00"
     }
   ]
 }
