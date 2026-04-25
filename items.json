@@ -1,12 +1,20 @@
 {
-  "updated_iso": "2026-04-25T23:01:17.712091+00:00",
-  "count": 2,
+  "updated_iso": "2026-04-25T23:58:36.201182+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-draft-alabama-dt-tim-221533079-html",
-      "title": "Rams draft Alabama DT Tim Keenan III with 232nd overall pick",
-      "link": "https://sports.yahoo.com/articles/rams-draft-alabama-dt-tim-221533079.html",
+      "id": "https-sports-yahoo-com-articles-grading-los-angeles-rams-day-230559235-html",
+      "title": "Grading Los Angeles Rams Day 3 of 2026 NFL Draft: Rams elect for smallest class in a decade after massive trade up",
+      "link": "https://sports.yahoo.com/articles/grading-los-angeles-rams-day-230559235.html",
       "source": "Yahoo Sports",
+      "ts": 1777135740.0,
+      "published_iso": "2026-04-25T16:49:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-25-rams-draft-class-players-bio-recap-2026-89795496007",
+      "title": "Meet the Rams’ 2026 draft class: All 5 picks made by Los Angeles",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/25/rams-draft-class-players-bio-recap-2026/89795496007/",
+      "source": "Rams Wire",
       "ts": 1777132440.0,
       "published_iso": "2026-04-25T15:54:00+00:00"
     },
