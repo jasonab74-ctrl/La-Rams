@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-04-25T20:24:29.416458+00:00",
-  "count": 2,
+  "updated_iso": "2026-04-25T21:00:11.436494+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-trade-10-spots-draft-204615447-html",
+      "title": "Rams trade up 10 spots, draft Miami WR CJ Daniels in 6th round",
+      "link": "https://sports.yahoo.com/articles/rams-trade-10-spots-draft-204615447.html",
+      "source": "Yahoo Sports",
+      "ts": 1777125480.0,
+      "published_iso": "2026-04-25T13:58:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-2026-nfl-draft-trade-eagles-207-251-252-for-197",
+      "title": "READ: Rams trade picks 207, 251 and 252 to Eagles",
+      "link": "https://therams.com/news/2026-nfl-draft-trade-eagles-207-251-252-for-197",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1777124700.0,
+      "published_iso": "2026-04-25T13:45:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-day-3-110000388-html",
       "title": "Los Angeles Rams Day 3 2026 NFL Mock Draft: Rams ran out of time to add a 2026 difference-maker, so it's all about depth",
@@ -9,14 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1777091640.0,
       "published_iso": "2026-04-25T04:34:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-grading-pick-los-angeles-rams-013219304-html",
-      "title": "Grading the pick: Los Angeles Rams got some long-term Klare-ity at key position by selecting Ohio State tight end Max Klare",
-      "link": "https://sports.yahoo.com/articles/grading-pick-los-angeles-rams-013219304.html",
-      "source": "Yahoo Sports",
-      "ts": 1777057980.0,
-      "published_iso": "2026-04-24T19:13:00+00:00"
     }
   ]
 }
