@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-26T14:34:36.253808+00:00",
-  "count": 4,
+  "updated_iso": "2026-04-26T15:31:35.010651+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-final-2026-020000476-html",
@@ -25,14 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1777135740.0,
       "published_iso": "2026-04-25T16:49:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-25-rams-draft-class-players-bio-recap-2026-89795496007",
-      "title": "Meet the Rams’ 2026 draft class: All 5 picks made by Los Angeles",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/25/rams-draft-class-players-bio-recap-2026/89795496007/",
-      "source": "Rams Wire",
-      "ts": 1777132440.0,
-      "published_iso": "2026-04-25T15:54:00+00:00"
     }
   ]
 }
