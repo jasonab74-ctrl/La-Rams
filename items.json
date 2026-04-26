@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-04-25T23:58:36.201182+00:00",
-  "count": 3,
+  "updated_iso": "2026-04-26T02:27:59.684495+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-final-2026-003000664-html",
+      "title": "Los Angeles Rams Final 2026 NFL Draft Grades: Rams punt on the present to build for a future that may never happen",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-final-2026-003000664.html",
+      "source": "Yahoo Sports",
+      "ts": 1777140840.0,
+      "published_iso": "2026-04-25T18:14:00+00:00"
+    },
+    {
+      "id": "https-apnews-com-article-rams-nfl-draft-ty-simpson-25b900b490c5a859e4fcbc0c5c70e9d1",
+      "title": "Rams know they’re ready to contend, so they make just 5 draft picks with eyes on long-term future",
+      "link": "https://apnews.com/article/rams-nfl-draft-ty-simpson-25b900b490c5a859e4fcbc0c5c70e9d1",
+      "source": "AP News",
+      "ts": 1777138320.0,
+      "published_iso": "2026-04-25T17:32:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-grading-los-angeles-rams-day-230559235-html",
       "title": "Grading Los Angeles Rams Day 3 of 2026 NFL Draft: Rams elect for smallest class in a decade after massive trade up",
@@ -17,14 +33,6 @@
       "source": "Rams Wire",
       "ts": 1777132440.0,
       "published_iso": "2026-04-25T15:54:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-day-3-110000388-html",
-      "title": "Los Angeles Rams Day 3 2026 NFL Mock Draft: Rams ran out of time to add a 2026 difference-maker, so it's all about depth",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-day-3-110000388.html",
-      "source": "Yahoo Sports",
-      "ts": 1777091640.0,
-      "published_iso": "2026-04-25T04:34:00+00:00"
     }
   ]
 }
