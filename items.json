@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-26T05:23:25.472876+00:00",
-  "count": 3,
+  "updated_iso": "2026-04-26T07:07:45.587319+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-final-2026-020000476-html",
@@ -9,6 +9,14 @@
       "source": "Yahoo Sports",
       "ts": 1777146600.0,
       "published_iso": "2026-04-25T19:50:00+00:00"
+    },
+    {
+      "id": "https-apnews-com-article-rams-nfl-draft-ty-simpson-25b900b490c5a859e4fcbc0c5c70e9d1",
+      "title": "Rams know they’re ready to contend, so they make just 5 draft picks with eyes on long-term future",
+      "link": "https://apnews.com/article/rams-nfl-draft-ty-simpson-25b900b490c5a859e4fcbc0c5c70e9d1",
+      "source": "AP News",
+      "ts": 1777138320.0,
+      "published_iso": "2026-04-25T17:32:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-grading-los-angeles-rams-day-230559235-html",
