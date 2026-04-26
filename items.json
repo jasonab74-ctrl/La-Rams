@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-04-26T21:25:42.586233+00:00",
-  "count": 4,
+  "updated_iso": "2026-04-26T21:58:17.195238+00:00",
+  "count": 1,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-open-adding-204110368-html",
-      "title": "Los Angeles Rams Open To Adding Another QB After Drafting Ty Simpson 13th",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-open-adding-204110368.html",
-      "source": "Yahoo Sports",
-      "ts": 1777212180.0,
-      "published_iso": "2026-04-26T14:03:00+00:00"
-    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-23-la-rams-2026-nfl-draft-tracker-picks-trades-analysis-897",
       "title": "Rams 2026 NFL Draft recap: Pick-by-pick analysis",
@@ -17,22 +9,6 @@
       "source": "Rams Wire",
       "ts": 1777196400.0,
       "published_iso": "2026-04-26T09:40:00+00:00"
-    },
-    {
-      "id": "https-apnews-com-article-rams-nfl-draft-ty-simpson-25b900b490c5a859e4fcbc0c5c70e9d1",
-      "title": "Rams know they’re ready to contend, so they make just 5 draft picks with eyes on long-term future",
-      "link": "https://apnews.com/article/rams-nfl-draft-ty-simpson-25b900b490c5a859e4fcbc0c5c70e9d1",
-      "source": "AP News",
-      "ts": 1777138320.0,
-      "published_iso": "2026-04-25T17:32:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-grading-los-angeles-rams-day-230559235-html",
-      "title": "Grading Los Angeles Rams Day 3 of 2026 NFL Draft: Rams elect for smallest class in a decade after massive trade up",
-      "link": "https://sports.yahoo.com/articles/grading-los-angeles-rams-day-230559235.html",
-      "source": "Yahoo Sports",
-      "ts": 1777135740.0,
-      "published_iso": "2026-04-25T16:49:00+00:00"
     }
   ]
 }
