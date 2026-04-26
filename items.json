@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-04-26T12:03:22.782460+00:00",
+  "updated_iso": "2026-04-26T13:43:50.489975+00:00",
   "count": 4,
   "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-26-nfl-draft-grades-2026-team-rams-rankings-89808399007",
+      "title": "2026 NFL Draft grades: Most experts not high on Rams' class",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/26/nfl-draft-grades-2026-team-rams-rankings/89808399007/",
+      "source": "Rams Wire",
+      "ts": 1777185540.0,
+      "published_iso": "2026-04-26T06:39:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-final-2026-020000476-html",
       "title": "Los Angeles Rams Final 2026 NFL Draft class: Rams have their smallest draft class in a decade despite Super Bowl window",
@@ -25,14 +33,6 @@
       "source": "Yahoo Sports",
       "ts": 1777135740.0,
       "published_iso": "2026-04-25T16:49:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-25-rams-draft-class-players-bio-recap-2026-89795496007",
-      "title": "Meet the Rams’ 2026 draft class: All 5 picks made by Los Angeles",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/25/rams-draft-class-players-bio-recap-2026/89795496007/",
-      "source": "Rams Wire",
-      "ts": 1777132440.0,
-      "published_iso": "2026-04-25T15:54:00+00:00"
     }
   ]
 }
