@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-04-27T16:23:19.178685+00:00",
-  "count": 2,
+  "updated_iso": "2026-04-27T17:45:53.502095+00:00",
+  "count": 3,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-rams-legend-says-ty-simpson-160000507-html",
-      "title": "Rams Legend Says Ty Simpson Has Better Film Than Fernando Mendoza",
-      "link": "https://sports.yahoo.com/articles/rams-legend-says-ty-simpson-160000507.html",
-      "source": "Yahoo Sports",
-      "ts": 1777281240.0,
-      "published_iso": "2026-04-27T09:14:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-way-too-130000054-html",
       "title": "Los Angeles Rams way-too-early 53-man roster prediction: Not much has changed, even after the 2026 NFL Draft",
@@ -17,6 +9,22 @@
       "source": "Yahoo Sports",
       "ts": 1777270620.0,
       "published_iso": "2026-04-27T06:17:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-grading-los-angeles-rams-day-230559235-html",
+      "title": "Grading Los Angeles Rams Day 3 of 2026 NFL Draft: Rams elect for smallest class in a decade after massive trade up",
+      "link": "https://sports.yahoo.com/articles/grading-los-angeles-rams-day-230559235.html",
+      "source": "Yahoo Sports",
+      "ts": 1777135740.0,
+      "published_iso": "2026-04-25T16:49:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-23-la-rams-2026-nfl-draft-tracker-picks-trades-analysis-897",
+      "title": "Rams 2026 NFL Draft recap: Pick-by-pick analysis",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/23/la-rams-2026-nfl-draft-tracker-picks-trades-analysis/89754576007/",
+      "source": "Rams Wire",
+      "ts": 1776954720.0,
+      "published_iso": "2026-04-23T14:32:00+00:00"
     }
   ]
 }
