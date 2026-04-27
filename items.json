@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-04-27T22:37:18.062136+00:00",
-  "count": 2,
+  "updated_iso": "2026-04-27T23:39:56.061304+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-schefter-rams-called-stetson-bennett-222145486-html",
-      "title": "Schefter: Rams also called Stetson Bennett after Ty Simpson pick",
-      "link": "https://sports.yahoo.com/articles/schefter-rams-called-stetson-bennett-222145486.html",
-      "source": "Yahoo Sports",
-      "ts": 1777303920.0,
-      "published_iso": "2026-04-27T15:32:00+00:00"
+      "id": "https-bleacherreport-com-articles-25423165-new-ty-simpson-rumors-rams-plans-trade-back-during-2026-nfl-draft",
+      "title": "New Ty Simpson Rumors on Rams' Plans to Trade Back During 2026 NFL Draft",
+      "link": "https://bleacherreport.com/articles/25423165-new-ty-simpson-rumors-rams-plans-trade-back-during-2026-nfl-draft",
+      "source": "Bleacher Report",
+      "ts": 1777306980.0,
+      "published_iso": "2026-04-27T16:23:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-6-winners-losers-los-angeles-110000065-html",
@@ -17,6 +17,14 @@
       "source": "Yahoo Sports",
       "ts": 1777265520.0,
       "published_iso": "2026-04-27T04:52:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-grading-los-angeles-rams-day-230559235-html",
+      "title": "Grading Los Angeles Rams Day 3 of 2026 NFL Draft: Rams elect for smallest class in a decade after massive trade up",
+      "link": "https://sports.yahoo.com/articles/grading-los-angeles-rams-day-230559235.html",
+      "source": "Yahoo Sports",
+      "ts": 1777135740.0,
+      "published_iso": "2026-04-25T16:49:00+00:00"
     }
   ]
 }
