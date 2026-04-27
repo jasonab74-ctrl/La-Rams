@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-04-27T21:42:37.551332+00:00",
+  "updated_iso": "2026-04-27T22:37:18.062136+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-schefter-rams-called-stetson-bennett-222145486-html",
+      "title": "Schefter: Rams also called Stetson Bennett after Ty Simpson pick",
+      "link": "https://sports.yahoo.com/articles/schefter-rams-called-stetson-bennett-222145486.html",
+      "source": "Yahoo Sports",
+      "ts": 1777303920.0,
+      "published_iso": "2026-04-27T15:32:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-6-winners-losers-los-angeles-110000065-html",
       "title": "6 Winners & Losers from the Los Angeles Rams' 2026 NFL Draft include multiple starters who avoided competition",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1777265520.0,
       "published_iso": "2026-04-27T04:52:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-grading-los-angeles-rams-day-230559235-html",
-      "title": "Grading Los Angeles Rams Day 3 of 2026 NFL Draft: Rams elect for smallest class in a decade after massive trade up",
-      "link": "https://sports.yahoo.com/articles/grading-los-angeles-rams-day-230559235.html",
-      "source": "Yahoo Sports",
-      "ts": 1777135740.0,
-      "published_iso": "2026-04-25T16:49:00+00:00"
     }
   ]
 }
