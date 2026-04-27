@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-27T00:01:08.073141+00:00",
-  "count": 4,
+  "updated_iso": "2026-04-27T04:03:15.094247+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-open-adding-204110368-html",
@@ -9,22 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1777212180.0,
       "published_iso": "2026-04-26T14:03:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-23-la-rams-2026-nfl-draft-tracker-picks-trades-analysis-897",
-      "title": "Rams 2026 NFL Draft recap: Pick-by-pick analysis",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/23/la-rams-2026-nfl-draft-tracker-picks-trades-analysis/89754576007/",
-      "source": "Rams Wire",
-      "ts": 1777196400.0,
-      "published_iso": "2026-04-26T09:40:00+00:00"
-    },
-    {
-      "id": "https-apnews-com-article-rams-nfl-draft-ty-simpson-25b900b490c5a859e4fcbc0c5c70e9d1",
-      "title": "Rams know they’re ready to contend, so they make just 5 draft picks with eyes on long-term future",
-      "link": "https://apnews.com/article/rams-nfl-draft-ty-simpson-25b900b490c5a859e4fcbc0c5c70e9d1",
-      "source": "AP News",
-      "ts": 1777138320.0,
-      "published_iso": "2026-04-25T17:32:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-grading-los-angeles-rams-day-230559235-html",
