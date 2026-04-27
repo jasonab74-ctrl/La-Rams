@@ -1,30 +1,22 @@
 {
-  "updated_iso": "2026-04-27T20:36:16.390143+00:00",
-  "count": 3,
+  "updated_iso": "2026-04-27T21:42:37.551332+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-3-ways-rams-draft-picks-201123945-html",
-      "title": "3 ways the Rams' draft picks impact potential extensions",
-      "link": "https://sports.yahoo.com/articles/3-ways-rams-draft-picks-201123945.html",
+      "id": "https-sports-yahoo-com-articles-6-winners-losers-los-angeles-110000065-html",
+      "title": "6 Winners & Losers from the Los Angeles Rams' 2026 NFL Draft include multiple starters who avoided competition",
+      "link": "https://sports.yahoo.com/articles/6-winners-losers-los-angeles-110000065.html",
       "source": "Yahoo Sports",
-      "ts": 1777296480.0,
-      "published_iso": "2026-04-27T13:28:00+00:00"
+      "ts": 1777265520.0,
+      "published_iso": "2026-04-27T04:52:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-way-too-130000054-html",
-      "title": "Los Angeles Rams way-too-early 53-man roster prediction: Not much has changed, even after the 2026 NFL Draft",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-way-too-130000054.html",
+      "id": "https-sports-yahoo-com-articles-grading-los-angeles-rams-day-230559235-html",
+      "title": "Grading Los Angeles Rams Day 3 of 2026 NFL Draft: Rams elect for smallest class in a decade after massive trade up",
+      "link": "https://sports.yahoo.com/articles/grading-los-angeles-rams-day-230559235.html",
       "source": "Yahoo Sports",
-      "ts": 1777270620.0,
-      "published_iso": "2026-04-27T06:17:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-23-la-rams-2026-nfl-draft-tracker-picks-trades-analysis-897",
-      "title": "Rams 2026 NFL Draft recap: Pick-by-pick analysis",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/23/la-rams-2026-nfl-draft-tracker-picks-trades-analysis/89754576007/",
-      "source": "Rams Wire",
-      "ts": 1776954720.0,
-      "published_iso": "2026-04-23T14:32:00+00:00"
+      "ts": 1777135740.0,
+      "published_iso": "2026-04-25T16:49:00+00:00"
     }
   ]
 }
