@@ -1,30 +1,22 @@
 {
-  "updated_iso": "2026-04-27T23:39:56.061304+00:00",
-  "count": 3,
+  "updated_iso": "2026-04-28T01:28:12.982171+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-bleacherreport-com-articles-25423165-new-ty-simpson-rumors-rams-plans-trade-back-during-2026-nfl-draft",
-      "title": "New Ty Simpson Rumors on Rams' Plans to Trade Back During 2026 NFL Draft",
-      "link": "https://bleacherreport.com/articles/25423165-new-ty-simpson-rumors-rams-plans-trade-back-during-2026-nfl-draft",
-      "source": "Bleacher Report",
-      "ts": 1777306980.0,
-      "published_iso": "2026-04-27T16:23:00+00:00"
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-hc-sean-213434330-html",
+      "title": "Los Angeles Rams HC Sean McVay explains away draft day controversy",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-hc-sean-213434330.html",
+      "source": "Yahoo Sports",
+      "ts": 1777312200.0,
+      "published_iso": "2026-04-27T17:50:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-6-winners-losers-los-angeles-110000065-html",
-      "title": "6 Winners & Losers from the Los Angeles Rams' 2026 NFL Draft include multiple starters who avoided competition",
-      "link": "https://sports.yahoo.com/articles/6-winners-losers-los-angeles-110000065.html",
+      "id": "https-sports-yahoo-com-articles-former-alabama-qb-ty-simpson-213824945-html",
+      "title": "Former Alabama QB Ty Simpson drafted at 13th overall; was this a stretch by Los Angeles? | Southeast Sports+",
+      "link": "https://sports.yahoo.com/articles/former-alabama-qb-ty-simpson-213824945.html",
       "source": "Yahoo Sports",
-      "ts": 1777265520.0,
-      "published_iso": "2026-04-27T04:52:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-grading-los-angeles-rams-day-230559235-html",
-      "title": "Grading Los Angeles Rams Day 3 of 2026 NFL Draft: Rams elect for smallest class in a decade after massive trade up",
-      "link": "https://sports.yahoo.com/articles/grading-los-angeles-rams-day-230559235.html",
-      "source": "Yahoo Sports",
-      "ts": 1777135740.0,
-      "published_iso": "2026-04-25T16:49:00+00:00"
+      "ts": 1777305780.0,
+      "published_iso": "2026-04-27T16:03:00+00:00"
     }
   ]
 }
