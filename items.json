@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-04-28T09:37:45.278587+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-04-28T11:29:06.458429+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-hc-sean-213434330-html",
+      "title": "Los Angeles Rams HC Sean McVay explains away the controversy",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-hc-sean-213434330.html",
+      "source": "Yahoo Sports",
+      "ts": 1777312200.0,
+      "published_iso": "2026-04-27T17:50:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-grading-los-angeles-rams-day-230559235-html",
+      "title": "Grading Los Angeles Rams Day 3 of 2026 NFL Draft: Rams elect for smallest class in a decade after massive trade up",
+      "link": "https://sports.yahoo.com/articles/grading-los-angeles-rams-day-230559235.html",
+      "source": "Yahoo Sports",
+      "ts": 1777135740.0,
+      "published_iso": "2026-04-25T16:49:00+00:00"
+    }
+  ]
 }
