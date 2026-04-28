@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2026-04-28T22:43:08.838190+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-04-28T23:42:07.951285+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-head-coach-sean-mcvay-191038305-html",
+      "title": "Rams head coach Sean McVay’s interest in ‘football junkie’ Ty Simpson revealed",
+      "link": "https://sports.yahoo.com/articles/rams-head-coach-sean-mcvay-191038305.html",
+      "source": "Yahoo Sports",
+      "ts": 1777393320.0,
+      "published_iso": "2026-04-28T16:22:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-hc-sean-213434330-html",
+      "title": "Los Angeles Rams HC Sean McVay explains away the controversy",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-hc-sean-213434330.html",
+      "source": "Yahoo Sports",
+      "ts": 1777312200.0,
+      "published_iso": "2026-04-27T17:50:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-los-angeles-rams",
+      "title": "Los Angeles Rams",
+      "link": "https://bleacherreport.com/los-angeles-rams",
+      "source": "Bleacher Report",
+      "ts": 1747293300.0,
+      "published_iso": "2025-05-15T07:15:00+00:00"
+    }
+  ]
 }
