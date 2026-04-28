@@ -1,22 +1,30 @@
 {
-  "updated_iso": "2026-04-28T17:26:21.571725+00:00",
-  "count": 2,
+  "updated_iso": "2026-04-28T18:59:02.479182+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-hc-sean-213434330-html",
-      "title": "Los Angeles Rams HC Sean McVay explains away the controversy",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-hc-sean-213434330.html",
+      "id": "https-sports-yahoo-com-articles-rams-gm-says-drafting-simpson-184636065-html",
+      "title": "Rams GM says drafting Simpson frees up future assets for all-in season",
+      "link": "https://sports.yahoo.com/articles/rams-gm-says-drafting-simpson-184636065.html",
       "source": "Yahoo Sports",
-      "ts": 1777312200.0,
-      "published_iso": "2026-04-27T17:50:00+00:00"
+      "ts": 1777377180.0,
+      "published_iso": "2026-04-28T11:53:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-grading-los-angeles-rams-day-230559235-html",
-      "title": "Grading Los Angeles Rams Day 3 of 2026 NFL Draft: Rams elect for smallest class in a decade after massive trade up",
-      "link": "https://sports.yahoo.com/articles/grading-los-angeles-rams-day-230559235.html",
+      "id": "https-sports-yahoo-com-articles-la-rams-sean-mcvay-reacted-183000879-html",
+      "title": "How LA Rams’ Sean McVay reacted to 49ers GM John Lynch’s ‘smirking’ reaction to Ty Simpson pick",
+      "link": "https://sports.yahoo.com/articles/la-rams-sean-mcvay-reacted-183000879.html",
       "source": "Yahoo Sports",
-      "ts": 1777135740.0,
-      "published_iso": "2026-04-25T16:49:00+00:00"
+      "ts": 1777376880.0,
+      "published_iso": "2026-04-28T11:48:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-watch-fmc-qkk2cy02hioqqxjt",
+      "title": "Nick Wright on Chiefs’ draft, Rams draft Ty Simpson, Steelers & Rodgers | FULL INTERVIEW | The Herd",
+      "link": "https://foxsports.com/watch/fmc-qkk2cy02hioqqxjt",
+      "source": "FOX Sports",
+      "ts": 1777375920.0,
+      "published_iso": "2026-04-28T11:32:00+00:00"
     }
   ]
 }
