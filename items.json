@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-04-29T15:12:47.936640+00:00",
-  "count": 1,
+  "updated_iso": "2026-04-29T16:56:51.093053+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-felt-really-bad-ty-rams-132907302-html",
-      "title": "“Felt Really Bad for Ty”: Rams GM Admits Ty Simpson Had to Lie About ‘Secret’ Meetings With Sean McVay",
-      "link": "https://sports.yahoo.com/articles/felt-really-bad-ty-rams-132907302.html",
+      "id": "https-sports-yahoo-com-articles-kalen-deboer-la-rams-top-151227084-html",
+      "title": "Kalen DeBoer: LA Rams ‘the top scenario’ for Ty Simpson after NFL Draft",
+      "link": "https://sports.yahoo.com/articles/kalen-deboer-la-rams-top-151227084.html",
       "source": "Yahoo Sports",
-      "ts": 1777448700.0,
-      "published_iso": "2026-04-29T07:45:00+00:00"
+      "ts": 1777455240.0,
+      "published_iso": "2026-04-29T09:34:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-watch-cj-daniels-emotional-call-162939612-html",
+      "title": "Watch: CJ Daniels' emotional call with Rams was one of NFL draft's best moments",
+      "link": "https://sports.yahoo.com/articles/watch-cj-daniels-emotional-call-162939612.html",
+      "source": "Yahoo Sports",
+      "ts": 1777455240.0,
+      "published_iso": "2026-04-29T09:34:00+00:00"
     }
   ]
 }
