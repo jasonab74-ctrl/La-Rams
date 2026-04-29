@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-04-29T07:36:35.053327+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-04-29T09:54:12.290301+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-stars-jared-200914640-html",
+      "title": "Los Angeles Rams Stars Jared Verse And Byron Young On Key To Getting Over Super Bowl Hump, Talk Acting After Friday Movie Tribute",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-stars-jared-200914640.html",
+      "source": "Yahoo Sports",
+      "ts": 1777382400.0,
+      "published_iso": "2026-04-28T13:20:00+00:00"
+    }
+  ]
 }
