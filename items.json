@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-04-29T22:42:36.398415+00:00",
-  "count": 1,
+  "updated_iso": "2026-04-29T23:40:56.398626+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-may-drafted-201904881-html",
-      "title": "Los Angeles Rams May Have Drafted Ty Simpson Early To Keep Him Away From Rivals",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-may-drafted-201904881.html",
+      "id": "https-sports-yahoo-com-articles-rams-bold-predictions-2026-nfl-181651032-html",
+      "title": "Rams bold predictions for 2026 NFL Draft class during rookie season",
+      "link": "https://sports.yahoo.com/articles/rams-bold-predictions-2026-nfl-181651032.html",
       "source": "Yahoo Sports",
-      "ts": 1777469940.0,
-      "published_iso": "2026-04-29T13:39:00+00:00"
+      "ts": 1777480080.0,
+      "published_iso": "2026-04-29T16:28:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-former-sycamore-keagen-trost-drafted-231700548-html",
+      "title": "Former Sycamore Keagen Trost drafted by Rams",
+      "link": "https://sports.yahoo.com/articles/former-sycamore-keagen-trost-drafted-231700548.html",
+      "source": "Yahoo Sports",
+      "ts": 1777479960.0,
+      "published_iso": "2026-04-29T16:26:00+00:00"
     }
   ]
 }
