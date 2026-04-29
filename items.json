@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-04-29T20:55:24.092031+00:00",
+  "updated_iso": "2026-04-29T21:48:37.207038+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-reveal-stance-j-brown-213516528-html",
+      "title": "Rams reveal stance on A.J. Brown trade after NFL Draft",
+      "link": "https://sports.yahoo.com/articles/rams-reveal-stance-j-brown-213516528.html",
+      "source": "Yahoo Sports",
+      "ts": 1777473720.0,
+      "published_iso": "2026-04-29T14:42:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-may-drafted-201904881-html",
       "title": "Los Angeles Rams May Have Drafted Ty Simpson Early To Keep Him Away From Rivals",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1777469940.0,
       "published_iso": "2026-04-29T13:39:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-why-los-angeles-rams-top-162929478-html",
-      "title": "Why Los Angeles Rams is 'top scenario' for Ty Simpson to Kalen DeBoer",
-      "link": "https://sports.yahoo.com/articles/why-los-angeles-rams-top-162929478.html",
-      "source": "Yahoo Sports",
-      "ts": 1777466700.0,
-      "published_iso": "2026-04-29T12:45:00+00:00"
     }
   ]
 }
