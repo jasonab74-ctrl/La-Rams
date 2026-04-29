@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-04-28T23:42:07.951285+00:00",
-  "count": 3,
+  "updated_iso": "2026-04-29T01:44:21.275656+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-head-coach-sean-mcvay-191038305-html",
-      "title": "Rams head coach Sean McVay’s interest in ‘football junkie’ Ty Simpson revealed",
-      "link": "https://sports.yahoo.com/articles/rams-head-coach-sean-mcvay-191038305.html",
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-stars-jared-200914640-html",
+      "title": "Los Angeles Rams Stars Jared Verse And Byron Young On Key To Getting Over Super Bowl Hump, Talk Acting After Friday Movie Tribute",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-stars-jared-200914640.html",
       "source": "Yahoo Sports",
-      "ts": 1777393320.0,
-      "published_iso": "2026-04-28T16:22:00+00:00"
+      "ts": 1777382400.0,
+      "published_iso": "2026-04-28T13:20:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-hc-sean-213434330-html",
@@ -17,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1777312200.0,
       "published_iso": "2026-04-27T17:50:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-los-angeles-rams",
-      "title": "Los Angeles Rams",
-      "link": "https://bleacherreport.com/los-angeles-rams",
-      "source": "Bleacher Report",
-      "ts": 1747293300.0,
-      "published_iso": "2025-05-15T07:15:00+00:00"
     }
   ]
 }
