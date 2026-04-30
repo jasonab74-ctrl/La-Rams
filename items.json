@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-04-30T20:36:48.974330+00:00",
-  "count": 1,
+  "updated_iso": "2026-04-30T21:43:24.379558+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-may-drafted-201904881-html",
-      "title": "Los Angeles Rams May Have Drafted Ty Simpson Early To Keep Him Away From Rivals",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-may-drafted-201904881.html",
+      "id": "https-sports-yahoo-com-articles-49ers-cut-former-rams-6th-211804286-html",
+      "title": "49ers cut former Rams 6th-round cornerback after 1 season",
+      "link": "https://sports.yahoo.com/articles/49ers-cut-former-rams-6th-211804286.html",
       "source": "Yahoo Sports",
-      "ts": 1777469940.0,
-      "published_iso": "2026-04-29T13:39:00+00:00"
+      "ts": 1777559520.0,
+      "published_iso": "2026-04-30T14:32:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-27-kyren-williams-it-was-huge-for-rams-to-bring-back-entire",
+      "title": "Kyren Williams says it 'was huge' for Rams to bring back entire RB room",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/27/kyren-williams-it-was-huge-for-rams-to-bring-back-entire-rb-room/89746490007/",
+      "source": "Rams Wire",
+      "ts": 1777267740.0,
+      "published_iso": "2026-04-27T05:29:00+00:00"
     }
   ]
 }
