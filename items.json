@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2026-05-01T17:32:09.356858+00:00",
-  "count": 1,
+  "updated_iso": "2026-05-01T18:52:31.277185+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-5-biggest-remaining-needs-160016125-html",
-      "title": "Rams' 5 biggest remaining needs after 2026 draft",
-      "link": "https://sports.yahoo.com/articles/rams-5-biggest-remaining-needs-160016125.html",
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-day-3-110000388-html",
+      "title": "Los Angeles Rams Day 3 2026 NFL Mock Draft: Rams ran out of time to add a 2026 difference-maker, so it's all about depth",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-day-3-110000388.html",
       "source": "Yahoo Sports",
-      "ts": 1777626720.0,
-      "published_iso": "2026-05-01T09:12:00+00:00"
+      "ts": 1777091640.0,
+      "published_iso": "2026-04-25T04:34:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-nfl-draft-123952894-html",
+      "title": "Los Angeles Rams NFL draft picks: Number, rounds, overall position",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-nfl-draft-123952894.html",
+      "source": "Yahoo Sports",
+      "ts": 1776923820.0,
+      "published_iso": "2026-04-23T05:57:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-mock-draft-grabbing-as-many-game-changers-as-possible",
+      "title": "Rams Mock Draft: Grabbing As Many Game-Changers As Possible",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-mock-draft-grabbing-as-many-game-changers-as-possible",
+      "source": "Sports Illustrated",
+      "ts": 1774198800.0,
+      "published_iso": "2026-03-22T17:00:00+00:00"
     }
   ]
 }
