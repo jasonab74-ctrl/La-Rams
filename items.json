@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-02T08:15:05.364986+00:00",
-  "count": 2,
+  "updated_iso": "2026-05-02T09:36:28.270457+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-therams-com-video-every-call-that-built-the-rams-2026-draft-class",
@@ -17,6 +17,14 @@
       "source": "Yahoo Sports",
       "ts": 1777312200.0,
       "published_iso": "2026-04-27T17:50:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-day-3-110000388-html",
+      "title": "Los Angeles Rams Day 3 2026 NFL Mock Draft: Rams ran out of time to add a 2026 difference-maker, so it's all about depth",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-day-3-110000388.html",
+      "source": "Yahoo Sports",
+      "ts": 1777091640.0,
+      "published_iso": "2026-04-25T04:34:00+00:00"
     }
   ]
 }
