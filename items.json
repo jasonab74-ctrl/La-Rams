@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-02T06:53:45.287090+00:00",
-  "count": 3,
+  "updated_iso": "2026-05-02T08:15:05.364986+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-therams-com-video-every-call-that-built-the-rams-2026-draft-class",
@@ -11,20 +11,12 @@
       "published_iso": "2026-05-01T15:02:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-day-3-110000388-html",
-      "title": "Los Angeles Rams Day 3 2026 NFL Mock Draft: Rams ran out of time to add a 2026 difference-maker, so it's all about depth",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-day-3-110000388.html",
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-hc-sean-213434330-html",
+      "title": "Los Angeles Rams HC Sean McVay explains away the controversy",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-hc-sean-213434330.html",
       "source": "Yahoo Sports",
-      "ts": 1777091640.0,
-      "published_iso": "2026-04-25T04:34:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-reimagine-new-line-cinema-friday-draft-campaign-film",
-      "title": "Los Angeles Rams reimagine New Line Cinema's fan favorite Friday in star-studded draft campaign film",
-      "link": "https://therams.com/news/rams-reimagine-new-line-cinema-friday-draft-campaign-film",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1776417180.0,
-      "published_iso": "2026-04-17T09:13:00+00:00"
+      "ts": 1777312200.0,
+      "published_iso": "2026-04-27T17:50:00+00:00"
     }
   ]
 }
