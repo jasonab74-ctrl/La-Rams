@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-05-03T20:29:09.554379+00:00",
-  "count": 5,
+  "updated_iso": "2026-05-03T21:09:06.854066+00:00",
+  "count": 6,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-decline-fifth-option-defender-194142740-html",
-      "title": "Rams Decline Fifth Year Option For Defender",
-      "link": "https://sports.yahoo.com/articles/rams-decline-fifth-option-defender-194142740.html",
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-05-02-rams-insider-expects-50-50-split-for-kyren-williams-blak",
+      "title": "Rams insider expects 50-50 split for Kyren Williams, Blake Corum",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/05/02/rams-insider-expects-50-50-split-for-kyren-williams-blake-corum/89911332007/",
+      "source": "Rams Wire",
+      "ts": 1777730760.0,
+      "published_iso": "2026-05-02T14:06:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-hc-sean-213434330-html",
+      "title": "Los Angeles Rams HC Sean McVay explains away the controversy",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-hc-sean-213434330.html",
       "source": "Yahoo Sports",
-      "ts": 1777812780.0,
-      "published_iso": "2026-05-03T12:53:00+00:00"
+      "ts": 1777312200.0,
+      "published_iso": "2026-04-27T17:50:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-day-3-110000388-html",
