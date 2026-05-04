@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-05-04T21:34:04.807460+00:00",
+  "updated_iso": "2026-05-04T22:43:54.859754+00:00",
   "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-alabama-football-sends-standard-west-200042212-html",
-      "title": "Alabama Football Sends Its Standard West: Ty Simpson and Tim Keenan Keep Their Numbers with the Rams",
-      "link": "https://sports.yahoo.com/articles/alabama-football-sends-standard-west-200042212.html",
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-05-04-rams-have-one-of-the-hardest-schedules-for-2026-89936403",
+      "title": "Rams have one of the hardest schedules for 2026",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/05/04/rams-have-one-of-the-hardest-schedules-for-2026/89936403007/",
+      "source": "Rams Wire",
+      "ts": 1777908780.0,
+      "published_iso": "2026-05-04T15:33:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-hc-sean-213434330-html",
+      "title": "Los Angeles Rams HC Sean McVay explains away the controversy",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-hc-sean-213434330.html",
       "source": "Yahoo Sports",
-      "ts": 1777901580.0,
-      "published_iso": "2026-05-04T13:33:00+00:00"
+      "ts": 1777312200.0,
+      "published_iso": "2026-04-27T17:50:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-day-3-110000388-html",
@@ -25,14 +33,6 @@
       "source": "Sports Illustrated",
       "ts": 1774198800.0,
       "published_iso": "2026-03-22T17:00:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-3-second-year-who-need-a-big-offseason",
-      "title": "3 Second-Year Rams Who Need a Big Offseason",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-3-second-year-who-need-a-big-offseason",
-      "source": "Sports Illustrated",
-      "ts": 1773939540.0,
-      "published_iso": "2026-03-19T16:59:00+00:00"
     }
   ]
 }
