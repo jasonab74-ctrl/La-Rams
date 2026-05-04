@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-04T00:07:09.299435+00:00",
-  "count": 4,
+  "updated_iso": "2026-05-04T04:13:37.463803+00:00",
+  "count": 5,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-final-2026-003000664-html",
@@ -25,6 +25,14 @@
       "source": "Sports Illustrated",
       "ts": 1776531600.0,
       "published_iso": "2026-04-18T17:00:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-reimagine-new-line-cinema-friday-draft-campaign-film",
+      "title": "Los Angeles Rams reimagine New Line Cinema's fan favorite Friday in star-studded draft campaign film",
+      "link": "https://therams.com/news/rams-reimagine-new-line-cinema-friday-draft-campaign-film",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1776417180.0,
+      "published_iso": "2026-04-17T09:13:00+00:00"
     },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-mock-draft-grabbing-as-many-game-changers-as-possible",
