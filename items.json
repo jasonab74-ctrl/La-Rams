@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-04T04:13:37.463803+00:00",
-  "count": 5,
+  "updated_iso": "2026-05-04T07:29:15.788517+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-final-2026-003000664-html",
@@ -19,28 +19,20 @@
       "published_iso": "2026-04-25T04:34:00+00:00"
     },
     {
-      "id": "https-si-com-nfl-rams-onsi-rams-players-who-could-lose-jobs-2026-nfl-draft",
-      "title": "5 Current Rams Players Who Could Lose Their Jobs on Draft Night",
-      "link": "https://si.com/nfl/rams/onsi/rams-players-who-could-lose-jobs-2026-nfl-draft",
-      "source": "Sports Illustrated",
-      "ts": 1776531600.0,
-      "published_iso": "2026-04-18T17:00:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-reimagine-new-line-cinema-friday-draft-campaign-film",
-      "title": "Los Angeles Rams reimagine New Line Cinema's fan favorite Friday in star-studded draft campaign film",
-      "link": "https://therams.com/news/rams-reimagine-new-line-cinema-friday-draft-campaign-film",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1776417180.0,
-      "published_iso": "2026-04-17T09:13:00+00:00"
-    },
-    {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-mock-draft-grabbing-as-many-game-changers-as-possible",
       "title": "Rams Mock Draft: Grabbing As Many Game-Changers As Possible",
       "link": "https://si.com/nfl/rams/onsi/los-angeles-mock-draft-grabbing-as-many-game-changers-as-possible",
       "source": "Sports Illustrated",
       "ts": 1774198800.0,
       "published_iso": "2026-03-22T17:00:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-3-second-year-who-need-a-big-offseason",
+      "title": "3 Second-Year Rams Who Need a Big Offseason",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-3-second-year-who-need-a-big-offseason",
+      "source": "Sports Illustrated",
+      "ts": 1773939540.0,
+      "published_iso": "2026-03-19T16:59:00+00:00"
     }
   ]
 }
