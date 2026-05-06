@@ -1,5 +1,38 @@
 {
-  "updated_iso": "2026-05-06T19:07:20.359690+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-05-06T20:50:27.563527+00:00",
+  "count": 4,
+  "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-05-04-rams-have-one-of-the-hardest-schedules-for-2026-89936403",
+      "title": "Rams have one of the hardest schedules for 2026",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/05/04/rams-have-one-of-the-hardest-schedules-for-2026/89936403007/",
+      "source": "Rams Wire",
+      "ts": 1777908780.0,
+      "published_iso": "2026-05-04T15:33:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-day-3-110000388-html",
+      "title": "Los Angeles Rams Day 3 2026 NFL Mock Draft: Rams ran out of time to add a 2026 difference-maker, so it's all about depth",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-day-3-110000388.html",
+      "source": "Yahoo Sports",
+      "ts": 1777091640.0,
+      "published_iso": "2026-04-25T04:34:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-mock-draft-grabbing-as-many-game-changers-as-possible",
+      "title": "Rams Mock Draft: Grabbing As Many Game-Changers As Possible",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-mock-draft-grabbing-as-many-game-changers-as-possible",
+      "source": "Sports Illustrated",
+      "ts": 1774198800.0,
+      "published_iso": "2026-03-22T17:00:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-3-second-year-who-need-a-big-offseason",
+      "title": "3 Second-Year Rams Who Need a Big Offseason",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-3-second-year-who-need-a-big-offseason",
+      "source": "Sports Illustrated",
+      "ts": 1773939540.0,
+      "published_iso": "2026-03-19T16:59:00+00:00"
+    }
+  ]
 }
