@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-05-07T04:53:58.955851+00:00",
-  "count": 5,
+  "updated_iso": "2026-05-07T07:35:57.475679+00:00",
+  "count": 4,
   "items": [
-    {
-      "id": "https-bleacherreport-com-articles-25425760-ty-simpson-reportedly-given-3rd-round-grade-rams-division-rival-2026-nfl-draf",
-      "title": "Ty Simpson Reportedly Given 3rd-Round Grade by Rams' Division Rival Before 2026 NFL Draft",
-      "link": "https://bleacherreport.com/articles/25425760-ty-simpson-reportedly-given-3rd-round-grade-rams-division-rival-2026-nfl-draft",
-      "source": "Bleacher Report",
-      "ts": 1778097600.0,
-      "published_iso": "2026-05-06T20:00:00+00:00"
-    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-05-06-rams-jared-verse-2026-season-improve-super-bowl-89960307",
       "title": "Jared Verse names the 'only thing that can stop' the Rams in 2026",
@@ -17,14 +9,6 @@
       "source": "Rams Wire",
       "ts": 1778053740.0,
       "published_iso": "2026-05-06T07:49:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-05-04-rams-have-one-of-the-hardest-schedules-for-2026-89936403",
-      "title": "Rams have one of the hardest schedules for 2026",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/05/04/rams-have-one-of-the-hardest-schedules-for-2026/89936403007/",
-      "source": "Rams Wire",
-      "ts": 1777908780.0,
-      "published_iso": "2026-05-04T15:33:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-day-3-110000388-html",
@@ -35,12 +19,20 @@
       "published_iso": "2026-04-25T04:34:00+00:00"
     },
     {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-four-round-2026-mock-draft-heading-into-playoffs",
-      "title": "Four-Round 2026 Rams Mock Draft Heading Into Playoffs",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-four-round-2026-mock-draft-heading-into-playoffs",
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-mock-draft-grabbing-as-many-game-changers-as-possible",
+      "title": "Rams Mock Draft: Grabbing As Many Game-Changers As Possible",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-mock-draft-grabbing-as-many-game-changers-as-possible",
       "source": "Sports Illustrated",
-      "ts": 1767024000.0,
-      "published_iso": "2025-12-29T16:00:00+00:00"
+      "ts": 1774198800.0,
+      "published_iso": "2026-03-22T17:00:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-3-second-year-who-need-a-big-offseason",
+      "title": "3 Second-Year Rams Who Need a Big Offseason",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-3-second-year-who-need-a-big-offseason",
+      "source": "Sports Illustrated",
+      "ts": 1773939540.0,
+      "published_iso": "2026-03-19T16:59:00+00:00"
     }
   ]
 }
