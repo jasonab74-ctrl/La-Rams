@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-07T21:42:53.174649+00:00",
-  "count": 3,
+  "updated_iso": "2026-05-07T22:48:03.258574+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-fans-better-netflix-212816560-html",
@@ -17,14 +17,6 @@
       "source": "Rams Wire",
       "ts": 1778053740.0,
       "published_iso": "2026-05-06T07:49:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-los-angeles-rams",
-      "title": "Los Angeles Rams",
-      "link": "https://bleacherreport.com/los-angeles-rams",
-      "source": "Bleacher Report",
-      "ts": 1747293300.0,
-      "published_iso": "2025-05-15T07:15:00+00:00"
     }
   ]
 }
