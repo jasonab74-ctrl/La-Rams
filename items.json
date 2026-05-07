@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-05-07T15:07:50.455035+00:00",
-  "count": 4,
+  "updated_iso": "2026-05-07T17:12:03.908960+00:00",
+  "count": 5,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-report-seahawks-had-3rd-round-142507577-html",
-      "title": "Report: Seahawks had 3rd-round grade on Rams QB Ty Simpson",
-      "link": "https://sports.yahoo.com/articles/report-seahawks-had-3rd-round-142507577.html",
-      "source": "Yahoo Sports",
-      "ts": 1778139840.0,
-      "published_iso": "2026-05-07T07:44:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-05-06-rams-jared-verse-2026-season-improve-super-bowl-89960307",
+      "title": "Jared Verse names the 'only thing that can stop' the Rams in 2026",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/05/06/rams-jared-verse-2026-season-improve-super-bowl/89960307007/",
+      "source": "Rams Wire",
+      "ts": 1778053740.0,
+      "published_iso": "2026-05-06T07:49:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-05-04-rams-have-one-of-the-hardest-schedules-for-2026-89936403",
+      "title": "Rams have one of the hardest schedules for 2026",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/05/04/rams-have-one-of-the-hardest-schedules-for-2026/89936403007/",
+      "source": "Rams Wire",
+      "ts": 1777908780.0,
+      "published_iso": "2026-05-04T15:33:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-day-3-110000388-html",
