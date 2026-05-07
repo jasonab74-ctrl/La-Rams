@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-07T07:35:57.475679+00:00",
-  "count": 4,
+  "updated_iso": "2026-05-07T10:11:05.832336+00:00",
+  "count": 5,
   "items": [
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-05-06-rams-jared-verse-2026-season-improve-super-bowl-89960307",
@@ -9,6 +9,14 @@
       "source": "Rams Wire",
       "ts": 1778053740.0,
       "published_iso": "2026-05-06T07:49:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-05-04-rams-have-one-of-the-hardest-schedules-for-2026-89936403",
+      "title": "Rams have one of the hardest schedules for 2026",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/05/04/rams-have-one-of-the-hardest-schedules-for-2026/89936403007/",
+      "source": "Rams Wire",
+      "ts": 1777908780.0,
+      "published_iso": "2026-05-04T15:33:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-day-3-110000388-html",
