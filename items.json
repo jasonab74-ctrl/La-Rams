@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-05-08T01:45:41.056411+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-05-08T04:44:47.698029+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-05-06-rams-jared-verse-2026-season-improve-super-bowl-89960307",
+      "title": "Jared Verse names the 'only thing that can stop' the Rams in 2026",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/05/06/rams-jared-verse-2026-season-improve-super-bowl/89960307007/",
+      "source": "Rams Wire",
+      "ts": 1778053740.0,
+      "published_iso": "2026-05-06T07:49:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-just-got-192959715-html",
+      "title": "The Los Angeles Rams just got the best possible news for the future of the team ahead of the 2026 NFL Draft",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-just-got-192959715.html",
+      "source": "Yahoo Sports",
+      "ts": 1776690060.0,
+      "published_iso": "2026-04-20T13:01:00+00:00"
+    }
+  ]
 }
