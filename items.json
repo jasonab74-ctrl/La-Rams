@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-10T22:33:19.297893+00:00",
-  "count": 3,
+  "updated_iso": "2026-05-10T23:37:56.333630+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-ty-simpson-breaks-silence-sean-173900049-html",
@@ -17,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1778405760.0,
       "published_iso": "2026-05-10T09:36:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-mock-draft-grabbing-as-many-game-changers-as-possible",
-      "title": "Rams Mock Draft: Grabbing As Many Game-Changers As Possible",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-mock-draft-grabbing-as-many-game-changers-as-possible",
-      "source": "Sports Illustrated",
-      "ts": 1774198800.0,
-      "published_iso": "2026-03-22T17:00:00+00:00"
     }
   ]
 }
