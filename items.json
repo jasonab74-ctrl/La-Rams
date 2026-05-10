@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-10T20:34:14.706858+00:00",
-  "count": 3,
+  "updated_iso": "2026-05-10T21:35:54.548988+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-ty-simpson-responds-criticism-over-190000028-html",
@@ -17,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1778405760.0,
       "published_iso": "2026-05-10T09:36:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-mock-draft-grabbing-as-many-game-changers-as-possible",
-      "title": "Rams Mock Draft: Grabbing As Many Game-Changers As Possible",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-mock-draft-grabbing-as-many-game-changers-as-possible",
-      "source": "Sports Illustrated",
-      "ts": 1774198800.0,
-      "published_iso": "2026-03-22T17:00:00+00:00"
     }
   ]
 }
