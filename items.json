@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-05-11T22:50:18.458123+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-05-11T23:43:52.873033+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-one-advanced-metric-ranks-rams-231208610-html",
+      "title": "One advanced metric ranks the Rams roster best in the NFL",
+      "link": "https://sports.yahoo.com/articles/one-advanced-metric-ranks-rams-231208610.html",
+      "source": "Yahoo Sports",
+      "ts": 1778516460.0,
+      "published_iso": "2026-05-11T16:21:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-projected-starting-offense-clear-210205116-html",
+      "title": "Rams projected starting offense has clear hole that's Sean McVay and Les Snead's fault",
+      "link": "https://sports.yahoo.com/articles/rams-projected-starting-offense-clear-210205116.html",
+      "source": "Yahoo Sports",
+      "ts": 1778509800.0,
+      "published_iso": "2026-05-11T14:30:00+00:00"
+    }
+  ]
 }
