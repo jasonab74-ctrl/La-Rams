@@ -1,30 +1,22 @@
 {
-  "updated_iso": "2026-05-12T08:06:49.033644+00:00",
-  "count": 3,
+  "updated_iso": "2026-05-12T10:44:12.476709+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-si-com-betting-49ers-vs-rams-opening-odds-in-nfl-week-1-rams-favored-in-opening-game-in-australia",
-      "title": "49ers vs. Rams Opening Odds in NFL Week 1 (Rams Favored in Opening Game in Australia)",
-      "link": "https://si.com/betting/49ers-vs-rams-opening-odds-in-nfl-week-1-rams-favored-in-opening-game-in-australia",
-      "source": "Sports Illustrated",
-      "ts": 1778515620.0,
-      "published_iso": "2026-05-11T16:07:00+00:00"
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-day-3-110000388-html",
+      "title": "Los Angeles Rams Day 3 2026 NFL Mock Draft: Rams ran out of time to add a 2026 difference-maker, so it's all about depth",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-day-3-110000388.html",
+      "source": "Yahoo Sports",
+      "ts": 1777091640.0,
+      "published_iso": "2026-04-25T04:34:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-insider-says-154607361-html",
-      "title": "Los Angeles Rams Insider Says to ‘Keep An Eye’ Out for Blockbuster Trade",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-insider-says-154607361.html",
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-just-got-192959715-html",
+      "title": "The Los Angeles Rams just got the best possible news for the future of the team ahead of the 2026 NFL Draft",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-just-got-192959715.html",
       "source": "Yahoo Sports",
-      "ts": 1778405760.0,
-      "published_iso": "2026-05-10T09:36:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-nfl-rumors-los-angeles-rams-190000217-html",
-      "title": "NFL Rumors: Los Angeles Rams Could Pursue Trade for All-Pro",
-      "link": "https://sports.yahoo.com/articles/nfl-rumors-los-angeles-rams-190000217.html",
-      "source": "Yahoo Sports",
-      "ts": 1778329020.0,
-      "published_iso": "2026-05-09T12:17:00+00:00"
+      "ts": 1776690060.0,
+      "published_iso": "2026-04-20T13:01:00+00:00"
     }
   ]
 }
