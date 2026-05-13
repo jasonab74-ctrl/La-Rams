@@ -1,22 +1,30 @@
 {
-  "updated_iso": "2026-05-13T16:11:28.715155+00:00",
+  "updated_iso": "2026-05-13T18:20:24.824938+00:00",
   "count": 4,
   "items": [
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-05-13-nfl-schedule-rams-49ers-kyle-shanahan-mexico-australia-9",
-      "title": "Rams dodge Kyle Shanahan's international revenge plot on 2026 schedule",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/05/13/nfl-schedule-rams-49ers-kyle-shanahan-mexico-australia/90057993007/",
-      "source": "Rams Wire",
-      "ts": 1778652480.0,
-      "published_iso": "2026-05-13T06:08:00+00:00"
+      "id": "https-sports-yahoo-com-articles-49ers-open-season-underdogs-against-180345452-html",
+      "title": "The 49ers will open the season as underdogs against the Rams in Melbourne",
+      "link": "https://sports.yahoo.com/articles/49ers-open-season-underdogs-against-180345452.html",
+      "source": "Yahoo Sports",
+      "ts": 1778671140.0,
+      "published_iso": "2026-05-13T11:19:00+00:00"
     },
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-05-12-nfl-schedule-release-rams-2026-regular-season-9004431900",
-      "title": "6 things to watch for when the Rams' 2026 schedule is released",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/05/12/nfl-schedule-release-rams-2026-regular-season/90044319007/",
+      "id": "https-sports-yahoo-com-nfl-breaking-news-article-los-angeles-rams-2026-nfl-schedule-dates-time-tv-170940184-html",
+      "title": "Los Angeles Rams 2026 NFL schedule: dates, time, TV",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/los-angeles-rams-2026-nfl-schedule-dates-time-tv-170940184.html",
+      "source": "Yahoo Sports",
+      "ts": 1778667060.0,
+      "published_iso": "2026-05-13T10:11:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-05-12-rams-ty-simpson-nfl-draft-rookies-practice-otas-90048158",
+      "title": "Rams share first look at Ty Simpson, other rookies in practice",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/05/12/rams-ty-simpson-nfl-draft-rookies-practice-otas/90048158007/",
       "source": "Rams Wire",
-      "ts": 1778577180.0,
-      "published_iso": "2026-05-12T09:13:00+00:00"
+      "ts": 1778586660.0,
+      "published_iso": "2026-05-12T11:51:00+00:00"
     },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-rams-2026-schedule-leaks",
@@ -25,14 +33,6 @@
       "source": "Sports Illustrated",
       "ts": 1778518800.0,
       "published_iso": "2026-05-11T17:00:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-insider-says-154607361-html",
-      "title": "Los Angeles Rams Insider Says to ‘Keep An Eye’ Out for Blockbuster Trade",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-insider-says-154607361.html",
-      "source": "Yahoo Sports",
-      "ts": 1778405760.0,
-      "published_iso": "2026-05-10T09:36:00+00:00"
     }
   ]
 }
