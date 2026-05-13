@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-05-13T18:20:24.824938+00:00",
-  "count": 4,
+  "updated_iso": "2026-05-13T20:14:05.004638+00:00",
+  "count": 1,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-49ers-open-season-underdogs-against-180345452-html",
-      "title": "The 49ers will open the season as underdogs against the Rams in Melbourne",
-      "link": "https://sports.yahoo.com/articles/49ers-open-season-underdogs-against-180345452.html",
-      "source": "Yahoo Sports",
-      "ts": 1778671140.0,
-      "published_iso": "2026-05-13T11:19:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-nfl-breaking-news-article-los-angeles-rams-2026-nfl-schedule-dates-time-tv-170940184-html",
       "title": "Los Angeles Rams 2026 NFL schedule: dates, time, TV",
@@ -17,22 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1778667060.0,
       "published_iso": "2026-05-13T10:11:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-05-12-rams-ty-simpson-nfl-draft-rookies-practice-otas-90048158",
-      "title": "Rams share first look at Ty Simpson, other rookies in practice",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/05/12/rams-ty-simpson-nfl-draft-rookies-practice-otas/90048158007/",
-      "source": "Rams Wire",
-      "ts": 1778586660.0,
-      "published_iso": "2026-05-12T11:51:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-rams-2026-schedule-leaks",
-      "title": "Los Angeles Rams 2026 Schedule Release Leaks: Confirmed Opponents & Dates",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-rams-2026-schedule-leaks",
-      "source": "Sports Illustrated",
-      "ts": 1778518800.0,
-      "published_iso": "2026-05-11T17:00:00+00:00"
     }
   ]
 }
