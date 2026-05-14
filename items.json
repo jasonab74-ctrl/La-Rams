@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-05-14T15:00:56.905587+00:00",
-  "count": 5,
+  "updated_iso": "2026-05-14T17:15:57.519631+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-nfl-com-videos-rams-de-kobie-turner-joins-gmfb-to-look-forward-at-2026-season",
-      "title": "Rams DE Kobie Turner joins 'GMFB' to look forward at 2026 season",
-      "link": "https://nfl.com/videos/rams-de-kobie-turner-joins-gmfb-to-look-forward-at-2026-season",
-      "source": "NFL.com",
-      "ts": 1778745120.0,
-      "published_iso": "2026-05-14T07:52:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-05-14-rams-schedule-2026-quarterback-rankings-best-90068194007",
-      "title": "Ranking the 7 best QBs on the Rams' 2026 schedule",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/05/14/rams-schedule-2026-quarterback-rankings-best/90068194007/",
-      "source": "Rams Wire",
-      "ts": 1778735880.0,
-      "published_iso": "2026-05-14T05:18:00+00:00"
+      "id": "https-sports-yahoo-com-articles-cbs-la-rams-reunite-multi-163403216-html",
+      "title": "CBS LA, Rams reunite in multi-year partnership to bring exclusive preseason games and original programming to Southern California",
+      "link": "https://sports.yahoo.com/articles/cbs-la-rams-reunite-multi-163403216.html",
+      "source": "Yahoo Sports",
+      "ts": 1778752440.0,
+      "published_iso": "2026-05-14T09:54:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-05-14-rams-nfl-schedule-release-2026-how-to-watch-90074825007",
@@ -33,14 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1778730000.0,
       "published_iso": "2026-05-14T03:40:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-rams-2026-schedule-leaks",
-      "title": "Los Angeles Rams 2026 Schedule Release Leaks: Confirmed Opponents & Dates",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-rams-2026-schedule-leaks",
-      "source": "Sports Illustrated",
-      "ts": 1778518800.0,
-      "published_iso": "2026-05-11T17:00:00+00:00"
     }
   ]
 }
