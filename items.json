@@ -1,5 +1,46 @@
 {
-  "updated_iso": "2026-05-14T20:48:50.653928+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-05-14T21:57:32.854919+00:00",
+  "count": 5,
+  "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-05-14-rams-schedule-49ers-giants-defense-test-90079581007",
+      "title": "Rams' first 2 games will test whether LA did enough on defense in offseason",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/05/14/rams-schedule-49ers-giants-defense-test/90079581007/",
+      "source": "Rams Wire",
+      "ts": 1778766180.0,
+      "published_iso": "2026-05-14T13:43:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-huddle-cbs-164703228-html",
+      "title": "Los Angeles Rams Huddle With CBS LA As New Local TV Partner",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-huddle-cbs-164703228.html",
+      "source": "Yahoo Sports",
+      "ts": 1778753880.0,
+      "published_iso": "2026-05-14T10:18:00+00:00"
+    },
+    {
+      "id": "https-ocregister-com-2026-05-14-los-angeles-rams-2026-nfl-schedule",
+      "title": "Los Angeles Rams 2026 schedule: What we know so far",
+      "link": "https://ocregister.com/2026/05/14/los-angeles-rams-2026-nfl-schedule/",
+      "source": "OC Register",
+      "ts": 1778752800.0,
+      "published_iso": "2026-05-14T10:00:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-schedule-2026-103001397-html",
+      "title": "Los Angeles Rams schedule 2026: Dates & times for all 17 games, strength of schedule and predictions",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-schedule-2026-103001397.html",
+      "source": "Yahoo Sports",
+      "ts": 1778730000.0,
+      "published_iso": "2026-05-14T03:40:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-rams-2026-schedule-leaks",
+      "title": "Los Angeles Rams 2026 Schedule Release Leaks: Confirmed Opponents & Dates",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-rams-2026-schedule-leaks",
+      "source": "Sports Illustrated",
+      "ts": 1778518800.0,
+      "published_iso": "2026-05-11T17:00:00+00:00"
+    }
+  ]
 }
