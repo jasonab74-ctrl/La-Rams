@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-05-14T12:20:18.841279+00:00",
-  "count": 6,
+  "updated_iso": "2026-05-14T15:00:56.905587+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-nfl-com-videos-rams-de-kobie-turner-joins-gmfb-to-look-forward-at-2026-season",
+      "title": "Rams DE Kobie Turner joins 'GMFB' to look forward at 2026 season",
+      "link": "https://nfl.com/videos/rams-de-kobie-turner-joins-gmfb-to-look-forward-at-2026-season",
+      "source": "NFL.com",
+      "ts": 1778745120.0,
+      "published_iso": "2026-05-14T07:52:00+00:00"
+    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-05-14-rams-schedule-2026-quarterback-rankings-best-90068194007",
       "title": "Ranking the 7 best QBs on the Rams' 2026 schedule",
@@ -11,12 +19,12 @@
       "published_iso": "2026-05-14T05:18:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-time-rams-schedule-being-released-114327190-html",
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-05-14-rams-nfl-schedule-release-2026-how-to-watch-90074825007",
       "title": "What time is the Rams' schedule being released tonight?",
-      "link": "https://sports.yahoo.com/articles/time-rams-schedule-being-released-114327190.html",
-      "source": "Yahoo Sports",
-      "ts": 1778735160.0,
-      "published_iso": "2026-05-14T05:06:00+00:00"
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/05/14/rams-nfl-schedule-release-2026-how-to-watch/90074825007/",
+      "source": "Rams Wire",
+      "ts": 1778734200.0,
+      "published_iso": "2026-05-14T04:50:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-schedule-2026-103001397-html",
@@ -25,22 +33,6 @@
       "source": "Yahoo Sports",
       "ts": 1778730000.0,
       "published_iso": "2026-05-14T03:40:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-videos-the-insiders-react-to-packers-rams-being-the-first-thanksgiving-eve-game",
-      "title": "'The Insiders' react to Packers-Rams being the first Thanksgiving Eve Game",
-      "link": "https://nfl.com/videos/the-insiders-react-to-packers-rams-being-the-first-thanksgiving-eve-game",
-      "source": "NFL.com",
-      "ts": 1778691180.0,
-      "published_iso": "2026-05-13T16:53:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-nfl-thanksgiving-eve-game-2026-rams-packers-streaming",
-      "title": "NFL schedule release: Rams to host Packers on Thanksgiving Eve as part of five-game Netflix package",
-      "link": "https://cbssports.com/nfl/news/nfl-thanksgiving-eve-game-2026-rams-packers-streaming/",
-      "source": "CBS Sports",
-      "ts": 1778679120.0,
-      "published_iso": "2026-05-13T13:32:00+00:00"
     },
     {
       "id": "https-si-com-nfl-rams-onsi-los-angeles-rams-2026-schedule-leaks",
