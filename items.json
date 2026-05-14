@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-05-14T21:57:32.854919+00:00",
-  "count": 5,
+  "updated_iso": "2026-05-14T22:51:34.743414+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-05-14-rams-schedule-49ers-giants-defense-test-90079581007",
-      "title": "Rams' first 2 games will test whether LA did enough on defense in offseason",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/05/14/rams-schedule-49ers-giants-defense-test/90079581007/",
-      "source": "Rams Wire",
-      "ts": 1778766180.0,
-      "published_iso": "2026-05-14T13:43:00+00:00"
+      "id": "https-therams-com-news-cbs-la-the-los-angeles-rams-announce-new-multi-year-television-partnership",
+      "title": "CBS LA & The Los Angeles Rams announce new multi-year television partnership",
+      "link": "https://therams.com/news/cbs-la-the-los-angeles-rams-announce-new-multi-year-television-partnership",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1778757660.0,
+      "published_iso": "2026-05-14T11:21:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-huddle-cbs-164703228-html",
@@ -33,14 +33,6 @@
       "source": "Yahoo Sports",
       "ts": 1778730000.0,
       "published_iso": "2026-05-14T03:40:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-onsi-los-angeles-rams-2026-schedule-leaks",
-      "title": "Los Angeles Rams 2026 Schedule Release Leaks: Confirmed Opponents & Dates",
-      "link": "https://si.com/nfl/rams/onsi/los-angeles-rams-2026-schedule-leaks",
-      "source": "Sports Illustrated",
-      "ts": 1778518800.0,
-      "published_iso": "2026-05-11T17:00:00+00:00"
     }
   ]
 }
