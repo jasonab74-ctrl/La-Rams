@@ -1,22 +1,22 @@
 {
-  "updated_iso": "2026-05-15T22:40:53.227394+00:00",
-  "count": 4,
+  "updated_iso": "2026-05-15T23:41:55.310734+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-yahoo-com-news-videos-rams-cornerback-trent-mcduffie-talks-200500213-html",
-      "title": "New Rams cornerback Trent McDuffie talks schedule release, return to LA",
-      "link": "https://yahoo.com/news/videos/rams-cornerback-trent-mcduffie-talks-200500213.html",
-      "source": "Yahoo",
-      "ts": 1778852640.0,
-      "published_iso": "2026-05-15T13:44:00+00:00"
+      "id": "https-sports-yahoo-com-articles-rams-face-grueling-tests-befitting-190303696-html",
+      "title": "Rams face grueling tests befitting of champions during 2026 NFL season",
+      "link": "https://sports.yahoo.com/articles/rams-face-grueling-tests-befitting-190303696.html",
+      "source": "Yahoo Sports",
+      "ts": 1778862780.0,
+      "published_iso": "2026-05-15T16:33:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-nfl-leans-hollywood-stars-record-160601797-html",
-      "title": "NFL leans into Hollywood stars with record number of Rams’ primetime games",
-      "link": "https://sports.yahoo.com/articles/nfl-leans-hollywood-stars-record-160601797.html",
-      "source": "Yahoo Sports",
-      "ts": 1778851380.0,
-      "published_iso": "2026-05-15T13:23:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-05-15-rams-schedule-opponents-tough-2026-season-90098864007",
+      "title": "This chart shows how grueling the Rams' schedule is in 2026",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/05/15/rams-schedule-opponents-tough-2026-season/90098864007/",
+      "source": "Rams Wire",
+      "ts": 1778839740.0,
+      "published_iso": "2026-05-15T10:09:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-tie-nfl-153043597-html",
@@ -25,14 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1778835240.0,
       "published_iso": "2026-05-15T08:54:00+00:00"
-    },
-    {
-      "id": "https-ocregister-com-2026-05-14-los-angeles-rams-2026-nfl-schedule",
-      "title": "Los Angeles Rams 2026 schedule: Full list of dates, opponents and key NFC West matchups",
-      "link": "https://ocregister.com/2026/05/14/los-angeles-rams-2026-nfl-schedule/",
-      "source": "OC Register",
-      "ts": 1778778000.0,
-      "published_iso": "2026-05-14T17:00:00+00:00"
     }
   ]
 }
