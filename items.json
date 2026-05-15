@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-05-15T01:50:26.746253+00:00",
-  "count": 4,
+  "updated_iso": "2026-05-15T05:43:10.112903+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-sean-mcvay-gives-early-thoughts-010019055-html",
-      "title": "Sean McVay gives his early thoughts on Rams' challenging 2026 schedule",
-      "link": "https://sports.yahoo.com/articles/sean-mcvay-gives-early-thoughts-010019055.html",
+      "id": "https-sports-yahoo-com-articles-la-rams-play-7-prime-005144702-html",
+      "title": "LA Rams to play 7 prime time games, tying NFL record; At least 7 other games on FOX 11",
+      "link": "https://sports.yahoo.com/articles/la-rams-play-7-prime-005144702.html",
       "source": "Yahoo Sports",
-      "ts": 1778782560.0,
-      "published_iso": "2026-05-14T18:16:00+00:00"
+      "ts": 1778797260.0,
+      "published_iso": "2026-05-14T22:21:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-rams-schedule-breakdown-nfl-gives-000931843-html",
@@ -25,14 +25,6 @@
       "source": "OC Register",
       "ts": 1778778000.0,
       "published_iso": "2026-05-14T17:00:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25415828-rams-2026-nfl-schedule-released-matthew-stafford-davante-adams-super-bowl-pus",
-      "title": "Rams 2026 NFL Schedule Released for Matthew Stafford, Davante Adams' Super Bowl Push",
-      "link": "https://bleacherreport.com/articles/25415828-rams-2026-nfl-schedule-released-matthew-stafford-davante-adams-super-bowl-push",
-      "source": "Bleacher Report",
-      "ts": 1778777160.0,
-      "published_iso": "2026-05-14T16:46:00+00:00"
     }
   ]
 }
