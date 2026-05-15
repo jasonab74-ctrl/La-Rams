@@ -1,46 +1,38 @@
 {
-  "updated_iso": "2026-05-14T23:42:45.541017+00:00",
-  "count": 5,
+  "updated_iso": "2026-05-15T01:50:26.746253+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-05-14-la-rams-schedule-2026-dates-times-games-90074794007",
-      "title": "LA Rams 2026 schedule: Dates, times, TV channels for every game",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/05/14/la-rams-schedule-2026-dates-times-games/90074794007/",
-      "source": "Rams Wire",
-      "ts": 1778776800.0,
-      "published_iso": "2026-05-14T16:40:00+00:00"
+      "id": "https-sports-yahoo-com-articles-sean-mcvay-gives-early-thoughts-010019055-html",
+      "title": "Sean McVay gives his early thoughts on Rams' challenging 2026 schedule",
+      "link": "https://sports.yahoo.com/articles/sean-mcvay-gives-early-thoughts-010019055.html",
+      "source": "Yahoo Sports",
+      "ts": 1778782560.0,
+      "published_iso": "2026-05-14T18:16:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-huddle-cbs-164703228-html",
-      "title": "Los Angeles Rams Huddle With CBS LA As New Local TV Partner",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-huddle-cbs-164703228.html",
+      "id": "https-sports-yahoo-com-articles-rams-schedule-breakdown-nfl-gives-000931843-html",
+      "title": "Rams Schedule Breakdown: NFL Gives Los Angeles One of the Toughest Roads in 2026",
+      "link": "https://sports.yahoo.com/articles/rams-schedule-breakdown-nfl-gives-000931843.html",
       "source": "Yahoo Sports",
-      "ts": 1778753880.0,
-      "published_iso": "2026-05-14T10:18:00+00:00"
+      "ts": 1778779320.0,
+      "published_iso": "2026-05-14T17:22:00+00:00"
     },
     {
       "id": "https-ocregister-com-2026-05-14-los-angeles-rams-2026-nfl-schedule",
-      "title": "Los Angeles Rams 2026 schedule: What we know so far",
+      "title": "Los Angeles Rams 2026 schedule: Full list of dates, opponents and key NFC West matchups",
       "link": "https://ocregister.com/2026/05/14/los-angeles-rams-2026-nfl-schedule/",
       "source": "OC Register",
-      "ts": 1778752800.0,
-      "published_iso": "2026-05-14T10:00:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-schedule-2026-103001397-html",
-      "title": "Los Angeles Rams schedule 2026: Dates & times for all 17 games, strength of schedule and predictions",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-schedule-2026-103001397.html",
-      "source": "Yahoo Sports",
-      "ts": 1778730000.0,
-      "published_iso": "2026-05-14T03:40:00+00:00"
+      "ts": 1778778000.0,
+      "published_iso": "2026-05-14T17:00:00+00:00"
     },
     {
       "id": "https-bleacherreport-com-articles-25415828-rams-2026-nfl-schedule-released-matthew-stafford-davante-adams-super-bowl-pus",
       "title": "Rams 2026 NFL Schedule Released for Matthew Stafford, Davante Adams' Super Bowl Push",
       "link": "https://bleacherreport.com/articles/25415828-rams-2026-nfl-schedule-released-matthew-stafford-davante-adams-super-bowl-push",
       "source": "Bleacher Report",
-      "ts": 1778691600.0,
-      "published_iso": "2026-05-13T17:00:00+00:00"
+      "ts": 1778777160.0,
+      "published_iso": "2026-05-14T16:46:00+00:00"
     }
   ]
 }
