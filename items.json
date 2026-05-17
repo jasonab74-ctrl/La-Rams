@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-05-17T17:44:41.080708+00:00",
-  "count": 2,
+  "updated_iso": "2026-05-17T18:47:49.428498+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-seahawks-week-18-matchup-vs-180050186-html",
+      "title": "Seahawks’ Week 18 matchup vs. Rams tabbed top 10 game to watch in 2026",
+      "link": "https://sports.yahoo.com/articles/seahawks-week-18-matchup-vs-180050186.html",
+      "source": "Yahoo Sports",
+      "ts": 1779016560.0,
+      "published_iso": "2026-05-17T11:16:00+00:00"
+    },
     {
       "id": "https-ocregister-com-2026-05-14-los-angeles-rams-2026-nfl-schedule",
       "title": "Los Angeles Rams 2026 schedule: Full list of dates, opponents and key NFC West matchups",
