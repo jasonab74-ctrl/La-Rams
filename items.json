@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2026-05-18T01:56:14.573453+00:00",
-  "count": 1,
+  "updated_iso": "2026-05-18T06:02:53.636631+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-forced-respond-ty-simpson-200422742-html",
-      "title": "Rams Forced to Respond as Ty Simpson Draws Attention for Unexpected Detail at NFLPA Rookie Premiere",
-      "link": "https://sports.yahoo.com/articles/rams-forced-respond-ty-simpson-200422742.html",
+      "id": "https-sports-yahoo-com-articles-nfl-quietly-replaces-patrick-mahomes-032157637-html",
+      "title": "NFL Quietly Replaces Patrick Mahomes' Chiefs With Rams as New Face After Schedule Announcement",
+      "link": "https://sports.yahoo.com/articles/nfl-quietly-replaces-patrick-mahomes-032157637.html",
       "source": "Yahoo Sports",
-      "ts": 1779025500.0,
-      "published_iso": "2026-05-17T13:45:00+00:00"
+      "ts": 1779053400.0,
+      "published_iso": "2026-05-17T21:30:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-schedule-2026-103001397-html",
+      "title": "Los Angeles Rams schedule 2026: Dates & times for all 17 games, strength of schedule and predictions",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-schedule-2026-103001397.html",
+      "source": "Yahoo Sports",
+      "ts": 1778730000.0,
+      "published_iso": "2026-05-14T03:40:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-los-angeles-rams-2026-schedule-leaks",
+      "title": "Los Angeles Rams 2026 Schedule Release Leaks: Confirmed Opponents & Dates",
+      "link": "https://si.com/nfl/rams/onsi/los-angeles-rams-2026-schedule-leaks",
+      "source": "Sports Illustrated",
+      "ts": 1778518800.0,
+      "published_iso": "2026-05-11T17:00:00+00:00"
     }
   ]
 }
