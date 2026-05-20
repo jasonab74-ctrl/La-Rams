@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-05-20T21:47:41.494363+00:00",
+  "updated_iso": "2026-05-20T23:01:19.241610+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-sean-mcvay-reveals-wife-174828207-html",
+      "title": "Rams’ Sean McVay reveals how his wife stopped him from quitting like a big loser",
+      "link": "https://sports.yahoo.com/articles/rams-sean-mcvay-reveals-wife-174828207.html",
+      "source": "Yahoo Sports",
+      "ts": 1779291840.0,
+      "published_iso": "2026-05-20T15:44:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-coached-place-fear-sean-mcvay-205918563-html",
       "title": "‘I Coached From a Place of Fear’",
@@ -9,14 +17,6 @@
       "source": "Sean McVay Opens Up on How 2022 Season With Rams Completely Changed Him",
       "ts": 1779287520.0,
       "published_iso": "2026-05-20T14:32:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-j-brown-trade-rumors-202026403-html",
-      "title": "Rams’ A.J. Brown trade rumors heat up with concerns growing around Puka Nacua",
-      "link": "https://sports.yahoo.com/articles/rams-j-brown-trade-rumors-202026403.html",
-      "source": "Yahoo Sports",
-      "ts": 1779284880.0,
-      "published_iso": "2026-05-20T13:48:00+00:00"
     }
   ]
 }
