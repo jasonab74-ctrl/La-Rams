@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-05-22T14:08:05.507122+00:00",
-  "count": 4,
+  "updated_iso": "2026-05-22T16:38:50.640357+00:00",
+  "count": 5,
   "items": [
     {
-      "id": "https-nfl-com-videos-gmfb-reacts-to-rams-matthew-stafford-s-one-year-extension",
-      "title": "'GMFB' reacts to Rams, Matthew Stafford's one-year extension",
-      "link": "https://nfl.com/videos/gmfb-reacts-to-rams-matthew-stafford-s-one-year-extension",
-      "source": "NFL.com",
-      "ts": 1779432780.0,
-      "published_iso": "2026-05-22T06:53:00+00:00"
+      "id": "https-sports-yahoo-com-articles-reigning-nfl-mvp-signs-contract-124955887-html",
+      "title": "Reigning NFL MVP signs contract extension with Los Angeles Rams",
+      "link": "https://sports.yahoo.com/articles/reigning-nfl-mvp-signs-contract-124955887.html",
+      "source": "Yahoo Sports",
+      "ts": 1779435120.0,
+      "published_iso": "2026-05-22T07:32:00+00:00"
+    },
+    {
+      "id": "https-apnews-com-article-rams-matthew-stafford-extension-c5bfefb573a58b8dcfd179a51587940f",
+      "title": "NFL MVP Matthew Stafford agrees to 1-year contract extension with Rams through 2027",
+      "link": "https://apnews.com/article/rams-matthew-stafford-extension-c5bfefb573a58b8dcfd179a51587940f",
+      "source": "AP News",
+      "ts": 1779430380.0,
+      "published_iso": "2026-05-22T06:13:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-could-giving-111833725-html",
