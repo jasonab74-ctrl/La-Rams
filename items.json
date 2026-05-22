@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-05-21T23:45:20.814689+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-05-22T01:57:08.881895+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-matthew-stafford-extension-means-him-005941781-html",
+      "title": "What Matthew Stafford’s extension means for him, the Rams and Ty Simpson",
+      "link": "https://sports.yahoo.com/articles/matthew-stafford-extension-means-him-005941781.html",
+      "source": "Yahoo Sports",
+      "ts": 1779387240.0,
+      "published_iso": "2026-05-21T18:14:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-matthew-stafford-gets-big-pay-001723154-html",
+      "title": "Matthew Stafford gets big pay in limited time left with Los Angeles Rams",
+      "link": "https://sports.yahoo.com/articles/matthew-stafford-gets-big-pay-001723154.html",
+      "source": "Yahoo Sports",
+      "ts": 1779384900.0,
+      "published_iso": "2026-05-21T17:35:00+00:00"
+    }
+  ]
 }
