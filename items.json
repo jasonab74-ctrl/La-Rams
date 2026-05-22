@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-05-22T11:38:33.026881+00:00",
-  "count": 1,
+  "updated_iso": "2026-05-22T14:08:05.507122+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-nfl-com-videos-gmfb-reacts-to-rams-matthew-stafford-s-one-year-extension",
+      "title": "'GMFB' reacts to Rams, Matthew Stafford's one-year extension",
+      "link": "https://nfl.com/videos/gmfb-reacts-to-rams-matthew-stafford-s-one-year-extension",
+      "source": "NFL.com",
+      "ts": 1779432780.0,
+      "published_iso": "2026-05-22T06:53:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-could-giving-111833725-html",
+      "title": "The Los Angeles Rams could be giving Matthew Stafford a chance to claim two titles at once in 2026",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-could-giving-111833725.html",
+      "source": "Yahoo Sports",
+      "ts": 1779426120.0,
+      "published_iso": "2026-05-22T05:02:00+00:00"
+    },
     {
       "id": "https-nfl-com-news-report-rams-qb-matthew-stafford-agree-to-one-year-55-million-contract-extension",
       "title": "Report: Rams, QB Matthew Stafford agree to one-year, $55 million contract extension",
@@ -9,6 +25,14 @@
       "source": "NFL.com",
       "ts": 1779381360.0,
       "published_iso": "2026-05-21T16:36:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-04-28-rams-offseason-takeaways-draft-free-agency-trades-898200",
+      "title": "4 takeaways from the Rams' offseason so far",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/04/28/rams-offseason-takeaways-draft-free-agency-trades/89820064007/",
+      "source": "Rams Wire",
+      "ts": 1777356780.0,
+      "published_iso": "2026-04-28T06:13:00+00:00"
     }
   ]
 }
