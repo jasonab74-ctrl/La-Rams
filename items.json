@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-05-23T14:23:07.529585+00:00",
+  "updated_iso": "2026-05-23T15:36:30.021287+00:00",
   "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-m-worried-now-ex-nfl-140853614-html",
+      "title": "’I’m Worried About Now’ — Ex-NFL WR Urges Rams To Explore Trading Puka Nacua Amid Interest in A.J. Brown",
+      "link": "https://sports.yahoo.com/articles/m-worried-now-ex-nfl-140853614.html",
+      "source": "Yahoo Sports",
+      "ts": 1779522540.0,
+      "published_iso": "2026-05-23T07:49:00+00:00"
+    },
     {
       "id": "https-bleacherreport-com-articles-25427427-new-matthew-stafford-rumors-contract-scenarios-retirement-and-impact-ty-simps",
       "title": "New Matthew Stafford Rumors on Contract Scenarios, Retirement and Impact on Ty Simpson's Rams Future",
@@ -9,14 +17,6 @@
       "source": "Bleacher Report",
       "ts": 1779518820.0,
       "published_iso": "2026-05-23T06:47:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-ty-simpson-didnt-care-criticism-130134563-html",
-      "title": "Ty Simpson 'didn't care' about criticism of Rams drafting him",
-      "link": "https://sports.yahoo.com/articles/ty-simpson-didnt-care-criticism-130134563.html",
-      "source": "Yahoo Sports",
-      "ts": 1779516720.0,
-      "published_iso": "2026-05-23T06:12:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-rams-position-group-could-swing-130126552-html",
