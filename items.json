@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-05-25T20:04:32.371706+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-05-25T21:38:05.340536+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-seahawks-schedule-offers-chance-build-170004959-html",
+      "title": "Seahawks Schedule Offers Chance to Build Christmas Legacy vs. Rams",
+      "link": "https://sports.yahoo.com/articles/seahawks-schedule-offers-chance-build-170004959.html",
+      "source": "Yahoo Sports",
+      "ts": 1779718380.0,
+      "published_iso": "2026-05-25T14:13:00+00:00"
+    }
+  ]
 }
