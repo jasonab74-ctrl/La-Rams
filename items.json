@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2026-05-28T16:48:57.727028+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-05-28T19:30:49.960244+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-cbssports-com-nfl-news-matthew-stafford-rams-draft-ty-simpson-qb",
+      "title": "Matthew Stafford breaks silence on Rams' shocking decision to draft QB Ty Simpson with first round pick",
+      "link": "https://cbssports.com/nfl/news/matthew-stafford-rams-draft-ty-simpson-qb/",
+      "source": "CBS Sports",
+      "ts": 1779962340.0,
+      "published_iso": "2026-05-28T09:59:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-ty-simpson-just-learned-first-161624352-html",
+      "title": "Ty Simpson just learned his first few years with the Los Angeles Rams will be a lot more unpredictable",
+      "link": "https://sports.yahoo.com/articles/ty-simpson-just-learned-first-161624352.html",
+      "source": "Yahoo Sports",
+      "ts": 1779875280.0,
+      "published_iso": "2026-05-27T09:48:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-los-angeles-rams",
+      "title": "Los Angeles Rams",
+      "link": "https://bleacherreport.com/los-angeles-rams",
+      "source": "Bleacher Report",
+      "ts": 1747293300.0,
+      "published_iso": "2025-05-15T07:15:00+00:00"
+    }
+  ]
 }
