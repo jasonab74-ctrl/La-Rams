@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-30T22:53:09.417514+00:00",
-  "count": 1,
+  "updated_iso": "2026-05-30T23:48:41.592396+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-starting-click-rams-db-makes-205703763-html",
@@ -9,6 +9,14 @@
       "source": "Yahoo Sports",
       "ts": 1780151520.0,
       "published_iso": "2026-05-30T14:32:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-lock-another-member-2026-175942619-html",
+      "title": "Rams lock up another member of 2026 draft class",
+      "link": "https://sports.yahoo.com/articles/rams-lock-another-member-2026-175942619.html",
+      "source": "Yahoo Sports",
+      "ts": 1780140780.0,
+      "published_iso": "2026-05-30T11:33:00+00:00"
     }
   ]
 }
