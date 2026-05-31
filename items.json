@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-05-31T06:36:43.128264+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-05-31T09:38:42.953002+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-sign-2nd-round-te-135724998-html",
+      "title": "Rams sign 2nd-round TE Max Klare to 4-year rookie deal",
+      "link": "https://sports.yahoo.com/articles/rams-sign-2nd-round-te-135724998.html",
+      "source": "Yahoo Sports",
+      "ts": 1780193160.0,
+      "published_iso": "2026-05-31T02:06:00+00:00"
+    }
+  ]
 }
