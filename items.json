@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-06-01T13:06:42.981485+00:00",
-  "count": 1,
+  "updated_iso": "2026-06-01T19:02:16.234112+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-starting-click-rams-db-makes-205703763-html",
-      "title": "’It’s Starting To Click’ — Rams DB Makes Feelings Clear On Ty Simpson’s Initial Impression In Los Angeles",
-      "link": "https://sports.yahoo.com/articles/starting-click-rams-db-makes-205703763.html",
+      "id": "https-sports-yahoo-com-articles-cowboys-see-myles-garrett-los-183610578-html",
+      "title": "Cowboys will see Myles Garrett with Los Angeles Rams this season",
+      "link": "https://sports.yahoo.com/articles/cowboys-see-myles-garrett-los-183610578.html",
       "source": "Yahoo Sports",
-      "ts": 1780151520.0,
-      "published_iso": "2026-05-30T14:32:00+00:00"
+      "ts": 1780314960.0,
+      "published_iso": "2026-06-01T11:56:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25432711-f-them-picks-check-out-rams-1st-round-nfl-draft-pick-history-after-myles-garr",
+      "title": "'F Them Picks,' Check Out Rams' 1st-Round NFL Draft Pick History After Myles Garrett Trade",
+      "link": "https://bleacherreport.com/articles/25432711-f-them-picks-check-out-rams-1st-round-nfl-draft-pick-history-after-myles-garrett-trade",
+      "source": "Bleacher Report",
+      "ts": 1780313100.0,
+      "published_iso": "2026-06-01T11:25:00+00:00"
     }
   ]
 }
