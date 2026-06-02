@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-06-01T23:46:51.054946+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-06-02T02:11:05.017495+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-nfl-betting-article-super-bowl-61-odds-los-angeles-rams-move-to-clear-super-bowl-favorites-after-",
+      "title": "Super Bowl 61 odds: Los Angeles Rams move to clear Super Bowl favorites after Myles Garrett trade",
+      "link": "https://sports.yahoo.com/nfl/betting/article/super-bowl-61-odds-los-angeles-rams-move-to-clear-super-bowl-favorites-after-myles-garrett-trade-190944730.html",
+      "source": "Yahoo Sports",
+      "ts": 1780318500.0,
+      "published_iso": "2026-06-01T12:55:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-just-traded-190541834-html",
+      "title": "The Los Angeles Rams just traded for Myles Garrett. Could this be the call that brings a Rams legend back?",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-just-traded-190541834.html",
+      "source": "Yahoo Sports",
+      "ts": 1780316280.0,
+      "published_iso": "2026-06-01T12:18:00+00:00"
+    }
+  ]
 }
