@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-06-02T02:11:05.017495+00:00",
-  "count": 2,
+  "updated_iso": "2026-06-02T07:00:45.572055+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-therams-com-news-rams-agree-to-terms-on-trade-myles-garrett-browns",
+      "title": "Rams agree to terms on trade to acquire Myles Garrett from Browns",
+      "link": "https://therams.com/news/rams-agree-to-terms-on-trade-myles-garrett-browns",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1780319820.0,
+      "published_iso": "2026-06-01T13:17:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-nfl-betting-article-super-bowl-61-odds-los-angeles-rams-move-to-clear-super-bowl-favorites-after-",
       "title": "Super Bowl 61 odds: Los Angeles Rams move to clear Super Bowl favorites after Myles Garrett trade",
