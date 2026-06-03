@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-06-03T19:02:04.234024+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-06-03T22:06:51.959922+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-bleacherreport-com-articles-25433733-matthew-staffords-rams-future-addressed-gm-les-snead-after-qbs-contract-exten",
+      "title": "Matthew Stafford's Rams Future Addressed By GM Les Snead After QB's Contract Extension",
+      "link": "https://bleacherreport.com/articles/25433733-matthew-staffords-rams-future-addressed-gm-les-snead-after-qbs-contract-extension",
+      "source": "Bleacher Report",
+      "ts": 1780496220.0,
+      "published_iso": "2026-06-03T14:17:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-really-don-t-care-bengals-204757830-html",
+      "title": "’I Really Don’t Care’ — Bengals WR Ja’Marr Chase Drops Blunt Reaction to Surprise Rams-Browns Myles Garrett Trade",
+      "link": "https://sports.yahoo.com/articles/really-don-t-care-bengals-204757830.html",
+      "source": "Yahoo Sports",
+      "ts": 1780496160.0,
+      "published_iso": "2026-06-03T14:16:00+00:00"
+    }
+  ]
 }
