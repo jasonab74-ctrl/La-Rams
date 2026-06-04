@@ -1,22 +1,54 @@
 {
-  "updated_iso": "2026-06-04T18:05:11.221776+00:00",
-  "count": 2,
+  "updated_iso": "2026-06-04T20:28:29.703378+00:00",
+  "count": 6,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-blockbuster-trade-162551336-html",
-      "title": "Can the Los Angeles Rams blockbuster trade get the team to the Super Bowl?",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-blockbuster-trade-162551336.html",
-      "source": "Yahoo Sports",
-      "ts": 1780565940.0,
-      "published_iso": "2026-06-04T09:39:00+00:00"
+      "id": "https-si-com-nfl-rams-onsi-myles-garrett-trade-rams-matthew-stafford-comparison",
+      "title": "Rams’ Trade for Myles Garrett Feels Like Matthew Stafford Deal All Over Again",
+      "link": "https://si.com/nfl/rams/onsi/myles-garrett-trade-rams-matthew-stafford-comparison",
+      "source": "Sports Illustrated",
+      "ts": 1780578660.0,
+      "published_iso": "2026-06-04T13:11:00+00:00"
     },
     {
-      "id": "https-apnews-com-article-rams-myles-garrett-sean-mcvay-73be1d809c1704c0028afb797f680b92",
-      "title": "Myles Garrett is the Rams’ latest prize in a decade of aggressive moves by Snead and McVay",
-      "link": "https://apnews.com/article/rams-myles-garrett-sean-mcvay-73be1d809c1704c0028afb797f680b92",
-      "source": "AP News",
-      "ts": 1780423860.0,
-      "published_iso": "2026-06-02T18:11:00+00:00"
+      "id": "https-bleacherreport-com-articles-25434036-chloe-kim-giggling-rumors-she-orchestrated-myles-garrett-trade-rams-shares-ne",
+      "title": "Chloe Kim 'Giggling' at Rumors She Orchestrated Myles Garrett Trade to Rams, Shares New TikTok Video",
+      "link": "https://bleacherreport.com/articles/25434036-chloe-kim-giggling-rumors-she-orchestrated-myles-garrett-trade-rams-shares-new-tiktok-video",
+      "source": "Bleacher Report",
+      "ts": 1780576500.0,
+      "published_iso": "2026-06-04T12:35:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-06-04-rams-myles-garrett-contract-rework-ian-rapoport-90407602",
+      "title": "Ian Rapoport clarifies how Rams reworked Myles Garrett's contract",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/06/04/rams-myles-garrett-contract-rework-ian-rapoport/90407602007/",
+      "source": "Rams Wire",
+      "ts": 1780575120.0,
+      "published_iso": "2026-06-04T12:12:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-myles-garrett-insane-california-tax-201318412-html",
+      "title": "Rams superstar Myles Garrett’s insane California tax bill set to slash massive paycheck",
+      "link": "https://sports.yahoo.com/articles/myles-garrett-insane-california-tax-201318412.html",
+      "source": "Yahoo Sports",
+      "ts": 1780574640.0,
+      "published_iso": "2026-06-04T12:04:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25434004-myles-garrett-rams-reportedly-rework-contract-full-details-revealed-after-bro",
+      "title": "Myles Garrett, Rams Reportedly Rework Contract, Full Details Revealed After Browns Trade",
+      "link": "https://bleacherreport.com/articles/25434004-myles-garrett-rams-reportedly-rework-contract-full-details-revealed-after-browns-trade",
+      "source": "Bleacher Report",
+      "ts": 1780574340.0,
+      "published_iso": "2026-06-04T11:59:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-betting-the-rams-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our",
+      "title": "Betting the Rams in 2026: See how Los Angeles' win total, Super Bowl odds are trending and our best bets",
+      "link": "https://cbssports.com/nfl/news/betting-the-rams-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our-best-bets/",
+      "source": "CBS Sports",
+      "ts": 1780573920.0,
+      "published_iso": "2026-06-04T11:52:00+00:00"
     }
   ]
 }
