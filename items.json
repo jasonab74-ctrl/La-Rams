@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-06-04T15:51:15.358738+00:00",
-  "count": 1,
+  "updated_iso": "2026-06-04T18:05:11.221776+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-nfl-betting-article-super-bowl-61-odds-los-angeles-rams-move-to-clear-super-bowl-favorites-after-",
-      "title": "Super Bowl 61 odds: Los Angeles Rams move to clear Super Bowl favorites after Myles Garrett trade",
-      "link": "https://sports.yahoo.com/nfl/betting/article/super-bowl-61-odds-los-angeles-rams-move-to-clear-super-bowl-favorites-after-myles-garrett-trade-190944730.html",
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-blockbuster-trade-162551336-html",
+      "title": "Can the Los Angeles Rams blockbuster trade get the team to the Super Bowl?",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-blockbuster-trade-162551336.html",
       "source": "Yahoo Sports",
-      "ts": 1780318500.0,
-      "published_iso": "2026-06-01T12:55:00+00:00"
+      "ts": 1780565940.0,
+      "published_iso": "2026-06-04T09:39:00+00:00"
+    },
+    {
+      "id": "https-apnews-com-article-rams-myles-garrett-sean-mcvay-73be1d809c1704c0028afb797f680b92",
+      "title": "Myles Garrett is the Rams’ latest prize in a decade of aggressive moves by Snead and McVay",
+      "link": "https://apnews.com/article/rams-myles-garrett-sean-mcvay-73be1d809c1704c0028afb797f680b92",
+      "source": "AP News",
+      "ts": 1780423860.0,
+      "published_iso": "2026-06-02T18:11:00+00:00"
     }
   ]
 }
