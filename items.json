@@ -1,5 +1,5 @@
 {
-  "updated_iso": "2026-06-06T19:10:33.434900+00:00",
+  "updated_iso": "2026-06-06T20:36:49.455432+00:00",
   "count": 4,
   "items": [
     {
@@ -11,12 +11,12 @@
       "published_iso": "2026-06-06T11:35:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-rams-myles-garrett-blockbuster-49ers-113000552-html",
-      "title": "After Rams’ Myles Garrett blockbuster, 49ers need to deal for Maxx Crosby",
-      "link": "https://sports.yahoo.com/articles/rams-myles-garrett-blockbuster-49ers-113000552.html",
+      "id": "https-sports-yahoo-com-articles-cleveland-browns-reportedly-trade-myles-175324941-html",
+      "title": "Cleveland Browns Reportedly Trade Myles Garrett to Los Angeles Rams",
+      "link": "https://sports.yahoo.com/articles/cleveland-browns-reportedly-trade-myles-175324941.html",
       "source": "Yahoo Sports",
-      "ts": 1780721940.0,
-      "published_iso": "2026-06-06T04:59:00+00:00"
+      "ts": 1780745520.0,
+      "published_iso": "2026-06-06T11:32:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-betting-the-rams-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our",
@@ -27,12 +27,12 @@
       "published_iso": "2026-06-04T11:52:00+00:00"
     },
     {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1733233920.0,
-      "published_iso": "2024-12-03T13:52:00+00:00"
+      "id": "https-therams-com-news-los-angeles-rams-hollywood-park-first-year-steam-education-program",
+      "title": "Los Angeles Rams and Hollywood Park wrap up first year of STEAM Education Program, look to expand in years to come",
+      "link": "https://therams.com/news/los-angeles-rams-hollywood-park-first-year-steam-education-program",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1780362000.0,
+      "published_iso": "2026-06-02T01:00:00+00:00"
     }
   ]
 }
