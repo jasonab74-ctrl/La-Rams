@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-06-06T15:45:21.773071+00:00",
+  "updated_iso": "2026-06-06T16:54:33.363061+00:00",
   "count": 5,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-myles-garrett-blockbuster-49ers-113000552-html",
+      "title": "After Rams’ Myles Garrett blockbuster, 49ers need to deal for Maxx Crosby",
+      "link": "https://sports.yahoo.com/articles/rams-myles-garrett-blockbuster-49ers-113000552.html",
+      "source": "Yahoo Sports",
+      "ts": 1780721940.0,
+      "published_iso": "2026-06-06T04:59:00+00:00"
+    },
     {
       "id": "https-cbssports-com-nfl-news-betting-the-rams-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our",
       "title": "Betting the Rams in 2026: See how Los Angeles' win total, Super Bowl odds are trending and our best bets",
@@ -17,14 +25,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1780362000.0,
       "published_iso": "2026-06-02T01:00:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-nfl-betting-article-super-bowl-61-odds-los-angeles-rams-move-to-clear-super-bowl-favorites-after-",
-      "title": "Super Bowl 61 odds: Los Angeles Rams move to clear Super Bowl favorites after Myles Garrett trade",
-      "link": "https://sports.yahoo.com/nfl/betting/article/super-bowl-61-odds-los-angeles-rams-move-to-clear-super-bowl-favorites-after-myles-garrett-trade-190944730.html",
-      "source": "Yahoo Sports",
-      "ts": 1780318500.0,
-      "published_iso": "2026-06-01T12:55:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-myles-garrett-traded-from-browns-to-rams",
