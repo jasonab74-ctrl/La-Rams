@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-06T16:54:33.363061+00:00",
-  "count": 5,
+  "updated_iso": "2026-06-06T17:57:37.572206+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-myles-garrett-blockbuster-49ers-113000552-html",
@@ -25,14 +25,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1780362000.0,
       "published_iso": "2026-06-02T01:00:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-myles-garrett-traded-from-browns-to-rams",
-      "title": "Myles Garrett traded from Browns to Rams as Los Angeles goes all in for Super Bowl run",
-      "link": "https://cbssports.com/nfl/news/myles-garrett-traded-from-browns-to-rams/",
-      "source": "CBS Sports",
-      "ts": 1780310400.0,
-      "published_iso": "2026-06-01T10:40:00+00:00"
     },
     {
       "id": "https-foxsports-com-nfl-los-angeles-rams-team",
