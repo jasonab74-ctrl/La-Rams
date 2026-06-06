@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-06-06T17:57:37.572206+00:00",
+  "updated_iso": "2026-06-06T19:10:33.434900+00:00",
   "count": 4,
   "items": [
+    {
+      "id": "https-bleacherreport-com-articles-25434841-denzel-ward-reveals-thoughts-browns-future-video-after-myles-garrett-trade-ra",
+      "title": "Denzel Ward Reveals Thoughts on Browns Future in Video After Myles Garrett Trade to Rams",
+      "link": "https://bleacherreport.com/articles/25434841-denzel-ward-reveals-thoughts-browns-future-video-after-myles-garrett-trade-rams",
+      "source": "Bleacher Report",
+      "ts": 1780745700.0,
+      "published_iso": "2026-06-06T11:35:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-myles-garrett-blockbuster-49ers-113000552-html",
       "title": "After Rams’ Myles Garrett blockbuster, 49ers need to deal for Maxx Crosby",
@@ -17,14 +25,6 @@
       "source": "CBS Sports",
       "ts": 1780573920.0,
       "published_iso": "2026-06-04T11:52:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-hollywood-park-first-year-steam-education-program",
-      "title": "Los Angeles Rams and Hollywood Park wrap up first year of STEAM Education Program, look to expand in years to come",
-      "link": "https://therams.com/news/los-angeles-rams-hollywood-park-first-year-steam-education-program",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1780362000.0,
-      "published_iso": "2026-06-02T01:00:00+00:00"
     },
     {
       "id": "https-foxsports-com-nfl-los-angeles-rams-team",
