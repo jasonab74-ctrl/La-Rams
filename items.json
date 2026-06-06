@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-06-06T02:01:12.227362+00:00",
-  "count": 5,
+  "updated_iso": "2026-06-06T06:05:00.424656+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-jared-verse-had-one-final-210028739-html",
-      "title": "Jared Verse had one final Rams request after being traded to Browns",
-      "link": "https://sports.yahoo.com/articles/jared-verse-had-one-final-210028739.html",
-      "source": "Yahoo Sports",
-      "ts": 1780683900.0,
-      "published_iso": "2026-06-05T18:25:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25434358-myles-garrett-wants-learn-aaron-donald-after-trade-rams-legend-mulls-nfl-come",
-      "title": "Myles Garrett Wants to Learn from Aaron Donald After Trade as Rams Legend Mulls NFL Comeback",
-      "link": "https://bleacherreport.com/articles/25434358-myles-garrett-wants-learn-aaron-donald-after-trade-rams-legend-mulls-nfl-comeback",
-      "source": "Bleacher Report",
-      "ts": 1780669740.0,
-      "published_iso": "2026-06-05T14:29:00+00:00"
+      "id": "https-latimes-com-sports-highschool-story-2026-06-05-prep-talk-69-football-teams-receive-equipment-from-rams",
+      "title": "Prep talk: 69 football teams in LAUSD receive equipment donation from the Rams",
+      "link": "https://latimes.com/sports/highschool/story/2026-06-05/prep-talk-69-football-teams-receive-equipment-from-rams",
+      "source": "LA Times",
+      "ts": 1780632900.0,
+      "published_iso": "2026-06-05T04:15:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-betting-the-rams-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our",
@@ -27,12 +19,12 @@
       "published_iso": "2026-06-04T11:52:00+00:00"
     },
     {
-      "id": "https-therams-com-news-los-angeles-rams-hollywood-park-first-year-steam-education-program",
-      "title": "Los Angeles Rams and Hollywood Park wrap up first year of STEAM Education Program, look to expand in years to come",
-      "link": "https://therams.com/news/los-angeles-rams-hollywood-park-first-year-steam-education-program",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1780362000.0,
-      "published_iso": "2026-06-02T01:00:00+00:00"
+      "id": "https-sports-yahoo-com-nfl-betting-article-super-bowl-61-odds-los-angeles-rams-move-to-clear-super-bowl-favorites-after-",
+      "title": "Super Bowl 61 odds: Los Angeles Rams move to clear Super Bowl favorites after Myles Garrett trade",
+      "link": "https://sports.yahoo.com/nfl/betting/article/super-bowl-61-odds-los-angeles-rams-move-to-clear-super-bowl-favorites-after-myles-garrett-trade-190944730.html",
+      "source": "Yahoo Sports",
+      "ts": 1780318500.0,
+      "published_iso": "2026-06-01T12:55:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-myles-garrett-traded-from-browns-to-rams",
