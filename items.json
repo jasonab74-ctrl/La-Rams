@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-06-06T11:00:52.808258+00:00",
-  "count": 3,
+  "updated_iso": "2026-06-06T12:47:33.227847+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-latimes-com-sports-highschool-story-2026-06-05-prep-talk-69-football-teams-receive-equipment-from-rams",
+      "title": "Prep talk: 69 football teams in LAUSD receive equipment donation from the Rams",
+      "link": "https://latimes.com/sports/highschool/story/2026-06-05/prep-talk-69-football-teams-receive-equipment-from-rams",
+      "source": "LA Times",
+      "ts": 1780632900.0,
+      "published_iso": "2026-06-05T04:15:00+00:00"
+    },
     {
       "id": "https-cbssports-com-nfl-news-betting-the-rams-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our",
       "title": "Betting the Rams in 2026: See how Los Angeles' win total, Super Bowl odds are trending and our best bets",
