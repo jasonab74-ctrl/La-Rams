@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-06-08T22:53:05.736127+00:00",
-  "count": 3,
+  "updated_iso": "2026-06-08T23:55:18.673354+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-therams-com-news-getting-great-people-great-vets-we-can-all-learn-from-chris-shula-excited-about-how-myles-garrett",
+      "title": "'Getting great people, great vets we can all learn from': Chris Shula excited about how Myles Garrett, Trent McDuffie and Jaylen Watson's experiences can shape Rams defense",
+      "link": "https://therams.com/news/getting-great-people-great-vets-we-can-all-learn-from-chris-shula-excited-about-how-myles-garrett-trent-mcduffie-and-jaylen-watson-s-experiences-can-shape-rams-defense",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1780937100.0,
+      "published_iso": "2026-06-08T16:45:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-blockbuster-trade-myles-garrett-221249243-html",
       "title": "Rams blockbuster trade for Myles Garrett comes with unexpected setback",
@@ -9,22 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1780931760.0,
       "published_iso": "2026-06-08T15:16:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-betting-the-rams-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our",
-      "title": "Betting the Rams in 2026: See how Los Angeles' win total, Super Bowl odds are trending and our best bets",
-      "link": "https://cbssports.com/nfl/news/betting-the-rams-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our-best-bets/",
-      "source": "CBS Sports",
-      "ts": 1780573920.0,
-      "published_iso": "2026-06-04T11:52:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-hollywood-park-first-year-steam-education-program",
-      "title": "Los Angeles Rams and Hollywood Park wrap up first year of STEAM Education Program, look to expand in years to come",
-      "link": "https://therams.com/news/los-angeles-rams-hollywood-park-first-year-steam-education-program",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1780362000.0,
-      "published_iso": "2026-06-02T01:00:00+00:00"
     }
   ]
 }
