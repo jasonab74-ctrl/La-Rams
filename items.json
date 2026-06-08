@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2026-06-08T16:31:49.857292+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-06-08T19:11:44.378385+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-bleacherreport-com-articles-25435265-new-myles-garrett-rumors-leak-how-rams-secured-trade-and-browns-lack-serious-",
+      "title": "New Myles Garrett Rumors Leak on How Rams Secured Trade and Browns' Lack of 'Serious' Offers",
+      "link": "https://bleacherreport.com/articles/25435265-new-myles-garrett-rumors-leak-how-rams-secured-trade-and-browns-lack-serious-offers",
+      "source": "Bleacher Report",
+      "ts": 1780899480.0,
+      "published_iso": "2026-06-08T06:18:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-betting-the-rams-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our",
+      "title": "Betting the Rams in 2026: See how Los Angeles' win total, Super Bowl odds are trending and our best bets",
+      "link": "https://cbssports.com/nfl/news/betting-the-rams-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our-best-bets/",
+      "source": "CBS Sports",
+      "ts": 1780573920.0,
+      "published_iso": "2026-06-04T11:52:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-hollywood-park-first-year-steam-education-program",
+      "title": "Los Angeles Rams and Hollywood Park wrap up first year of STEAM Education Program, look to expand in years to come",
+      "link": "https://therams.com/news/los-angeles-rams-hollywood-park-first-year-steam-education-program",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1780362000.0,
+      "published_iso": "2026-06-02T01:00:00+00:00"
+    }
+  ]
 }
