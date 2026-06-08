@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-08T19:11:44.378385+00:00",
-  "count": 3,
+  "updated_iso": "2026-06-08T21:19:04.029762+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-bleacherreport-com-articles-25435265-new-myles-garrett-rumors-leak-how-rams-secured-trade-and-browns-lack-serious-",
@@ -17,14 +17,6 @@
       "source": "CBS Sports",
       "ts": 1780573920.0,
       "published_iso": "2026-06-04T11:52:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-hollywood-park-first-year-steam-education-program",
-      "title": "Los Angeles Rams and Hollywood Park wrap up first year of STEAM Education Program, look to expand in years to come",
-      "link": "https://therams.com/news/los-angeles-rams-hollywood-park-first-year-steam-education-program",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1780362000.0,
-      "published_iso": "2026-06-02T01:00:00+00:00"
     }
   ]
 }
