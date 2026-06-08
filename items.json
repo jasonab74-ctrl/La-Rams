@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-06-08T07:10:11.841862+00:00",
+  "updated_iso": "2026-06-08T12:11:28.494198+00:00",
   "count": 5,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-cowboys-legend-expects-nfl-step-221642849-html",
-      "title": "Cowboys Legend Expects NFL to “Step In” and Stop Aaron Donald From Coming Out of Retirement for Rams",
-      "link": "https://sports.yahoo.com/articles/cowboys-legend-expects-nfl-step-221642849.html",
-      "source": "Yahoo Sports",
-      "ts": 1780850760.0,
-      "published_iso": "2026-06-07T16:46:00+00:00"
-    },
     {
       "id": "https-cbssports-com-nfl-news-betting-the-rams-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our",
       "title": "Betting the Rams in 2026: See how Los Angeles' win total, Super Bowl odds are trending and our best bets",
@@ -25,6 +17,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1780362000.0,
       "published_iso": "2026-06-02T01:00:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-nfl-betting-article-super-bowl-61-odds-los-angeles-rams-move-to-clear-super-bowl-favorites-after-",
+      "title": "Super Bowl 61 odds: Los Angeles Rams move to clear Super Bowl favorites after Myles Garrett trade",
+      "link": "https://sports.yahoo.com/nfl/betting/article/super-bowl-61-odds-los-angeles-rams-move-to-clear-super-bowl-favorites-after-myles-garrett-trade-190944730.html",
+      "source": "Yahoo Sports",
+      "ts": 1780318500.0,
+      "published_iso": "2026-06-01T12:55:00+00:00"
     },
     {
       "id": "https-cbssports-com-nfl-news-myles-garrett-traded-from-browns-to-rams",
