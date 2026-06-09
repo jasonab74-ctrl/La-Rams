@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2026-06-09T09:24:15.992283+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-06-09T12:19:07.358546+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-06-09-rams-rookie-ty-simpson-jokes-hes-probably-annoying-matth",
+      "title": "Rams rookie Ty Simpson jokes he's probably annoying Matthew Stafford",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/06/09/rams-rookie-ty-simpson-jokes-hes-probably-annoying-matthew-stafford/90471194007/",
+      "source": "Rams Wire",
+      "ts": 1780980420.0,
+      "published_iso": "2026-06-09T04:47:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-06-08-mcvay-rams-not-discussing-signing-another-qb-before-seas",
+      "title": "It doesn't sound like the Rams will sign another QB before season",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/06/08/mcvay-rams-not-discussing-signing-another-qb-before-season/90467451007/",
+      "source": "Rams Wire",
+      "ts": 1780942320.0,
+      "published_iso": "2026-06-08T18:12:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-betting-the-rams-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our",
+      "title": "Betting the Rams in 2026: See how Los Angeles' win total, Super Bowl odds are trending and our best bets",
+      "link": "https://cbssports.com/nfl/news/betting-the-rams-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our-best-bets/",
+      "source": "CBS Sports",
+      "ts": 1780573920.0,
+      "published_iso": "2026-06-04T11:52:00+00:00"
+    }
+  ]
 }
