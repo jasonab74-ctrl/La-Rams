@@ -1,30 +1,14 @@
 {
-  "updated_iso": "2026-06-09T17:33:04.361171+00:00",
-  "count": 3,
+  "updated_iso": "2026-06-09T19:51:37.944519+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-bleacherreport-com-articles-25435697-schefter-weighs-aaron-donald-return-amid-latest-rams-rumors-after-myles-garre",
-      "title": "Schefter Weighs In on Aaron Donald Return amid Latest Rams Rumors After Myles Garrett Trade",
-      "link": "https://bleacherreport.com/articles/25435697-schefter-weighs-aaron-donald-return-amid-latest-rams-rumors-after-myles-garrett-trade",
+      "id": "https-bleacherreport-com-articles-25435712-la-rams-left-tackle-alaric-jackson-has-been-arrested-suspicion-felony-domesti",
+      "title": "LA Rams Left Tackle Alaric Jackson Has Been Arrested on Suspicion of Felony Domestic Violence",
+      "link": "https://bleacherreport.com/articles/25435712-la-rams-left-tackle-alaric-jackson-has-been-arrested-suspicion-felony-domestic-violence",
       "source": "Bleacher Report",
-      "ts": 1780999440.0,
-      "published_iso": "2026-06-09T10:04:00+00:00"
-    },
-    {
-      "id": "https-ocregister-com-2026-06-09-rams-alaric-jackson-arrested-on-felony-domestic-violence-charge",
-      "title": "Rams’ Alaric Jackson arrested on felony domestic violence charge",
-      "link": "https://ocregister.com/2026/06/09/rams-alaric-jackson-arrested-on-felony-domestic-violence-charge/",
-      "source": "OC Register",
-      "ts": 1780998900.0,
-      "published_iso": "2026-06-09T09:55:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-made-nfl-210952624-html",
-      "title": "Los Angeles Rams Made ‘NFL’s Best Offseason Move’",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-made-nfl-210952624.html",
-      "source": "Yahoo Sports",
-      "ts": 1780928880.0,
-      "published_iso": "2026-06-08T14:28:00+00:00"
+      "ts": 1781001300.0,
+      "published_iso": "2026-06-09T10:35:00+00:00"
     }
   ]
 }
