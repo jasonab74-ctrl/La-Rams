@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-06-09T15:30:20.234793+00:00",
+  "updated_iso": "2026-06-09T17:33:04.361171+00:00",
   "count": 3,
   "items": [
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-06-09-rams-rookie-ty-simpson-jokes-hes-probably-annoying-matth",
-      "title": "Rams rookie Ty Simpson jokes he's probably annoying Matthew Stafford",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/06/09/rams-rookie-ty-simpson-jokes-hes-probably-annoying-matthew-stafford/90471194007/",
-      "source": "Rams Wire",
-      "ts": 1780980420.0,
-      "published_iso": "2026-06-09T04:47:00+00:00"
+      "id": "https-bleacherreport-com-articles-25435697-schefter-weighs-aaron-donald-return-amid-latest-rams-rumors-after-myles-garre",
+      "title": "Schefter Weighs In on Aaron Donald Return amid Latest Rams Rumors After Myles Garrett Trade",
+      "link": "https://bleacherreport.com/articles/25435697-schefter-weighs-aaron-donald-return-amid-latest-rams-rumors-after-myles-garrett-trade",
+      "source": "Bleacher Report",
+      "ts": 1780999440.0,
+      "published_iso": "2026-06-09T10:04:00+00:00"
+    },
+    {
+      "id": "https-ocregister-com-2026-06-09-rams-alaric-jackson-arrested-on-felony-domestic-violence-charge",
+      "title": "Rams’ Alaric Jackson arrested on felony domestic violence charge",
+      "link": "https://ocregister.com/2026/06/09/rams-alaric-jackson-arrested-on-felony-domestic-violence-charge/",
+      "source": "OC Register",
+      "ts": 1780998900.0,
+      "published_iso": "2026-06-09T09:55:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-made-nfl-210952624-html",
@@ -17,14 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1780928880.0,
       "published_iso": "2026-06-08T14:28:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-betting-the-rams-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our",
-      "title": "Betting the Rams in 2026: See how Los Angeles' win total, Super Bowl odds are trending and our best bets",
-      "link": "https://cbssports.com/nfl/news/betting-the-rams-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our-best-bets/",
-      "source": "CBS Sports",
-      "ts": 1780573920.0,
-      "published_iso": "2026-06-04T11:52:00+00:00"
     }
   ]
 }
