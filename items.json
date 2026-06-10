@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-10T16:11:01.875997+00:00",
-  "count": 2,
+  "updated_iso": "2026-06-10T18:44:59.454074+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-bleacherreport-com-articles-25435945-cardinals-mack-wilson-makes-bold-claim-trending-video-after-rams-myles-garret",
@@ -9,14 +9,6 @@
       "source": "Bleacher Report",
       "ts": 1781075400.0,
       "published_iso": "2026-06-10T07:10:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-06-10-new-stat-shows-just-how-much-puka-nacua-means-to-rams-of",
-      "title": "New stat shows just how much Puka Nacua means to Rams offense",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/06/10/new-stat-shows-just-how-much-puka-nacua-means-to-rams-offense/90484244007/",
-      "source": "Rams Wire",
-      "ts": 1781073900.0,
-      "published_iso": "2026-06-10T06:45:00+00:00"
     }
   ]
 }
