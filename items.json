@@ -1,5 +1,5 @@
 {
-  "updated_iso": "2026-06-10T21:20:52.339037+00:00",
+  "updated_iso": "2026-06-10T23:01:37.915340+00:00",
   "count": 2,
   "items": [
     {
@@ -11,12 +11,12 @@
       "published_iso": "2026-06-10T13:08:00+00:00"
     },
     {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1733233920.0,
-      "published_iso": "2024-12-03T13:52:00+00:00"
+      "id": "https-bleacherreport-com-los-angeles-rams",
+      "title": "Los Angeles Rams",
+      "link": "https://bleacherreport.com/los-angeles-rams",
+      "source": "Bleacher Report",
+      "ts": 1724087760.0,
+      "published_iso": "2024-08-19T17:16:00+00:00"
     }
   ]
 }
