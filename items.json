@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-06-10T18:44:59.454074+00:00",
-  "count": 1,
+  "updated_iso": "2026-06-10T21:20:52.339037+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-bleacherreport-com-articles-25435945-cardinals-mack-wilson-makes-bold-claim-trending-video-after-rams-myles-garret",
-      "title": "Cardinals' Mack Wilson Makes Bold Claim in Trending Video After Rams' Myles Garrett Trade",
-      "link": "https://bleacherreport.com/articles/25435945-cardinals-mack-wilson-makes-bold-claim-trending-video-after-rams-myles-garrett-trade",
-      "source": "Bleacher Report",
-      "ts": 1781075400.0,
-      "published_iso": "2026-06-10T07:10:00+00:00"
+      "id": "https-therams-com-news-trent-mcduffie-enjoying-rams-environment-proximity-to-home-as-he-gets-settled-with-new-team",
+      "title": "Trent McDuffie enjoying Rams' environment, proximity to home as he gets settled with new team",
+      "link": "https://therams.com/news/trent-mcduffie-enjoying-rams-environment-proximity-to-home-as-he-gets-settled-with-new-team",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1781096880.0,
+      "published_iso": "2026-06-10T13:08:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1733233920.0,
+      "published_iso": "2024-12-03T13:52:00+00:00"
     }
   ]
 }
