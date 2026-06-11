@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-06-11T01:43:53.686580+00:00",
-  "count": 2,
+  "updated_iso": "2026-06-11T06:29:37.804236+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-nfl-com-news-rams-lt-alaric-jackson-arrested-suspicion-felony-domestic-violence",
+      "title": "Rams LT Alaric Jackson arrested on suspicion of felony domestic violence",
+      "link": "https://nfl.com/news/rams-lt-alaric-jackson-arrested-suspicion-felony-domestic-violence",
+      "source": "NFL.com",
+      "ts": 1780994160.0,
+      "published_iso": "2026-06-09T08:36:00+00:00"
+    },
     {
       "id": "https-cbssports-com-nfl-news-betting-the-rams-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our",
       "title": "Betting the Rams in 2026: See how Los Angeles' win total, Super Bowl odds are trending and our best bets",
