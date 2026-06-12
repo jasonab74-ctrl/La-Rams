@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-06-12T09:38:50.621206+00:00",
-  "count": 2,
+  "updated_iso": "2026-06-12T12:45:39.056585+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-patriots-predicted-show-interest-rams-004339604-html",
-      "title": "Patriots predicted to show interest in Rams $22 million cut candidate",
-      "link": "https://sports.yahoo.com/articles/patriots-predicted-show-interest-rams-004339604.html",
+      "id": "https-sports-yahoo-com-articles-where-does-los-angeles-rams-103318401-html",
+      "title": "Where Does Los Angeles Rams’ Defense Rank After Myles Garrett Trade?",
+      "link": "https://sports.yahoo.com/articles/where-does-los-angeles-rams-103318401.html",
       "source": "Yahoo Sports",
-      "ts": 1781200380.0,
-      "published_iso": "2026-06-11T17:53:00+00:00"
+      "ts": 1780890420.0,
+      "published_iso": "2026-06-08T03:47:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-betting-the-rams-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our",
+      "title": "Betting the Rams in 2026: See how Los Angeles' win total, Super Bowl odds are trending and our best bets",
+      "link": "https://cbssports.com/nfl/news/betting-the-rams-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our-best-bets/",
+      "source": "CBS Sports",
+      "ts": 1780573920.0,
+      "published_iso": "2026-06-04T11:52:00+00:00"
     },
     {
       "id": "https-foxsports-com-nfl-los-angeles-rams-team",
