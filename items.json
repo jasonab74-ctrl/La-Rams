@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-13T15:14:30.347789+00:00",
-  "count": 2,
+  "updated_iso": "2026-06-13T16:52:50.140650+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-happened-sofi-stadium-why-rams-003021636-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1781286120.0,
       "published_iso": "2026-06-12T17:42:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-05-25-los-angeles-rams-schedule-wallpaper-2026-download-902013",
-      "title": "Los Angeles Rams 2026 schedule: Downloadable wallpapers",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/05/25/los-angeles-rams-schedule-wallpaper-2026-download/90201349007/",
-      "source": "Rams Wire",
-      "ts": 1779705900.0,
-      "published_iso": "2026-05-25T10:45:00+00:00"
     }
   ]
 }
