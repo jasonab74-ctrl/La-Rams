@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-06-15T07:41:56.576174+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-06-15T13:42:42.327887+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-happened-sofi-stadium-why-rams-003021636-html",
+      "title": "What Happened to SoFi Stadium? Why the Rams Were Forced to Rename It Los Angeles Stadium During World Cup",
+      "link": "https://sports.yahoo.com/articles/happened-sofi-stadium-why-rams-003021636.html",
+      "source": "Yahoo Sports",
+      "ts": 1781286120.0,
+      "published_iso": "2026-06-12T17:42:00+00:00"
+    }
+  ]
 }
