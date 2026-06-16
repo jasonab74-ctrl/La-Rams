@@ -1,5 +1,38 @@
 {
-  "updated_iso": "2026-06-16T13:08:24.955718+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-06-16T18:12:22.611185+00:00",
+  "count": 4,
+  "items": [
+    {
+      "id": "https-therams-com-news-five-things-learned-from-2026-rams-otas",
+      "title": "Five things learned from 2026 Rams OTAs",
+      "link": "https://therams.com/news/five-things-learned-from-2026-rams-otas",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1781607000.0,
+      "published_iso": "2026-06-16T10:50:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25441324-nfl-coach-says-myles-garrett-trade-isnt-big-rams-trent-mcduffie-jaylen-watson",
+      "title": "NFL Coach Says Myles Garrett Trade 'Isn't as Big' as Rams' Trent McDuffie, Jaylen Watson Additions",
+      "link": "https://bleacherreport.com/articles/25441324-nfl-coach-says-myles-garrett-trade-isnt-big-rams-trent-mcduffie-jaylen-watson-additions",
+      "source": "Bleacher Report",
+      "ts": 1781601480.0,
+      "published_iso": "2026-06-16T09:18:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-closing-2-nfl-time-140000464-html",
+      "title": "Rams closing in on 2 NFL all-time franchise win milestones",
+      "link": "https://sports.yahoo.com/articles/rams-closing-2-nfl-time-140000464.html",
+      "source": "Yahoo Sports",
+      "ts": 1781507700.0,
+      "published_iso": "2026-06-15T07:15:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-betting-the-rams-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our",
+      "title": "Betting the Rams in 2026: See how Los Angeles' win total, Super Bowl odds are trending and our best bets",
+      "link": "https://cbssports.com/nfl/news/betting-the-rams-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our-best-bets/",
+      "source": "CBS Sports",
+      "ts": 1780573920.0,
+      "published_iso": "2026-06-04T11:52:00+00:00"
+    }
+  ]
 }
