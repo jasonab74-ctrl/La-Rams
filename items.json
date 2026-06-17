@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-06-17T05:20:32.890560+00:00",
-  "count": 3,
+  "updated_iso": "2026-06-17T10:10:35.849538+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-06-16-rams-chris-shula-defense-myles-garrett-trent-mcduffie-90",
+      "title": "Why Chris Shula will take Rams defense to the next level in 2026",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/06/16/rams-chris-shula-defense-myles-garrett-trent-mcduffie/90575322007/",
+      "source": "Rams Wire",
+      "ts": 1781612100.0,
+      "published_iso": "2026-06-16T12:15:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-closing-2-nfl-time-140000464-html",
       "title": "Rams closing in on 2 NFL all-time franchise win milestones",
@@ -9,22 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1781507700.0,
       "published_iso": "2026-06-15T07:15:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-betting-the-rams-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our",
-      "title": "Betting the Rams in 2026: See how Los Angeles' win total, Super Bowl odds are trending and our best bets",
-      "link": "https://cbssports.com/nfl/news/betting-the-rams-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our-best-bets/",
-      "source": "CBS Sports",
-      "ts": 1780573920.0,
-      "published_iso": "2026-06-04T11:52:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-hollywood-park-first-year-steam-education-program",
-      "title": "Los Angeles Rams and Hollywood Park wrap up first year of STEAM Education Program, look to expand in years to come",
-      "link": "https://therams.com/news/los-angeles-rams-hollywood-park-first-year-steam-education-program",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1780362000.0,
-      "published_iso": "2026-06-02T01:00:00+00:00"
     }
   ]
 }
