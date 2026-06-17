@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-06-17T21:49:19.324491+00:00",
-  "count": 4,
+  "updated_iso": "2026-06-17T23:12:55.558892+00:00",
+  "count": 2,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-rams-prioritize-steve-avila-extension-210215488-html",
-      "title": "Rams Need to Prioritize Steve Avila Extension This Offseason",
-      "link": "https://sports.yahoo.com/articles/rams-prioritize-steve-avila-extension-210215488.html",
-      "source": "Yahoo Sports",
-      "ts": 1781706780.0,
-      "published_iso": "2026-06-17T14:33:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-3-los-angeles-rams-ota-202329369-html",
       "title": "3 Los Angeles Rams OTA Questions That Need Answers Ahead of Training Camp",
@@ -19,20 +11,12 @@
       "published_iso": "2026-06-17T13:34:00+00:00"
     },
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-06-17-rams-waive-udfa-lineman-chad-lindberg-with-injury-settle",
-      "title": "Rams waive UDFA rookie with injury settlement",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/06/17/rams-waive-udfa-lineman-chad-lindberg-with-injury-settlement/90594089007/",
-      "source": "Rams Wire",
-      "ts": 1781699220.0,
-      "published_iso": "2026-06-17T12:27:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1733233920.0,
-      "published_iso": "2024-12-03T13:52:00+00:00"
+      "id": "https-sports-yahoo-com-articles-rams-closing-2-nfl-time-140000464-html",
+      "title": "Rams closing in on 2 NFL all-time franchise win milestones",
+      "link": "https://sports.yahoo.com/articles/rams-closing-2-nfl-time-140000464.html",
+      "source": "Yahoo Sports",
+      "ts": 1781507700.0,
+      "published_iso": "2026-06-15T07:15:00+00:00"
     }
   ]
 }
