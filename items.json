@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-16T22:59:08.839623+00:00",
-  "count": 4,
+  "updated_iso": "2026-06-17T00:13:40.262476+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-trade-myles-garrett-given-220504202-html",
@@ -19,20 +19,12 @@
       "published_iso": "2026-06-16T12:15:00+00:00"
     },
     {
-      "id": "https-bleacherreport-com-articles-25441324-nfl-coach-says-myles-garrett-trade-isnt-big-rams-trent-mcduffie-jaylen-watson",
-      "title": "NFL Coach Says Myles Garrett Trade 'Isn't as Big' as Rams' Trent McDuffie, Jaylen Watson Additions",
-      "link": "https://bleacherreport.com/articles/25441324-nfl-coach-says-myles-garrett-trade-isnt-big-rams-trent-mcduffie-jaylen-watson-additions",
-      "source": "Bleacher Report",
-      "ts": 1781601480.0,
-      "published_iso": "2026-06-16T09:18:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-betting-the-rams-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our",
-      "title": "Betting the Rams in 2026: See how Los Angeles' win total, Super Bowl odds are trending and our best bets",
-      "link": "https://cbssports.com/nfl/news/betting-the-rams-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our-best-bets/",
-      "source": "CBS Sports",
-      "ts": 1780573920.0,
-      "published_iso": "2026-06-04T11:52:00+00:00"
+      "id": "https-therams-com-news-los-angeles-rams-hollywood-park-first-year-steam-education-program",
+      "title": "Los Angeles Rams and Hollywood Park wrap up first year of STEAM Education Program, look to expand in years to come",
+      "link": "https://therams.com/news/los-angeles-rams-hollywood-park-first-year-steam-education-program",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1780362000.0,
+      "published_iso": "2026-06-02T01:00:00+00:00"
     }
   ]
 }
