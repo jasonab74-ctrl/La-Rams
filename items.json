@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-06-18T20:03:50.082984+00:00",
-  "count": 3,
+  "updated_iso": "2026-06-18T22:27:22.876277+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-seahawks-players-fun-trolling-rams-180004190-html",
+      "title": "Seahawks Players Have Fun Trolling Rams and Jared Verse",
+      "link": "https://sports.yahoo.com/articles/seahawks-players-fun-trolling-rams-180004190.html",
+      "source": "Yahoo Sports",
+      "ts": 1781795460.0,
+      "published_iso": "2026-06-18T15:11:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-3-los-angeles-rams-ota-202329369-html",
       "title": "3 Los Angeles Rams OTA Questions That Need Answers Ahead of Training Camp",
@@ -9,22 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1781703240.0,
       "published_iso": "2026-06-17T13:34:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-betting-the-rams-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our",
-      "title": "Betting the Rams in 2026: See how Los Angeles' win total, Super Bowl odds are trending and our best bets",
-      "link": "https://cbssports.com/nfl/news/betting-the-rams-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our-best-bets/",
-      "source": "CBS Sports",
-      "ts": 1780573920.0,
-      "published_iso": "2026-06-04T11:52:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1733233920.0,
-      "published_iso": "2024-12-03T13:52:00+00:00"
     }
   ]
 }
