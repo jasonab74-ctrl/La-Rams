@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-06-18T14:25:53.304014+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-06-18T17:37:50.160298+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-qb-stetson-bennett-showing-161811254-html",
+      "title": "Rams QB Stetson Bennett Showing ’Tremendous Growth’: Don’t Freak Out When He Beats Ty Simpson for the QB2 Job",
+      "link": "https://sports.yahoo.com/articles/rams-qb-stetson-bennett-showing-161811254.html",
+      "source": "Yahoo Sports",
+      "ts": 1781775900.0,
+      "published_iso": "2026-06-18T09:45:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-opt-restructure-key-players-163000234-html",
+      "title": "Should the Rams opt to restructure key players in 2026?",
+      "link": "https://sports.yahoo.com/articles/rams-opt-restructure-key-players-163000234.html",
+      "source": "Yahoo Sports",
+      "ts": 1781775360.0,
+      "published_iso": "2026-06-18T09:36:00+00:00"
+    }
+  ]
 }
