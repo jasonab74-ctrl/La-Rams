@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-06-19T20:09:19.376104+00:00",
+  "updated_iso": "2026-06-19T21:39:21.910669+00:00",
   "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-exclusive-rams-legend-andrew-whitworth-194937267-html",
+      "title": "EXCLUSIVE: Rams Legend Andrew Whitworth on Myles Garrett Trade, Aaron Donald Rumors, Super Bowl Expectations, More",
+      "link": "https://sports.yahoo.com/articles/exclusive-rams-legend-andrew-whitworth-194937267.html",
+      "source": "Yahoo Sports",
+      "ts": 1781874720.0,
+      "published_iso": "2026-06-19T13:12:00+00:00"
+    },
     {
       "id": "https-bleacherreport-com-articles-25443030-kam-curl-hypes-rams-defense-after-myles-garrett-trade-talks-aaron-donald-rumo",
       "title": "Kam Curl Hypes Rams' Defense After Myles Garrett Trade, Talks Aaron Donald Rumors in Videos",
@@ -25,14 +33,6 @@
       "source": "Rams Wire",
       "ts": 1781529420.0,
       "published_iso": "2026-06-15T13:17:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-closing-2-nfl-time-140000464-html",
-      "title": "Rams closing in on 2 NFL all-time franchise win milestones",
-      "link": "https://sports.yahoo.com/articles/rams-closing-2-nfl-time-140000464.html",
-      "source": "Yahoo Sports",
-      "ts": 1781507700.0,
-      "published_iso": "2026-06-15T07:15:00+00:00"
     }
   ]
 }
