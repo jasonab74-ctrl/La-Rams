@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-19T23:55:36.487147+00:00",
-  "count": 3,
+  "updated_iso": "2026-06-20T02:05:09.547273+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-bleacherreport-com-articles-25443030-kam-curl-hypes-rams-defense-after-myles-garrett-trade-talks-aaron-donald-rumo",
@@ -17,6 +17,14 @@
       "source": "Yahoo Sports",
       "ts": 1781703240.0,
       "published_iso": "2026-06-17T13:34:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-06-15-rams-roster-projection-53-man-otas-90556049007",
+      "title": "Rams 53-man roster projection after OTAs",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/06/15/rams-roster-projection-53-man-otas/90556049007/",
+      "source": "Rams Wire",
+      "ts": 1781529420.0,
+      "published_iso": "2026-06-15T13:17:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-rams-closing-2-nfl-time-140000464-html",
