@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-21T21:48:20.322636+00:00",
-  "count": 4,
+  "updated_iso": "2026-06-21T22:56:22.607782+00:00",
+  "count": 5,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-superstar-myles-163154733-html",
@@ -17,6 +17,14 @@
       "source": "Yahoo Sports",
       "ts": 1781703240.0,
       "published_iso": "2026-06-17T13:34:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-betting-the-rams-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our",
+      "title": "Betting the Rams in 2026: See how Los Angeles' win total, Super Bowl odds are trending and our best bets",
+      "link": "https://cbssports.com/nfl/news/betting-the-rams-in-2026-see-how-los-angeles-win-total-super-bowl-odds-are-trending-and-our-best-bets/",
+      "source": "CBS Sports",
+      "ts": 1780573920.0,
+      "published_iso": "2026-06-04T11:52:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-05-25-los-angeles-rams-schedule-wallpaper-2026-download-902013",
