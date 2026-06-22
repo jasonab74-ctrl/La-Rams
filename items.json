@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-06-22T00:02:57.015226+00:00",
-  "count": 4,
+  "updated_iso": "2026-06-22T05:36:38.201814+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-news-no-felony-charges-042610991-html",
+      "title": "Rams news: No felony charges, potential breakout player and more",
+      "link": "https://sports.yahoo.com/articles/rams-news-no-felony-charges-042610991.html",
+      "source": "Yahoo Sports",
+      "ts": 1782078300.0,
+      "published_iso": "2026-06-21T21:45:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-superstar-myles-163154733-html",
       "title": "Los Angeles Rams Superstar Myles Garrett Pays Visit to USC Trojans",
@@ -11,28 +19,12 @@
       "published_iso": "2026-06-20T13:48:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-3-los-angeles-rams-ota-202329369-html",
-      "title": "3 Los Angeles Rams OTA Questions That Need Answers Ahead of Training Camp",
-      "link": "https://sports.yahoo.com/articles/3-los-angeles-rams-ota-202329369.html",
-      "source": "Yahoo Sports",
-      "ts": 1781703240.0,
-      "published_iso": "2026-06-17T13:34:00+00:00"
-    },
-    {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-06-15-rams-roster-projection-53-man-otas-90556049007",
       "title": "Rams 53-man roster projection after OTAs",
       "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/06/15/rams-roster-projection-53-man-otas/90556049007/",
       "source": "Rams Wire",
       "ts": 1781529420.0,
       "published_iso": "2026-06-15T13:17:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1733233920.0,
-      "published_iso": "2024-12-03T13:52:00+00:00"
     }
   ]
 }
