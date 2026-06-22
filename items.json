@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-06-22T16:07:56.130814+00:00",
-  "count": 3,
+  "updated_iso": "2026-06-22T19:51:19.540680+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-06-22-rams-joint-practice-cowboys-saints-dates-schedule-906443",
+      "title": "Dates for Rams' joint practices with Cowboys and Saints officially set",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/06/22/rams-joint-practice-cowboys-saints-dates-schedule/90644389007/",
+      "source": "Rams Wire",
+      "ts": 1782121260.0,
+      "published_iso": "2026-06-22T09:41:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-superstar-myles-163154733-html",
       "title": "Los Angeles Rams Superstar Myles Garrett Pays Visit to USC Trojans",
@@ -9,22 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1781963280.0,
       "published_iso": "2026-06-20T13:48:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-3-los-angeles-rams-ota-202329369-html",
-      "title": "3 Los Angeles Rams OTA Questions That Need Answers Ahead of Training Camp",
-      "link": "https://sports.yahoo.com/articles/3-los-angeles-rams-ota-202329369.html",
-      "source": "Yahoo Sports",
-      "ts": 1781703240.0,
-      "published_iso": "2026-06-17T13:34:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1733233920.0,
-      "published_iso": "2024-12-03T13:52:00+00:00"
     }
   ]
 }
