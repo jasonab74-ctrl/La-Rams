@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-06-25T18:28:42.896254+00:00",
-  "count": 3,
+  "updated_iso": "2026-06-25T20:29:21.740336+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-calls-uncle-rams-matthew-stafford-165954948-html",
-      "title": "“He Calls Me Uncle”: Rams’ Matthew Stafford Opens Up on Relationship With Godson Dylan Raiola",
-      "link": "https://sports.yahoo.com/articles/calls-uncle-rams-matthew-stafford-165954948.html",
+      "id": "https-sports-yahoo-com-articles-rams-g-steve-avila-no-141935793-html",
+      "title": "Rams G Steve Avila: No. 12 Player Faces Crucial Contract Year",
+      "link": "https://sports.yahoo.com/articles/rams-g-steve-avila-no-141935793.html",
       "source": "Yahoo Sports",
-      "ts": 1782384480.0,
-      "published_iso": "2026-06-25T10:48:00+00:00"
+      "ts": 1782393420.0,
+      "published_iso": "2026-06-25T13:17:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-rams-quentin-lake-details-unique-164552314-html",
@@ -17,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1782383580.0,
       "published_iso": "2026-06-25T10:33:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-los-angeles-rams",
-      "title": "Los Angeles Rams",
-      "link": "https://bleacherreport.com/los-angeles-rams",
-      "source": "Bleacher Report",
-      "ts": 1782382140.0,
-      "published_iso": "2026-06-25T10:09:00+00:00"
     }
   ]
 }
