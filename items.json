@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-06-26T12:04:21.601609+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-06-26T15:06:21.189629+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-puka-nacua-turns-heads-rams-045543799-html",
+      "title": "Puka Nacua Turns Heads With Rams QB Amid Strong Support",
+      "link": "https://sports.yahoo.com/articles/puka-nacua-turns-heads-rams-045543799.html",
+      "source": "Yahoo Sports",
+      "ts": 1782455340.0,
+      "published_iso": "2026-06-26T06:29:00+00:00"
+    }
+  ]
 }
