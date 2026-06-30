@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-06-30T01:58:17.399802+00:00",
-  "count": 2,
+  "updated_iso": "2026-06-30T06:06:57.902245+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-draft-class-2025-check-rams-014846791-html",
-      "title": "Draft class 2025 check-in: Rams betting big on Terrance Ferguson",
-      "link": "https://sports.yahoo.com/articles/draft-class-2025-check-rams-014846791.html",
+      "id": "https-sports-yahoo-com-articles-rams-training-camp-primer-offensive-234020957-html",
+      "title": "Rams Training Camp Primer: Offensive Line",
+      "link": "https://sports.yahoo.com/articles/rams-training-camp-primer-offensive-234020957.html",
       "source": "Yahoo Sports",
-      "ts": 1782759420.0,
-      "published_iso": "2026-06-29T18:57:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-huge-offseason-among-nfl-003345148-html",
-      "title": "Rams Huge Offseason Among NFL’s Best, Analyst Says",
-      "link": "https://sports.yahoo.com/articles/rams-huge-offseason-among-nfl-003345148.html",
-      "source": "Yahoo Sports",
-      "ts": 1782755520.0,
-      "published_iso": "2026-06-29T17:52:00+00:00"
+      "ts": 1782756000.0,
+      "published_iso": "2026-06-29T18:00:00+00:00"
     }
   ]
 }
