@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-07-01T18:19:38.311571+00:00",
-  "count": 2,
+  "updated_iso": "2026-07-01T20:19:28.808947+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-offseason-hit-dissappointing-grade-170702890-html",
-      "title": "Rams Offseason Hit With Dissappointing Grade",
-      "link": "https://sports.yahoo.com/articles/rams-offseason-hit-dissappointing-grade-170702890.html",
-      "source": "Yahoo Sports",
-      "ts": 1782816420.0,
-      "published_iso": "2026-06-30T10:47:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-key-los-angeles-rams-watch-034231694-html",
-      "title": "These Key Los Angeles Rams Are Who To Watch At Training Camp",
-      "link": "https://sports.yahoo.com/articles/key-los-angeles-rams-watch-034231694.html",
-      "source": "Yahoo Sports",
-      "ts": 1782311580.0,
-      "published_iso": "2026-06-24T14:33:00+00:00"
+      "id": "https-bleacherreport-com-los-angeles-rams",
+      "title": "Los Angeles Rams",
+      "link": "https://bleacherreport.com/los-angeles-rams",
+      "source": "Bleacher Report",
+      "ts": 1724087760.0,
+      "published_iso": "2024-08-19T17:16:00+00:00"
     }
   ]
 }
