@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-01T10:35:30.458694+00:00",
-  "count": 2,
+  "updated_iso": "2026-07-01T13:28:56.445711+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-offseason-hit-dissappointing-grade-170702890-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1782816420.0,
       "published_iso": "2026-06-30T10:47:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-key-los-angeles-rams-watch-034231694-html",
-      "title": "These Key Los Angeles Rams Are Who To Watch At Training Camp",
-      "link": "https://sports.yahoo.com/articles/key-los-angeles-rams-watch-034231694.html",
-      "source": "Yahoo Sports",
-      "ts": 1782311580.0,
-      "published_iso": "2026-06-24T14:33:00+00:00"
     }
   ]
 }
