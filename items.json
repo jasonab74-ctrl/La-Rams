@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-07-02T15:01:23.273768+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-07-02T17:06:47.859041+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-byron-young-voted-nfl-144359702-html",
+      "title": "Rams Byron Young Voted to NFL Top 100 Players List",
+      "link": "https://sports.yahoo.com/articles/rams-byron-young-voted-nfl-144359702.html",
+      "source": "Yahoo Sports",
+      "ts": 1782980100.0,
+      "published_iso": "2026-07-02T08:15:00+00:00"
+    }
+  ]
 }
