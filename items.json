@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-07-03T17:07:47.226081+00:00",
-  "count": 1,
+  "updated_iso": "2026-07-03T18:43:00.557054+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rip-brother-prayers-pour-nfl-213418836-html",
-      "title": "“RIP, My Brother”: Prayers Pour in from NFL Community as Rams Legend Passes Away at 68",
-      "link": "https://sports.yahoo.com/articles/rip-brother-prayers-pour-nfl-213418836.html",
+      "id": "https-sports-yahoo-com-articles-seahawks-fans-laughing-rams-not-130007699-html",
+      "title": "Seahawks fans would be laughing at the Rams if not for the Myles Garrett trade",
+      "link": "https://sports.yahoo.com/articles/seahawks-fans-laughing-rams-not-130007699.html",
       "source": "Yahoo Sports",
-      "ts": 1783011120.0,
-      "published_iso": "2026-07-02T16:52:00+00:00"
+      "ts": 1783074420.0,
+      "published_iso": "2026-07-03T10:27:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-career-backup-rams-force-ty-151031417-html",
+      "title": "“He’s a Career Backup”: Rams Would Force Ty Simpson Into QB1 Only to Justify Their Draft Blunder, Says Ex-NFL GM",
+      "link": "https://sports.yahoo.com/articles/career-backup-rams-force-ty-151031417.html",
+      "source": "Yahoo Sports",
+      "ts": 1783069140.0,
+      "published_iso": "2026-07-03T08:59:00+00:00"
     }
   ]
 }
