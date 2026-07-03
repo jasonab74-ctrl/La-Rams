@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-07-02T23:52:31.877339+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-07-03T01:27:54.049529+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-latimes-com-sports-rams-story-2026-07-02-leroy-irvin-dies-obituary-rams-punt-return-record-cornerback",
+      "title": "LeRoy Irvin, former Rams cornerback who holds NFL punt return record, dies at 68",
+      "link": "https://latimes.com/sports/rams/story/2026-07-02/leroy-irvin-dies-obituary-rams-punt-return-record-cornerback",
+      "source": "LA Times",
+      "ts": 1783006980.0,
+      "published_iso": "2026-07-02T15:43:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-legend-leroy-161910801-html",
+      "title": "Los Angeles Rams legend LeRoy Irvin dead at 68",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-legend-leroy-161910801.html",
+      "source": "Yahoo Sports",
+      "ts": 1782988440.0,
+      "published_iso": "2026-07-02T10:34:00+00:00"
+    }
+  ]
 }
