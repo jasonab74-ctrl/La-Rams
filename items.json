@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-07-03T13:17:03.991067+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-07-03T15:30:43.255309+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-leroy-irvin-georgia-native-set-145805107-html",
+      "title": "LeRoy Irvin, Georgia native who set NFL punting record with Los Angeles Rams, dies",
+      "link": "https://sports.yahoo.com/articles/leroy-irvin-georgia-native-set-145805107.html",
+      "source": "Yahoo Sports",
+      "ts": 1783065720.0,
+      "published_iso": "2026-07-03T08:02:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rip-brother-prayers-pour-nfl-213418836-html",
+      "title": "“RIP, My Brother”: Prayers Pour in from NFL Community as Rams Legend Passes Away at 68",
+      "link": "https://sports.yahoo.com/articles/rip-brother-prayers-pour-nfl-213418836.html",
+      "source": "Yahoo Sports",
+      "ts": 1783011120.0,
+      "published_iso": "2026-07-02T16:52:00+00:00"
+    }
+  ]
 }
