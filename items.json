@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-07-03T23:52:48.650561+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-07-04T01:27:26.145646+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-ex-nfl-gm-blasts-rams-225039622-html",
+      "title": "Ex-NFL GM blasts Rams QB Ty Simpson’s future",
+      "link": "https://sports.yahoo.com/articles/ex-nfl-gm-blasts-rams-225039622.html",
+      "source": "Yahoo Sports",
+      "ts": 1783096020.0,
+      "published_iso": "2026-07-03T16:27:00+00:00"
+    }
+  ]
 }
