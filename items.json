@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-07-04T12:52:46.553487+00:00",
+  "updated_iso": "2026-07-04T14:20:54.221484+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-aaron-donald-fuels-speculation-exciting-121044858-html",
+      "title": "Aaron Donald Fuels Speculation With Exciting Comment About Potential Rams Pairing With Myles Garrett",
+      "link": "https://sports.yahoo.com/articles/aaron-donald-fuels-speculation-exciting-121044858.html",
+      "source": "Yahoo Sports",
+      "ts": 1783148280.0,
+      "published_iso": "2026-07-04T06:58:00+00:00"
+    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-07-04-rams-keep-puka-nacua-in-kobie-turner-in-full-nfl-re-draf",
       "title": "Rams keep two of their own stars in full-NFL re-draft",
@@ -9,14 +17,6 @@
       "source": "Rams Wire",
       "ts": 1783141260.0,
       "published_iso": "2026-07-04T05:01:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-could-stick-division-rival-185635325-html",
-      "title": "Rams could stick it to division rival by making proposed free agent signing that could round out a Super Bowl-caliber offense",
-      "link": "https://sports.yahoo.com/articles/rams-could-stick-division-rival-185635325.html",
-      "source": "Yahoo Sports",
-      "ts": 1783082400.0,
-      "published_iso": "2026-07-03T12:40:00+00:00"
     }
   ]
 }
