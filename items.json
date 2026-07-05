@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-05T05:14:01.597689+00:00",
-  "count": 2,
+  "updated_iso": "2026-07-05T08:21:43.245396+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-training-camp-primer-linebackers-170536484-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1783162080.0,
       "published_iso": "2026-07-04T10:48:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-07-04-rams-keep-puka-nacua-in-kobie-turner-in-full-nfl-re-draf",
-      "title": "Rams keep two of their own stars in full-NFL re-draft",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/07/04/rams-keep-puka-nacua-in-kobie-turner-in-full-nfl-re-draft/90781808007/",
-      "source": "Rams Wire",
-      "ts": 1783141260.0,
-      "published_iso": "2026-07-04T05:01:00+00:00"
     }
   ]
 }
