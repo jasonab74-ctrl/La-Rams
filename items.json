@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-07-07T16:28:52.177896+00:00",
-  "count": 3,
+  "updated_iso": "2026-07-07T18:27:40.129756+00:00",
+  "count": 1,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-d-love-him-back-nfl-140530866-html",
-      "title": "‘They’d Love To Have Him Back’ — NFL Insider Dissects Aaron Donald’s Cryptic Tease Amid Rams Comeback Rumors",
-      "link": "https://sports.yahoo.com/articles/d-love-him-back-nfl-140530866.html",
-      "source": "Yahoo Sports",
-      "ts": 1783408560.0,
-      "published_iso": "2026-07-07T07:16:00+00:00"
-    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-07-07-rams-espn-region-all-star-teams-nfl-90824726007",
       "title": "10 Rams players land on ESPN's regional all-star teams",
@@ -17,14 +9,6 @@
       "source": "Rams Wire",
       "ts": 1783402800.0,
       "published_iso": "2026-07-07T05:40:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1746525480.0,
-      "published_iso": "2025-05-06T09:58:00+00:00"
     }
   ]
 }
