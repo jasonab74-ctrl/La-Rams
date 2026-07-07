@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-07-06T23:54:41.510392+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-07-07T01:45:46.637121+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1746525480.0,
+      "published_iso": "2025-05-06T09:58:00+00:00"
+    }
+  ]
 }
