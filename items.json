@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-08T18:51:15.264485+00:00",
-  "count": 1,
+  "updated_iso": "2026-07-08T20:14:17.100450+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-myles-garrett-receives-consensus-163730456-html",
@@ -9,6 +9,22 @@
       "source": "Yahoo Sports",
       "ts": 1783507440.0,
       "published_iso": "2026-07-08T10:44:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-myles-garrett-receives-unanimous-141949991-html",
+      "title": "Rams' Myles Garrett receives unanimous No. 1 ranking in NFL edge rusher poll from ESPN",
+      "link": "https://sports.yahoo.com/articles/rams-myles-garrett-receives-unanimous-141949991.html",
+      "source": "Yahoo Sports",
+      "ts": 1783495740.0,
+      "published_iso": "2026-07-08T07:29:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-los-angeles-rams-2027-super-bowl-odds-can-rams-remain-a-top-contender",
+      "title": "Los Angeles Rams 2027 Super Bowl Odds: Can Rams Remain a Top Contender?",
+      "link": "https://si.com/betting/los-angeles-rams-2027-super-bowl-odds-can-rams-remain-a-top-contender",
+      "source": "Sports Illustrated",
+      "ts": 1771084800.0,
+      "published_iso": "2026-02-14T16:00:00+00:00"
     }
   ]
 }
