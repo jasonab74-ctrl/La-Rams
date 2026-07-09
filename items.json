@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-07-09T06:23:54.143843+00:00",
+  "updated_iso": "2026-07-09T10:00:34.945689+00:00",
   "count": 3,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-rams-second-defender-listed-breakout-050930201-html",
-      "title": "Rams Second-Year Defender Listed Breakout Candidate Ahead of 2026 Season",
-      "link": "https://sports.yahoo.com/articles/rams-second-defender-listed-breakout-050930201.html",
-      "source": "Yahoo Sports",
-      "ts": 1783551120.0,
-      "published_iso": "2026-07-08T22:52:00+00:00"
-    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-07-08-rams-colby-parkinson-davante-adams-touchdown-prediction-",
       "title": "Analyst predicts 2 Rams players who will score fewer TDs in 2026",
@@ -25,6 +17,14 @@
       "source": "Rams Wire",
       "ts": 1783513860.0,
       "published_iso": "2026-07-08T12:31:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-los-angeles-rams-2027-super-bowl-odds-can-rams-remain-a-top-contender",
+      "title": "Los Angeles Rams 2027 Super Bowl Odds: Can Rams Remain a Top Contender?",
+      "link": "https://si.com/betting/los-angeles-rams-2027-super-bowl-odds-can-rams-remain-a-top-contender",
+      "source": "Sports Illustrated",
+      "ts": 1771084800.0,
+      "published_iso": "2026-02-14T16:00:00+00:00"
     }
   ]
 }
