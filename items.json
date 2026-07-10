@@ -1,30 +1,14 @@
 {
-  "updated_iso": "2026-07-10T16:10:34.720358+00:00",
-  "count": 3,
+  "updated_iso": "2026-07-10T18:05:02.804371+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-prediction-49ers-commanders-pro-bowl-wr-perfect-sense-9a412a472",
-      "title": "Rams get bold prediction on former 49ers, Commanders Pro Bowl WR that makes perfect sense",
-      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-prediction-49ers-commanders-pro-bowl-wr-perfect-sense/9a412a472d697f8fefc74870",
-      "source": "Sporting News",
-      "ts": 1783672920.0,
-      "published_iso": "2026-07-10T08:42:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-nfls-view-kyren-williams-shows-181550868-html",
-      "title": "NFL's View of Kyren Williams Shows Why Blake Corum Deserves a Bigger Role in the Rams' Offense",
-      "link": "https://sports.yahoo.com/articles/nfls-view-kyren-williams-shows-181550868.html",
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-2026-nfl-140000806-html",
+      "title": "Los Angeles Rams 2026 NFL Season Preview",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-2026-nfl-140000806.html",
       "source": "Yahoo Sports",
-      "ts": 1783611300.0,
-      "published_iso": "2026-07-09T15:35:00+00:00"
-    },
-    {
-      "id": "https-latimes-com-sports-rams-story-2026-07-09-rams-alaric-jackson-isnt-facing-criminal-charges-arrest",
-      "title": "Rams’ Alaric Jackson isn’t facing criminal charges following arrest",
-      "link": "https://latimes.com/sports/rams/story/2026-07-09/rams-alaric-jackson-isnt-facing-criminal-charges-arrest",
-      "source": "LA Times",
-      "ts": 1783600800.0,
-      "published_iso": "2026-07-09T12:40:00+00:00"
+      "ts": 1783678740.0,
+      "published_iso": "2026-07-10T10:19:00+00:00"
     }
   ]
 }
