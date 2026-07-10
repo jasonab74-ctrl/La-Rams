@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-07-10T20:56:58.107057+00:00",
+  "updated_iso": "2026-07-10T21:52:22.238987+00:00",
   "count": 2,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-rams-officially-entered-super-bowl-144818769-html",
-      "title": "The Rams Have Officially Entered Super Bowl-or-Bust Mode",
-      "link": "https://sports.yahoo.com/articles/rams-officially-entered-super-bowl-144818769.html",
-      "source": "Yahoo Sports",
-      "ts": 1783684980.0,
-      "published_iso": "2026-07-10T12:03:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-2026-nfl-140000806-html",
       "title": "Los Angeles Rams 2026 NFL Season Preview",
@@ -17,6 +9,14 @@
       "source": "Yahoo Sports",
       "ts": 1783678740.0,
       "published_iso": "2026-07-10T10:19:00+00:00"
+    },
+    {
+      "id": "https-latimes-com-sports-rams-story-2026-07-09-rams-alaric-jackson-isnt-facing-criminal-charges-arrest",
+      "title": "Rams’ Alaric Jackson isn’t facing criminal charges following arrest",
+      "link": "https://latimes.com/sports/rams/story/2026-07-09/rams-alaric-jackson-isnt-facing-criminal-charges-arrest",
+      "source": "LA Times",
+      "ts": 1783600800.0,
+      "published_iso": "2026-07-09T12:40:00+00:00"
     }
   ]
 }
