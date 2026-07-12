@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-12T18:43:29.574936+00:00",
-  "count": 2,
+  "updated_iso": "2026-07-12T19:57:58.594644+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-news-aaron-donald-watch-171554465-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1783851960.0,
       "published_iso": "2026-07-12T10:26:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-riskiest-offseason-decision-could-132109855-html",
-      "title": "The Rams' Riskiest Offseason Decision Could Make or Break Their Super Bowl Hopes",
-      "link": "https://sports.yahoo.com/articles/rams-riskiest-offseason-decision-could-132109855.html",
-      "source": "Yahoo Sports",
-      "ts": 1783766340.0,
-      "published_iso": "2026-07-11T10:39:00+00:00"
     }
   ]
 }
