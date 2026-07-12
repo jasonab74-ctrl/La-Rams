@@ -1,5 +1,5 @@
 {
-  "updated_iso": "2026-07-12T17:30:32.489855+00:00",
+  "updated_iso": "2026-07-12T18:43:29.574936+00:00",
   "count": 2,
   "items": [
     {
@@ -11,12 +11,12 @@
       "published_iso": "2026-07-12T10:26:00+00:00"
     },
     {
-      "id": "https-bleacherreport-com-articles-25454181-myles-garrett-posts-aaron-donald-jersey-ig-photo-amid-latest-nfl-rumors-poten",
-      "title": "Myles Garrett Posts Aaron Donald Jersey in IG Photo amid Latest NFL Rumors on Potential Rams Return",
-      "link": "https://bleacherreport.com/articles/25454181-myles-garrett-posts-aaron-donald-jersey-ig-photo-amid-latest-nfl-rumors-potential-rams-return",
-      "source": "Bleacher Report",
-      "ts": 1783848600.0,
-      "published_iso": "2026-07-12T09:30:00+00:00"
+      "id": "https-sports-yahoo-com-articles-rams-riskiest-offseason-decision-could-132109855-html",
+      "title": "The Rams' Riskiest Offseason Decision Could Make or Break Their Super Bowl Hopes",
+      "link": "https://sports.yahoo.com/articles/rams-riskiest-offseason-decision-could-132109855.html",
+      "source": "Yahoo Sports",
+      "ts": 1783766340.0,
+      "published_iso": "2026-07-11T10:39:00+00:00"
     }
   ]
 }
