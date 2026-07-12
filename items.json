@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-12T14:19:58.846497+00:00",
-  "count": 2,
+  "updated_iso": "2026-07-12T15:29:43.181652+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-07-11-rams-breakout-star-from-2025-could-see-a-lot-regression-",
@@ -9,14 +9,6 @@
       "source": "Rams Wire",
       "ts": 1783750260.0,
       "published_iso": "2026-07-11T06:11:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-set-stage-081446654-html",
-      "title": "Los Angeles Rams Set Stage for Historic D-Line With Donald Buzz",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-set-stage-081446654.html",
-      "source": "Yahoo Sports",
-      "ts": 1783734660.0,
-      "published_iso": "2026-07-11T01:51:00+00:00"
     }
   ]
 }
