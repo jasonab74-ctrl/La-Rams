@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-07-13T19:54:38.506715+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-07-13T20:45:23.883283+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-dominate-madden-183823146-html",
+      "title": "Los Angeles Rams Dominate Madden 27 Ratings With Two 99 Stars",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-dominate-madden-183823146.html",
+      "source": "Yahoo Sports",
+      "ts": 1783945260.0,
+      "published_iso": "2026-07-13T12:21:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-07-13-rams-offense-wide-receiver-whittington-mumpfield-daniels",
+      "title": "Rams offense requires a consistent WR3. Do they have one?",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/07/13/rams-offense-wide-receiver-whittington-mumpfield-daniels/90883034007/",
+      "source": "Rams Wire",
+      "ts": 1783922700.0,
+      "published_iso": "2026-07-13T06:05:00+00:00"
+    }
+  ]
 }
