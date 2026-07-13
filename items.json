@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-13T07:59:02.510609+00:00",
-  "count": 2,
+  "updated_iso": "2026-07-13T10:57:13.578400+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-news-aaron-donald-watch-171554465-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1783851960.0,
       "published_iso": "2026-07-12T10:26:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-07-12-rams-nate-landman-player-rankings-most-important-9088056",
-      "title": "Rams' 26 most important players for 2026",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/07/12/rams-nate-landman-player-rankings-most-important/90880567007/",
-      "source": "No. 15: LB Nate Landman",
-      "ts": 1783831320.0,
-      "published_iso": "2026-07-12T04:42:00+00:00"
     }
   ]
 }
