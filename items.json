@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-07-14T04:19:32.399945+00:00",
-  "count": 2,
+  "updated_iso": "2026-07-14T06:30:43.230458+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-07-13-rams-kyren-williams-blake-corum-running-backs-9089793700",
-      "title": "There should be no debate about Kyren Williams as Rams' RB1 over Blake Corum",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/07/13/rams-kyren-williams-blake-corum-running-backs/90897937007/",
-      "source": "Rams Wire",
-      "ts": 1783957260.0,
-      "published_iso": "2026-07-13T15:41:00+00:00"
+      "id": "https-ocregister-com-2026-07-13-rams-alaric-jackson-can-avoid-felony-charge-following-june-arrest",
+      "title": "Rams’ Alaric Jackson can avoid felony charge following June arrest",
+      "link": "https://ocregister.com/2026/07/13/rams-alaric-jackson-can-avoid-felony-charge-following-june-arrest/",
+      "source": "OC Register",
+      "ts": 1783983900.0,
+      "published_iso": "2026-07-13T23:05:00+00:00"
+    },
+    {
+      "id": "https-apnews-com-article-rams-jackson-arrested-22627debc7a54e3a0439a6c656c8128f",
+      "title": "Rams left tackle Jackson assigned to pre-filing diversion and can avoid domestic violence charge",
+      "link": "https://apnews.com/article/rams-jackson-arrested-22627debc7a54e3a0439a6c656c8128f",
+      "source": "AP News",
+      "ts": 1783950840.0,
+      "published_iso": "2026-07-13T13:54:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-dominate-madden-183823146-html",
