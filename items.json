@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-15T23:45:18.376714+00:00",
-  "count": 2,
+  "updated_iso": "2026-07-16T01:16:20.107006+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-matthew-stafford-wife-hints-retirement-043838061-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1784065080.0,
       "published_iso": "2026-07-14T21:38:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-dominate-madden-183823146-html",
-      "title": "Los Angeles Rams Dominate Madden 27 Ratings With Two 99 Stars",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-dominate-madden-183823146.html",
-      "source": "Yahoo Sports",
-      "ts": 1783942680.0,
-      "published_iso": "2026-07-13T11:38:00+00:00"
     }
   ]
 }
