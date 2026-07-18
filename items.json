@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-07-18T04:17:57.824298+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-07-18T06:25:31.093450+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-matthew-stafford-050215956-html",
+      "title": "Los Angeles Rams’ Matthew Stafford, Puka Nacua Have Little Room for Error",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-matthew-stafford-050215956.html",
+      "source": "Yahoo Sports",
+      "ts": 1784152920.0,
+      "published_iso": "2026-07-15T22:02:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-matthew-stafford-wife-hints-retirement-043838061-html",
+      "title": "Matthew Stafford’s wife hints at retirement as she details ‘tough’ health impact on Los Angeles Rams star",
+      "link": "https://sports.yahoo.com/articles/matthew-stafford-wife-hints-retirement-043838061.html",
+      "source": "Yahoo Sports",
+      "ts": 1784065080.0,
+      "published_iso": "2026-07-14T21:38:00+00:00"
+    }
+  ]
 }
