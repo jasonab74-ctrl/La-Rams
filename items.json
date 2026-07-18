@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-07-18T19:37:09.477899+00:00",
+  "updated_iso": "2026-07-18T20:34:27.906848+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-puka-nacua-shares-3-word-192214342-html",
+      "title": "Puka Nacua Shares 3-Word Message on Rams Future Amid Growing Contract Extension Uncertainty",
+      "link": "https://sports.yahoo.com/articles/puka-nacua-shares-3-word-192214342.html",
+      "source": "Yahoo Sports",
+      "ts": 1784377320.0,
+      "published_iso": "2026-07-18T12:22:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-matthew-stafford-050215956-html",
       "title": "Los Angeles Rams’ Matthew Stafford, Puka Nacua Have Little Room for Error",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1784152920.0,
       "published_iso": "2026-07-15T22:02:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-matthew-stafford-wife-hints-retirement-043838061-html",
-      "title": "Matthew Stafford’s wife hints at retirement as she details ‘tough’ health impact on Los Angeles Rams star",
-      "link": "https://sports.yahoo.com/articles/matthew-stafford-wife-hints-retirement-043838061.html",
-      "source": "Yahoo Sports",
-      "ts": 1784065080.0,
-      "published_iso": "2026-07-14T21:38:00+00:00"
     }
   ]
 }
