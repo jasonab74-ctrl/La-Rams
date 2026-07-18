@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-18T08:13:35.374903+00:00",
-  "count": 2,
+  "updated_iso": "2026-07-18T09:51:18.374604+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-matthew-stafford-050215956-html",
@@ -17,6 +17,14 @@
       "source": "Yahoo Sports",
       "ts": 1784065080.0,
       "published_iso": "2026-07-14T21:38:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1405697280.0,
+      "published_iso": "2014-07-18T15:28:00+00:00"
     }
   ]
 }
