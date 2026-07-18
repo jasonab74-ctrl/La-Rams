@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-07-18T21:37:10.246305+00:00",
-  "count": 2,
+  "updated_iso": "2026-07-18T22:34:43.201245+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-la-rams-davante-adams-gets-202834058-html",
-      "title": "LA Rams’ Davante Adams Gets Complicated NFL Verdict After 14-TD Season",
-      "link": "https://sports.yahoo.com/articles/la-rams-davante-adams-gets-202834058.html",
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1784380560.0,
+      "published_iso": "2026-07-18T13:16:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-star-myles-garrett-wins-142530917-html",
+      "title": "New Rams Star Myles Garrett Wins Two ESPYS for Record-Breaking NFL Season",
+      "link": "https://sports.yahoo.com/articles/rams-star-myles-garrett-wins-142530917.html",
       "source": "Yahoo Sports",
-      "ts": 1784381280.0,
-      "published_iso": "2026-07-18T13:28:00+00:00"
+      "ts": 1784273100.0,
+      "published_iso": "2026-07-17T07:25:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-matthew-stafford-050215956-html",
