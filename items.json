@@ -1,23 +1,7 @@
 {
-  "updated_iso": "2026-07-18T18:13:12.410917+00:00",
-  "count": 3,
+  "updated_iso": "2026-07-18T19:37:09.477899+00:00",
+  "count": 2,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-rams-young-tight-end-room-171503080-html",
-      "title": "Rams' Young Tight End Room Could Pose Problem For Tyler Higbee",
-      "link": "https://sports.yahoo.com/articles/rams-young-tight-end-room-171503080.html",
-      "source": "Yahoo Sports",
-      "ts": 1784369700.0,
-      "published_iso": "2026-07-18T10:15:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-07-18-rams-kobie-turner-player-rankings-most-important-9096027",
-      "title": "Rams' 26 most important players for 2026",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/07/18/rams-kobie-turner-player-rankings-most-important/90960270007/",
-      "source": "No. 9: DT Kobie Turner",
-      "ts": 1784361660.0,
-      "published_iso": "2026-07-18T08:01:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-matthew-stafford-050215956-html",
       "title": "Los Angeles Rams’ Matthew Stafford, Puka Nacua Have Little Room for Error",
@@ -25,6 +9,14 @@
       "source": "Yahoo Sports",
       "ts": 1784152920.0,
       "published_iso": "2026-07-15T22:02:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-matthew-stafford-wife-hints-retirement-043838061-html",
+      "title": "Matthew Stafford’s wife hints at retirement as she details ‘tough’ health impact on Los Angeles Rams star",
+      "link": "https://sports.yahoo.com/articles/matthew-stafford-wife-hints-retirement-043838061.html",
+      "source": "Yahoo Sports",
+      "ts": 1784065080.0,
+      "published_iso": "2026-07-14T21:38:00+00:00"
     }
   ]
 }
