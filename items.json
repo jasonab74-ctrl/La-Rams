@@ -1,5 +1,46 @@
 {
-  "updated_iso": "2026-07-22T22:48:11.691505+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-07-22T23:50:58.182653+00:00",
+  "count": 5,
+  "items": [
+    {
+      "id": "https-sportingnews-com-us-betting-news-los-angeles-rams-betting-preview-2026-odds-futures-win-total-f7835e608f8d60d67c79",
+      "title": "Los Angeles Rams betting preview 2026: Odds, futures, win total prediction, sportsbook promos and more",
+      "link": "https://sportingnews.com/us/betting/news/los-angeles-rams-betting-preview-2026-odds-futures-win-total/f7835e608f8d60d67c7978f9",
+      "source": "Sporting News",
+      "ts": 1784733780.0,
+      "published_iso": "2026-07-22T15:23:00+00:00"
+    },
+    {
+      "id": "https-bleacherreport-com-articles-25457185-rams-sean-mcvay-discusses-aaron-donald-nfl-comeback-rumors-after-viral-workou",
+      "title": "Rams' Sean McVay Discusses Aaron Donald NFL Comeback Rumors After Viral Workout Video",
+      "link": "https://bleacherreport.com/articles/25457185-rams-sean-mcvay-discusses-aaron-donald-nfl-comeback-rumors-after-viral-workout-video",
+      "source": "Bleacher Report",
+      "ts": 1784722140.0,
+      "published_iso": "2026-07-22T12:09:00+00:00"
+    },
+    {
+      "id": "https-ocregister-com-2026-07-22-rams-training-camp-preview-qb-ty-simpson-takes-playbook-to-heart-and-to-bed",
+      "title": "Rams training camp preview: QB Ty Simpson takes playbook to heart and to bed",
+      "link": "https://ocregister.com/2026/07/22/rams-training-camp-preview-qb-ty-simpson-takes-playbook-to-heart-and-to-bed/",
+      "source": "OC Register",
+      "ts": 1784713560.0,
+      "published_iso": "2026-07-22T09:46:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-33-million-052944236-html",
+      "title": "Los Angeles Rams’ $33 Million All-Pro Named Top Fantasy Value Pick",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-33-million-052944236.html",
+      "source": "Yahoo Sports",
+      "ts": 1784672940.0,
+      "published_iso": "2026-07-21T22:29:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-37-3-051022230-html",
+      "title": "Los Angeles Rams’ $37.3 Million Duo Turns Heads in ESPN Recognition",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-37-3-051022230.html",
+      "source": "Yahoo Sports",
+      "ts": 1784585400.0,
+      "published_iso": "2026-07-20T22:10:00+00:00"
+    }
+  ]
 }
