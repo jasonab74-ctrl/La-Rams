@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-07-22T04:39:15.648502+00:00",
+  "updated_iso": "2026-07-22T07:27:13.675604+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-33-million-052944236-html",
+      "title": "Los Angeles Rams’ $33 Million All-Pro Named Top Fantasy Value Pick",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-33-million-052944236.html",
+      "source": "Yahoo Sports",
+      "ts": 1784653200.0,
+      "published_iso": "2026-07-21T17:00:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-myles-garrett-buys-23-million-181643363-html",
       "title": "Myles Garrett Buys $23 Million Property in Hidden Hills After Being Traded to the Los Angeles Rams",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1784632560.0,
       "published_iso": "2026-07-21T11:16:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-37-3-051022230-html",
-      "title": "Los Angeles Rams’ $37.3 Million Duo Turns Heads in ESPN Recognition",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-37-3-051022230.html",
-      "source": "Yahoo Sports",
-      "ts": 1784585400.0,
-      "published_iso": "2026-07-20T22:10:00+00:00"
     }
   ]
 }
