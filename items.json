@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-07-23T19:51:56.780334+00:00",
+  "updated_iso": "2026-07-23T20:48:03.703413+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-aaron-donald-potential-los-angeles-132907124-html",
+      "title": "How Aaron Donald’s potential Los Angeles Rams return could cost Super Bowl favorites $30m",
+      "link": "https://sports.yahoo.com/articles/aaron-donald-potential-los-angeles-132907124.html",
+      "source": "Yahoo Sports",
+      "ts": 1784788140.0,
+      "published_iso": "2026-07-23T06:29:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-33-million-052944236-html",
       "title": "Los Angeles Rams’ $33 Million All-Pro Named Top Fantasy Value Pick",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1784672940.0,
       "published_iso": "2026-07-21T22:29:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-37-3-051022230-html",
-      "title": "Los Angeles Rams’ $37.3 Million Duo Turns Heads in ESPN Recognition",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-37-3-051022230.html",
-      "source": "Yahoo Sports",
-      "ts": 1784585400.0,
-      "published_iso": "2026-07-20T22:10:00+00:00"
     }
   ]
 }
