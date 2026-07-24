@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-24T14:30:29.932181+00:00",
-  "count": 3,
+  "updated_iso": "2026-07-24T17:55:56.155817+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-bleacherreport-com-articles-25457592-new-aaron-donald-rumors-update-probability-rams-return-2026-nfl-season",
@@ -9,6 +9,14 @@
       "source": "Bleacher Report",
       "ts": 1784873220.0,
       "published_iso": "2026-07-24T06:07:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-07-24-rams-ty-simpson-nfl-draft-contract-unsigned-91038890007",
+      "title": "Rams' Ty Simpson is only rookie QB and 1st-round pick who hasn't signed",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/07/24/rams-ty-simpson-nfl-draft-contract-unsigned/91038890007/",
+      "source": "Rams Wire",
+      "ts": 1784843040.0,
+      "published_iso": "2026-07-23T21:44:00+00:00"
     },
     {
       "id": "https-nfl-com-news-rams-fearsome-white-classic-sol-alternate-uniforms-2026",
