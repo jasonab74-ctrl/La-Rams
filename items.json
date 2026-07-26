@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-07-26T22:25:36.082561+00:00",
-  "count": 4,
+  "updated_iso": "2026-07-26T23:25:13.152654+00:00",
+  "count": 2,
   "items": [
-    {
-      "id": "https-therams-com-news-rams-steve-avila-reflects-on-growth-from-year-1-to-year-4-heading-into-rams-training-camp",
-      "title": "Steve Avila reflects on growth from Year 1 to Year 4 heading into Rams Training Camp",
-      "link": "https://therams.com/news/rams-steve-avila-reflects-on-growth-from-year-1-to-year-4-heading-into-rams-training-camp",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1785049320.0,
-      "published_iso": "2026-07-26T07:02:00+00:00"
-    },
     {
       "id": "https-espn-com-nfl-story-id-49435669-los-angeles-rams-alternate-uniforms-2026",
       "title": "Los Angeles Rams unveil two new alternate uniforms for 2026",
@@ -19,20 +11,12 @@
       "published_iso": "2026-07-23T22:12:00+00:00"
     },
     {
-      "id": "https-therams-com-news-rams-alternate-uniforms-celebrating-franchise-championship-legacy",
-      "title": "Rams unveil two new alternate uniforms celebrating the franchise's championship legacy and iconic history",
-      "link": "https://therams.com/news/rams-alternate-uniforms-celebrating-franchise-championship-legacy",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1784811540.0,
-      "published_iso": "2026-07-23T12:59:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-puka-nacua-165353415-html",
-      "title": "Los Angeles Rams’ Puka Nacua Gets Cautious Verdict Before Training Camp",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-puka-nacua-165353415.html",
-      "source": "Yahoo Sports",
-      "ts": 1784541180.0,
-      "published_iso": "2026-07-20T09:53:00+00:00"
+      "id": "https-nfl-com-news-rams-fearsome-white-classic-sol-alternate-uniforms-2026",
+      "title": "Rams unveil Fearsome White, Classic Sol alternate uniforms ahead of 2026 NFL season",
+      "link": "https://nfl.com/news/rams-fearsome-white-classic-sol-alternate-uniforms-2026",
+      "source": "NFL.com",
+      "ts": 1784836860.0,
+      "published_iso": "2026-07-23T20:01:00+00:00"
     }
   ]
 }
