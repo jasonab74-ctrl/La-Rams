@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2026-07-28T14:54:20.682964+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-07-28T16:26:05.183579+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-foxsports-com-stories-nfl-who-rams-defensive-tackle-kobie-turner",
+      "title": "Who Is Rams DT Kobie Turner? L.A.'s 'Conductor' Ready To Lead Super Team Over The Hump",
+      "link": "https://foxsports.com/stories/nfl/who-rams-defensive-tackle-kobie-turner",
+      "source": "FOX Sports",
+      "ts": 1785182220.0,
+      "published_iso": "2026-07-27T19:57:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-emerge-landing-020422581-html",
+      "title": "Los Angeles Rams Emerge as Landing Spot for $71 Million Pro Bowler",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-emerge-landing-020422581.html",
+      "source": "Yahoo Sports",
+      "ts": 1785179040.0,
+      "published_iso": "2026-07-27T19:04:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
+      "title": "Los Angeles Rams betting outlook: why one analyst is all in on a Super Bowl win at +550",
+      "link": "https://yahoo.com/news/articles/los-angeles-rams-betting-outlook-171727702.html",
+      "source": "Yahoo",
+      "ts": 1785061020.0,
+      "published_iso": "2026-07-26T10:17:00+00:00"
+    }
+  ]
 }
