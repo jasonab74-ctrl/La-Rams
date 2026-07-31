@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-07-31T20:38:29.184544+00:00",
-  "count": 3,
+  "updated_iso": "2026-07-31T21:54:07.088737+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-07-31-chargers-star-explains-why-week-8-match-with-rams-is-cir",
+      "title": "Chargers star explains why Week 8 match with Rams is circled",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/07/31/chargers-star-explains-why-week-8-match-with-rams-is-circled/91125086007/",
+      "source": "Rams Wire",
+      "ts": 1785506400.0,
+      "published_iso": "2026-07-31T14:00:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-seahawks-onsi-cooper-kupp-explains-difference-between-rams-and-seahawks",
+      "title": "Cooper Kupp Explains Difference Between Rams and Seahawks",
+      "link": "https://si.com/nfl/seahawks/onsi/cooper-kupp-explains-difference-between-rams-and-seahawks",
+      "source": "Sports Illustrated",
+      "ts": 1785504600.0,
+      "published_iso": "2026-07-31T13:30:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-terron-armstead-thinks-rams-could-200000105-html",
       "title": "Terron Armstead thinks the Rams could have a perfect season",
@@ -19,12 +35,12 @@
       "published_iso": "2026-07-26T10:17:00+00:00"
     },
     {
-      "id": "https-nfl-com-news-rams-fearsome-white-classic-sol-alternate-uniforms-2026",
-      "title": "Rams unveil Fearsome White, Classic Sol alternate uniforms ahead of 2026 NFL season",
-      "link": "https://nfl.com/news/rams-fearsome-white-classic-sol-alternate-uniforms-2026",
-      "source": "NFL.com",
-      "ts": 1784836860.0,
-      "published_iso": "2026-07-23T20:01:00+00:00"
+      "id": "https-therams-com-news-rams-alternate-uniforms-celebrating-franchise-championship-legacy",
+      "title": "Rams unveil two new alternate uniforms celebrating the franchise's championship legacy and iconic history",
+      "link": "https://therams.com/news/rams-alternate-uniforms-celebrating-franchise-championship-legacy",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1784811540.0,
+      "published_iso": "2026-07-23T12:59:00+00:00"
     }
   ]
 }
