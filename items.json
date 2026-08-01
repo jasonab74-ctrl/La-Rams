@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-08-01T17:47:33.841773+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-08-01T18:46:40.148897+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-207-million-233743648-html",
+      "title": "Los Angeles Rams’ $207 Million Offense Ranks No. 3 in Key NFL Passing Stat",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-207-million-233743648.html",
+      "source": "Yahoo Sports",
+      "ts": 1785429420.0,
+      "published_iso": "2026-07-30T16:37:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
+      "title": "Los Angeles Rams betting outlook: why one analyst is all in on a Super Bowl win at +550",
+      "link": "https://yahoo.com/news/articles/los-angeles-rams-betting-outlook-171727702.html",
+      "source": "Yahoo",
+      "ts": 1785061020.0,
+      "published_iso": "2026-07-26T10:17:00+00:00"
+    }
+  ]
 }
