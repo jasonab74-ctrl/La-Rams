@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-08-01T07:21:18.810710+00:00",
-  "count": 1,
+  "updated_iso": "2026-08-01T09:28:52.893055+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-matthew-stafford-kevin-dotson-break-020040405-html",
-      "title": "Matthew Stafford, Kevin Dotson break down Rams' stellar O-line play",
-      "link": "https://sports.yahoo.com/articles/matthew-stafford-kevin-dotson-break-020040405.html",
+      "id": "https-sports-yahoo-com-articles-rams-called-rival-100-tackle-000432046-html",
+      "title": "Rams Called out by Rival 100-Tackle Defender Claiming Family Cheers for Them",
+      "link": "https://sports.yahoo.com/articles/rams-called-rival-100-tackle-000432046.html",
       "source": "Yahoo Sports",
-      "ts": 1785524460.0,
-      "published_iso": "2026-07-31T19:01:00+00:00"
+      "ts": 1785517200.0,
+      "published_iso": "2026-07-31T17:00:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-07-31-matthew-stafford-seasons-left-after-rams-trade-911229810",
+      "title": "Matthew Stafford thought he had 3 'good' seasons left after Rams trade",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/07/31/matthew-stafford-seasons-left-after-rams-trade/91122981007/",
+      "source": "Rams Wire",
+      "ts": 1785492600.0,
+      "published_iso": "2026-07-31T10:10:00+00:00"
     }
   ]
 }
