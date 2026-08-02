@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-02T18:47:32.912085+00:00",
-  "count": 5,
+  "updated_iso": "2026-08-02T20:02:25.304549+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-sean-mcvay-204335263-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1785591840.0,
       "published_iso": "2026-08-01T13:44:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-207-million-233743648-html",
-      "title": "Los Angeles Rams’ $207 Million Offense Ranks No. 3 in Key NFL Passing Stat",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-207-million-233743648.html",
-      "source": "Yahoo Sports",
-      "ts": 1785429420.0,
-      "published_iso": "2026-07-30T16:37:00+00:00"
     },
     {
       "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
