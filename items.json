@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-08-02T15:33:31.772930+00:00",
+  "updated_iso": "2026-08-02T16:42:01.844292+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-why-insider-confident-rams-turned-154605397-html",
+      "title": "Why insider is confident Rams turned biggest weakness from 2025 around",
+      "link": "https://sports.yahoo.com/articles/why-insider-confident-rams-turned-154605397.html",
+      "source": "Yahoo Sports",
+      "ts": 1785660360.0,
+      "published_iso": "2026-08-02T08:46:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-sean-mcvay-204335263-html",
       "title": "Los Angeles Rams’ Sean McVay Names Greatest Tight End in Team History",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1785591840.0,
       "published_iso": "2026-08-01T13:44:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-207-million-233743648-html",
-      "title": "Los Angeles Rams’ $207 Million Offense Ranks No. 3 in Key NFL Passing Stat",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-207-million-233743648.html",
-      "source": "Yahoo Sports",
-      "ts": 1785429420.0,
-      "published_iso": "2026-07-30T16:37:00+00:00"
     },
     {
       "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
