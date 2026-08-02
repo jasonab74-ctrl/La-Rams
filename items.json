@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-02T20:02:25.304549+00:00",
-  "count": 4,
+  "updated_iso": "2026-08-02T21:13:55.924457+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-sean-mcvay-204335263-html",
@@ -11,28 +11,20 @@
       "published_iso": "2026-08-01T13:44:00+00:00"
     },
     {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-207-million-233743648-html",
+      "title": "Los Angeles Rams’ $207 Million Offense Ranks No. 3 in Key NFL Passing Stat",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-207-million-233743648.html",
+      "source": "Yahoo Sports",
+      "ts": 1785429420.0,
+      "published_iso": "2026-07-30T16:37:00+00:00"
+    },
+    {
       "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
       "title": "Los Angeles Rams betting outlook: why one analyst is all in on a Super Bowl win at +550",
       "link": "https://yahoo.com/news/articles/los-angeles-rams-betting-outlook-171727702.html",
       "source": "Yahoo",
       "ts": 1785061020.0,
       "published_iso": "2026-07-26T10:17:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-news-rams-fearsome-white-classic-sol-alternate-uniforms-2026",
-      "title": "Rams unveil Fearsome White, Classic Sol alternate uniforms ahead of 2026 NFL season",
-      "link": "https://nfl.com/news/rams-fearsome-white-classic-sol-alternate-uniforms-2026",
-      "source": "NFL.com",
-      "ts": 1784855100.0,
-      "published_iso": "2026-07-24T01:05:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-alternate-uniforms-celebrating-franchise-championship-legacy",
-      "title": "Rams unveil two new alternate uniforms celebrating the franchise's championship legacy and iconic history",
-      "link": "https://therams.com/news/rams-alternate-uniforms-celebrating-franchise-championship-legacy",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1784811540.0,
-      "published_iso": "2026-07-23T12:59:00+00:00"
     }
   ]
 }
