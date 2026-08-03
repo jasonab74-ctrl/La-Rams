@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-03T11:51:01.002484+00:00",
-  "count": 2,
+  "updated_iso": "2026-08-03T14:08:15.771322+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-sean-mcvay-204335263-html",
@@ -9,6 +9,14 @@
       "source": "Yahoo Sports",
       "ts": 1785591840.0,
       "published_iso": "2026-08-01T13:44:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1785319500.0,
+      "published_iso": "2026-07-29T10:05:00+00:00"
     },
     {
       "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
