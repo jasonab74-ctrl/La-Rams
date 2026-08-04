@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-04T21:43:47.310488+00:00",
-  "count": 4,
+  "updated_iso": "2026-08-04T22:49:31.960348+00:00",
+  "count": 7,
   "items": [
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-04-rams-byron-young-defense-best-ever-quote-91167480007",
@@ -19,12 +19,36 @@
       "published_iso": "2026-08-04T10:00:00+00:00"
     },
     {
+      "id": "https-therams-com-news-rams-center-coleman-shelton-qb2-training-camp-2026",
+      "title": "Coleman Shelton serving as 'QB2' of the Rams offense and Matthew Stafford's 2025 MVP season",
+      "link": "https://therams.com/news/rams-center-coleman-shelton-qb2-training-camp-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1785812400.0,
+      "published_iso": "2026-08-04T03:00:00+00:00"
+    },
+    {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-sean-mcvay-204335263-html",
       "title": "Los Angeles Rams’ Sean McVay Names Greatest Tight End in Team History",
       "link": "https://sports.yahoo.com/articles/los-angeles-rams-sean-mcvay-204335263.html",
       "source": "Yahoo Sports",
       "ts": 1785591840.0,
       "published_iso": "2026-08-01T13:44:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-207-million-233743648-html",
+      "title": "Los Angeles Rams’ $207 Million Offense Ranks No. 3 in Key NFL Passing Stat",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-207-million-233743648.html",
+      "source": "Yahoo Sports",
+      "ts": 1785429420.0,
+      "published_iso": "2026-07-30T16:37:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
+      "title": "Los Angeles Rams betting outlook: why one analyst is all in on a Super Bowl win at +550",
+      "link": "https://yahoo.com/news/articles/los-angeles-rams-betting-outlook-171727702.html",
+      "source": "Yahoo",
+      "ts": 1785061020.0,
+      "published_iso": "2026-07-26T10:17:00+00:00"
     },
     {
       "id": "https-nfl-com-news-rams-fearsome-white-classic-sol-alternate-uniforms-2026",
