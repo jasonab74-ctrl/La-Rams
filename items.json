@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-08-04T20:04:22.377780+00:00",
-  "count": 5,
+  "updated_iso": "2026-08-04T21:43:47.310488+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-therams-com-video-rams-cb-trent-mcduffie-micd-up-at-rams-training-camp",
-      "title": "\"That's how we're going to keep building!\" | Trent McDuffie Mic'd Up at Rams Training Camp",
-      "link": "https://therams.com/video/rams-cb-trent-mcduffie-micd-up-at-rams-training-camp",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1785841200.0,
-      "published_iso": "2026-08-04T11:00:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-04-rams-byron-young-defense-best-ever-quote-91167480007",
+      "title": "Byron Young thinks Rams defense 'could be the best to ever do it'",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/08/04/rams-byron-young-defense-best-ever-quote/91167480007/",
+      "source": "Rams Wire",
+      "ts": 1785845580.0,
+      "published_iso": "2026-08-04T12:13:00+00:00"
     },
     {
       "id": "https-therams-com-video-trent-mcduffie-transition-to-la-practicing-against-elite-offense-bonding-teammates-inside-rams-c",
@@ -27,20 +27,12 @@
       "published_iso": "2026-08-01T13:44:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-207-million-233743648-html",
-      "title": "Los Angeles Rams’ $207 Million Offense Ranks No. 3 in Key NFL Passing Stat",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-207-million-233743648.html",
-      "source": "Yahoo Sports",
-      "ts": 1785429420.0,
-      "published_iso": "2026-07-30T16:37:00+00:00"
-    },
-    {
-      "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
-      "title": "Los Angeles Rams betting outlook: why one analyst is all in on a Super Bowl win at +550",
-      "link": "https://yahoo.com/news/articles/los-angeles-rams-betting-outlook-171727702.html",
-      "source": "Yahoo",
-      "ts": 1785061020.0,
-      "published_iso": "2026-07-26T10:17:00+00:00"
+      "id": "https-nfl-com-news-rams-fearsome-white-classic-sol-alternate-uniforms-2026",
+      "title": "Rams unveil Fearsome White, Classic Sol alternate uniforms ahead of 2026 NFL season",
+      "link": "https://nfl.com/news/rams-fearsome-white-classic-sol-alternate-uniforms-2026",
+      "source": "NFL.com",
+      "ts": 1784855100.0,
+      "published_iso": "2026-07-24T01:05:00+00:00"
     }
   ]
 }
