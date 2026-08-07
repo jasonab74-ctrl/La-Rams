@@ -1,30 +1,22 @@
 {
-  "updated_iso": "2026-08-07T00:34:22.097761+00:00",
-  "count": 3,
+  "updated_iso": "2026-08-07T03:41:10.794396+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-bleacherreport-com-articles-25466450-new-aaron-donald-update-potential-week-1-snap-count-revealed-nfl-insider-amid",
-      "title": "New Aaron Donald Update, Potential Week 1 Snap Count Revealed By NFL Insider Amid Rams Rumors",
-      "link": "https://bleacherreport.com/articles/25466450-new-aaron-donald-update-potential-week-1-snap-count-revealed-nfl-insider-amid-rams-rumors",
-      "source": "Bleacher Report",
-      "ts": 1785949260.0,
-      "published_iso": "2026-08-05T17:01:00+00:00"
+      "id": "https-sports-yahoo-com-articles-rams-rueben-bain-jr-decision-022639437-html",
+      "title": "Rams’ Rueben Bain Jr. Decision Takes Blow After James Harrison Comparison",
+      "link": "https://sports.yahoo.com/articles/rams-rueben-bain-jr-decision-022639437.html",
+      "source": "Yahoo Sports",
+      "ts": 1786035600.0,
+      "published_iso": "2026-08-06T17:00:00+00:00"
     },
     {
-      "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
-      "title": "Los Angeles Rams betting outlook: why one analyst is all in on a Super Bowl win at +550",
-      "link": "https://yahoo.com/news/articles/los-angeles-rams-betting-outlook-171727702.html",
-      "source": "Yahoo",
-      "ts": 1785061020.0,
-      "published_iso": "2026-07-26T10:17:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-alternate-uniforms-celebrating-franchise-championship-legacy",
-      "title": "Rams unveil two new alternate uniforms celebrating the franchise's championship legacy and iconic history",
-      "link": "https://therams.com/news/rams-alternate-uniforms-celebrating-franchise-championship-legacy",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1784811540.0,
-      "published_iso": "2026-07-23T12:59:00+00:00"
+      "id": "https-sports-yahoo-com-articles-jared-verse-opens-breaking-wild-025806668-html",
+      "title": "Jared Verse opens up on breaking wild trade to Rams teammates",
+      "link": "https://sports.yahoo.com/articles/jared-verse-opens-breaking-wild-025806668.html",
+      "source": "Yahoo Sports",
+      "ts": 1786035600.0,
+      "published_iso": "2026-08-06T17:00:00+00:00"
     }
   ]
 }
