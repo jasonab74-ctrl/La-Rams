@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-08T16:16:22.438140+00:00",
-  "count": 3,
+  "updated_iso": "2026-08-08T16:57:30.514636+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-stetson-bennett-making-strong-152027056-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1786177140.0,
       "published_iso": "2026-08-08T08:19:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1785319500.0,
-      "published_iso": "2026-07-29T10:05:00+00:00"
     },
     {
       "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
