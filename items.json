@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-08-08T15:56:53.122782+00:00",
-  "count": 2,
+  "updated_iso": "2026-08-08T16:16:22.438140+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-stetson-bennett-making-strong-152027056-html",
+      "title": "Rams’ Stetson Bennett Making Strong Case to Win QB2 Battle",
+      "link": "https://sports.yahoo.com/articles/rams-stetson-bennett-making-strong-152027056.html",
+      "source": "Yahoo Sports",
+      "ts": 1786177140.0,
+      "published_iso": "2026-08-08T08:19:00+00:00"
+    },
     {
       "id": "https-foxsports-com-nfl-los-angeles-rams-team",
       "title": "LOS ANGELES RAMS NEWS",
