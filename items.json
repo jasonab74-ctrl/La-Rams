@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-08T14:54:26.314073+00:00",
-  "count": 2,
+  "updated_iso": "2026-08-08T15:16:10.973660+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-foxsports-com-nfl-los-angeles-rams-team",
@@ -9,6 +9,14 @@
       "source": "FOX Sports",
       "ts": 1785319500.0,
       "published_iso": "2026-07-29T10:05:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-emerge-landing-020422581-html",
+      "title": "Los Angeles Rams Emerge as Landing Spot for $71 Million Pro Bowler",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-emerge-landing-020422581.html",
+      "source": "Yahoo Sports",
+      "ts": 1785179040.0,
+      "published_iso": "2026-07-27T19:04:00+00:00"
     },
     {
       "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
