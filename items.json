@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-08-08T19:04:36.908636+00:00",
-  "count": 2,
+  "updated_iso": "2026-08-08T19:48:42.935280+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-preseason-schedule-dates-times-141057710-html",
-      "title": "Rams Preseason Schedule: Dates, Times and TV Channels",
-      "link": "https://sports.yahoo.com/articles/rams-preseason-schedule-dates-times-141057710.html",
+      "id": "https-sports-yahoo-com-articles-fantasy-football-fades-2026-two-191502663-html",
+      "title": "Fantasy Football Fades 2026: Two Rams Headline Kyle Soppe’s Worst Picks in Sleeper Drafts",
+      "link": "https://sports.yahoo.com/articles/fantasy-football-fades-2026-two-191502663.html",
       "source": "Yahoo Sports",
-      "ts": 1786173000.0,
-      "published_iso": "2026-08-08T07:10:00+00:00"
+      "ts": 1786191300.0,
+      "published_iso": "2026-08-08T12:15:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1785319500.0,
+      "published_iso": "2026-07-29T10:05:00+00:00"
     },
     {
       "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
