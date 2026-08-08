@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-08T17:53:07.401247+00:00",
-  "count": 2,
+  "updated_iso": "2026-08-08T18:17:42.063425+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-stetson-bennett-making-strong-152027056-html",
@@ -17,6 +17,14 @@
       "source": "FOX Sports",
       "ts": 1785319500.0,
       "published_iso": "2026-07-29T10:05:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
+      "title": "Los Angeles Rams betting outlook: why one analyst is all in on a Super Bowl win at +550",
+      "link": "https://yahoo.com/news/articles/los-angeles-rams-betting-outlook-171727702.html",
+      "source": "Yahoo",
+      "ts": 1785061020.0,
+      "published_iso": "2026-07-26T10:17:00+00:00"
     }
   ]
 }
