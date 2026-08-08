@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-08-08T11:51:32.066331+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-08-08T12:19:20.545938+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1785319500.0,
+      "published_iso": "2026-07-29T10:05:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
+      "title": "Los Angeles Rams betting outlook: why one analyst is all in on a Super Bowl win at +550",
+      "link": "https://yahoo.com/news/articles/los-angeles-rams-betting-outlook-171727702.html",
+      "source": "Yahoo",
+      "ts": 1785061020.0,
+      "published_iso": "2026-07-26T10:17:00+00:00"
+    }
+  ]
 }
