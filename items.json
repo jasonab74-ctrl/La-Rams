@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-08-08T23:14:54.379976+00:00",
-  "count": 2,
+  "updated_iso": "2026-08-08T23:49:33.007500+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-2026-arizona-cardinals-opponent-preview-213353824-html",
-      "title": "2026 Arizona Cardinals opponent preview: Los Angeles Rams",
-      "link": "https://sports.yahoo.com/articles/2026-arizona-cardinals-opponent-preview-213353824.html",
+      "id": "https-sports-yahoo-com-articles-rams-set-ty-simpson-debut-232807347-html",
+      "title": "Rams Set Ty Simpson Debut With Role Yet to Be Determined",
+      "link": "https://sports.yahoo.com/articles/rams-set-ty-simpson-debut-232807347.html",
       "source": "Yahoo Sports",
-      "ts": 1786199580.0,
-      "published_iso": "2026-08-08T14:33:00+00:00"
+      "ts": 1786206480.0,
+      "published_iso": "2026-08-08T16:28:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1785319500.0,
+      "published_iso": "2026-07-29T10:05:00+00:00"
     },
     {
       "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
