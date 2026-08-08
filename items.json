@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-08-07T23:53:08.798160+00:00",
+  "updated_iso": "2026-08-08T00:39:08.810263+00:00",
   "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-shake-roster-behind-myles-222756156-html",
-      "title": "Rams Shake Up Roster Behind Myles Garrett, Byron Young",
-      "link": "https://sports.yahoo.com/articles/rams-shake-roster-behind-myles-222756156.html",
+      "id": "https-sports-yahoo-com-articles-aaron-donald-answers-rams-return-230530284-html",
+      "title": "Aaron Donald Answers Rams Return Question After Attention-Grabbing Day",
+      "link": "https://sports.yahoo.com/articles/aaron-donald-answers-rams-return-230530284.html",
       "source": "Yahoo Sports",
-      "ts": 1786116420.0,
-      "published_iso": "2026-08-07T15:27:00+00:00"
+      "ts": 1786118700.0,
+      "published_iso": "2026-08-07T16:05:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-07-rams-training-camp-winners-losers-players-practice-91217",
@@ -19,20 +19,20 @@
       "published_iso": "2026-08-07T14:55:00+00:00"
     },
     {
-      "id": "https-therams-com-news-2026-rams-gameday-giveaway-gift-with-purchase-items-replica-championship-ring-mvp-towel-hello-kit",
-      "title": "2026 Rams gameday giveaway and gift with purchase items announced",
-      "link": "https://therams.com/news/2026-rams-gameday-giveaway-gift-with-purchase-items-replica-championship-ring-mvp-towel-hello-kitty-minnie-mouse-ears",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1786071600.0,
-      "published_iso": "2026-08-07T03:00:00+00:00"
-    },
-    {
       "id": "https-foxsports-com-nfl-los-angeles-rams-team",
       "title": "LOS ANGELES RAMS NEWS",
       "link": "https://foxsports.com/nfl/los-angeles-rams-team",
       "source": "FOX Sports",
       "ts": 1785319500.0,
       "published_iso": "2026-07-29T10:05:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
+      "title": "Los Angeles Rams betting outlook: why one analyst is all in on a Super Bowl win at +550",
+      "link": "https://yahoo.com/news/articles/los-angeles-rams-betting-outlook-171727702.html",
+      "source": "Yahoo",
+      "ts": 1785061020.0,
+      "published_iso": "2026-07-26T10:17:00+00:00"
     }
   ]
 }
