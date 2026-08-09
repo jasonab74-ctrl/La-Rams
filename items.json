@@ -1,5 +1,5 @@
 {
-  "updated_iso": "2026-08-09T06:05:14.671406+00:00",
+  "updated_iso": "2026-08-09T07:27:53.147201+00:00",
   "count": 3,
   "items": [
     {
@@ -11,20 +11,20 @@
       "published_iso": "2026-08-08T14:33:00+00:00"
     },
     {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1785319500.0,
-      "published_iso": "2026-07-29T10:05:00+00:00"
-    },
-    {
       "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
       "title": "Los Angeles Rams betting outlook: why one analyst is all in on a Super Bowl win at +550",
       "link": "https://yahoo.com/news/articles/los-angeles-rams-betting-outlook-171727702.html",
       "source": "Yahoo",
       "ts": 1785061020.0,
       "published_iso": "2026-07-26T10:17:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-seahawks-rams-odds-prediction-time-spread-2026-nfc-championship-game-picks-nfl-lines-best-b",
+      "title": "Seahawks vs. Rams odds, prediction, spread, time: 2026 NFC Championship Game picks from proven computer model",
+      "link": "https://cbssports.com/nfl/news/seahawks-rams-odds-prediction-time-spread-2026-nfc-championship-game-picks-nfl-lines-best-bets/",
+      "source": "CBS Sports",
+      "ts": 1769350920.0,
+      "published_iso": "2026-01-25T14:22:00+00:00"
     }
   ]
 }
