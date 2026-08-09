@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-08-09T04:06:44.931602+00:00",
+  "updated_iso": "2026-08-09T05:26:57.991873+00:00",
   "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-sean-mcvay-gets-honest-strong-024229846-html",
-      "title": "Sean McVay Gets Honest After Strong Words About Aaron Donald Amid Rams’ Shift",
-      "link": "https://sports.yahoo.com/articles/sean-mcvay-gets-honest-strong-024229846.html",
+      "id": "https-sports-yahoo-com-articles-2026-arizona-cardinals-opponent-preview-213353824-html",
+      "title": "2026 Arizona Cardinals opponent preview: Los Angeles Rams",
+      "link": "https://sports.yahoo.com/articles/2026-arizona-cardinals-opponent-preview-213353824.html",
       "source": "Yahoo Sports",
-      "ts": 1786208340.0,
-      "published_iso": "2026-08-08T16:59:00+00:00"
+      "ts": 1786199580.0,
+      "published_iso": "2026-08-08T14:33:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1785319500.0,
+      "published_iso": "2026-07-29T10:05:00+00:00"
     },
     {
       "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
@@ -17,14 +25,6 @@
       "source": "Yahoo",
       "ts": 1785061020.0,
       "published_iso": "2026-07-26T10:17:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-seahawks-rams-odds-prediction-time-spread-2026-nfc-championship-game-picks-nfl-lines-best-b",
-      "title": "Seahawks vs. Rams odds, prediction, spread, time: 2026 NFC Championship Game picks from proven computer model",
-      "link": "https://cbssports.com/nfl/news/seahawks-rams-odds-prediction-time-spread-2026-nfc-championship-game-picks-nfl-lines-best-bets/",
-      "source": "CBS Sports",
-      "ts": 1769350920.0,
-      "published_iso": "2026-01-25T14:22:00+00:00"
     }
   ]
 }
