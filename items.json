@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-09T21:54:32.321939+00:00",
-  "count": 2,
+  "updated_iso": "2026-08-09T22:15:43.548241+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-2026-arizona-cardinals-opponent-preview-213353824-html",
@@ -9,6 +9,14 @@
       "source": "Yahoo Sports",
       "ts": 1786199580.0,
       "published_iso": "2026-08-08T14:33:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1785319500.0,
+      "published_iso": "2026-07-29T10:05:00+00:00"
     },
     {
       "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
