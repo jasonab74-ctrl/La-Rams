@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2026-08-09T02:53:57.367166+00:00",
-  "count": 1,
+  "updated_iso": "2026-08-09T04:06:44.931602+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-preseason-schedule-dates-times-141057710-html",
-      "title": "Rams Preseason Schedule: Dates, Times and TV Channels",
-      "link": "https://sports.yahoo.com/articles/rams-preseason-schedule-dates-times-141057710.html",
+      "id": "https-sports-yahoo-com-articles-sean-mcvay-gets-honest-strong-024229846-html",
+      "title": "Sean McVay Gets Honest After Strong Words About Aaron Donald Amid Rams’ Shift",
+      "link": "https://sports.yahoo.com/articles/sean-mcvay-gets-honest-strong-024229846.html",
       "source": "Yahoo Sports",
-      "ts": 1786173000.0,
-      "published_iso": "2026-08-08T07:10:00+00:00"
+      "ts": 1786208340.0,
+      "published_iso": "2026-08-08T16:59:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
+      "title": "Los Angeles Rams betting outlook: why one analyst is all in on a Super Bowl win at +550",
+      "link": "https://yahoo.com/news/articles/los-angeles-rams-betting-outlook-171727702.html",
+      "source": "Yahoo",
+      "ts": 1785061020.0,
+      "published_iso": "2026-07-26T10:17:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-seahawks-rams-odds-prediction-time-spread-2026-nfc-championship-game-picks-nfl-lines-best-b",
+      "title": "Seahawks vs. Rams odds, prediction, spread, time: 2026 NFC Championship Game picks from proven computer model",
+      "link": "https://cbssports.com/nfl/news/seahawks-rams-odds-prediction-time-spread-2026-nfc-championship-game-picks-nfl-lines-best-bets/",
+      "source": "CBS Sports",
+      "ts": 1769350920.0,
+      "published_iso": "2026-01-25T14:22:00+00:00"
     }
   ]
 }
