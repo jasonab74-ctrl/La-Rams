@@ -1,22 +1,5 @@
 {
-  "updated_iso": "2026-08-12T14:09:42.328156+00:00",
-  "count": 2,
-  "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-matthew-stafford-gets-honest-rams-083640194-html",
-      "title": "Matthew Stafford Gets Honest After Rams’ War of Words With Cowboys",
-      "link": "https://sports.yahoo.com/articles/matthew-stafford-gets-honest-rams-083640194.html",
-      "source": "Yahoo Sports",
-      "ts": 1786498560.0,
-      "published_iso": "2026-08-12T01:36:00+00:00"
-    },
-    {
-      "id": "https-espn-com-nfl-team-injuries-name-lar-los-angeles",
-      "title": "Los Angeles Rams Injury Status",
-      "link": "https://espn.com/nfl/team/injuries/_/name/lar/los-angeles",
-      "source": "ESPN",
-      "ts": 1677121860.0,
-      "published_iso": "2023-02-23T03:11:00+00:00"
-    }
-  ]
+  "updated_iso": "2026-08-12T15:24:55.407768+00:00",
+  "count": 0,
+  "items": []
 }
