@@ -1,30 +1,5 @@
 {
-  "updated_iso": "2026-08-12T10:47:31.739506+00:00",
-  "count": 3,
-  "items": [
-    {
-      "id": "https-yahoo-com-news-videos-cowboys-defense-shows-rams-joint-004537943-html",
-      "title": "Cowboys defense shows up in Rams joint practice | Free4All+",
-      "link": "https://yahoo.com/news/videos/cowboys-defense-shows-rams-joint-004537943.html",
-      "source": "Yahoo",
-      "ts": 1786470300.0,
-      "published_iso": "2026-08-11T17:45:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-la-rams-myles-garrett-draws-235558578-html",
-      "title": "LA Rams’ Myles Garrett Draws Revealing Injury Update From Sean McVay",
-      "link": "https://sports.yahoo.com/articles/la-rams-myles-garrett-draws-235558578.html",
-      "source": "Yahoo Sports",
-      "ts": 1786467300.0,
-      "published_iso": "2026-08-11T16:55:00+00:00"
-    },
-    {
-      "id": "https-espn-com-nfl-team-injuries-name-lar-los-angeles",
-      "title": "Los Angeles Rams Injury Status",
-      "link": "https://espn.com/nfl/team/injuries/_/name/lar/los-angeles",
-      "source": "ESPN",
-      "ts": 1677121860.0,
-      "published_iso": "2023-02-23T03:11:00+00:00"
-    }
-  ]
+  "updated_iso": "2026-08-12T11:35:41.821910+00:00",
+  "count": 0,
+  "items": []
 }
