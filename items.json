@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-08-12T19:31:49.713124+00:00",
-  "count": 2,
+  "updated_iso": "2026-08-12T20:28:13.333775+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-former-rams-kicker-joshua-karty-115800282-html",
-      "title": "Former Rams kicker Joshua Karty works out for Titans",
-      "link": "https://sports.yahoo.com/articles/former-rams-kicker-joshua-karty-115800282.html",
+      "id": "https-sports-yahoo-com-articles-jonas-brothers-headline-halftime-show-131408563-html",
+      "title": "Jonas Brothers to headline halftime show for Rams-49ers historic Australia game",
+      "link": "https://sports.yahoo.com/articles/jonas-brothers-headline-halftime-show-131408563.html",
       "source": "Yahoo Sports",
-      "ts": 1786510740.0,
-      "published_iso": "2026-08-12T04:59:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-unite-communities-girls-flag-football-club-team-initiative-article",
-      "title": "Rams unite communities through girls flag football with Club Team Initiative",
-      "link": "https://therams.com/news/rams-unite-communities-girls-flag-football-club-team-initiative-article",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1786496400.0,
-      "published_iso": "2026-08-12T01:00:00+00:00"
+      "ts": 1786515240.0,
+      "published_iso": "2026-08-12T06:14:00+00:00"
     }
   ]
 }
