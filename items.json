@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-08-12T20:28:13.333775+00:00",
-  "count": 1,
+  "updated_iso": "2026-08-12T21:11:43.219930+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-jonas-brothers-headline-halftime-show-131408563-html",
-      "title": "Jonas Brothers to headline halftime show for Rams-49ers historic Australia game",
-      "link": "https://sports.yahoo.com/articles/jonas-brothers-headline-halftime-show-131408563.html",
-      "source": "Yahoo Sports",
-      "ts": 1786515240.0,
-      "published_iso": "2026-08-12T06:14:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-12-rams-puka-nacua-injury-fatal-flaw-wide-receiver-91252717",
+      "title": "Puka Nacua's injury may have revealed Rams' fatal flaw",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/08/12/rams-puka-nacua-injury-fatal-flaw-wide-receiver/91252717007/",
+      "source": "Rams Wire",
+      "ts": 1786516200.0,
+      "published_iso": "2026-08-12T06:30:00+00:00"
+    },
+    {
+      "id": "https-ocregister-com-2026-08-12-alexander-a-chargers-rams-super-bowl-at-sofi-stadium-that-would-be-wild",
+      "title": "Alexander: A Chargers-Rams Super Bowl at SoFi Stadium? That would be wild",
+      "link": "https://ocregister.com/2026/08/12/alexander-a-chargers-rams-super-bowl-at-sofi-stadium-that-would-be-wild/",
+      "source": "OC Register",
+      "ts": 1786498140.0,
+      "published_iso": "2026-08-12T01:29:00+00:00"
     }
   ]
 }
