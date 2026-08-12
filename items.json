@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-08-12T17:23:21.054886+00:00",
-  "count": 5,
+  "updated_iso": "2026-08-12T18:12:07.295712+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-jonas-brothers-set-nfl-halftime-140613971-html",
-      "title": "Jonas Brothers Set For NFL Halftime Performance In Melbourne Game With Los Angeles Rams & San Francisco 49ers",
-      "link": "https://sports.yahoo.com/articles/jonas-brothers-set-nfl-halftime-140613971.html",
-      "source": "Yahoo Sports",
-      "ts": 1786518300.0,
-      "published_iso": "2026-08-12T07:05:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-12-rams-cowboys-practice-standouts-best-players-91269553007",
+      "title": "5 standouts from Rams' joint practice with Cowboys",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/08/12/rams-cowboys-practice-standouts-best-players/91269553007/",
+      "source": "Rams Wire",
+      "ts": 1786520520.0,
+      "published_iso": "2026-08-12T07:42:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-12-rams-joshua-karty-titans-workout-91268226007",
@@ -25,14 +25,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1786496400.0,
       "published_iso": "2026-08-12T01:00:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1785319500.0,
-      "published_iso": "2026-07-29T10:05:00+00:00"
     },
     {
       "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
