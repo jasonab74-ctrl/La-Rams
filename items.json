@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-08-12T18:12:07.295712+00:00",
-  "count": 4,
+  "updated_iso": "2026-08-12T19:31:49.713124+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-12-rams-cowboys-practice-standouts-best-players-91269553007",
-      "title": "5 standouts from Rams' joint practice with Cowboys",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/08/12/rams-cowboys-practice-standouts-best-players/91269553007/",
-      "source": "Rams Wire",
-      "ts": 1786520520.0,
-      "published_iso": "2026-08-12T07:42:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-12-rams-joshua-karty-titans-workout-91268226007",
+      "id": "https-sports-yahoo-com-articles-former-rams-kicker-joshua-karty-115800282-html",
       "title": "Former Rams kicker Joshua Karty works out for Titans",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/08/12/rams-joshua-karty-titans-workout/91268226007/",
-      "source": "Rams Wire",
-      "ts": 1786514280.0,
-      "published_iso": "2026-08-12T05:58:00+00:00"
+      "link": "https://sports.yahoo.com/articles/former-rams-kicker-joshua-karty-115800282.html",
+      "source": "Yahoo Sports",
+      "ts": 1786510740.0,
+      "published_iso": "2026-08-12T04:59:00+00:00"
     },
     {
       "id": "https-therams-com-news-rams-unite-communities-girls-flag-football-club-team-initiative-article",
@@ -25,14 +17,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1786496400.0,
       "published_iso": "2026-08-12T01:00:00+00:00"
-    },
-    {
-      "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
-      "title": "Los Angeles Rams betting outlook: why one analyst is all in on a Super Bowl win at +550",
-      "link": "https://yahoo.com/news/articles/los-angeles-rams-betting-outlook-171727702.html",
-      "source": "Yahoo",
-      "ts": 1785061020.0,
-      "published_iso": "2026-07-26T10:17:00+00:00"
     }
   ]
 }
