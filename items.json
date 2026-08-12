@@ -1,5 +1,46 @@
 {
-  "updated_iso": "2026-08-12T16:14:01.217362+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-08-12T17:23:21.054886+00:00",
+  "count": 5,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-jonas-brothers-set-nfl-halftime-140613971-html",
+      "title": "Jonas Brothers Set For NFL Halftime Performance In Melbourne Game With Los Angeles Rams & San Francisco 49ers",
+      "link": "https://sports.yahoo.com/articles/jonas-brothers-set-nfl-halftime-140613971.html",
+      "source": "Yahoo Sports",
+      "ts": 1786518300.0,
+      "published_iso": "2026-08-12T07:05:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-12-rams-joshua-karty-titans-workout-91268226007",
+      "title": "Former Rams kicker Joshua Karty works out for Titans",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/08/12/rams-joshua-karty-titans-workout/91268226007/",
+      "source": "Rams Wire",
+      "ts": 1786514280.0,
+      "published_iso": "2026-08-12T05:58:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-unite-communities-girls-flag-football-club-team-initiative-article",
+      "title": "Rams unite communities through girls flag football with Club Team Initiative",
+      "link": "https://therams.com/news/rams-unite-communities-girls-flag-football-club-team-initiative-article",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1786496400.0,
+      "published_iso": "2026-08-12T01:00:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1785319500.0,
+      "published_iso": "2026-07-29T10:05:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
+      "title": "Los Angeles Rams betting outlook: why one analyst is all in on a Super Bowl win at +550",
+      "link": "https://yahoo.com/news/articles/los-angeles-rams-betting-outlook-171727702.html",
+      "source": "Yahoo",
+      "ts": 1785061020.0,
+      "published_iso": "2026-07-26T10:17:00+00:00"
+    }
+  ]
 }
