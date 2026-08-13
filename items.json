@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-08-13T18:13:13.543168+00:00",
-  "count": 3,
+  "updated_iso": "2026-08-13T19:30:42.267904+00:00",
+  "count": 2,
   "items": [
-    {
-      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-puka-nacua-gruesome-injury-fanatics-party-2026-nfl-season-matth",
-      "title": "Rams' Puka Nacua gets gruesome injury at Fanatics party before 2026 NFL season",
-      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-puka-nacua-gruesome-injury-fanatics-party-2026-nfl-season-matthew-stafford-sean-mcvay/d667ee12f44e7e90f349bd1b",
-      "source": "Sporting News",
-      "ts": 1786618800.0,
-      "published_iso": "2026-08-13T11:00:00+00:00"
-    },
     {
       "id": "https-therams-com-news-los-angeles-rams-kansas-city-chiefs-how-to-watch-listen-to-and-live-stream-2026-preseason-week-1",
       "title": "Los Angeles Rams at Kansas City Chiefs: How to watch, listen to and live stream 2026 Preseason Week 1",
@@ -19,12 +11,12 @@
       "published_iso": "2026-08-12T12:01:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-severity-puka-061019993-html",
-      "title": "Los Angeles Rams Get Update on Severity of Puka Nacua’s Injury",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-severity-puka-061019993.html",
-      "source": "Yahoo Sports",
-      "ts": 1786489740.0,
-      "published_iso": "2026-08-11T23:09:00+00:00"
+      "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
+      "title": "Los Angeles Rams betting outlook: why one analyst is all in on a Super Bowl win at +550",
+      "link": "https://yahoo.com/news/articles/los-angeles-rams-betting-outlook-171727702.html",
+      "source": "Yahoo",
+      "ts": 1785061020.0,
+      "published_iso": "2026-07-26T10:17:00+00:00"
     }
   ]
 }
