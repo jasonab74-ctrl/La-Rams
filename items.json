@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-08-13T00:03:18.508370+00:00",
-  "count": 5,
+  "updated_iso": "2026-08-13T03:03:35.316026+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-therams-com-news-los-angeles-rams-kansas-city-chiefs-how-to-watch-listen-to-and-live-stream-2026-preseason-week-1",
+      "title": "Los Angeles Rams at Kansas City Chiefs: How to watch, listen to and live stream 2026 Preseason Week 1",
+      "link": "https://therams.com/news/los-angeles-rams-kansas-city-chiefs-how-to-watch-listen-to-and-live-stream-2026-preseason-week-1",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1786536060.0,
+      "published_iso": "2026-08-12T12:01:00+00:00"
+    },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-12-rams-most-valuable-franchise-rankings-cowboys-9127197100",
       "title": "Rams are 2nd-most valuable franchise in NFL after major 1-year growth",
@@ -9,30 +17,6 @@
       "source": "Rams Wire",
       "ts": 1786527240.0,
       "published_iso": "2026-08-12T09:34:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-12-rams-puka-nacua-injury-fatal-flaw-wide-receiver-91252717",
-      "title": "Puka Nacua's injury may have revealed Rams' fatal flaw",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/08/12/rams-puka-nacua-injury-fatal-flaw-wide-receiver/91252717007/",
-      "source": "Rams Wire",
-      "ts": 1786516200.0,
-      "published_iso": "2026-08-12T06:30:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25470424-cowboys-rams-giants-top-sporticos-full-list-2026-nfl-franchise-valuations",
-      "title": "Cowboys, Rams, Giants Top Sportico's Full List of 2026 NFL Franchise Valuations",
-      "link": "https://bleacherreport.com/articles/25470424-cowboys-rams-giants-top-sporticos-full-list-2026-nfl-franchise-valuations",
-      "source": "Bleacher Report",
-      "ts": 1786515180.0,
-      "published_iso": "2026-08-12T06:13:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-why-cowboys-performance-against-rams-130000592-html",
-      "title": "Why the Cowboys’ performance against the Rams is exciting",
-      "link": "https://sports.yahoo.com/articles/why-cowboys-performance-against-rams-130000592.html",
-      "source": "Yahoo Sports",
-      "ts": 1786514400.0,
-      "published_iso": "2026-08-12T06:00:00+00:00"
     },
     {
       "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
