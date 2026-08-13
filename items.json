@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-08-12T23:06:42.230632+00:00",
-  "count": 4,
+  "updated_iso": "2026-08-13T00:03:18.508370+00:00",
+  "count": 5,
   "items": [
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-12-jonas-brothers-headline-rams-vs-49ers-australia-halftime",
-      "title": "Rams vs. 49ers Australia game halftime show revealed",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/08/12/jonas-brothers-headline-rams-vs-49ers-australia-halftime-show/91271500007/",
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-12-rams-most-valuable-franchise-rankings-cowboys-9127197100",
+      "title": "Rams are 2nd-most valuable franchise in NFL after major 1-year growth",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/08/12/rams-most-valuable-franchise-rankings-cowboys/91271971007/",
       "source": "Rams Wire",
-      "ts": 1786523700.0,
-      "published_iso": "2026-08-12T08:35:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-nfl-announces-halftime-performer-week-134755247-html",
-      "title": "NFL Announces Halftime Performer For Week 1 49ers vs. Rams",
-      "link": "https://sports.yahoo.com/articles/nfl-announces-halftime-performer-week-134755247.html",
-      "source": "Yahoo Sports",
-      "ts": 1786517220.0,
-      "published_iso": "2026-08-12T06:47:00+00:00"
+      "ts": 1786527240.0,
+      "published_iso": "2026-08-12T09:34:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-12-rams-puka-nacua-injury-fatal-flaw-wide-receiver-91252717",
@@ -33,6 +25,22 @@
       "source": "Bleacher Report",
       "ts": 1786515180.0,
       "published_iso": "2026-08-12T06:13:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-why-cowboys-performance-against-rams-130000592-html",
+      "title": "Why the Cowboys’ performance against the Rams is exciting",
+      "link": "https://sports.yahoo.com/articles/why-cowboys-performance-against-rams-130000592.html",
+      "source": "Yahoo Sports",
+      "ts": 1786514400.0,
+      "published_iso": "2026-08-12T06:00:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
+      "title": "Los Angeles Rams betting outlook: why one analyst is all in on a Super Bowl win at +550",
+      "link": "https://yahoo.com/news/articles/los-angeles-rams-betting-outlook-171727702.html",
+      "source": "Yahoo",
+      "ts": 1785061020.0,
+      "published_iso": "2026-07-26T10:17:00+00:00"
     }
   ]
 }
