@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2026-08-14T21:12:57.762374+00:00",
-  "count": 3,
+  "updated_iso": "2026-08-14T21:44:59.549923+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-decision-quarterback-stetson-bennett-144229878-html",
-      "title": "Rams Make Decision on Quarterback Stetson Bennett in Preseason Opener vs. Chiefs",
-      "link": "https://sports.yahoo.com/articles/rams-decision-quarterback-stetson-bennett-144229878.html",
+      "id": "https-sports-yahoo-com-articles-why-rams-preseason-critical-ty-161237909-html",
+      "title": "Why Rams Preseason Will Be Critical for Ty Simpson's Development",
+      "link": "https://sports.yahoo.com/articles/why-rams-preseason-critical-ty-161237909.html",
       "source": "Yahoo Sports",
-      "ts": 1786693320.0,
-      "published_iso": "2026-08-14T07:42:00+00:00"
+      "ts": 1786698720.0,
+      "published_iso": "2026-08-14T09:12:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-14-rams-chiefs-players-to-watch-preseason-week-1-9130212500",
+      "title": "7 players to watch in Rams' preseason game vs. Chiefs",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/08/14/rams-chiefs-players-to-watch-preseason-week-1/91302125007/",
+      "source": "Rams Wire",
+      "ts": 1786698360.0,
+      "published_iso": "2026-08-14T09:06:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-watch-kansas-city-chiefs-preseason-124500581-html",
+      "title": "How to watch the Kansas City Chiefs' preseason opener against the Los Angeles Rams with full TV info, kickoff time, and viewing options",
+      "link": "https://sports.yahoo.com/articles/watch-kansas-city-chiefs-preseason-124500581.html",
+      "source": "Yahoo Sports",
+      "ts": 1786686300.0,
+      "published_iso": "2026-08-14T05:45:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-kansas-city-chiefs-how-to-watch-listen-to-and-live-stream-2026-preseason-week-1",
@@ -17,14 +33,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1786536060.0,
       "published_iso": "2026-08-12T12:01:00+00:00"
-    },
-    {
-      "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
-      "title": "Los Angeles Rams betting outlook: why one analyst is all in on a Super Bowl win at +550",
-      "link": "https://yahoo.com/news/articles/los-angeles-rams-betting-outlook-171727702.html",
-      "source": "Yahoo",
-      "ts": 1785061020.0,
-      "published_iso": "2026-07-26T10:17:00+00:00"
     }
   ]
 }
