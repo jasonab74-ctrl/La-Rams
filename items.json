@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-14T22:44:37.933050+00:00",
-  "count": 4,
+  "updated_iso": "2026-08-14T23:09:17.382169+00:00",
+  "count": 5,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-la-rams-aaron-donald-comeback-214819535-html",
@@ -19,12 +19,12 @@
       "published_iso": "2026-08-14T14:44:00+00:00"
     },
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-14-rams-chiefs-players-to-watch-preseason-week-1-9130212500",
-      "title": "7 players to watch in Rams' preseason game vs. Chiefs",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/08/14/rams-chiefs-players-to-watch-preseason-week-1/91302125007/",
-      "source": "Rams Wire",
-      "ts": 1786698360.0,
-      "published_iso": "2026-08-14T09:06:00+00:00"
+      "id": "https-sports-yahoo-com-articles-why-rams-preseason-critical-ty-161237909-html",
+      "title": "Why Rams Preseason Will Be Critical for Ty Simpson's Development",
+      "link": "https://sports.yahoo.com/articles/why-rams-preseason-critical-ty-161237909.html",
+      "source": "Yahoo Sports",
+      "ts": 1786698720.0,
+      "published_iso": "2026-08-14T09:12:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-kansas-city-chiefs-how-to-watch-listen-to-and-live-stream-2026-preseason-week-1",
@@ -33,6 +33,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1786536060.0,
       "published_iso": "2026-08-12T12:01:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
+      "title": "Los Angeles Rams betting outlook: why one analyst is all in on a Super Bowl win at +550",
+      "link": "https://yahoo.com/news/articles/los-angeles-rams-betting-outlook-171727702.html",
+      "source": "Yahoo",
+      "ts": 1785061020.0,
+      "published_iso": "2026-07-26T10:17:00+00:00"
     }
   ]
 }
