@@ -1,30 +1,14 @@
 {
-  "updated_iso": "2026-08-15T21:40:50.440622+00:00",
-  "count": 3,
+  "updated_iso": "2026-08-15T22:06:43.497369+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-nfl-insider-aaron-donald-possible-204005315-html",
-      "title": "NFL Insider’s take on Aaron Donald possible Rams return will turn heads",
-      "link": "https://sports.yahoo.com/articles/nfl-insider-aaron-donald-possible-204005315.html",
+      "id": "https-sports-yahoo-com-articles-3-rams-watch-preseason-week-173921397-html",
+      "title": "3 Rams to Watch in Preseason Week 1 Against the Kansas City Chiefs",
+      "link": "https://sports.yahoo.com/articles/3-rams-watch-preseason-week-173921397.html",
       "source": "Yahoo Sports",
-      "ts": 1786801200.0,
-      "published_iso": "2026-08-15T13:40:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-keagen-trost-ruled-preseason-203907076-html",
-      "title": "Rams' Keagen Trost Ruled Out of Preseason Opener With Hamstring Injury",
-      "link": "https://sports.yahoo.com/articles/rams-keagen-trost-ruled-preseason-203907076.html",
-      "source": "Yahoo Sports",
-      "ts": 1786801140.0,
-      "published_iso": "2026-08-15T13:39:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-15-rams-injuries-keagen-trost-hamstring-out-chiefs-preseaso",
-      "title": "Rams rookie Keagen Trost ruled out after 1st-quarter hamstring injury",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/08/15/rams-injuries-keagen-trost-hamstring-out-chiefs-preseason/91321972007/",
-      "source": "Rams Wire",
-      "ts": 1786754520.0,
-      "published_iso": "2026-08-15T00:42:00+00:00"
+      "ts": 1786790340.0,
+      "published_iso": "2026-08-15T10:39:00+00:00"
     }
   ]
 }
