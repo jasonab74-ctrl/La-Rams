@@ -1,23 +1,7 @@
 {
-  "updated_iso": "2026-08-15T20:07:24.090985+00:00",
-  "count": 3,
+  "updated_iso": "2026-08-15T20:43:23.022637+00:00",
+  "count": 2,
   "items": [
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-15-rams-chiefs-live-updates-score-highlights-injuries-prese",
-      "title": "Rams vs. Chiefs live updates: NFL preseason game score, highlights",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/08/15/rams-chiefs-live-updates-score-highlights-injuries-preseason/91321249007/",
-      "source": "Rams Wire",
-      "ts": 1786798800.0,
-      "published_iso": "2026-08-15T13:00:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-chiefs-rams-preseason-week-1-193000504-html",
-      "title": "Chiefs-Rams Preseason Week 1: Game Discussion",
-      "link": "https://sports.yahoo.com/articles/chiefs-rams-preseason-week-1-193000504.html",
-      "source": "Yahoo Sports",
-      "ts": 1786797000.0,
-      "published_iso": "2026-08-15T12:30:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-chiefs-vs-rams-4-key-191734171-html",
       "title": "Chiefs vs. Rams: 4 Key Position Battles to Watch as Patrick Mahomes Sits Preseason Opener",
@@ -25,6 +9,14 @@
       "source": "Yahoo Sports",
       "ts": 1786796220.0,
       "published_iso": "2026-08-15T12:17:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-nfl-hands-suspensions-rams-still-152947837-html",
+      "title": "NFL Hands Out Suspensions, But Rams Still Await Decisions on Puka Nacua, Alaric Jackson",
+      "link": "https://sports.yahoo.com/articles/nfl-hands-suspensions-rams-still-152947837.html",
+      "source": "Yahoo Sports",
+      "ts": 1786782540.0,
+      "published_iso": "2026-08-15T08:29:00+00:00"
     }
   ]
 }
