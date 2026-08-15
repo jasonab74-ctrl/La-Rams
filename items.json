@@ -1,23 +1,7 @@
 {
-  "updated_iso": "2026-08-15T22:42:50.977506+00:00",
-  "count": 4,
+  "updated_iso": "2026-08-15T23:07:59.122692+00:00",
+  "count": 1,
   "items": [
-    {
-      "id": "https-therams-com-video-highlights-rams-quarterback-ty-simpson-gain-preseason-chiefs",
-      "title": "HIGHLIGHTS: Rams QB Ty Simpson's first preseason pass goes for a 7-yard gain against the Chiefs",
-      "link": "https://therams.com/video/highlights-rams-quarterback-ty-simpson-gain-preseason-chiefs",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1786806120.0,
-      "published_iso": "2026-08-15T15:02:00+00:00"
-    },
-    {
-      "id": "https-therams-com-video-rams-quarterback-ty-simpson-tight-end-mark-redman-gain-preseason-chiefs",
-      "title": "HIGHLIGHTS: Rams QB Ty Simpson finds TE Mark Redman for 23-yard gain against the Chiefs",
-      "link": "https://therams.com/video/rams-quarterback-ty-simpson-tight-end-mark-redman-gain-preseason-chiefs",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1786804560.0,
-      "published_iso": "2026-08-15T14:36:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-nfl-insider-aaron-donald-possible-204005315-html",
       "title": "NFL Insider’s take on Aaron Donald possible Rams return will turn heads",
@@ -25,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1786801200.0,
       "published_iso": "2026-08-15T13:40:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-rookies-could-stand-saturday-191732841-html",
-      "title": "Rams Rookies Who Could Stand Out Saturday Against Kansas City Chiefs",
-      "link": "https://sports.yahoo.com/articles/rams-rookies-could-stand-saturday-191732841.html",
-      "source": "Yahoo Sports",
-      "ts": 1786796220.0,
-      "published_iso": "2026-08-15T12:17:00+00:00"
     }
   ]
 }
