@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-08-15T06:15:41.551896+00:00",
+  "updated_iso": "2026-08-15T07:02:59.814525+00:00",
   "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-channel-chiefs-vs-rams-today-053001655-html",
+      "title": "What channel is Chiefs vs. Rams on today? Time, TV schedule, live stream to watch NFL Week 1 preseason game",
+      "link": "https://sports.yahoo.com/articles/channel-chiefs-vs-rams-today-053001655.html",
+      "source": "Yahoo Sports",
+      "ts": 1786746600.0,
+      "published_iso": "2026-08-14T22:30:00+00:00"
+    },
     {
       "id": "https-apnews-com-article-rams-stetson-bennett-ty-simpson-d1f730dd1124cbdb12c246cca476c8d0",
       "title": "Stetson Bennett is finally in line to be Rams’ backup QB, 4 seasons after his Georgia glory days",
@@ -17,14 +25,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1786536060.0,
       "published_iso": "2026-08-12T12:01:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-2026-arizona-cardinals-opponent-preview-213353824-html",
-      "title": "2026 Arizona Cardinals opponent preview: Los Angeles Rams",
-      "link": "https://sports.yahoo.com/articles/2026-arizona-cardinals-opponent-preview-213353824.html",
-      "source": "Yahoo Sports",
-      "ts": 1786199580.0,
-      "published_iso": "2026-08-08T14:33:00+00:00"
     },
     {
       "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
