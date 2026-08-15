@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-08-15T02:41:33.226315+00:00",
+  "updated_iso": "2026-08-15T03:26:43.901474+00:00",
   "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-10-rams-players-watch-preseason-225537775-html",
+      "title": "10 Rams Players to Watch in Preseason Opener Against Chiefs",
+      "link": "https://sports.yahoo.com/articles/10-rams-players-watch-preseason-225537775.html",
+      "source": "Yahoo Sports",
+      "ts": 1786722900.0,
+      "published_iso": "2026-08-14T15:55:00+00:00"
+    },
     {
       "id": "https-apnews-com-article-rams-stetson-bennett-ty-simpson-d1f730dd1124cbdb12c246cca476c8d0",
       "title": "Stetson Bennett is finally in line to be Rams’ backup QB, 4 seasons after his Georgia glory days",
@@ -9,14 +17,6 @@
       "source": "AP News",
       "ts": 1786718640.0,
       "published_iso": "2026-08-14T14:44:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-watch-kansas-city-chiefs-preseason-124500581-html",
-      "title": "How to watch the Kansas City Chiefs' preseason opener against the Los Angeles Rams with full TV info, kickoff time, and viewing options",
-      "link": "https://sports.yahoo.com/articles/watch-kansas-city-chiefs-preseason-124500581.html",
-      "source": "Yahoo Sports",
-      "ts": 1786686300.0,
-      "published_iso": "2026-08-14T05:45:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-kansas-city-chiefs-how-to-watch-listen-to-and-live-stream-2026-preseason-week-1",
