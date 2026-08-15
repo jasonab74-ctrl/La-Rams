@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-08-15T14:09:09.499147+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-08-15T14:43:30.605431+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-apnews-com-article-rams-stetson-bennett-ty-simpson-d1f730dd1124cbdb12c246cca476c8d0",
+      "title": "Stetson Bennett is finally in line to be Rams’ backup QB, 4 seasons after his Georgia glory days",
+      "link": "https://apnews.com/article/rams-stetson-bennett-ty-simpson-d1f730dd1124cbdb12c246cca476c8d0",
+      "source": "AP News",
+      "ts": 1786718640.0,
+      "published_iso": "2026-08-14T14:44:00+00:00"
+    }
+  ]
 }
