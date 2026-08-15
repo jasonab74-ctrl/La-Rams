@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-08-15T19:11:33.831940+00:00",
-  "count": 2,
+  "updated_iso": "2026-08-15T19:40:27.550096+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-chiefs-stars-arrive-arrowhead-stadium-182132874-html",
-      "title": "Chiefs stars arrive at Arrowhead Stadium for preseason tilt vs. Rams",
-      "link": "https://sports.yahoo.com/articles/chiefs-stars-arrive-arrowhead-stadium-182132874.html",
+      "id": "https-sports-yahoo-com-articles-chiefs-rams-preseason-week-1-193000504-html",
+      "title": "Chiefs-Rams Preseason Week 1: Game Discussion",
+      "link": "https://sports.yahoo.com/articles/chiefs-rams-preseason-week-1-193000504.html",
       "source": "Yahoo Sports",
-      "ts": 1786792860.0,
-      "published_iso": "2026-08-15T11:21:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-where-watch-chiefs-vs-rams-145000482-html",
-      "title": "Where to Watch Chiefs vs. Rams: Time, TV Channel, Live Stream for NFL Preseason Week 1",
-      "link": "https://sports.yahoo.com/articles/where-watch-chiefs-vs-rams-145000482.html",
-      "source": "Yahoo Sports",
-      "ts": 1786780140.0,
-      "published_iso": "2026-08-15T07:49:00+00:00"
+      "ts": 1786797000.0,
+      "published_iso": "2026-08-15T12:30:00+00:00"
     }
   ]
 }
