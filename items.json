@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-08-15T18:09:12.781739+00:00",
-  "count": 1,
+  "updated_iso": "2026-08-15T18:51:42.087232+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-cbssports-com-betting-news-fanatics-sportsbook-promo-code-cbsfan26-get-1000-fancash-nfl-preseason-panthers-bills-r",
-      "title": "Fanatics Sportsbook promo code CBSFAN26: Get $1,000 FanCash for NFL Preseason, Panthers-Bills, Rams-Chiefs",
-      "link": "https://cbssports.com/betting/news/fanatics-sportsbook-promo-code-cbsfan26-get-1000-fancash-nfl-preseason-panthers-bills-rams-chiefs-saturday/",
-      "source": "CBS Sports",
-      "ts": 1786783740.0,
-      "published_iso": "2026-08-15T08:49:00+00:00"
+      "id": "https-sports-yahoo-com-articles-aaron-donald-works-again-rams-164422258-html",
+      "title": "Aaron Donald Works Out Again at Rams Facility As NFL Return Looms",
+      "link": "https://sports.yahoo.com/articles/aaron-donald-works-again-rams-164422258.html",
+      "source": "Yahoo Sports",
+      "ts": 1786787040.0,
+      "published_iso": "2026-08-15T09:44:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-where-watch-chiefs-vs-rams-145000482-html",
+      "title": "Where to Watch Chiefs vs. Rams: Time, TV Channel, Live Stream for NFL Preseason Week 1",
+      "link": "https://sports.yahoo.com/articles/where-watch-chiefs-vs-rams-145000482.html",
+      "source": "Yahoo Sports",
+      "ts": 1786780140.0,
+      "published_iso": "2026-08-15T07:49:00+00:00"
     }
   ]
 }
