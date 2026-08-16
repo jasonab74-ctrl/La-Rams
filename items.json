@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-08-16T04:04:16.608169+00:00",
-  "count": 2,
+  "updated_iso": "2026-08-16T04:55:54.800905+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-beat-chiefs-preseason-opener-231817228-html",
-      "title": "Rams beat Chiefs in preseason opener. Jaden Hicks had an outing he needed",
-      "link": "https://sports.yahoo.com/articles/rams-beat-chiefs-preseason-opener-231817228.html",
+      "id": "https-bleacherreport-com-articles-25472749-new-aaron-donald-update-given-sean-mcvay-rams-hc-wont-put-invisible-deadline-",
+      "title": "New Aaron Donald Update Given By Sean McVay, Rams HC Won't Put 'Invisible Deadline' on Decision",
+      "link": "https://bleacherreport.com/articles/25472749-new-aaron-donald-update-given-sean-mcvay-rams-hc-wont-put-invisible-deadline-decision",
+      "source": "Bleacher Report",
+      "ts": 1786813200.0,
+      "published_iso": "2026-08-15T17:00:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-photos-chiefs-rookies-nfl-debut-001214529-html",
+      "title": "Photos: Chiefs rookies make NFL debut in preseason loss to Rams",
+      "link": "https://sports.yahoo.com/articles/photos-chiefs-rookies-nfl-debut-001214529.html",
       "source": "Yahoo Sports",
-      "ts": 1786810740.0,
-      "published_iso": "2026-08-15T16:19:00+00:00"
+      "ts": 1786813200.0,
+      "published_iso": "2026-08-15T17:00:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-instant-reaction-ty-simpson-impresses-231238468-html",
