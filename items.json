@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-08-16T03:23:39.938385+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-08-16T04:04:16.608169+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-beat-chiefs-preseason-opener-231817228-html",
+      "title": "Rams beat Chiefs in preseason opener. Jaden Hicks had an outing he needed",
+      "link": "https://sports.yahoo.com/articles/rams-beat-chiefs-preseason-opener-231817228.html",
+      "source": "Yahoo Sports",
+      "ts": 1786810740.0,
+      "published_iso": "2026-08-15T16:19:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-instant-reaction-ty-simpson-impresses-231238468-html",
+      "title": "Instant Reaction: Ty Simpson Impresses in Preseason Debut as Rams Beat Chiefs",
+      "link": "https://sports.yahoo.com/articles/instant-reaction-ty-simpson-impresses-231238468.html",
+      "source": "Yahoo Sports",
+      "ts": 1786810320.0,
+      "published_iso": "2026-08-15T16:12:00+00:00"
+    }
+  ]
 }
