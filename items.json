@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-16T16:46:15.384878+00:00",
-  "count": 2,
+  "updated_iso": "2026-08-16T17:09:11.723667+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-coach-sean-mcvay-aaron-donald-120659058-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1786856760.0,
       "published_iso": "2026-08-16T05:06:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-whats-next-for-rams-after-nfc-championship-defeat-matthew-stafford",
-      "title": "What's next for Rams after NFC Championship defeat? Matthew Stafford decision, potential staff losses loom",
-      "link": "https://cbssports.com/nfl/news/whats-next-for-rams-after-nfc-championship-defeat-matthew-stafford/",
-      "source": "CBS Sports",
-      "ts": 1769373720.0,
-      "published_iso": "2026-01-25T20:42:00+00:00"
     }
   ]
 }
