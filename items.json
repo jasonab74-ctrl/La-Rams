@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-08-16T14:43:53.231063+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-08-16T15:08:39.552445+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
+      "title": "Los Angeles Rams betting outlook: why one analyst is all in on a Super Bowl win at +550",
+      "link": "https://yahoo.com/news/articles/los-angeles-rams-betting-outlook-171727702.html",
+      "source": "Yahoo",
+      "ts": 1785061020.0,
+      "published_iso": "2026-07-26T10:17:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-news-whats-next-for-rams-after-nfc-championship-defeat-matthew-stafford",
+      "title": "What's next for Rams after NFC Championship defeat? Matthew Stafford decision, potential staff losses loom",
+      "link": "https://cbssports.com/nfl/news/whats-next-for-rams-after-nfc-championship-defeat-matthew-stafford/",
+      "source": "CBS Sports",
+      "ts": 1769373720.0,
+      "published_iso": "2026-01-25T20:42:00+00:00"
+    }
+  ]
 }
