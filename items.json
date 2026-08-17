@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-17T23:09:48.398133+00:00",
-  "count": 1,
+  "updated_iso": "2026-08-17T23:42:05.750818+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-17-former-matthew-stafford-teammate-says-rams-qb-can-play-3",
@@ -9,6 +9,14 @@
       "source": "Rams Wire",
       "ts": 1786982460.0,
       "published_iso": "2026-08-17T16:01:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-videos-170-old-texas-mega-ranch-124641661-html",
+      "title": "How this 170-year-old Texas mega ranch has ties to the L.A. Rams",
+      "link": "https://yahoo.com/news/videos/170-old-texas-mega-ranch-124641661.html",
+      "source": "Yahoo",
+      "ts": 1786945560.0,
+      "published_iso": "2026-08-17T05:46:00+00:00"
     }
   ]
 }
