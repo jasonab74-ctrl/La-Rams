@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-08-17T21:12:58.748065+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-08-17T21:45:13.795214+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-espn-com-nfl-story-id-49641695-rams-not-looking-rush-wr-puka-nacua-de-myles-garrett-back-practice",
+      "title": "Rams not looking to rush WR Puka Nacua, DE Myles Garrett back to practice",
+      "link": "https://espn.com/nfl/story/_/id/49641695/rams-not-looking-rush-wr-puka-nacua-de-myles-garrett-back-practice",
+      "source": "ESPN",
+      "ts": 1786977000.0,
+      "published_iso": "2026-08-17T14:30:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-nfl-article-2026-nfl-preseason-how-to-watch-the-los-angeles-rams-vs-kansas-city-chiefs-today-chan",
+      "title": "2026 NFL preseason: How to watch the Los Angeles Rams vs. Kansas City Chiefs today, channel, where to stream and more",
+      "link": "https://sports.yahoo.com/nfl/article/2026-nfl-preseason-how-to-watch-the-los-angeles-rams-vs-kansas-city-chiefs-today-channel-where-to-stream-and-more-095500538.html",
+      "source": "Yahoo Sports",
+      "ts": 1786762500.0,
+      "published_iso": "2026-08-15T02:55:00+00:00"
+    }
+  ]
 }
