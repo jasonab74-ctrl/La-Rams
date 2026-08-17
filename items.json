@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-08-17T19:47:03.176592+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-08-17T20:11:32.916500+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-17-rams-injury-update-keagen-trost-rookie-hamstring-9134187",
+      "title": "Sean McVay gives update on Rams rookie Keagen Trost's hamstring injury",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/08/17/rams-injury-update-keagen-trost-rookie-hamstring/91341877007/",
+      "source": "Rams Wire",
+      "ts": 1786923000.0,
+      "published_iso": "2026-08-16T23:30:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-15-rams-chiefs-live-updates-score-highlights-injuries-prese",
+      "title": "Rams beat Chiefs in preseason opener: Final score, highlights",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/08/15/rams-chiefs-live-updates-score-highlights-injuries-preseason/91321249007/",
+      "source": "Rams Wire",
+      "ts": 1786798800.0,
+      "published_iso": "2026-08-15T13:00:00+00:00"
+    }
+  ]
 }
