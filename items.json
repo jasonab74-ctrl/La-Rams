@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-18T01:56:01.491460+00:00",
-  "count": 2,
+  "updated_iso": "2026-08-18T02:45:37.045386+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-17-former-matthew-stafford-teammate-says-rams-qb-can-play-3",
@@ -11,12 +11,20 @@
       "published_iso": "2026-08-17T16:01:00+00:00"
     },
     {
-      "id": "https-espn-com-espn-betting-story-id-49355492-los-angeles-rams-betting-outlook-2026",
-      "title": "Betting on the Los Angeles Rams in 2026: It's Super Bowl or bust in L.A.",
-      "link": "https://espn.com/espn/betting/story/_/id/49355492/los-angeles-rams-betting-outlook-2026",
+      "id": "https-espn-com-nfl-story-id-49641695-rams-not-looking-rush-wr-puka-nacua-de-myles-garrett-back-practice",
+      "title": "Rams not looking to rush WR Puka Nacua, DE Myles Garrett back to practice",
+      "link": "https://espn.com/nfl/story/_/id/49641695/rams-not-looking-rush-wr-puka-nacua-de-myles-garrett-back-practice",
       "source": "ESPN",
-      "ts": 1785386640.0,
-      "published_iso": "2026-07-30T04:44:00+00:00"
+      "ts": 1786977000.0,
+      "published_iso": "2026-08-17T14:30:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-nfl-article-2026-nfl-preseason-how-to-watch-the-los-angeles-rams-vs-kansas-city-chiefs-today-chan",
+      "title": "2026 NFL preseason: How to watch the Los Angeles Rams vs. Kansas City Chiefs today, channel, where to stream and more",
+      "link": "https://sports.yahoo.com/nfl/article/2026-nfl-preseason-how-to-watch-the-los-angeles-rams-vs-kansas-city-chiefs-today-channel-where-to-stream-and-more-095500538.html",
+      "source": "Yahoo Sports",
+      "ts": 1786762500.0,
+      "published_iso": "2026-08-15T02:55:00+00:00"
     }
   ]
 }
