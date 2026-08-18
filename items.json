@@ -1,5 +1,5 @@
 {
-  "updated_iso": "2026-08-18T07:58:22.202275+00:00",
+  "updated_iso": "2026-08-18T08:30:17.387878+00:00",
   "count": 2,
   "items": [
     {
@@ -11,12 +11,12 @@
       "published_iso": "2026-08-17T15:49:00+00:00"
     },
     {
-      "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
-      "title": "Los Angeles Rams betting outlook: why one analyst is all in on a Super Bowl win at +550",
-      "link": "https://yahoo.com/news/articles/los-angeles-rams-betting-outlook-171727702.html",
-      "source": "Yahoo",
-      "ts": 1785061020.0,
-      "published_iso": "2026-07-26T10:17:00+00:00"
+      "id": "https-espn-com-espn-betting-story-id-49355492-los-angeles-rams-betting-outlook-2026",
+      "title": "Betting on the Los Angeles Rams in 2026: It's Super Bowl or bust in L.A.",
+      "link": "https://espn.com/espn/betting/story/_/id/49355492/los-angeles-rams-betting-outlook-2026",
+      "source": "ESPN",
+      "ts": 1785386640.0,
+      "published_iso": "2026-07-30T04:44:00+00:00"
     }
   ]
 }
