@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-08-18T05:50:47.083168+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-08-18T06:19:26.346181+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-15-rams-chiefs-live-updates-score-highlights-injuries-prese",
+      "title": "Rams beat Chiefs in preseason opener: Final score, highlights",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/08/15/rams-chiefs-live-updates-score-highlights-injuries-preseason/91321249007/",
+      "source": "Rams Wire",
+      "ts": 1786798800.0,
+      "published_iso": "2026-08-15T13:00:00+00:00"
+    },
+    {
+      "id": "https-espn-com-espn-betting-story-id-49355492-los-angeles-rams-betting-outlook-2026",
+      "title": "Betting on the Los Angeles Rams in 2026: It's Super Bowl or bust in L.A.",
+      "link": "https://espn.com/espn/betting/story/_/id/49355492/los-angeles-rams-betting-outlook-2026",
+      "source": "ESPN",
+      "ts": 1785386640.0,
+      "published_iso": "2026-07-30T04:44:00+00:00"
+    }
+  ]
 }
