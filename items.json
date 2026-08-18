@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-18T04:57:16.252193+00:00",
-  "count": 2,
+  "updated_iso": "2026-08-18T05:20:52.761399+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-17-former-matthew-stafford-teammate-says-rams-qb-can-play-3",
@@ -17,6 +17,14 @@
       "source": "Yahoo Sports",
       "ts": 1786762500.0,
       "published_iso": "2026-08-15T02:55:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
+      "title": "Los Angeles Rams betting outlook: why one analyst is all in on a Super Bowl win at +550",
+      "link": "https://yahoo.com/news/articles/los-angeles-rams-betting-outlook-171727702.html",
+      "source": "Yahoo",
+      "ts": 1785061020.0,
+      "published_iso": "2026-07-26T10:17:00+00:00"
     }
   ]
 }
