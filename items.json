@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-18T23:41:55.964526+00:00",
-  "count": 1,
+  "updated_iso": "2026-08-19T00:27:34.026901+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-si-com-nfl-rams-onsi-puka-nacua-alaric-jackson-suspension-decision",
@@ -9,6 +9,14 @@
       "source": "Sports Illustrated",
       "ts": 1787049360.0,
       "published_iso": "2026-08-18T10:36:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
+      "title": "Los Angeles Rams betting outlook: why one analyst is all in on a Super Bowl win at +550",
+      "link": "https://yahoo.com/news/articles/los-angeles-rams-betting-outlook-171727702.html",
+      "source": "Yahoo",
+      "ts": 1785061020.0,
+      "published_iso": "2026-07-26T10:17:00+00:00"
     }
   ]
 }
