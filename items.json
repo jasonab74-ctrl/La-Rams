@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-08-19T03:34:41.322992+00:00",
-  "count": 1,
+  "updated_iso": "2026-08-19T04:23:32.223998+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-24-sack-defender-tabbed-001027475-html",
+      "title": "Rams 24-Sack Defender Tabbed Potential Breakout Candidate",
+      "link": "https://sports.yahoo.com/articles/rams-24-sack-defender-tabbed-001027475.html",
+      "source": "Yahoo Sports",
+      "ts": 1787072400.0,
+      "published_iso": "2026-08-18T17:00:00+00:00"
+    },
     {
       "id": "https-ocregister-com-2026-08-18-rams-prepare-for-joint-practice-against-saints-on-thursday",
       "title": "Rams prepare for joint practice against Saints on Thursday",
