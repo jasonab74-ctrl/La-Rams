@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-19T14:57:43.485711+00:00",
-  "count": 3,
+  "updated_iso": "2026-08-19T15:23:45.097623+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-19-this-is-the-most-concerning-part-of-the-rams-2026-roster",
@@ -11,20 +11,12 @@
       "published_iso": "2026-08-19T07:46:00+00:00"
     },
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-19-rams-cj-daniels-chiefs-preseason-micd-up-91367988007",
-      "title": "Watch: Rams rookie CJ Daniels mic'd up for preseason debut",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/08/19/rams-cj-daniels-chiefs-preseason-micd-up/91367988007/",
-      "source": "Rams Wire",
-      "ts": 1787076000.0,
-      "published_iso": "2026-08-18T18:00:00+00:00"
-    },
-    {
-      "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
-      "title": "Los Angeles Rams betting outlook: why one analyst is all in on a Super Bowl win at +550",
-      "link": "https://yahoo.com/news/articles/los-angeles-rams-betting-outlook-171727702.html",
-      "source": "Yahoo",
-      "ts": 1785061020.0,
-      "published_iso": "2026-07-26T10:17:00+00:00"
+      "id": "https-sports-yahoo-com-articles-4-100-yard-pro-gets-072714060-html",
+      "title": "4,100-Yard All-Pro Gets Unfortunate Words Amid Update on Potential Rams Deal",
+      "link": "https://sports.yahoo.com/articles/4-100-yard-pro-gets-072714060.html",
+      "source": "Yahoo Sports",
+      "ts": 1787099220.0,
+      "published_iso": "2026-08-19T00:27:00+00:00"
     }
   ]
 }
