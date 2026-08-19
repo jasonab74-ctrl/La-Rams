@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-19T08:30:01.516086+00:00",
-  "count": 2,
+  "updated_iso": "2026-08-19T09:03:46.996582+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-4-100-yard-pro-gets-072714060-html",
@@ -9,6 +9,14 @@
       "source": "Yahoo Sports",
       "ts": 1787099220.0,
       "published_iso": "2026-08-19T00:27:00+00:00"
+    },
+    {
+      "id": "https-sportingnews-com-us-betting-news-los-angeles-rams-betting-preview-2026-odds-futures-win-total-f7835e608f8d60d67c79",
+      "title": "Los Angeles Rams betting preview 2026: Odds, futures, win total prediction, sportsbook promos and more",
+      "link": "https://sportingnews.com/us/betting/news/los-angeles-rams-betting-preview-2026-odds-futures-win-total/f7835e608f8d60d67c7978f9",
+      "source": "Sporting News",
+      "ts": 1787047440.0,
+      "published_iso": "2026-08-18T10:04:00+00:00"
     },
     {
       "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
