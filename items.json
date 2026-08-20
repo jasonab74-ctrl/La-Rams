@@ -1,12 +1,20 @@
 {
-  "updated_iso": "2026-08-20T19:06:58.542160+00:00",
-  "count": 3,
+  "updated_iso": "2026-08-20T19:51:05.466295+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-ty-simpson-could-waiting-185023169-html",
-      "title": "Rams' Ty Simpson could be waiting a while to take over for Matthew Stafford",
-      "link": "https://sports.yahoo.com/articles/rams-ty-simpson-could-waiting-185023169.html",
+      "id": "https-sports-yahoo-com-articles-rams-fared-well-international-games-190000262-html",
+      "title": "Rams have fared well in international games in LA return",
+      "link": "https://sports.yahoo.com/articles/rams-fared-well-international-games-190000262.html",
       "source": "Yahoo Sports",
+      "ts": 1787227140.0,
+      "published_iso": "2026-08-20T11:59:00+00:00"
+    },
+    {
+      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-ty-simpson-could-waiting-take-over-matthew-stafford-d75cf32f58b",
+      "title": "Rams' Ty Simpson could be waiting a while to take over for Matthew Stafford",
+      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-ty-simpson-could-waiting-take-over-matthew-stafford/d75cf32f58b9fc954d644385",
+      "source": "Sporting News",
       "ts": 1787226600.0,
       "published_iso": "2026-08-20T11:50:00+00:00"
     },
