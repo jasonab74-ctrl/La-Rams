@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-08-20T21:49:01.255717+00:00",
-  "count": 2,
+  "updated_iso": "2026-08-20T22:12:38.215579+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-ty-simpson-could-waiting-185023169-html",
-      "title": "Rams' Ty Simpson could be waiting a while to take over for Matthew Stafford",
-      "link": "https://sports.yahoo.com/articles/rams-ty-simpson-could-waiting-185023169.html",
+      "id": "https-sports-yahoo-com-articles-rams-valuable-against-saints-stafford-215314349-html",
+      "title": "Rams get valuable work against Saints as Stafford-Adams connection continues to grow",
+      "link": "https://sports.yahoo.com/articles/rams-valuable-against-saints-stafford-215314349.html",
       "source": "Yahoo Sports",
-      "ts": 1787226600.0,
-      "published_iso": "2026-08-20T11:50:00+00:00"
+      "ts": 1787237580.0,
+      "published_iso": "2026-08-20T14:53:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-la-rams-missing-2-injured-212742107-html",
+      "title": "LA Rams Missing 2 Injured All-Pros for Joint Practice With Saints",
+      "link": "https://sports.yahoo.com/articles/la-rams-missing-2-injured-212742107.html",
+      "source": "Yahoo Sports",
+      "ts": 1787236020.0,
+      "published_iso": "2026-08-20T14:27:00+00:00"
     },
     {
       "id": "https-therams-com-news-10-observations-from-rams-joint-practice-with-saints-matthew-stafford-davante-adams-terrance-ferg",
