@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-08-21T04:06:44.390127+00:00",
+  "updated_iso": "2026-08-21T04:59:30.713806+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-expecting-official-aaron-donald-033325229-html",
+      "title": "Rams Expecting Official Aaron Donald News Amid Insider Update",
+      "link": "https://sports.yahoo.com/articles/rams-expecting-official-aaron-donald-033325229.html",
+      "source": "Yahoo Sports",
+      "ts": 1787245200.0,
+      "published_iso": "2026-08-20T17:00:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-winners-losers-joint-practice-225034345-html",
       "title": "Rams Winners and Losers From Joint Practice With Saints",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1787241000.0,
       "published_iso": "2026-08-20T15:50:00+00:00"
-    },
-    {
-      "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
-      "title": "Los Angeles Rams betting outlook: why one analyst is all in on a Super Bowl win at +550",
-      "link": "https://yahoo.com/news/articles/los-angeles-rams-betting-outlook-171727702.html",
-      "source": "Yahoo",
-      "ts": 1785061020.0,
-      "published_iso": "2026-07-26T10:17:00+00:00"
     }
   ]
 }
