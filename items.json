@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-21T04:59:30.713806+00:00",
-  "count": 2,
+  "updated_iso": "2026-08-21T05:29:43.789216+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-expecting-official-aaron-donald-033325229-html",
@@ -17,6 +17,14 @@
       "source": "Yahoo Sports",
       "ts": 1787241000.0,
       "published_iso": "2026-08-20T15:50:00+00:00"
+    },
+    {
+      "id": "https-ocregister-com-2026-08-20-rams-matthew-stafford-and-davante-adams-put-connection-on-display",
+      "title": "Rams’ Matthew Stafford and Davante Adams put connection on display",
+      "link": "https://ocregister.com/2026/08/20/rams-matthew-stafford-and-davante-adams-put-connection-on-display/",
+      "source": "OC Register",
+      "ts": 1787238180.0,
+      "published_iso": "2026-08-20T15:03:00+00:00"
     }
   ]
 }
