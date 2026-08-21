@@ -1,30 +1,14 @@
 {
-  "updated_iso": "2026-08-21T08:22:27.902265+00:00",
-  "count": 3,
+  "updated_iso": "2026-08-21T09:03:45.594184+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-winners-losers-joint-practice-225034345-html",
-      "title": "Rams Winners and Losers From Joint Practice With Saints",
-      "link": "https://sports.yahoo.com/articles/rams-winners-losers-joint-practice-225034345.html",
-      "source": "Yahoo Sports",
-      "ts": 1787241000.0,
-      "published_iso": "2026-08-20T15:50:00+00:00"
-    },
-    {
-      "id": "https-ocregister-com-2026-08-20-rams-matthew-stafford-and-davante-adams-put-connection-on-display",
-      "title": "Rams’ Matthew Stafford and Davante Adams put connection on display",
-      "link": "https://ocregister.com/2026/08/20/rams-matthew-stafford-and-davante-adams-put-connection-on-display/",
-      "source": "OC Register",
-      "ts": 1787238180.0,
-      "published_iso": "2026-08-20T15:03:00+00:00"
-    },
-    {
-      "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
-      "title": "Los Angeles Rams betting outlook: why one analyst is all in on a Super Bowl win at +550",
-      "link": "https://yahoo.com/news/articles/los-angeles-rams-betting-outlook-171727702.html",
-      "source": "Yahoo",
-      "ts": 1785061020.0,
-      "published_iso": "2026-07-26T10:17:00+00:00"
+      "id": "https-espn-com-espn-betting-story-id-49355492-los-angeles-rams-betting-outlook-2026",
+      "title": "Betting on the Los Angeles Rams in 2026: It's Super Bowl or bust in L.A.",
+      "link": "https://espn.com/espn/betting/story/_/id/49355492/los-angeles-rams-betting-outlook-2026",
+      "source": "ESPN",
+      "ts": 1785386640.0,
+      "published_iso": "2026-07-30T04:44:00+00:00"
     }
   ]
 }
