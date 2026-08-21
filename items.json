@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-08-21T06:32:32.208356+00:00",
-  "count": 5,
+  "updated_iso": "2026-08-21T07:32:10.174486+00:00",
+  "count": 3,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-rams-expecting-official-aaron-donald-033325229-html",
-      "title": "Rams Expecting Official Aaron Donald News Amid Insider Update",
-      "link": "https://sports.yahoo.com/articles/rams-expecting-official-aaron-donald-033325229.html",
-      "source": "Yahoo Sports",
-      "ts": 1787245200.0,
-      "published_iso": "2026-08-20T17:00:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-rams-winners-losers-joint-practice-225034345-html",
       "title": "Rams Winners and Losers From Joint Practice With Saints",
@@ -27,20 +19,12 @@
       "published_iso": "2026-08-20T15:03:00+00:00"
     },
     {
-      "id": "https-sportingnews-com-us-betting-news-los-angeles-rams-betting-preview-2026-odds-futures-win-total-f7835e608f8d60d67c79",
-      "title": "Los Angeles Rams betting preview 2026: Odds, futures, win total prediction, sportsbook promos and more",
-      "link": "https://sportingnews.com/us/betting/news/los-angeles-rams-betting-preview-2026-odds-futures-win-total/f7835e608f8d60d67c7978f9",
-      "source": "Sporting News",
-      "ts": 1787047440.0,
-      "published_iso": "2026-08-18T10:04:00+00:00"
-    },
-    {
-      "id": "https-espn-com-espn-betting-story-id-49355492-los-angeles-rams-betting-outlook-2026",
-      "title": "Betting on the Los Angeles Rams in 2026: It's Super Bowl or bust in L.A.",
-      "link": "https://espn.com/espn/betting/story/_/id/49355492/los-angeles-rams-betting-outlook-2026",
-      "source": "ESPN",
-      "ts": 1785386640.0,
-      "published_iso": "2026-07-30T04:44:00+00:00"
+      "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
+      "title": "Los Angeles Rams betting outlook: why one analyst is all in on a Super Bowl win at +550",
+      "link": "https://yahoo.com/news/articles/los-angeles-rams-betting-outlook-171727702.html",
+      "source": "Yahoo",
+      "ts": 1785061020.0,
+      "published_iso": "2026-07-26T10:17:00+00:00"
     }
   ]
 }
