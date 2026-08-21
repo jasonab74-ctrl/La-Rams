@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-21T20:44:48.203993+00:00",
-  "count": 1,
+  "updated_iso": "2026-08-21T21:11:05.244299+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-ocregister-com-2026-08-21-rams-backup-quarterback-battle-remains-top-preseason-question",
@@ -9,6 +9,14 @@
       "source": "OC Register",
       "ts": 1787315040.0,
       "published_iso": "2026-08-21T12:24:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-5-key-position-battles-watch-191147303-html",
+      "title": "5 key position battles to watch in Rams' preseason game vs. Saints",
+      "link": "https://sports.yahoo.com/articles/5-key-position-battles-watch-191147303.html",
+      "source": "Yahoo Sports",
+      "ts": 1787314260.0,
+      "published_iso": "2026-08-21T12:11:00+00:00"
     }
   ]
 }
