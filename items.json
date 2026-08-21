@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-08-21T15:57:10.620298+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-08-21T16:22:13.266094+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-21-rams-nfl-top-players-25-puka-nacua-trent-mcduffie-914012",
+      "title": "Rams have 2 of NFL's top players 25 and under",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/08/21/rams-nfl-top-players-25-puka-nacua-trent-mcduffie/91401272007/",
+      "source": "and just traded away another",
+      "ts": 1787295840.0,
+      "published_iso": "2026-08-21T07:04:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
+      "title": "Los Angeles Rams betting outlook: why one analyst is all in on a Super Bowl win at +550",
+      "link": "https://yahoo.com/news/articles/los-angeles-rams-betting-outlook-171727702.html",
+      "source": "Yahoo",
+      "ts": 1785061020.0,
+      "published_iso": "2026-07-26T10:17:00+00:00"
+    }
+  ]
 }
