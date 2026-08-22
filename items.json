@@ -1,36 +1,12 @@
 {
-  "updated_iso": "2026-08-22T08:13:44.229702+00:00",
-  "count": 6,
+  "updated_iso": "2026-08-22T08:52:38.271898+00:00",
+  "count": 4,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-apparent-answer-060330061-html",
-      "title": "Los Angeles Rams Get Apparent Answer From Aaron Donald",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-apparent-answer-060330061.html",
-      "source": "Yahoo Sports",
-      "ts": 1787331600.0,
-      "published_iso": "2026-08-21T17:00:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-brenda-song-los-angeles-rams-034555549-html",
       "title": "Brenda Song to make Los Angeles Rams color analyst debut",
       "link": "https://sports.yahoo.com/articles/brenda-song-los-angeles-rams-034555549.html",
       "source": "Yahoo Sports",
-      "ts": 1787331600.0,
-      "published_iso": "2026-08-21T17:00:00+00:00"
-    },
-    {
-      "id": "https-yahoo-com-entertainment-celebrity-articles-disney-star-brenda-song-makes-000211411-html",
-      "title": "Disney Star Brenda Song Makes Her NFL Analyst Debut for the Rams",
-      "link": "https://yahoo.com/entertainment/celebrity/articles/disney-star-brenda-song-makes-000211411.html",
-      "source": "Yahoo",
-      "ts": 1787331600.0,
-      "published_iso": "2026-08-21T17:00:00+00:00"
-    },
-    {
-      "id": "https-yahoo-com-entertainment-celebrity-articles-hollywood-actress-set-join-cbs-014605042-html",
-      "title": "Hollywood Actress Set to Join CBS Booth as NFL Color Analyst for Rams vs Saints Preseason Game",
-      "link": "https://yahoo.com/entertainment/celebrity/articles/hollywood-actress-set-join-cbs-014605042.html",
-      "source": "Yahoo",
       "ts": 1787331600.0,
       "published_iso": "2026-08-21T17:00:00+00:00"
     },
@@ -49,6 +25,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1787119620.0,
       "published_iso": "2026-08-19T06:07:00+00:00"
+    },
+    {
+      "id": "https-espn-com-espn-betting-story-id-49355492-los-angeles-rams-betting-outlook-2026",
+      "title": "Betting on the Los Angeles Rams in 2026: It's Super Bowl or bust in L.A.",
+      "link": "https://espn.com/espn/betting/story/_/id/49355492/los-angeles-rams-betting-outlook-2026",
+      "source": "ESPN",
+      "ts": 1785386640.0,
+      "published_iso": "2026-07-30T04:44:00+00:00"
     }
   ]
 }
