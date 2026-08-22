@@ -1,38 +1,22 @@
 {
-  "updated_iso": "2026-08-22T22:08:03.690065+00:00",
-  "count": 4,
+  "updated_iso": "2026-08-22T22:43:24.357141+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-brenda-song-meet-ex-disney-213053213-html",
-      "title": "Who is Brenda Song? Meet ex-Disney star making commentary debut during Rams vs. Saints preseason game",
-      "link": "https://sports.yahoo.com/articles/brenda-song-meet-ex-disney-213053213.html",
+      "id": "https-sports-yahoo-com-articles-saints-quarterbacks-both-throw-interceptions-222218430-html",
+      "title": "Saints quarterbacks both throw interceptions in Rams preseason game",
+      "link": "https://sports.yahoo.com/articles/saints-quarterbacks-both-throw-interceptions-222218430.html",
       "source": "Yahoo Sports",
-      "ts": 1787409000.0,
-      "published_iso": "2026-08-22T14:30:00+00:00"
+      "ts": 1787412120.0,
+      "published_iso": "2026-08-22T15:22:00+00:00"
     },
     {
-      "id": "https-therams-com-video-highlights-rams-cb-alzillion-hamilton-interception-saints-qb-zach-wilson",
-      "title": "HIGHLIGHTS: Rams CB Al'zillion Hamilton snags an interception off Saints' QB Zach Wilson",
-      "link": "https://therams.com/video/highlights-rams-cb-alzillion-hamilton-interception-saints-qb-zach-wilson",
+      "id": "https-therams-com-video-highlights-rams-db-alex-cook-intercepts-saints-qb-100-yard-touchdown-preseason",
+      "title": "HIGHLIGHTS: Rams DB Alex Cook intercepts Saints' QB Spencer Rattler's pass for 100-yard touchdown",
+      "link": "https://therams.com/video/highlights-rams-db-alex-cook-intercepts-saints-qb-100-yard-touchdown-preseason",
       "source": "Los Angeles Rams (Official)",
-      "ts": 1787407200.0,
-      "published_iso": "2026-08-22T14:00:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-quarterbacks-continue-vying-backup-180448066-html",
-      "title": "Rams Quarterbacks Continue Vying for Backup Spot Ahead of Saints Game",
-      "link": "https://sports.yahoo.com/articles/rams-quarterbacks-continue-vying-backup-180448066.html",
-      "source": "Yahoo Sports",
-      "ts": 1787396640.0,
-      "published_iso": "2026-08-22T11:04:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-rams-onsi-rams-puka-nacua-alaric-jackson-suspension-impact",
-      "title": "Which Potential Suspension Would Hurt Rams More: Puka Nacua or Alaric Jackson?",
-      "link": "https://si.com/nfl/rams/onsi/rams-puka-nacua-alaric-jackson-suspension-impact",
-      "source": "Sports Illustrated",
-      "ts": 1787395980.0,
-      "published_iso": "2026-08-22T10:53:00+00:00"
+      "ts": 1787410500.0,
+      "published_iso": "2026-08-22T14:55:00+00:00"
     }
   ]
 }
