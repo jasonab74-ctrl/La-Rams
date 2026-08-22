@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-08-22T17:09:01.851084+00:00",
-  "count": 2,
+  "updated_iso": "2026-08-22T17:41:15.114031+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-trophy-case-seasons-land-three-141445237-html",
+      "title": "Trophy-Case Seasons Land Three Rams in NFL Top 100 Mix",
+      "link": "https://sports.yahoo.com/articles/trophy-case-seasons-land-three-141445237.html",
+      "source": "Yahoo Sports",
+      "ts": 1787382780.0,
+      "published_iso": "2026-08-22T07:13:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-former-disney-star-brenda-song-112152385-html",
       "title": "Former Disney star Brenda Song set to make NFL analyst debut ahead of Rams-Saints clash",
@@ -9,6 +17,14 @@
       "source": "Yahoo Sports",
       "ts": 1787372460.0,
       "published_iso": "2026-08-22T04:21:00+00:00"
+    },
+    {
+      "id": "https-yahoo-com-entertainment-celebrity-articles-hollywood-actress-set-join-cbs-014605042-html",
+      "title": "Hollywood Actress Set to Join CBS Booth as NFL Color Analyst for Rams vs Saints Preseason Game",
+      "link": "https://yahoo.com/entertainment/celebrity/articles/hollywood-actress-set-join-cbs-014605042.html",
+      "source": "Yahoo",
+      "ts": 1787337960.0,
+      "published_iso": "2026-08-21T18:46:00+00:00"
     },
     {
       "id": "https-ocregister-com-2026-08-21-rams-backup-quarterback-battle-remains-top-preseason-question",
