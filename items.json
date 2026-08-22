@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-08-22T23:08:12.926724+00:00",
+  "updated_iso": "2026-08-22T23:40:32.405040+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-22-rams-injuries-keir-thomas-out-saints-groin-91426342007",
+      "title": "Rams OLB Keir Thomas ruled out vs. Saints with groin injury",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/08/22/rams-injuries-keir-thomas-out-saints-groin/91426342007/",
+      "source": "Rams Wire",
+      "ts": 1787415840.0,
+      "published_iso": "2026-08-22T16:24:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-rams-saints-final-score-instant-reaction",
+      "title": "Instant Reaction: Stetson Bennett, Rams Defense Shine in 34-0 Win vs. Saints",
+      "link": "https://si.com/nfl/rams/onsi/rams-saints-final-score-instant-reaction",
+      "source": "Sports Illustrated",
+      "ts": 1787414940.0,
+      "published_iso": "2026-08-22T16:09:00+00:00"
+    },
     {
       "id": "https-nfl-com-videos-rattler-s-32-yard-completion-to-donaldson-gets-saints-inside-rams-10-yard-line",
       "title": "Rattler's 32-yard completion to Donaldson gets Saints inside Rams' 10-yard line",
@@ -9,22 +25,6 @@
       "source": "NFL.com",
       "ts": 1787412900.0,
       "published_iso": "2026-08-22T15:35:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-olb-keir-thomas-ruled-222409690-html",
-      "title": "Rams OLB Keir Thomas ruled out vs. Saints with groin injury",
-      "link": "https://sports.yahoo.com/articles/rams-olb-keir-thomas-ruled-222409690.html",
-      "source": "Yahoo Sports",
-      "ts": 1787412240.0,
-      "published_iso": "2026-08-22T15:24:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-saints-quarterbacks-both-throw-interceptions-222218430-html",
-      "title": "Saints quarterbacks both throw interceptions in Rams preseason game",
-      "link": "https://sports.yahoo.com/articles/saints-quarterbacks-both-throw-interceptions-222218430.html",
-      "source": "Yahoo Sports",
-      "ts": 1787412120.0,
-      "published_iso": "2026-08-22T15:22:00+00:00"
     }
   ]
 }
