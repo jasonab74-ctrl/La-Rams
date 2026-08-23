@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-08-23T19:41:03.941326+00:00",
+  "updated_iso": "2026-08-23T20:07:41.550032+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-23-rams-53-man-roster-projection-preseason-week-2-saints-91",
+      "title": "Rams 53-man roster projection: Undrafted rookie OLB sneaks on",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/08/23/rams-53-man-roster-projection-preseason-week-2-saints/91431089007/",
+      "source": "Rams Wire",
+      "ts": 1787467380.0,
+      "published_iso": "2026-08-23T06:43:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-la-rams-blowout-win-made-130000000-html",
       "title": "LA Rams' blowout win made their confusing Ty Simpson-Stetson Bennett situation even harder to defend",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1787464740.0,
       "published_iso": "2026-08-23T05:59:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-brenda-song-los-angeles-rams-034555549-html",
-      "title": "Brenda Song to make Los Angeles Rams color analyst debut",
-      "link": "https://sports.yahoo.com/articles/brenda-song-los-angeles-rams-034555549.html",
-      "source": "Yahoo Sports",
-      "ts": 1787345100.0,
-      "published_iso": "2026-08-21T20:45:00+00:00"
     }
   ]
 }
