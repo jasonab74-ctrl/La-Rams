@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-23T07:52:23.750169+00:00",
-  "count": 3,
+  "updated_iso": "2026-08-23T08:14:05.274979+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-yahoo-com-entertainment-celebrity-articles-no-way-she-being-paid-051721793-html",
@@ -11,20 +11,12 @@
       "published_iso": "2026-08-22T22:17:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-learned-rams-backup-quarterback-battle-010331483-html",
-      "title": "What We Learned About Rams' Backup Quarterback Battle vs. Saints",
-      "link": "https://sports.yahoo.com/articles/learned-rams-backup-quarterback-battle-010331483.html",
-      "source": "Yahoo Sports",
-      "ts": 1787418060.0,
-      "published_iso": "2026-08-22T17:01:00+00:00"
-    },
-    {
-      "id": "https-yahoo-com-news-videos-los-angeles-rams-vs-orleans-201700040-html",
-      "title": "Los Angeles Rams vs. New Orleans Saints preseason pregame show",
-      "link": "https://yahoo.com/news/videos/los-angeles-rams-vs-orleans-201700040.html",
-      "source": "Yahoo",
-      "ts": 1787404620.0,
-      "published_iso": "2026-08-22T13:17:00+00:00"
+      "id": "https-apnews-com-article-rams-saints-score-3994874dd0474b72e27e504ba17f1e73",
+      "title": "Stetson Bennett looks sharp, Saints’ backup QBs don’t separate in Rams’ 34-0 preseason win",
+      "link": "https://apnews.com/article/rams-saints-score-3994874dd0474b72e27e504ba17f1e73",
+      "source": "AP News",
+      "ts": 1787415240.0,
+      "published_iso": "2026-08-22T16:14:00+00:00"
     }
   ]
 }
