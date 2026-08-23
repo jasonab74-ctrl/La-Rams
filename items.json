@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-23T03:25:53.740567+00:00",
-  "count": 3,
+  "updated_iso": "2026-08-23T04:06:20.865542+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-lose-promising-young-linebacker-020623197-html",
@@ -11,10 +11,18 @@
       "published_iso": "2026-08-22T17:01:00+00:00"
     },
     {
-      "id": "https-si-com-nfl-rams-onsi-rams-saints-final-score-instant-reaction",
-      "title": "Instant Reaction: Stetson Bennett, Rams Defense Shine in 34-0 Win vs. Saints",
-      "link": "https://si.com/nfl/rams/onsi/rams-saints-final-score-instant-reaction",
+      "id": "https-si-com-nfl-saints-onsi-saints-make-mistake-after-mistake-in-embarrassing-shutout-loss-to-rams-01m0nsc5wxv9",
+      "title": "Saints Make Mistake After Mistake in Embarrassing Shutout Loss to Rams",
+      "link": "https://si.com/nfl/saints/onsi/saints-make-mistake-after-mistake-in-embarrassing-shutout-loss-to-rams-01m0nsc5wxv9",
       "source": "Sports Illustrated",
+      "ts": 1787418060.0,
+      "published_iso": "2026-08-22T17:01:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-instant-reaction-stetson-bennett-rams-230900535-html",
+      "title": "Instant Reaction: Stetson Bennett, Rams Defense Shine in 34-0 Win vs. Saints",
+      "link": "https://sports.yahoo.com/articles/instant-reaction-stetson-bennett-rams-230900535.html",
+      "source": "Yahoo Sports",
       "ts": 1787414940.0,
       "published_iso": "2026-08-22T16:09:00+00:00"
     },
