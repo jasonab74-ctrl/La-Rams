@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-08-23T05:51:04.455623+00:00",
-  "count": 2,
+  "updated_iso": "2026-08-23T06:18:08.894890+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-yahoo-com-entertainment-celebrity-articles-no-way-she-being-paid-051721793-html",
+      "title": "‘No Way She’s Being Paid To Do This, Right?’ — Last Chance U’s Jason Brown Rips Brenda Song’s Debut as NFL Analyst in Rams’ 34-0 Win Vs. Saints",
+      "link": "https://yahoo.com/entertainment/celebrity/articles/no-way-she-being-paid-051721793.html",
+      "source": "Yahoo",
+      "ts": 1787418060.0,
+      "published_iso": "2026-08-22T17:01:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-learned-rams-backup-quarterback-battle-010331483-html",
       "title": "What We Learned About Rams' Backup Quarterback Battle vs. Saints",
