@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-08-24T22:48:48.238064+00:00",
+  "updated_iso": "2026-08-24T23:11:37.362195+00:00",
   "count": 3,
   "items": [
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-24-rams-stetson-bennett-ty-simpson-practice-reps-battle-914",
-      "title": "Practice reps hint at who is leading Rams' backup QB battle",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/08/24/rams-stetson-bennett-ty-simpson-practice-reps-battle/91446537007/",
-      "source": "Rams Wire",
-      "ts": 1787579700.0,
-      "published_iso": "2026-08-24T13:55:00+00:00"
-    },
     {
       "id": "https-apnews-com-article-justin-dedich-rams-496c14443d5fb1e2ecdfb4b5d4fc6405",
       "title": "Rams backup OL Justin Dedich practices for first time after hand injury",
@@ -25,6 +17,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1787569200.0,
       "published_iso": "2026-08-24T11:00:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-los-angeles-rams-win-total-projection-for-2026-season-rams-favored-to-bet-best-team-in-nfl",
+      "title": "Los Angeles Rams Win Total Projection for 2026 Season (Rams Favored to Bet Best Team in NFL)",
+      "link": "https://si.com/betting/los-angeles-rams-win-total-projection-for-2026-season-rams-favored-to-bet-best-team-in-nfl",
+      "source": "Sports Illustrated",
+      "ts": 1787554800.0,
+      "published_iso": "2026-08-24T07:00:00+00:00"
     }
   ]
 }
