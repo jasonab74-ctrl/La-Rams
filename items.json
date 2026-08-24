@@ -1,5 +1,38 @@
 {
-  "updated_iso": "2026-08-24T19:49:51.652248+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-08-24T20:14:37.246399+00:00",
+  "count": 4,
+  "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-24-rams-justin-dedich-practice-hand-injury-return-914452380",
+      "title": "Key Rams backup returns to practice for first time since OTAs",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/08/24/rams-justin-dedich-practice-hand-injury-return/91445238007/",
+      "source": "Rams Wire",
+      "ts": 1787575260.0,
+      "published_iso": "2026-08-24T12:41:00+00:00"
+    },
+    {
+      "id": "https-apnews-com-article-justin-dedich-rams-496c14443d5fb1e2ecdfb4b5d4fc6405",
+      "title": "Rams backup OL Justin Dedich practices for first time after hand injury",
+      "link": "https://apnews.com/article/justin-dedich-rams-496c14443d5fb1e2ecdfb4b5d4fc6405",
+      "source": "AP News",
+      "ts": 1787574720.0,
+      "published_iso": "2026-08-24T12:32:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-film-review-grading-stetson-151451706-html",
+      "title": "Rams Film Review: Grading Stetson Bennett and Ty Simpson in QB Battle",
+      "link": "https://sports.yahoo.com/articles/rams-film-review-grading-stetson-151451706.html",
+      "source": "Yahoo Sports",
+      "ts": 1787559240.0,
+      "published_iso": "2026-08-24T08:14:00+00:00"
+    },
+    {
+      "id": "https-espn-com-nfl-story-id-49658470-2026-nfl-season-los-angeles-rams-final-roster-projection-depth-chart",
+      "title": "2026 Los Angeles Rams: Projecting final 53-man roster",
+      "link": "https://espn.com/nfl/story/_/id/49658470/2026-nfl-season-los-angeles-rams-final-roster-projection-depth-chart",
+      "source": "ESPN",
+      "ts": 1787544000.0,
+      "published_iso": "2026-08-24T04:00:00+00:00"
+    }
+  ]
 }
