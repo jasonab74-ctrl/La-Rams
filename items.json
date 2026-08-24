@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-24T05:07:09.876755+00:00",
-  "count": 3,
+  "updated_iso": "2026-08-24T05:58:31.031722+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-new-orleans-saints-how-to-watch-listen-to-and-live-stream-2026-preseason-week",
@@ -17,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1787345100.0,
       "published_iso": "2026-08-21T20:45:00+00:00"
-    },
-    {
-      "id": "https-yahoo-com-news-articles-los-angeles-rams-betting-outlook-171727702-html",
-      "title": "Los Angeles Rams betting outlook: why one analyst is all in on a Super Bowl win at +550",
-      "link": "https://yahoo.com/news/articles/los-angeles-rams-betting-outlook-171727702.html",
-      "source": "Yahoo",
-      "ts": 1785061020.0,
-      "published_iso": "2026-07-26T10:17:00+00:00"
     }
   ]
 }
