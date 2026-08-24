@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-08-24T16:36:44.798677+00:00",
-  "count": 2,
+  "updated_iso": "2026-08-24T17:19:39.959038+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-si-com-betting-los-angeles-rams-win-total-projection-for-2026-season-rams-favored-to-bet-best-team-in-nfl",
-      "title": "Los Angeles Rams Win Total Projection for 2026 Season (Rams Favored to Bet Best Team in NFL)",
-      "link": "https://si.com/betting/los-angeles-rams-win-total-projection-for-2026-season-rams-favored-to-bet-best-team-in-nfl",
-      "source": "Sports Illustrated",
-      "ts": 1787554800.0,
-      "published_iso": "2026-08-24T07:00:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-severity-puka-061019993-html",
-      "title": "Los Angeles Rams Get Update on Severity of Puka Nacua’s Injury",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-severity-puka-061019993.html",
-      "source": "Yahoo Sports",
-      "ts": 1786489740.0,
-      "published_iso": "2026-08-11T23:09:00+00:00"
+      "id": "https-espn-com-nfl-story-id-49658470-2026-nfl-season-los-angeles-rams-final-roster-projection-depth-chart",
+      "title": "2026 Los Angeles Rams: Projecting final 53-man roster",
+      "link": "https://espn.com/nfl/story/_/id/49658470/2026-nfl-season-los-angeles-rams-final-roster-projection-depth-chart",
+      "source": "ESPN",
+      "ts": 1787544000.0,
+      "published_iso": "2026-08-24T04:00:00+00:00"
     }
   ]
 }
