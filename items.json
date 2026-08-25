@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-25T22:11:54.806108+00:00",
-  "count": 5,
+  "updated_iso": "2026-08-25T22:50:08.304623+00:00",
+  "count": 7,
   "items": [
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-25-rams-coleman-shelton-contract-center-contracts-914605060",
@@ -11,12 +11,28 @@
       "published_iso": "2026-08-25T14:33:00+00:00"
     },
     {
+      "id": "https-sports-yahoo-com-nfl-article-2026-nfc-west-deep-dive-rams-are-offseason-champs-but-will-they-be-real-champs-192214",
+      "title": "2026 NFC West DEEP dive: Rams are offseason champs, but will they be real champs?",
+      "link": "https://sports.yahoo.com/nfl/article/2026-nfc-west-deep-dive-rams-are-offseason-champs-but-will-they-be-real-champs-192214633.html",
+      "source": "Yahoo Sports",
+      "ts": 1787660520.0,
+      "published_iso": "2026-08-25T12:22:00+00:00"
+    },
+    {
       "id": "https-therams-com-news-los-angeles-rams-at-los-angeles-chargers-how-to-watch-listen-to-and-live-stream-2026-preseason-we",
       "title": "Los Angeles Rams at Los Angeles Chargers: How to watch, listen to and live stream 2026 Preseason Week 3",
       "link": "https://therams.com/news/los-angeles-rams-at-los-angeles-chargers-how-to-watch-listen-to-and-live-stream-2026-preseason-week-3",
       "source": "Los Angeles Rams (Official)",
       "ts": 1787642280.0,
       "published_iso": "2026-08-25T07:18:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-los-angeles-rams-win-total-projection-for-2026-season-rams-favored-to-bet-best-team-in-nfl",
+      "title": "Los Angeles Rams Win Total Projection for 2026 Season (Rams Favored to Bet Best Team in NFL)",
+      "link": "https://si.com/betting/los-angeles-rams-win-total-projection-for-2026-season-rams-favored-to-bet-best-team-in-nfl",
+      "source": "Sports Illustrated",
+      "ts": 1787554800.0,
+      "published_iso": "2026-08-24T07:00:00+00:00"
     },
     {
       "id": "https-espn-com-nfl-story-id-49658470-2026-nfl-season-los-angeles-rams-final-roster-projection-depth-chart",
