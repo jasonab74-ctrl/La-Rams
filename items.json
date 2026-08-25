@@ -1,5 +1,38 @@
 {
-  "updated_iso": "2026-08-25T17:01:17.595680+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-08-25T17:50:48.947264+00:00",
+  "count": 4,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-sean-mcvay-gutted-rams-recently-125607351-html",
+      "title": "Sean McVay gutted for Rams' recently injured players: 'It sucks'",
+      "link": "https://sports.yahoo.com/articles/sean-mcvay-gutted-rams-recently-125607351.html",
+      "source": "Yahoo Sports",
+      "ts": 1787637420.0,
+      "published_iso": "2026-08-25T05:57:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-los-angeles-rams-win-total-projection-for-2026-season-rams-favored-to-bet-best-team-in-nfl",
+      "title": "Los Angeles Rams Win Total Projection for 2026 Season (Rams Favored to Bet Best Team in NFL)",
+      "link": "https://si.com/betting/los-angeles-rams-win-total-projection-for-2026-season-rams-favored-to-bet-best-team-in-nfl",
+      "source": "Sports Illustrated",
+      "ts": 1787554800.0,
+      "published_iso": "2026-08-24T07:00:00+00:00"
+    },
+    {
+      "id": "https-espn-com-nfl-story-id-49658470-2026-nfl-season-los-angeles-rams-final-roster-projection-depth-chart",
+      "title": "2026 Los Angeles Rams: Projecting final 53-man roster",
+      "link": "https://espn.com/nfl/story/_/id/49658470/2026-nfl-season-los-angeles-rams-final-roster-projection-depth-chart",
+      "source": "ESPN",
+      "ts": 1787544000.0,
+      "published_iso": "2026-08-24T04:00:00+00:00"
+    },
+    {
+      "id": "https-espn-com-espn-betting-story-id-49355492-los-angeles-rams-betting-outlook-2026",
+      "title": "Betting on the Los Angeles Rams in 2026: It's Super Bowl or bust in L.A.",
+      "link": "https://espn.com/espn/betting/story/_/id/49355492/los-angeles-rams-betting-outlook-2026",
+      "source": "ESPN",
+      "ts": 1785386640.0,
+      "published_iso": "2026-07-30T04:44:00+00:00"
+    }
+  ]
 }
