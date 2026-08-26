@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-08-26T18:30:30.729768+00:00",
-  "count": 3,
+  "updated_iso": "2026-08-26T20:34:58.051140+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-ocregister-com-2026-08-26-heres-what-sean-mcvay-wants-from-his-rams-running-backs",
+      "title": "Here’s what Sean McVay wants from his Rams running backs",
+      "link": "https://ocregister.com/2026/08/26/heres-what-sean-mcvay-wants-from-his-rams-running-backs/",
+      "source": "OC Register",
+      "ts": 1787746980.0,
+      "published_iso": "2026-08-26T12:23:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-rookie-class-stock-watch-180659957-html",
       "title": "Rams rookie class stock watch: Who is rising and falling?",
@@ -9,6 +17,14 @@
       "source": "Yahoo Sports",
       "ts": 1787742360.0,
       "published_iso": "2026-08-26T11:06:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-handle-ty-simpson-stetson-160610383-html",
+      "title": "How Rams Should Handle Ty Simpson, Stetson Bennett in Preseason Finale",
+      "link": "https://sports.yahoo.com/articles/rams-handle-ty-simpson-stetson-160610383.html",
+      "source": "Yahoo Sports",
+      "ts": 1787735160.0,
+      "published_iso": "2026-08-26T09:06:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-los-angeles-chargers-how-to-watch-listen-to-and-live-stream-2026-preseason-we",
@@ -19,12 +35,12 @@
       "published_iso": "2026-08-25T07:18:00+00:00"
     },
     {
-      "id": "https-espn-com-nfl-story-id-49658470-2026-nfl-season-los-angeles-rams-final-roster-projection-depth-chart",
-      "title": "2026 Los Angeles Rams: Projecting final 53-man roster",
-      "link": "https://espn.com/nfl/story/_/id/49658470/2026-nfl-season-los-angeles-rams-final-roster-projection-depth-chart",
-      "source": "ESPN",
-      "ts": 1787544000.0,
-      "published_iso": "2026-08-24T04:00:00+00:00"
+      "id": "https-si-com-betting-los-angeles-rams-win-total-projection-for-2026-season-rams-favored-to-bet-best-team-in-nfl",
+      "title": "Los Angeles Rams Win Total Projection for 2026 Season (Rams Favored to Bet Best Team in NFL)",
+      "link": "https://si.com/betting/los-angeles-rams-win-total-projection-for-2026-season-rams-favored-to-bet-best-team-in-nfl",
+      "source": "Sports Illustrated",
+      "ts": 1787554800.0,
+      "published_iso": "2026-08-24T07:00:00+00:00"
     }
   ]
 }
