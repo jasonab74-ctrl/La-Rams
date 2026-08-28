@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2026-08-28T04:58:57.957155+00:00",
-  "count": 3,
+  "updated_iso": "2026-08-28T17:08:23.409454+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-justin-herbert-throws-65-yard-031730326-html",
-      "title": "Justin Herbert throws 65-yard touchdown vs. Rams",
-      "link": "https://sports.yahoo.com/articles/justin-herbert-throws-65-yard-031730326.html",
+      "id": "https-sports-yahoo-com-articles-rams-snap-counts-preseason-finale-155935986-html",
+      "title": "Rams’ snap counts in preseason finale indicates decisions for Wesley Bailey, Nick Andersen",
+      "link": "https://sports.yahoo.com/articles/rams-snap-counts-preseason-finale-155935986.html",
       "source": "Yahoo Sports",
-      "ts": 1787850000.0,
-      "published_iso": "2026-08-27T17:00:00+00:00"
+      "ts": 1787907540.0,
+      "published_iso": "2026-08-28T08:59:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-chargers-final-roster-130007370-html",
+      "title": "Los Angeles Chargers Final Roster Risers and Fallers Versus the Rams",
+      "link": "https://sports.yahoo.com/articles/los-angeles-chargers-final-roster-130007370.html",
+      "source": "Yahoo Sports",
+      "ts": 1787896800.0,
+      "published_iso": "2026-08-28T06:00:00+00:00"
+    },
+    {
+      "id": "https-apnews-com-article-rams-chargers-score-bab32836257995cf4d0cf7c8a3452241",
+      "title": "No starters, no problem: Ty Simpson’s 2nd-quarter TD sparks the Rams’ preseason sweep",
+      "link": "https://apnews.com/article/rams-chargers-score-bab32836257995cf4d0cf7c8a3452241",
+      "source": "AP News",
+      "ts": 1787868240.0,
+      "published_iso": "2026-08-27T22:04:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-los-angeles-chargers-how-to-watch-listen-to-and-live-stream-2026-preseason-we",
@@ -17,14 +33,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1787792400.0,
       "published_iso": "2026-08-27T01:00:00+00:00"
-    },
-    {
-      "id": "https-therams-com-video-highlights-rams-outside-linebacker-darryl-peterson-5-yard-sack-chargers",
-      "title": "HIGHLIGHTS: Rams OLB Darryl Peterson III hunts down Chargers' QB Trey Lance for 5-yard sack",
-      "link": "https://therams.com/video/highlights-rams-outside-linebacker-darryl-peterson-5-yard-sack-chargers",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1787763600.0,
-      "published_iso": "2026-08-26T17:00:00+00:00"
     }
   ]
 }
