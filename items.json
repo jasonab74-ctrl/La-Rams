@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-08-29T17:15:45.612704+00:00",
-  "count": 5,
+  "updated_iso": "2026-08-29T19:49:46.087707+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-29-la-rams-roster-cuts-tracker-moves-deadline-53-man-914881",
+      "title": "Rams cuts tracker: Latest moves as LA trims to 53-man roster",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/08/29/la-rams-roster-cuts-tracker-moves-deadline-53-man/91488157007/",
+      "source": "Rams Wire",
+      "ts": 1787998500.0,
+      "published_iso": "2026-08-29T10:15:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-had-great-preseason-now-143544799-html",
       "title": "The Rams had a great preseason, now what?",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1787988900.0,
       "published_iso": "2026-08-29T07:35:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-29-la-rams-roster-cuts-tracker-moves-deadline-53-man-914881",
-      "title": "Rams cuts tracker: Latest moves as LA trims to 53-man roster",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/08/29/la-rams-roster-cuts-tracker-moves-deadline-53-man/91488157007/",
-      "source": "Rams Wire",
-      "ts": 1787948100.0,
-      "published_iso": "2026-08-28T20:15:00+00:00"
     },
     {
       "id": "https-apnews-com-article-rams-chargers-score-bab32836257995cf4d0cf7c8a3452241",
@@ -33,14 +33,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1787792400.0,
       "published_iso": "2026-08-27T01:00:00+00:00"
-    },
-    {
-      "id": "https-si-com-onsi-fantasy-nfl-los-angeles-rams-2026-team-needs-prepare-for-a-future-without-matthew-stafford",
-      "title": "Los Angeles Rams 2026 Team Needs: Prepare For A Future Without Matthew Stafford",
-      "link": "https://si.com/onsi/fantasy/nfl/los-angeles-rams-2026-team-needs-prepare-for-a-future-without-matthew-stafford",
-      "source": "Sports Illustrated",
-      "ts": 1769416920.0,
-      "published_iso": "2026-01-26T08:42:00+00:00"
     }
   ]
 }
