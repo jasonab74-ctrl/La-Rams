@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-30T05:36:17.023459+00:00",
-  "count": 3,
+  "updated_iso": "2026-08-30T10:46:53.208631+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-apnews-com-article-rams-chargers-score-bab32836257995cf4d0cf7c8a3452241",
@@ -17,14 +17,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1787792400.0,
       "published_iso": "2026-08-27T01:00:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-vs-new-orleans-saints-how-to-watch-listen-to-and-live-stream-2026-preseason-week",
-      "title": "Los Angeles Rams vs. New Orleans Saints: How to watch, listen to and live stream 2026 Preseason Week 2",
-      "link": "https://therams.com/news/los-angeles-rams-vs-new-orleans-saints-how-to-watch-listen-to-and-live-stream-2026-preseason-week-2",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1787360400.0,
-      "published_iso": "2026-08-22T01:00:00+00:00"
     }
   ]
 }
