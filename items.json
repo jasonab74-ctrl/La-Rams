@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-08-30T10:46:53.208631+00:00",
-  "count": 2,
+  "updated_iso": "2026-08-30T15:04:48.527719+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-bleacherreport-com-articles-25494547-george-kittle-injury-update-revealed-new-49ers-rumors-amid-uncertainty-vs-ram",
+      "title": "George Kittle Injury Update Revealed in New 49ers Rumors amid Uncertainty vs. Rams in NFL TNF Opener",
+      "link": "https://bleacherreport.com/articles/25494547-george-kittle-injury-update-revealed-new-49ers-rumors-amid-uncertainty-vs-rams-nfl-tnf-opener",
+      "source": "Bleacher Report",
+      "ts": 1788076380.0,
+      "published_iso": "2026-08-30T07:53:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-30-jaguars-cardinals-hunter-long-rams-draft-pick-9153673300",
+      "title": "Cardinals acquire former Rams TE in trade with Jaguars",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/08/30/jaguars-cardinals-hunter-long-rams-draft-pick/91536733007/",
+      "source": "Rams Wire",
+      "ts": 1788028680.0,
+      "published_iso": "2026-08-29T18:38:00+00:00"
+    },
     {
       "id": "https-apnews-com-article-rams-chargers-score-bab32836257995cf4d0cf7c8a3452241",
       "title": "No starters, no problem: Ty Simpson’s 2nd-quarter TD sparks the Rams’ preseason sweep",
