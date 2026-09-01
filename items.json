@@ -1,30 +1,14 @@
 {
-  "updated_iso": "2026-09-01T21:27:57.431717+00:00",
-  "count": 3,
+  "updated_iso": "2026-09-01T23:27:02.426978+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-bleacherreport-com-articles-25495371-new-aaron-donald-rumors-status-rams-vs-49ers-after-returning-retirement",
-      "title": "New Aaron Donald Rumors on Status for Rams vs. 49ers After Returning from Retirement",
-      "link": "https://bleacherreport.com/articles/25495371-new-aaron-donald-rumors-status-rams-vs-49ers-after-returning-retirement",
-      "source": "Bleacher Report",
-      "ts": 1788272580.0,
-      "published_iso": "2026-09-01T14:23:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-watch-fmc-6u7xocps3697iim7",
-      "title": "AFC and NFC West Predictions: Rams ‘got greedy’ in offseason, Will the Chiefs be back on top? | FTF",
-      "link": "https://foxsports.com/watch/fmc-6u7xocps3697iim7",
-      "source": "FOX Sports",
-      "ts": 1788271380.0,
-      "published_iso": "2026-09-01T14:03:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-aaron-donalds-los-angeles-rams-123000564-html",
-      "title": "Aaron Donald's Los Angeles Rams return creates the NFL's most fascinating experiment, potentially ever",
-      "link": "https://sports.yahoo.com/articles/aaron-donalds-los-angeles-rams-123000564.html",
-      "source": "Yahoo Sports",
-      "ts": 1788240600.0,
-      "published_iso": "2026-09-01T05:30:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-22-rams-saints-preseason-live-updates-highlights-9142438600",
+      "title": "Rams vs. Saints highlights: Los Angeles cruises to 34-point win",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/08/22/rams-saints-preseason-live-updates-highlights/91424386007/",
+      "source": "Rams Wire",
+      "ts": 1787425920.0,
+      "published_iso": "2026-08-22T19:12:00+00:00"
     }
   ]
 }
