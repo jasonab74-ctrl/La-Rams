@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-09-02T10:31:53.795464+00:00",
+  "updated_iso": "2026-09-02T14:45:22.107403+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-san-francisco-49ers-rumor-bad-134354533-html",
+      "title": "New San Francisco 49ers Rumor Is Bad News For Los Angeles Rams Before Week 1 Clash in Australia",
+      "link": "https://sports.yahoo.com/articles/san-francisco-49ers-rumor-bad-134354533.html",
+      "source": "Yahoo Sports",
+      "ts": 1788331380.0,
+      "published_iso": "2026-09-02T06:43:00+00:00"
+    },
     {
       "id": "https-therams-com-news-los-angeles-rams-at-los-angeles-chargers-how-to-watch-listen-to-and-live-stream-2026-preseason-we",
       "title": "Los Angeles Rams at Los Angeles Chargers: How to watch, listen to and live stream 2026 Preseason Week 3",
@@ -9,14 +17,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1787792400.0,
       "published_iso": "2026-08-27T01:00:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-08-22-rams-saints-preseason-live-updates-highlights-9142438600",
-      "title": "Rams vs. Saints highlights: Los Angeles cruises to 34-point win",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/08/22/rams-saints-preseason-live-updates-highlights/91424386007/",
-      "source": "Rams Wire",
-      "ts": 1787425920.0,
-      "published_iso": "2026-08-22T19:12:00+00:00"
     }
   ]
 }
