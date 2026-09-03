@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-09-03T18:08:44.131928+00:00",
-  "count": 3,
+  "updated_iso": "2026-09-03T21:09:29.309430+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-si-com-nfl-rams-onsi-rams-17-0-undefeated-season-2026",
+      "title": "Can the Rams Go 17-0? Former NFL GM Calls Them Best Team in NFC ‘By Far’",
+      "link": "https://si.com/nfl/rams/onsi/rams-17-0-undefeated-season-2026",
+      "source": "Sports Illustrated",
+      "ts": 1788429120.0,
+      "published_iso": "2026-09-03T09:52:00+00:00"
+    },
     {
       "id": "https-apnews-com-article-nfl-seahawks-rams-49ers-cardinals-caf53bd674a42a24f35861b088712604",
       "title": "El Oeste de la NFC tiene a los favoritos Rams, los campeones Seahawks y los peligrosos 49ers",
