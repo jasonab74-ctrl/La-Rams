@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-09-04T15:02:54.875719+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-09-04T18:29:57.615534+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-apnews-com-article-los-angeles-rams-preview-2026-4a88f53aad441f070095bc146bc5a92b",
+      "title": "Star-studded LA Rams load up defense with Garrett, McDuffie, Donald for another Super Bowl push",
+      "link": "https://apnews.com/article/los-angeles-rams-preview-2026-4a88f53aad441f070095bc146bc5a92b",
+      "source": "AP News",
+      "ts": 1788349500.0,
+      "published_iso": "2026-09-02T11:45:00+00:00"
+    }
+  ]
 }
