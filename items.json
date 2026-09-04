@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-04T06:04:16.467391+00:00",
-  "count": 3,
+  "updated_iso": "2026-09-04T11:30:19.894881+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-apnews-com-article-nfl-seahawks-rams-49ers-cardinals-caf53bd674a42a24f35861b088712604",
@@ -17,14 +17,6 @@
       "source": "AP News",
       "ts": 1788349500.0,
       "published_iso": "2026-09-02T11:45:00+00:00"
-    },
-    {
-      "id": "https-espn-com-nfl-story-id-49782813-los-angeles-rams-aaron-donald-how-got-back",
-      "title": "How the Los Angeles Rams got Aaron Donald back",
-      "link": "https://espn.com/nfl/story/_/id/49782813/los-angeles-rams-aaron-donald-how-got-back",
-      "source": "ESPN",
-      "ts": 1788235200.0,
-      "published_iso": "2026-09-01T04:00:00+00:00"
     }
   ]
 }
