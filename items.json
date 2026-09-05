@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-09-05T19:09:30.438292+00:00",
-  "count": 2,
+  "updated_iso": "2026-09-05T21:23:49.794737+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-why-rams-hoping-ty-simpson-173813017-html",
-      "title": "Why Rams are hoping Ty Simpson won't play in 2026 rookie season",
-      "link": "https://sports.yahoo.com/articles/why-rams-hoping-ty-simpson-173813017.html",
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-blunt-amid-004828253-html",
+      "title": "Los Angeles Rams Get Blunt Take Amid Latest Aaron Donald Update",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-blunt-amid-004828253.html",
       "source": "Yahoo Sports",
-      "ts": 1788604680.0,
-      "published_iso": "2026-09-05T10:38:00+00:00"
-    },
-    {
-      "id": "https-apnews-com-article-los-angeles-rams-preview-2026-4a88f53aad441f070095bc146bc5a92b",
-      "title": "Star-studded LA Rams load up defense with Garrett, McDuffie, Donald for another Super Bowl push",
-      "link": "https://apnews.com/article/los-angeles-rams-preview-2026-4a88f53aad441f070095bc146bc5a92b",
-      "source": "AP News",
-      "ts": 1788349500.0,
-      "published_iso": "2026-09-02T11:45:00+00:00"
+      "ts": 1788544080.0,
+      "published_iso": "2026-09-04T17:48:00+00:00"
     }
   ]
 }
