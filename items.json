@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-09-05T12:09:57.598421+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-09-05T15:21:59.276356+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-blunt-amid-004828253-html",
+      "title": "Los Angeles Rams Get Blunt Take Amid Latest Aaron Donald Update",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-blunt-amid-004828253.html",
+      "source": "Yahoo Sports",
+      "ts": 1788544080.0,
+      "published_iso": "2026-09-04T17:48:00+00:00"
+    }
+  ]
 }
