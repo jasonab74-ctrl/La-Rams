@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-09-06T19:19:20.439642+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-09-06T21:28:47.561220+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-blunt-amid-004828253-html",
+      "title": "Los Angeles Rams Get Blunt Take Amid Latest Aaron Donald Update",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-blunt-amid-004828253.html",
+      "source": "Yahoo Sports",
+      "ts": 1788544080.0,
+      "published_iso": "2026-09-04T17:48:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-former-los-angeles-rams-quarterback-171325165-html",
+      "title": "Former Los Angeles Rams Quarterback Considered ‘Best Bargain’ in NFL",
+      "link": "https://sports.yahoo.com/articles/former-los-angeles-rams-quarterback-171325165.html",
+      "source": "Yahoo Sports",
+      "ts": 1788171180.0,
+      "published_iso": "2026-08-31T10:13:00+00:00"
+    }
+  ]
 }
