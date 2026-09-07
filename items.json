@@ -1,5 +1,38 @@
 {
-  "updated_iso": "2026-09-07T10:31:21.629155+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-09-07T16:08:17.926343+00:00",
+  "count": 4,
+  "items": [
+    {
+      "id": "https-ocregister-com-2026-09-07-rams-defense-preview-how-good-can-aaron-donald-and-myles-garrett-be",
+      "title": "Rams defense preview: How good can Aaron Donald and Myles Garrett be?",
+      "link": "https://ocregister.com/2026/09/07/rams-defense-preview-how-good-can-aaron-donald-and-myles-garrett-be/",
+      "source": "OC Register",
+      "ts": 1788771600.0,
+      "published_iso": "2026-09-07T09:00:00+00:00"
+    },
+    {
+      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-might-have-big-problem-protecting-matthew-stafford-2026-fa91fcd",
+      "title": "Rams might have a big problem protecting Matthew Stafford in 2026",
+      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-might-have-big-problem-protecting-matthew-stafford-2026/fa91fcdd0b7ca39258e0e0e3",
+      "source": "Sporting News",
+      "ts": 1788768900.0,
+      "published_iso": "2026-09-07T08:15:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-49ers-vs-rams-prediction-odds-spread-injuries-trends-for-nfl-week-1-2026",
+      "title": "49ers vs. Rams Prediction, Odds, Spread, Injuries, Trends for NFL Week 1",
+      "link": "https://si.com/betting/49ers-vs-rams-prediction-odds-spread-injuries-trends-for-nfl-week-1-2026",
+      "source": "Sports Illustrated",
+      "ts": 1788766920.0,
+      "published_iso": "2026-09-07T07:42:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-blunt-amid-004828253-html",
+      "title": "Los Angeles Rams Get Blunt Take Amid Latest Aaron Donald Update",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-blunt-amid-004828253.html",
+      "source": "Yahoo Sports",
+      "ts": 1788544080.0,
+      "published_iso": "2026-09-04T17:48:00+00:00"
+    }
+  ]
 }
