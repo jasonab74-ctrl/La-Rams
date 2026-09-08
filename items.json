@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-09-08T17:40:09.701328+00:00",
-  "count": 2,
+  "updated_iso": "2026-09-08T20:22:42.306313+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-therams-com-news-los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-week-1",
-      "title": "Los Angeles Rams vs. San Francisco 49ers: How to watch, listen to and live stream Week 1",
-      "link": "https://therams.com/news/los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-week-1",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1788757260.0,
-      "published_iso": "2026-09-07T05:01:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-blunt-amid-004828253-html",
-      "title": "Los Angeles Rams Get Blunt Take Amid Latest Aaron Donald Update",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-blunt-amid-004828253.html",
+      "id": "https-sports-yahoo-com-articles-rams-taking-massive-risk-australia-193733498-html",
+      "title": "The Rams Are Taking a Massive Risk in Australia",
+      "link": "https://sports.yahoo.com/articles/rams-taking-massive-risk-australia-193733498.html",
       "source": "Yahoo Sports",
-      "ts": 1788544080.0,
-      "published_iso": "2026-09-04T17:48:00+00:00"
+      "ts": 1788871020.0,
+      "published_iso": "2026-09-08T12:37:00+00:00"
     }
   ]
 }
