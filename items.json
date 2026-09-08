@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-09-08T00:45:44.435169+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-09-08T05:23:40.922919+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-therams-com-news-los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-week-1",
+      "title": "Los Angeles Rams vs. San Francisco 49ers: How to watch, listen to and live stream Week 1",
+      "link": "https://therams.com/news/los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-week-1",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1788757260.0,
+      "published_iso": "2026-09-07T05:01:00+00:00"
+    },
+    {
+      "id": "https-espn-com-nfl-story-id-49782813-los-angeles-rams-aaron-donald-how-got-back",
+      "title": "How the Los Angeles Rams got Aaron Donald back",
+      "link": "https://espn.com/nfl/story/_/id/49782813/los-angeles-rams-aaron-donald-how-got-back",
+      "source": "ESPN",
+      "ts": 1788235200.0,
+      "published_iso": "2026-09-01T04:00:00+00:00"
+    }
+  ]
 }
