@@ -1,22 +1,30 @@
 {
-  "updated_iso": "2026-09-09T17:37:12.851892+00:00",
-  "count": 2,
+  "updated_iso": "2026-09-09T20:05:55.007158+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-were-lucky-miss-maxx-170158026-html",
-      "title": "Rams were lucky to miss out on Maxx Crosby, A.J. Brown trades",
-      "link": "https://sports.yahoo.com/articles/rams-were-lucky-miss-maxx-170158026.html",
-      "source": "Yahoo Sports",
-      "ts": 1788948060.0,
-      "published_iso": "2026-09-09T10:01:00+00:00"
+      "id": "https-therams-com-news-rams-49ers-battle-in-first-ever-nfl-game-down-under-preview",
+      "title": "Rams and Niners battle in first-ever NFL game Down Under | Game Preview",
+      "link": "https://therams.com/news/rams-49ers-battle-in-first-ever-nfl-game-down-under-preview",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1788930000.0,
+      "published_iso": "2026-09-09T05:00:00+00:00"
     },
     {
-      "id": "https-bleacherreport-com-articles-25497608-new-nfl-rumors-reveal-surprise-suitor-myles-garrett-trade-rams-blockbuster-de",
-      "title": "New NFL Rumors Reveal Surprise Suitor for Myles Garrett Trade Before Rams' Blockbuster Deal",
-      "link": "https://bleacherreport.com/articles/25497608-new-nfl-rumors-reveal-surprise-suitor-myles-garrett-trade-rams-blockbuster-deal",
-      "source": "Bleacher Report",
-      "ts": 1788937800.0,
-      "published_iso": "2026-09-09T07:10:00+00:00"
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-fans-going-203504940-html",
+      "title": "Los Angeles Rams fans are going to have to wait a little while longer for the return of Aaron Donald following latest NFL news",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-fans-going-203504940.html",
+      "source": "Yahoo Sports",
+      "ts": 1788874500.0,
+      "published_iso": "2026-09-08T13:35:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-week-1",
+      "title": "Los Angeles Rams vs. San Francisco 49ers: How to watch, listen to and live stream Week 1",
+      "link": "https://therams.com/news/los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-week-1",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1788757260.0,
+      "published_iso": "2026-09-07T05:01:00+00:00"
     }
   ]
 }
