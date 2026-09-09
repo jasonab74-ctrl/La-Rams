@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-09-09T05:25:51.558980+00:00",
-  "count": 4,
+  "updated_iso": "2026-09-09T09:55:57.971400+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-si-com-nfl-rams-onsi-what-aaron-donald-absence-means-rams-defense",
-      "title": "What Aaron Donald’s Week 1 Absence Means for the Rams Defense",
-      "link": "https://si.com/nfl/rams/onsi/what-aaron-donald-absence-means-rams-defense",
-      "source": "Sports Illustrated",
-      "ts": 1788886860.0,
-      "published_iso": "2026-09-08T17:01:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-aaron-donald-not-expected-235435539-html",
-      "title": "Rams' Aaron Donald Not Expected to Travel to Australia for Week 1 vs. 49ers",
-      "link": "https://sports.yahoo.com/articles/rams-aaron-donald-not-expected-235435539.html",
+      "id": "https-sports-yahoo-com-articles-keagen-trosts-future-hits-nod-060450958-html",
+      "title": "Keagen Trost's 'Future Hits' Nod Hints at a Long-Term Starting Job for the Rams",
+      "link": "https://sports.yahoo.com/articles/keagen-trosts-future-hits-nod-060450958.html",
       "source": "Yahoo Sports",
-      "ts": 1788886440.0,
-      "published_iso": "2026-09-08T16:54:00+00:00"
+      "ts": 1788908640.0,
+      "published_iso": "2026-09-08T23:04:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-week-1",
@@ -25,14 +17,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1788757260.0,
       "published_iso": "2026-09-07T05:01:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-blunt-amid-004828253-html",
-      "title": "Los Angeles Rams Get Blunt Take Amid Latest Aaron Donald Update",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-blunt-amid-004828253.html",
-      "source": "Yahoo Sports",
-      "ts": 1788544080.0,
-      "published_iso": "2026-09-04T17:48:00+00:00"
     }
   ]
 }
