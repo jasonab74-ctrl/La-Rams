@@ -1,22 +1,38 @@
 {
-  "updated_iso": "2026-09-09T00:45:52.608522+00:00",
-  "count": 2,
+  "updated_iso": "2026-09-09T05:25:51.558980+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-san-francisco-49ers-receive-huge-231005800-html",
-      "title": "San Francisco 49ers Receive Huge News on Rams Star Aaron Donald Before Week 1",
-      "link": "https://sports.yahoo.com/articles/san-francisco-49ers-receive-huge-231005800.html",
-      "source": "Yahoo Sports",
-      "ts": 1788883860.0,
-      "published_iso": "2026-09-08T16:11:00+00:00"
+      "id": "https-si-com-nfl-rams-onsi-what-aaron-donald-absence-means-rams-defense",
+      "title": "What Aaron Donald’s Week 1 Absence Means for the Rams Defense",
+      "link": "https://si.com/nfl/rams/onsi/what-aaron-donald-absence-means-rams-defense",
+      "source": "Sports Illustrated",
+      "ts": 1788886860.0,
+      "published_iso": "2026-09-08T17:01:00+00:00"
     },
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-09-08-rams-49ers-injury-report-week-1-garrett-watson-916640610",
-      "title": "Rams release first injury report of Week 1: 2 starters miss practice",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/09/08/rams-49ers-injury-report-week-1-garrett-watson/91664061007/",
-      "source": "Rams Wire",
-      "ts": 1788883860.0,
-      "published_iso": "2026-09-08T16:11:00+00:00"
+      "id": "https-sports-yahoo-com-articles-rams-aaron-donald-not-expected-235435539-html",
+      "title": "Rams' Aaron Donald Not Expected to Travel to Australia for Week 1 vs. 49ers",
+      "link": "https://sports.yahoo.com/articles/rams-aaron-donald-not-expected-235435539.html",
+      "source": "Yahoo Sports",
+      "ts": 1788886440.0,
+      "published_iso": "2026-09-08T16:54:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-week-1",
+      "title": "Los Angeles Rams vs. San Francisco 49ers: How to watch, listen to and live stream Week 1",
+      "link": "https://therams.com/news/los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-week-1",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1788757260.0,
+      "published_iso": "2026-09-07T05:01:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-blunt-amid-004828253-html",
+      "title": "Los Angeles Rams Get Blunt Take Amid Latest Aaron Donald Update",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-blunt-amid-004828253.html",
+      "source": "Yahoo Sports",
+      "ts": 1788544080.0,
+      "published_iso": "2026-09-04T17:48:00+00:00"
     }
   ]
 }
