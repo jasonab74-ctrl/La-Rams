@@ -1,14 +1,38 @@
 {
-  "updated_iso": "2026-09-10T05:23:27.246180+00:00",
-  "count": 2,
+  "updated_iso": "2026-09-10T09:52:45.744619+00:00",
+  "count": 5,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-49ers-vs-rams-picks-experts-041528204-html",
-      "title": "49ers vs. Rams picks: Who do experts like in Week 1?",
-      "link": "https://sports.yahoo.com/articles/49ers-vs-rams-picks-experts-041528204.html",
+      "id": "https-sports-yahoo-com-articles-five-reasons-why-favored-rams-092002778-html",
+      "title": "Five reasons why favored Rams won't win Super Bowl 61 in Los Angeles",
+      "link": "https://sports.yahoo.com/articles/five-reasons-why-favored-rams-092002778.html",
       "source": "Yahoo Sports",
-      "ts": 1788973200.0,
-      "published_iso": "2026-09-09T17:00:00+00:00"
+      "ts": 1789006800.0,
+      "published_iso": "2026-09-10T02:20:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-myles-garrett-injury-update-betting-impact-for-49ers-vs-rams-in-nfl-week-1",
+      "title": "Is Myles Garrett Playing Tonight? (Injury Update, Betting Impact for 49ers vs. Rams in NFL Week 1)",
+      "link": "https://si.com/betting/myles-garrett-injury-update-betting-impact-for-49ers-vs-rams-in-nfl-week-1",
+      "source": "Sports Illustrated",
+      "ts": 1789006800.0,
+      "published_iso": "2026-09-10T02:20:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-aaron-donald-update-betting-impact-for-49ers-vs-rams-in-nfl-week-1",
+      "title": "Is Aaron Donald Playing Tonight? (Injury Update, Betting Impact for 49ers vs. Rams in NFL Week 1)",
+      "link": "https://si.com/betting/aaron-donald-update-betting-impact-for-49ers-vs-rams-in-nfl-week-1",
+      "source": "Sports Illustrated",
+      "ts": 1789006200.0,
+      "published_iso": "2026-09-10T02:10:00+00:00"
+    },
+    {
+      "id": "https-ocregister-com-2026-09-10-rams-hope-for-repeat-travel-success-in-australia-if-it-aint-broke-dont-fix-it",
+      "title": "Rams hope for repeat travel success in Australia: ‘If it ain’t broke, don’t fix it.’",
+      "link": "https://ocregister.com/2026/09/10/rams-hope-for-repeat-travel-success-in-australia-if-it-aint-broke-dont-fix-it/",
+      "source": "OC Register",
+      "ts": 1789004220.0,
+      "published_iso": "2026-09-10T01:37:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-week-1",
