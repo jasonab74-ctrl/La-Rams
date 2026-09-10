@@ -1,20 +1,28 @@
 {
-  "updated_iso": "2026-09-10T09:52:45.744619+00:00",
-  "count": 5,
+  "updated_iso": "2026-09-10T13:54:22.153261+00:00",
+  "count": 6,
   "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-09-10-rams-seahawks-patriots-week-1-lessons-learned-9168618800",
+      "title": "What the Rams can learn from the Seahawks' narrow win vs. Patriots",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/09/10/rams-seahawks-patriots-week-1-lessons-learned/91686188007/",
+      "source": "Rams Wire",
+      "ts": 1789020060.0,
+      "published_iso": "2026-09-10T06:01:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-anytime-touchdown-scorer-49ers-vs-130000979-html",
+      "title": "Anytime Touchdown Scorer 49ers vs Rams Picks for Week 1",
+      "link": "https://sports.yahoo.com/articles/anytime-touchdown-scorer-49ers-vs-130000979.html",
+      "source": "Yahoo Sports",
+      "ts": 1789020000.0,
+      "published_iso": "2026-09-10T06:00:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-five-reasons-why-favored-rams-092002778-html",
       "title": "Five reasons why favored Rams won't win Super Bowl 61 in Los Angeles",
       "link": "https://sports.yahoo.com/articles/five-reasons-why-favored-rams-092002778.html",
       "source": "Yahoo Sports",
-      "ts": 1789006800.0,
-      "published_iso": "2026-09-10T02:20:00+00:00"
-    },
-    {
-      "id": "https-si-com-betting-myles-garrett-injury-update-betting-impact-for-49ers-vs-rams-in-nfl-week-1",
-      "title": "Is Myles Garrett Playing Tonight? (Injury Update, Betting Impact for 49ers vs. Rams in NFL Week 1)",
-      "link": "https://si.com/betting/myles-garrett-injury-update-betting-impact-for-49ers-vs-rams-in-nfl-week-1",
-      "source": "Sports Illustrated",
       "ts": 1789006800.0,
       "published_iso": "2026-09-10T02:20:00+00:00"
     },
@@ -27,20 +35,20 @@
       "published_iso": "2026-09-10T02:10:00+00:00"
     },
     {
-      "id": "https-ocregister-com-2026-09-10-rams-hope-for-repeat-travel-success-in-australia-if-it-aint-broke-dont-fix-it",
-      "title": "Rams hope for repeat travel success in Australia: ‘If it ain’t broke, don’t fix it.’",
-      "link": "https://ocregister.com/2026/09/10/rams-hope-for-repeat-travel-success-in-australia-if-it-aint-broke-dont-fix-it/",
-      "source": "OC Register",
-      "ts": 1789004220.0,
-      "published_iso": "2026-09-10T01:37:00+00:00"
+      "id": "https-cbssports-com-betting-news-davante-adams-among-best-anytime-touchdown-scorer-picks-for-49ers-vs-rams-in-week-1-nfl",
+      "title": "Davante Adams among best anytime touchdown scorer picks for 49ers vs. Rams in Week 1 NFL action",
+      "link": "https://cbssports.com/betting/news/davante-adams-among-best-anytime-touchdown-scorer-picks-for-49ers-vs-rams-in-week-1-nfl-action/",
+      "source": "CBS Sports",
+      "ts": 1788975000.0,
+      "published_iso": "2026-09-09T17:30:00+00:00"
     },
     {
-      "id": "https-therams-com-news-los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-week-1",
-      "title": "Los Angeles Rams vs. San Francisco 49ers: How to watch, listen to and live stream Week 1",
-      "link": "https://therams.com/news/los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-week-1",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1788757260.0,
-      "published_iso": "2026-09-07T05:01:00+00:00"
+      "id": "https-cbssports-com-betting-news-underdog-promo-code-september-10-2026",
+      "title": "Underdog promo code CBSSPORTS2: 50% deposit match for up to $1,000 for 49ers vs. Rams on Thursday, Sept. 10",
+      "link": "https://cbssports.com/betting/news/underdog-promo-code-september-10-2026/",
+      "source": "CBS Sports",
+      "ts": 1788975000.0,
+      "published_iso": "2026-09-09T17:30:00+00:00"
     }
   ]
 }
