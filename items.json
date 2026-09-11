@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-09-11T18:40:07.422678+00:00",
-  "count": 5,
+  "updated_iso": "2026-09-11T21:23:03.297026+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-fans-react-49ers-loss-181337537-html",
-      "title": "Rams fans react to 49ers loss: ‘Is Davante Adams washed?’",
-      "link": "https://sports.yahoo.com/articles/rams-fans-react-49ers-loss-181337537.html",
-      "source": "Yahoo Sports",
-      "ts": 1789125180.0,
-      "published_iso": "2026-09-11T11:13:00+00:00"
+      "id": "https-yahoo-com-news-videos-49ers-beat-rams-27-7-180423290-html",
+      "title": "49ers beat Rams 27-7, LA disappoints, How high is Brock Purdy’s ceiling this season? | The Herd",
+      "link": "https://yahoo.com/news/videos/49ers-beat-rams-27-7-180423290.html",
+      "source": "Yahoo",
+      "ts": 1789124640.0,
+      "published_iso": "2026-09-11T11:04:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-rams-news-stephen-smith-calls-170310580-html",
@@ -33,14 +33,6 @@
       "source": "FOX Sports",
       "ts": 1789075860.0,
       "published_iso": "2026-09-10T21:31:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-watch-fmc-yizyz8wyf9452cp0",
-      "title": "49ers beat Rams 27-7, LA disappoints, How high is Brock Purdy’s ceiling this season? | The Herd",
-      "link": "https://foxsports.com/watch/fmc-yizyz8wyf9452cp0",
-      "source": "FOX Sports",
-      "ts": 1788973200.0,
-      "published_iso": "2026-09-09T17:00:00+00:00"
     }
   ]
 }
