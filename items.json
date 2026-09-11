@@ -1,22 +1,46 @@
 {
-  "updated_iso": "2026-09-11T15:19:37.836666+00:00",
-  "count": 2,
+  "updated_iso": "2026-09-11T18:40:07.422678+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-fans-react-49ers-loss-181337537-html",
+      "title": "Rams fans react to 49ers loss: ‘Is Davante Adams washed?’",
+      "link": "https://sports.yahoo.com/articles/rams-fans-react-49ers-loss-181337537.html",
+      "source": "Yahoo Sports",
+      "ts": 1789125180.0,
+      "published_iso": "2026-09-11T11:13:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-news-stephen-smith-calls-170310580-html",
+      "title": "Rams news: Stephen A. Smith calls out Los Angeles' 'mistake' in loss vs. 49ers",
+      "link": "https://sports.yahoo.com/articles/rams-news-stephen-smith-calls-170310580.html",
+      "source": "Yahoo Sports",
+      "ts": 1789120980.0,
+      "published_iso": "2026-09-11T10:03:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-videos-san-francisco-49ers-vs-los-angeles-rams-week-1-reaction-nfl-daily",
+      "title": "San Francisco 49ers vs. Los Angeles Rams Week 1 Reaction | NFL Daily",
+      "link": "https://nfl.com/videos/san-francisco-49ers-vs-los-angeles-rams-week-1-reaction-nfl-daily",
+      "source": "NFL.com",
+      "ts": 1789081980.0,
+      "published_iso": "2026-09-10T23:13:00+00:00"
+    },
     {
       "id": "https-foxsports-com-live-blog-nfl-49ers-vs-rams-live-updates-score",
       "title": "49ers vs. Rams Highlights: San Francisco Upsets Los Angeles",
       "link": "https://foxsports.com/live-blog/nfl/49ers-vs-rams-live-updates-score",
       "source": "FOX Sports",
-      "ts": 1789072260.0,
-      "published_iso": "2026-09-10T20:31:00+00:00"
+      "ts": 1789075860.0,
+      "published_iso": "2026-09-10T21:31:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-nfl-article-nfl-in-melbourne-how-to-watch-the-san-francisco-49ers-vs-los-angeles-rams-game-in-aus",
-      "title": "NFL in Melbourne: How to watch the San Francisco 49ers vs. Los Angeles Rams game in Australia tonight: Schedule, streaming info and more",
-      "link": "https://sports.yahoo.com/nfl/article/nfl-in-melbourne-how-to-watch-the-san-francisco-49ers-vs-los-angeles-rams-game-in-australia-tonight-schedule-streaming-info-and-more-234500248.html",
-      "source": "Yahoo Sports",
-      "ts": 1789045620.0,
-      "published_iso": "2026-09-10T13:07:00+00:00"
+      "id": "https-foxsports-com-watch-fmc-yizyz8wyf9452cp0",
+      "title": "49ers beat Rams 27-7, LA disappoints, How high is Brock Purdy’s ceiling this season? | The Herd",
+      "link": "https://foxsports.com/watch/fmc-yizyz8wyf9452cp0",
+      "source": "FOX Sports",
+      "ts": 1788973200.0,
+      "published_iso": "2026-09-09T17:00:00+00:00"
     }
   ]
 }
