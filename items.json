@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-09-11T11:52:30.332744+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-09-11T15:19:37.836666+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-foxsports-com-live-blog-nfl-49ers-vs-rams-live-updates-score",
+      "title": "49ers vs. Rams Highlights: San Francisco Upsets Los Angeles",
+      "link": "https://foxsports.com/live-blog/nfl/49ers-vs-rams-live-updates-score",
+      "source": "FOX Sports",
+      "ts": 1789072260.0,
+      "published_iso": "2026-09-10T20:31:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-nfl-article-nfl-in-melbourne-how-to-watch-the-san-francisco-49ers-vs-los-angeles-rams-game-in-aus",
+      "title": "NFL in Melbourne: How to watch the San Francisco 49ers vs. Los Angeles Rams game in Australia tonight: Schedule, streaming info and more",
+      "link": "https://sports.yahoo.com/nfl/article/nfl-in-melbourne-how-to-watch-the-san-francisco-49ers-vs-los-angeles-rams-game-in-australia-tonight-schedule-streaming-info-and-more-234500248.html",
+      "source": "Yahoo Sports",
+      "ts": 1789045620.0,
+      "published_iso": "2026-09-10T13:07:00+00:00"
+    }
+  ]
 }
