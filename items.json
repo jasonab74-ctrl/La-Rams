@@ -1,38 +1,30 @@
 {
-  "updated_iso": "2026-09-11T01:39:04.899268+00:00",
-  "count": 4,
+  "updated_iso": "2026-09-11T06:41:57.013740+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sportingnews-com-us-nfl-news-49ers-rams-live-score-updates-highlights-australia-bb964bf1b7428326939e75dc",
-      "title": "49ers vs. Rams live score, updates, highlights from 2026 NFL Australia game",
-      "link": "https://sportingnews.com/us/nfl/news/49ers-rams-live-score-updates-highlights-australia/bb964bf1b7428326939e75dc",
-      "source": "Sporting News",
-      "ts": 1789061760.0,
-      "published_iso": "2026-09-10T17:36:00+00:00"
+      "id": "https-foxsports-com-live-blog-nfl-49ers-vs-rams-live-updates-score",
+      "title": "49ers vs. Rams Highlights: San Francisco Upsets Los Angeles",
+      "link": "https://foxsports.com/live-blog/nfl/49ers-vs-rams-live-updates-score",
+      "source": "FOX Sports",
+      "ts": 1789075860.0,
+      "published_iso": "2026-09-10T21:31:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-rams-vs-49ers-start-em-213158169-html",
-      "title": "Rams vs. 49ers Start 'Em Sit 'Em: Week 1 Fantasy Tips for NFL Australia Debut",
-      "link": "https://sports.yahoo.com/articles/rams-vs-49ers-start-em-213158169.html",
+      "id": "https-sports-yahoo-com-articles-sports-humble-sean-mcvay-reacts-062634336-html",
+      "title": "‘Sports can humble you’: Sean McVay reacts to Rams’ crushing 27-7 loss to 49ers",
+      "link": "https://sports.yahoo.com/articles/sports-humble-sean-mcvay-reacts-062634336.html",
       "source": "Yahoo Sports",
-      "ts": 1789050660.0,
-      "published_iso": "2026-09-10T14:31:00+00:00"
+      "ts": 1789059600.0,
+      "published_iso": "2026-09-10T17:00:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-season-preview-151946028-html",
-      "title": "Los Angeles Rams Season Preview: Super Bowl or Bust?",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-season-preview-151946028.html",
+      "id": "https-sports-yahoo-com-articles-didn-t-think-wise-drunk-055854720-html",
+      "title": "‘Didn’t Think It Was Wise,’ ‘Drunk up All the Rat Poison’ — NFL World Rips Sean McVay’s Travel Plan for Rams After Loss to 49ers",
+      "link": "https://sports.yahoo.com/articles/didn-t-think-wise-drunk-055854720.html",
       "source": "Yahoo Sports",
-      "ts": 1789028340.0,
-      "published_iso": "2026-09-10T08:19:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-week-1",
-      "title": "Los Angeles Rams vs. San Francisco 49ers: How to watch, listen to and live stream Week 1",
-      "link": "https://therams.com/news/los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-week-1",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1789002000.0,
-      "published_iso": "2026-09-10T01:00:00+00:00"
+      "ts": 1789059600.0,
+      "published_iso": "2026-09-10T17:00:00+00:00"
     }
   ]
 }
