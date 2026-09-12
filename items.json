@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-12T05:57:15.845256+00:00",
-  "count": 5,
+  "updated_iso": "2026-09-12T09:52:17.425730+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-terminated-deal-043409685-html",
@@ -23,16 +23,8 @@
       "title": "49ers vs. Rams Highlights: San Francisco Upsets Los Angeles",
       "link": "https://foxsports.com/live-blog/nfl/49ers-vs-rams-live-updates-score",
       "source": "FOX Sports",
-      "ts": 1789072260.0,
-      "published_iso": "2026-09-10T20:31:00+00:00"
-    },
-    {
-      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-why-rams-wont-win-super-bowl-61-4d6aad80b2f4d2033b43a9cd",
-      "title": "Five reasons why favored Rams won't win Super Bowl 61 in Los Angeles",
-      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/why-rams-wont-win-super-bowl-61/4d6aad80b2f4d2033b43a9cd",
-      "source": "Sporting News",
-      "ts": 1789006800.0,
-      "published_iso": "2026-09-10T02:20:00+00:00"
+      "ts": 1789075860.0,
+      "published_iso": "2026-09-10T21:31:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-week-1",
