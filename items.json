@@ -1,22 +1,46 @@
 {
-  "updated_iso": "2026-09-11T23:23:05.787684+00:00",
-  "count": 6,
+  "updated_iso": "2026-09-12T01:16:11.811208+00:00",
+  "count": 7,
   "items": [
     {
-      "id": "https-apnews-com-article-rams-49ers-analysis-mcvay-f4df7a3453cf5b71c2b6f497f3f44be0",
-      "title": "Rams say travel isn’t to blame for their Melbourne debacle. If so, that suggests bigger problems",
-      "link": "https://apnews.com/article/rams-49ers-analysis-mcvay-f4df7a3453cf5b71c2b6f497f3f44be0",
+      "id": "https-apnews-com-article-rams-49ers-analisis-mcvay-viaje-nfl-10ddc6aab751b3773579894fdc6b4371",
+      "title": "Rams niegan que largo viaje haya causado debacle en Melbourne. Eso sugiere problemas mayores",
+      "link": "https://apnews.com/article/rams-49ers-analisis-mcvay-viaje-nfl-10ddc6aab751b3773579894fdc6b4371",
       "source": "AP News",
-      "ts": 1789139640.0,
-      "published_iso": "2026-09-11T15:14:00+00:00"
+      "ts": 1789147080.0,
+      "published_iso": "2026-09-11T17:18:00+00:00"
     },
     {
-      "id": "https-therams-com-news-rams-cornerback-trent-mcduffie-donates-backpacks-launch-of-inglewood-unified-flag-football-league",
-      "title": "CB Trent McDuffie donates backpacks to hundreds of kids as the Rams launch Inglewood Unified Flag Football League",
-      "link": "https://therams.com/news/rams-cornerback-trent-mcduffie-donates-backpacks-launch-of-inglewood-unified-flag-football-league",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1789088400.0,
-      "published_iso": "2026-09-11T01:00:00+00:00"
+      "id": "https-nfl-com-videos-nick-shook-analyzes-49ers-vs-rams-week-1-matchup-the-nfl-report",
+      "title": "Nick Shook analyzes 49ers vs. Rams Week 1 matchup | 'The NFL Report'",
+      "link": "https://nfl.com/videos/nick-shook-analyzes-49ers-vs-rams-week-1-matchup-the-nfl-report",
+      "source": "NFL.com",
+      "ts": 1789144560.0,
+      "published_iso": "2026-09-11T16:36:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-news-stephen-smith-calls-170310580-html",
+      "title": "Rams news: Stephen A. Smith calls out Los Angeles' 'mistake' in loss vs. 49ers",
+      "link": "https://sports.yahoo.com/articles/rams-news-stephen-smith-calls-170310580.html",
+      "source": "Yahoo Sports",
+      "ts": 1789120980.0,
+      "published_iso": "2026-09-11T10:03:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-san-francisco-49ers-dominated-los-121450729-html",
+      "title": "The San Francisco 49ers Dominated The Los Angeles Rams: What Happened?",
+      "link": "https://sports.yahoo.com/articles/san-francisco-49ers-dominated-los-121450729.html",
+      "source": "Yahoo Sports",
+      "ts": 1789103640.0,
+      "published_iso": "2026-09-11T05:14:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-videos-san-francisco-49ers-vs-los-angeles-rams-week-1-reaction-nfl-daily",
+      "title": "San Francisco 49ers vs. Los Angeles Rams Week 1 Reaction | NFL Daily",
+      "link": "https://nfl.com/videos/san-francisco-49ers-vs-los-angeles-rams-week-1-reaction-nfl-daily",
+      "source": "NFL.com",
+      "ts": 1789081980.0,
+      "published_iso": "2026-09-10T23:13:00+00:00"
     },
     {
       "id": "https-foxsports-com-live-blog-nfl-49ers-vs-rams-live-updates-score",
@@ -27,28 +51,12 @@
       "published_iso": "2026-09-10T20:31:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-nfl-article-nfl-in-melbourne-how-to-watch-the-san-francisco-49ers-vs-los-angeles-rams-game-in-aus",
-      "title": "NFL in Melbourne: How to watch the San Francisco 49ers vs. Los Angeles Rams game in Australia tonight: Schedule, streaming info and more",
-      "link": "https://sports.yahoo.com/nfl/article/nfl-in-melbourne-how-to-watch-the-san-francisco-49ers-vs-los-angeles-rams-game-in-australia-tonight-schedule-streaming-info-and-more-234500248.html",
-      "source": "Yahoo Sports",
-      "ts": 1789045620.0,
-      "published_iso": "2026-09-10T13:07:00+00:00"
-    },
-    {
       "id": "https-therams-com-news-los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-week-1",
       "title": "Los Angeles Rams vs. San Francisco 49ers: How to watch, listen to and live stream Week 1",
       "link": "https://therams.com/news/los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-week-1",
       "source": "Los Angeles Rams (Official)",
       "ts": 1789002000.0,
       "published_iso": "2026-09-10T01:00:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-fans-going-203504940-html",
-      "title": "Los Angeles Rams fans are going to have to wait a little while longer for the return of Aaron Donald following latest NFL news",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-fans-going-203504940.html",
-      "source": "Yahoo Sports",
-      "ts": 1788874500.0,
-      "published_iso": "2026-09-08T13:35:00+00:00"
     }
   ]
 }
