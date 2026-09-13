@@ -1,22 +1,30 @@
 {
-  "updated_iso": "2026-09-13T21:10:16.943373+00:00",
-  "count": 3,
+  "updated_iso": "2026-09-13T23:14:41.234568+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-news-stephen-smith-calls-170310580-html",
-      "title": "Rams news: Stephen A. Smith calls out Los Angeles' 'mistake' in loss vs. 49ers",
-      "link": "https://sports.yahoo.com/articles/rams-news-stephen-smith-calls-170310580.html",
+      "id": "https-sports-yahoo-com-articles-trip-australia-rams-myles-garretts-221552070-html",
+      "title": "After a trip to Australia, Rams DE Myles Garrett's next destination is the injured reserve",
+      "link": "https://sports.yahoo.com/articles/trip-australia-rams-myles-garretts-221552070.html",
       "source": "Yahoo Sports",
-      "ts": 1789120980.0,
-      "published_iso": "2026-09-11T10:03:00+00:00"
+      "ts": 1789312500.0,
+      "published_iso": "2026-09-13T15:15:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-major-aaron-donald-following-211016979-html",
+      "title": "Rams get major Aaron Donald update following Myles Garrett injury setback",
+      "link": "https://sports.yahoo.com/articles/rams-major-aaron-donald-following-211016979.html",
+      "source": "Yahoo Sports",
+      "ts": 1789308660.0,
+      "published_iso": "2026-09-13T14:11:00+00:00"
     },
     {
       "id": "https-foxsports-com-live-blog-nfl-49ers-vs-rams-live-updates-score",
       "title": "49ers vs. Rams Highlights: San Francisco Upsets Los Angeles",
       "link": "https://foxsports.com/live-blog/nfl/49ers-vs-rams-live-updates-score",
       "source": "FOX Sports",
-      "ts": 1789072260.0,
-      "published_iso": "2026-09-10T20:31:00+00:00"
+      "ts": 1789075860.0,
+      "published_iso": "2026-09-10T21:31:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-week-1",
