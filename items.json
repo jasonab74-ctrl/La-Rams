@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-09-14T06:29:39.842781+00:00",
-  "count": 4,
+  "updated_iso": "2026-09-14T13:10:23.557939+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-si-com-prediction-markets-rams-super-bowl-market-on-kalshi-come-crumbling-down-myles-garrett-injury-01m28de6p1jq",
+      "title": "Rams Super Bowl Market on Kalshi Come Crumbling Down Myles Garrett Injury",
+      "link": "https://si.com/prediction-markets/rams-super-bowl-market-on-kalshi-come-crumbling-down-myles-garrett-injury-01m28de6p1jq",
+      "source": "Sports Illustrated",
+      "ts": 1789362660.0,
+      "published_iso": "2026-09-14T05:11:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-myles-garrett-gets-brutally-honest-150712918-html",
+      "title": "Myles Garrett gets brutally honest regarding Los Angeles Rams debut",
+      "link": "https://sports.yahoo.com/articles/myles-garrett-gets-brutally-honest-150712918.html",
+      "source": "Yahoo Sports",
+      "ts": 1789200360.0,
+      "published_iso": "2026-09-12T08:06:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-news-stephen-smith-calls-170310580-html",
       "title": "Rams news: Stephen A. Smith calls out Los Angeles' 'mistake' in loss vs. 49ers",
@@ -9,14 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1789120980.0,
       "published_iso": "2026-09-11T10:03:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-san-francisco-49ers-dominated-los-121450729-html",
-      "title": "The San Francisco 49ers Dominated The Los Angeles Rams: What Happened?",
-      "link": "https://sports.yahoo.com/articles/san-francisco-49ers-dominated-los-121450729.html",
-      "source": "Yahoo Sports",
-      "ts": 1789103640.0,
-      "published_iso": "2026-09-11T05:14:00+00:00"
     },
     {
       "id": "https-foxsports-com-live-blog-nfl-49ers-vs-rams-live-updates-score",
