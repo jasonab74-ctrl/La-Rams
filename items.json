@@ -1,30 +1,22 @@
 {
-  "updated_iso": "2026-09-15T00:43:01.850818+00:00",
+  "updated_iso": "2026-09-15T05:30:55.186371+00:00",
   "count": 4,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-rams-defense-real-problems-hype-202730243-html",
-      "title": "The Rams Defense Has Real Problems. The Hype Has Cooled.",
-      "link": "https://sports.yahoo.com/articles/rams-defense-real-problems-hype-202730243.html",
-      "source": "Yahoo Sports",
-      "ts": 1789392420.0,
-      "published_iso": "2026-09-14T13:27:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-myles-garrett-return-timeline-201228015-html",
-      "title": "Rams’ Myles Garrett Return Timeline Unclear After Knee Surgery",
-      "link": "https://sports.yahoo.com/articles/rams-myles-garrett-return-timeline-201228015.html",
-      "source": "Yahoo Sports",
-      "ts": 1789391520.0,
-      "published_iso": "2026-09-14T13:12:00+00:00"
-    },
     {
       "id": "https-foxsports-com-live-blog-nfl-49ers-vs-rams-live-updates-score",
       "title": "49ers vs. Rams Highlights: San Francisco Upsets Los Angeles",
       "link": "https://foxsports.com/live-blog/nfl/49ers-vs-rams-live-updates-score",
       "source": "FOX Sports",
-      "ts": 1789072260.0,
-      "published_iso": "2026-09-10T20:31:00+00:00"
+      "ts": 1789075860.0,
+      "published_iso": "2026-09-10T21:31:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-nfl-article-nfl-in-melbourne-how-to-watch-the-san-francisco-49ers-vs-los-angeles-rams-game-in-aus",
+      "title": "NFL in Melbourne: How to watch the San Francisco 49ers vs. Los Angeles Rams game in Australia tonight: Schedule, streaming info and more",
+      "link": "https://sports.yahoo.com/nfl/article/nfl-in-melbourne-how-to-watch-the-san-francisco-49ers-vs-los-angeles-rams-game-in-australia-tonight-schedule-streaming-info-and-more-234500248.html",
+      "source": "Yahoo Sports",
+      "ts": 1789045620.0,
+      "published_iso": "2026-09-10T13:07:00+00:00"
     },
     {
       "id": "https-therams-com-news-los-angeles-rams-vs-san-francisco-49ers-how-to-watch-listen-to-and-live-stream-week-1",
@@ -33,6 +25,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1789002000.0,
       "published_iso": "2026-09-10T01:00:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-fans-going-203504940-html",
+      "title": "Los Angeles Rams fans are going to have to wait a little while longer for the return of Aaron Donald following latest NFL news",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-fans-going-203504940.html",
+      "source": "Yahoo Sports",
+      "ts": 1788874500.0,
+      "published_iso": "2026-09-08T13:35:00+00:00"
     }
   ]
 }
