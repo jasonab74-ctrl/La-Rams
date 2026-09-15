@@ -1,30 +1,22 @@
 {
-  "updated_iso": "2026-09-15T19:05:50.641414+00:00",
-  "count": 5,
+  "updated_iso": "2026-09-15T22:21:04.075196+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-si-com-nfl-rams-onsi-rams-overreactions-week-1-loss-49ers",
-      "title": "5 Rams Overreactions We’re Not Buying After Week 1",
-      "link": "https://si.com/nfl/rams/onsi/rams-overreactions-week-1-loss-49ers",
-      "source": "Sports Illustrated",
-      "ts": 1789455660.0,
-      "published_iso": "2026-09-15T07:01:00+00:00"
+      "id": "https-sports-yahoo-com-articles-sean-mcvay-rams-w-l-220500138-html",
+      "title": "Sean McVay and Rams W-L record following 49ers loss",
+      "link": "https://sports.yahoo.com/articles/sean-mcvay-rams-w-l-220500138.html",
+      "source": "Yahoo Sports",
+      "ts": 1789484700.0,
+      "published_iso": "2026-09-15T15:05:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-rams-news-stephen-smith-calls-170310580-html",
-      "title": "Rams news: Stephen A. Smith calls out Los Angeles' 'mistake' in loss vs. 49ers",
-      "link": "https://sports.yahoo.com/articles/rams-news-stephen-smith-calls-170310580.html",
-      "source": "Yahoo Sports",
-      "ts": 1789120980.0,
-      "published_iso": "2026-09-11T10:03:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-san-francisco-49ers-dominated-los-121450729-html",
-      "title": "The San Francisco 49ers Dominated The Los Angeles Rams: What Happened?",
-      "link": "https://sports.yahoo.com/articles/san-francisco-49ers-dominated-los-121450729.html",
-      "source": "Yahoo Sports",
-      "ts": 1789103640.0,
-      "published_iso": "2026-09-11T05:14:00+00:00"
+      "id": "https-sportingnews-com-us-tickets-los-angeles-rams-news-rams-tickets-2026-27-games-prices-schedule-release-403aa67b667be",
+      "title": "Rams tickets 2026-27: Best games to see, prices, schedule release & more",
+      "link": "https://sportingnews.com/us/tickets/los-angeles-rams/news/rams-tickets-2026-27-games-prices-schedule-release/403aa67b667be402ff5f1f80",
+      "source": "Sporting News",
+      "ts": 1789463820.0,
+      "published_iso": "2026-09-15T09:17:00+00:00"
     },
     {
       "id": "https-foxsports-com-live-blog-nfl-49ers-vs-rams-live-updates-score",
