@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-09-15T15:18:10.611187+00:00",
+  "updated_iso": "2026-09-15T19:05:50.641414+00:00",
   "count": 5,
   "items": [
     {
-      "id": "https-si-com-nfl-giants-onsi-giants-week-2-rams-odds-injuries-garrett-donald-01m2grv5q7w0",
-      "title": "Giants Open Week 2 as Underdogs Against the Rams",
-      "link": "https://si.com/nfl/giants/onsi/giants-week-2-rams-odds-injuries-garrett-donald-01m2grv5q7w0",
+      "id": "https-si-com-nfl-rams-onsi-rams-overreactions-week-1-loss-49ers",
+      "title": "5 Rams Overreactions We’re Not Buying After Week 1",
+      "link": "https://si.com/nfl/rams/onsi/rams-overreactions-week-1-loss-49ers",
       "source": "Sports Illustrated",
-      "ts": 1789459200.0,
-      "published_iso": "2026-09-15T08:00:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-myles-garrett-gets-brutally-honest-150712918-html",
-      "title": "Myles Garrett gets brutally honest regarding Los Angeles Rams debut",
-      "link": "https://sports.yahoo.com/articles/myles-garrett-gets-brutally-honest-150712918.html",
-      "source": "Yahoo Sports",
-      "ts": 1789200360.0,
-      "published_iso": "2026-09-12T08:06:00+00:00"
+      "ts": 1789455660.0,
+      "published_iso": "2026-09-15T07:01:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-rams-news-stephen-smith-calls-170310580-html",
@@ -25,6 +17,14 @@
       "source": "Yahoo Sports",
       "ts": 1789120980.0,
       "published_iso": "2026-09-11T10:03:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-san-francisco-49ers-dominated-los-121450729-html",
+      "title": "The San Francisco 49ers Dominated The Los Angeles Rams: What Happened?",
+      "link": "https://sports.yahoo.com/articles/san-francisco-49ers-dominated-los-121450729.html",
+      "source": "Yahoo Sports",
+      "ts": 1789103640.0,
+      "published_iso": "2026-09-11T05:14:00+00:00"
     },
     {
       "id": "https-foxsports-com-live-blog-nfl-49ers-vs-rams-live-updates-score",
