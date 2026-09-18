@@ -1,22 +1,22 @@
 {
-  "updated_iso": "2026-09-18T05:20:26.680049+00:00",
-  "count": 4,
+  "updated_iso": "2026-09-18T09:54:37.932475+00:00",
+  "count": 5,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-confidence-meter-why-matthew-stafford-221418667-html",
-      "title": "Confidence Meter: Why Matthew Stafford, Rams Offense Can Bounce Back vs. Giants",
-      "link": "https://sports.yahoo.com/articles/confidence-meter-why-matthew-stafford-221418667.html",
+      "id": "https-sports-yahoo-com-articles-3-time-pro-bowler-jumping-202421779-html",
+      "title": "3-Time Pro Bowler ‘Jumping Ship’ on Los Angeles Rams, Picks Giants in Week 2",
+      "link": "https://sports.yahoo.com/articles/3-time-pro-bowler-jumping-202421779.html",
       "source": "Yahoo Sports",
-      "ts": 1789658100.0,
-      "published_iso": "2026-09-17T15:15:00+00:00"
+      "ts": 1789651380.0,
+      "published_iso": "2026-09-17T13:23:00+00:00"
     },
     {
-      "id": "https-therams-com-news-east-west-bank-named-official-community-banking-partner-los-angeles-rams",
-      "title": "East West Bank named an Official Community Banking Partner of the Los Angeles Rams",
-      "link": "https://therams.com/news/east-west-bank-named-official-community-banking-partner-los-angeles-rams",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1789610400.0,
-      "published_iso": "2026-09-17T02:00:00+00:00"
+      "id": "https-sportingnews-com-us-tickets-los-angeles-rams-news-rams-tickets-2026-27-games-prices-schedule-release-403aa67b667be",
+      "title": "Rams tickets 2026-27: Best games to see, prices, schedule release & more",
+      "link": "https://sportingnews.com/us/tickets/los-angeles-rams/news/rams-tickets-2026-27-games-prices-schedule-release/403aa67b667be402ff5f1f80",
+      "source": "Sporting News",
+      "ts": 1789463820.0,
+      "published_iso": "2026-09-15T09:17:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-season-preview-151946028-html",
@@ -25,6 +25,14 @@
       "source": "Yahoo Sports",
       "ts": 1789370280.0,
       "published_iso": "2026-09-14T07:18:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-live-blog-nfl-49ers-vs-rams-live-updates-score",
+      "title": "49ers vs. Rams Highlights: San Francisco Upsets Los Angeles",
+      "link": "https://foxsports.com/live-blog/nfl/49ers-vs-rams-live-updates-score",
+      "source": "FOX Sports",
+      "ts": 1789072260.0,
+      "published_iso": "2026-09-10T20:31:00+00:00"
     },
     {
       "id": "https-espn-com-nfl-team-name-lar-los-angeles-rams",
