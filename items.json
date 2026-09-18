@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-09-17T22:55:25.459337+00:00",
-  "count": 3,
+  "updated_iso": "2026-09-18T00:51:38.295046+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-therams-com-news-know-before-you-go-rams-vs-new-york-giants-sofi-stadium-week-2",
-      "title": "Know Before You Go: Rams vs. New York Giants at SoFi Stadium",
-      "link": "https://therams.com/news/know-before-you-go-rams-vs-new-york-giants-sofi-stadium-week-2",
+      "id": "https-therams-com-audio-between-the-horns-episode-247-season-opener-week-2-long-term-goals-rams-podcast",
+      "title": "Ep. 247: Reflecting on the Rams' season opener, players to watch in Week 2, long-term goals & more",
+      "link": "https://therams.com/audio/between-the-horns-episode-247-season-opener-week-2-long-term-goals-rams-podcast",
       "source": "Los Angeles Rams (Official)",
-      "ts": 1789628400.0,
-      "published_iso": "2026-09-17T07:00:00+00:00"
+      "ts": 1789664400.0,
+      "published_iso": "2026-09-17T17:00:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-3-time-pro-bowler-jumping-202421779-html",
+      "title": "3-Time Pro Bowler ‘Jumping Ship’ on Los Angeles Rams, Picks Giants in Week 2",
+      "link": "https://sports.yahoo.com/articles/3-time-pro-bowler-jumping-202421779.html",
+      "source": "Yahoo Sports",
+      "ts": 1789651380.0,
+      "published_iso": "2026-09-17T13:23:00+00:00"
     },
     {
       "id": "https-therams-com-news-east-west-bank-named-official-community-banking-partner-los-angeles-rams",
@@ -19,12 +27,12 @@
       "published_iso": "2026-09-17T02:00:00+00:00"
     },
     {
-      "id": "https-foxsports-com-live-blog-nfl-49ers-vs-rams-live-updates-score",
-      "title": "49ers vs. Rams Highlights: San Francisco Upsets Los Angeles",
-      "link": "https://foxsports.com/live-blog/nfl/49ers-vs-rams-live-updates-score",
-      "source": "FOX Sports",
-      "ts": 1789072260.0,
-      "published_iso": "2026-09-10T20:31:00+00:00"
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-season-preview-151946028-html",
+      "title": "Los Angeles Rams Season Odds React to Week 1 Loss, Myles Garrett Injury",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-season-preview-151946028.html",
+      "source": "Yahoo Sports",
+      "ts": 1789370280.0,
+      "published_iso": "2026-09-14T07:18:00+00:00"
     }
   ]
 }
