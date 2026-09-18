@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-09-18T00:51:38.295046+00:00",
+  "updated_iso": "2026-09-18T05:20:26.680049+00:00",
   "count": 4,
   "items": [
     {
-      "id": "https-therams-com-audio-between-the-horns-episode-247-season-opener-week-2-long-term-goals-rams-podcast",
-      "title": "Ep. 247: Reflecting on the Rams' season opener, players to watch in Week 2, long-term goals & more",
-      "link": "https://therams.com/audio/between-the-horns-episode-247-season-opener-week-2-long-term-goals-rams-podcast",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1789664400.0,
-      "published_iso": "2026-09-17T17:00:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-3-time-pro-bowler-jumping-202421779-html",
-      "title": "3-Time Pro Bowler ‘Jumping Ship’ on Los Angeles Rams, Picks Giants in Week 2",
-      "link": "https://sports.yahoo.com/articles/3-time-pro-bowler-jumping-202421779.html",
+      "id": "https-sports-yahoo-com-articles-confidence-meter-why-matthew-stafford-221418667-html",
+      "title": "Confidence Meter: Why Matthew Stafford, Rams Offense Can Bounce Back vs. Giants",
+      "link": "https://sports.yahoo.com/articles/confidence-meter-why-matthew-stafford-221418667.html",
       "source": "Yahoo Sports",
-      "ts": 1789651380.0,
-      "published_iso": "2026-09-17T13:23:00+00:00"
+      "ts": 1789658100.0,
+      "published_iso": "2026-09-17T15:15:00+00:00"
     },
     {
       "id": "https-therams-com-news-east-west-bank-named-official-community-banking-partner-los-angeles-rams",
@@ -33,6 +25,14 @@
       "source": "Yahoo Sports",
       "ts": 1789370280.0,
       "published_iso": "2026-09-14T07:18:00+00:00"
+    },
+    {
+      "id": "https-espn-com-nfl-team-name-lar-los-angeles-rams",
+      "title": "Los Angeles Rams Scores, Stats and Highlights",
+      "link": "https://espn.com/nfl/team/_/name/lar/los-angeles-rams",
+      "source": "ESPN",
+      "ts": 1783441800.0,
+      "published_iso": "2026-07-07T16:30:00+00:00"
     }
   ]
 }
