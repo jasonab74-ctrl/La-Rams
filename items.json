@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-18T09:54:37.932475+00:00",
-  "count": 5,
+  "updated_iso": "2026-09-18T13:55:34.711421+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-3-time-pro-bowler-jumping-202421779-html",
@@ -11,36 +11,12 @@
       "published_iso": "2026-09-17T13:23:00+00:00"
     },
     {
-      "id": "https-sportingnews-com-us-tickets-los-angeles-rams-news-rams-tickets-2026-27-games-prices-schedule-release-403aa67b667be",
-      "title": "Rams tickets 2026-27: Best games to see, prices, schedule release & more",
-      "link": "https://sportingnews.com/us/tickets/los-angeles-rams/news/rams-tickets-2026-27-games-prices-schedule-release/403aa67b667be402ff5f1f80",
-      "source": "Sporting News",
-      "ts": 1789463820.0,
-      "published_iso": "2026-09-15T09:17:00+00:00"
-    },
-    {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-season-preview-151946028-html",
       "title": "Los Angeles Rams Season Odds React to Week 1 Loss, Myles Garrett Injury",
       "link": "https://sports.yahoo.com/articles/los-angeles-rams-season-preview-151946028.html",
       "source": "Yahoo Sports",
       "ts": 1789370280.0,
       "published_iso": "2026-09-14T07:18:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-live-blog-nfl-49ers-vs-rams-live-updates-score",
-      "title": "49ers vs. Rams Highlights: San Francisco Upsets Los Angeles",
-      "link": "https://foxsports.com/live-blog/nfl/49ers-vs-rams-live-updates-score",
-      "source": "FOX Sports",
-      "ts": 1789072260.0,
-      "published_iso": "2026-09-10T20:31:00+00:00"
-    },
-    {
-      "id": "https-espn-com-nfl-team-name-lar-los-angeles-rams",
-      "title": "Los Angeles Rams Scores, Stats and Highlights",
-      "link": "https://espn.com/nfl/team/_/name/lar/los-angeles-rams",
-      "source": "ESPN",
-      "ts": 1783441800.0,
-      "published_iso": "2026-07-07T16:30:00+00:00"
     }
   ]
 }
