@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-09-19T17:31:38.321778+00:00",
-  "count": 1,
+  "updated_iso": "2026-09-19T19:39:22.713083+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-sean-mcvay-confirms-aaron-donald-rumor-week-2-matchup-f8cd15c59",
+      "title": "Rams' Sean McVay confirms Aaron Donald rumor for Week 2 matchup",
+      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-sean-mcvay-confirms-aaron-donald-rumor-week-2-matchup/f8cd15c59bf202d629ce7435",
+      "source": "Sporting News",
+      "ts": 1789819800.0,
+      "published_iso": "2026-09-19T12:10:00+00:00"
+    },
+    {
+      "id": "https-ocregister-com-2026-09-19-sean-mcvay-rams-wr-puka-nacua-is-questionable-with-hip-injury-for-monday",
+      "title": "Sean McVay: Rams WR Puka Nacua is ‘questionable’ with hip injury for Monday",
+      "link": "https://ocregister.com/2026/09/19/sean-mcvay-rams-wr-puka-nacua-is-questionable-with-hip-injury-for-monday/",
+      "source": "OC Register",
+      "ts": 1789819500.0,
+      "published_iso": "2026-09-19T12:05:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-aaron-donald-095608503-html",
       "title": "Los Angeles Rams' Aaron Donald plans to play vs. New York Giants",
@@ -9,6 +25,14 @@
       "source": "Yahoo Sports",
       "ts": 1789786560.0,
       "published_iso": "2026-09-19T02:56:00+00:00"
+    },
+    {
+      "id": "https-espn-com-nfl-story-id-49981547-rams-puka-nacua-again-misses-practice-questionable-mnf",
+      "title": "Rams' Puka Nacua again misses practice, questionable for MNF",
+      "link": "https://espn.com/nfl/story/_/id/49981547/rams-puka-nacua-again-misses-practice-questionable-mnf",
+      "source": "ESPN",
+      "ts": 1789773120.0,
+      "published_iso": "2026-09-18T23:12:00+00:00"
     }
   ]
 }
