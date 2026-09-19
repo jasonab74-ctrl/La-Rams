@@ -1,14 +1,38 @@
 {
-  "updated_iso": "2026-09-19T21:49:59.776973+00:00",
-  "count": 1,
+  "updated_iso": "2026-09-19T23:41:34.602430+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-season-preview-151946028-html",
-      "title": "Los Angeles Rams Season Odds React to Week 1 Loss, Myles Garrett Injury",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-season-preview-151946028.html",
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-09-19-rams-giants-injury-report-puka-nacua-kamren-kinchens-918",
+      "title": "Rams-Giants injury report: Puka Nacua questionable, another WR doubtful",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/09/19/rams-giants-injury-report-puka-nacua-kamren-kinchens/91851142007/",
+      "source": "Rams Wire",
+      "ts": 1789831320.0,
+      "published_iso": "2026-09-19T15:22:00+00:00"
+    },
+    {
+      "id": "https-apnews-com-article-rams-los-angeles-puka-nacua-01c3f2216477bbb65b87f1de33eebd7c",
+      "title": "Puka Nacua en duda por lesión y Aaron Donald jugará con los Rams el lunes ante Giants",
+      "link": "https://apnews.com/article/rams-los-angeles-puka-nacua-01c3f2216477bbb65b87f1de33eebd7c",
+      "source": "AP News",
+      "ts": 1789828260.0,
+      "published_iso": "2026-09-19T14:31:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-aaron-donald-095608503-html",
+      "title": "Los Angeles Rams' Aaron Donald plans to play vs. New York Giants",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-aaron-donald-095608503.html",
       "source": "Yahoo Sports",
-      "ts": 1789370280.0,
-      "published_iso": "2026-09-14T07:18:00+00:00"
+      "ts": 1789786560.0,
+      "published_iso": "2026-09-19T02:56:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-ny-giants-rams-matchup-los-173000729-html",
+      "title": "NY Giants-Rams matchup: Los Angeles offense will provide stern test",
+      "link": "https://sports.yahoo.com/articles/ny-giants-rams-matchup-los-173000729.html",
+      "source": "Yahoo Sports",
+      "ts": 1789727460.0,
+      "published_iso": "2026-09-18T10:31:00+00:00"
     }
   ]
 }
