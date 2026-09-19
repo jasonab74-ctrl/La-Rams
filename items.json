@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-19T14:53:46.744404+00:00",
-  "count": 2,
+  "updated_iso": "2026-09-19T17:31:38.321778+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-aaron-donald-095608503-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1789786560.0,
       "published_iso": "2026-09-19T02:56:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-aaron-donald-sends-plan-message-092517310-html",
-      "title": "Aaron Donald sends ‘That’s the plan’ message to New York Giants as Los Angeles Rams prepare for his long-awaited return",
-      "link": "https://sports.yahoo.com/articles/aaron-donald-sends-plan-message-092517310.html",
-      "source": "Yahoo Sports",
-      "ts": 1789784700.0,
-      "published_iso": "2026-09-19T02:25:00+00:00"
     }
   ]
 }
