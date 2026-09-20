@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-09-20T07:09:50.139710+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-09-20T12:30:24.785312+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-ny-giants-rams-matchup-los-173000729-html",
+      "title": "NY Giants-Rams matchup: Los Angeles offense will provide stern test",
+      "link": "https://sports.yahoo.com/articles/ny-giants-rams-matchup-los-173000729.html",
+      "source": "Yahoo Sports",
+      "ts": 1789727460.0,
+      "published_iso": "2026-09-18T10:31:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-season-preview-151946028-html",
+      "title": "Los Angeles Rams Season Odds React to Week 1 Loss, Myles Garrett Injury",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-season-preview-151946028.html",
+      "source": "Yahoo Sports",
+      "ts": 1789370280.0,
+      "published_iso": "2026-09-14T07:18:00+00:00"
+    }
+  ]
 }
