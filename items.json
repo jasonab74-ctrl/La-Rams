@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2026-09-21T07:19:02.499874+00:00",
-  "count": 1,
+  "updated_iso": "2026-09-21T14:22:09.422169+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-season-preview-151946028-html",
-      "title": "Los Angeles Rams Season Odds React to Week 1 Loss, Myles Garrett Injury",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-season-preview-151946028.html",
+      "id": "https-si-com-betting-giants-vs-rams-score-prediction-for-nfl-week-2-bet-rams-despite-line-movement-on-monday",
+      "title": "Giants vs. Rams Score Prediction for NFL Week 2 (Bet Rams Despite Line Movement on Monday)",
+      "link": "https://si.com/betting/giants-vs-rams-score-prediction-for-nfl-week-2-bet-rams-despite-line-movement-on-monday",
+      "source": "Sports Illustrated",
+      "ts": 1789960500.0,
+      "published_iso": "2026-09-21T03:15:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-nfl-betting-giants-rams-picks-nfl-predictions-kalshi-promo-code-cbssports55-monday-night-football",
+      "title": "Giants vs. Rams picks, NFL predictions: Use Kalshi promo code CBSSPORTS55 to get $55 for Monday Night Football",
+      "link": "https://cbssports.com/nfl/betting/giants-rams-picks-nfl-predictions-kalshi-promo-code-cbssports55-monday-night-football/",
+      "source": "CBS Sports",
+      "ts": 1789925820.0,
+      "published_iso": "2026-09-20T17:37:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-aaron-donald-095608503-html",
+      "title": "Los Angeles Rams' Aaron Donald plans to play vs. New York Giants",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-aaron-donald-095608503.html",
       "source": "Yahoo Sports",
-      "ts": 1789370280.0,
-      "published_iso": "2026-09-14T07:18:00+00:00"
+      "ts": 1789786560.0,
+      "published_iso": "2026-09-19T02:56:00+00:00"
     }
   ]
 }
