@@ -1,22 +1,30 @@
 {
-  "updated_iso": "2026-09-22T06:23:37.621142+00:00",
+  "updated_iso": "2026-09-22T11:52:56.430029+00:00",
   "count": 4,
   "items": [
     {
-      "id": "https-apnews-com-article-jaxson-dart-giants-injury-c991e24228f37d6f6ec8331e20f7b0b7",
-      "title": "Jaxson Dart injures his knee as several Giants stars get banged up in loss to Rams",
-      "link": "https://apnews.com/article/jaxson-dart-giants-injury-c991e24228f37d6f6ec8331e20f7b0b7",
-      "source": "AP News",
-      "ts": 1790012580.0,
-      "published_iso": "2026-09-21T17:43:00+00:00"
+      "id": "https-bleacherreport-com-articles-25501917-rams-aaron-donald-says-hes-little-sore-after-return-nfl-retirement-vs-giants",
+      "title": "Rams' Aaron Donald Says He's 'A Little Sore' After Return from NFL Retirement vs. Giants",
+      "link": "https://bleacherreport.com/articles/25501917-rams-aaron-donald-says-hes-little-sore-after-return-nfl-retirement-vs-giants",
+      "source": "Bleacher Report",
+      "ts": 1790052120.0,
+      "published_iso": "2026-09-22T04:42:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-did-rams-aaron-donald-2026-043404231-html",
-      "title": "How Did Rams Aaron Donald Do in 2026 Return?",
-      "link": "https://sports.yahoo.com/articles/did-rams-aaron-donald-2026-043404231.html",
+      "id": "https-sports-yahoo-com-articles-matthew-stafford-davante-adams-nfl-112733815-html",
+      "title": "Matthew Stafford, Davante Adams make NFL history in Rams’ blowout win over Giants",
+      "link": "https://sports.yahoo.com/articles/matthew-stafford-davante-adams-nfl-112733815.html",
       "source": "Yahoo Sports",
-      "ts": 1790010000.0,
-      "published_iso": "2026-09-21T17:00:00+00:00"
+      "ts": 1790051220.0,
+      "published_iso": "2026-09-22T04:27:00+00:00"
+    },
+    {
+      "id": "https-apnews-com-article-rams-giants-score-b65ad7b476742ce73ef3801ea8b88ab5",
+      "title": "Davante Adams, Matthew Stafford lead Rams past Giants 28-6 after Jaxson Dart’s injury",
+      "link": "https://apnews.com/article/rams-giants-score-b65ad7b476742ce73ef3801ea8b88ab5",
+      "source": "AP News",
+      "ts": 1790021820.0,
+      "published_iso": "2026-09-21T20:17:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-york-giants-los-angeles-rams-231804225-html",
@@ -25,14 +33,6 @@
       "source": "Yahoo Sports",
       "ts": 1790007540.0,
       "published_iso": "2026-09-21T16:19:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-aaron-donald-s-return-vs-giants-a-reminder-of-what-his-presence-on-field-in-locker-room-means-to-",
-      "title": "Aaron Donald's return vs. Giants a reminder of what his presence on field, in locker room means to Rams coaches, teammates and fans",
-      "link": "https://therams.com/news/aaron-donald-s-return-vs-giants-a-reminder-of-what-his-presence-on-field-in-locker-room-means-to-rams-coaches-teammates-and-fans",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1790005800.0,
-      "published_iso": "2026-09-21T15:50:00+00:00"
     }
   ]
 }
