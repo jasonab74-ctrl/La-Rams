@@ -1,22 +1,30 @@
 {
-  "updated_iso": "2026-09-21T22:52:55.532801+00:00",
-  "count": 2,
+  "updated_iso": "2026-09-22T01:18:24.546122+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-yahoo-com-entertainment-celebrity-articles-puka-nacua-baby-mama-posts-220149959-html",
-      "title": "Puka Nacua’s baby mama posts steamy dance video before Rams-Giants game",
-      "link": "https://yahoo.com/entertainment/celebrity/articles/puka-nacua-baby-mama-posts-220149959.html",
-      "source": "Yahoo",
-      "ts": 1790002800.0,
-      "published_iso": "2026-09-21T15:00:00+00:00"
+      "id": "https-nfl-com-videos-davante-adams-electrifies-the-rams-with-a-31-yard-td-catch-vs-giants",
+      "title": "Davante Adams electrifies the Rams with a 31-yard TD catch vs. Giants",
+      "link": "https://nfl.com/videos/davante-adams-electrifies-the-rams-with-a-31-yard-td-catch-vs-giants",
+      "source": "NFL.com",
+      "ts": 1790013720.0,
+      "published_iso": "2026-09-21T18:02:00+00:00"
     },
     {
-      "id": "https-cbssports-com-nfl-news-giants-vs-rams-how-to-watch-prediction-preview",
-      "title": "Rams vs. Giants preview: Aaron Donald makes return for Los Angeles on 'MNF'",
-      "link": "https://cbssports.com/nfl/news/giants-vs-rams-how-to-watch-prediction-preview/",
-      "source": "CBS Sports",
-      "ts": 1789971900.0,
-      "published_iso": "2026-09-21T06:25:00+00:00"
+      "id": "https-apnews-com-article-jaxson-dart-giants-injury-c991e24228f37d6f6ec8331e20f7b0b7",
+      "title": "Giants QB Jaxson Dart exits with knee injury on first series vs. Rams",
+      "link": "https://apnews.com/article/jaxson-dart-giants-injury-c991e24228f37d6f6ec8331e20f7b0b7",
+      "source": "AP News",
+      "ts": 1790012580.0,
+      "published_iso": "2026-09-21T17:43:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-york-giants-los-angeles-rams-231804225-html",
+      "title": "New York Giants at Los Angeles Rams inactives: Who’s in & out for Monday Night Football?",
+      "link": "https://sports.yahoo.com/articles/york-giants-los-angeles-rams-231804225.html",
+      "source": "Yahoo Sports",
+      "ts": 1790007540.0,
+      "published_iso": "2026-09-21T16:19:00+00:00"
     }
   ]
 }
