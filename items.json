@@ -1,30 +1,22 @@
 {
-  "updated_iso": "2026-09-22T11:52:56.430029+00:00",
-  "count": 4,
+  "updated_iso": "2026-09-22T15:48:35.184467+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-bleacherreport-com-articles-25501917-rams-aaron-donald-says-hes-little-sore-after-return-nfl-retirement-vs-giants",
-      "title": "Rams' Aaron Donald Says He's 'A Little Sore' After Return from NFL Retirement vs. Giants",
-      "link": "https://bleacherreport.com/articles/25501917-rams-aaron-donald-says-hes-little-sore-after-return-nfl-retirement-vs-giants",
+      "id": "https-bleacherreport-com-articles-25501963-puka-nacua-injury-update-new-timeline-return-rams-after-missing-week-2-vs-gia",
+      "title": "Puka Nacua Injury Update, New Timeline to Return for Rams After Missing Week 2 vs. Giants",
+      "link": "https://bleacherreport.com/articles/25501963-puka-nacua-injury-update-new-timeline-return-rams-after-missing-week-2-vs-giants",
       "source": "Bleacher Report",
-      "ts": 1790052120.0,
-      "published_iso": "2026-09-22T04:42:00+00:00"
+      "ts": 1790066340.0,
+      "published_iso": "2026-09-22T08:39:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-matthew-stafford-davante-adams-nfl-112733815-html",
-      "title": "Matthew Stafford, Davante Adams make NFL history in Rams’ blowout win over Giants",
-      "link": "https://sports.yahoo.com/articles/matthew-stafford-davante-adams-nfl-112733815.html",
-      "source": "Yahoo Sports",
-      "ts": 1790051220.0,
-      "published_iso": "2026-09-22T04:27:00+00:00"
-    },
-    {
-      "id": "https-apnews-com-article-rams-giants-score-b65ad7b476742ce73ef3801ea8b88ab5",
-      "title": "Davante Adams, Matthew Stafford lead Rams past Giants 28-6 after Jaxson Dart’s injury",
-      "link": "https://apnews.com/article/rams-giants-score-b65ad7b476742ce73ef3801ea8b88ab5",
-      "source": "AP News",
-      "ts": 1790021820.0,
-      "published_iso": "2026-09-21T20:17:00+00:00"
+      "id": "https-si-com-nfl-giants-onsi-giants-week-2-winners-losers-rams-loss-01m33kqdvk87",
+      "title": "Giants' Week 2 Blowout Loss to Rams: 4 Winners, 6 Losers",
+      "link": "https://si.com/nfl/giants/onsi/giants-week-2-winners-losers-rams-loss-01m33kqdvk87",
+      "source": "Sports Illustrated",
+      "ts": 1790065800.0,
+      "published_iso": "2026-09-22T08:30:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-york-giants-los-angeles-rams-231804225-html",
