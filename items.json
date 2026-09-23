@@ -1,5 +1,38 @@
 {
-  "updated_iso": "2026-09-23T10:08:21.119639+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-09-23T15:06:16.378046+00:00",
+  "count": 4,
+  "items": [
+    {
+      "id": "https-cbssports-com-nfl-news-rams-vs-giants-live-updates-score-highlights-mnf-live",
+      "title": "Rams vs. Giants takeaways: Davante Adams, Matthew Stafford erupt in rout as Jaxson Dart exits with knee injury",
+      "link": "https://cbssports.com/nfl/news/rams-vs-giants-live-updates-score-highlights-mnf/live/",
+      "source": "CBS Sports",
+      "ts": 1790023920.0,
+      "published_iso": "2026-09-21T20:52:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-york-giants-los-angeles-rams-231804225-html",
+      "title": "New York Giants at Los Angeles Rams inactives: Who’s in & out for Monday Night Football?",
+      "link": "https://sports.yahoo.com/articles/york-giants-los-angeles-rams-231804225.html",
+      "source": "Yahoo Sports",
+      "ts": 1790007540.0,
+      "published_iso": "2026-09-21T16:19:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-game-recap-rams-defeat-giants-28-6-on-monday-night-football",
+      "title": "Game Recap: Rams defeat Giants 28-6 on Monday Night Football",
+      "link": "https://therams.com/news/game-recap-rams-defeat-giants-28-6-on-monday-night-football",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1789996320.0,
+      "published_iso": "2026-09-21T13:12:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-york-giants-vs-los-angeles-135546896-html",
+      "title": "New York Giants vs. Los Angeles Rams: Biggest question of Week 2",
+      "link": "https://sports.yahoo.com/articles/york-giants-vs-los-angeles-135546896.html",
+      "source": "Yahoo Sports",
+      "ts": 1789887300.0,
+      "published_iso": "2026-09-20T06:55:00+00:00"
+    }
+  ]
 }
