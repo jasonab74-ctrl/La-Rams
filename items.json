@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-09-25T05:39:20.723158+00:00",
-  "count": 4,
+  "updated_iso": "2026-09-25T10:38:48.799390+00:00",
+  "count": 2,
   "items": [
-    {
-      "id": "https-therams-com-news-los-angeles-rams-at-denver-broncos-how-to-watch-listen-to-and-live-stream-sunday-night-football-w",
-      "title": "Los Angeles Rams at Denver Broncos: How to watch, listen to and live stream Sunday Night Football Week 3",
-      "link": "https://therams.com/news/los-angeles-rams-at-denver-broncos-how-to-watch-listen-to-and-live-stream-sunday-night-football-week-3",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1790139540.0,
-      "published_iso": "2026-09-23T04:59:00+00:00"
-    },
     {
       "id": "https-therams-com-news-rams-edwards-lifesciences-extend-partnership-to-expand-heart-valve-disease-awareness-across-great",
       "title": "Rams and Edwards Lifesciences extend partnership to expand heart valve disease awareness across greater Los Angeles",
@@ -25,14 +17,6 @@
       "source": "AP News",
       "ts": 1790021820.0,
       "published_iso": "2026-09-21T20:17:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-york-giants-los-angeles-rams-231804225-html",
-      "title": "New York Giants at Los Angeles Rams inactives: Who’s in & out for Monday Night Football?",
-      "link": "https://sports.yahoo.com/articles/york-giants-los-angeles-rams-231804225.html",
-      "source": "Yahoo Sports",
-      "ts": 1790007540.0,
-      "published_iso": "2026-09-21T16:19:00+00:00"
     }
   ]
 }
