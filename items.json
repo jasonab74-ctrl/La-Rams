@@ -1,22 +1,22 @@
 {
-  "updated_iso": "2026-09-27T18:31:38.859336+00:00",
-  "count": 4,
+  "updated_iso": "2026-09-27T21:41:20.122726+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-broncos-player-punished-nfl-ahead-181208476-html",
-      "title": "Broncos player punished by the NFL ahead of important Rams game",
-      "link": "https://sports.yahoo.com/articles/broncos-player-punished-nfl-ahead-181208476.html",
-      "source": "Yahoo Sports",
-      "ts": 1790507520.0,
-      "published_iso": "2026-09-27T11:12:00+00:00"
+      "id": "https-si-com-nfl-rams-onsi-rams-broncos-position-by-position-breakdown-week-3",
+      "title": "Rams vs. Broncos: Position-by-Position Breakdown Ahead of Sunday Night Football",
+      "link": "https://si.com/nfl/rams/onsi/rams-broncos-position-by-position-breakdown-week-3",
+      "source": "Sports Illustrated",
+      "ts": 1790516940.0,
+      "published_iso": "2026-09-27T13:49:00+00:00"
     },
     {
-      "id": "https-si-com-betting-best-nfl-picks-and-predictions-for-rams-vs-broncos-on-sunday-night-football-in-week-3",
-      "title": "Best NFL Picks and Predictions for Rams vs. Broncos on Sunday Night Football in Week 3",
-      "link": "https://si.com/betting/best-nfl-picks-and-predictions-for-rams-vs-broncos-on-sunday-night-football-in-week-3",
-      "source": "Sports Illustrated",
-      "ts": 1790492400.0,
-      "published_iso": "2026-09-27T07:00:00+00:00"
+      "id": "https-sports-yahoo-com-articles-sunday-morning-rams-notebook-injury-155536041-html",
+      "title": "Sunday Morning Rams Notebook: New Injury Details Emerge on Myles Garrett, Puka Nacua",
+      "link": "https://sports.yahoo.com/articles/sunday-morning-rams-notebook-injury-155536041.html",
+      "source": "Yahoo Sports",
+      "ts": 1790499360.0,
+      "published_iso": "2026-09-27T08:56:00+00:00"
     },
     {
       "id": "https-si-com-betting-rams-vs-broncos-score-prediction-for-nfl-week-3-los-angeles-favored-in-primetime-01m3ajvdw5pn",
@@ -25,14 +25,6 @@
       "source": "Sports Illustrated",
       "ts": 1790480760.0,
       "published_iso": "2026-09-27T03:46:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-teams-los-angeles-rams",
-      "title": "Los Angeles Rams News, Scores, Stats, Schedule | NFL.com",
-      "link": "https://nfl.com/teams/los-angeles-rams/",
-      "source": "NFL.com",
-      "ts": 1789923600.0,
-      "published_iso": "2026-09-20T17:00:00+00:00"
     }
   ]
 }
