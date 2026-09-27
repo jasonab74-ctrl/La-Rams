@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-09-27T02:03:10.344825+00:00",
+  "updated_iso": "2026-09-27T08:22:43.303770+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-channel-broncos-vs-rams-schedule-080001370-html",
+      "title": "What channel is Broncos vs. Rams on? Schedule, time, live stream to watch 'Sunday Night Football' in Week 3",
+      "link": "https://sports.yahoo.com/articles/channel-broncos-vs-rams-schedule-080001370.html",
+      "source": "Yahoo Sports",
+      "ts": 1790470740.0,
+      "published_iso": "2026-09-27T00:59:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-york-giants-los-angeles-rams-231804225-html",
       "title": "New York Giants at Los Angeles Rams inactives: Who’s in & out for Monday Night Football?",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1790007540.0,
       "published_iso": "2026-09-21T16:19:00+00:00"
-    },
-    {
-      "id": "https-espn-com-nfl-team-name-lar-los-angeles-rams",
-      "title": "Los Angeles Rams Scores, Stats and Highlights",
-      "link": "https://espn.com/nfl/team/_/name/lar/los-angeles-rams",
-      "source": "ESPN",
-      "ts": 1783441800.0,
-      "published_iso": "2026-07-07T16:30:00+00:00"
     }
   ]
 }
