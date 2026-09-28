@@ -1,30 +1,14 @@
 {
-  "updated_iso": "2026-09-28T00:03:04.026357+00:00",
-  "count": 3,
+  "updated_iso": "2026-09-28T05:36:26.353285+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-cbssports-com-betting-news-sunday-night-football-prediction-odds-time-rams-broncos-expert-picks-nfl-bets",
-      "title": "'Sunday Night Football' prediction, odds, spread, time: Rams vs. Broncos picks from expert on 28-10 run",
-      "link": "https://cbssports.com/betting/news/sunday-night-football-prediction-odds-time-rams-broncos-expert-picks-nfl-bets/",
+      "id": "https-cbssports-com-nfl-news-controversial-pass-interference-broncos-rams",
+      "title": "Controversial pass interference penalty sets up Broncos' game-winning touchdown against Rams",
+      "link": "https://cbssports.com/nfl/news/controversial-pass-interference-broncos-rams/",
       "source": "CBS Sports",
-      "ts": 1790525760.0,
-      "published_iso": "2026-09-27T16:16:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-face-longer-wait-myles-222209731-html",
-      "title": "Rams face longer wait for Myles Garrett after new injury update",
-      "link": "https://sports.yahoo.com/articles/rams-face-longer-wait-myles-222209731.html",
-      "source": "Yahoo Sports",
-      "ts": 1790522580.0,
-      "published_iso": "2026-09-27T15:23:00+00:00"
-    },
-    {
-      "id": "https-si-com-betting-rams-vs-broncos-score-prediction-for-nfl-week-3-los-angeles-favored-in-primetime-01m3ajvdw5pn",
-      "title": "Rams vs. Broncos Score Prediction for NFL Week 3 (Los Angeles Favored In Primetime)",
-      "link": "https://si.com/betting/rams-vs-broncos-score-prediction-for-nfl-week-3-los-angeles-favored-in-primetime-01m3ajvdw5pn",
-      "source": "Sports Illustrated",
-      "ts": 1790480760.0,
-      "published_iso": "2026-09-27T03:46:00+00:00"
+      "ts": 1790546160.0,
+      "published_iso": "2026-09-27T21:56:00+00:00"
     }
   ]
 }
