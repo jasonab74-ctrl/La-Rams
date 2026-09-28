@@ -1,14 +1,38 @@
 {
-  "updated_iso": "2026-09-28T05:36:26.353285+00:00",
-  "count": 1,
+  "updated_iso": "2026-09-28T12:06:53.252098+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-cbssports-com-nfl-news-controversial-pass-interference-broncos-rams",
-      "title": "Controversial pass interference penalty sets up Broncos' game-winning touchdown against Rams",
-      "link": "https://cbssports.com/nfl/news/controversial-pass-interference-broncos-rams/",
-      "source": "CBS Sports",
-      "ts": 1790546160.0,
-      "published_iso": "2026-09-27T21:56:00+00:00"
+      "id": "https-sports-yahoo-com-articles-aaron-donald-drops-real-thoughts-105441393-html",
+      "title": "Aaron Donald drops real thoughts on late penalty during Rams vs. Broncos clash",
+      "link": "https://sports.yahoo.com/articles/aaron-donald-drops-real-thoughts-105441393.html",
+      "source": "Yahoo Sports",
+      "ts": 1790567640.0,
+      "published_iso": "2026-09-28T03:54:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-4-winners-1-loser-denver-050745931-html",
+      "title": "4 winners and 1 loser from Denver Broncos' improbable comeback against the Rams: Bo Nix shows up when it matters most on SNF",
+      "link": "https://sports.yahoo.com/articles/4-winners-1-loser-denver-050745931.html",
+      "source": "Yahoo Sports",
+      "ts": 1790546820.0,
+      "published_iso": "2026-09-27T22:07:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-teams-los-angeles-rams",
+      "title": "Los Angeles Rams News, Scores, Stats, Schedule | NFL.com",
+      "link": "https://nfl.com/teams/los-angeles-rams/",
+      "source": "NFL.com",
+      "ts": 1790528400.0,
+      "published_iso": "2026-09-27T17:00:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-rams-vs-broncos-score-prediction-for-nfl-week-3-los-angeles-favored-in-primetime-01m3ajvdw5pn",
+      "title": "Rams vs. Broncos Score Prediction for NFL Week 3 (Los Angeles Favored In Primetime)",
+      "link": "https://si.com/betting/rams-vs-broncos-score-prediction-for-nfl-week-3-los-angeles-favored-in-primetime-01m3ajvdw5pn",
+      "source": "Sports Illustrated",
+      "ts": 1790480760.0,
+      "published_iso": "2026-09-27T03:46:00+00:00"
     }
   ]
 }
