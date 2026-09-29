@@ -1,5 +1,46 @@
 {
-  "updated_iso": "2026-09-28T19:43:49.896149+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-09-29T00:00:05.755334+00:00",
+  "count": 5,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-broncos-controversial-pat-bryant-call-183001790-html",
+      "title": "Broncos' Controversial Pat Bryant Call vs. Rams Wasn't So Clear-Cut",
+      "link": "https://sports.yahoo.com/articles/broncos-controversial-pat-bryant-call-183001790.html",
+      "source": "Yahoo Sports",
+      "ts": 1790595000.0,
+      "published_iso": "2026-09-28T11:30:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-videos-los-angeles-rams-offense-just-164710042-html",
+      "title": "Los Angeles Rams' Offense Just Hit ROCK BOTTOM",
+      "link": "https://sports.yahoo.com/videos/los-angeles-rams-offense-just-164710042.html",
+      "source": "Yahoo Sports",
+      "ts": 1790588820.0,
+      "published_iso": "2026-09-28T09:47:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-buffalo-bills-overtake-los-angeles-rams-as-favorite-in-latest-super-bowl-odds-for-2026-season",
+      "title": "Buffalo Bills Overtake Los Angeles Rams as Favorite in Latest Super Bowl Odds for 2026 Season",
+      "link": "https://si.com/betting/buffalo-bills-overtake-los-angeles-rams-as-favorite-in-latest-super-bowl-odds-for-2026-season",
+      "source": "Sports Illustrated",
+      "ts": 1790585640.0,
+      "published_iso": "2026-09-28T08:54:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-teams-los-angeles-rams",
+      "title": "Los Angeles Rams News, Scores, Stats, Schedule | NFL.com",
+      "link": "https://nfl.com/teams/los-angeles-rams/",
+      "source": "NFL.com",
+      "ts": 1790528400.0,
+      "published_iso": "2026-09-27T17:00:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-rams-vs-broncos-score-prediction-for-nfl-week-3-los-angeles-favored-in-primetime-01m3ajvdw5pn",
+      "title": "Rams vs. Broncos Score Prediction for NFL Week 3 (Los Angeles Favored In Primetime)",
+      "link": "https://si.com/betting/rams-vs-broncos-score-prediction-for-nfl-week-3-los-angeles-favored-in-primetime-01m3ajvdw5pn",
+      "source": "Sports Illustrated",
+      "ts": 1790480760.0,
+      "published_iso": "2026-09-27T03:46:00+00:00"
+    }
+  ]
 }
