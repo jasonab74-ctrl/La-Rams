@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-09-30T00:35:23.937447+00:00",
+  "updated_iso": "2026-09-30T06:04:02.989602+00:00",
   "count": 3,
   "items": [
-    {
-      "id": "https-si-com-nfl-rams-onsi-rams-second-half-collapse-broncos-troubling-trend",
-      "title": "Rams’ Latest Second-Half Collapse Exposes a Troubling Trend",
-      "link": "https://si.com/nfl/rams/onsi/rams-second-half-collapse-broncos-troubling-trend",
-      "source": "Sports Illustrated",
-      "ts": 1790687520.0,
-      "published_iso": "2026-09-29T13:12:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-videos-los-angeles-rams-offense-just-164710042-html",
       "title": "Los Angeles Rams' Offense Just Hit ROCK BOTTOM",
@@ -19,12 +11,20 @@
       "published_iso": "2026-09-28T09:47:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-much-worse-150852566-html",
-      "title": "Are the Los Angeles Rams Much Worse Than We Thought?",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-much-worse-150852566.html",
+      "id": "https-si-com-betting-rams-vs-broncos-score-prediction-for-nfl-week-3-los-angeles-favored-in-primetime-01m3ajvdw5pn",
+      "title": "Rams vs. Broncos Score Prediction for NFL Week 3 (Los Angeles Favored In Primetime)",
+      "link": "https://si.com/betting/rams-vs-broncos-score-prediction-for-nfl-week-3-los-angeles-favored-in-primetime-01m3ajvdw5pn",
+      "source": "Sports Illustrated",
+      "ts": 1790480760.0,
+      "published_iso": "2026-09-27T03:46:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-york-giants-los-angeles-rams-231804225-html",
+      "title": "New York Giants at Los Angeles Rams inactives: Who’s in & out for Monday Night Football?",
+      "link": "https://sports.yahoo.com/articles/york-giants-los-angeles-rams-231804225.html",
       "source": "Yahoo Sports",
-      "ts": 1790582880.0,
-      "published_iso": "2026-09-28T08:08:00+00:00"
+      "ts": 1790013600.0,
+      "published_iso": "2026-09-21T18:00:00+00:00"
     }
   ]
 }
