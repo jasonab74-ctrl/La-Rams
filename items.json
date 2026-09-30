@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-29T21:06:12.732066+00:00",
-  "count": 4,
+  "updated_iso": "2026-09-30T00:35:23.937447+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-si-com-nfl-rams-onsi-rams-second-half-collapse-broncos-troubling-trend",
@@ -11,28 +11,20 @@
       "published_iso": "2026-09-29T13:12:00+00:00"
     },
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-09-29-sean-mcvay-hopeful-rams-safety-kam-kinchens-can-return-s",
-      "title": "Sean McVay 'hopeful' key Rams defender can return soon",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/09/29/sean-mcvay-hopeful-rams-safety-kam-kinchens-can-return-soon/92009493007/",
-      "source": "Rams Wire",
-      "ts": 1790685660.0,
-      "published_iso": "2026-09-29T12:41:00+00:00"
-    },
-    {
-      "id": "https-si-com-betting-rams-vs-eagles-prediction-odds-spread-injuries-trends-for-nfl-week-4-2026",
-      "title": "Rams vs. Eagles Prediction, Odds, Spread, Injuries, Trends for NFL Week 4",
-      "link": "https://si.com/betting/rams-vs-eagles-prediction-odds-spread-injuries-trends-for-nfl-week-4-2026",
-      "source": "Sports Illustrated",
-      "ts": 1790672940.0,
-      "published_iso": "2026-09-29T09:09:00+00:00"
-    },
-    {
       "id": "https-sports-yahoo-com-videos-los-angeles-rams-offense-just-164710042-html",
       "title": "Los Angeles Rams' Offense Just Hit ROCK BOTTOM",
       "link": "https://sports.yahoo.com/videos/los-angeles-rams-offense-just-164710042.html",
       "source": "Yahoo Sports",
       "ts": 1790588820.0,
       "published_iso": "2026-09-28T09:47:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-much-worse-150852566-html",
+      "title": "Are the Los Angeles Rams Much Worse Than We Thought?",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-much-worse-150852566.html",
+      "source": "Yahoo Sports",
+      "ts": 1790582880.0,
+      "published_iso": "2026-09-28T08:08:00+00:00"
     }
   ]
 }
