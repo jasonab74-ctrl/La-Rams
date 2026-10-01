@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-09-30T22:24:40.818097+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-10-01T01:21:16.480677+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-lacking-wr-depth-rams-sign-200956854-html",
+      "title": "Lacking WR Depth, Should the Rams Sign Odell Beckham Jr?",
+      "link": "https://sports.yahoo.com/articles/lacking-wr-depth-rams-sign-200956854.html",
+      "source": "Yahoo Sports",
+      "ts": 1790773800.0,
+      "published_iso": "2026-09-30T13:10:00+00:00"
+    }
+  ]
 }
