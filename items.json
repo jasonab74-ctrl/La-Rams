@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-10-02T15:53:23.236845+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-10-02T20:11:33.958381+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-deliver-brutal-191250063-html",
+      "title": "Los Angeles Rams: Deliver Brutal News for 10x-Pro Bowler",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-deliver-brutal-191250063.html",
+      "source": "Yahoo Sports",
+      "ts": 1790943120.0,
+      "published_iso": "2026-10-02T12:12:00+00:00"
+    }
+  ]
 }
