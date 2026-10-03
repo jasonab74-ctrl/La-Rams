@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-10-02T23:52:09.816882+00:00",
-  "count": 2,
+  "updated_iso": "2026-10-03T02:30:16.984003+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-place-terrance-ferguson-ir-210854638-html",
-      "title": "Rams place Terrance Ferguson on IR, make 2 other roster moves",
-      "link": "https://sports.yahoo.com/articles/rams-place-terrance-ferguson-ir-210854638.html",
+      "id": "https-sports-yahoo-com-articles-rams-add-former-raiders-wide-010630856-html",
+      "title": "Rams Add Former Raiders Wide Receiver, Ex-Titans Defensive Lineman",
+      "link": "https://sports.yahoo.com/articles/rams-add-former-raiders-wide-010630856.html",
       "source": "Yahoo Sports",
-      "ts": 1790950080.0,
-      "published_iso": "2026-10-02T14:08:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-videos-los-angeles-rams-vs-philadelphia-eagles-nfl-pro-week-4-preview",
-      "title": "Los Angeles Rams vs. Philadelphia Eagles NFL Pro Week 4 Preview",
-      "link": "https://nfl.com/videos/los-angeles-rams-vs-philadelphia-eagles-nfl-pro-week-4-preview",
-      "source": "NFL.com",
-      "ts": 1790873880.0,
-      "published_iso": "2026-10-01T16:58:00+00:00"
+      "ts": 1790964360.0,
+      "published_iso": "2026-10-02T18:06:00+00:00"
     }
   ]
 }
