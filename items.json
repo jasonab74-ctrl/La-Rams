@@ -1,46 +1,14 @@
 {
-  "updated_iso": "2026-10-04T08:53:21.060806+00:00",
-  "count": 5,
+  "updated_iso": "2026-10-04T14:27:46.201383+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-among-3-030000336-html",
-      "title": "Los Angeles Rams Among 3 NFL Teams In Desperate Need Of Week 4 Win",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-among-3-030000336.html",
+      "id": "https-sports-yahoo-com-articles-rams-lose-aaron-donald-gain-120000716-html",
+      "title": "Rams lose Aaron Donald, gain chance to find defensive identity",
+      "link": "https://sports.yahoo.com/articles/rams-lose-aaron-donald-gain-120000716.html",
       "source": "Yahoo Sports",
-      "ts": 1790971260.0,
-      "published_iso": "2026-10-02T20:01:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-videos-los-angeles-rams-vs-philadelphia-eagles-nfl-pro-week-4-preview",
-      "title": "Los Angeles Rams vs. Philadelphia Eagles NFL Pro Week 4 Preview",
-      "link": "https://nfl.com/videos/los-angeles-rams-vs-philadelphia-eagles-nfl-pro-week-4-preview",
-      "source": "NFL.com",
-      "ts": 1790873880.0,
-      "published_iso": "2026-10-01T16:58:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-jalen-hurts-career-record-against-154203765-html",
-      "title": "What Is Jalen Hurts’ Career Record Against Los Angeles Rams?",
-      "link": "https://sports.yahoo.com/articles/jalen-hurts-career-record-against-154203765.html",
-      "source": "Yahoo Sports",
-      "ts": 1790844060.0,
-      "published_iso": "2026-10-01T08:41:00+00:00"
-    },
-    {
-      "id": "https-si-com-betting-rams-vs-broncos-score-prediction-for-nfl-week-3-los-angeles-favored-in-primetime-01m3ajvdw5pn",
-      "title": "Rams vs. Broncos Score Prediction for NFL Week 3 (Los Angeles Favored In Primetime)",
-      "link": "https://si.com/betting/rams-vs-broncos-score-prediction-for-nfl-week-3-los-angeles-favored-in-primetime-01m3ajvdw5pn",
-      "source": "Sports Illustrated",
-      "ts": 1790480760.0,
-      "published_iso": "2026-09-27T03:46:00+00:00"
-    },
-    {
-      "id": "https-therams-com-game-day-2023-reg-week-18-rams-at-49ers",
-      "title": "Rams at 49ers Game Center",
-      "link": "https://therams.com/game-day/2023/reg-week-18/rams-at-49ers/",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1691706180.0,
-      "published_iso": "2023-08-10T22:23:00+00:00"
+      "ts": 1791090060.0,
+      "published_iso": "2026-10-04T05:01:00+00:00"
     }
   ]
 }
