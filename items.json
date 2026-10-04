@@ -1,14 +1,38 @@
 {
-  "updated_iso": "2026-10-04T14:27:46.201383+00:00",
-  "count": 1,
+  "updated_iso": "2026-10-04T18:15:56.291696+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-lose-aaron-donald-gain-120000716-html",
-      "title": "Rams lose Aaron Donald, gain chance to find defensive identity",
-      "link": "https://sports.yahoo.com/articles/rams-lose-aaron-donald-gain-120000716.html",
-      "source": "Yahoo Sports",
-      "ts": 1791090060.0,
-      "published_iso": "2026-10-04T05:01:00+00:00"
+      "id": "https-nfl-com-videos-harrison-mevis-40-yard-fg-ties-score-in-rams-eagles",
+      "title": "Harrison Mevis' 40-yard FG ties score in Rams-Eagles",
+      "link": "https://nfl.com/videos/harrison-mevis-40-yard-fg-ties-score-in-rams-eagles",
+      "source": "NFL.com",
+      "ts": 1791111300.0,
+      "published_iso": "2026-10-04T10:55:00+00:00"
+    },
+    {
+      "id": "https-therams-com-video-highlights-rams-byron-young-sack-11-yard-loss-eagles-quarterback-jalen-hurts",
+      "title": "HIGHLIGHTS: Rams OLB Byron Young's sack results in an 11-yard loss for Eagles' QB Jalen Hurts",
+      "link": "https://therams.com/video/highlights-rams-byron-young-sack-11-yard-loss-eagles-quarterback-jalen-hurts",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1791111000.0,
+      "published_iso": "2026-10-04T10:50:00+00:00"
+    },
+    {
+      "id": "https-therams-com-video-highlights-rams-kicker-harrison-mevis-40-yard-field-goal-ties-score-philly-eagles-week-4",
+      "title": "HIGHLIGHTS: Rams K Harrison Mevis' 40-yard field goal ties the score in Philly vs. the Eagles",
+      "link": "https://therams.com/video/highlights-rams-kicker-harrison-mevis-40-yard-field-goal-ties-score-philly-eagles-week-4",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1791110400.0,
+      "published_iso": "2026-10-04T10:40:00+00:00"
+    },
+    {
+      "id": "https-apnews-com-article-philadelphia-eagles-saquon-barkley-nfl-eb5287e71ca9e1361322ea6b3a736aed",
+      "title": "Eagles running back Saquon Barkley leaves game against Rams with apparent hamstring injury",
+      "link": "https://apnews.com/article/philadelphia-eagles-saquon-barkley-nfl-eb5287e71ca9e1361322ea6b3a736aed",
+      "source": "AP News",
+      "ts": 1791110040.0,
+      "published_iso": "2026-10-04T10:34:00+00:00"
     }
   ]
 }
