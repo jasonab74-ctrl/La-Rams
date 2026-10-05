@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-10-05T05:56:45.913066+00:00",
-  "count": 5,
+  "updated_iso": "2026-10-05T13:05:10.782769+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-sean-mcvay-gets-honest-viral-052307670-html",
-      "title": "Sean McVay Gets Honest After Viral Moment in Rams Comeback Win Over Eagles",
-      "link": "https://sports.yahoo.com/articles/sean-mcvay-gets-honest-viral-052307670.html",
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-10-05-tyler-higbee-passes-two-rams-legends-after-week-4-win-92",
+      "title": "Tyler Higbee passes two Rams legends after Week 4 win",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/10/05/tyler-higbee-passes-two-rams-legends-after-week-4-win/92096645007/",
+      "source": "Rams Wire",
+      "ts": 1791180120.0,
+      "published_iso": "2026-10-05T06:02:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-puka-nacua-los-angeles-rams-111038224-html",
+      "title": "Puka Nacua, Los Angeles Rams Team Captain Facing Punishment",
+      "link": "https://sports.yahoo.com/articles/puka-nacua-los-angeles-rams-111038224.html",
       "source": "Yahoo Sports",
-      "ts": 1791133200.0,
-      "published_iso": "2026-10-04T17:00:00+00:00"
+      "ts": 1791173400.0,
+      "published_iso": "2026-10-05T04:10:00+00:00"
     },
     {
       "id": "https-therams-com-news-game-recap-rams-rally-for-24-20-road-win-over-eagles-in-philadelphia",
@@ -17,30 +25,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1791094800.0,
       "published_iso": "2026-10-04T06:20:00+00:00"
-    },
-    {
-      "id": "https-si-com-nfl-eagles-onsi-5-eagles-i-think-will-have-a-big-game-against-the-los-angeles-rams-01m3z105xpe7",
-      "title": "5 Eagles I Think Will Have a Big Game Against the Los Angeles Rams",
-      "link": "https://si.com/nfl/eagles/onsi/5-eagles-i-think-will-have-a-big-game-against-the-los-angeles-rams-01m3z105xpe7",
-      "source": "Sports Illustrated",
-      "ts": 1791000240.0,
-      "published_iso": "2026-10-03T04:04:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-videos-los-angeles-rams-vs-philadelphia-eagles-nfl-pro-week-4-preview",
-      "title": "Los Angeles Rams vs. Philadelphia Eagles NFL Pro Week 4 Preview",
-      "link": "https://nfl.com/videos/los-angeles-rams-vs-philadelphia-eagles-nfl-pro-week-4-preview",
-      "source": "NFL.com",
-      "ts": 1790873880.0,
-      "published_iso": "2026-10-01T16:58:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-nfl-delivers-unfortunate-reality-check-003037940-html",
-      "title": "NFL Delivers Unfortunate Reality Check for Los Angeles Rams",
-      "link": "https://sports.yahoo.com/articles/nfl-delivers-unfortunate-reality-check-003037940.html",
-      "source": "Yahoo Sports",
-      "ts": 1790789400.0,
-      "published_iso": "2026-09-30T17:30:00+00:00"
     }
   ]
 }
