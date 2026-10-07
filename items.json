@@ -1,14 +1,5 @@
 {
-  "updated_iso": "2026-10-07T02:52:48.138556+00:00",
-  "count": 1,
-  "items": [
-    {
-      "id": "https-espn-com-nfl-team-name-lar-los-angeles-rams",
-      "title": "Los Angeles Rams Scores, Stats and Highlights",
-      "link": "https://espn.com/nfl/team/_/name/lar/los-angeles-rams",
-      "source": "ESPN",
-      "ts": 1783441800.0,
-      "published_iso": "2026-07-07T16:30:00+00:00"
-    }
-  ]
+  "updated_iso": "2026-10-07T09:25:35.834034+00:00",
+  "count": 0,
+  "items": []
 }
