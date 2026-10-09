@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-10-09T06:51:41.234085+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-10-09T13:54:23.928445+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-therams-com-partners",
+      "title": "Partnerships | Los Angeles Rams",
+      "link": "https://therams.com/partners/",
+      "source": "therams.com",
+      "ts": 1791478140.0,
+      "published_iso": "2026-10-08T16:49:00+00:00"
+    }
+  ]
 }
