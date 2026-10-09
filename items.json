@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-10-09T13:54:23.928445+00:00",
-  "count": 1,
+  "updated_iso": "2026-10-09T19:06:08.832155+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-10-09-rams-rob-havenstein-hunt-bear-alaska-photos-92172720007",
+      "title": "Look: Former Rams RT Rob Havenstein hunts massive bear in Alaska",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/10/09/rams-rob-havenstein-hunt-bear-alaska-photos/92172720007/",
+      "source": "Rams Wire",
+      "ts": 1791544620.0,
+      "published_iso": "2026-10-09T11:17:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-center-healing-justice-sport-mental-health-coach-learning-cohort",
+      "title": "Rams and Center for Healing and Justice through Sport host healing-centered coach learning cohort",
+      "link": "https://therams.com/news/los-angeles-rams-center-healing-justice-sport-mental-health-coach-learning-cohort",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1791514740.0,
+      "published_iso": "2026-10-09T02:59:00+00:00"
+    },
     {
       "id": "https-therams-com-partners",
       "title": "Partnerships | Los Angeles Rams",
@@ -9,6 +25,14 @@
       "source": "therams.com",
       "ts": 1791478140.0,
       "published_iso": "2026-10-08T16:49:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-among-3-030000336-html",
+      "title": "Los Angeles Rams Among 3 NFL Teams In Desperate Need Of Week 4 Win",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-among-3-030000336.html",
+      "source": "Yahoo Sports",
+      "ts": 1790971260.0,
+      "published_iso": "2026-10-02T20:01:00+00:00"
     }
   ]
 }
