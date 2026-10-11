@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2026-10-11T14:13:01.287127+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-10-11T19:01:35.508275+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-struggling-bills-cb-looks-forward-182112707-html",
+      "title": "Struggling Bills CB looks forward to Rams: ‘I love it’",
+      "link": "https://sports.yahoo.com/articles/struggling-bills-cb-looks-forward-182112707.html",
+      "source": "Yahoo Sports",
+      "ts": 1791717660.0,
+      "published_iso": "2026-10-11T11:21:00+00:00"
+    },
+    {
+      "id": "https-ocregister-com-2026-10-11-rams-expect-a-disciplined-a-game-to-beat-josh-allen-and-the-bills",
+      "title": "Rams know a disciplined A-game is needed versus Josh Allen and the Bills",
+      "link": "https://ocregister.com/2026/10/11/rams-expect-a-disciplined-a-game-to-beat-josh-allen-and-the-bills/",
+      "source": "OC Register",
+      "ts": 1791712800.0,
+      "published_iso": "2026-10-11T10:00:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-nfl-delivers-first-strike-punishment-000002339-html",
+      "title": "NFL Delivers First Strike in Punishment for Los Angeles Rams Player",
+      "link": "https://sports.yahoo.com/articles/nfl-delivers-first-strike-punishment-000002339.html",
+      "source": "Yahoo Sports",
+      "ts": 1791651600.0,
+      "published_iso": "2026-10-10T17:00:00+00:00"
+    }
+  ]
 }
