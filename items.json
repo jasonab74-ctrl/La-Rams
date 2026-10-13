@@ -1,46 +1,14 @@
 {
-  "updated_iso": "2026-10-13T01:28:15.294322+00:00",
-  "count": 5,
+  "updated_iso": "2026-10-13T08:00:27.697104+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-nfl-com-videos-stafford-s-4-yard-td-pass-to-adams-brings-bills-rams-game-into-a-6-6-tie",
-      "title": "Stafford's 4-yard TD pass to Adams brings Bills-Rams game into a 6-6 tie",
-      "link": "https://nfl.com/videos/stafford-s-4-yard-td-pass-to-adams-brings-bills-rams-game-into-a-6-6-tie",
-      "source": "NFL.com",
-      "ts": 1791828540.0,
-      "published_iso": "2026-10-12T18:09:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-videos-davis-allen-s-incredible-fingertip-catch-keeps-rams-drive-alive-inside-the-5",
-      "title": "Davis Allen's incredible fingertip catch keeps Rams' drive alive inside the 5",
-      "link": "https://nfl.com/videos/davis-allen-s-incredible-fingertip-catch-keeps-rams-drive-alive-inside-the-5",
-      "source": "NFL.com",
-      "ts": 1791828360.0,
-      "published_iso": "2026-10-12T18:06:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-nfl-live-rams-bills-score-live-updates-inactives-highlights-stats-where-to-watch-week-5-monday-ni",
-      "title": "Bills vs. Rams live updates, inactives, where to watch: DJ Moore inactive as Josh Allen, Matthew Stafford face off in potential Super Bowl LXI preview",
-      "link": "https://sports.yahoo.com/nfl/live/rams-bills-score-live-updates-inactives-highlights-stats-where-to-watch-week-5-monday-night-football-225634980.html",
+      "id": "https-sports-yahoo-com-articles-shannon-sharpe-blunt-harrison-mevis-070801635-html",
+      "title": "Shannon Sharpe’s blunt Harrison Mevis take after botched Rams FG try vs. Bills",
+      "link": "https://sports.yahoo.com/articles/shannon-sharpe-blunt-harrison-mevis-070801635.html",
       "source": "Yahoo Sports",
-      "ts": 1791824520.0,
-      "published_iso": "2026-10-12T17:02:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-betting-news-monday-night-football-prediction-odds-line-spread-time-rams-bills-expert-picks-best-bet",
-      "title": "'Monday Night Football' prediction, odds, spread, time: Rams vs. Bills picks from expert on 28-10 roll",
-      "link": "https://cbssports.com/betting/news/monday-night-football-prediction-odds-line-spread-time-rams-bills-expert-picks-best-bets/",
-      "source": "CBS Sports",
-      "ts": 1791821400.0,
-      "published_iso": "2026-10-12T16:10:00+00:00"
-    },
-    {
-      "id": "https-si-com-betting-bills-vs-rams-score-prediction-for-nfl-week-5-bet-on-los-angeles-at-home-2026",
-      "title": "Bills vs. Rams Score Prediction for NFL Week 5 (Bet on Los Angeles at Home?)",
-      "link": "https://si.com/betting/bills-vs-rams-score-prediction-for-nfl-week-5-bet-on-los-angeles-at-home-2026",
-      "source": "Sports Illustrated",
-      "ts": 1791774900.0,
-      "published_iso": "2026-10-12T03:15:00+00:00"
+      "ts": 1791850080.0,
+      "published_iso": "2026-10-13T00:08:00+00:00"
     }
   ]
 }
