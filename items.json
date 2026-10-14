@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-14T00:23:49.320841+00:00",
-  "count": 4,
+  "updated_iso": "2026-10-14T05:05:09.741733+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-apnews-com-article-rams-sean-mcvay-bills-4bfdf953080b98ead52a79cccb392e08",
@@ -11,28 +11,12 @@
       "published_iso": "2026-10-13T17:05:00+00:00"
     },
     {
-      "id": "https-nfl-com-videos-rams-release-harrison-mevis-sign-blake-grupe-after-mnf-loss-the-nfl-report",
-      "title": "Rams release Harrison Mevis, sign Blake Grupe after 'MNF' loss | 'The NFL Report'",
-      "link": "https://nfl.com/videos/rams-release-harrison-mevis-sign-blake-grupe-after-mnf-loss-the-nfl-report",
-      "source": "NFL.com",
-      "ts": 1791908580.0,
-      "published_iso": "2026-10-13T16:23:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-cut-harrison-mevis-costly-222715112-html",
-      "title": "Rams Cut Harrison Mevis After Costly Misses in Loss to Bills",
-      "link": "https://sports.yahoo.com/articles/rams-cut-harrison-mevis-costly-222715112.html",
-      "source": "Yahoo Sports",
-      "ts": 1791905220.0,
-      "published_iso": "2026-10-13T15:27:00+00:00"
-    },
-    {
-      "id": "https-apnews-com-article-rams-analysis-mcvay-bills-7766a7e03e792e7eacf5a37824ae895e",
-      "title": "Super Bowl favorite Rams are back in a familiar position, sitting under .500 after 5 games",
-      "link": "https://apnews.com/article/rams-analysis-mcvay-bills-7766a7e03e792e7eacf5a37824ae895e",
-      "source": "AP News",
-      "ts": 1791905100.0,
-      "published_iso": "2026-10-13T15:25:00+00:00"
+      "id": "https-si-com-betting-bills-vs-rams-score-prediction-for-nfl-week-5-bet-on-los-angeles-at-home-2026",
+      "title": "Bills vs. Rams Score Prediction for NFL Week 5 (Bet on Los Angeles at Home?)",
+      "link": "https://si.com/betting/bills-vs-rams-score-prediction-for-nfl-week-5-bet-on-los-angeles-at-home-2026",
+      "source": "Sports Illustrated",
+      "ts": 1791774900.0,
+      "published_iso": "2026-10-12T03:15:00+00:00"
     }
   ]
 }
