@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-10-14T05:05:09.741733+00:00",
-  "count": 2,
+  "updated_iso": "2026-10-14T10:21:37.970235+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-confirm-unfortunate-062157545-html",
+      "title": "Los Angeles Rams Confirm Unfortunate News on Myles Garrett",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-confirm-unfortunate-062157545.html",
+      "source": "Yahoo Sports",
+      "ts": 1791933660.0,
+      "published_iso": "2026-10-13T23:21:00+00:00"
+    },
     {
       "id": "https-apnews-com-article-rams-sean-mcvay-bills-4bfdf953080b98ead52a79cccb392e08",
       "title": "Los Rams eran favoritos al Super Bowl, pero tienen marca 2-3 tras una dolorosa derrota ante Bills",
