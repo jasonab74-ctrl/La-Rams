@@ -1,7 +1,31 @@
 {
-  "updated_iso": "2026-10-14T15:15:11.099688+00:00",
-  "count": 3,
+  "updated_iso": "2026-10-14T19:30:24.154391+00:00",
+  "count": 7,
   "items": [
+    {
+      "id": "https-nfl-com-videos-sean-mcvay-shares-the-state-of-the-rams-special-teams",
+      "title": "Sean McVay shares the state of the Rams' special teams",
+      "link": "https://nfl.com/videos/sean-mcvay-shares-the-state-of-the-rams-special-teams",
+      "source": "NFL.com",
+      "ts": 1791978780.0,
+      "published_iso": "2026-10-14T11:53:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-watch-fmc-ftt9znzglz0lji3x",
+      "title": "Bills beat Rams, Josh Allen 'doesn't need to be Superman', Los Angeles short of expectations? | FTF",
+      "link": "https://foxsports.com/watch/fmc-ftt9znzglz0lji3x",
+      "source": "FOX Sports",
+      "ts": 1791975600.0,
+      "published_iso": "2026-10-14T11:00:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-6-2026",
+      "title": "Los Angeles Rams vs. Arizona Cardinals: How to watch, listen to and live stream Week 6",
+      "link": "https://therams.com/news/los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-6-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1791948240.0,
+      "published_iso": "2026-10-14T03:24:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-confirm-unfortunate-062157545-html",
       "title": "Los Angeles Rams Confirm Unfortunate News on Myles Garrett",
@@ -17,6 +41,14 @@
       "source": "AP News",
       "ts": 1791911100.0,
       "published_iso": "2026-10-13T17:05:00+00:00"
+    },
+    {
+      "id": "https-espn-com-nfl-team-name-lar-los-angeles-rams",
+      "title": "Los Angeles Rams Scores, Stats and Highlights",
+      "link": "https://espn.com/nfl/team/_/name/lar/los-angeles-rams",
+      "source": "ESPN",
+      "ts": 1791824460.0,
+      "published_iso": "2026-10-12T17:01:00+00:00"
     },
     {
       "id": "https-si-com-betting-bills-vs-rams-score-prediction-for-nfl-week-5-bet-on-los-angeles-at-home-2026",
