@@ -1,14 +1,38 @@
 {
-  "updated_iso": "2026-10-13T21:21:33.588304+00:00",
-  "count": 1,
+  "updated_iso": "2026-10-14T00:23:49.320841+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-rams-alaric-jackson-suspended-nfl-210014182-html",
-      "title": "Rams' Alaric Jackson to be suspended by NFL for punching Bills player after MNF loss",
-      "link": "https://sports.yahoo.com/articles/rams-alaric-jackson-suspended-nfl-210014182.html",
+      "id": "https-apnews-com-article-rams-sean-mcvay-bills-4bfdf953080b98ead52a79cccb392e08",
+      "title": "Los Rams eran favoritos al Super Bowl, pero tienen marca 2-3 tras una dolorosa derrota ante Bills",
+      "link": "https://apnews.com/article/rams-sean-mcvay-bills-4bfdf953080b98ead52a79cccb392e08",
+      "source": "AP News",
+      "ts": 1791911100.0,
+      "published_iso": "2026-10-13T17:05:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-videos-rams-release-harrison-mevis-sign-blake-grupe-after-mnf-loss-the-nfl-report",
+      "title": "Rams release Harrison Mevis, sign Blake Grupe after 'MNF' loss | 'The NFL Report'",
+      "link": "https://nfl.com/videos/rams-release-harrison-mevis-sign-blake-grupe-after-mnf-loss-the-nfl-report",
+      "source": "NFL.com",
+      "ts": 1791908580.0,
+      "published_iso": "2026-10-13T16:23:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-cut-harrison-mevis-costly-222715112-html",
+      "title": "Rams Cut Harrison Mevis After Costly Misses in Loss to Bills",
+      "link": "https://sports.yahoo.com/articles/rams-cut-harrison-mevis-costly-222715112.html",
       "source": "Yahoo Sports",
-      "ts": 1791900000.0,
-      "published_iso": "2026-10-13T14:00:00+00:00"
+      "ts": 1791905220.0,
+      "published_iso": "2026-10-13T15:27:00+00:00"
+    },
+    {
+      "id": "https-apnews-com-article-rams-analysis-mcvay-bills-7766a7e03e792e7eacf5a37824ae895e",
+      "title": "Super Bowl favorite Rams are back in a familiar position, sitting under .500 after 5 games",
+      "link": "https://apnews.com/article/rams-analysis-mcvay-bills-7766a7e03e792e7eacf5a37824ae895e",
+      "source": "AP News",
+      "ts": 1791905100.0,
+      "published_iso": "2026-10-13T15:25:00+00:00"
     }
   ]
 }
