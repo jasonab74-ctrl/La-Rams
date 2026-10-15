@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2026-10-15T10:47:22.860129+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-10-15T15:21:58.241936+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-incredibly-disappointing-stephen-smith-shares-131500002-html",
+      "title": "‘Incredibly disappointing’",
+      "link": "https://sports.yahoo.com/articles/incredibly-disappointing-stephen-smith-shares-131500002.html",
+      "source": "Stephen A. Smith shares what he thinks has cost the Los Angeles Rams",
+      "ts": 1792044900.0,
+      "published_iso": "2026-10-15T06:15:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-watch-fmc-ftt9znzglz0lji3x",
+      "title": "Bills beat Rams, Josh Allen 'doesn't need to be Superman', Los Angeles short of expectations? | FTF",
+      "link": "https://foxsports.com/watch/fmc-ftt9znzglz0lji3x",
+      "source": "FOX Sports",
+      "ts": 1791975600.0,
+      "published_iso": "2026-10-14T11:00:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-6-2026",
+      "title": "Los Angeles Rams vs. Arizona Cardinals: How to watch, listen to and live stream Week 6",
+      "link": "https://therams.com/news/los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-6-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1791948240.0,
+      "published_iso": "2026-10-14T03:24:00+00:00"
+    }
+  ]
 }
