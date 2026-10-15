@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-10-15T19:15:52.386159+00:00",
-  "count": 4,
+  "updated_iso": "2026-10-15T22:29:50.108403+00:00",
+  "count": 6,
   "items": [
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-10-15-rams-super-bowl-chances-record-slow-start-92251773007",
-      "title": "What does history say about Rams' Super Bowl chances after slow start?",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/10/15/rams-super-bowl-chances-record-slow-start/92251773007/",
-      "source": "Rams Wire",
-      "ts": 1792064760.0,
-      "published_iso": "2026-10-15T11:46:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-incredibly-disappointing-stephen-smith-shares-131500002-html",
       "title": "‘Incredibly disappointing’",
@@ -33,6 +25,30 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1791948240.0,
       "published_iso": "2026-10-14T03:24:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-confirm-unfortunate-062157545-html",
+      "title": "Los Angeles Rams Confirm Unfortunate News on Myles Garrett",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-confirm-unfortunate-062157545.html",
+      "source": "Yahoo Sports",
+      "ts": 1791933660.0,
+      "published_iso": "2026-10-13T23:21:00+00:00"
+    },
+    {
+      "id": "https-apnews-com-article-rams-sean-mcvay-bills-4bfdf953080b98ead52a79cccb392e08",
+      "title": "Los Rams eran favoritos al Super Bowl, pero tienen marca 2-3 tras una dolorosa derrota ante Bills",
+      "link": "https://apnews.com/article/rams-sean-mcvay-bills-4bfdf953080b98ead52a79cccb392e08",
+      "source": "AP News",
+      "ts": 1791911100.0,
+      "published_iso": "2026-10-13T17:05:00+00:00"
+    },
+    {
+      "id": "https-espn-com-nfl-team-name-lar-los-angeles-rams",
+      "title": "Los Angeles Rams Scores, Stats and Highlights",
+      "link": "https://espn.com/nfl/team/_/name/lar/los-angeles-rams",
+      "source": "ESPN",
+      "ts": 1791824460.0,
+      "published_iso": "2026-10-12T17:01:00+00:00"
     }
   ]
 }
