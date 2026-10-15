@@ -1,30 +1,14 @@
 {
-  "updated_iso": "2026-10-15T01:00:21.128412+00:00",
+  "updated_iso": "2026-10-15T05:58:38.796141+00:00",
   "count": 5,
   "items": [
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-10-14-rams-alaric-jackson-suspension-bills-punch-reduced-92257",
-      "title": "Rams LT Alaric Jackson's suspension reduced to 1 game",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/10/14/rams-alaric-jackson-suspension-bills-punch-reduced/92257096007/",
-      "source": "Rams Wire",
-      "ts": 1791999900.0,
-      "published_iso": "2026-10-14T17:45:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-josh-allen-achieves-nfl-career-234158687-html",
-      "title": "Josh Allen Achieves NFL Career First in Buffalo Bills’ Overtime Win Against Rams",
-      "link": "https://sports.yahoo.com/articles/josh-allen-achieves-nfl-career-234158687.html",
+      "id": "https-sports-yahoo-com-articles-jeremiyah-love-headlines-official-cardinals-000804594-html",
+      "title": "Jeremiyah Love Headlines Official Cardinals-Rams Injury Report",
+      "link": "https://sports.yahoo.com/articles/jeremiyah-love-headlines-official-cardinals-000804594.html",
       "source": "Yahoo Sports",
-      "ts": 1791996060.0,
-      "published_iso": "2026-10-14T16:41:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25510012-alaric-jacksons-suspension-punching-bradley-chubb-reduced-nfl-after-rams-loss",
-      "title": "Alaric Jackson's Suspension for Punching Bradley Chubb Reduced By NFL After Rams' Loss to Bills",
-      "link": "https://bleacherreport.com/articles/25510012-alaric-jacksons-suspension-punching-bradley-chubb-reduced-nfl-after-rams-loss-bills",
-      "source": "Bleacher Report",
-      "ts": 1791986940.0,
-      "published_iso": "2026-10-14T14:09:00+00:00"
+      "ts": 1791997200.0,
+      "published_iso": "2026-10-14T17:00:00+00:00"
     },
     {
       "id": "https-foxsports-com-watch-fmc-ftt9znzglz0lji3x",
@@ -41,6 +25,22 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1791948240.0,
       "published_iso": "2026-10-14T03:24:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-confirm-unfortunate-062157545-html",
+      "title": "Los Angeles Rams Confirm Unfortunate News on Myles Garrett",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-confirm-unfortunate-062157545.html",
+      "source": "Yahoo Sports",
+      "ts": 1791933660.0,
+      "published_iso": "2026-10-13T23:21:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-bills-vs-rams-score-prediction-for-nfl-week-5-bet-on-los-angeles-at-home-2026",
+      "title": "Bills vs. Rams Score Prediction for NFL Week 5 (Bet on Los Angeles at Home?)",
+      "link": "https://si.com/betting/bills-vs-rams-score-prediction-for-nfl-week-5-bet-on-los-angeles-at-home-2026",
+      "source": "Sports Illustrated",
+      "ts": 1791774900.0,
+      "published_iso": "2026-10-12T03:15:00+00:00"
     }
   ]
 }
