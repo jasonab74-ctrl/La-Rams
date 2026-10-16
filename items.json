@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-16T05:12:25.367041+00:00",
-  "count": 5,
+  "updated_iso": "2026-10-16T09:57:40.669287+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-incredibly-disappointing-stephen-smith-shares-131500002-html",
@@ -33,14 +33,6 @@
       "source": "Yahoo Sports",
       "ts": 1791933660.0,
       "published_iso": "2026-10-13T23:21:00+00:00"
-    },
-    {
-      "id": "https-apnews-com-article-rams-sean-mcvay-bills-4bfdf953080b98ead52a79cccb392e08",
-      "title": "Los Rams eran favoritos al Super Bowl, pero tienen marca 2-3 tras una dolorosa derrota ante Bills",
-      "link": "https://apnews.com/article/rams-sean-mcvay-bills-4bfdf953080b98ead52a79cccb392e08",
-      "source": "AP News",
-      "ts": 1791911100.0,
-      "published_iso": "2026-10-13T17:05:00+00:00"
     }
   ]
 }
