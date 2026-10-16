@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2026-10-16T18:12:35.182239+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-10-16T21:25:18.774257+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-apnews-com-article-rams-trent-mcduffie-5dc130bbd3b248da410206b49618291a",
+      "title": "Rams CB Trent McDuffie misses practice, listed as questionable against Cardinals with a groin injury",
+      "link": "https://apnews.com/article/rams-trent-mcduffie-5dc130bbd3b248da410206b49618291a",
+      "source": "AP News",
+      "ts": 1792157100.0,
+      "published_iso": "2026-10-16T13:25:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-seek-statement-win-against-cardinals-game-preview",
+      "title": "Rams seek statement win against Cardinals | Game Preview",
+      "link": "https://therams.com/news/rams-seek-statement-win-against-cardinals-game-preview",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1792130340.0,
+      "published_iso": "2026-10-16T05:59:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-incredibly-disappointing-stephen-smith-shares-131500002-html",
+      "title": "‘Incredibly disappointing’",
+      "link": "https://sports.yahoo.com/articles/incredibly-disappointing-stephen-smith-shares-131500002.html",
+      "source": "Stephen A. Smith shares what he thinks has cost the Los Angeles Rams",
+      "ts": 1792044900.0,
+      "published_iso": "2026-10-15T06:15:00+00:00"
+    }
+  ]
 }
