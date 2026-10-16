@@ -1,38 +1,5 @@
 {
-  "updated_iso": "2026-10-16T14:26:15.872654+00:00",
-  "count": 4,
-  "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-andrew-whitworth-irritated-harrison-mevis-131133455-html",
-      "title": "Andrew Whitworth irritated with Harrison Mevis after Rams’ loss",
-      "link": "https://sports.yahoo.com/articles/andrew-whitworth-irritated-harrison-mevis-131133455.html",
-      "source": "Yahoo Sports",
-      "ts": 1792131000.0,
-      "published_iso": "2026-10-16T06:10:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-watch-fmc-ftt9znzglz0lji3x",
-      "title": "Bills beat Rams, Josh Allen 'doesn't need to be Superman', Los Angeles short of expectations? | FTF",
-      "link": "https://foxsports.com/watch/fmc-ftt9znzglz0lji3x",
-      "source": "FOX Sports",
-      "ts": 1791975600.0,
-      "published_iso": "2026-10-14T11:00:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-6-2026",
-      "title": "Los Angeles Rams vs. Arizona Cardinals: How to watch, listen to and live stream Week 6",
-      "link": "https://therams.com/news/los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-6-2026",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1791948240.0,
-      "published_iso": "2026-10-14T03:24:00+00:00"
-    },
-    {
-      "id": "https-espn-com-nfl-team-name-lar-los-angeles-rams",
-      "title": "Los Angeles Rams Scores, Stats and Highlights",
-      "link": "https://espn.com/nfl/team/_/name/lar/los-angeles-rams",
-      "source": "ESPN",
-      "ts": 1791824460.0,
-      "published_iso": "2026-10-12T17:01:00+00:00"
-    }
-  ]
+  "updated_iso": "2026-10-16T18:12:35.182239+00:00",
+  "count": 0,
+  "items": []
 }
