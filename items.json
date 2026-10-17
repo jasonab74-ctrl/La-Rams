@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2026-10-17T10:58:55.799011+00:00",
-  "count": 1,
+  "updated_iso": "2026-10-17T14:02:45.671954+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-espn-com-nfl-story-id-50190584-los-angeles-rams-special-teams-no-fix-week-6",
-      "title": "Rams can't seem to fix their special teams",
-      "link": "https://espn.com/nfl/story/_/id/50190584/los-angeles-rams-special-teams-no-fix-week-6",
-      "source": "ESPN",
-      "ts": 1792159200.0,
-      "published_iso": "2026-10-16T14:00:00+00:00"
+      "id": "https-sports-yahoo-com-articles-week-6-preview-arizona-cardinals-123008074-html",
+      "title": "Week 6 Preview: Arizona Cardinals vs Los Angeles Rams",
+      "link": "https://sports.yahoo.com/articles/week-6-preview-arizona-cardinals-123008074.html",
+      "source": "Yahoo Sports",
+      "ts": 1792215060.0,
+      "published_iso": "2026-10-17T05:31:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-seek-statement-win-against-cardinals-game-preview",
+      "title": "Rams seek statement win against Cardinals | Game Preview",
+      "link": "https://therams.com/news/rams-seek-statement-win-against-cardinals-game-preview",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1792130340.0,
+      "published_iso": "2026-10-16T05:59:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-watch-fmc-ftt9znzglz0lji3x",
+      "title": "Bills beat Rams, Josh Allen 'doesn't need to be Superman', Los Angeles short of expectations? | FTF",
+      "link": "https://foxsports.com/watch/fmc-ftt9znzglz0lji3x",
+      "source": "FOX Sports",
+      "ts": 1791975600.0,
+      "published_iso": "2026-10-14T11:00:00+00:00"
     }
   ]
 }
