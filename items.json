@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-10-16T23:42:37.036579+00:00",
-  "count": 2,
+  "updated_iso": "2026-10-17T01:45:13.938249+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-incredibly-disappointing-stephen-smith-shares-131500002-html",
-      "title": "‘Incredibly disappointing’",
-      "link": "https://sports.yahoo.com/articles/incredibly-disappointing-stephen-smith-shares-131500002.html",
-      "source": "Stephen A. Smith shares what he thinks has cost the Los Angeles Rams",
-      "ts": 1792044900.0,
-      "published_iso": "2026-10-15T06:15:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-6-2026",
-      "title": "Los Angeles Rams vs. Arizona Cardinals: How to watch, listen to and live stream Week 6",
-      "link": "https://therams.com/news/los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-6-2026",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1791948240.0,
-      "published_iso": "2026-10-14T03:24:00+00:00"
+      "id": "https-sports-yahoo-com-articles-rams-super-bowl-odds-hold-011005376-html",
+      "title": "Rams’ Super Bowl odds hold steady as soft schedule offers clear path forward",
+      "link": "https://sports.yahoo.com/articles/rams-super-bowl-odds-hold-011005376.html",
+      "source": "Yahoo Sports",
+      "ts": 1792174260.0,
+      "published_iso": "2026-10-16T18:11:00+00:00"
     }
   ]
 }
