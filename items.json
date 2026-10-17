@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-10-17T19:32:32.363991+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-10-17T21:47:34.301298+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-week-6-preview-arizona-cardinals-123008074-html",
+      "title": "Week 6 Preview: Arizona Cardinals vs Los Angeles Rams",
+      "link": "https://sports.yahoo.com/articles/week-6-preview-arizona-cardinals-123008074.html",
+      "source": "Yahoo Sports",
+      "ts": 1792215060.0,
+      "published_iso": "2026-10-17T05:31:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-6-2026",
+      "title": "Los Angeles Rams vs. Arizona Cardinals: How to watch, listen to and live stream Week 6",
+      "link": "https://therams.com/news/los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-6-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1791948240.0,
+      "published_iso": "2026-10-14T03:24:00+00:00"
+    }
+  ]
 }
