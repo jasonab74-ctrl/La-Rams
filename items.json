@@ -1,22 +1,22 @@
 {
-  "updated_iso": "2026-10-17T21:47:34.301298+00:00",
+  "updated_iso": "2026-10-17T23:33:00.041231+00:00",
   "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-week-6-preview-arizona-cardinals-123008074-html",
-      "title": "Week 6 Preview: Arizona Cardinals vs Los Angeles Rams",
-      "link": "https://sports.yahoo.com/articles/week-6-preview-arizona-cardinals-123008074.html",
+      "id": "https-sports-yahoo-com-articles-myles-garrett-stood-rams-sideline-180000921-html",
+      "title": "Myles Garrett Stood Out on the Rams Sideline Monday for a Reason Unrelated to Football",
+      "link": "https://sports.yahoo.com/articles/myles-garrett-stood-rams-sideline-180000921.html",
       "source": "Yahoo Sports",
-      "ts": 1792215060.0,
-      "published_iso": "2026-10-17T05:31:00+00:00"
+      "ts": 1792234800.0,
+      "published_iso": "2026-10-17T11:00:00+00:00"
     },
     {
-      "id": "https-therams-com-news-los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-6-2026",
-      "title": "Los Angeles Rams vs. Arizona Cardinals: How to watch, listen to and live stream Week 6",
-      "link": "https://therams.com/news/los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-6-2026",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1791948240.0,
-      "published_iso": "2026-10-14T03:24:00+00:00"
+      "id": "https-foxsports-com-watch-fmc-ftt9znzglz0lji3x",
+      "title": "Bills beat Rams, Josh Allen 'doesn't need to be Superman', Los Angeles short of expectations? | FTF",
+      "link": "https://foxsports.com/watch/fmc-ftt9znzglz0lji3x",
+      "source": "FOX Sports",
+      "ts": 1791975600.0,
+      "published_iso": "2026-10-14T11:00:00+00:00"
     }
   ]
 }
