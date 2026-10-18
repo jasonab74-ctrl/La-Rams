@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-10-18T01:42:39.259223+00:00",
+  "updated_iso": "2026-10-18T06:41:12.527562+00:00",
   "count": 2,
   "items": [
-    {
-      "id": "https-therams-com-news-rams-seek-statement-win-against-cardinals-game-preview",
-      "title": "Rams seek statement win against Cardinals | Game Preview",
-      "link": "https://therams.com/news/rams-seek-statement-win-against-cardinals-game-preview",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1792130340.0,
-      "published_iso": "2026-10-16T05:59:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-incredibly-disappointing-stephen-smith-shares-131500002-html",
       "title": "‘Incredibly disappointing’",
@@ -17,6 +9,14 @@
       "source": "Stephen A. Smith shares what he thinks has cost the Los Angeles Rams",
       "ts": 1792044900.0,
       "published_iso": "2026-10-15T06:15:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-6-2026",
+      "title": "Los Angeles Rams vs. Arizona Cardinals: How to watch, listen to and live stream Week 6",
+      "link": "https://therams.com/news/los-angeles-rams-vs-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-6-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1791948240.0,
+      "published_iso": "2026-10-14T03:24:00+00:00"
     }
   ]
 }
