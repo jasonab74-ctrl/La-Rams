@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2026-10-19T14:47:22.202911+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-10-19T20:16:06.109688+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-bleacherreport-com-articles-25512889-rams-kicker-blake-grupes-updated-injury-timeline-after-replacing-thiccer-kick",
+      "title": "Rams Kicker Blake Grupe's Updated Injury Timeline After Replacing 'Thiccer Kicker' Harrison Mevis",
+      "link": "https://bleacherreport.com/articles/25512889-rams-kicker-blake-grupes-updated-injury-timeline-after-replacing-thiccer-kicker-harrison-mevis",
+      "source": "Bleacher Report",
+      "ts": 1792414560.0,
+      "published_iso": "2026-10-19T12:56:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-must-prioritize-tutu-atwell-194338010-html",
+      "title": "Rams must prioritize Tutu Atwell being on the field!",
+      "link": "https://sports.yahoo.com/articles/rams-must-prioritize-tutu-atwell-194338010.html",
+      "source": "Yahoo Sports",
+      "ts": 1792413840.0,
+      "published_iso": "2026-10-19T12:44:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-kyren-williams-seemingly-upset-193004677-html",
+      "title": "Rams' Kyren Williams Seemingly Upset Over Diminished Role",
+      "link": "https://sports.yahoo.com/articles/rams-kyren-williams-seemingly-upset-193004677.html",
+      "source": "Yahoo Sports",
+      "ts": 1792413000.0,
+      "published_iso": "2026-10-19T12:30:00+00:00"
+    }
+  ]
 }
