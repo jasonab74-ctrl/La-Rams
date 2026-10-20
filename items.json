@@ -1,38 +1,22 @@
 {
-  "updated_iso": "2026-10-19T23:48:52.763813+00:00",
-  "count": 4,
+  "updated_iso": "2026-10-20T02:17:16.206801+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-nfl-com-videos-cody-kessler-analyzes-rams-week-6-loss-to-cardinals-the-nfl-report",
-      "title": "Cody Kessler analyzes Rams' Week 6 loss to Cardinals | 'The NFL Report'",
-      "link": "https://nfl.com/videos/cody-kessler-analyzes-rams-week-6-loss-to-cardinals-the-nfl-report",
-      "source": "NFL.com",
-      "ts": 1792427040.0,
-      "published_iso": "2026-10-19T16:24:00+00:00"
-    },
-    {
-      "id": "https-espn-com-video-clip-id-50222092",
-      "title": "Can Sean McVay and the Rams turn their season around? + Davante Adams injury | Monday Night Countdown",
-      "link": "https://espn.com/video/clip/_/id/50222092",
-      "source": "ESPN",
-      "ts": 1792426800.0,
-      "published_iso": "2026-10-19T16:20:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-arizona-cardinals-week-6-defensive-225803561-html",
-      "title": "Arizona Cardinals Week 6 defensive, special teams snaps vs. Rams",
-      "link": "https://sports.yahoo.com/articles/arizona-cardinals-week-6-defensive-225803561.html",
+      "id": "https-sports-yahoo-com-articles-rams-myles-garrett-decision-strong-011523608-html",
+      "title": "Rams Make Myles Garrett Decision After Strong Words From Insider",
+      "link": "https://sports.yahoo.com/articles/rams-myles-garrett-decision-strong-011523608.html",
       "source": "Yahoo Sports",
-      "ts": 1792425480.0,
-      "published_iso": "2026-10-19T15:58:00+00:00"
+      "ts": 1792429200.0,
+      "published_iso": "2026-10-19T17:00:00+00:00"
     },
     {
-      "id": "https-nfl-com-videos-arizona-cardinals-vs-los-angeles-rams-week-6-analysis-nfl-pro",
-      "title": "Arizona Cardinals vs. Los Angeles Rams Week 6",
-      "link": "https://nfl.com/videos/arizona-cardinals-vs-los-angeles-rams-week-6-analysis-nfl-pro",
-      "source": "NFL.com",
-      "ts": 1792417080.0,
-      "published_iso": "2026-10-19T13:38:00+00:00"
+      "id": "https-sports-yahoo-com-articles-rams-superteam-experiment-failing-los-150022637-html",
+      "title": "The Rams Superteam Experiment Is Failing In Los Angeles",
+      "link": "https://sports.yahoo.com/articles/rams-superteam-experiment-failing-los-150022637.html",
+      "source": "Yahoo Sports",
+      "ts": 1792396800.0,
+      "published_iso": "2026-10-19T08:00:00+00:00"
     }
   ]
 }
