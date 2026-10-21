@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-10-21T15:24:27.998790+00:00",
+  "updated_iso": "2026-10-21T19:23:57.795719+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-las-vegas-raiders-how-to-watch-listen-to-and-live-stream-week-7-2026",
+      "title": "Los Angeles Rams at Las Vegas Raiders: How to watch, listen to and live stream Week 7",
+      "link": "https://therams.com/news/los-angeles-rams-at-las-vegas-raiders-how-to-watch-listen-to-and-live-stream-week-7-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1792553100.0,
+      "published_iso": "2026-10-21T03:25:00+00:00"
+    },
     {
       "id": "https-therams-com-news-rams-quentin-lake-habitat-humanity-greater-los-angeles-rebuild-pacific-palisades",
       "title": "Rams S Quentin Lake joins Habitat for Humanity Greater Los Angeles to help rebuild the Palisades",
@@ -17,14 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1792515540.0,
       "published_iso": "2026-10-20T16:59:00+00:00"
-    },
-    {
-      "id": "https-espn-com-nfl-team-name-lar-los-angeles-rams",
-      "title": "Los Angeles Rams Scores, Stats and Highlights",
-      "link": "https://espn.com/nfl/team/_/name/lar/los-angeles-rams",
-      "source": "ESPN",
-      "ts": 1791824460.0,
-      "published_iso": "2026-10-12T17:01:00+00:00"
     }
   ]
 }
