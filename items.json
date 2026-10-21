@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-10-21T10:20:53.331194+00:00",
-  "count": 2,
+  "updated_iso": "2026-10-21T15:24:27.998790+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-therams-com-news-rams-quentin-lake-habitat-humanity-greater-los-angeles-rebuild-pacific-palisades",
+      "title": "Rams S Quentin Lake joins Habitat for Humanity Greater Los Angeles to help rebuild the Palisades",
+      "link": "https://therams.com/news/rams-quentin-lake-habitat-humanity-greater-los-angeles-rebuild-pacific-palisades",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1792544400.0,
+      "published_iso": "2026-10-21T01:00:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-sign-37-235941664-html",
       "title": "Los Angeles Rams Sign $37 Million Super Bowl Champion",
@@ -11,12 +19,12 @@
       "published_iso": "2026-10-20T16:59:00+00:00"
     },
     {
-      "id": "https-cbssports-com-nfl-news-rams-2026-schedule-2-4-start-super-bowl-hopes",
-      "title": "Rams face historic Super Bowl challenge after stunning 2-4 start, but schedule offers path back",
-      "link": "https://cbssports.com/nfl/news/rams-2026-schedule-2-4-start-super-bowl-hopes/",
-      "source": "CBS Sports",
-      "ts": 1792416660.0,
-      "published_iso": "2026-10-19T13:31:00+00:00"
+      "id": "https-espn-com-nfl-team-name-lar-los-angeles-rams",
+      "title": "Los Angeles Rams Scores, Stats and Highlights",
+      "link": "https://espn.com/nfl/team/_/name/lar/los-angeles-rams",
+      "source": "ESPN",
+      "ts": 1791824460.0,
+      "published_iso": "2026-10-12T17:01:00+00:00"
     }
   ]
 }
