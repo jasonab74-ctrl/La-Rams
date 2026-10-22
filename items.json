@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-10-22T12:07:57.097610+00:00",
+  "updated_iso": "2026-10-22T17:21:44.975292+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-therams-com-news-rams-name-goldin-as-official-auction-house-partner",
+      "title": "Rams name Goldin as Official Auction House Partner",
+      "link": "https://therams.com/news/rams-name-goldin-as-official-auction-house-partner",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1792630800.0,
+      "published_iso": "2026-10-22T01:00:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-deliver-bad-051412918-html",
       "title": "Los Angeles Rams Deliver Bad News About $22 Million Starter",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1792620840.0,
       "published_iso": "2026-10-21T22:14:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-at-las-vegas-raiders-how-to-watch-listen-to-and-live-stream-week-7-2026",
-      "title": "Los Angeles Rams at Las Vegas Raiders: How to watch, listen to and live stream Week 7",
-      "link": "https://therams.com/news/los-angeles-rams-at-las-vegas-raiders-how-to-watch-listen-to-and-live-stream-week-7-2026",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1792553100.0,
-      "published_iso": "2026-10-21T03:25:00+00:00"
     },
     {
       "id": "https-therams-com-news-rams-quentin-lake-habitat-humanity-greater-los-angeles-rebuild-pacific-palisades",
