@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-10-22T17:21:44.975292+00:00",
-  "count": 3,
+  "updated_iso": "2026-10-22T20:37:43.429149+00:00",
+  "count": 1,
   "items": [
-    {
-      "id": "https-therams-com-news-rams-name-goldin-as-official-auction-house-partner",
-      "title": "Rams name Goldin as Official Auction House Partner",
-      "link": "https://therams.com/news/rams-name-goldin-as-official-auction-house-partner",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1792630800.0,
-      "published_iso": "2026-10-22T01:00:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-deliver-bad-051412918-html",
       "title": "Los Angeles Rams Deliver Bad News About $22 Million Starter",
@@ -17,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1792620840.0,
       "published_iso": "2026-10-21T22:14:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-quentin-lake-habitat-humanity-greater-los-angeles-rebuild-pacific-palisades",
-      "title": "Rams S Quentin Lake joins Habitat for Humanity Greater Los Angeles to help rebuild the Palisades",
-      "link": "https://therams.com/news/rams-quentin-lake-habitat-humanity-greater-los-angeles-rebuild-pacific-palisades",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1792544400.0,
-      "published_iso": "2026-10-21T01:00:00+00:00"
     }
   ]
 }
