@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-10-22T01:01:27.900833+00:00",
-  "count": 3,
+  "updated_iso": "2026-10-22T06:11:42.998775+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-therams-com-news-sean-mcvay-says-rams-have-not-explored-adding-a-wide-receiver-externally-in-wake-of-davante-adams",
-      "title": "McVay says Rams have not explored adding a wide receiver externally in wake of Davante Adams' hamstring injury",
-      "link": "https://therams.com/news/sean-mcvay-says-rams-have-not-explored-adding-a-wide-receiver-externally-in-wake-of-davante-adams-hamstring-injury",
+      "id": "https-ocregister-com-2026-10-21-rams-matthew-stafford-feels-duty-to-steady-the-ship",
+      "title": "Rams’ Matthew Stafford feels duty to ‘steady the ship’",
+      "link": "https://ocregister.com/2026/10/21/rams-matthew-stafford-feels-duty-to-steady-the-ship/",
+      "source": "OC Register",
+      "ts": 1792598040.0,
+      "published_iso": "2026-10-21T15:54:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-las-vegas-raiders-how-to-watch-listen-to-and-live-stream-week-7-2026",
+      "title": "Los Angeles Rams at Las Vegas Raiders: How to watch, listen to and live stream Week 7",
+      "link": "https://therams.com/news/los-angeles-rams-at-las-vegas-raiders-how-to-watch-listen-to-and-live-stream-week-7-2026",
       "source": "Los Angeles Rams (Official)",
-      "ts": 1792578780.0,
-      "published_iso": "2026-10-21T10:33:00+00:00"
+      "ts": 1792553100.0,
+      "published_iso": "2026-10-21T03:25:00+00:00"
     },
     {
       "id": "https-therams-com-news-rams-quentin-lake-habitat-humanity-greater-los-angeles-rebuild-pacific-palisades",
