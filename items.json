@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-10-23T12:53:37.227878+00:00",
+  "updated_iso": "2026-10-23T17:31:50.726469+00:00",
   "count": 3,
   "items": [
+    {
+      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-positive-myles-garrett-injury-news-potential-return-5370d5f86fb",
+      "title": "Rams get positive Myles Garrett injury news on potential return to practice",
+      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-positive-myles-garrett-injury-news-potential-return/5370d5f86fbbf96f5089d442",
+      "source": "Sporting News",
+      "ts": 1792750020.0,
+      "published_iso": "2026-10-23T10:07:00+00:00"
+    },
+    {
+      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-get-bad-news-puka-nacua-very-much-air-week-7-29b36bcc3afe412ad7",
+      "title": "Rams get bad news as Puka Nacua is 'very much up in the air' for Week 7",
+      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-get-bad-news-puka-nacua-very-much-air-week-7/29b36bcc3afe412ad7ab7bfd",
+      "source": "Sporting News",
+      "ts": 1792749360.0,
+      "published_iso": "2026-10-23T09:56:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-deliver-bad-051412918-html",
       "title": "Los Angeles Rams Deliver Bad News About $22 Million Starter",
@@ -9,22 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1792620840.0,
       "published_iso": "2026-10-21T22:14:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-rams-quentin-lake-habitat-humanity-greater-los-angeles-rebuild-pacific-palisades",
-      "title": "Rams S Quentin Lake joins Habitat for Humanity Greater Los Angeles to help rebuild the Palisades",
-      "link": "https://therams.com/news/rams-quentin-lake-habitat-humanity-greater-los-angeles-rebuild-pacific-palisades",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1792544400.0,
-      "published_iso": "2026-10-21T01:00:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-sign-37-235941664-html",
-      "title": "Los Angeles Rams Sign $37 Million Super Bowl Champion",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-sign-37-235941664.html",
-      "source": "Yahoo Sports",
-      "ts": 1792515540.0,
-      "published_iso": "2026-10-20T16:59:00+00:00"
     }
   ]
 }
