@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-23T02:09:24.036436+00:00",
-  "count": 2,
+  "updated_iso": "2026-10-23T07:44:01.910533+00:00",
+  "count": 3,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-deliver-bad-051412918-html",
@@ -17,6 +17,14 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1792544400.0,
       "published_iso": "2026-10-21T01:00:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-sign-37-235941664-html",
+      "title": "Los Angeles Rams Sign $37 Million Super Bowl Champion",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-sign-37-235941664.html",
+      "source": "Yahoo Sports",
+      "ts": 1792515540.0,
+      "published_iso": "2026-10-20T16:59:00+00:00"
     }
   ]
 }
