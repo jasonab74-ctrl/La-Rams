@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-22T23:42:25.836576+00:00",
-  "count": 1,
+  "updated_iso": "2026-10-23T02:09:24.036436+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-deliver-bad-051412918-html",
@@ -9,6 +9,14 @@
       "source": "Yahoo Sports",
       "ts": 1792620840.0,
       "published_iso": "2026-10-21T22:14:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-rams-quentin-lake-habitat-humanity-greater-los-angeles-rebuild-pacific-palisades",
+      "title": "Rams S Quentin Lake joins Habitat for Humanity Greater Los Angeles to help rebuild the Palisades",
+      "link": "https://therams.com/news/rams-quentin-lake-habitat-humanity-greater-los-angeles-rebuild-pacific-palisades",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1792544400.0,
+      "published_iso": "2026-10-21T01:00:00+00:00"
     }
   ]
 }
