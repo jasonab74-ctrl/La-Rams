@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-10-24T18:51:56.539611+00:00",
-  "count": 1,
+  "updated_iso": "2026-10-24T21:16:12.858164+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-therams-com-news-los-angeles-rams-at-denver-broncos-how-to-watch-listen-to-and-live-stream-sunday-night-football-w",
-      "title": "Los Angeles Rams at Denver Broncos: How to watch, listen to and live stream Sunday Night Football Week 3",
-      "link": "https://therams.com/news/los-angeles-rams-at-denver-broncos-how-to-watch-listen-to-and-live-stream-sunday-night-football-week-3",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1790470740.0,
-      "published_iso": "2026-09-27T00:59:00+00:00"
+      "id": "https-si-com-betting-sportsbook-insiders-oddsmakers-adjust-rams-ranking-are-they-still-viewed-as-a-playoff-team-01m5mswr",
+      "title": "Sportsbook Insiders: Oddsmakers Adjust Rams' Ranking; Are They Still Viewed as a Playoff Team?",
+      "link": "https://si.com/betting/sportsbook-insiders-oddsmakers-adjust-rams-ranking-are-they-still-viewed-as-a-playoff-team-01m5mswr90mb",
+      "source": "Sports Illustrated",
+      "ts": 1792836000.0,
+      "published_iso": "2026-10-24T10:00:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-raiders-onsi-las-vegas-3-glaring-reasons-can-pull-off-rams-upset",
+      "title": "3 Glaring Reasons Raiders Can Pull Off Rams Upset",
+      "link": "https://si.com/nfl/raiders/onsi/las-vegas-3-glaring-reasons-can-pull-off-rams-upset",
+      "source": "Sports Illustrated",
+      "ts": 1792828800.0,
+      "published_iso": "2026-10-24T08:00:00+00:00"
     }
   ]
 }
