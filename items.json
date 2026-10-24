@@ -1,22 +1,30 @@
 {
-  "updated_iso": "2026-10-24T21:16:12.858164+00:00",
-  "count": 2,
+  "updated_iso": "2026-10-24T23:26:11.148261+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-si-com-betting-sportsbook-insiders-oddsmakers-adjust-rams-ranking-are-they-still-viewed-as-a-playoff-team-01m5mswr",
-      "title": "Sportsbook Insiders: Oddsmakers Adjust Rams' Ranking; Are They Still Viewed as a Playoff Team?",
-      "link": "https://si.com/betting/sportsbook-insiders-oddsmakers-adjust-rams-ranking-are-they-still-viewed-as-a-playoff-team-01m5mswr90mb",
+      "id": "https-si-com-betting-rams-vs-raiders-score-prediction-for-nfl-week-7-can-los-angeles-get-back-on-track-01m5g8jgnckp",
+      "title": "Rams vs. Raiders Score Prediction for NFL Week 7 (Can Los Angeles Get Back on Track?)",
+      "link": "https://si.com/betting/rams-vs-raiders-score-prediction-for-nfl-week-7-can-los-angeles-get-back-on-track-01m5g8jgnckp",
       "source": "Sports Illustrated",
-      "ts": 1792836000.0,
-      "published_iso": "2026-10-24T10:00:00+00:00"
+      "ts": 1792825200.0,
+      "published_iso": "2026-10-24T07:00:00+00:00"
     },
     {
-      "id": "https-si-com-nfl-raiders-onsi-las-vegas-3-glaring-reasons-can-pull-off-rams-upset",
-      "title": "3 Glaring Reasons Raiders Can Pull Off Rams Upset",
-      "link": "https://si.com/nfl/raiders/onsi/las-vegas-3-glaring-reasons-can-pull-off-rams-upset",
-      "source": "Sports Illustrated",
-      "ts": 1792828800.0,
-      "published_iso": "2026-10-24T08:00:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-10-24-rams-raiders-week-7-picks-experts-heavily-favor-los-ange",
+      "title": "Rams-Raiders Week 7 picks: Experts heavily favor Los Angeles",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/10/24/rams-raiders-week-7-picks-experts-heavily-favor-los-angeles/92400564007/",
+      "source": "Rams Wire",
+      "ts": 1792821720.0,
+      "published_iso": "2026-10-24T06:02:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-denver-broncos-how-to-watch-listen-to-and-live-stream-sunday-night-football-w",
+      "title": "Los Angeles Rams at Denver Broncos: How to watch, listen to and live stream Sunday Night Football Week 3",
+      "link": "https://therams.com/news/los-angeles-rams-at-denver-broncos-how-to-watch-listen-to-and-live-stream-sunday-night-football-week-3",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1790470740.0,
+      "published_iso": "2026-09-27T00:59:00+00:00"
     }
   ]
 }
