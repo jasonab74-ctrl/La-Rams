@@ -1,31 +1,7 @@
 {
-  "updated_iso": "2026-10-24T02:08:27.632094+00:00",
-  "count": 4,
+  "updated_iso": "2026-10-24T07:26:28.931727+00:00",
+  "count": 1,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-rams-legend-lawrence-mccutcheon-dies-005743525-html",
-      "title": "Rams legend Lawrence McCutcheon dies at 76",
-      "link": "https://sports.yahoo.com/articles/rams-legend-lawrence-mccutcheon-dies-005743525.html",
-      "source": "Yahoo Sports",
-      "ts": 1792774800.0,
-      "published_iso": "2026-10-23T17:00:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-nfl-predictions-las-vegas-raiders-213600016-html",
-      "title": "NFL predictions: Las Vegas Raiders-Los Angeles Rams clinging to postseason relevance in Week 7 matchup",
-      "link": "https://sports.yahoo.com/articles/nfl-predictions-las-vegas-raiders-213600016.html",
-      "source": "Yahoo Sports",
-      "ts": 1792766160.0,
-      "published_iso": "2026-10-23T14:36:00+00:00"
-    },
-    {
-      "id": "https-ocregister-com-2026-10-23-rams-wr-puka-nacua-questionable-vs-raiders-with-calf-injury",
-      "title": "Rams WR Puka Nacua questionable vs. Raiders with calf injury",
-      "link": "https://ocregister.com/2026/10/23/rams-wr-puka-nacua-questionable-vs-raiders-with-calf-injury/",
-      "source": "OC Register",
-      "ts": 1792757220.0,
-      "published_iso": "2026-10-23T12:07:00+00:00"
-    },
     {
       "id": "https-therams-com-news-rams-quentin-lake-habitat-humanity-greater-los-angeles-rebuild-pacific-palisades",
       "title": "Rams S Quentin Lake joins Habitat for Humanity Greater Los Angeles to help rebuild the Palisades",
