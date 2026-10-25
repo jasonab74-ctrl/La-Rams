@@ -1,14 +1,30 @@
 {
-  "updated_iso": "2026-10-25T06:19:45.051766+00:00",
-  "count": 3,
+  "updated_iso": "2026-10-25T11:48:59.144849+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-nfl-hands-down-multiple-fines-004244662-html",
       "title": "NFL Hands Down Multiple Fines Over Los Angeles Rams Game",
       "link": "https://sports.yahoo.com/articles/nfl-hands-down-multiple-fines-004244662.html",
       "source": "Yahoo Sports",
-      "ts": 1792861200.0,
-      "published_iso": "2026-10-24T17:00:00+00:00"
+      "ts": 1792863720.0,
+      "published_iso": "2026-10-24T17:42:00+00:00"
+    },
+    {
+      "id": "https-espn-com-nfl-story-id-50275162-source-rams-optimistic-puka-nacua-play-vs-raiders",
+      "title": "Rams optimistic that star WR Puka Nacua will play vs. Raiders, source says",
+      "link": "https://espn.com/nfl/story/_/id/50275162/source-rams-optimistic-puka-nacua-play-vs-raiders",
+      "source": "ESPN",
+      "ts": 1792856700.0,
+      "published_iso": "2026-10-24T15:45:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-10-25-rams-raiders-channel-today-time-tv-schedule-streaming-in",
+      "title": "What channel is Rams vs. Raiders on today? Time, TV schedule to watch Week 7 game",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/10/25/rams-raiders-channel-today-time-tv-schedule-streaming-info/92398136007/",
+      "source": "Rams Wire",
+      "ts": 1792855800.0,
+      "published_iso": "2026-10-24T15:30:00+00:00"
     },
     {
       "id": "https-si-com-betting-rams-vs-raiders-score-prediction-for-nfl-week-7-can-los-angeles-get-back-on-track-01m5g8jgnckp",
@@ -17,14 +33,6 @@
       "source": "Sports Illustrated",
       "ts": 1792825200.0,
       "published_iso": "2026-10-24T07:00:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-10-24-rams-raiders-week-7-picks-experts-heavily-favor-los-ange",
-      "title": "Rams-Raiders Week 7 picks: Experts heavily favor Los Angeles",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/10/24/rams-raiders-week-7-picks-experts-heavily-favor-los-angeles/92400564007/",
-      "source": "Rams Wire",
-      "ts": 1792821720.0,
-      "published_iso": "2026-10-24T06:02:00+00:00"
     }
   ]
 }
