@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-25T18:27:54.813352+00:00",
-  "count": 2,
+  "updated_iso": "2026-10-25T21:01:27.233172+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-nfl-hands-down-multiple-fines-004244662-html",
@@ -9,14 +9,6 @@
       "source": "Yahoo Sports",
       "ts": 1792863720.0,
       "published_iso": "2026-10-24T17:42:00+00:00"
-    },
-    {
-      "id": "https-si-com-betting-rams-vs-raiders-score-prediction-for-nfl-week-7-can-los-angeles-get-back-on-track-01m5g8jgnckp",
-      "title": "Rams vs. Raiders Score Prediction for NFL Week 7 (Can Los Angeles Get Back on Track?)",
-      "link": "https://si.com/betting/rams-vs-raiders-score-prediction-for-nfl-week-7-can-los-angeles-get-back-on-track-01m5g8jgnckp",
-      "source": "Sports Illustrated",
-      "ts": 1792825200.0,
-      "published_iso": "2026-10-24T07:00:00+00:00"
     }
   ]
 }
