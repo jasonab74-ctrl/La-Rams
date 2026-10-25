@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-10-25T11:48:59.144849+00:00",
-  "count": 4,
+  "updated_iso": "2026-10-25T15:06:37.638414+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-si-com-betting-davante-adams-injury-update-betting-impact-for-rams-vs-raiders-in-nfl-week-7-2026",
+      "title": "Is Davante Adams Playing Today? (Injury Update, Betting Impact for Rams vs. Raiders in NFL Week 7)",
+      "link": "https://si.com/betting/davante-adams-injury-update-betting-impact-for-rams-vs-raiders-in-nfl-week-7-2026",
+      "source": "Sports Illustrated",
+      "ts": 1792898100.0,
+      "published_iso": "2026-10-25T03:15:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-nfl-hands-down-multiple-fines-004244662-html",
       "title": "NFL Hands Down Multiple Fines Over Los Angeles Rams Game",
@@ -9,30 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1792863720.0,
       "published_iso": "2026-10-24T17:42:00+00:00"
-    },
-    {
-      "id": "https-espn-com-nfl-story-id-50275162-source-rams-optimistic-puka-nacua-play-vs-raiders",
-      "title": "Rams optimistic that star WR Puka Nacua will play vs. Raiders, source says",
-      "link": "https://espn.com/nfl/story/_/id/50275162/source-rams-optimistic-puka-nacua-play-vs-raiders",
-      "source": "ESPN",
-      "ts": 1792856700.0,
-      "published_iso": "2026-10-24T15:45:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-10-25-rams-raiders-channel-today-time-tv-schedule-streaming-in",
-      "title": "What channel is Rams vs. Raiders on today? Time, TV schedule to watch Week 7 game",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/10/25/rams-raiders-channel-today-time-tv-schedule-streaming-info/92398136007/",
-      "source": "Rams Wire",
-      "ts": 1792855800.0,
-      "published_iso": "2026-10-24T15:30:00+00:00"
-    },
-    {
-      "id": "https-si-com-betting-rams-vs-raiders-score-prediction-for-nfl-week-7-can-los-angeles-get-back-on-track-01m5g8jgnckp",
-      "title": "Rams vs. Raiders Score Prediction for NFL Week 7 (Can Los Angeles Get Back on Track?)",
-      "link": "https://si.com/betting/rams-vs-raiders-score-prediction-for-nfl-week-7-can-los-angeles-get-back-on-track-01m5g8jgnckp",
-      "source": "Sports Illustrated",
-      "ts": 1792825200.0,
-      "published_iso": "2026-10-24T07:00:00+00:00"
     }
   ]
 }
