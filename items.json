@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-10-26T06:29:03.141747+00:00",
-  "count": 2,
+  "updated_iso": "2026-10-26T13:25:22.838549+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-videos-rams-wr-trade-targets-davante-124831168-html",
+      "title": "Rams WR Trade Targets After Davante Adams Hamstring Rupture",
+      "link": "https://sports.yahoo.com/videos/rams-wr-trade-targets-davante-124831168.html",
+      "source": "Yahoo Sports",
+      "ts": 1792993680.0,
+      "published_iso": "2026-10-26T05:48:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-2027-nfl-draft-order-week-121429859-html",
+      "title": "2027 NFL draft order after Week 7: Browns stable, Rams drop spots with win",
+      "link": "https://sports.yahoo.com/articles/2027-nfl-draft-order-week-121429859.html",
+      "source": "Yahoo Sports",
+      "ts": 1792991640.0,
+      "published_iso": "2026-10-26T05:14:00+00:00"
+    },
     {
       "id": "https-apnews-com-article-rams-raiders-score-547da107481af0dc74e4665b7f09743e",
       "title": "Matthew Stafford sets Rams TD pass record as Los Angeles rolls past Raiders 35-21",
@@ -9,6 +25,14 @@
       "source": "AP News",
       "ts": 1792947000.0,
       "published_iso": "2026-10-25T16:50:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-rams-vs-raiders-score-prediction-for-nfl-week-7-can-los-angeles-get-back-on-track-01m5g8jgnckp",
+      "title": "Rams vs. Raiders Score Prediction for NFL Week 7 (Can Los Angeles Get Back on Track?)",
+      "link": "https://si.com/betting/rams-vs-raiders-score-prediction-for-nfl-week-7-can-los-angeles-get-back-on-track-01m5g8jgnckp",
+      "source": "Sports Illustrated",
+      "ts": 1792825200.0,
+      "published_iso": "2026-10-24T07:00:00+00:00"
     },
     {
       "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-10-24-rams-raiders-week-7-picks-experts-heavily-favor-los-ange",
