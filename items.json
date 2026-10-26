@@ -1,38 +1,22 @@
 {
-  "updated_iso": "2026-10-25T23:22:00.726175+00:00",
-  "count": 4,
+  "updated_iso": "2026-10-26T01:22:56.883266+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-nfl-com-videos-cousins-15-yard-td-loft-to-ashton-jeanty-trims-rams-lead-to-28-18",
-      "title": "Cousins' 15-yard TD loft to Ashton Jeanty trims Rams' lead to 28-18",
-      "link": "https://nfl.com/videos/cousins-15-yard-td-loft-to-ashton-jeanty-trims-rams-lead-to-28-18",
-      "source": "NFL.com",
-      "ts": 1792944480.0,
-      "published_iso": "2026-10-25T16:08:00+00:00"
+      "id": "https-foxsports-com-watch-fmc-5l0idb2hbs6u3zro",
+      "title": "Rams HC Sean McVay Reacts to Bounce-Back Win Over Raiders, Matthew Stafford Talks Breaking TD Record",
+      "link": "https://foxsports.com/watch/fmc-5l0idb2hbs6u3zro",
+      "source": "FOX Sports",
+      "ts": 1792949580.0,
+      "published_iso": "2026-10-25T17:33:00+00:00"
     },
     {
-      "id": "https-nfl-com-videos-cousins-41-yard-connection-with-tre-tucker-allows-raiders-to-infiltrate-rams-territory",
-      "title": "Cousins' 41-yard connection with Tre Tucker allows Raiders to infiltrate Rams' territory",
-      "link": "https://nfl.com/videos/cousins-41-yard-connection-with-tre-tucker-allows-raiders-to-infiltrate-rams-territory",
-      "source": "NFL.com",
-      "ts": 1792943820.0,
-      "published_iso": "2026-10-25T15:57:00+00:00"
-    },
-    {
-      "id": "https-apnews-com-article-rams-matthew-stafford-touchdown-pass-franchise-record-d227b2b5ee4082cd2a529134a7f1f2a5",
-      "title": "Matthew Stafford breaks Rams franchise record for touchdown passes",
-      "link": "https://apnews.com/article/rams-matthew-stafford-touchdown-pass-franchise-record-d227b2b5ee4082cd2a529134a7f1f2a5",
+      "id": "https-apnews-com-article-rams-raiders-score-547da107481af0dc74e4665b7f09743e",
+      "title": "Matthew Stafford sets Rams TD pass record as Los Angeles rolls past Raiders 35-21",
+      "link": "https://apnews.com/article/rams-raiders-score-547da107481af0dc74e4665b7f09743e",
       "source": "AP News",
-      "ts": 1792941060.0,
-      "published_iso": "2026-10-25T15:11:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-nfl-hands-down-multiple-fines-004244662-html",
-      "title": "NFL Hands Down Multiple Fines Over Los Angeles Rams Game",
-      "link": "https://sports.yahoo.com/articles/nfl-hands-down-multiple-fines-004244662.html",
-      "source": "Yahoo Sports",
-      "ts": 1792863720.0,
-      "published_iso": "2026-10-24T17:42:00+00:00"
+      "ts": 1792947000.0,
+      "published_iso": "2026-10-25T16:50:00+00:00"
     }
   ]
 }
