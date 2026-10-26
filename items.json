@@ -1,22 +1,30 @@
 {
-  "updated_iso": "2026-10-26T13:25:22.838549+00:00",
-  "count": 5,
+  "updated_iso": "2026-10-26T19:25:50.777776+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-videos-rams-wr-trade-targets-davante-124831168-html",
-      "title": "Rams WR Trade Targets After Davante Adams Hamstring Rupture",
-      "link": "https://sports.yahoo.com/videos/rams-wr-trade-targets-davante-124831168.html",
-      "source": "Yahoo Sports",
-      "ts": 1792993680.0,
-      "published_iso": "2026-10-26T05:48:00+00:00"
+      "id": "https-nfl-com-videos-los-angeles-rams-vs-las-vegas-raiders-week-7-analysis-nfl-pro",
+      "title": "Los Angeles Rams vs. Las Vegas Raiders Week 7 analysis | NFL Pro",
+      "link": "https://nfl.com/videos/los-angeles-rams-vs-las-vegas-raiders-week-7-analysis-nfl-pro",
+      "source": "NFL.com",
+      "ts": 1793011200.0,
+      "published_iso": "2026-10-26T10:40:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-2027-nfl-draft-order-week-121429859-html",
-      "title": "2027 NFL draft order after Week 7: Browns stable, Rams drop spots with win",
-      "link": "https://sports.yahoo.com/articles/2027-nfl-draft-order-week-121429859.html",
+      "id": "https-sports-yahoo-com-articles-nfl-could-punish-multiple-players-080555421-html",
+      "title": "NFL Could Punish Multiple Players Over Los Angeles Rams Game",
+      "link": "https://sports.yahoo.com/articles/nfl-could-punish-multiple-players-080555421.html",
       "source": "Yahoo Sports",
-      "ts": 1792991640.0,
-      "published_iso": "2026-10-26T05:14:00+00:00"
+      "ts": 1792976700.0,
+      "published_iso": "2026-10-26T01:05:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-10-26-matthew-stafford-kyren-williams-blake-corum-92448021007",
+      "title": "Matthew Stafford loves what Rams have in Kyren Williams, Blake Corum",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/10/26/matthew-stafford-kyren-williams-blake-corum/92448021007/",
+      "source": "Rams Wire",
+      "ts": 1792969500.0,
+      "published_iso": "2026-10-25T23:05:00+00:00"
     },
     {
       "id": "https-apnews-com-article-rams-raiders-score-547da107481af0dc74e4665b7f09743e",
@@ -25,22 +33,6 @@
       "source": "AP News",
       "ts": 1792947000.0,
       "published_iso": "2026-10-25T16:50:00+00:00"
-    },
-    {
-      "id": "https-si-com-betting-rams-vs-raiders-score-prediction-for-nfl-week-7-can-los-angeles-get-back-on-track-01m5g8jgnckp",
-      "title": "Rams vs. Raiders Score Prediction for NFL Week 7 (Can Los Angeles Get Back on Track?)",
-      "link": "https://si.com/betting/rams-vs-raiders-score-prediction-for-nfl-week-7-can-los-angeles-get-back-on-track-01m5g8jgnckp",
-      "source": "Sports Illustrated",
-      "ts": 1792825200.0,
-      "published_iso": "2026-10-24T07:00:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-10-24-rams-raiders-week-7-picks-experts-heavily-favor-los-ange",
-      "title": "Rams-Raiders Week 7 picks: Experts heavily favor Los Angeles",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/10/24/rams-raiders-week-7-picks-experts-heavily-favor-los-angeles/92400564007/",
-      "source": "Rams Wire",
-      "ts": 1792821720.0,
-      "published_iso": "2026-10-24T06:02:00+00:00"
     }
   ]
 }
