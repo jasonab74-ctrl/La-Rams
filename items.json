@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-10-26T01:22:56.883266+00:00",
+  "updated_iso": "2026-10-26T06:29:03.141747+00:00",
   "count": 2,
   "items": [
-    {
-      "id": "https-foxsports-com-watch-fmc-5l0idb2hbs6u3zro",
-      "title": "Rams HC Sean McVay Reacts to Bounce-Back Win Over Raiders, Matthew Stafford Talks Breaking TD Record",
-      "link": "https://foxsports.com/watch/fmc-5l0idb2hbs6u3zro",
-      "source": "FOX Sports",
-      "ts": 1792949580.0,
-      "published_iso": "2026-10-25T17:33:00+00:00"
-    },
     {
       "id": "https-apnews-com-article-rams-raiders-score-547da107481af0dc74e4665b7f09743e",
       "title": "Matthew Stafford sets Rams TD pass record as Los Angeles rolls past Raiders 35-21",
@@ -17,6 +9,14 @@
       "source": "AP News",
       "ts": 1792947000.0,
       "published_iso": "2026-10-25T16:50:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-10-24-rams-raiders-week-7-picks-experts-heavily-favor-los-ange",
+      "title": "Rams-Raiders Week 7 picks: Experts heavily favor Los Angeles",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/10/24/rams-raiders-week-7-picks-experts-heavily-favor-los-angeles/92400564007/",
+      "source": "Rams Wire",
+      "ts": 1792821720.0,
+      "published_iso": "2026-10-24T06:02:00+00:00"
     }
   ]
 }
