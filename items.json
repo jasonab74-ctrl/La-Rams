@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-10-27T14:41:53.721788+00:00",
+  "updated_iso": "2026-10-27T19:42:25.688809+00:00",
   "count": 4,
   "items": [
+    {
+      "id": "https-therams-com-video-only-one-way-this-goes-byron-young-micd-up-rams-week-7-win-over-the-raiders",
+      "title": "\"Only one way this goes!\" | Byron Young Mic'd Up for the Rams' Week 7 win over the Raiders",
+      "link": "https://therams.com/video/only-one-way-this-goes-byron-young-micd-up-rams-week-7-win-over-the-raiders",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1793102460.0,
+      "published_iso": "2026-10-27T12:01:00+00:00"
+    },
     {
       "id": "https-nfl-com-videos-los-angeles-rams-vs-las-vegas-raiders-week-7-analysis-nfl-pro",
       "title": "Los Angeles Rams vs. Las Vegas Raiders Week 7 analysis | NFL Pro",
@@ -17,14 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1792976700.0,
       "published_iso": "2026-10-26T01:05:00+00:00"
-    },
-    {
-      "id": "https-si-com-betting-rams-vs-raiders-score-prediction-for-nfl-week-7-can-los-angeles-get-back-on-track-01m5g8jgnckp",
-      "title": "Rams vs. Raiders Score Prediction for NFL Week 7 (Can Los Angeles Get Back on Track?)",
-      "link": "https://si.com/betting/rams-vs-raiders-score-prediction-for-nfl-week-7-can-los-angeles-get-back-on-track-01m5g8jgnckp",
-      "source": "Sports Illustrated",
-      "ts": 1792825200.0,
-      "published_iso": "2026-10-24T07:00:00+00:00"
     },
     {
       "id": "https-apnews-com-article-lawrence-mccutcheon-obituary-4df21290be24d0f65a4e344e2fa2cc13",
