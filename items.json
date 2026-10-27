@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-10-26T23:11:59.137862+00:00",
-  "count": 4,
+  "updated_iso": "2026-10-27T02:10:40.329577+00:00",
+  "count": 5,
   "items": [
     {
-      "id": "https-apnews-com-article-rams-nfl-stafford-mcvay-28920e7f644990afc4ca9abac007b591",
-      "title": "Rams right their season, perhaps reclaim their offensive identity in solid win over Raiders",
-      "link": "https://apnews.com/article/rams-nfl-stafford-mcvay-28920e7f644990afc4ca9abac007b591",
-      "source": "AP News",
-      "ts": 1793029680.0,
-      "published_iso": "2026-10-26T15:48:00+00:00"
+      "id": "https-sports-yahoo-com-articles-biggest-decisions-kubiak-raiders-got-204023977-html",
+      "title": "The Biggest Decisions Kubiak, Raiders Got Wrong vs. Rams",
+      "link": "https://sports.yahoo.com/articles/biggest-decisions-kubiak-raiders-got-204023977.html",
+      "source": "Yahoo Sports",
+      "ts": 1793022000.0,
+      "published_iso": "2026-10-26T13:40:00+00:00"
     },
     {
       "id": "https-nfl-com-videos-los-angeles-rams-vs-las-vegas-raiders-week-7-analysis-nfl-pro",
@@ -33,6 +33,14 @@
       "source": "NFL.com",
       "ts": 1792861200.0,
       "published_iso": "2026-10-24T17:00:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-rams-vs-raiders-score-prediction-for-nfl-week-7-can-los-angeles-get-back-on-track-01m5g8jgnckp",
+      "title": "Rams vs. Raiders Score Prediction for NFL Week 7 (Can Los Angeles Get Back on Track?)",
+      "link": "https://si.com/betting/rams-vs-raiders-score-prediction-for-nfl-week-7-can-los-angeles-get-back-on-track-01m5g8jgnckp",
+      "source": "Sports Illustrated",
+      "ts": 1792825200.0,
+      "published_iso": "2026-10-24T07:00:00+00:00"
     }
   ]
 }
