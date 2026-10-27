@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-27T08:03:14.305366+00:00",
-  "count": 3,
+  "updated_iso": "2026-10-27T14:41:53.721788+00:00",
+  "count": 4,
   "items": [
     {
       "id": "https-nfl-com-videos-los-angeles-rams-vs-las-vegas-raiders-week-7-analysis-nfl-pro",
@@ -25,6 +25,14 @@
       "source": "Sports Illustrated",
       "ts": 1792825200.0,
       "published_iso": "2026-10-24T07:00:00+00:00"
+    },
+    {
+      "id": "https-apnews-com-article-lawrence-mccutcheon-obituary-4df21290be24d0f65a4e344e2fa2cc13",
+      "title": "Lawrence McCutcheon, 5-time Pro Bowl running back for Los Angeles Rams, dies at 76",
+      "link": "https://apnews.com/article/lawrence-mccutcheon-obituary-4df21290be24d0f65a4e344e2fa2cc13",
+      "source": "AP News",
+      "ts": 1792775760.0,
+      "published_iso": "2026-10-23T17:16:00+00:00"
     }
   ]
 }
