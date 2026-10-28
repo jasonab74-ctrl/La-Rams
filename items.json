@@ -1,5 +1,5 @@
 {
-  "updated_iso": "2026-10-28T08:45:06.967037+00:00",
+  "updated_iso": "2026-10-28T15:32:21.786260+00:00",
   "count": 2,
   "items": [
     {
@@ -11,12 +11,12 @@
       "published_iso": "2026-10-27T22:44:00+00:00"
     },
     {
-      "id": "https-nfl-com-videos-los-angeles-rams-vs-las-vegas-raiders-week-7-analysis-nfl-pro",
-      "title": "Los Angeles Rams vs. Las Vegas Raiders Week 7 analysis | NFL Pro",
-      "link": "https://nfl.com/videos/los-angeles-rams-vs-las-vegas-raiders-week-7-analysis-nfl-pro",
+      "id": "https-nfl-com-teams-los-angeles-rams",
+      "title": "Los Angeles Rams News, Scores, Stats, Schedule | NFL.com",
+      "link": "https://nfl.com/teams/los-angeles-rams/",
       "source": "NFL.com",
-      "ts": 1793011200.0,
-      "published_iso": "2026-10-26T10:40:00+00:00"
+      "ts": 1792861200.0,
+      "published_iso": "2026-10-24T17:00:00+00:00"
     }
   ]
 }
