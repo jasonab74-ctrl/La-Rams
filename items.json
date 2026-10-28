@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-10-28T02:25:42.260218+00:00",
+  "updated_iso": "2026-10-28T08:45:06.967037+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-urged-involved-054405335-html",
+      "title": "Los Angeles Rams Urged to Get Involved in NFL Trade Frenzy",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-urged-involved-054405335.html",
+      "source": "Yahoo Sports",
+      "ts": 1793141040.0,
+      "published_iso": "2026-10-27T22:44:00+00:00"
+    },
     {
       "id": "https-nfl-com-videos-los-angeles-rams-vs-las-vegas-raiders-week-7-analysis-nfl-pro",
       "title": "Los Angeles Rams vs. Las Vegas Raiders Week 7 analysis | NFL Pro",
@@ -9,14 +17,6 @@
       "source": "NFL.com",
       "ts": 1793011200.0,
       "published_iso": "2026-10-26T10:40:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-nfl-could-punish-multiple-players-080555421-html",
-      "title": "NFL Could Punish Multiple Players Over Los Angeles Rams Game",
-      "link": "https://sports.yahoo.com/articles/nfl-could-punish-multiple-players-080555421.html",
-      "source": "Yahoo Sports",
-      "ts": 1792976700.0,
-      "published_iso": "2026-10-26T01:05:00+00:00"
     }
   ]
 }
