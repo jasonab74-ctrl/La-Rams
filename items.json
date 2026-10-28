@@ -1,23 +1,7 @@
 {
-  "updated_iso": "2026-10-27T23:16:18.740125+00:00",
-  "count": 3,
+  "updated_iso": "2026-10-28T02:25:42.260218+00:00",
+  "count": 2,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-rams-win-over-raiders-enough-220409733-html",
-      "title": "Is Rams’ win over Raiders enough to change expectations?",
-      "link": "https://sports.yahoo.com/articles/rams-win-over-raiders-enough-220409733.html",
-      "source": "Yahoo Sports",
-      "ts": 1793113440.0,
-      "published_iso": "2026-10-27T15:04:00+00:00"
-    },
-    {
-      "id": "https-si-com-betting-chargers-vs-rams-prediction-odds-spread-injuries-trends-for-nfl-week-8-2026",
-      "title": "Chargers vs. Rams Prediction, Odds, Spread, Injuries, Trends for NFL Week 8",
-      "link": "https://si.com/betting/chargers-vs-rams-prediction-odds-spread-injuries-trends-for-nfl-week-8-2026",
-      "source": "Sports Illustrated",
-      "ts": 1793097840.0,
-      "published_iso": "2026-10-27T10:44:00+00:00"
-    },
     {
       "id": "https-nfl-com-videos-los-angeles-rams-vs-las-vegas-raiders-week-7-analysis-nfl-pro",
       "title": "Los Angeles Rams vs. Las Vegas Raiders Week 7 analysis | NFL Pro",
@@ -25,6 +9,14 @@
       "source": "NFL.com",
       "ts": 1793011200.0,
       "published_iso": "2026-10-26T10:40:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-nfl-could-punish-multiple-players-080555421-html",
+      "title": "NFL Could Punish Multiple Players Over Los Angeles Rams Game",
+      "link": "https://sports.yahoo.com/articles/nfl-could-punish-multiple-players-080555421.html",
+      "source": "Yahoo Sports",
+      "ts": 1792976700.0,
+      "published_iso": "2026-10-26T01:05:00+00:00"
     }
   ]
 }
