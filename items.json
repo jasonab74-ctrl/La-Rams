@@ -1,7 +1,23 @@
 {
-  "updated_iso": "2026-10-29T19:01:59.535034+00:00",
-  "count": 3,
+  "updated_iso": "2026-10-29T23:24:52.116446+00:00",
+  "count": 4,
   "items": [
+    {
+      "id": "https-apnews-com-article-rams-chargers-preview-7923b61db9338935edf54a6c3f60bcc9",
+      "title": "Rams and Chargers share a city, not a rivalry as they head into their first meeting in 4 seasons",
+      "link": "https://apnews.com/article/rams-chargers-preview-7923b61db9338935edf54a6c3f60bcc9",
+      "source": "AP News",
+      "ts": 1793286120.0,
+      "published_iso": "2026-10-29T15:02:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-5-2-browns-arent-shopping-195500120-html",
+      "title": "The 5-2 Browns Aren't Shopping Jerry Jeudy, but Davante Adams' Hamstring Injury Could Push the Rams to Make Cleveland a Premium Offer",
+      "link": "https://sports.yahoo.com/articles/5-2-browns-arent-shopping-195500120.html",
+      "source": "Yahoo Sports",
+      "ts": 1793278500.0,
+      "published_iso": "2026-10-29T12:55:00+00:00"
+    },
     {
       "id": "https-therams-com-news-know-before-you-go-rams-vs-los-angeles-chargers-at-sofi-stadium",
       "title": "Know Before You Go: Rams vs. Los Angeles Chargers at SoFi Stadium",
@@ -9,14 +25,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1793242740.0,
       "published_iso": "2026-10-29T02:59:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-final-decision-220917142-html",
-      "title": "Los Angeles Rams Make Final Decision on Myles Garrett Before Week 8",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-final-decision-220917142.html",
-      "source": "Yahoo Sports",
-      "ts": 1793200140.0,
-      "published_iso": "2026-10-28T15:09:00+00:00"
     },
     {
       "id": "https-nfl-com-teams-los-angeles-rams",
