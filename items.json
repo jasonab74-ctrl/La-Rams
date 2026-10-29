@@ -1,23 +1,7 @@
 {
-  "updated_iso": "2026-10-29T00:28:09.944230+00:00",
+  "updated_iso": "2026-10-29T06:08:42.261010+00:00",
   "count": 5,
   "items": [
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-10-28-rams-players-step-up-davis-speights-higbee-92473222007",
-      "title": "3 players who have stepped up for the Rams this season",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/10/28/rams-players-step-up-davis-speights-higbee/92473222007/",
-      "source": "Rams Wire",
-      "ts": 1793207700.0,
-      "published_iso": "2026-10-28T17:15:00+00:00"
-    },
-    {
-      "id": "https-ocregister-com-2026-10-28-rams-shake-up-special-teams-sign-josh-karty-and-jake-mcquaide-to-practice-squad",
-      "title": "Rams shake up special teams, sign Josh Karty and Jake McQuaide to practice squad",
-      "link": "https://ocregister.com/2026/10/28/rams-shake-up-special-teams-sign-josh-karty-and-jake-mcquaide-to-practice-squad/",
-      "source": "OC Register",
-      "ts": 1793201760.0,
-      "published_iso": "2026-10-28T15:36:00+00:00"
-    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-final-decision-220917142-html",
       "title": "Los Angeles Rams Make Final Decision on Myles Garrett Before Week 8",
@@ -27,12 +11,28 @@
       "published_iso": "2026-10-28T15:09:00+00:00"
     },
     {
-      "id": "https-apnews-com-article-myles-garrett-trent-mcduffie-91e6b8a6c61ba6e50d3e91ab88319ec4",
-      "title": "Myles Garrett won’t return to practice this week for Rams. He’ll miss his 7th straight game",
-      "link": "https://apnews.com/article/myles-garrett-trent-mcduffie-91e6b8a6c61ba6e50d3e91ab88319ec4",
-      "source": "AP News",
-      "ts": 1793199540.0,
-      "published_iso": "2026-10-28T14:59:00+00:00"
+      "id": "https-therams-com-news-los-angeles-rams-vs-los-angeles-chargers-how-to-watch-listen-to-and-live-stream-week-8-2026",
+      "title": "Los Angeles Rams vs. Los Angeles Chargers: How to watch, listen to and live stream Week 8",
+      "link": "https://therams.com/news/los-angeles-rams-vs-los-angeles-chargers-how-to-watch-listen-to-and-live-stream-week-8-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1793154600.0,
+      "published_iso": "2026-10-28T02:30:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-urged-involved-054405335-html",
+      "title": "Los Angeles Rams Urged to Get Involved in NFL Trade Frenzy",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-urged-involved-054405335.html",
+      "source": "Yahoo Sports",
+      "ts": 1793141040.0,
+      "published_iso": "2026-10-27T22:44:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-videos-los-angeles-rams-vs-las-vegas-raiders-week-7-analysis-nfl-pro",
+      "title": "Los Angeles Rams vs. Las Vegas Raiders Week 7 analysis | NFL Pro",
+      "link": "https://nfl.com/videos/los-angeles-rams-vs-las-vegas-raiders-week-7-analysis-nfl-pro",
+      "source": "NFL.com",
+      "ts": 1793011200.0,
+      "published_iso": "2026-10-26T10:40:00+00:00"
     },
     {
       "id": "https-nfl-com-teams-los-angeles-rams",
