@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-10-29T13:22:55.840065+00:00",
+  "updated_iso": "2026-10-29T19:01:59.535034+00:00",
   "count": 3,
   "items": [
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-10-29-rams-trade-deadline-sean-mcvay-49ers-seahawks-9249367800",
-      "title": "Will Rams be active at trade deadline? Sean McVay shares insight",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/10/29/rams-trade-deadline-sean-mcvay-49ers-seahawks/92493678007/",
-      "source": "Rams Wire",
-      "ts": 1793205660.0,
-      "published_iso": "2026-10-28T16:41:00+00:00"
+      "id": "https-therams-com-news-know-before-you-go-rams-vs-los-angeles-chargers-at-sofi-stadium",
+      "title": "Know Before You Go: Rams vs. Los Angeles Chargers at SoFi Stadium",
+      "link": "https://therams.com/news/know-before-you-go-rams-vs-los-angeles-chargers-at-sofi-stadium",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1793242740.0,
+      "published_iso": "2026-10-29T02:59:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-final-decision-220917142-html",
@@ -19,12 +19,12 @@
       "published_iso": "2026-10-28T15:09:00+00:00"
     },
     {
-      "id": "https-apnews-com-article-rams-raiders-score-547da107481af0dc74e4665b7f09743e",
-      "title": "Matthew Stafford sets Rams TD pass record as Los Angeles rolls past Raiders 35-21",
-      "link": "https://apnews.com/article/rams-raiders-score-547da107481af0dc74e4665b7f09743e",
-      "source": "AP News",
-      "ts": 1792947000.0,
-      "published_iso": "2026-10-25T16:50:00+00:00"
+      "id": "https-nfl-com-teams-los-angeles-rams",
+      "title": "Los Angeles Rams News, Scores, Stats, Schedule | NFL.com",
+      "link": "https://nfl.com/teams/los-angeles-rams/",
+      "source": "NFL.com",
+      "ts": 1792861200.0,
+      "published_iso": "2026-10-24T17:00:00+00:00"
     }
   ]
 }
