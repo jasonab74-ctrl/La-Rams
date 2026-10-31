@@ -1,5 +1,46 @@
 {
-  "updated_iso": "2026-10-31T00:11:49.233403+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-10-31T05:58:43.851578+00:00",
+  "count": 5,
+  "items": [
+    {
+      "id": "https-therams-com-news-know-before-you-go-rams-vs-los-angeles-chargers-at-sofi-stadium",
+      "title": "Know Before You Go: Rams vs. Los Angeles Chargers at SoFi Stadium",
+      "link": "https://therams.com/news/know-before-you-go-rams-vs-los-angeles-chargers-at-sofi-stadium",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1793242740.0,
+      "published_iso": "2026-10-29T02:59:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-final-decision-220917142-html",
+      "title": "Los Angeles Rams Make Final Decision on Myles Garrett Before Week 8",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-final-decision-220917142.html",
+      "source": "Yahoo Sports",
+      "ts": 1793200140.0,
+      "published_iso": "2026-10-28T15:09:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-urged-involved-054405335-html",
+      "title": "Los Angeles Rams Urged to Get Involved in NFL Trade Frenzy",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-urged-involved-054405335.html",
+      "source": "Yahoo Sports",
+      "ts": 1793141040.0,
+      "published_iso": "2026-10-27T22:44:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-teams-los-angeles-rams",
+      "title": "Los Angeles Rams News, Scores, Stats, Schedule | NFL.com",
+      "link": "https://nfl.com/teams/los-angeles-rams/",
+      "source": "NFL.com",
+      "ts": 1792861200.0,
+      "published_iso": "2026-10-24T17:00:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-all-news",
+      "title": "All News | Los Angeles Rams",
+      "link": "https://therams.com/news/all-news",
+      "source": "therams.com",
+      "ts": 1792170000.0,
+      "published_iso": "2026-10-16T17:00:00+00:00"
+    }
+  ]
 }
