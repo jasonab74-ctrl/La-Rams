@@ -1,30 +1,38 @@
 {
-  "updated_iso": "2026-11-01T20:38:05.661561+00:00",
-  "count": 3,
+  "updated_iso": "2026-11-01T23:58:53.701392+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-might-davante-adams-return-rams-202740070-html",
-      "title": "When might Davante Adams make his return to the Rams?",
-      "link": "https://sports.yahoo.com/articles/might-davante-adams-return-rams-202740070.html",
-      "source": "Yahoo Sports",
-      "ts": 1793536020.0,
-      "published_iso": "2026-11-01T12:27:00+00:00"
-    },
-    {
-      "id": "https-therams-com-video-los-angeles-rams-chargers-pregame-show-sofi-stadium-players-to-watch-game-predictions-week-8",
-      "title": "Rams-Chargers Pregame Show from SoFi Stadium | Players to watch, game predictions & more",
-      "link": "https://therams.com/video/los-angeles-rams-chargers-pregame-show-sofi-stadium-players-to-watch-game-predictions-week-8",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1793491500.0,
-      "published_iso": "2026-11-01T00:05:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "id": "https-foxsports-com-watch-fmc-ckpbr211vovt2j0g",
+      "title": "Matthew Stafford finds Puka Nacua for 18-yard TD, extending Rams' lead over Chargers | NFL Highlights",
+      "link": "https://foxsports.com/watch/fmc-ckpbr211vovt2j0g",
       "source": "FOX Sports",
-      "ts": 1792846440.0,
-      "published_iso": "2026-10-24T12:54:00+00:00"
+      "ts": 1793546280.0,
+      "published_iso": "2026-11-01T15:18:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-watch-fmc-86udsflve2gdw5cn",
+      "title": "Blake Corum rushes for 23-yard TD, extending Rams' lead over Chargers | NFL Highlights",
+      "link": "https://foxsports.com/watch/fmc-86udsflve2gdw5cn",
+      "source": "FOX Sports",
+      "ts": 1793545020.0,
+      "published_iso": "2026-11-01T14:57:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-live-stream-chargers-vs-rams-200519203-html",
+      "title": "Live Stream Chargers vs Rams for Free: Watch NFL Game, TV Channel",
+      "link": "https://sports.yahoo.com/articles/live-stream-chargers-vs-rams-200519203.html",
+      "source": "Yahoo Sports",
+      "ts": 1793534700.0,
+      "published_iso": "2026-11-01T12:05:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-receive-direct-170722962-html",
+      "title": "Los Angeles Rams Receive Direct News Connected to Micah Parsons",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-receive-direct-170722962.html",
+      "source": "Yahoo Sports",
+      "ts": 1793441280.0,
+      "published_iso": "2026-10-31T10:08:00+00:00"
     }
   ]
 }
