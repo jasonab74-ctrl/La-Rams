@@ -1,38 +1,30 @@
 {
-  "updated_iso": "2026-11-01T16:09:35.000869+00:00",
-  "count": 4,
+  "updated_iso": "2026-11-01T20:38:05.661561+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-si-com-betting-ladd-mcconkey-injury-update-betting-impact-for-chargers-vs-rams-in-nfl-week-8-2026",
-      "title": "Is Ladd McConkey Playing Today? (Injury Update, Betting Impact for Chargers vs. Rams in NFL Week 8)",
-      "link": "https://si.com/betting/ladd-mcconkey-injury-update-betting-impact-for-chargers-vs-rams-in-nfl-week-8-2026",
-      "source": "Sports Illustrated",
-      "ts": 1793505840.0,
-      "published_iso": "2026-11-01T04:04:00+00:00"
-    },
-    {
-      "id": "https-si-com-betting-puka-nacua-injury-update-betting-impact-for-chargers-vs-rams-in-nfl-week-8-2026",
-      "title": "Is Puka Nacua Playing Today? (Injury Update, Betting Impact for Chargers vs. Rams in NFL Week 8)",
-      "link": "https://si.com/betting/puka-nacua-injury-update-betting-impact-for-chargers-vs-rams-in-nfl-week-8-2026",
-      "source": "Sports Illustrated",
-      "ts": 1793505060.0,
-      "published_iso": "2026-11-01T03:51:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-receive-direct-170722962-html",
-      "title": "Los Angeles Rams Receive Direct News Connected to Micah Parsons",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-receive-direct-170722962.html",
+      "id": "https-sports-yahoo-com-articles-might-davante-adams-return-rams-202740070-html",
+      "title": "When might Davante Adams make his return to the Rams?",
+      "link": "https://sports.yahoo.com/articles/might-davante-adams-return-rams-202740070.html",
       "source": "Yahoo Sports",
-      "ts": 1793441280.0,
-      "published_iso": "2026-10-31T10:08:00+00:00"
+      "ts": 1793536020.0,
+      "published_iso": "2026-11-01T12:27:00+00:00"
     },
     {
-      "id": "https-therams-com-news-all-news",
-      "title": "All News | Los Angeles Rams",
-      "link": "https://therams.com/news/all-news",
-      "source": "therams.com",
-      "ts": 1792170000.0,
-      "published_iso": "2026-10-16T17:00:00+00:00"
+      "id": "https-therams-com-video-los-angeles-rams-chargers-pregame-show-sofi-stadium-players-to-watch-game-predictions-week-8",
+      "title": "Rams-Chargers Pregame Show from SoFi Stadium | Players to watch, game predictions & more",
+      "link": "https://therams.com/video/los-angeles-rams-chargers-pregame-show-sofi-stadium-players-to-watch-game-predictions-week-8",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1793491500.0,
+      "published_iso": "2026-11-01T00:05:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1792846440.0,
+      "published_iso": "2026-10-24T12:54:00+00:00"
     }
   ]
 }
