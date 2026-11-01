@@ -1,5 +1,38 @@
 {
-  "updated_iso": "2026-11-01T02:25:23.421845+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-11-01T09:25:46.303137+00:00",
+  "count": 4,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-nfl-delivers-costly-punishment-over-031838287-html",
+      "title": "NFL Delivers Costly Punishment Over Los Angeles Rams Game",
+      "link": "https://sports.yahoo.com/articles/nfl-delivers-costly-punishment-over-031838287.html",
+      "source": "Yahoo Sports",
+      "ts": 1793477880.0,
+      "published_iso": "2026-10-31T20:18:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-receive-direct-170722962-html",
+      "title": "Los Angeles Rams Receive Direct News Connected to Micah Parsons",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-receive-direct-170722962.html",
+      "source": "Yahoo Sports",
+      "ts": 1793441280.0,
+      "published_iso": "2026-10-31T10:08:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-know-before-you-go-rams-vs-los-angeles-chargers-at-sofi-stadium",
+      "title": "Know Before You Go: Rams vs. Los Angeles Chargers at SoFi Stadium",
+      "link": "https://therams.com/news/know-before-you-go-rams-vs-los-angeles-chargers-at-sofi-stadium",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1793242740.0,
+      "published_iso": "2026-10-29T02:59:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-all-news",
+      "title": "All News | Los Angeles Rams",
+      "link": "https://therams.com/news/all-news",
+      "source": "therams.com",
+      "ts": 1792170000.0,
+      "published_iso": "2026-10-16T17:00:00+00:00"
+    }
+  ]
 }
