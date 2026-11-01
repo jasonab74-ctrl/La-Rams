@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-11-01T09:25:46.303137+00:00",
+  "updated_iso": "2026-11-01T16:09:35.000869+00:00",
   "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-nfl-delivers-costly-punishment-over-031838287-html",
-      "title": "NFL Delivers Costly Punishment Over Los Angeles Rams Game",
-      "link": "https://sports.yahoo.com/articles/nfl-delivers-costly-punishment-over-031838287.html",
-      "source": "Yahoo Sports",
-      "ts": 1793477880.0,
-      "published_iso": "2026-10-31T20:18:00+00:00"
+      "id": "https-si-com-betting-ladd-mcconkey-injury-update-betting-impact-for-chargers-vs-rams-in-nfl-week-8-2026",
+      "title": "Is Ladd McConkey Playing Today? (Injury Update, Betting Impact for Chargers vs. Rams in NFL Week 8)",
+      "link": "https://si.com/betting/ladd-mcconkey-injury-update-betting-impact-for-chargers-vs-rams-in-nfl-week-8-2026",
+      "source": "Sports Illustrated",
+      "ts": 1793505840.0,
+      "published_iso": "2026-11-01T04:04:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-puka-nacua-injury-update-betting-impact-for-chargers-vs-rams-in-nfl-week-8-2026",
+      "title": "Is Puka Nacua Playing Today? (Injury Update, Betting Impact for Chargers vs. Rams in NFL Week 8)",
+      "link": "https://si.com/betting/puka-nacua-injury-update-betting-impact-for-chargers-vs-rams-in-nfl-week-8-2026",
+      "source": "Sports Illustrated",
+      "ts": 1793505060.0,
+      "published_iso": "2026-11-01T03:51:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-receive-direct-170722962-html",
@@ -17,14 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1793441280.0,
       "published_iso": "2026-10-31T10:08:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-know-before-you-go-rams-vs-los-angeles-chargers-at-sofi-stadium",
-      "title": "Know Before You Go: Rams vs. Los Angeles Chargers at SoFi Stadium",
-      "link": "https://therams.com/news/know-before-you-go-rams-vs-los-angeles-chargers-at-sofi-stadium",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1793242740.0,
-      "published_iso": "2026-10-29T02:59:00+00:00"
     },
     {
       "id": "https-therams-com-news-all-news",
