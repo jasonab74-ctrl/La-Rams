@@ -1,38 +1,22 @@
 {
-  "updated_iso": "2026-11-01T23:58:53.701392+00:00",
-  "count": 4,
+  "updated_iso": "2026-11-02T04:17:44.671519+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-foxsports-com-watch-fmc-ckpbr211vovt2j0g",
-      "title": "Matthew Stafford finds Puka Nacua for 18-yard TD, extending Rams' lead over Chargers | NFL Highlights",
-      "link": "https://foxsports.com/watch/fmc-ckpbr211vovt2j0g",
-      "source": "FOX Sports",
-      "ts": 1793546280.0,
-      "published_iso": "2026-11-01T15:18:00+00:00"
+      "id": "https-espn-com-video-clip-id-50355041",
+      "title": "Puka Nacua talks Rams' turnaround, chemistry with Matthew Stafford | SportsCenter",
+      "link": "https://espn.com/video/clip/_/id/50355041",
+      "source": "ESPN",
+      "ts": 1793561700.0,
+      "published_iso": "2026-11-01T19:35:00+00:00"
     },
     {
-      "id": "https-foxsports-com-watch-fmc-86udsflve2gdw5cn",
-      "title": "Blake Corum rushes for 23-yard TD, extending Rams' lead over Chargers | NFL Highlights",
-      "link": "https://foxsports.com/watch/fmc-86udsflve2gdw5cn",
-      "source": "FOX Sports",
-      "ts": 1793545020.0,
-      "published_iso": "2026-11-01T14:57:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-live-stream-chargers-vs-rams-200519203-html",
-      "title": "Live Stream Chargers vs Rams for Free: Watch NFL Game, TV Channel",
-      "link": "https://sports.yahoo.com/articles/live-stream-chargers-vs-rams-200519203.html",
-      "source": "Yahoo Sports",
-      "ts": 1793534700.0,
-      "published_iso": "2026-11-01T12:05:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-receive-direct-170722962-html",
-      "title": "Los Angeles Rams Receive Direct News Connected to Micah Parsons",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-receive-direct-170722962.html",
-      "source": "Yahoo Sports",
-      "ts": 1793441280.0,
-      "published_iso": "2026-10-31T10:08:00+00:00"
+      "id": "https-therams-com-news-game-recap-rams-defeat-chargers-24-9-for-second-straight-win",
+      "title": "Game Recap: Rams defeat Chargers 24-9 for second-straight win",
+      "link": "https://therams.com/news/game-recap-rams-defeat-chargers-24-9-for-second-straight-win",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1793520660.0,
+      "published_iso": "2026-11-01T08:11:00+00:00"
     }
   ]
 }
