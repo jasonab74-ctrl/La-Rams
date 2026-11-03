@@ -1,5 +1,22 @@
 {
-  "updated_iso": "2026-11-03T03:14:10.118479+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-11-03T11:05:32.462760+00:00",
+  "count": 2,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-4-takeaways-los-angeles-rams-180502185-html",
+      "title": "4 Takeaways for Los Angeles Rams After 24-9 Win Over the Chargers",
+      "link": "https://sports.yahoo.com/articles/4-takeaways-los-angeles-rams-180502185.html",
+      "source": "Yahoo Sports",
+      "ts": 1793613900.0,
+      "published_iso": "2026-11-02T10:05:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-receive-direct-170722962-html",
+      "title": "Los Angeles Rams Receive Direct News Connected to Micah Parsons",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-receive-direct-170722962.html",
+      "source": "Yahoo Sports",
+      "ts": 1793441280.0,
+      "published_iso": "2026-10-31T10:08:00+00:00"
+    }
+  ]
 }
