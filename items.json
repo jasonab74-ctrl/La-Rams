@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-11-03T23:33:09.811016+00:00",
-  "count": 2,
+  "updated_iso": "2026-11-04T03:30:46.984610+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-newly-added-name-nfl-trade-150342431-html",
-      "title": "A newly added name to the NFL trade deadline rumor mill is the perfect target for the Los Angeles Rams",
-      "link": "https://sports.yahoo.com/articles/newly-added-name-nfl-trade-150342431.html",
+      "id": "https-sports-yahoo-com-articles-4-takeaways-los-angeles-rams-180502185-html",
+      "title": "4 Takeaways for Los Angeles Rams After 24-9 Win Over the Chargers",
+      "link": "https://sports.yahoo.com/articles/4-takeaways-los-angeles-rams-180502185.html",
       "source": "Yahoo Sports",
-      "ts": 1793689380.0,
-      "published_iso": "2026-11-03T07:03:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-nfl-delivers-costly-punishment-over-031838287-html",
-      "title": "NFL Delivers Costly Punishment Over Los Angeles Rams Game",
-      "link": "https://sports.yahoo.com/articles/nfl-delivers-costly-punishment-over-031838287.html",
-      "source": "Yahoo Sports",
-      "ts": 1793477880.0,
-      "published_iso": "2026-10-31T20:18:00+00:00"
+      "ts": 1793613900.0,
+      "published_iso": "2026-11-02T10:05:00+00:00"
     }
   ]
 }
