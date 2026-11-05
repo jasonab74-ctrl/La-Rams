@@ -1,5 +1,38 @@
 {
-  "updated_iso": "2026-11-04T18:55:57.868872+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-11-05T00:01:06.434274+00:00",
+  "count": 4,
+  "items": [
+    {
+      "id": "https-espn-com-nfl-story-id-50382837-rams-cb-jaylen-watson-needs-season-ending-shoulder-surgery",
+      "title": "Rams CB Jaylen Watson needs season-ending shoulder surgery, Sean Mcvay says",
+      "link": "https://espn.com/nfl/story/_/id/50382837/rams-cb-jaylen-watson-needs-season-ending-shoulder-surgery",
+      "source": "ESPN",
+      "ts": 1793803500.0,
+      "published_iso": "2026-11-04T14:45:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-11-04-rams-jaylen-watson-injury-out-for-season-92616807007",
+      "title": "Rams CB Jaylen Watson out for season due to shoulder injury",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/11/04/rams-jaylen-watson-injury-out-for-season/92616807007/",
+      "source": "Rams Wire",
+      "ts": 1793801460.0,
+      "published_iso": "2026-11-04T14:11:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-rams-trade-receiver-nfl-analyst-203200099-html",
+      "title": "Will the Rams Trade for a Receiver? NFL Analyst Says It’s Required to Contend",
+      "link": "https://sports.yahoo.com/articles/rams-trade-receiver-nfl-analyst-203200099.html",
+      "source": "Yahoo Sports",
+      "ts": 1793795520.0,
+      "published_iso": "2026-11-04T12:32:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-causes-salute-nominees-2026-rams",
+      "title": "NFL Salute to Service 2026 | Rams | NFL.com",
+      "link": "https://nfl.com/causes/salute/nominees/2026/rams",
+      "source": "NFL.com",
+      "ts": 1793278740.0,
+      "published_iso": "2026-10-29T12:59:00+00:00"
+    }
+  ]
 }
