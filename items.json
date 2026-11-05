@@ -1,38 +1,30 @@
 {
-  "updated_iso": "2026-11-05T00:01:06.434274+00:00",
-  "count": 4,
+  "updated_iso": "2026-11-05T07:03:06.915871+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-espn-com-nfl-story-id-50382837-rams-cb-jaylen-watson-needs-season-ending-shoulder-surgery",
-      "title": "Rams CB Jaylen Watson needs season-ending shoulder surgery, Sean Mcvay says",
-      "link": "https://espn.com/nfl/story/_/id/50382837/rams-cb-jaylen-watson-needs-season-ending-shoulder-surgery",
-      "source": "ESPN",
-      "ts": 1793803500.0,
-      "published_iso": "2026-11-04T14:45:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-11-04-rams-jaylen-watson-injury-out-for-season-92616807007",
-      "title": "Rams CB Jaylen Watson out for season due to shoulder injury",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/11/04/rams-jaylen-watson-injury-out-for-season/92616807007/",
-      "source": "Rams Wire",
-      "ts": 1793801460.0,
-      "published_iso": "2026-11-04T14:11:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-trade-receiver-nfl-analyst-203200099-html",
-      "title": "Will the Rams Trade for a Receiver? NFL Analyst Says It’s Required to Contend",
-      "link": "https://sports.yahoo.com/articles/rams-trade-receiver-nfl-analyst-203200099.html",
+      "id": "https-sports-yahoo-com-articles-commanders-rams-injury-report-raises-013249499-html",
+      "title": "Commanders-Rams Injury Report Raises New Concern on Depleted Defensive Line",
+      "link": "https://sports.yahoo.com/articles/commanders-rams-injury-report-raises-013249499.html",
       "source": "Yahoo Sports",
-      "ts": 1793795520.0,
-      "published_iso": "2026-11-04T12:32:00+00:00"
+      "ts": 1793807940.0,
+      "published_iso": "2026-11-04T15:59:00+00:00"
     },
     {
-      "id": "https-nfl-com-causes-salute-nominees-2026-rams",
-      "title": "NFL Salute to Service 2026 | Rams | NFL.com",
-      "link": "https://nfl.com/causes/salute/nominees/2026/rams",
-      "source": "NFL.com",
-      "ts": 1793278740.0,
-      "published_iso": "2026-10-29T12:59:00+00:00"
+      "id": "https-therams-com-news-los-angeles-rams-at-washington-commanders-how-to-watch-listen-to-and-live-stream-week-9-2026",
+      "title": "Los Angeles Rams at Washington Commanders: How to watch, listen to and live stream Week 9",
+      "link": "https://therams.com/news/los-angeles-rams-at-washington-commanders-how-to-watch-listen-to-and-live-stream-week-9-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1793754000.0,
+      "published_iso": "2026-11-04T01:00:00+00:00"
+    },
+    {
+      "id": "https-apnews-com-article-rams-raiders-score-547da107481af0dc74e4665b7f09743e",
+      "title": "Matthew Stafford sets Rams TD pass record as Los Angeles rolls past Raiders 35-21",
+      "link": "https://apnews.com/article/rams-raiders-score-547da107481af0dc74e4665b7f09743e",
+      "source": "AP News",
+      "ts": 1792947000.0,
+      "published_iso": "2026-10-25T16:50:00+00:00"
     }
   ]
 }
