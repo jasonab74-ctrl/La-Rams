@@ -1,22 +1,22 @@
 {
-  "updated_iso": "2026-11-06T01:50:58.482981+00:00",
+  "updated_iso": "2026-11-06T08:37:38.188909+00:00",
   "count": 2,
   "items": [
     {
-      "id": "https-sports-yahoo-com-videos-los-angeles-rams-vs-washington-225714193-html",
-      "title": "Los Angeles Rams vs. Washington Commanders Week 9 NFL Preview and Predictions",
-      "link": "https://sports.yahoo.com/videos/los-angeles-rams-vs-washington-225714193.html",
+      "id": "https-sports-yahoo-com-articles-trent-mcduffie-mysterious-absence-raises-025207029-html",
+      "title": "Trent McDuffie’s mysterious absence raises red flags for Rams",
+      "link": "https://sports.yahoo.com/articles/trent-mcduffie-mysterious-absence-raises-025207029.html",
       "source": "Yahoo Sports",
-      "ts": 1793890680.0,
-      "published_iso": "2026-11-05T14:58:00+00:00"
+      "ts": 1793894400.0,
+      "published_iso": "2026-11-05T16:00:00+00:00"
     },
     {
-      "id": "https-therams-com-news-rams-announce-quarterback-matthew-stafford-as-2026-salute-to-service-award-nominee",
-      "title": "Rams announce QB Matthew Stafford as 2026 Salute to Service Award nominee",
-      "link": "https://therams.com/news/rams-announce-quarterback-matthew-stafford-as-2026-salute-to-service-award-nominee",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1793840400.0,
-      "published_iso": "2026-11-05T01:00:00+00:00"
+      "id": "https-apnews-com-article-rams-raiders-score-547da107481af0dc74e4665b7f09743e",
+      "title": "Matthew Stafford sets Rams TD pass record as Los Angeles rolls past Raiders 35-21",
+      "link": "https://apnews.com/article/rams-raiders-score-547da107481af0dc74e4665b7f09743e",
+      "source": "AP News",
+      "ts": 1792947000.0,
+      "published_iso": "2026-10-25T16:50:00+00:00"
     }
   ]
 }
