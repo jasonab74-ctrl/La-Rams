@@ -1,30 +1,30 @@
 {
-  "updated_iso": "2026-11-07T14:12:43.837533+00:00",
+  "updated_iso": "2026-11-07T18:54:40.857291+00:00",
   "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-announce-bad-033209021-html",
-      "title": "Los Angeles Rams Announce Bad News About Former Top Draft Pick",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-announce-bad-033209021.html",
+      "id": "https-sports-yahoo-com-articles-bengals-ted-karras-clarifies-rams-180134717-html",
+      "title": "Bengals’ Ted Karras clarifies Rams, Sean McVay comments",
+      "link": "https://sports.yahoo.com/articles/bengals-ted-karras-clarifies-rams-180134717.html",
       "source": "Yahoo Sports",
-      "ts": 1793993460.0,
-      "published_iso": "2026-11-06T19:31:00+00:00"
+      "ts": 1794045660.0,
+      "published_iso": "2026-11-07T10:01:00+00:00"
     },
     {
-      "id": "https-therams-com-news-11th-annual-taste-of-the-rams-event-raises-money-to-support-hunger-relief-across-los-angeles-coun",
-      "title": "Rams host 11th Annual Taste of the Rams & raise $270,000 to support hunger relief across Los Angeles County",
-      "link": "https://therams.com/news/11th-annual-taste-of-the-rams-event-raises-money-to-support-hunger-relief-across-los-angeles-county",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1793923200.0,
-      "published_iso": "2026-11-06T00:00:00+00:00"
+      "id": "https-nfl-com-news-rams-myles-garrett-knee-activated-injured-reserve-commanders",
+      "title": "Rams activate Myles Garrett (knee) from injured reserve ahead of Sunday's game vs. Commanders",
+      "link": "https://nfl.com/news/rams-myles-garrett-knee-activated-injured-reserve-commanders",
+      "source": "NFL.com",
+      "ts": 1794015840.0,
+      "published_iso": "2026-11-07T01:44:00+00:00"
     },
     {
-      "id": "https-apnews-com-article-rams-raiders-score-547da107481af0dc74e4665b7f09743e",
-      "title": "Matthew Stafford sets Rams TD pass record as Los Angeles rolls past Raiders 35-21",
-      "link": "https://apnews.com/article/rams-raiders-score-547da107481af0dc74e4665b7f09743e",
-      "source": "AP News",
-      "ts": 1792947000.0,
-      "published_iso": "2026-10-25T16:50:00+00:00"
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1792846440.0,
+      "published_iso": "2026-10-24T12:54:00+00:00"
     }
   ]
 }
