@@ -1,23 +1,7 @@
 {
-  "updated_iso": "2026-11-07T22:23:28.725245+00:00",
-  "count": 6,
+  "updated_iso": "2026-11-08T01:34:30.487888+00:00",
+  "count": 3,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-rams-add-dual-threat-rb-211857724-html",
-      "title": "Rams Add Dual-Threat RB, Two-Time Pro Bowler Amid Myles Garrett News",
-      "link": "https://sports.yahoo.com/articles/rams-add-dual-threat-rb-211857724.html",
-      "source": "Yahoo Sports",
-      "ts": 1794057480.0,
-      "published_iso": "2026-11-07T13:18:00+00:00"
-    },
-    {
-      "id": "https-cbssports-com-nfl-news-rams-myles-garrett-anticipates-matchup-nightmares-first-game-aaron-donald",
-      "title": "Pick your poison: Rams' Myles Garrett anticipates matchup nightmares in first game with Aaron Donald",
-      "link": "https://cbssports.com/nfl/news/rams-myles-garrett-anticipates-matchup-nightmares-first-game-aaron-donald/",
-      "source": "CBS Sports",
-      "ts": 1794055080.0,
-      "published_iso": "2026-11-07T12:38:00+00:00"
-    },
     {
       "id": "https-si-com-betting-rams-vs-commanders-best-nfl-prop-bets-and-anytime-touchdown-scorer-picks-for-nfl-week-9-01m6pp745ap",
       "title": "Rams vs. Commanders Best NFL Prop Bets and Anytime Touchdown Scorer Picks for NFL Week 9",
@@ -27,20 +11,12 @@
       "published_iso": "2026-11-07T11:30:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-rams-quentin-lake-walks-back-191000013-html",
-      "title": "Rams’ Quentin Lake Walks Back Bold Comments About Justin Herbert",
-      "link": "https://sports.yahoo.com/articles/rams-quentin-lake-walks-back-191000013.html",
-      "source": "Yahoo Sports",
-      "ts": 1794049800.0,
-      "published_iso": "2026-11-07T11:10:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-top-rams-news-previews-and-predictions-for-rams-at-commanders-on-sunday-at-northwest-stadium-for-",
-      "title": "Top Rams News: Previews and predictions for Rams at Commanders on Sunday at Northwest Stadium for Week 9",
-      "link": "https://therams.com/news/top-rams-news-previews-and-predictions-for-rams-at-commanders-on-sunday-at-northwest-stadium-for-week-9-2026",
+      "id": "https-therams-com-news-11th-annual-taste-of-the-rams-event-raises-money-to-support-hunger-relief-across-los-angeles-coun",
+      "title": "Rams host 11th Annual Taste of the Rams & raise $270,000 to support hunger relief across Los Angeles County",
+      "link": "https://therams.com/news/11th-annual-taste-of-the-rams-event-raises-money-to-support-hunger-relief-across-los-angeles-county",
       "source": "Los Angeles Rams (Official)",
-      "ts": 1794020340.0,
-      "published_iso": "2026-11-07T02:59:00+00:00"
+      "ts": 1793923200.0,
+      "published_iso": "2026-11-06T00:00:00+00:00"
     },
     {
       "id": "https-apnews-com-article-rams-raiders-score-547da107481af0dc74e4665b7f09743e",
