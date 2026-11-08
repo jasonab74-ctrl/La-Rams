@@ -1,7 +1,31 @@
 {
-  "updated_iso": "2026-11-08T08:08:48.784872+00:00",
-  "count": 2,
+  "updated_iso": "2026-11-08T15:24:15.940382+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-11-08-rams-commanders-live-updates-score-highlights-live-92645",
+      "title": "Rams vs. Commanders live updates: Score, highlights, injuries and analysis",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/11/08/rams-commanders-live-updates-score-highlights--live/92645482007/",
+      "source": "Rams Wire",
+      "ts": 1794121200.0,
+      "published_iso": "2026-11-08T07:00:00+00:00"
+    },
+    {
+      "id": "https-cbssports-com-prediction-news-rams-vs-commanders-odds-predictions-use-kalshi-promo-code-cbssports55-for-55-bonus-i",
+      "title": "Rams vs. Commanders odds, predictions: Use Kalshi promo code CBSSPORTS55 for $55 bonus in NFL Week 9",
+      "link": "https://cbssports.com/prediction/news/rams-vs-commanders-odds-predictions-use-kalshi-promo-code-cbssports55-for-55-bonus-in-nfl-week-9/",
+      "source": "CBS Sports",
+      "ts": 1794115200.0,
+      "published_iso": "2026-11-08T05:20:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-myles-garrett-injury-update-betting-impact-for-rams-vs-commanders-in-nfl-week-9-2026",
+      "title": "Is Myles Garrett Playing Today? (Injury Update, Betting Impact for Rams vs. Commanders in NFL Week 9)",
+      "link": "https://si.com/betting/myles-garrett-injury-update-betting-impact-for-rams-vs-commanders-in-nfl-week-9-2026",
+      "source": "Sports Illustrated",
+      "ts": 1794110940.0,
+      "published_iso": "2026-11-08T04:09:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-announce-bad-033209021-html",
       "title": "Los Angeles Rams Announce Bad News About Former Top Draft Pick",
