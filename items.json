@@ -1,46 +1,38 @@
 {
-  "updated_iso": "2026-11-08T15:24:15.940382+00:00",
-  "count": 5,
+  "updated_iso": "2026-11-08T19:48:02.942695+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-11-08-rams-commanders-live-updates-score-highlights-live-92645",
-      "title": "Rams vs. Commanders live updates: Score, highlights, injuries and analysis",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/11/08/rams-commanders-live-updates-score-highlights--live/92645482007/",
-      "source": "Rams Wire",
-      "ts": 1794121200.0,
-      "published_iso": "2026-11-08T07:00:00+00:00"
+      "id": "https-nfl-com-videos-can-t-miss-play-myles-garrett-strips-the-football-from-jayden-daniels-grasp-for-a-rams-takeaway",
+      "title": "Can't-Miss Play: Myles Garrett strips the football from Jayden Daniels' grasp for a Rams takeaway",
+      "link": "https://nfl.com/videos/can-t-miss-play-myles-garrett-strips-the-football-from-jayden-daniels-grasp-for-a-rams-takeaway",
+      "source": "NFL.com",
+      "ts": 1794137160.0,
+      "published_iso": "2026-11-08T11:26:00+00:00"
     },
     {
-      "id": "https-cbssports-com-prediction-news-rams-vs-commanders-odds-predictions-use-kalshi-promo-code-cbssports55-for-55-bonus-i",
-      "title": "Rams vs. Commanders odds, predictions: Use Kalshi promo code CBSSPORTS55 for $55 bonus in NFL Week 9",
-      "link": "https://cbssports.com/prediction/news/rams-vs-commanders-odds-predictions-use-kalshi-promo-code-cbssports55-for-55-bonus-in-nfl-week-9/",
-      "source": "CBS Sports",
-      "ts": 1794115200.0,
-      "published_iso": "2026-11-08T05:20:00+00:00"
+      "id": "https-nfl-com-videos-stafford-s-12-yard-strike-to-nacua-moves-chains-for-rams-on-fourth-down-near-midfield",
+      "title": "Stafford's 12-yard strike to Nacua moves chains for Rams on fourth down near midfield",
+      "link": "https://nfl.com/videos/stafford-s-12-yard-strike-to-nacua-moves-chains-for-rams-on-fourth-down-near-midfield",
+      "source": "NFL.com",
+      "ts": 1794136800.0,
+      "published_iso": "2026-11-08T11:20:00+00:00"
     },
     {
-      "id": "https-si-com-betting-myles-garrett-injury-update-betting-impact-for-rams-vs-commanders-in-nfl-week-9-2026",
-      "title": "Is Myles Garrett Playing Today? (Injury Update, Betting Impact for Rams vs. Commanders in NFL Week 9)",
-      "link": "https://si.com/betting/myles-garrett-injury-update-betting-impact-for-rams-vs-commanders-in-nfl-week-9-2026",
-      "source": "Sports Illustrated",
-      "ts": 1794110940.0,
-      "published_iso": "2026-11-08T04:09:00+00:00"
+      "id": "https-therams-com-video-highlights-rams-quarterback-matthew-stafford-launches-21-yard-pass-wr-puka-nacua-vs-commanders-w",
+      "title": "HIGHLIGHTS: Rams QB Matthew Stafford launches a 21-yard pass to WR Puka Nacua vs. the Commanders",
+      "link": "https://therams.com/video/highlights-rams-quarterback-matthew-stafford-launches-21-yard-pass-wr-puka-nacua-vs-commanders-week-9",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1794135600.0,
+      "published_iso": "2026-11-08T11:00:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-announce-bad-033209021-html",
-      "title": "Los Angeles Rams Announce Bad News About Former Top Draft Pick",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-announce-bad-033209021.html",
+      "id": "https-sports-yahoo-com-articles-washington-commanders-vs-los-angeles-163553235-html",
+      "title": "Washington Commanders vs Los Angeles Rams Inactives",
+      "link": "https://sports.yahoo.com/articles/washington-commanders-vs-los-angeles-163553235.html",
       "source": "Yahoo Sports",
-      "ts": 1793993460.0,
-      "published_iso": "2026-11-06T19:31:00+00:00"
-    },
-    {
-      "id": "https-apnews-com-article-rams-raiders-score-547da107481af0dc74e4665b7f09743e",
-      "title": "Matthew Stafford sets Rams TD pass record as Los Angeles rolls past Raiders 35-21",
-      "link": "https://apnews.com/article/rams-raiders-score-547da107481af0dc74e4665b7f09743e",
-      "source": "AP News",
-      "ts": 1792947000.0,
-      "published_iso": "2026-10-25T16:50:00+00:00"
+      "ts": 1794126960.0,
+      "published_iso": "2026-11-08T08:36:00+00:00"
     }
   ]
 }
