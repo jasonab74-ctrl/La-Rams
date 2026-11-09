@@ -1,22 +1,38 @@
 {
-  "updated_iso": "2026-11-09T10:28:50.789170+00:00",
-  "count": 2,
+  "updated_iso": "2026-11-09T20:55:31.429515+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-everything-dan-quinn-said-commanders-013547395-html",
-      "title": "Everything Dan Quinn Said After Commanders' Loss to Rams",
-      "link": "https://sports.yahoo.com/articles/everything-dan-quinn-said-commanders-013547395.html",
-      "source": "Yahoo Sports",
-      "ts": 1794159300.0,
-      "published_iso": "2026-11-08T17:35:00+00:00"
+      "id": "https-nfl-com-videos-los-angeles-rams-vs-washington-commanders-week-9-analysis-nfl-pro",
+      "title": "Los Angeles Rams vs. Washington Commanders Week 9 analysis | NFL Pro",
+      "link": "https://nfl.com/videos/los-angeles-rams-vs-washington-commanders-week-9-analysis-nfl-pro",
+      "source": "NFL.com",
+      "ts": 1794219960.0,
+      "published_iso": "2026-11-09T10:26:00+00:00"
     },
     {
-      "id": "https-apnews-com-article-rams-raiders-score-547da107481af0dc74e4665b7f09743e",
-      "title": "Matthew Stafford sets Rams TD pass record as Los Angeles rolls past Raiders 35-21",
-      "link": "https://apnews.com/article/rams-raiders-score-547da107481af0dc74e4665b7f09743e",
+      "id": "https-si-com-prediction-markets-rams-trending-up-in-brian-thomas-jr-next-team-market-after-puka-nacua-injury-01m70dnb8ha",
+      "title": "Rams Trending Up in Brian Thomas Jr. Next Team Market After Puka Nacua Injury",
+      "link": "https://si.com/prediction-markets/rams-trending-up-in-brian-thomas-jr-next-team-market-after-puka-nacua-injury-01m70dnb8hap",
+      "source": "Sports Illustrated",
+      "ts": 1794212160.0,
+      "published_iso": "2026-11-09T08:16:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-videos-rapoport-on-latest-news-on-puka-nacua-injury-gmfb",
+      "title": "NFL Network Insider Ian Rapoport on latest news on Los Angeles Rams wide receiver Puka Nacua injury.",
+      "link": "https://nfl.com/videos/rapoport-on-latest-news-on-puka-nacua-injury-gmfb",
+      "source": "NFL.com",
+      "ts": 1794206340.0,
+      "published_iso": "2026-11-09T06:39:00+00:00"
+    },
+    {
+      "id": "https-apnews-com-article-rams-los-angeles-commanders-washington-stafford-nacua-garrett-c5269d0c761ead28a7882a6496dd7736",
+      "title": "Puka Nacua y Myles Garrett guían a los Rams a la victoria 20-13 ante Commanders",
+      "link": "https://apnews.com/article/rams-los-angeles-commanders-washington-stafford-nacua-garrett-c5269d0c761ead28a7882a6496dd7736",
       "source": "AP News",
-      "ts": 1792947000.0,
-      "published_iso": "2026-10-25T16:50:00+00:00"
+      "ts": 1794146700.0,
+      "published_iso": "2026-11-08T14:05:00+00:00"
     }
   ]
 }
