@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-11-08T23:14:06.060766+00:00",
-  "count": 4,
+  "updated_iso": "2026-11-09T02:46:35.467525+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-cbssports-com-nfl-news-puka-nacua-injury-rams-wr-undergo-mri-knee-injury-on-final-snap",
-      "title": "Puka Nacua injury: Rams WR to undergo MRI after suffering knee injury on final snap, per report",
-      "link": "https://cbssports.com/nfl/news/puka-nacua-injury-rams-wr-undergo-mri-knee-injury-on-final-snap/",
+      "id": "https-cbssports-com-nfl-news-puka-nacua-catches-14-passes-as-rams-hold-off-commanders-20-13",
+      "title": "Puka Nacua catches 14 passes as Rams hold off Commanders 20-13",
+      "link": "https://cbssports.com/nfl/news/puka-nacua-catches-14-passes-as-rams-hold-off-commanders-20-13/",
       "source": "CBS Sports",
-      "ts": 1794150240.0,
-      "published_iso": "2026-11-08T15:04:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25530788-myles-garrett-reacts-return-injury-rams-win-jayden-daniels-commanders",
-      "title": "Myles Garrett Reacts to Return from Injury in Rams' Win to Jayden Daniels, Commanders",
-      "link": "https://bleacherreport.com/articles/25530788-myles-garrett-reacts-return-injury-rams-win-jayden-daniels-commanders",
-      "source": "Bleacher Report",
-      "ts": 1794147240.0,
-      "published_iso": "2026-11-08T14:14:00+00:00"
+      "ts": 1794150180.0,
+      "published_iso": "2026-11-08T15:03:00+00:00"
     },
     {
       "id": "https-apnews-com-article-rams-los-angeles-commanders-washington-stafford-nacua-garrett-c5269d0c761ead28a7882a6496dd7736",
@@ -25,14 +17,6 @@
       "source": "AP News",
       "ts": 1794146700.0,
       "published_iso": "2026-11-08T14:05:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-myles-garrett-explodes-three-213124467-html",
-      "title": "Rams' Myles Garrett Explodes With Three Sacks to Propel Week 9 Win",
-      "link": "https://sports.yahoo.com/articles/rams-myles-garrett-explodes-three-213124467.html",
-      "source": "Yahoo Sports",
-      "ts": 1794144660.0,
-      "published_iso": "2026-11-08T13:31:00+00:00"
     }
   ]
 }
