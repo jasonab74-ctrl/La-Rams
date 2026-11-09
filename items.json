@@ -1,22 +1,22 @@
 {
-  "updated_iso": "2026-11-09T02:46:35.467525+00:00",
+  "updated_iso": "2026-11-09T10:28:50.789170+00:00",
   "count": 2,
   "items": [
     {
-      "id": "https-cbssports-com-nfl-news-puka-nacua-catches-14-passes-as-rams-hold-off-commanders-20-13",
-      "title": "Puka Nacua catches 14 passes as Rams hold off Commanders 20-13",
-      "link": "https://cbssports.com/nfl/news/puka-nacua-catches-14-passes-as-rams-hold-off-commanders-20-13/",
-      "source": "CBS Sports",
-      "ts": 1794150180.0,
-      "published_iso": "2026-11-08T15:03:00+00:00"
+      "id": "https-sports-yahoo-com-articles-everything-dan-quinn-said-commanders-013547395-html",
+      "title": "Everything Dan Quinn Said After Commanders' Loss to Rams",
+      "link": "https://sports.yahoo.com/articles/everything-dan-quinn-said-commanders-013547395.html",
+      "source": "Yahoo Sports",
+      "ts": 1794159300.0,
+      "published_iso": "2026-11-08T17:35:00+00:00"
     },
     {
-      "id": "https-apnews-com-article-rams-los-angeles-commanders-washington-stafford-nacua-garrett-c5269d0c761ead28a7882a6496dd7736",
-      "title": "Puka Nacua y Myles Garrett guían a los Rams a la victoria 20-13 ante Commanders",
-      "link": "https://apnews.com/article/rams-los-angeles-commanders-washington-stafford-nacua-garrett-c5269d0c761ead28a7882a6496dd7736",
+      "id": "https-apnews-com-article-rams-raiders-score-547da107481af0dc74e4665b7f09743e",
+      "title": "Matthew Stafford sets Rams TD pass record as Los Angeles rolls past Raiders 35-21",
+      "link": "https://apnews.com/article/rams-raiders-score-547da107481af0dc74e4665b7f09743e",
       "source": "AP News",
-      "ts": 1794146700.0,
-      "published_iso": "2026-11-08T14:05:00+00:00"
+      "ts": 1792947000.0,
+      "published_iso": "2026-10-25T16:50:00+00:00"
     }
   ]
 }
