@@ -1,5 +1,14 @@
 {
-  "updated_iso": "2026-11-10T18:43:28.319454+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-11-10T23:47:24.782988+00:00",
+  "count": 1,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-stand-pat-trade-deadline-220556583-html",
+      "title": "Rams inexplicably stand pat at NFL trade deadline despite gaping hole",
+      "link": "https://sports.yahoo.com/articles/rams-stand-pat-trade-deadline-220556583.html",
+      "source": "Yahoo Sports",
+      "ts": 1794319500.0,
+      "published_iso": "2026-11-10T14:05:00+00:00"
+    }
+  ]
 }
