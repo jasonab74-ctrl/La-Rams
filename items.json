@@ -1,15 +1,7 @@
 {
-  "updated_iso": "2026-11-11T03:20:45.530853+00:00",
-  "count": 3,
+  "updated_iso": "2026-11-11T11:15:09.142246+00:00",
+  "count": 4,
   "items": [
-    {
-      "id": "https-sports-yahoo-com-articles-rams-announce-wr-move-unfortunate-223818691-html",
-      "title": "Rams Announce WR Move After Unfortunate Puka Nacua Update",
-      "link": "https://sports.yahoo.com/articles/rams-announce-wr-move-unfortunate-223818691.html",
-      "source": "Yahoo Sports",
-      "ts": 1794321480.0,
-      "published_iso": "2026-11-10T14:38:00+00:00"
-    },
     {
       "id": "https-apnews-com-article-la-rams-analysis-6eec59bcf05860dc181abe89abc09a96",
       "title": "Streaking Rams suddenly face a rough future after Nacua joins Adams on sideline with injuries",
@@ -25,6 +17,22 @@
       "source": "Yahoo Sports",
       "ts": 1794239220.0,
       "published_iso": "2026-11-09T15:47:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-videos-los-angeles-rams-vs-washington-commanders-week-9-analysis-nfl-pro",
+      "title": "Los Angeles Rams vs. Washington Commanders Week 9 analysis | NFL Pro",
+      "link": "https://nfl.com/videos/los-angeles-rams-vs-washington-commanders-week-9-analysis-nfl-pro",
+      "source": "NFL.com",
+      "ts": 1794219960.0,
+      "published_iso": "2026-11-09T10:26:00+00:00"
+    },
+    {
+      "id": "https-apnews-com-article-rams-los-angeles-commanders-washington-stafford-nacua-garrett-c5269d0c761ead28a7882a6496dd7736",
+      "title": "Puka Nacua y Myles Garrett guían a los Rams a la victoria 20-13 ante Commanders",
+      "link": "https://apnews.com/article/rams-los-angeles-commanders-washington-stafford-nacua-garrett-c5269d0c761ead28a7882a6496dd7736",
+      "source": "AP News",
+      "ts": 1794146700.0,
+      "published_iso": "2026-11-08T14:05:00+00:00"
     }
   ]
 }
