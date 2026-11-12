@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-11-12T08:28:00.293140+00:00",
-  "count": 5,
+  "updated_iso": "2026-11-12T16:57:15.746163+00:00",
+  "count": 2,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-record-prediction-picking-every-124127170-html",
+      "title": "Rams Record Prediction: Picking Every Game Left on the 2026 Schedule",
+      "link": "https://sports.yahoo.com/articles/rams-record-prediction-picking-every-124127170.html",
+      "source": "Yahoo Sports",
+      "ts": 1794458400.0,
+      "published_iso": "2026-11-12T04:40:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-change-plans-221121519-html",
       "title": "Los Angeles Rams Change Plans With Pro Bowl Running Back, Playmaking Safety",
@@ -9,38 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1794406260.0,
       "published_iso": "2026-11-11T14:11:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-arizona-cardinals-start-carson-beck-221131739-html",
-      "title": "Arizona Cardinals to start Carson Beck against Los Angeles Rams",
-      "link": "https://sports.yahoo.com/articles/arizona-cardinals-start-carson-beck-221131739.html",
-      "source": "Yahoo Sports",
-      "ts": 1794406260.0,
-      "published_iso": "2026-11-11T14:11:00+00:00"
-    },
-    {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-11-11-rams-cardinals-carson-beck-nfl-week-10-debut-92730744007",
-      "title": "Rams to face Cardinals' rookie QB making NFL debut Sunday",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/11/11/rams-cardinals-carson-beck-nfl-week-10-debut/92730744007/",
-      "source": "Rams Wire",
-      "ts": 1794400860.0,
-      "published_iso": "2026-11-11T12:41:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-at-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-10-2026",
-      "title": "Los Angeles Rams at Arizona Cardinals: How to watch, listen to and live stream Week 10",
-      "link": "https://therams.com/news/los-angeles-rams-at-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-10-2026",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1794358800.0,
-      "published_iso": "2026-11-11T01:00:00+00:00"
-    },
-    {
-      "id": "https-apnews-com-article-la-rams-analysis-6eec59bcf05860dc181abe89abc09a96",
-      "title": "Streaking Rams suddenly face a rough future after Nacua joins Adams on sideline with injuries",
-      "link": "https://apnews.com/article/la-rams-analysis-6eec59bcf05860dc181abe89abc09a96",
-      "source": "AP News",
-      "ts": 1794243600.0,
-      "published_iso": "2026-11-09T17:00:00+00:00"
     }
   ]
 }
