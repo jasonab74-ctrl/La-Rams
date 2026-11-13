@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-11-13T02:47:50.845715+00:00",
-  "count": 2,
+  "updated_iso": "2026-11-13T10:09:26.841081+00:00",
+  "count": 5,
   "items": [
     {
-      "id": "https-espn-com-nfl-story-id-50466270-rams-wide-receiver-puka-nacua-ir-knee-toe-injuries",
-      "title": "Rams put WR Puka Nacua on IR with knee, toe injuries",
-      "link": "https://espn.com/nfl/story/_/id/50466270/rams-wide-receiver-puka-nacua-ir-knee-toe-injuries",
-      "source": "ESPN",
-      "ts": 1794503340.0,
-      "published_iso": "2026-11-12T17:09:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-11-12-sean-mcvay-tempted-to-ask-wr-robert-woods-to-unretire-fo",
+      "title": "Sean McVay 'tempted' to ask WRs coach Robert Woods to unretire for Rams",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/11/12/sean-mcvay-tempted-to-ask-wr-robert-woods-to-unretire-for-rams/92739354007/",
+      "source": "Rams Wire",
+      "ts": 1794472860.0,
+      "published_iso": "2026-11-12T08:41:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-change-plans-221121519-html",
+      "title": "Los Angeles Rams Change Plans With Pro Bowl Running Back, Playmaking Safety",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-change-plans-221121519.html",
+      "source": "Yahoo Sports",
+      "ts": 1794406260.0,
+      "published_iso": "2026-11-11T14:11:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-don-t-think-signing-puka-190842586-html",
@@ -17,6 +25,22 @@
       "source": "Yahoo Sports",
       "ts": 1794395280.0,
       "published_iso": "2026-11-11T11:08:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-10-2026",
+      "title": "Los Angeles Rams at Arizona Cardinals: How to watch, listen to and live stream Week 10",
+      "link": "https://therams.com/news/los-angeles-rams-at-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-10-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1794358800.0,
+      "published_iso": "2026-11-11T01:00:00+00:00"
+    },
+    {
+      "id": "https-nfl-com-news-rams-49ers-on-thursday-night-football-what-we-learned-from-los-angeles-12-6-win",
+      "title": "Rams-49ers on 'Thursday Night Football': What We Learned from Los Angeles' 12-6 win",
+      "link": "https://nfl.com/news/rams-49ers-on-thursday-night-football-what-we-learned-from-los-angeles-12-6-win",
+      "source": "NFL.com",
+      "ts": 1734033840.0,
+      "published_iso": "2024-12-12T20:04:00+00:00"
     }
   ]
 }
