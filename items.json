@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-11-13T17:54:45.893503+00:00",
-  "count": 3,
+  "updated_iso": "2026-11-13T22:56:47.026156+00:00",
+  "count": 5,
   "items": [
     {
-      "id": "https-si-com-betting-sportsbook-insiders-how-the-puka-nacua-injury-impacts-the-rams-playoff-odds-nfc-playoff-picture",
-      "title": "Sportsbook Insiders: How the Puka Nacua Injury Impacts the Rams' Playoff Odds; NFC Playoff Picture",
-      "link": "https://si.com/betting/sportsbook-insiders-how-the-puka-nacua-injury-impacts-the-rams-playoff-odds-nfc-playoff-picture",
-      "source": "Sports Illustrated",
-      "ts": 1794546000.0,
-      "published_iso": "2026-11-13T05:00:00+00:00"
+      "id": "https-therams-com-news-mcvay-rams-placed-puka-nacua-on-ir-because-they-needed-the-roster-spot-week-10-2026-cardinals",
+      "title": "McVay: Rams placed Puka Nacua on IR because they 'needed the roster spot'",
+      "link": "https://therams.com/news/mcvay-rams-placed-puka-nacua-on-ir-because-they-needed-the-roster-spot-week-10-2026-cardinals",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1794550140.0,
+      "published_iso": "2026-11-13T06:09:00+00:00"
+    },
+    {
+      "id": "https-ocregister-com-2026-11-13-rams-trent-mcduffie-testing-injured-back-ahead-of-cardinals-game",
+      "title": "Rams’ Trent McDuffie testing injured back ahead of Cardinals game",
+      "link": "https://ocregister.com/2026/11/13/rams-trent-mcduffie-testing-injured-back-ahead-of-cardinals-game/",
+      "source": "OC Register",
+      "ts": 1794548580.0,
+      "published_iso": "2026-11-13T05:43:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-change-plans-221121519-html",
@@ -25,6 +33,14 @@
       "source": "Yahoo Sports",
       "ts": 1794395280.0,
       "published_iso": "2026-11-11T11:08:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-at-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-10-2026",
+      "title": "Los Angeles Rams at Arizona Cardinals: How to watch, listen to and live stream Week 10",
+      "link": "https://therams.com/news/los-angeles-rams-at-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-10-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1794358800.0,
+      "published_iso": "2026-11-11T01:00:00+00:00"
     }
   ]
 }
