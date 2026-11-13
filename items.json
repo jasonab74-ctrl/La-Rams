@@ -1,30 +1,22 @@
 {
-  "updated_iso": "2026-11-12T22:30:02.074794+00:00",
-  "count": 3,
+  "updated_iso": "2026-11-13T02:47:50.845715+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-sportingnews-com-us-nfl-los-angeles-rams-news-rams-rumored-nfl-teams-made-trade-push-chargers-1000-yard-wr-4cee7c5",
-      "title": "Rams rumored by NFL teams to have made trade push for Chargers’ 1,000-yard WR",
-      "link": "https://sportingnews.com/us/nfl/los-angeles-rams/news/rams-rumored-nfl-teams-made-trade-push-chargers-1000-yard-wr/4cee7c556b519e587d27c866",
-      "source": "Sporting News",
-      "ts": 1794492120.0,
-      "published_iso": "2026-11-12T14:02:00+00:00"
+      "id": "https-espn-com-nfl-story-id-50466270-rams-wide-receiver-puka-nacua-ir-knee-toe-injuries",
+      "title": "Rams put WR Puka Nacua on IR with knee, toe injuries",
+      "link": "https://espn.com/nfl/story/_/id/50466270/rams-wide-receiver-puka-nacua-ir-knee-toe-injuries",
+      "source": "ESPN",
+      "ts": 1794503340.0,
+      "published_iso": "2026-11-12T17:09:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-change-plans-221121519-html",
-      "title": "Los Angeles Rams Change Plans With Pro Bowl Running Back, Playmaking Safety",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-change-plans-221121519.html",
+      "id": "https-sports-yahoo-com-articles-don-t-think-signing-puka-190842586-html",
+      "title": "‘I Don’t Think They’re Signing Puka Nacua’ — Analyst Casts Doubt Over Rams WR’s Future in Los Angeles After New Injury",
+      "link": "https://sports.yahoo.com/articles/don-t-think-signing-puka-190842586.html",
       "source": "Yahoo Sports",
-      "ts": 1794406260.0,
-      "published_iso": "2026-11-11T14:11:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-major-injury-234700130-html",
-      "title": "Los Angeles Rams get major injury news on Puka Nacua before trade deadline",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-major-injury-234700130.html",
-      "source": "Yahoo Sports",
-      "ts": 1794239220.0,
-      "published_iso": "2026-11-09T15:47:00+00:00"
+      "ts": 1794395280.0,
+      "published_iso": "2026-11-11T11:08:00+00:00"
     }
   ]
 }
