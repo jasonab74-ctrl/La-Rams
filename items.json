@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-11-14T09:33:14.479108+00:00",
-  "count": 4,
+  "updated_iso": "2026-11-14T16:11:05.998931+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-si-com-betting-rams-vs-cardinals-score-prediction-for-nfl-week-10-can-la-get-revenge-on-road-01m74bqwt6nr",
+      "title": "Rams vs. Cardinals Score Prediction for NFL Week 10 (Can LA Get Revenge on Road?)",
+      "link": "https://si.com/betting/rams-vs-cardinals-score-prediction-for-nfl-week-10-can-la-get-revenge-on-road-01m74bqwt6nr",
+      "source": "Sports Illustrated",
+      "ts": 1794628800.0,
+      "published_iso": "2026-11-14T04:00:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-announce-myles-231032924-html",
       "title": "Los Angeles Rams Announce Myles Garrett Decision Amid Significant Updates",
@@ -17,22 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1794395280.0,
       "published_iso": "2026-11-11T11:08:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1794385500.0,
-      "published_iso": "2026-11-11T08:25:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-at-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-10-2026",
-      "title": "Los Angeles Rams at Arizona Cardinals: How to watch, listen to and live stream Week 10",
-      "link": "https://therams.com/news/los-angeles-rams-at-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-10-2026",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1794358800.0,
-      "published_iso": "2026-11-11T01:00:00+00:00"
     }
   ]
 }
