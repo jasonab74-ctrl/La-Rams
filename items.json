@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-11-14T16:11:05.998931+00:00",
+  "updated_iso": "2026-11-14T20:48:34.201345+00:00",
   "count": 3,
   "items": [
     {
-      "id": "https-si-com-betting-rams-vs-cardinals-score-prediction-for-nfl-week-10-can-la-get-revenge-on-road-01m74bqwt6nr",
-      "title": "Rams vs. Cardinals Score Prediction for NFL Week 10 (Can LA Get Revenge on Road?)",
-      "link": "https://si.com/betting/rams-vs-cardinals-score-prediction-for-nfl-week-10-can-la-get-revenge-on-road-01m74bqwt6nr",
-      "source": "Sports Illustrated",
-      "ts": 1794628800.0,
-      "published_iso": "2026-11-14T04:00:00+00:00"
+      "id": "https-sports-yahoo-com-articles-cbs-sports-gives-5-4-153042635-html",
+      "title": "CBS Sports Gives 5-4 Rams a C-Minus Midseason Grade",
+      "link": "https://sports.yahoo.com/articles/cbs-sports-gives-5-4-153042635.html",
+      "source": "Yahoo Sports",
+      "ts": 1794641400.0,
+      "published_iso": "2026-11-14T07:30:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-top-rams-news-previews-and-predictions-for-rams-at-cardinals-on-sunday-at-state-farm-stadium-for-",
+      "title": "Top Rams News: Previews and predictions for Rams at Cardinals on Sunday at State Farm Stadium for Week 10",
+      "link": "https://therams.com/news/top-rams-news-previews-and-predictions-for-rams-at-cardinals-on-sunday-at-state-farm-stadium-for-week-10-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1794625200.0,
+      "published_iso": "2026-11-14T03:00:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-announce-myles-231032924-html",
@@ -17,14 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1794582600.0,
       "published_iso": "2026-11-13T15:10:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-don-t-think-signing-puka-190842586-html",
-      "title": "‘I Don’t Think They’re Signing Puka Nacua’ — Analyst Casts Doubt Over Rams WR’s Future in Los Angeles After New Injury",
-      "link": "https://sports.yahoo.com/articles/don-t-think-signing-puka-190842586.html",
-      "source": "Yahoo Sports",
-      "ts": 1794395280.0,
-      "published_iso": "2026-11-11T11:08:00+00:00"
     }
   ]
 }
