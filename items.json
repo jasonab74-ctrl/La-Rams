@@ -1,30 +1,14 @@
 {
-  "updated_iso": "2026-11-13T22:56:47.026156+00:00",
-  "count": 5,
+  "updated_iso": "2026-11-14T02:48:39.679141+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-therams-com-news-mcvay-rams-placed-puka-nacua-on-ir-because-they-needed-the-roster-spot-week-10-2026-cardinals",
-      "title": "McVay: Rams placed Puka Nacua on IR because they 'needed the roster spot'",
-      "link": "https://therams.com/news/mcvay-rams-placed-puka-nacua-on-ir-because-they-needed-the-roster-spot-week-10-2026-cardinals",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1794550140.0,
-      "published_iso": "2026-11-13T06:09:00+00:00"
-    },
-    {
-      "id": "https-ocregister-com-2026-11-13-rams-trent-mcduffie-testing-injured-back-ahead-of-cardinals-game",
-      "title": "Rams’ Trent McDuffie testing injured back ahead of Cardinals game",
-      "link": "https://ocregister.com/2026/11/13/rams-trent-mcduffie-testing-injured-back-ahead-of-cardinals-game/",
-      "source": "OC Register",
-      "ts": 1794548580.0,
-      "published_iso": "2026-11-13T05:43:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-change-plans-221121519-html",
-      "title": "Los Angeles Rams Change Plans With Pro Bowl Running Back, Playmaking Safety",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-change-plans-221121519.html",
+      "id": "https-sports-yahoo-com-articles-los-angeles-rams-announce-myles-231032924-html",
+      "title": "Los Angeles Rams Announce Myles Garrett Decision Amid Significant Updates",
+      "link": "https://sports.yahoo.com/articles/los-angeles-rams-announce-myles-231032924.html",
       "source": "Yahoo Sports",
-      "ts": 1794406260.0,
-      "published_iso": "2026-11-11T14:11:00+00:00"
+      "ts": 1794582600.0,
+      "published_iso": "2026-11-13T15:10:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-don-t-think-signing-puka-190842586-html",
@@ -33,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1794395280.0,
       "published_iso": "2026-11-11T11:08:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-at-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-10-2026",
-      "title": "Los Angeles Rams at Arizona Cardinals: How to watch, listen to and live stream Week 10",
-      "link": "https://therams.com/news/los-angeles-rams-at-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-10-2026",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1794358800.0,
-      "published_iso": "2026-11-11T01:00:00+00:00"
     }
   ]
 }
