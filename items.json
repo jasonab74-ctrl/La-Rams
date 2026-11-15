@@ -1,38 +1,46 @@
 {
-  "updated_iso": "2026-11-15T06:53:33.147278+00:00",
-  "count": 4,
+  "updated_iso": "2026-11-15T14:23:17.098763+00:00",
+  "count": 5,
   "items": [
+    {
+      "id": "https-cbssports-com-prediction-news-rams-vs-cardinals-odds-predictions-polymarket-promo-code-cbssports-offering-a-25-bon",
+      "title": "Rams vs. Cardinals odds, predictions: Polymarket promo code CBSSPORTS offering a $25 bonus for NFL Week 10",
+      "link": "https://cbssports.com/prediction/news/rams-vs-cardinals-odds-predictions-polymarket-promo-code-cbssports-offering-a-25-bonus-for-nfl-week-10/",
+      "source": "CBS Sports",
+      "ts": 1794720900.0,
+      "published_iso": "2026-11-15T05:35:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-11-15-rams-cardinals-channel-today-time-tv-schedule-streaming-",
+      "title": "What channel is Rams vs. Cardinals on today? Time, TV schedule to watch Week 10 game",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/11/15/rams-cardinals-channel-today-time-tv-schedule-streaming/92779986007/",
+      "source": "Rams Wire",
+      "ts": 1794717000.0,
+      "published_iso": "2026-11-15T04:30:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-puka-nacua-injury-update-betting-impact-for-rams-vs-cardinals-in-nfl-week-10-2026",
+      "title": "Is Puka Nacua Playing Today? (Injury Update, Betting Impact for Rams vs. Cardinals in NFL Week 10)",
+      "link": "https://si.com/betting/puka-nacua-injury-update-betting-impact-for-rams-vs-cardinals-in-nfl-week-10-2026",
+      "source": "Sports Illustrated",
+      "ts": 1794714240.0,
+      "published_iso": "2026-11-15T03:44:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-articles-watch-arizona-cardinals-vs-los-100000926-html",
+      "title": "How to Watch: Arizona Cardinals vs. Los Angeles Rams",
+      "link": "https://sports.yahoo.com/articles/watch-arizona-cardinals-vs-los-100000926.html",
+      "source": "Yahoo Sports",
+      "ts": 1794707940.0,
+      "published_iso": "2026-11-15T01:59:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-two-players-punished-nfl-over-022337042-html",
       "title": "Two Players Punished by NFL Over Los Angeles Rams Game",
       "link": "https://sports.yahoo.com/articles/two-players-punished-nfl-over-022337042.html",
       "source": "Yahoo Sports",
-      "ts": 1794672000.0,
-      "published_iso": "2026-11-14T16:00:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-los-angeles-rams-announce-myles-231032924-html",
-      "title": "Los Angeles Rams Announce Myles Garrett Decision Amid Significant Updates",
-      "link": "https://sports.yahoo.com/articles/los-angeles-rams-announce-myles-231032924.html",
-      "source": "Yahoo Sports",
-      "ts": 1794582600.0,
-      "published_iso": "2026-11-13T15:10:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-at-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-10-2026",
-      "title": "Los Angeles Rams at Arizona Cardinals: How to watch, listen to and live stream Week 10",
-      "link": "https://therams.com/news/los-angeles-rams-at-arizona-cardinals-how-to-watch-listen-to-and-live-stream-week-10-2026",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1794358800.0,
-      "published_iso": "2026-11-11T01:00:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-news-rams-49ers-on-thursday-night-football-what-we-learned-from-los-angeles-12-6-win",
-      "title": "Rams-49ers on 'Thursday Night Football': What We Learned from Los Angeles' 12-6 win",
-      "link": "https://nfl.com/news/rams-49ers-on-thursday-night-football-what-we-learned-from-los-angeles-12-6-win",
-      "source": "NFL.com",
-      "ts": 1734033840.0,
-      "published_iso": "2024-12-12T20:04:00+00:00"
+      "ts": 1794680580.0,
+      "published_iso": "2026-11-14T18:23:00+00:00"
     }
   ]
 }
