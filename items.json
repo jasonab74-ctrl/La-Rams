@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-16T11:48:19.172210+00:00",
-  "count": 3,
+  "updated_iso": "2026-11-16T21:18:39.888412+00:00",
+  "count": 2,
   "items": [
     {
       "id": "https-sports-yahoo-com-articles-rams-vs-cardinals-analytics-week-193000652-html",
@@ -17,14 +17,6 @@
       "source": "Los Angeles Rams (Official)",
       "ts": 1794733260.0,
       "published_iso": "2026-11-15T09:01:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1794385500.0,
-      "published_iso": "2026-11-11T08:25:00+00:00"
     }
   ]
 }
