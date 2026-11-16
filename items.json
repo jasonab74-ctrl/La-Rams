@@ -1,5 +1,30 @@
 {
-  "updated_iso": "2026-11-16T03:23:18.843282+00:00",
-  "count": 0,
-  "items": []
+  "updated_iso": "2026-11-16T11:48:19.172210+00:00",
+  "count": 3,
+  "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-vs-cardinals-analytics-week-193000652-html",
+      "title": "Rams vs. Cardinals Analytics Week 10: Where Los Angeles Has the Edge by EPA",
+      "link": "https://sports.yahoo.com/articles/rams-vs-cardinals-analytics-week-193000652.html",
+      "source": "Yahoo Sports",
+      "ts": 1794742140.0,
+      "published_iso": "2026-11-15T11:29:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-game-recap-rams-blow-out-cardinals-34-6-for-fourth-straight-win",
+      "title": "Game Recap: Rams blow out Cardinals 34-6 for fourth-straight win",
+      "link": "https://therams.com/news/game-recap-rams-blow-out-cardinals-34-6-for-fourth-straight-win",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1794733260.0,
+      "published_iso": "2026-11-15T09:01:00+00:00"
+    },
+    {
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1794385500.0,
+      "published_iso": "2026-11-11T08:25:00+00:00"
+    }
+  ]
 }
