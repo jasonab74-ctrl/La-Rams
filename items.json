@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-11-16T21:18:39.888412+00:00",
+  "updated_iso": "2026-11-17T04:00:30.430304+00:00",
   "count": 2,
   "items": [
+    {
+      "id": "https-apnews-com-article-rams-coleman-shelton-20284413eb0c58eecf3135de449174a9",
+      "title": "Rams starting C Coleman Shelton out 4-6 week with hamstring strain in LA’s latest injury blow",
+      "link": "https://apnews.com/article/rams-coleman-shelton-20284413eb0c58eecf3135de449174a9",
+      "source": "AP News",
+      "ts": 1794849420.0,
+      "published_iso": "2026-11-16T17:17:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-rams-vs-cardinals-analytics-week-193000652-html",
       "title": "Rams vs. Cardinals Analytics Week 10: Where Los Angeles Has the Edge by EPA",
@@ -9,14 +17,6 @@
       "source": "Yahoo Sports",
       "ts": 1794742140.0,
       "published_iso": "2026-11-15T11:29:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-game-recap-rams-blow-out-cardinals-34-6-for-fourth-straight-win",
-      "title": "Game Recap: Rams blow out Cardinals 34-6 for fourth-straight win",
-      "link": "https://therams.com/news/game-recap-rams-blow-out-cardinals-34-6-for-fourth-straight-win",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1794733260.0,
-      "published_iso": "2026-11-15T09:01:00+00:00"
     }
   ]
 }
