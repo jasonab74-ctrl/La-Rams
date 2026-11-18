@@ -1,14 +1,14 @@
 {
-  "updated_iso": "2026-11-18T03:13:42.828519+00:00",
-  "count": 4,
+  "updated_iso": "2026-11-18T11:58:29.511343+00:00",
+  "count": 3,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-kyren-williams-gets-honest-ronnie-022024724-html",
-      "title": "Kyren Williams Gets Honest About Ronnie Rivers’ Breakout Rams Day",
-      "link": "https://sports.yahoo.com/articles/kyren-williams-gets-honest-ronnie-022024724.html",
-      "source": "Yahoo Sports",
-      "ts": 1794939660.0,
-      "published_iso": "2026-11-17T18:21:00+00:00"
+      "id": "https-espn-com-nfl-story-id-50512215-rams-bye-rest-ramp-week-11",
+      "title": "A Rams bye means time for rest and ramping up",
+      "link": "https://espn.com/nfl/story/_/id/50512215/rams-bye-rest-ramp-week-11",
+      "source": "ESPN",
+      "ts": 1794970860.0,
+      "published_iso": "2026-11-18T03:01:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-announce-bad-041652830-html",
@@ -19,20 +19,12 @@
       "published_iso": "2026-11-16T20:16:00+00:00"
     },
     {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1794385500.0,
-      "published_iso": "2026-11-11T08:25:00+00:00"
-    },
-    {
-      "id": "https-nfl-com-news-rams-49ers-on-thursday-night-football-what-we-learned-from-los-angeles-12-6-win",
-      "title": "Rams-49ers on 'Thursday Night Football': What We Learned from Los Angeles' 12-6 win",
-      "link": "https://nfl.com/news/rams-49ers-on-thursday-night-football-what-we-learned-from-los-angeles-12-6-win",
-      "source": "NFL.com",
-      "ts": 1734033840.0,
-      "published_iso": "2024-12-12T20:04:00+00:00"
+      "id": "https-sports-yahoo-com-articles-rams-vs-cardinals-analytics-week-193000652-html",
+      "title": "Rams vs. Cardinals Analytics Week 10: Where Los Angeles Has the Edge by EPA",
+      "link": "https://sports.yahoo.com/articles/rams-vs-cardinals-analytics-week-193000652.html",
+      "source": "Yahoo Sports",
+      "ts": 1794742140.0,
+      "published_iso": "2026-11-15T11:29:00+00:00"
     }
   ]
 }
