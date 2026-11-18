@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-11-18T11:58:29.511343+00:00",
+  "updated_iso": "2026-11-18T19:52:51.709902+00:00",
   "count": 3,
   "items": [
     {
-      "id": "https-espn-com-nfl-story-id-50512215-rams-bye-rest-ramp-week-11",
-      "title": "A Rams bye means time for rest and ramping up",
-      "link": "https://espn.com/nfl/story/_/id/50512215/rams-bye-rest-ramp-week-11",
-      "source": "ESPN",
-      "ts": 1794970860.0,
-      "published_iso": "2026-11-18T03:01:00+00:00"
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-11-18-nfl-insider-says-theres-a-scenario-where-rams-dont-keep-",
+      "title": "NFL insider says there’s ‘a scenario’ where Rams don’t keep Puka Nacua",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/11/18/nfl-insider-says-theres-a-scenario-where-rams-dont-keep-puka-nacua/92843447007/",
+      "source": "Rams Wire",
+      "ts": 1794990000.0,
+      "published_iso": "2026-11-18T08:20:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-foundation-unveils-community-house-shops-of-hollywood-park-with-support-from-goo",
+      "title": "Los Angeles Rams Foundation unveils \"Rams Community House\" at the shops of Hollywood Park with support from Google.org",
+      "link": "https://therams.com/news/los-angeles-rams-foundation-unveils-community-house-shops-of-hollywood-park-with-support-from-google-org",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1794963600.0,
+      "published_iso": "2026-11-18T01:00:00+00:00"
     },
     {
       "id": "https-sports-yahoo-com-articles-los-angeles-rams-announce-bad-041652830-html",
@@ -17,14 +25,6 @@
       "source": "Yahoo Sports",
       "ts": 1794860160.0,
       "published_iso": "2026-11-16T20:16:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-rams-vs-cardinals-analytics-week-193000652-html",
-      "title": "Rams vs. Cardinals Analytics Week 10: Where Los Angeles Has the Edge by EPA",
-      "link": "https://sports.yahoo.com/articles/rams-vs-cardinals-analytics-week-193000652.html",
-      "source": "Yahoo Sports",
-      "ts": 1794742140.0,
-      "published_iso": "2026-11-15T11:29:00+00:00"
     }
   ]
 }
