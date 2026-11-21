@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-11-21T11:51:07.464935+00:00",
-  "count": 1,
+  "updated_iso": "2026-11-21T18:19:51.565361+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1794385500.0,
-      "published_iso": "2026-11-11T08:25:00+00:00"
+      "id": "https-sports-yahoo-com-articles-nfl-letter-says-rams-wr-141904139-html",
+      "title": "NFL Letter Says Rams WR Puka Nacua Bit Woman 'Without Invitation or Consent'",
+      "link": "https://sports.yahoo.com/articles/nfl-letter-says-rams-wr-141904139.html",
+      "source": "Yahoo Sports",
+      "ts": 1795242000.0,
+      "published_iso": "2026-11-21T06:20:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-vs-green-bay-packers-how-to-watch-listen-to-and-live-stream-week-12-2026",
+      "title": "Los Angeles Rams vs. Green Bay Packers: How to watch, listen to and live stream Week 12",
+      "link": "https://therams.com/news/los-angeles-rams-vs-green-bay-packers-how-to-watch-listen-to-and-live-stream-week-12-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1795226520.0,
+      "published_iso": "2026-11-21T02:02:00+00:00"
     }
   ]
 }
