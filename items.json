@@ -1,7 +1,15 @@
 {
-  "updated_iso": "2026-11-22T18:43:59.629346+00:00",
-  "count": 2,
+  "updated_iso": "2026-11-22T23:55:02.432903+00:00",
+  "count": 3,
   "items": [
+    {
+      "id": "https-sports-yahoo-com-articles-rams-season-isnt-cooked-yet-185142722-html",
+      "title": "The Rams' Season Isn't Cooked Yet, Even Without Puka Nacua",
+      "link": "https://sports.yahoo.com/articles/rams-season-isnt-cooked-yet-185142722.html",
+      "source": "Yahoo Sports",
+      "ts": 1795344660.0,
+      "published_iso": "2026-11-22T10:51:00+00:00"
+    },
     {
       "id": "https-sports-yahoo-com-articles-nfl-hands-down-punishment-decision-024133709-html",
       "title": "NFL Hands Down Punishment Decision Over Los Angeles Rams Game",
