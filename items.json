@@ -1,38 +1,22 @@
 {
-  "updated_iso": "2026-11-23T15:01:08.627538+00:00",
-  "count": 4,
+  "updated_iso": "2026-11-24T02:24:24.605528+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-11-23-nfl-playoff-picture-rams-packers-nfc-standings-929234430",
-      "title": "NFC playoff picture: Where do Rams stand ahead of pivotal Week 12 game?",
-      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/11/23/nfl-playoff-picture-rams-packers-nfc-standings/92923443007/",
-      "source": "Rams Wire",
-      "ts": 1795416000.0,
-      "published_iso": "2026-11-23T06:40:00+00:00"
+      "id": "https-sports-yahoo-com-articles-pass-gravy-rams-turn-packers-013405727-html",
+      "title": "Pass the gravy",
+      "link": "https://sports.yahoo.com/articles/pass-gravy-rams-turn-packers-013405727.html",
+      "source": "Rams turn Packers game into a Thanksgiving feast",
+      "ts": 1795449600.0,
+      "published_iso": "2026-11-23T16:00:00+00:00"
     },
     {
-      "id": "https-espn-com-fantasy-football-story-page-ffwaiverwirepickup-50572280-fantasy-football-waivers-free-agent-pickups-nfl-w",
-      "title": "Fantasy football free agent pickups: Grab your Rams and Packers quickly",
-      "link": "https://espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50572280/fantasy-football-waivers-free-agent-pickups-nfl-week-12",
-      "source": "ESPN",
-      "ts": 1795415880.0,
-      "published_iso": "2026-11-23T06:38:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-articles-green-bay-packers-receive-best-130031205-html",
-      "title": "Green Bay Packers receive best injury news of the season ahead of Rams game",
-      "link": "https://sports.yahoo.com/articles/green-bay-packers-receive-best-130031205.html",
-      "source": "Yahoo Sports",
-      "ts": 1795410000.0,
-      "published_iso": "2026-11-23T05:00:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-vs-green-bay-packers-how-to-watch-listen-to-and-live-stream-week-12-2026",
-      "title": "Los Angeles Rams vs. Green Bay Packers: How to watch, listen to and live stream Week 12",
-      "link": "https://therams.com/news/los-angeles-rams-vs-green-bay-packers-how-to-watch-listen-to-and-live-stream-week-12-2026",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1795226520.0,
-      "published_iso": "2026-11-21T02:02:00+00:00"
+      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
+      "title": "LOS ANGELES RAMS NEWS",
+      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
+      "source": "FOX Sports",
+      "ts": 1794385500.0,
+      "published_iso": "2026-11-11T08:25:00+00:00"
     }
   ]
 }
