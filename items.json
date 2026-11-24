@@ -1,14 +1,22 @@
 {
-  "updated_iso": "2026-11-24T12:42:10.019041+00:00",
-  "count": 1,
+  "updated_iso": "2026-11-24T22:48:36.082503+00:00",
+  "count": 2,
   "items": [
     {
-      "id": "https-therams-com-news-los-angeles-rams-vs-green-bay-packers-how-to-watch-listen-to-and-live-stream-week-12-2026",
-      "title": "Los Angeles Rams vs. Green Bay Packers: How to watch, listen to and live stream Week 12",
-      "link": "https://therams.com/news/los-angeles-rams-vs-green-bay-packers-how-to-watch-listen-to-and-live-stream-week-12-2026",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1795226520.0,
-      "published_iso": "2026-11-21T02:02:00+00:00"
+      "id": "https-apnews-com-article-rams-packers-preview-269f10fbf5ae8329fdfeef9ebc889c16",
+      "title": "Myles Garrett, Micah Parsons ready for spotlight when Rams host Packers on Thanksgiving Eve",
+      "link": "https://apnews.com/article/rams-packers-preview-269f10fbf5ae8329fdfeef9ebc889c16",
+      "source": "AP News",
+      "ts": 1795523640.0,
+      "published_iso": "2026-11-24T12:34:00+00:00"
+    },
+    {
+      "id": "https-si-com-nfl-rams-onsi-rams-myles-garrett-knee-injury-concerns-playoff-push",
+      "title": "Myles Garrett’s Knee Injury Remains a Concern as Rams Enter Critical Stretch",
+      "link": "https://si.com/nfl/rams/onsi/rams-myles-garrett-knee-injury-concerns-playoff-push",
+      "source": "Sports Illustrated",
+      "ts": 1795516920.0,
+      "published_iso": "2026-11-24T10:42:00+00:00"
     }
   ]
 }
