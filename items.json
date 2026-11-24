@@ -1,22 +1,14 @@
 {
-  "updated_iso": "2026-11-24T02:24:24.605528+00:00",
-  "count": 2,
+  "updated_iso": "2026-11-24T12:42:10.019041+00:00",
+  "count": 1,
   "items": [
     {
-      "id": "https-sports-yahoo-com-articles-pass-gravy-rams-turn-packers-013405727-html",
-      "title": "Pass the gravy",
-      "link": "https://sports.yahoo.com/articles/pass-gravy-rams-turn-packers-013405727.html",
-      "source": "Rams turn Packers game into a Thanksgiving feast",
-      "ts": 1795449600.0,
-      "published_iso": "2026-11-23T16:00:00+00:00"
-    },
-    {
-      "id": "https-foxsports-com-nfl-los-angeles-rams-team",
-      "title": "LOS ANGELES RAMS NEWS",
-      "link": "https://foxsports.com/nfl/los-angeles-rams-team",
-      "source": "FOX Sports",
-      "ts": 1794385500.0,
-      "published_iso": "2026-11-11T08:25:00+00:00"
+      "id": "https-therams-com-news-los-angeles-rams-vs-green-bay-packers-how-to-watch-listen-to-and-live-stream-week-12-2026",
+      "title": "Los Angeles Rams vs. Green Bay Packers: How to watch, listen to and live stream Week 12",
+      "link": "https://therams.com/news/los-angeles-rams-vs-green-bay-packers-how-to-watch-listen-to-and-live-stream-week-12-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1795226520.0,
+      "published_iso": "2026-11-21T02:02:00+00:00"
     }
   ]
 }
