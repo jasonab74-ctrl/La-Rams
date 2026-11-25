@@ -1,38 +1,54 @@
 {
-  "updated_iso": "2026-11-25T05:06:08.628441+00:00",
-  "count": 4,
+  "updated_iso": "2026-11-25T15:50:04.490109+00:00",
+  "count": 6,
   "items": [
     {
-      "id": "https-sports-yahoo-com-betting-articles-packers-vs-rams-player-props-030057902-html",
-      "title": "Packers vs Rams Player Props for Kyren Williams, Matthew Golden, Kaleb Johnson",
-      "link": "https://sports.yahoo.com/betting/articles/packers-vs-rams-player-props-030057902.html",
+      "id": "https-cbssports-com-prediction-news-rams-vs-packers-prediction-odds-picks-use-kalshi-promo-code-cbssports55-for-55-bonus",
+      "title": "Rams vs. Packers prediction, odds, picks: Use Kalshi promo code CBSSPORTS55 for $55 bonus, Thanksgiving Eve",
+      "link": "https://cbssports.com/prediction/news/rams-vs-packers-prediction-odds-picks-use-kalshi-promo-code-cbssports55-for-55-bonus-thanksgiving-eve/",
+      "source": "CBS Sports",
+      "ts": 1795591320.0,
+      "published_iso": "2026-11-25T07:22:00+00:00"
+    },
+    {
+      "id": "https-theramswire-usatoday-com-story-sports-nfl-rams-2026-11-25-rams-dime-defense-nfl-trend-usage-92954655007",
+      "title": "Rams leaning heavily into defensive scheme that rest of NFL is abandoning",
+      "link": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/11/25/rams-dime-defense-nfl-trend-usage/92954655007/",
+      "source": "Rams Wire",
+      "ts": 1795588980.0,
+      "published_iso": "2026-11-25T06:43:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-nfl-articles-3-biggest-storylines-rams-vs-143035909-html",
+      "title": "3 biggest storylines for Rams vs. Packers tonight",
+      "link": "https://sports.yahoo.com/nfl/articles/3-biggest-storylines-rams-vs-143035909.html",
       "source": "Yahoo Sports",
-      "ts": 1795535940.0,
-      "published_iso": "2026-11-24T15:59:00+00:00"
+      "ts": 1795588200.0,
+      "published_iso": "2026-11-25T06:30:00+00:00"
     },
     {
-      "id": "https-therams-com-news-top-rams-news-previews-and-predictions-for-rams-vs-packers-on-thanksgiving-eve-at-sofi-stadium-fo",
-      "title": "Top Rams News: Previews and predictions for Rams vs Packers on Thanksgiving Eve at SoFi Stadium for Week 12",
-      "link": "https://therams.com/news/top-rams-news-previews-and-predictions-for-rams-vs-packers-on-thanksgiving-eve-at-sofi-stadium-for-week-12-2026",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1795513140.0,
-      "published_iso": "2026-11-24T09:39:00+00:00"
-    },
-    {
-      "id": "https-sports-yahoo-com-nfl-articles-green-bay-packers-3-players-164358773-html",
-      "title": "Green Bay Packers: 3 players to watch in Week 12 Thanksgiving Eve matchup vs Los Angeles Rams",
-      "link": "https://sports.yahoo.com/nfl/articles/green-bay-packers-3-players-164358773.html",
+      "id": "https-sports-yahoo-com-nfl-articles-green-bay-packers-roster-jersey-142228912-html",
+      "title": "Green Bay Packers roster, jersey numbers for Week 12 game vs Los Angeles Rams",
+      "link": "https://sports.yahoo.com/nfl/articles/green-bay-packers-roster-jersey-142228912.html",
       "source": "Yahoo Sports",
-      "ts": 1795509720.0,
-      "published_iso": "2026-11-24T08:42:00+00:00"
+      "ts": 1795587780.0,
+      "published_iso": "2026-11-25T06:23:00+00:00"
     },
     {
-      "id": "https-therams-com-news-los-angeles-rams-vs-green-bay-packers-how-to-watch-listen-to-and-live-stream-week-12-2026",
-      "title": "Los Angeles Rams vs. Green Bay Packers: How to watch, listen to and live stream Week 12",
-      "link": "https://therams.com/news/los-angeles-rams-vs-green-bay-packers-how-to-watch-listen-to-and-live-stream-week-12-2026",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1795226520.0,
-      "published_iso": "2026-11-21T02:02:00+00:00"
+      "id": "https-si-com-betting-packers-vs-rams-best-nfl-prop-bets-for-thanksgiving-eve-in-week-12-bet-on-matthew-golden",
+      "title": "Packers vs. Rams Best NFL Prop Bets for Thanksgiving Eve in Week 12 (Bet on Matthew Golden)",
+      "link": "https://si.com/betting/packers-vs-rams-best-nfl-prop-bets-for-thanksgiving-eve-in-week-12-bet-on-matthew-golden",
+      "source": "Sports Illustrated",
+      "ts": 1795577400.0,
+      "published_iso": "2026-11-25T03:30:00+00:00"
+    },
+    {
+      "id": "https-si-com-betting-kyren-williams-injury-update-betting-impact-for-packers-vs-rams-in-nfl-week-12-2026",
+      "title": "Is Kyren Williams Playing Tonight? (Injury Update, Betting Impact for Packers vs. Rams in NFL Week 12)",
+      "link": "https://si.com/betting/kyren-williams-injury-update-betting-impact-for-packers-vs-rams-in-nfl-week-12-2026",
+      "source": "Sports Illustrated",
+      "ts": 1795576500.0,
+      "published_iso": "2026-11-25T03:15:00+00:00"
     }
   ]
 }
