@@ -1,22 +1,38 @@
 {
-  "updated_iso": "2026-11-24T22:48:36.082503+00:00",
-  "count": 2,
+  "updated_iso": "2026-11-25T05:06:08.628441+00:00",
+  "count": 4,
   "items": [
     {
-      "id": "https-apnews-com-article-rams-packers-preview-269f10fbf5ae8329fdfeef9ebc889c16",
-      "title": "Myles Garrett, Micah Parsons ready for spotlight when Rams host Packers on Thanksgiving Eve",
-      "link": "https://apnews.com/article/rams-packers-preview-269f10fbf5ae8329fdfeef9ebc889c16",
-      "source": "AP News",
-      "ts": 1795523640.0,
-      "published_iso": "2026-11-24T12:34:00+00:00"
+      "id": "https-sports-yahoo-com-betting-articles-packers-vs-rams-player-props-030057902-html",
+      "title": "Packers vs Rams Player Props for Kyren Williams, Matthew Golden, Kaleb Johnson",
+      "link": "https://sports.yahoo.com/betting/articles/packers-vs-rams-player-props-030057902.html",
+      "source": "Yahoo Sports",
+      "ts": 1795535940.0,
+      "published_iso": "2026-11-24T15:59:00+00:00"
     },
     {
-      "id": "https-si-com-nfl-rams-onsi-rams-myles-garrett-knee-injury-concerns-playoff-push",
-      "title": "Myles Garrett’s Knee Injury Remains a Concern as Rams Enter Critical Stretch",
-      "link": "https://si.com/nfl/rams/onsi/rams-myles-garrett-knee-injury-concerns-playoff-push",
-      "source": "Sports Illustrated",
-      "ts": 1795516920.0,
-      "published_iso": "2026-11-24T10:42:00+00:00"
+      "id": "https-therams-com-news-top-rams-news-previews-and-predictions-for-rams-vs-packers-on-thanksgiving-eve-at-sofi-stadium-fo",
+      "title": "Top Rams News: Previews and predictions for Rams vs Packers on Thanksgiving Eve at SoFi Stadium for Week 12",
+      "link": "https://therams.com/news/top-rams-news-previews-and-predictions-for-rams-vs-packers-on-thanksgiving-eve-at-sofi-stadium-for-week-12-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1795513140.0,
+      "published_iso": "2026-11-24T09:39:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-nfl-articles-green-bay-packers-3-players-164358773-html",
+      "title": "Green Bay Packers: 3 players to watch in Week 12 Thanksgiving Eve matchup vs Los Angeles Rams",
+      "link": "https://sports.yahoo.com/nfl/articles/green-bay-packers-3-players-164358773.html",
+      "source": "Yahoo Sports",
+      "ts": 1795509720.0,
+      "published_iso": "2026-11-24T08:42:00+00:00"
+    },
+    {
+      "id": "https-therams-com-news-los-angeles-rams-vs-green-bay-packers-how-to-watch-listen-to-and-live-stream-week-12-2026",
+      "title": "Los Angeles Rams vs. Green Bay Packers: How to watch, listen to and live stream Week 12",
+      "link": "https://therams.com/news/los-angeles-rams-vs-green-bay-packers-how-to-watch-listen-to-and-live-stream-week-12-2026",
+      "source": "Los Angeles Rams (Official)",
+      "ts": 1795226520.0,
+      "published_iso": "2026-11-21T02:02:00+00:00"
     }
   ]
 }
