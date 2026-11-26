@@ -1,38 +1,46 @@
 {
-  "updated_iso": "2026-11-25T23:49:46.039476+00:00",
-  "count": 4,
+  "updated_iso": "2026-11-26T05:38:38.235440+00:00",
+  "count": 5,
   "items": [
     {
-      "id": "https-cbssports-com-betting-news-nfl-dfs-rams-packers-daily-fantasy-football-fanduel-draftkings-lineup-picks-for-thanksg",
-      "title": "NFL DFS, Rams vs. Packers: Top daily Fantasy football picks, lineups, advice for NFL on Thanksgiving Eve",
-      "link": "https://cbssports.com/betting/news/nfl-dfs-rams-packers-daily-fantasy-football-fanduel-draftkings-lineup-picks-for-thanksgiving-eve-2026/",
+      "id": "https-cbssports-com-nfl-news-blake-corum-rushes-for-184-yards-as-rams-power-past-packers-26-13",
+      "title": "Blake Corum rushes for 184 yards as Rams power past Packers 26-13",
+      "link": "https://cbssports.com/nfl/news/blake-corum-rushes-for-184-yards-as-rams-power-past-packers-26-13/",
       "source": "CBS Sports",
-      "ts": 1795621140.0,
-      "published_iso": "2026-11-25T15:39:00+00:00"
+      "ts": 1795641660.0,
+      "published_iso": "2026-11-25T21:21:00+00:00"
     },
     {
-      "id": "https-cbssports-com-prediction-news-packers-vs-rams-predictions-odds-2026-thanksgiving-eve-use-polymarket-promo-code-cbs",
-      "title": "Packers vs. Rams predictions, odds, 2026 Thanksgiving Eve: Use Polymarket promo code CBSSPORTS for $25 bonus",
-      "link": "https://cbssports.com/prediction/news/packers-vs-rams-predictions-odds-2026-thanksgiving-eve-use-polymarket-promo-code-cbssports-for-25-bonus/",
-      "source": "CBS Sports",
-      "ts": 1795619400.0,
-      "published_iso": "2026-11-25T15:10:00+00:00"
+      "id": "https-nfl-com-videos-lewis-rams-and-packers-swapped-positions-in-nfc-playoff-picture-after-wednesday-s-game-nfl-gameday-",
+      "title": "Lewis: Rams and Packers swapped positions in NFC playoff picture after Wednesday's game | 'NFL GameDay Final'",
+      "link": "https://nfl.com/videos/lewis-rams-and-packers-swapped-positions-in-nfc-playoff-picture-after-wednesday-s-game-nfl-gameday-final",
+      "source": "NFL.com",
+      "ts": 1795641360.0,
+      "published_iso": "2026-11-25T21:16:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-nfl-articles-nfl-insider-skeptical-puka-nacua-210758526-html",
-      "title": "NFL Insider Skeptical of Puka Nacua’s Future with Los Angeles Rams",
-      "link": "https://sports.yahoo.com/nfl/articles/nfl-insider-skeptical-puka-nacua-210758526.html",
+      "id": "https-nfl-com-videos-brandon-mcmanus-30-yard-fg-boosts-rams-lead-to-26-13-against-packers-on-thanksgiving-eve",
+      "title": "Brandon McManus' 30-yard FG boosts Rams' lead to 26-13 against Packers on Thanksgiving Eve",
+      "link": "https://nfl.com/videos/brandon-mcmanus-30-yard-fg-boosts-rams-lead-to-26-13-against-packers-on-thanksgiving-eve",
+      "source": "NFL.com",
+      "ts": 1795639140.0,
+      "published_iso": "2026-11-25T20:39:00+00:00"
+    },
+    {
+      "id": "https-sports-yahoo-com-nfl-articles-rams-wide-receiver-puka-nacua-020916661-html",
+      "title": "Rams’ Wide Receiver Puka Nacua’s Latest Injury Update Complicates His Future in LA",
+      "link": "https://sports.yahoo.com/nfl/articles/rams-wide-receiver-puka-nacua-020916661.html",
       "source": "Yahoo Sports",
-      "ts": 1795612020.0,
-      "published_iso": "2026-11-25T13:07:00+00:00"
+      "ts": 1795622400.0,
+      "published_iso": "2026-11-25T16:00:00+00:00"
     },
     {
-      "id": "https-sports-yahoo-com-nfl-articles-packers-vs-rams-green-bays-163047659-html",
-      "title": "Packers Vs. Rams: Green Bay's Passing Attack Could Expose Los Angeles' Biggest Weakness",
-      "link": "https://sports.yahoo.com/nfl/articles/packers-vs-rams-green-bays-163047659.html",
+      "id": "https-sports-yahoo-com-nfl-articles-tst-images-rams-defeat-packers-052621795-html",
+      "title": "TST Images: Rams defeat Packers, 26-13, at SoFi Stadium",
+      "link": "https://sports.yahoo.com/nfl/articles/tst-images-rams-defeat-packers-052621795.html",
       "source": "Yahoo Sports",
-      "ts": 1795595340.0,
-      "published_iso": "2026-11-25T08:29:00+00:00"
+      "ts": 1795622400.0,
+      "published_iso": "2026-11-25T16:00:00+00:00"
     }
   ]
 }
