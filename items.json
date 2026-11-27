@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-26T15:52:58.360344+00:00",
-  "count": 2,
+  "updated_iso": "2026-11-27T00:07:22.299943+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-nfl-com-news-packers-rams-on-wednesday-night-what-we-learned-from-los-angeles-26-13-win-over-green-bay",
@@ -9,14 +9,6 @@
       "source": "NFL.com",
       "ts": 1795638600.0,
       "published_iso": "2026-11-25T20:30:00+00:00"
-    },
-    {
-      "id": "https-bleacherreport-com-articles-25537881-everything-stafford-mcvay-said-about-rams-win-vs-packers-1st-ever-nfl-thanksg",
-      "title": "Everything Stafford, McVay Said About Rams' Win vs. Packers in 1st-Ever NFL Thanksgiving Eve Game",
-      "link": "https://bleacherreport.com/articles/25537881-everything-stafford-mcvay-said-about-rams-win-vs-packers-1st-ever-nfl-thanksgiving-eve-game",
-      "source": "Bleacher Report",
-      "ts": 1795635600.0,
-      "published_iso": "2026-11-25T19:40:00+00:00"
     }
   ]
 }
