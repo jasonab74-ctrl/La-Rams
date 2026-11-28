@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-27T18:31:03.482601+00:00",
-  "count": 2,
+  "updated_iso": "2026-11-28T01:41:38.044548+00:00",
+  "count": 1,
   "items": [
     {
       "id": "https-nfl-com-news-packers-rams-on-wednesday-night-what-we-learned-from-los-angeles-26-13-win-over-green-bay",
@@ -9,14 +9,6 @@
       "source": "NFL.com",
       "ts": 1795638600.0,
       "published_iso": "2026-11-25T20:30:00+00:00"
-    },
-    {
-      "id": "https-therams-com-news-los-angeles-rams-vs-green-bay-packers-how-to-watch-listen-to-and-live-stream-week-12-2026",
-      "title": "Los Angeles Rams vs. Green Bay Packers: How to watch, listen to and live stream Week 12",
-      "link": "https://therams.com/news/los-angeles-rams-vs-green-bay-packers-how-to-watch-listen-to-and-live-stream-week-12-2026",
-      "source": "Los Angeles Rams (Official)",
-      "ts": 1795564800.0,
-      "published_iso": "2026-11-25T00:00:00+00:00"
     }
   ]
 }
